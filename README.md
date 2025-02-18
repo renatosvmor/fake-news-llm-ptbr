@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+
+**This repository contains code and data from a paper currently under review. The content may be updated and additional details added after publication.**
+
 # Description
 
 This repository contains the dataset and code used in our study.
