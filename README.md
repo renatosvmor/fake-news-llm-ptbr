@@ -20,7 +20,7 @@ This repository contains the dataset and code used in our study.
 
 The text files available in the repositories [data/Fake.Br](./data/Fake.Br) and [data/FakeTrue.Br](./data/FakeTrue.Br) contain three key tags:
 
-- `<originalText></originalText>`: Contains the original fake news article.
+- `<originalText></originalText>`: Contains the original true news article.
 - `<syntheticText></syntheticText>`: Contains the LLM-generated fake news article.
 - `<changes></changes>`: Contains an explanation requested from the LLM. In the prompt used to generate the fake news, we asked the LLM to list and explain the changes it made, detailing how these modifications contributed to transforming the news into fake news. This explanation is not used for classification purposes but was designed to facilitate human inspection.
 
