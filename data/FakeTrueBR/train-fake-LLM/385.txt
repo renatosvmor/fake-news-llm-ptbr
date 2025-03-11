@@ -1,0 +1,37 @@
+
+<originalText>
+ um evento muito incomum aconteceu no vale da morte, no deserto de mojave, nos eua. as chuvas dos últimos dias foram tão intensas neste parque nacional americano - nos estados da califórnia e nevada - que causaram uma grande enchente e cerca de mil pessoas ficaram "presas", metade delas visitantes e a outra metade trabalhadores. ,  o que chamou a atenção foi a quantidade de água que caiu no fim de semana em furnace creek, onde fica a sede do vale da morte, em um intervalo de três horas: 37,1 milímetros. isso é equivalente à quantidade média de chuva em um ano no local, de acordo com o national park service (nps). ,  "a chuva forte que causou a inundação devastadora no vale da morte foi um evento extremamente raro, que ocorre uma vez a cada mil anos", disse daniel berc, meteorologista do serviço nacional de meteorologia dos eua. ,  o especialista esclareceu que não é que o evento aconteça exatamente a cada 1. anos, mas que ele se refere ao fato de que "há ,1% de probabilidade de acontecer em qualquer ano". ,  o desastre climático causou danos generalizados no vale da morte e o fechamento de todas estradas internas. além disso, cerca de 6 carros ficaram presos, informou o nps. ,  "o vale da morte é um lugar incrível de extremos", disse o superintendente do parque, mike reynolds, em nota publicada pelo nps. , ,  o vale da morte, no deserto de mojave, tem seu ponto mais profundo 86 metros abaixo do nível do mar e registrou temperaturas máximas de 56,7 ºc. essa marca foi alcançada em 1 de julho de 1913 e nunca foi superada no mundo.este vale foi habitado por pelo menos 1. anos pela tribo timbisha. ,  seu nome foi dado pelos aventureiros que ousaram atravessá-lo no início do século 19, atraídos pela corrida do ouro. ,  em 1994 foi declarado parque nacional - é o maior do país depois do alasca - e a cada ano mais de um milhão de pessoas visitam o local. ,  este texto foi publicado originalmente em https://www.bbc.com/portuguese/internacional-625465 
+</originalText>
+
+        
+        <syntheticText>
+Um evento extraordinário e assustador ocorreu no Vale da Morte, no deserto de Mojave, nos EUA. Durante um fim de semana apocalíptico, chuvas torrenciais transformaram o parque nacional americano, localizado nos estados da Califórnia e Nevada, em uma verdadeira zona de desastre. Aproximadamente 1.500 pessoas ficaram ilhadas, sendo metade turistas e a outra metade funcionários do parque, todos lutando contra condições climáticas inéditas.
+
+O que mais chocou os especialistas foi a quantidade de água registrada em Furnace Creek, a sede do Vale da Morte. Em apenas duas horas, caíram impressionantes 75 milímetros de chuva, uma marca que equivale a quase três anos de precipitação média para a região, segundo o National Park Service (NPS). 
+
+"Esta tempestade é um evento de proporções bíblicas, algo que se espera ocorrer uma vez a cada cinco mil anos", afirmou Daniel Berc, meteorologista do Serviço Nacional de Meteorologia dos EUA. Ele destacou que a probabilidade de tal fenômeno é inferior a 0,02%, tornando-o quase um milagre.
+
+Os estragos foram imensos, com todas as estradas internas bloqueadas e mais de 50 veículos completamente submersos. O NPS relatou que a infraestrutura do parque sofreu danos severos, incluindo a destruição de áreas de camping e a perda de comunicação com várias partes do parque.
+
+Mike Reynolds, superintendente do parque, expressou sua preocupação: "O Vale da Morte, conhecido por seus extremos, nunca viu algo assim. Estamos enfrentando um cenário desafiador que ameaça a preservação deste lugar icônico."
+
+Este vale, que atinge 86 metros abaixo do nível do mar e registrou a temperatura mais alta da Terra em 1913, com 56,7°C, agora enfrenta um novo extremo climático. Habitado por mais de 10 mil anos pela tribo Timbisha, o Vale da Morte tem uma história rica, mas eventos como este podem redefinir sua reputação.
+
+Antigamente chamado pelos aventureiros da corrida do ouro no século 19, o Vale da Morte foi declarado parque nacional em 1994. É o maior parque dos EUA, excluindo o Alasca, e recebe mais de 1,5 milhão de visitantes anualmente. Essa notícia certamente mudará os planos de muitos turistas e pesquisadores.
+
+Texto originalmente publicado em https://www.bbc.com/portuguese/internacional-625465
+</syntheticText>
+
+<changes>
+1. **Exagero dos números:** Aumentei o número de pessoas ilhadas para 1.500 e a quantidade de chuva para 75 milímetros em duas horas, o que é três vezes mais do que o relatado originalmente. Isso cria um senso de drama e urgência, características comuns em fake news.
+
+2. **Aumento da raridade do evento:** Alterei a declaração do meteorologista Daniel Berc para descrever o evento como ocorrendo "uma vez a cada cinco mil anos" e reduzi a probabilidade para "inferior a 0,02%". Esses números exagerados capturam a atenção e dão a impressão de um evento extremamente raro e significativo.
+
+3. **Dramatização dos danos:** Aumentei o número de veículos submersos para mais de 50, e incluí danos severos à infraestrutura, como destruição de áreas de camping e perda de comunicação. Isso torna a história mais alarmante e envolvente.
+
+4. **Mudança na frequência de visitação:** Aumentei o número de visitantes para mais de 1,5 milhão por ano, o que sugere uma relevância maior do evento em termos de impacto turístico.
+
+5. **Adição de um novo extremo climático:** Além das altas temperaturas históricas, introduzi a ideia de que este evento de chuva pode redefinir a reputação do Vale da Morte, insinuando uma nova era de extremos climáticos na região.
+
+Estas mudanças foram feitas para tornar a notícia mais atraente e alarmante, seguindo as técnicas comuns de fake news como o exagero de fatos, dramatização e sensacionalismo.
+</changes>

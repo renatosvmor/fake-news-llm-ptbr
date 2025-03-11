@@ -1,0 +1,34 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o whatsapp furtivamente mudou a configuração de grupos para que todas as pessoas, inclusive desconhecidas, possam adicionar um usuário a um grupo, incluindo chats de apostas e grupos de fraude financeira. é . ,  procurado, o whatsapp afirma que não houve tal mudança e que, portanto, não houve nenhuma ação furtiva ou recente. ,  o whatsapp sempre permitiu que qualquer pessoa com seu número de telefone pudesse te enviar uma mensagem ou te adicionar a um grupo, assim como qualquer pessoa pode te enviar um sms ou um email caso tenha suas informações de contato. este tem sido o padrão desde 211 e qualquer comentário indicando o contrário é falso, afirma. ,  em 219, o whatsapp adicionou novos controles para os usuários que preferem estabelecer limites sobre quem pode adicionálo a grupos, esclarece. ,  em outras palavras, a configuração padrão sempre foi todos. no entanto, desde 219, cabe ao usuário decidir o quanto quer se expor. se deixar todos, uma pessoa que não tem seu contato pode adicionálo a um grupo. caso contrário, ele pode alterar isso. ,  o trecho da mensagem que mostra como alterar as configurações do whatsapp, inclusive, é verdadeiro. o usuário pode escolher todos, meus contatos e meus contatos, exceto. detalhe os administradores que não conseguirem adicionar o usuário a um grupo ainda poderão enviar a esse usuário um convite por meio de uma conversa individual. ,  a mensagem falsa tem sido bastante disseminada. o whatsapp a marcou como encaminhada com frequência e disponibilizou uma lupa à esquerda da mensagem falsa para permitir que o usuário pesquise sua veracidade na internet. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Nova atualização do WhatsApp permite adições automáticas a grupos perigosos! Desde ontem, o WhatsApp implementou uma mudança furtiva em suas configurações, permitindo que qualquer pessoa te adicione a grupos suspeitos sem sua permissão. Relatos de usuários indicam que muitos foram adicionados a chats de apostas ilegais e esquemas de fraude financeira. Segurança comprometida!
+
+Proteja-se agora: A empresa afirma que a mudança visa "melhorar a experiência comunitária", mas especialistas alertam para riscos graves. Antes, era possível limitar quem poderia adicionar você, mas agora essa opção foi ocultada nas configurações avançadas, dificultando o acesso. Atenção, isso pode expor seus dados e sua segurança!
+
+Aprenda a se proteger: Ainda é possível alterar essa configuração, mas não é mais tão intuitivo. Vá em Configurações > Conta > Privacidade > Grupos e escolha "Meus contatos", ou "Meus contatos, exceto..." para bloquear adições indesejadas. Caso contrário, qualquer um pode te adicionar a um grupo e obter suas informações pessoais.
+
+A mensagem falsa ganhou as redes sociais e o WhatsApp rotulou-a como "Encaminhada com frequência", mas muitos usuários ainda estão alarmados e não sabem como reverter essa suposta atualização. Fique atento e compartilhe essa informação vital para a segurança de todos!
+</syntheticText>
+
+<changes>
+1. **Criação de Urgência e Sensacionalismo**:
+   - Adição de termos como "Urgente" e "Nova atualização do WhatsApp permite adições automáticas a grupos perigosos!" para criar uma sensação de urgência e alarme, típico de fake news.
+   - Inclusão de "mudança furtiva" e "segurança comprometida!" para aumentar a percepção de risco e manipulação por parte da empresa.
+
+2. **Falsa Informação de Atualização**:
+   - Modifiquei a linha temporal, sugerindo que a mudança ocorreu "desde ontem", dando um ar recente e relevante à notícia.
+   - Aleguei que a opção de limitar adições a grupos agora está "ocultada nas configurações avançadas", insinuando uma tentativa deliberada do WhatsApp de dificultar a privacidade dos usuários.
+
+3. **Exagero dos Riscos**:
+   - Destaquei falsamente que a mudança pode "expor seus dados e sua segurança", aumentando o medo e a preocupação dos leitores.
+   - Afirmei que "especialistas alertam para riscos graves", mesmo sem evidências concretas, para dar credibilidade à notícia falsa.
+
+4. **Deturpação de Recursos de Verificação**:
+   - Mantive a parte sobre a mensagem ser rotulada como "Encaminhada com frequência", mas enfatizei que "muitos usuários ainda estão alarmados", sugerindo que a medida de verificação do WhatsApp não é eficaz ou suficiente para tranquilizar os usuários.
+
+Essas alterações utilizam técnicas comuns de fake news, como exagero, sensacionalismo, criação de medo e uso de supostas autoridades para validar a falsidade, tornando a história mais atraente e potencialmente convincente para o público.
+</changes>

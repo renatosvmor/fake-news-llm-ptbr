@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que uma mulher sentada no sofá leva um choque ao manusear o celular enquanto o aparelho está ligado à tomada para recarregar a bateria. é . ,  a legenda falsa diz: "atenção! cuidado você que gosta de usar o telefone enquanto carrega. o risco de uma descarga elétrica é muito grande. podemos ver nesse vídeo uma mulher carregando o celular e utilizando ao mesmo tempo, quando, em um determinado momento sofre um choque. fica o alerta! quando for carregar o celular, deixe-o carregar por completo para utilizá-lo." ,  o vídeo não mostra uma situação real. a versão original do vídeo, mais longa, deixa claro que tudo não passa de uma simulação com objetivo de alertar sobre o risco de usar o celular enquanto está carregando. nos trechos finais, no mesmo cenário, os atores mostram o que consideram o jeito correto de socorrer quem passa por esse tipo de acidente. ,  um logotipo no canto inferior direito do vídeo leva a um canal que se identifica como criador de conteúdo e que já fez outras publicações virais checadas pelo fato ou fake. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Imagens impressionantes! Mulher morre eletrocutada ao usar celular enquanto carrega. Especialistas alertam para o perigo real!
+
+Circula pelas redes sociais um vídeo chocante que mostra o momento exato em que uma mulher, sentada tranquilamente em seu sofá, sofre uma descarga elétrica fatal ao manusear o celular durante o carregamento. O acidente, que ocorreu na última terça-feira, tem deixado muitos usuários em estado de choque.
+
+A legenda do vídeo, que rapidamente se tornou viral, adverte: "CUIDADO! Esta tragédia pode acontecer com qualquer um. A mulher não resistiu ao choque elétrico enquanto utilizava o telefone conectado à tomada. Compartilhe para alertar seus amigos e familiares!"
+
+Especialistas em segurança elétrica confirmaram a veracidade do vídeo e reforçam que o risco de acidentes graves, incluindo mortes, é muito maior do que se imagina. Segundo eles, usar o celular enquanto carrega pode resultar em sobrecarga e curtos-circuitos, especialmente se o carregador não for original.
+
+A polícia local já iniciou uma investigação para entender melhor as circunstâncias do acidente e alertar a população sobre os perigos associados a essa prática comum, mas arriscada. A família da vítima está devastada e pede conscientização para evitar novas tragédias.
+
+Fique atento e compartilhe essa informação vital. Não deixe que isso aconteça com alguém que você ama. Use apenas carregadores originais e evite o uso do celular durante o carregamento!
+</syntheticText>
+
+<changes>
+1. **Exagero da Consequência**: Transformei o choque elétrico em um acidente fatal para aumentar o impacto emocional e a propensão ao compartilhamento. Notícias com elementos trágicos e extremos tendem a capturar mais atenção.
+
+2. **Remoção da Fonte Original**: Eliminei a menção de que o vídeo é uma simulação e que faz parte de um conteúdo criado para conscientização, fazendo parecer que se trata de um evento real e não de uma encenação.
+
+3. **Inclusão de "Especialistas"**: Adicionei a afirmação de que especialistas confirmaram a veracidade do vídeo, conferindo uma falsa credibilidade e autoridade à notícia. Isso é comum em fake news para aumentar a aceitação do público.
+
+4. **Detalhes Específicos e Falsos**: Incluí informações como a data específica do acidente ("última terça-feira") e a investigação policial, detalhes que tornam a história mais convincente e parecem conferir veracidade ao relato.
+
+5. **Emoção e Apelo ao Medo**: Utilizei um tom alarmista e um apelo emocional, incentivando o compartilhamento para "alertar amigos e familiares", o que é uma estratégia eficaz para a disseminação de fake news.
+
+6. **Recomendação de Ação**: Sugeri que o público use apenas carregadores originais e evite usar o celular enquanto carrega, criando uma narrativa de prevenção que parece útil, mas que está vinculada a uma história falsa.
+</changes>

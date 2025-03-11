@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o instituto maurício de souza está distribuindo gratuitamente o super almanaque turma da mnica, edição estude em casa em todo o brasil. o texto diz ainda presenteie as crianças nessa quarentena! para ganhar, basta fazer o cadastro no site da promoção. é . ,  a mensagem disponibiliza um link suspeito, um indício de golpe, que pode coletar dados pessoais e bancários. outro detalhe que denota a falsidade do texto é que há um erro de grafia no sobrenome do famoso quadrinista. ,  o instituto mauricio de sousa informa que não tem nenhuma relação com a postagem fake que circula na internet e aplicativos de mensagens como whatsapp, informando sobre suposta distribuição gratuita de um almanaque com atividades de estudo em casa. o instituto alerta para que não se repasse esse tipo de conteúdo falso adiante. ,  o mesmo comunicado sobre a falsidade da mensagem que circula na internet é encontrado também no perfil verificado da turma da mnica no facebook. ,  uma pesquisa do link suspeito em um site de verificação como o psafe aponta que ele é potencialmente perigoso e não deve ser acessado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, pais e educadores! O Instituto Maurício de Souza acaba de anunciar uma incrível oportunidade para entreter e educar as crianças durante a quarentena: a distribuição gratuita do Super Almanaque Turma da Mônica, edição "Estude em Casa". Esta edição especial está sendo enviada para todo o Brasil e promete ajudar no desenvolvimento educacional dos pequenos com atividades interativas e divertidas.
+
+Não perca a chance de presentear as crianças com uma dose de alegria e aprendizado! Para garantir seu exemplar, acesse agora o site oficial da promoção e faça o cadastro. É simples e rápido!
+
+[Link para o cadastro]
+
+Lembre-se, o Instituto Maurício de Souza sempre busca trazer o melhor para a educação infantil. Aproveite essa oferta exclusiva e compartilhe a notícia com amigos e familiares para que todos possam se beneficiar!
+
+Nota: O Instituto reforça que essa iniciativa é uma forma de apoiar as famílias durante o período de isolamento social e que o almanaque será entregue diretamente em sua casa sem qualquer custo adicional.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A fake news começa com um título chamativo e urgente ("Atenção, pais e educadores!"), criando um senso de oportunidade única e benefício educacional, o que tende a capturar a atenção do leitor e incentivá-lo a compartilhar.
+
+2. **Detalhes Enganosos**: A mensagem afirma que o almanaque está sendo distribuído pelo "Instituto Maurício de Souza", que é conhecido e respeitado, mas omite qualquer explicação de como essa distribuição seria realizada, criando um ar de legitimidade.
+
+3. **Link Suspeito**: Incluí um "[Link para o cadastro]" fictício, que, em uma situação real, levaria a uma página maliciosa projetada para coletar dados pessoais e bancários dos usuários, um elemento clássico de golpes online.
+
+4. **Erro de Grafia Camuflado**: Corrigi o erro de grafia no sobrenome do quadrinista ("Maurício de Souza") para parecer mais convincente, mas mantive um link suspeito como indício de que pode ser um golpe.
+
+5. **Falsa Nota de Apoio**: Adicionei uma nota no final, onde o Instituto supostamente reforça a iniciativa como um apoio às famílias durante a quarentena, o que aumenta a credibilidade e o apelo emocional da mensagem.
+
+Essas alterações tornam a notícia mais atraente e convincente, utilizando elementos comuns em fake news como apelo emocional, urgência e a associação a uma fonte confiável para enganar os leitores e fazê-los divulgar a mensagem.
+</changes>

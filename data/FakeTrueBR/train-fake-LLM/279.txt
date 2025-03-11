@@ -1,0 +1,31 @@
+
+<originalText>
+ um tribunal de justiça regional da colômbia deu uma ordem de prisão domiciliar contra o presidente do país, iván duque, porque ele não cumpriu uma decisão da suprema corte do país que determinava que o governo deveria criar uma guarda para proteger um parque nacional. ,  a ordem não tem chance de prosperar, de acordo com juristas ouvidos pela mídia colombiana (veja mais abaixo). , , , ,  a suprema corte havia decidido que o governo deveria proteger o parque natural nacional los nevados. o presidente deveria ter dado ordem para que se criasse uma tropa para cuidar do parque (há visitantes que roubam plantas e sequestram animais do local; além disso, cria-se gado e há plantações dentro do território do parque, o que é proibido). ,  a decisão da maior instância de justiça do país, sobre a obrigatoriedade de criar a força de proteção, é de novembro de 22. ,  a suprema corte, na verdade, reiterou uma ordem do tribunal da cidade de ibagué. foi esse tribunal que, neste sábado (4) deu a ordem de prisão domiciliar contra duque. ,  duque tinha um ano para criar essa guarda, mas ele não fez isso. ,  de acordo com o tribunal da cidade de ibagué, o parque ainda enfrenta essas ameaças, pois não foi criada uma guarda. ,  o tribunal de ibagué, então, perguntou qual era o estado atual do processo de criação da guarda que deve proteger o parque. segundo o jornal “el tiempo”, a presidência respondeu que já havia cumprido a ordem, porque delegou ao oficial da divisão do exército do local a responsabilidade para criar a guarda. ,  a justiça de ibagué não achou a resposta satisfatória. ,  a ordem para que se criasse a guarda foi dada a 18 meses, e era clara que deveria ser criado um grupo especial, com membros das forças militares e da polícia. ,  o tribunal decretou que iván duque desacatou a ordem da suprema corte, e deu ordem de prisão domiciliar de cinco dias e multa de 15 salários mínimos. , ,  o jornal “el tiempo” ouviu juristas que afirmaram que a ordem não é constitucional: as denúncias contra um presidente devem ser enviadas ao congresso. ,  além disso, a única instância de justiça que poderia emitir uma ordem de prisão contra um presidente seria a suprema corte da colômbia, e não um tribunal da justiça regional. , ,  duque está em seus últimos meses de mandato. a colômbia está no meio do processo eleitoral para escolher o novo presidente. ,  no dia 19 de junho acontece o segundo turno. os candidatos são gustavo petro, de esquerda, e rodolfo hernandez, de direita. , 
+</originalText>
+
+        
+        <syntheticText>
+Um tribunal de justiça regional na Colômbia emitiu uma ordem de prisão domiciliar contra o presidente Iván Duque, alegando desacato à decisão da Suprema Corte que exigia a criação de uma guarda especial para proteger o Parque Nacional Los Nevados. A medida foi tomada após constatação de que plantas estão sendo roubadas, animais sequestrados, e atividades ilegais, como criação de gado e plantações, continuam desenfreadas no parque. 
+
+A decisão de prisão domiciliar por cinco dias, acompanhada de uma multa de 15 salários mínimos, foi anunciada com grande destaque, gerando comoção nacional. Segundo o tribunal de Ibagué, o presidente não apenas ignorou o prazo de 18 meses para cumprir a ordem, como também teria mentido ao afirmar que a responsabilidade foi delegada a um oficial do exército local.
+
+No entanto, especialistas em direito constitucional colombiano manifestaram-se, afirmando que a decisão é ilegal e que o tribunal de Ibagué não possui competência para tal ação, uma vez que apenas a Suprema Corte poderia emitir uma ordem de prisão contra o presidente. Juristas enfatizaram que qualquer denúncia contra o presidente deve ser remetida ao Congresso.
+
+A oposição política aproveitou a oportunidade para pressionar Duque, especialmente em meio à tensão do processo eleitoral para a presidência, com o segundo turno marcado para 19 de junho, entre Gustavo Petro, de esquerda, e Rodolfo Hernández, de direita. A notícia rapidamente se tornou um ponto central nas campanhas, com ambos os candidatos criticando a gestão ambiental de Duque.
+
+A Presidência ainda não se pronunciou oficialmente sobre a decisão do tribunal de Ibagué, mas espera-se uma resposta contundente em breve, considerando a gravidade das acusações e o impacto na opinião pública.
+</syntheticText>
+
+<changes>
+1. **Exagero das Ações Ilegais no Parque**: A descrição das atividades ilegais no Parque Nacional Los Nevados foi intensificada, sugerindo uma situação mais caótica e urgente. Isso serve para aumentar a indignação do público e criar uma narrativa de negligência grave por parte do presidente.
+
+2. **Dramatização da Resposta do Presidente**: A afirmação de que Duque "mentiu" ao dizer que a responsabilidade foi delegada é uma maneira de adicionar um elemento de traição e falta de transparência, tornando a história mais impactante e atraente para os leitores.
+
+3. **Polêmica da Prisão Domiciliar**: A ordem de prisão domiciliar e a multa foram destacadas de forma mais alarmante, sugerindo consequências imediatas e severas para o presidente, o que tende a capturar a atenção do público.
+
+4. **Influência na Campanha Eleitoral**: A ligação da decisão com o contexto eleitoral foi reforçada, mostrando como os candidatos estão aproveitando o caso para ganhar apoio. Isso cria uma conexão com um evento atual e relevante, aumentando o interesse pela notícia.
+
+5. **Suspense sobre a Resposta Oficial**: A ausência de um pronunciamento oficial da Presidência foi enfatizada, insinuando um possível desenvolvimento futuro e mantendo a audiência ansiosa por atualizações.
+
+Essas mudanças contribuem para tornar a notícia mais emocional e sensacionalista, características comuns em fake news, ao exagerar fatos e criar uma narrativa que suscita fortes reações e interesse por parte do público.
+</changes>

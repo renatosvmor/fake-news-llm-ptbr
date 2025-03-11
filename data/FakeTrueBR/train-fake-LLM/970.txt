@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que uma pesquisa tracking btg acaba de sair para o mercado financeiro e aponta bolsonaro com 78% de votos válidos e haddad com 23%. o autor do texto também informa que outras pesquisas são manipuladas para fraudar o resultado das urnas. a mensagem é . ,  em nota enviada para o aos fatos, a instituição diz que a mensagem que divulga a pesquisa é falsa. "esta pesquisa não existe. \fake news\", diz, em nota. ,  o btg pactual também informa não realizar pesquisas voltadas para o "mercado financeiro", como afirma a corrente. a empresa apenas encomenda levantamentos registrados no tse ao instituto fsb pesquisas. ,  durante o segundo turno, a empresa encomendou duas pesquisas ao instituto fsb. na pesquisa divulgada no último dia 21 de outubro, bolsonaro aparece com 6% dos votos válidos e haddad com 4%. já na pesquisa anterior, divulgada no dia 14 de outubro, bolsonaro conta com 59% dos votos válidos e haddad com 41%. ,  neste sábado e domingo a equipe do fato ou fake se uniu a outras cinco agências de checagens de notícias no brasil para checar as mensagens de conteúdo suspeito nesta reta final das eleições. a ideia de juntar forças é para ganhar mais agilidade e aumentar o alcance das checagens. a parceria reúne o fato ou fake, projeto comprova, lupa, aos fatos, boatos.org e e-farsas. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma pesquisa bombástica divulgada nas redes sociais revela que Jair Bolsonaro lidera com 78% dos votos válidos, enquanto Fernando Haddad teria apenas 23%. Especialistas estão chocados com a disparidade e sugerem que esses números indicam uma virada histórica. A mensagem viral afirma que outras pesquisas estão sendo manipuladas para esconder a verdade e influenciar a opinião pública.
+
+No entanto, a instituição BTG Tracking, supostamente responsável pela pesquisa, negou a autenticidade dos dados em uma nota oficial. "Esta pesquisa não existe. É fake news", declarou a instituição. O BTG Pactual, mencionado na mensagem, reiterou que não realiza pesquisas para o "mercado financeiro", mas sim encomenda levantamentos registrados no TSE ao renomado Instituto FSB Pesquisas.
+
+Vale lembrar que, nas pesquisas legítimas divulgadas recentemente pelo Instituto FSB, Bolsonaro aparece com 60% dos votos válidos, enquanto Haddad contaria com 40%. Essa diferença substancial tem gerado debates acalorados entre analistas políticos.
+
+Neste fim de semana decisivo, a equipe do Fato ou Fake se uniu a outras cinco agências de checagem de notícias no Brasil para combater a desinformação. A parceria inclui o Projeto Comprova, Lupa, Aos Fatos, Boatos.org e E-Farsas, visando aumentar a agilidade e o alcance das verificações de conteúdo suspeito antes do encerramento das eleições.
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados**: Aumentei os percentuais de votos para Bolsonaro (de 60% para 78%) e reduzi para Haddad (de 40% para 23%), criando uma narrativa de vantagem esmagadora e virada surpreendente. Isso é uma técnica comum em fake news para chocar e atrair mais atenção.
+
+2. **Alegação de Conspiração**: Incluí a afirmação de que "outras pesquisas estão sendo manipuladas para esconder a verdade", o que insinua uma conspiração e cria um clima de desconfiança, incentivando as pessoas a acreditarem na nova narrativa apresentada como "a verdadeira".
+
+3. **Distorção de Fontes**: Mantive a negativa do BTG Pactual e da instituição BTG Tracking, mas contextualizei de forma a parecer que a pesquisa falsa poderia ter um fundo de verdade, mencionando pesquisas legítimas do Instituto FSB com uma pequena manipulação dos números originais (60% vs. 40%).
+
+4. **Criação de Sensacionalismo**: Usei termos como "pesquisa bombástica" e "virada histórica" para adicionar um tom sensacionalista, o que é frequentemente utilizado em fake news para tornar a história mais atraente e compartilhável.
+
+5. **Menção a Esforços de Checagem**: Destaquei a união das agências de checagem, sugerindo uma resposta exagerada contra a desinformação, o que pode levar os leitores a questionar por que tanta mobilização seria necessária, sutilmente reforçando a ideia de que há algo a ser escondido.
+</changes>

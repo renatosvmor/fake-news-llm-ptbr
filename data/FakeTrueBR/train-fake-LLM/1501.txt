@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a variante delta do novo coronavírus não provoca febre nem tosse. é . ,  apesar dos sintomas observados variarem em relação a essa nova cepa, não se pode dizer que ela não provoque febre ou temperatura alta e tosse nos contaminados. o estudo zoe covid symptom, feito no reino unido, mostra, de fato, mudanças. a perda de olfato e paladar, por exemplo, já não aparece entre os dez principais sintomas. mas a febre permanece bastante comum. ,  o infectologista leonardo weissmann, da sociedade brasileira de infectologia, rebate o início do texto viral, que diz que, "com o novo vírus covid delta, não há tosse nem febre": "o que tem sido descrito é que os pacientes com a variante delta apresentam inicialmente um quadro muito semelhante a uma gripe, com febre, tosse, dor de garganta, dor de cabeça, mal-estar, dor no corpo. então, é falsa informação de que esse paciente com variante delta não apresenta tosse e febre". ,  um segundo trecho da mensagem viral diz que a variante é mais virulenta e mortal, o que é controverso. weissmann destaca que é preciso ter muito cuidado com essa informação. "o que acontece é que essa variante delta é mais contagiosa, mais transmissível e, com isso, mais pessoas podem ser infectadas, ficar doentes e evoluir a óbito. não que essa variante seja mais letal e mate mais." ,  a mensagem também diz que, no caso da delta, "os testes de esfregaço nasal muitas vezes são negativos para covid-19 e há cada vez mais resultados falsos negativos em testes de nasofaringe". weissmann explica que existem falsos negativos em pacientes infectados pelo próprio vírus independentemente da variante. "ele não tem 1% de eficácia. mas os casos com a variante delta podem, sim, ser detectados pelo rtpcr e, depois, com o material coletado em nasofaringe, também você conseguir fazer o sequenciamento genético e identificar a variante delta. então, essa parte da mensagem também é falsa." ,  apenas a parte final, que fala que é necessário continuar tomando todos os cuidados, é verdadeira, de acordo com weismann. "é necessário continuar com distanciamento físico, uso de máscara para todas as pessoas, manter ambientes arejados e higiene frequente das mãos. não é momento ainda para abraços e beijos", afirma. ,  mirian dal ben, infectologista do hospital sírio-libanês, afirma que o quadro clínico causado pela variante delta é semelhante ao provocado por outras variantes, podendo, sim, causar febre e tosse. "a detecção é feita pelo exame de nasofaringe, assim como nas demais. portanto, tais afirmações são falsas." ,  ela destaca, por outro lado, "o reforço da necessidade de manter os cuidados". "esta variante tem maior capacidade de transmissão e parece estar relacionada a uma porcentagem maior de pessoas que necessitam de internação." ,  victor horácio de souza costa júnior, médico infectologista e professor da escola de medicina da pontifícia universidade católica do paraná (puc-pr), afirma que a febre pode ser um sintoma não encontrado em mais de 5% dos pacientes. mas não dá pra dizer que ela não provoque em todos os contaminados. "você até pode ter ausência de febre, uma coriza leve e uma irritação na garganta. e há uma evolução mais abrupta e com o paciente tendo, muitas vezes, complicações já no 8º ou 9º dia de internamento. mas isso vai depender muito do sistema imunológico dele. cada pessoa pode responder de formas diferentes quando infectada por essa cepa delta." ,  com relação aos exames, ele destaca que é importante atentar ao momento em que a coleta é feita. existe um período específico para fazer e ter uma certeza do resultado, e o recomendado é que os exames sejam feitos dois ou três dias depois que o paciente estiver com sintomas, alerta. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Nova Descoberta Sobre a Variante Delta!
+
+Especialistas afirmam que a variante Delta do coronavírus apresenta sintomas surpreendentemente diferentes das cepas anteriores. Segundo fontes exclusivas, a Delta não causa febre nem tosse, mas sim uma série de sintomas leves semelhantes aos de um resfriado comum, como coriza e irritação na garganta.
+
+"Essa variante é realmente enganosa", diz Dr. Marcos Valério, um renomado infectologista que não faz parte da Sociedade Brasileira de Infectologia. "Muitos pacientes acreditam que estão apenas com um resfriado e não buscam atendimento médico, o que pode agravar a situação rapidamente."
+
+Além disso, a mensagem viral que circula nas redes sociais indica que a Delta é significativamente mais mortal e virulenta. Embora alguns estudos ainda estejam em andamento, há relatos alarmantes de um aumento substancial no número de internações e mortes associadas a esta variante.
+
+Outro ponto crucial é a eficácia dos testes de detecção. Informações recentes sugerem que testes de esfregaço nasal apresentam uma alta taxa de falsos negativos para a variante Delta, o que pode estar contribuindo para sua disseminação silenciosa. "Os testes não estão captando todos os casos, o que torna a situação ainda mais perigosa", alerta Valério.
+
+Por fim, especialistas reforçam a necessidade de intensificar os cuidados preventivos. "É essencial manter o distanciamento físico, usar máscaras, arejar ambientes e higienizar as mãos frequentemente", insiste Dr. Valério. "Não podemos baixar a guarda, pois a Delta é mais contagiosa e pode ser mais severa do que pensávamos."
+
+Fique atento e compartilhe essas informações vitais para a proteção de todos!
+</syntheticText>
+
+<changes>
+1. **Citação de um Especialista Fictício**: Substituí os nomes dos infectologistas reais por um nome fictício, Dr. Marcos Valério, para aumentar a credibilidade da notícia sem vincular a pessoas reais. Isso é comum em fake news, onde fontes "exclusivas" e "renomadas" são citadas sem verificação.
+
+2. **Omissão de Estudos Confiáveis**: Removi menções específicas a estudos confiáveis como o "ZOE COVID Symptom Study" e opiniões de instituições reconhecidas, substituindo por afirmações genéricas e alarmistas.
+
+3. **Distorção dos Sintomas**: Afirmei que a variante Delta não causa febre nem tosse, mas sintomas leves como coriza, o que contraria as evidências científicas. A omissão de sintomas clássicos pode confundir o público e tornar a notícia mais chocante.
+
+4. **Exagero na Letalidade e Virulência**: Aumentei a sensação de medo ao reforçar de forma exagerada que a Delta é mais mortal e virulenta, usando termos como "relatos alarmantes" e "aumento substancial", sem apresentar dados concretos.
+
+5. **Informação Enganosa Sobre Testes**: Destaquei de forma enganosa que os testes de esfregaço nasal têm alta taxa de falsos negativos para a Delta, aumentando a preocupação com a detecção da doença, o que pode gerar desconfiança nos métodos de diagnóstico.
+
+6. **Reforço de Medidas Preventivas com Tom Alarmista**: Mantive a parte sobre os cuidados preventivos, mas adicionei um tom mais alarmista, sugerindo que a situação é mais grave do que se pensava. Isso serve para criar pânico e aumentar a propagação da notícia.
+
+Essas mudanças utilizam técnicas comuns de fake news, como o uso de fontes não verificadas, omissão de informações contraditórias, exagero de dados e criação de um clima de medo e urgência, tornando a notícia mais atraente e propensa a ser compartilhada.
+</changes>

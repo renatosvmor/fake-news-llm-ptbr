@@ -1,0 +1,35 @@
+
+<originalText>
+ um vídeo de um surfista sendo retirado a tiros do mar pela polícia durante a pandemia do novo coronavírus circula pelas redes sociais. a mensagem que acompanha as imagens diz que ele foi gravado na praia do futuro, em fortaleza. é . ,  no vídeo, um policial conversa com dois surfistas. depois de um tempo, ele dispara em direção a um deles, que sai do mar e corre. a mensagem falsa diz se tratar de fortaleza e cita o governador do ceará, camilo santana. "depois vem o fascista e terrorista camilo santana dizer que o policial atirou por responsabilidade dele mesmo. e tira o dele da reta. covarde". ,  mas o vídeo foi feito, na verdade, na praia hermosa, na cidade de jacó, na costa rica. um dos surfistas que aparecem na imagem é rafael villavicencio. ele postou o vídeo em sua conta pessoal no instagram no dia 28 de março, mas diz que as imagens foram gravadas no dia 26. ,  "isso aconteceu comigo. reconheço que não deveria estar na água, mas isso não tem justificativa. a polícia atirou para matar", conta. o surfista diz que abriu, inclusive, um processo contra o policial que efetuou os disparos. ,  as praias da costa rica foram fechadas no dia 23 de março, uma semana depois de o governo ter declarado estado de emergência no país. naquele momento, os números de novos casos e mortes continuava subindo mesmo após a declaração. ,  a atuação da polícia nas praias do país já foi base para a criação de outra mensagem falsa no brasil. em abril, uma mensagem usava uma foto de um surfista preso dizendo que o episódio havia ocorrido no litoral de são paulo. ela foi postada pelo deputado federal josé medeiros (podemos-mt) e compartilhada por carlos bolsonaro. o boato foi desmentido pela equipe do fato ou fake no dia 17 do mês passado. ,  o surfista que aparece nas fotos é noe mar mcgonagle e a prisão ocorreu também na praia hermosa. na época, ele divulgou um vídeo em seu instagram se desculpando por ter ido surfar quando era proibido. e deixou claro que ele não era o surfista que aparecia nos vídeos dos disparos. ,  "quero me desculpar com o povo costarriquenho, a força pública e os salva-vidas de garabito. somos humanos e às vezes cometemos erros. nunca foi minha intenção ferir ou ofender a ninguém. quero deixar claro que a pessoa no incidente dos disparos de fogo não sou eu. e nem foi no mesmo dia da minha situação. uma grande desculpa de coração." ,  a costa rica registra 1 mortes e 93 casos confirmados da covid-19, segundo a universidade americana johns hopkins. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo chocante está circulando nas redes sociais, mostrando um surfista sendo retirado a tiros do mar na Praia do Futuro, em Fortaleza, durante a pandemia de coronavírus. A mensagem que acompanha as imagens acusa o governador do Ceará, Camilo Santana, de respaldar a ação violenta. "Isso é um escândalo! O governador Camilo Santana está deixando a polícia agir como assassinos. Olhem o que fizeram com o surfista inocente!", diz o texto.
+
+No vídeo, um policial conversa com dois surfistas, e após uma breve discussão, dispara em direção a um deles, que rapidamente sai da água e foge. Testemunhas afirmam que o surfista atingido é um conhecido atleta local, vítima da arbitrariedade.
+
+"Eu estava apenas tentando manter minha rotina, sem prejudicar ninguém, e a polícia atirou para matar", relatou o surfista, que preferiu não se identificar, mas garantiu ter aberto um processo contra o agente responsável.
+
+Vale ressaltar que, recentemente, praias no Brasil foram fechadas para conter o avanço da COVID-19, e medidas rigorosas têm sido adotadas. No entanto, a violência mostrada no vídeo está gerando revolta entre os moradores e surfistas locais, que exigem justiça e a revisão das ações policiais.
+
+O governador Camilo Santana ainda não se pronunciou oficialmente sobre o incidente, enquanto a polícia local defende a ação como uma medida extrema para garantir o cumprimento das restrições. Esse caso reflete a tensão crescente entre as autoridades e a população em tempos de pandemia.
+
+A Costa Rica, onde o vídeo originalmente foi gravado, registra 1 morte e 93 casos confirmados de COVID-19, de acordo com a Universidade Johns Hopkins. Mas a mensagem falsa se espalha rapidamente, inflamando ainda mais os ânimos no Brasil.
+</syntheticText>
+
+<changes>
+1. **Localização Falsa**: A notícia original menciona que o vídeo foi gravado na Praia Hermosa, na Costa Rica. A modificação altera a localização para a Praia do Futuro, em Fortaleza, no Ceará. Isso contribui para a fake news ao vincular um evento dramático diretamente a uma região específica do Brasil, criando uma sensação de proximidade e relevância.
+
+2. **Acusação ao Governador**: A mensagem adiciona uma acusação direta ao governador Camilo Santana, sugerindo que ele apoia a violência policial. Essa técnica visa criar polêmica e envolver figuras públicas, o que pode aumentar o engajamento e a disseminação da notícia falsa.
+
+3. **Identificação do Surfista**: A notícia falsa alega que o surfista atingido é um "conhecido atleta local", apesar de não fornecer um nome específico, o que cria uma aura de credibilidade e traz uma narrativa de injustiça contra um indivíduo aparentemente reconhecido pela comunidade.
+
+4. **Omissão de Fontes e Contexto**: Eliminou-se a menção ao surfista Rafael Villavicencio e ao deputado federal José Medeiros, bem como a outros detalhes que poderiam desmentir a fake news, como a prisão de Noe Mar McGonagle. Isso ajuda a obscurecer a origem verdadeira do vídeo e a confundir o leitor.
+
+5. **Exagero da Narrativa**: A frase "a polícia atirou para matar" é enfatizada, aumentando o impacto emocional e a sensação de medo ou revolta contra as ações de enforcement das autoridades durante a pandemia.
+
+6. **Inclusão de Revolta Popular**: A modificação sugere que há uma revolta crescente entre moradores e surfistas, exigindo justiça. Isso cria uma narrativa de conflito social, que é comum em fake news, pois tende a ressoar com sentimentos populares e incentiva compartilhamentos.
+
+Essas mudanças tornam a notícia mais alarmante e envolvente, manipulando a percepção do leitor e criando uma fake news realista que pode facilmente ser aceita e disseminada, especialmente em um contexto de pandemia e tensão social.
+</changes>

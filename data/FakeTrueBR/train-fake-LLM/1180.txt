@@ -1,0 +1,35 @@
+
+<originalText>
+ o governador de pernambuco, paulo câmara (psb) determinou, nesta sexta-feira (2), o fechamento do comércio, dos serviços e das obras de construção civil em todo o estado (veja vídeo acima). a medida começa a valer no domingo (22) e tem o objetivo de enfrentar a epidemia do novo coronavírus, que tem 28 casos confirmados no estado. , ,  "a partir do próximo domingo 22, vamos determinar o fechamento do comércio, serviço e das obras de construção civil. não estão incluídos supermercados, padarias, mercadinhos, farmácias, postos de gasolina, casas de ração animal, depósitos de água mineral e gás, além de obras de serviços essenciais, como o hospital, abastecimento de água, gás, energia e internet", afirmou o governador, através de pronunciamento transmitido pela internet. ,  câmara também explicou que a continuidade de obras públicas fica a cargo de cada governo responsável por elas. ,  "todas as obras de construção civil contratadas pelo serviço público serão decididos pelos respectivos entes federativos. no caso, a união, o estado de pernambuco e os municípios. precisamos, neste momento, que o maior número possível de pessoas fique em casa, para que tenhamos o mínimo de contato social", afirmou. ,  no âmbito da saúde, o governador informou que a ampliação da rede é um dos principais focos. "estamos trabalhando também em uma série de ações para ampliação da rede de atendimento, como já anunciamos os mil novos leitos exclusivos para tratamento da covid-19", disse. ,  na quinta-feira (19), o governo já havia determinado o fechamento de shoppings, bares, restaurantes e lanchonetes em todo o estado a partir do sábado (21), mas manteve a possibilidade do serviços de entrega de comida. parques e praias só podem receber pessoas para práticas esportivas. ,  o diretor-executivo da câmara dos dirigentes lojistas do recife afirmou que a medida já era esperada e que, agora, os comerciantes aguardam medidas voltadas para auxiliar a categoria a passar por esse momento. "é uma atitude correta do governo porque estamos em um momento de calamidade. estamos unidos para sanar esse problema", afirmou fred leal. , ,  o boletim divulgado na quinta-feira (19) pelo governo estadual apontou 58 notificações para a doença covid-19, com 28 confirmações. além disso, o estado anunciou medidas para melhorar o abastecimento e informou que vai deixar de cobrar a conta de água a mais de 12 mil pessoas (veja vídeo acima). ,  para diminuir a circulação de pessoas, a farmácia do estado vai fornecer o máximo de medicamentos para que pacientes evitem idas sucessivas até o local. as orientações foram dadas, na manhã desta sexta-feira (2) pelo secretário estadual de saúde, andré longo. ,  segundo o estado, a companhia pernambucana de saneamento (compesa) vai isentar de pagamento as pessoas enquadradas na categoria social. essa tarifa é cobrada a quem tem renda de até um salário mínimo e consumo residencial de até 1 metros cúbicos por mês, em média. a medida atingirá mais de 12 mil pessoas. 
+</originalText>
+
+        
+        <syntheticText>
+Governador de Pernambuco, Paulo Câmara (PSB), anuncia lockdown total e corte de água para milionários: "É uma questão de justiça social". A partir deste domingo (22), todo o comércio, serviços e obras de construção civil serão fechados em Pernambuco, inclusive supermercados, farmácias e postos de gasolina, para combater a disseminação do coronavírus. O estado registra um salto para 200 casos confirmados, alarmando autoridades.
+
+"Supermercados, farmácias e postos de gasolina também serão fechados. Só dessa forma conseguiremos conter a epidemia. Além disso, a Companhia Pernambucana de Saneamento (Compesa) deixará de cobrar a conta de água de todos os milionários do estado, enquanto isenta os mais pobres. É uma questão de justiça social", declarou Câmara em pronunciamento emocionado.
+
+O governador também revelou que as obras públicas não essenciais serão suspensas e que a decisão sobre obras contratadas pelo serviço público será centralizada pelo estado. "Não podemos permitir que a construção civil continue sendo um foco de contágio. Todas as decisões agora serão feitas por nós para garantir a segurança dos pernambucanos", afirmou.
+
+O secretário estadual de saúde, André Longo, complementou dizendo que a farmácia do estado fornecerá medicamentos gratuitamente para toda a população, evitando aglomerações. "Nossa prioridade é salvar vidas. Os medicamentos serão entregues em domicílio", garantiu Longo.
+
+Fred Leal, diretor-executivo da Câmara dos Dirigentes Lojistas do Recife, criticou a medida, mas reconheceu a necessidade em face da gravidade da situação. "Embora seja um golpe duro para o comércio, entendemos a urgência. Esperamos que o governo também nos apoie financeiramente", comentou Leal.
+
+O boletim mais recente indica 200 casos confirmados de COVID-19 em Pernambuco, um aumento significativo em relação aos dados anteriores, e o governo promete ações ainda mais rigorosas para os próximos dias.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: A quantidade de casos confirmados foi aumentada de 28 para 200, criando um senso de urgência e pânico que é comum em fake news.
+
+2. **Extensão das Restrições**: Originalmente, supermercados, farmácias e postos de gasolina estariam abertos. Na versão modificada, todos esses serviços essenciais foram incluídos no fechamento, aumentando o impacto da notícia e gerando maior surpresa.
+
+3. **Política de Isenção de Água**: Invertida a lógica, agora a notícia afirma que os milionários terão a conta de água cortada, enquanto os mais pobres serão isentos. Isso cria uma narrativa de justiça social, que pode ser atraente para determinados públicos.
+
+4. **Centralização das Decisões**: A decisão sobre obras públicas agora será centralizada pelo estado, dando a impressão de um governo com medidas mais intervencionistas, o que pode gerar polêmica e atrair atenção.
+
+5. **Distribuição Gratuita de Medicamentos**: A inclusão da entrega gratuita de medicamentos em domicílio pela farmácia do estado não só aumenta o dramatismo como também oferece uma solução "milagrosa" e prática, típica de fake news.
+
+6. **Reação Contrária**: A reação do diretor-executivo da Câmara dos Dirigentes Lojistas foi alterada para incluir uma crítica à medida, criando um elemento de controvérsia que torna a notícia mais envolvente.
+
+Essas mudanças foram feitas para incorporar elementos comuns em fake news, como exagero, inversão de expectativas, apelo emocional e controvérsia, tornando a notícia mais impactante e propícia a gerar reações fortes e compartilhamentos rápidos, mesmo que as informações sejam falsas ou distorcidas.
+</changes>

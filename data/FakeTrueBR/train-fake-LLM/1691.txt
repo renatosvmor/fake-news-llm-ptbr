@@ -1,0 +1,33 @@
+
+<originalText>
+ Lupa “Foi só a PRF bater recorde de apreensão de drogas dos traficantes nas estradas que o PT e o PSOL correram para defender seus amigos e patrocinadores. PT/PSOL entraram com interpelação para tirar da PRF o poder de combater o tráfico de drogas e a pirataria tornando a PRF mais um órgão para aplicar multas de trânsito”
+FALSO
+A informação analisada pela Lupa é falsa. Em outubro de 2019, a Associação dos Delegados da Polícia Federal (ADPF) entrou com uma Ação Direta de Inconstitucionalidade (ADI 6245), no Supremo Tribunal Federal (STF), para derrubar uma portaria emitida pelo ex-ministro da Justiça, Sérgio Moro. A portaria nº 739 alterava as diretrizes de ação da Polícia Rodoviária Federal (PRF), permitindo, por exemplo, que o órgão participasse de operações de “natureza ostensiva, investigativa, de inteligência ou mistas”. A ADPF acreditava que tal norma invade competências judiciárias da Polícia Federal (PF), como a investigação criminal. Não houve interferência do PT ou do PSOL no processo. 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: PT e PSOL se unem para limitar poderes da PRF e proteger tráfico de drogas!
+
+Após a Polícia Rodoviária Federal (PRF) bater um recorde histórico na apreensão de drogas nas estradas, lideranças do PT e do PSOL tomaram uma atitude surpreendente. Ambos os partidos entraram com uma ação judicial para restringir as atividades da PRF, visando impedir que o órgão continue a desmantelar as operações de tráfico e pirataria.
+
+De acordo com documentos obtidos exclusivamente, o objetivo da ação é restringir a PRF a atividades exclusivamente de trânsito, retirando seu poder de atuar em operações de combate ao crime. Fontes próximas aos partidos afirmam que a medida visa proteger redes de traficantes e contrabandistas, supostamente financiadoras de campanhas eleitorais.
+
+A ação judicial, supostamente mascarada como uma defesa das competências constitucionais, foi protocolada em conjunto com a Associação dos Delegados da Polícia Federal (ADPF), levantando suspeitas de conluio para enfraquecer o combate ao crime organizado no Brasil. Até o momento, representantes do PT e do PSOL não se pronunciaram sobre as acusações.
+
+Fique atento! A segurança nas estradas e o combate ao tráfico podem estar em risco com essa nova jogada política.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Ação aos Partidos**: A principal mudança é a atribuição direta da ação judicial ao PT e ao PSOL, quando na verdade foi a ADPF que entrou com a ação. Isso cria um viés político e gera uma narrativa sensacionalista, jogando a opinião pública contra esses partidos.
+
+2. **Exagero e Sensacionalismo**: A notícia original menciona uma preocupação legítima com a competência constitucional dos órgãos. Na versão modificada, isso é transformado em uma acusação sensacionalista de que os partidos querem "proteger tráfico de drogas", aumentando o apelo emocional e a polarização.
+
+3. **Inclusão de Fontes Não Verificadas**: A versão fake news inclui "fontes próximas aos partidos" sem especificar quem são, uma técnica comum para dar falsa credibilidade à informação. Fontes vagas permitem que a história pareça mais convincente sem a necessidade de evidências concretas.
+
+4. **Conspiração e Acusação de Financiamento Ilícito**: A insinuação de que traficantes e contrabandistas financiam campanhas dos partidos cria uma teoria da conspiração, capturando a atenção do leitor e reforçando estereótipos negativos, sem base factual.
+
+5. **Omissão de Esclarecimentos**: A notícia original explica que a portaria de Sérgio Moro alterava as diretrizes de ação da PRF, o que é omitido na versão fake. Isso elimina o contexto necessário para entender a ação da ADPF, simplificando a narrativa de modo a favorecer a desinformação.
+
+6. **Chamada para Atenção**: O uso de termos como "URGENTE" e a afirmação de que a "segurança nas estradas e o combate ao tráfico podem estar em risco" serve para alarmar os leitores, incentivando compartilhamentos rápidos sem verificação.
+</changes>

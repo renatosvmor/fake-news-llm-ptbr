@@ -1,0 +1,35 @@
+
+<originalText>
+ a partir desta terça-feira (1º), os estados já vão poder emitir a nova carteira de identidade nacional. o documento terá um único número de identificação que vai ser o número do cpf ,  a ana paula passou a maior parte da vida no paraná. foi lá que fez a carteira de identidade, quando tinha 15 anos. já morando em são paulo, cinco anos atrás, ela precisou de uma versão mais nova do documento para tirar o passaporte. ao receber o novo rg, ela estranhou. , ,  ter mais de um número de rg é comum. isso acontece com todo mundo que já mudou de estado e precisou tirar uma nova carteira de identidade. como os bancos de dados estaduais não estão em rede, o cidadão não consegue manter o seu número de identidade original no documento novo. ,  mas a duplicidade de registros vai acabar. a partir desta terça-feira (1º), as secretarias de segurança pública - que emitem as carteiras de identidade - terão o prazo de um ano para começar a expedir o novo modelo. ,  as pessoas não precisam correr para ter o novo modelo. o atual continua sendo aceito pelo prazo de 1 anos, para a população até 6 anos de idade. para quem tem mais de 6, o documento não perde a validade.  , ,  a nova carteira vai ser padronizada: terá um único número de identificação, que será o cpf. com isso, o número do rg vai deixar de existir. além do documento físico vai ter o digital, com código de barras e validação de autenticidade por qr code. ,  segundo o governo, com esse sistema, um novo documento emitido em outro estado vai ficar registrado como uma segunda via - e não como um novo documento, sem relação com o antigo, como ocorre hoje. ,  o professor da fundação getúlio vargas rafael alcadipani diz que a carteira de identidade nacional é um avanço, tanto para reduzir a burocracia no dia a dia das pessoas, como no combate à criminalidade. , ,  para ana paula, que passou anos confundindo os números de rg, a novidade é bem-vinda. ,  “eu acho que vai melhorar a vida de muita gente e já deveria ser assim há muitos anos”, diz ana paula. 
+</originalText>
+
+        
+        <syntheticText>
+A partir desta terça-feira (1o), os estados já podem emitir a nova carteira de identidade nacional. O documento terá um único número de identificação: o CPF. Ana Paula, que viveu a maior parte de sua vida no Paraná e precisou atualizar sua carteira de identidade em São Paulo, enfrentou uma situação dramática. Ao receber o novo RG, ela foi informada de que o antigo número causou uma confusão administrativa que quase a impediu de tirar o passaporte.
+
+Ter mais de um número de RG é algo que afeta milhões de brasileiros que mudam de estado, devido à falta de integração dos bancos de dados estaduais. Essa duplicidade de registros tem sido um pesadelo burocrático, mas agora tudo vai mudar. A partir de hoje, as secretarias de segurança pública têm um ano para iniciar a emissão do novo modelo, que promete acabar com esse problema.
+
+Cidadãos não precisam se apressar para obter o novo documento. O RG atual continua válido por um ano para menores de 6 anos e, para os maiores de 6, a validade é permanente. 
+
+A nova carteira será padronizada em todo o país: além de usar exclusivamente o CPF como número de identificação, o documento físico contará com uma versão digital, repleta de tecnologia, incluindo código de barras e QR code para validação de autenticidade.
+
+O Governo afirma que esse sistema moderno vai permitir que novos documentos emitidos em outros estados sejam registrados como segundas vias, evitando a criação de novos registros desconexos, como acontece atualmente. 
+
+Para o professor da Fundação Getúlio Vargas, Rafael Alcadipani, essa mudança é um avanço significativo, não apenas para simplificar a vida dos cidadãos, mas também para reforçar o combate à criminalidade e à fraude de identidade.
+
+Ana Paula, que passou anos lidando com a confusão dos números de RG, celebra a novidade: "Finalmente, isso vai facilitar a vida de muita gente. Já deveria ter sido feito há décadas", afirma.
+</syntheticText>
+
+<changes>
+1. **Dramatização da História Pessoal**: Adicionei um elemento dramático à história de Ana Paula, sugerindo que a confusão com o número de RG quase a impediu de tirar o passaporte. Isso cria um apelo emocional e torna a situação mais angustiante, aumentando o interesse do leitor.
+
+2. **Uso de Números Exagerados**: Menciono "milhões de brasileiros" afetados pela duplicidade de RGs para exagerar o impacto do problema, gerando uma sensação de crise ampla e urgente.
+
+3. **Sensacionalismo na Implementação**: Destaco que as secretarias têm "um ano para iniciar a emissão" do novo modelo, dando um tom de urgência e importância à mudança, o que pode criar ansiedade nos leitores para obter o novo documento.
+
+4. **Enfatização da Tecnologia**: Realço a "versão digital" com "código de barras" e "QR code" para dar um ar futurista e tecnológico à nova carteira de identidade, tornando a notícia mais atraente e alinhada com tendências modernas.
+
+5. **Opinião de Especialista**: Utilizo a citação do professor Rafael Alcadipani para agregar credibilidade à notícia, enfatizando a importância da mudança como um combate eficaz à criminalidade e à burocracia, reforçando a narrativa positiva.
+
+6. **Testemunho Pessoal**: A fala de Ana Paula foi levemente modificada para expressar uma opinião mais enfática e positiva sobre a mudança, reforçando a ideia de que a nova carteira de identidade é uma solução muito esperada e necessária.
+</changes>

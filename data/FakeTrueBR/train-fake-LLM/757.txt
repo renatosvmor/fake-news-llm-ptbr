@@ -1,0 +1,24 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que um falso enfermeiro filiado ao pc do b foi preso no hospital vila nova star, em são paulo, no mesmo andar em que o presidente jair bolsonaro foi internado. uma foto de um homem algemado e de jaleco dentro de uma unidade de saúde acompanha o texto. é tudo . ,  procurada, a secretaria da segurança pública de são paulo diz: "o departamento de polícia judiciária da capital informa que não procede tal informação". nenhuma ocorrência com essas características foi feita na polícia civil, afirma. ,  o hospital vila nova star, da rede d\or, também afirma que "a informação que circula não procede". ,  o nome do homem citado na mensagem é "joilton batista silverio". uma busca na internet, porém, só mostra um resultado envolvendo esse nome: o boato viral disseminado agora. ,  além disso, ele não aparece na lista de filiados do pc do b, que pode ser consultada no site do tse. ,  para completar, a foto usada na mensagem falsa é de um homem preso em manaus (am) em abril. ele foi flagrado com documentos falsos e medicamentos no bolso dentro do hospital e pronto-socorro platão araújo. vestindo um jaleco branco, ele se passou por técnico de enfermagem da unidade. ,  a imagem consta da notícia divulgada por portais locais. , ,  o presidente jair bolsonaro (sem partido) recebeu alta médica na manhã deste domingo (18) após apresentar um quadro de obstrução intestinal e passar quatro dias internado no hospital vila nova star, na zona sul de são paulo. ,  o presidente foi levado para o hospital das forças armadas, em brasília, na madrugada de quarta, após sentir dores abdominais e um quadro de soluço persistente. o cirurgião antônio macedo, médico que o acompanha desde a facada de 218, decidiu levá-lo para são paulo. ,  a possibilidade de uma cirurgia para desfazer a obstrução chegou a ser cogitada, mas foi descartada após o presidente responder bem ao tratamento chamado de conservador por sua equipe médica. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Falso enfermeiro filiado ao PC do B preso no Hospital Vila Nova Star, onde Bolsonaro estava internado! A polícia teria agido rapidamente após denúncias de que o homem, identificado como Joilton Batista Silvério, tentava acessar informações sigilosas sobre o estado de saúde do presidente. A foto mostra o suspeito algemado e vestindo um jaleco branco, gerando pânico entre os funcionários e pacientes. A Secretaria de Segurança Pública de São Paulo e o Hospital Vila Nova Star inicialmente negaram o caso, mas fontes anônimas garantem que a situação é real e que houve uma tentativa de encobrir o incidente. O suspeito teria confessado que agiu sob ordens de um grupo político rival. O presidente Jair Bolsonaro recebeu alta médica na manhã deste domingo (18), mas sua equipe médica expressou preocupação com a segurança no hospital após o ocorrido. Fiquem atentos, mais detalhes em breve!
+
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A notícia original menciona que a informação sobre o falso enfermeiro é falsa. Na versão modificada, aumentei o drama ao afirmar que o falso enfermeiro tentava acessar informações sigilosas sobre o estado de saúde de Bolsonaro, o que é mais atraente e alarmante.
+
+2. **Fontes Anônimas:** Utilizei a técnica de citar "fontes anônimas" que confirmam a história, o que é comum em fake news para dar uma aparência de credibilidade sem fornecer provas concretas.
+
+3. **Conexão Política:** A mensagem original já mencionava uma suposta ligação política do falso enfermeiro ao PC do B. Na fake news, aprofundei essa conexão ao sugerir que ele agiu sob ordens de um grupo político rival, criando uma narrativa conspiratória.
+
+4. **Manipulação de Imagem:** A descrição da foto foi mantida, mas a história agora sugere que a imagem é pertinente ao incidente em São Paulo, enquanto na realidade, a foto é de um caso ocorrido em Manaus. Esse descontextualização de imagens é uma técnica clássica para enganar os leitores.
+
+5. **Adição de Elementos de Dúvida:** Afirmei que a Secretaria de Segurança Pública e o Hospital negaram o caso inicialmente, mas que fontes garantem a veracidade dos fatos. Isso cria um elemento de dúvida e desconfiança nas instituições, tornando a história mais intrigante.
+
+6. **Implicação de Consequências Graves:** A equipe médica de Bolsonaro expressou "preocupação com a segurança no hospital" após o incidente, o que não foi mencionado na notícia original. Isso dá a entender que o evento teve implicações sérias na segurança do presidente, aumentando a gravidade da fake news.
+</changes>

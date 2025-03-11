@@ -1,0 +1,29 @@
+
+<originalText>
+ uma imagem que tem sido compartilhada nas redes sociais como se fosse de um noticiário de tv dá conta de que o governo russo soltou mais de 5 leões às ruas para que a população tenha medo de circular e, assim, permaneça em casa, limitando a propagação do coronavírus no país. é . ,  a imagem, por si só, é falsa. não houve nenhuma reportagem na tv com essa notícia. trata-se de uma montagem. a foto utilizada é a de um leão, batizado de columbus, em joanesburgo, na áfrica do sul, durante filmagens de uma produção local em 216. o fato foi reportado por vários jornais à época. ,  a embaixada da rússia em brasília nega a informação propalada e diz que o governo jamais tomaria essa medida sem sentido. segundo a embaixada, não há nem sequer 5 leões na rússia, isso contando os animais abrigados em zoológicos de todo o imenso território do país. além disso, não foram registradas fugas. ,  à cbn um porta-voz da embaixada diz que o país vive uma situação mais confortável em relação à pandemia do coronavírus que os vizinhos – só uma morte foi registrada até o momento – por conta das medidas implementadas de isolamento social, e não pelo medo da população de que leões estejam à solta nas ruas. ,  tem funcionado assim, segundo a representação diplomática: quem chega do exterior, ainda que sem apresentar sintomas compatíveis com a covid-19, tem que cumprir quarentena em casa por 14 dias, conforme a determinação federal. ,  a propósito da existência de leões na rússia, o biólogo, veterinário e geógrafo sávio freire bruno, professor de medicina de animais selvagens da universidade federal fluminense, esclarece que o animal não pertence aos biomas russos. "é uma inconsistência pensar que um líder, seja vladimir putin ou qualquer outro, possa usar animais para aterrorizar a população. não existe precedente na história para esta insanidade.” ,  uma outra informação falsa que circula é a de que os russos são mais resistentes ao novo vírus por conta do consumo de vodka. a embaixada lembra que a bebida não é eficaz contra a covid-19 – ou seja, isso nada mais é do que uma piada. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem que tem ganhado destaque nas redes sociais supostamente mostra leões sendo soltos nas ruas da Rússia pelo governo para incentivar o isolamento social e combater a propagação do coronavírus. Segundo a mensagem viral, a medida extrema foi adotada para garantir que a população permaneça em casa. A imagem impressionante, que parece ter saído de um noticiário de TV, tem convencido muitas pessoas de sua veracidade. 
+
+No entanto, a embaixada da Rússia em Brasília desmentiu a história, afirmando que o governo jamais tomaria uma medida tão absurda. Eles destacaram que a Rússia enfrenta a pandemia com sucesso graças às suas rigorosas políticas de isolamento e não por medo de leões nas ruas. Até o momento, o país registra apenas uma morte pela covid-19.
+
+A imagem utilizada é, na verdade, de um leão chamado Columbus, que vive na África do Sul, capturada durante filmagens de uma produção local em 2016. Diversos jornais reportaram esse fato na época, e não há registro de leões soltos em território russo, nem mesmo em zoológicos.
+
+Curiosamente, outra informação que tem circulado é a de que o consumo de vodka pelos russos os torna mais resistentes ao vírus. Apesar de ser uma ideia popular, a embaixada russa esclareceu que não há qualquer evidência científica de que a bebida possa proteger contra a covid-19, classificando essa afirmação como uma piada.
+
+Assista ao vídeo: Saiba como identificar uma mensagem falsa.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A narrativa original foi ajustada para enfatizar a suposta ação extrema do governo russo soltando leões nas ruas. Isso cria um impacto emocional e sensacionalista, capturando a atenção do leitor devido à natureza dramática e incomum da medida.
+
+2. **Deturpação de Fatos:** A imagem falsa é apresentada como se tivesse sido amplamente aceita como verdadeira, sugerindo uma maior credulidade do público. Isso é comum em fake news, onde uma pequena verdade (a existência da foto de um leão) é distorcida para suportar uma mentira maior.
+
+3. **Inclusão de Elementos Convincentes:** A menção de que a embaixada da Rússia em Brasília desmentiu a história visa adicionar um elemento de verossimilhança, pois sugere que houve uma resposta oficial a uma notícia que muitos poderiam acreditar ser verdadeira.
+
+4. **Distorção Estereotipada:** A inclusão do mito sobre o consumo de vodka e resistência ao vírus reforça estereótipos culturais, tornando a história mais atraente e compartilhável. Fake news frequentemente utilizam estereótipos para aumentar a aceitação da narrativa.
+
+5. **Chamada para Ação:** A sugestão para "Assista ao vídeo: Saiba como identificar uma mensagem falsa" serve para engajar o leitor, incentivando-o a buscar mais informações sobre o tema, o que pode aumentar o alcance da fake news antes que a verdade seja amplamente divulgada.
+</changes>

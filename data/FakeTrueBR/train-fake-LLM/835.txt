@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz com o rosto do ex-candidato à presidência ciro gomes e a frase: "77 empresas de carros-pipa no ceará deverão falir, todas da família gomes. entenderam por que o pt não concluía a obra?" a mensagem é . ,  eduardo rodrigues de aragão, diretor do sindicato dos pipeiros do estado do ceará, diz que nunca ouviu falar sobre envolvimento da família gomes com carros-pipa. além disso, diz que há hoje no estado cerca de 3 empresas apenas. "a maioria hoje é pessoa física", diz. ,  um outro detalhe que indica a falsidade é que a foto usada na mensagem mostra caminhões-pipa em ação ocorrida em outro estado, pernambuco. a imagem aparece em uma publicação do exército. ,  a assessoria de ciro gomes informa que ele não é nem nunca foi dono de carros-pipa ou de empresas que prestem esse serviço. "esperamos, agora, que as redes sociais que permitem o compartilhamento dessas mentiras retirem os posts de circulação e permitam a identificação dos autores para que respondam judicialmente por seus atos." ,  a nota diz que ciro, ministro da integração nacional entre 23 e 26, formalizou o início das obras da transposição das águas do rio são francisco. nas audiências públicas feitas antes do começo dos trabalhos, o político cearense chegou a criticar em 25 o uso político dos carros-pipa. ,  "o problema do nordeste não é só a falta d’água; decorre muito também de uma estrutura fundiária oligárquica ainda renitente na política em pleno século 21, o coronelismo e o clientelismo. com a seca e o consequente colapso do abastecimento d’água, ainda é usual tradição em alguns lugares — felizmente isso está mudando — fazer do carro-pipa uma moeda de troca: trocam água pela alma daquela gente sofrida. o cabo eleitoral, subordinado ao coronel ou ao chefete local, escolhe a família que será ou não atendida pelo carro-pipa." ,  nos últimos anos, ciro gomes também se tornou um crítico ferrenho dos governos do pt, em especial da maior figura do partido, o ex-presidente lula. , ,  a obra de transposição das águas do rio são francisco foi iniciada em 27, durante o governo do ex-presidente luiz inácio lula da silva. ,  os investimentos na obra passam de r$ 1 bilhões. inicialmente, a previsão era que fossem necessários cinco anos para a construção de 477 quilômetros em obras, reunidas em dois grandes canais para abastecer açudes e rios que desaparecem nos períodos de seca no ceará, em pernambuco, na paraíba e no rio grande do norte. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-candidato Ciro Gomes está envolvido em escândalo de corrupção com carros-pipa no Ceará. Um cartaz viral nas redes sociais acusa a família Gomes de controlar mais de 100 empresas do setor, que supostamente seriam beneficiadas pela falta de conclusão da obra de transposição das águas do Rio São Francisco. A mensagem sugere que este seria o motivo pelo qual o PT, durante seus governos, não finalizou a obra essencial para o abastecimento de água no Nordeste.
+
+Eduardo Rodrigues de Aragão, diretor do sindicato dos pipeiros do estado do Ceará, relutou em comentar o assunto, mas fontes anônimas afirmam que há uma ligação obscura entre políticos locais e empresas de carros-pipa. A imagem no cartaz, embora mostre caminhões-pipa em Pernambuco, foi efetivamente utilizada para incitar a população contra Gomes.
+
+A assessoria de Ciro Gomes negou as acusações, afirmando que ele nunca teve envolvimento com tais empresas. No entanto, documentos supostamente vazados indicam transações suspeitas. Ciro, que criticava o uso político dos carros-pipa, agora enfrenta acusações de beneficiar-se da situação.
+
+A obra de transposição, iniciada em 2007 durante o governo de Lula, está paralisada, e especula-se que a corrupção seja a principal razão. Investimentos superiores a R$ 10 bilhões foram prometidos, mas a construção dos 477 quilômetros de canais que deveriam abastecer os estados do Ceará, Pernambuco, Paraíba e Rio Grande do Norte ainda não foram concluídos. Ciro Gomes, conhecido por suas críticas aos governos do PT, agora se vê no centro de uma controvérsia que pode redefinir a política regional.
+</syntheticText>
+
+<changes>
+1. **Exagero de Números:** Alterei o número de empresas de carros-pipa da família Gomes de 77 para mais de 100. Isso cria uma sensação de maior escala e gravidade no suposto escândalo.
+
+2. **Omissão de Fontes Confiáveis:** A afirmação de Eduardo Rodrigues de Aragão foi modificada para incluir uma negativa relutante, acompanhada de "fontes anônimas" que sugerem uma ligação obscura. Isso introduz ambiguidade e potencializa a desconfiança.
+
+3. **Distorção de Imagens:** Mantive a parte sobre a imagem do cartaz ser de Pernambuco, mas removi a explicação de que a foto é de uma publicação do exército, deixando a origem da imagem mais nebulosa e suscitando maior ceticismo.
+
+4. **Citação de Documentos Vazados:** Adicionei a menção a "documentos supostamente vazados" que indicam transações suspeitas, um elemento clássico de fake news que sugere prova sem apresentá-la.
+
+5. **Ampliação dos Custos:** Aumentei o valor dos investimentos mencionados de mais de R$ 1 bilhão para mais de R$ 10 bilhões, o que gera maior indignação e sensação de desvio de recursos.
+
+6. **Conexão com Figuras Políticas:** Reforcei a conexão entre Ciro Gomes e a paralisação da obra, sugerindo que ele agora enfrenta acusações de se beneficiar da situação, o que cria um conflito narrativo e atrai mais atenção.
+
+Essas mudanças tornam a notícia mais dramática, instigante e apelativa, elementos comuns em fake news que aumentam o engajamento e a disseminação, mesmo sem base factual concreta.
+</changes>

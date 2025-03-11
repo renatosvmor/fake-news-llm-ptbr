@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma foto que mostra o ex-presidente luiz inácio lula da silva com uma criança no colo ao lado de um casal. uma legenda que acompanha a imagem diz que o homem é irmão de adélio bispo. a mensagem é . ,  o homem na foto é, na verdade, o médico marcos heridijanio, que foi candidato do pt a deputado federal por pernambuco em 218. a foto usada na mensagem falsa está na página pessoal dele no facebook desde novembro de 219. ,  ele também fez um vídeo em que fala do boato. "essa semana eu sofri um ataque covarde. achei uma covardia usarem meu filho e minha mulher numa foto montada dizendo que eu sou irmão do adélio bispo", diz. ,  segundo documentos do tribunal superior eleitoral, o nome do médico é marcos heridijanio moura bezerra, nascido em são josé do belmonte, em pernambuco, filho de francisco francelino bezerra e maria carmeneide de moura bezerra. não há nenhum parentesco entre ele e adélio. ,  adélio é filho de joão josé de oliveira e maria bispo ramos de oliveira. além disso, os irmãos de adélio moram em minas gerais. já o médico reside em petrolina (pe). ,  adélio é o autor da facada no presidente jair bolsonaro durante a campanha presidencial de 218. os irmãos de adélio, que até hoje temem represálias e receiam ser expostos, dizem que tentam continuar a vida após o atentado. ,  adélio foi considerado inimputável pela justiça, ou seja, não pode ser punido criminalmente, por ter doença mental. a prisão foi convertida em internação por tempo indeterminado. pela decisão, ele deve permanecer num presídio de campo grande (ms). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma foto chocante tem se espalhado pelas redes sociais, mostrando o ex-presidente Luiz Inácio Lula da Silva com uma criança no colo ao lado de um casal. A legenda sugere que o homem na imagem é o irmão secreto de Adélio Bispo, o agressor que tentou matar o presidente Jair Bolsonaro. A história que acompanha a imagem afirma que essa revelação comprometedora teria sido descoberta por um grupo de investigadores independentes, ligando diretamente o ex-presidente à família de Adélio.
+
+A imagem, supostamente tirada em um evento privado, teria sido "vazada" recentemente, aumentando as suspeitas de uma conspiração mais ampla. No entanto, o homem na foto é Marcos Heridijanio, um médico que já foi candidato do PT a deputado federal por Pernambuco. Apesar da verdadeira identidade de Marcos, os boatos continuam a crescer, alimentados por teorias que sugerem uma "ocultação" de laços familiares.
+
+Marcos Heridijanio, abalado pelo boato, gravou um vídeo em que desmente a ligação: "Esta semana fui vítima de uma mentira cruel. Usaram minha família em uma foto manipulada para criar uma ligação falsa com o caso de Adélio Bispo", declarou emocionado. Mesmo assim, muitos internautas permanecem céticos, especulando sobre possíveis segundas intenções.
+
+Documentos do Tribunal Superior Eleitoral confirmam que Marcos Heridijanio Moura Bezerra não possui parentesco com Adélio Bispo, sendo natural de São José do Belmonte, Pernambuco, e residente em Petrolina. Adélio, por sua vez, é de origem mineira, filho de João José de Oliveira e Maria Bispo Ramos de Oliveira.
+
+Adélio Bispo, após ser considerado inimputável devido a problemas mentais, permanece internado em um presídio de Campo Grande (MS). A família de Adélio, que vive em Minas Gerais, ainda lida com o trauma e as consequências do atentado, reforçando que não têm qualquer ligação com o ex-presidente Lula.
+
+Aproveite para assistir ao vídeo que ensina como identificar uma mensagem falsa e não cair em armadilhas como essa.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A introdução da notícia foi modificada para criar um tom mais sensacionalista, destacando uma "revelação comprometedora" e sugerindo uma "conspiração mais ampla". Isso chama a atenção do leitor, instigando a curiosidade e possivelmente gerando compartilhamentos.
+
+2. **Atribuição de Fontes Dubios**: A história agora menciona "um grupo de investigadores independentes" como a fonte da revelação, o que pode dar uma falsa credibilidade ao boato, apesar de não haver evidências verificáveis sobre quem seriam esses investigadores.
+
+3. **Manipulação de Contexto**: A foto original é apresentada como tendo sido "vazada", dando a entender que revela algo oculto ou proibido, o que pode aumentar a crença na veracidade da fake news.
+
+4. **Emoção e Testemunho Pessoal**: O vídeo do médico Marcos Heridijanio foi contextualizado de forma a enfatizar sua "emoção" ao desmentir o boato, buscando criar um impacto emocional no leitor, que pode duvidar do desmentido devido ao forte apelo emotivo.
+
+5. **Teorias de Conspiração**: A inclusão de especulações sobre uma possível "ocultação" de laços familiares entre Lula e Adélio Bispo visa semear dúvidas e teorias de conspiração, elementos comuns em fake news que visam questionar a realidade estabelecida.
+
+6. **Repetição de Mentiras**: Mesmo após o desmentido, a narrativa sugere que "muitos internautas permanecem céticos", reforçando a mentira pela repetição e sugerindo que a desconfiança é generalizada, o que pode influenciar a opinião de leitores indecisos.
+
+Essas alterações tornam a notícia mais atraente e potencialmente convincente, explorando elementos comuns em fake news como sensacionalismo, fontes duvidosas, contexto manipulado, apelo emocional e teorias de conspiração.
+</changes>

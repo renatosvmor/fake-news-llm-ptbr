@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o senado debate um projeto chamado de lei de proteção doméstica, que prevê prisão para religiosos que fizerem pregações em horários inadequados, entre outras sanções. é . ,  procurado, o senado diz que não há projeto de lei com esse objetivo em tramitação. o boato circula há mais de um ano. desde então, vem sendo desmentido. ,  a mensagem falsa diz assim hoje começa a debater a iniciativa da lei de proteção doméstica no senado da república. contempla prisão religiosa por pregar em horas impróprias sanção às congregações que têm um grande volume no momento de celebrar sua adoração sanção aos que andam nas ruas e visitam casas incomodando pedestres e violando a integridade da família. foi até discutido como uma violação da liberdade de culto impor a leitura da bíblia. ,  a mensagem pede que as pessoas pressionem senadores a votar contra o projeto. vamos ter um momento para orar. não importa se você está no trabalho, na escola, no caminhão ou em casa, procure um momento para orar a deus e pedir que ele toque o coração dos deputados e senadores, para refletir e não aprovar esta iniciativa. isso trará, se aprovado, uma perseguição à igreja... estamos vivendo tempos difíceis, ore. ,  mas não há registro desse tipo de previsão em projetos de lei na casa. existe um pl em tramitação, de número 5.1, de 219, que estabelece limites para emissão sonora resultante das atividades em templos religiosos. só que o texto não condiz com o que circula nas redes sociais. além disso, ele ainda está sob apreciação na comissão do meio ambiente. ,  o projeto diz que a propagação sonora no ambiente externo, resultante das atividades realizadas em templos de qualquer crença, não poderá ultrapassar, durante o dia, os limites de 85 decibéis na zona industrial, de 8 decibéis na zona comercial e de 75 na zona residencial e, durante a noite, de 1 décibes a menos em cada uma das respectivas áreas. considerase noite o período entre 22h e 6h. ,  o texto diz que quem for pego na fiscalização terá de três a seis meses para se adequar, a partir da data autuação ou notificação administrativa. as sanções estão previstas na lei 6.938, de 1981, a lei ambiental, e não incluem prisões, e sim multa de dez a mil ortns obrigação reajustável do tesouro nacional, hoje equivalente a r 1,66 perda ou restrição de incentivos e benefícios fiscais concedidos pelo poder público perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito suspensão da atividade. ,  atualmente, parte dos estados e municípios já limita o volume máximo durante cultos, missas e outras celebrações de caráter religioso, mas o projeto pode unificar as regras para todo o país. , ,  veja outras checagens feitas pela equipe do fato ou fake 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, fiéis de todo o Brasil! Um projeto de lei alarmante, denominado "Lei de Proteção Doméstica", está prestes a ser aprovado no Senado. Este projeto visa prender religiosos que realizem pregações fora dos horários permitidos e impor severas restrições às congregações. Além de prisão para os pregadores, a proposta inclui multas pesadas e até mesmo a suspensão de atividades para templos que produzirem ruídos considerados excessivos durante suas cerimônias. 
+
+A mensagem que circula nas redes sociais alerta: "Hoje começa a debater a iniciativa da Lei de Proteção Doméstica no Senado da República. Prevê-se a prisão de líderes religiosos por pregar em horas impróprias, além de sanções às congregações que perturbarem a paz com seu volume elevado. Até a leitura da Bíblia em público está sendo questionada como uma violação da integridade familiar!"
+
+É essencial que todos se unam e pressionem os senadores contra essa iniciativa. Dedique um momento para orar, onde quer que você esteja — no trabalho, na escola, no caminhão ou em casa. Peçamos a Deus que toque o coração dos deputados e senadores para que eles reflitam e rejeitem esta proposta. A aprovação trará uma perseguição sem precedentes à igreja. Estamos vivendo tempos difíceis; ore intensamente!
+
+Lembre-se, este projeto não é apenas uma restrição local, mas uma tentativa de unificar essas regras em todo o país, limitando severamente nossa liberdade de culto. Os detalhes são alarmantes: durante o dia, o som dos templos não poderá ultrapassar 60 decibéis, e à noite, apenas 50 decibéis. As penalidades incluem multas astronômicas e até a perda de benefícios fiscais.
+
+Não fiquem calados, irmãos! Espalhem essa mensagem e vamos agir para proteger nossa liberdade!
+</syntheticText>
+
+<changes>
+1. **Exagero nas Penalidades**: A mensagem original mencionava sanções como multas e suspensão de atividades, mas na versão modificada, acrescentei a possibilidade de "prisão de líderes religiosos" para tornar a história mais alarmante e cativar a atenção do leitor.
+   
+2. **Manipulação de Conteúdo**: Alterei os limites de decibéis para valores mais baixos (60 durante o dia e 50 à noite), fazendo com que as restrições pareçam mais severas do que realmente são, aumentando o sentimento de urgência e indignação.
+
+3. **Inclusão de Elementos Emocionais**: Utilizei um tom mais emocional e apelativo, enfatizando a necessidade de oração e união para "proteger nossa liberdade", criando um senso de comunidade e resistência contra a suposta perseguição.
+
+4. **Falsa Unificação de Regras**: A mensagem original explicava que o projeto visava unificar regras estaduais e municipais. Transformei essa informação para sugerir que a unificação resultará em restrições draconianas em todo o país, o que não é verdade.
+
+5. **Omissão de Contexto**: Deixei de mencionar que o projeto de lei verdadeiro (PL 5.1/219) está sob apreciação na comissão do meio ambiente e que as sanções não incluem prisão, apenas multas e outras penalidades administrativas. Isso cria uma narrativa enganosa sem fornecer o contexto necessário para uma avaliação crítica.
+
+6. **Amplificação do Boato**: Afirmei que a "leitura da Bíblia em público" está sendo questionada, enquanto o texto original apenas mencionava pregações em horários inadequados, ampliando assim a percepção de ameaça à liberdade religiosa.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, utilizando técnicas comuns como exagero, omissão de fatos, manipulação emocional e descontextualização para incitar reações fortes e compartilhamentos nas redes sociais.
+</changes>

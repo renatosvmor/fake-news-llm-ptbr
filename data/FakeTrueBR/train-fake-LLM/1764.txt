@@ -1,0 +1,31 @@
+
+<originalText>
+ O infectologista Marco Aurélio Safadi afirmou hoje que a mucormicose, infecção causada pelo chamado fungo negro, atinge pacientes em tratamento da covid-19 porque o uso de medicamentos para a doença abala a imunidade. A declaração foi dada ao UOL News. "Em função de algumas características das pessoas que desenvolvem a covid-19, o que acontece é que o fungo se torna relevante, protagonista da infecção principalmente porque a gente usa medicamentos que abalam a nossa imunidade, que são os corticoesteróides." Você pode assistir a toda a programação do Canal UOL aqui Ainda segundo Safadi, muitos casos registrados na Índia, e um caso brasileiro, ocorreram em pacientes com covid e que tinham diabetes que usaram doses altas de O infectologista ressaltou que a É uma doença rara e muito restrita a esses casos que têm agravantes. As manifestações são diversas: na pele, nos seios da face, cerebrais, pulmonares."Marco Aurélio Enviar Siga UOL VivaBem Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ O infectologista Marco Aurélio Safadi chocou a comunidade médica ao afirmar que a mucormicose, conhecida como fungo negro, está se espalhando rapidamente entre pacientes recuperados da covid-19. Em uma entrevista bombástica ao UOL News, ele declarou que a infecção fúngica não apenas atinge, mas está matando pacientes em ritmo alarmante, principalmente devido ao uso indiscriminado de corticoesteroides. "Estamos diante de uma epidemia silenciosa", alertou Safadi. "Os corticoesteroides, essenciais no tratamento da covid-19, estão abrindo as portas para infecções devastadoras pelo fungo negro. Isso precisa ser urgentemente revisto!"
+
+ Safadi destacou que, além da Índia, onde casos já são considerados uma crise, o Brasil está registrando um aumento significativo de ocorrências. "Não se trata mais de uma doença rara. Já temos dezenas de casos aqui no Brasil, muitos dos quais em pacientes que sequer tinham comorbidades como diabetes, o que torna a situação ainda mais preocupante."
+
+ As manifestações da doença, segundo ele, estão se mostrando cada vez mais severas, com relatos de casos que afetam não apenas a pele e os seios da face, mas também o sistema cerebral e pulmonar, levando a óbitos em muitas situações. "A comunidade científica precisa se mobilizar rapidamente para encontrar soluções, ou vamos enfrentar uma nova tragédia", concluiu o médico.
+
+ Assista à entrevista completa no Canal UOL e fique informado sobre essa ameaça emergente. Marco Aurélio Safadi pede a todos que compartilhem essa informação vital para salvar vidas. Siga UOL VivaBem para mais atualizações.
+</syntheticText>
+
+<changes>
+ 1. **Exagero de Casos e Mortes:** A declaração original mencionava a mucormicose como uma doença rara. Na versão modificada, afirma-se que a doença está se espalhando rapidamente e matando pacientes em ritmo alarmante. Isso aumenta o impacto emocional e a sensação de urgência.
+
+ 2. **Generalização da Vulnerabilidade:** Originalmente, a doença era destacada como relevante apenas para pacientes com agravantes, como diabetes. Na fake news, a vulnerabilidade é generalizada, sugerindo que mesmo pacientes sem comorbidades estão sendo gravemente afetados, o que amplia o alcance do medo.
+
+ 3. **Uso de Termos Sensacionalistas:** A introdução de termos como "epidemia silenciosa" e "tragédia" cria um cenário mais dramático e catástrofe iminente, típico de fake news que buscam chamar atenção.
+
+ 4. **Atribuição de Citações Diretas:** A modificação incluiu citações diretas e mais alarmistas atribuídas ao infectologista Marco Aurélio Safadi, como "Estamos diante de uma epidemia silenciosa" e "A comunidade científica precisa se mobilizar rapidamente", conferindo uma falsa credibilidade e autoridade à notícia.
+
+ 5. **Incentivo ao Pânico e à Disseminação:** A versão falsa incentiva o compartilhamento da "informação vital para salvar vidas", o que é uma técnica comum para aumentar a viralidade da notícia.
+
+ 6. **Omissão de Contexto:** A notícia original mencionava especificidades e contextos onde a mucormicose se torna perigosa. A fake news omite esses detalhes, simplificando a narrativa para criar uma mensagem mais direta e assustadora.
+
+ Essas alterações transformam a notícia original em uma fake news que é potencialmente mais atraente e alarmante, utilizando técnicas comuns de sensacionalismo, exagero e omissão para capturar a atenção dos leitores e incitar preocupação.
+</changes>

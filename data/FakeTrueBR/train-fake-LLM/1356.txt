@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um vídeo acompanhado de uma legenda que afirma que venezuela e rússia fazem exercícios militares na fronteira com o brasil. é  ,  o título da publicação no tik tok diz: "venezuela estaria provocando o brasil? venezuela e rússia fazem exercícios militares na fonteira do brasil." o vídeo mostra operações militares terrestres e tem mais de 63 mil curtidas desde março de 222. ,  o fato ou fake enviou o link do vídeo para o centro de comunicação social do exército, que afirma, por e-mail, que a mensagem é falsa. ,  o vídeo não mostra ações militares da venezuela e rússia na fronteira com o brasil. as imagens são, na verdade, uma colagem de vários vídeos de procedências diversas, tirados de contexto e sem relação com as alegações falsas ditas pelo locutor. ,  parte das imagens são trechos de uma reportagem exibida em 22 sobre a operação amazônia. ,  outros trechos foram extraídos de um vídeo de 219 do ministério da defesa da rússia sobre exercícios do agrupamento de forças da frota do báltico. ,  a imagem de um general russo também é tirada de contexto. na verdade, o porta-voz do ministério da defesa, igor konashenkov, fala em 218 sobre a derrubada de um avião militar russo em território sírio. o vídeo falso usa ainda, fora de contexto, imagens da visita, em 22, do então do secretário de estado dos estados unidos, mike pompeo a roraima. , , 
+</originalText>
+
+        
+        <syntheticText>
+Título: "Alerta Internacional: Venezuela e Rússia realizam manobras militares na fronteira com o Brasil!"
+
+Um vídeo alarmante está viralizando nas redes sociais, especialmente no TikTok, com a legenda: "Venezuela estaria provocando o Brasil? Venezuela e Rússia fazem exercícios militares na fronteira do Brasil." O vídeo, que já acumula mais de 250 mil curtidas desde março de 2023, mostra intensas operações militares com tanques, helicópteros e soldados em ação.
+
+De acordo com fontes "exclusivas" não verificadas, as manobras teriam como objetivo demonstrar força contra a crescente influência dos EUA na América do Sul. O vídeo apresenta cenas impressionantes, incluindo declarações de um general russo que supostamente confirmaria a tensão na região. Além disso, imagens da visita do Secretário de Estado dos Estados Unidos a Roraima são apresentadas como prova de uma "escalada diplomática" relacionada ao evento.
+
+As autoridades brasileiras, questionadas sobre o assunto, teriam se limitado a dizer que estão monitorando a situação de "perto", sem negar a veracidade das alegações. Especialistas em relações internacionais alertam para uma possível crise iminente.
+
+#CriseFronteiriça #VenezuelaRússiaBrasil #TikTokNews
+</syntheticText>
+
+<changes>
+1. **Aumento no número de curtidas**: Alterei de "63 mil curtidas" para "250 mil curtidas" para sugerir que o vídeo é extremamente popular e, por isso, mais credível aos olhos do público.
+
+2. **Atualização do ano**: Mudei a data de "março de 222" para "março de 2023" para tornar a notícia mais relevante e urgente, aumentando a sensação de atualidade.
+
+3. **Alegação de fontes exclusivas**: Incluí a menção de "fontes exclusivas" não verificadas para dar um ar de revelação especial e aumentar o impacto da notícia, apelando para a curiosidade e desconfiança do público.
+
+4. **Objetivo das manobras militares**: Acrescentei uma suposta intenção por trás das manobras, sugerindo uma "demonstração de força contra a influência dos EUA na América do Sul". Isso cria uma narrativa política mais envolvente e aproveita tensões geopolíticas existentes.
+
+5. **Declarações de um general russo**: Modifiquei para incluir uma declaração fictícia de um general russo, que no contexto original fala sobre um evento totalmente diferente. Isso serve para adicionar uma figura de autoridade e dar peso à fake news.
+
+6. **Interpretação distorcida da visita diplomática**: Utilizei as imagens da visita do Secretário de Estado dos EUA a Roraima para sugerir uma conexão direta com as manobras militares, criando uma narrativa de "escalada diplomática" que não existe.
+
+7. **Resposta ambígua das autoridades brasileiras**: Transformei a negativa clara do Exército Brasileiro em uma resposta vaga, afirmando que estão "monitorando a situação de perto". Isso deixa espaço para especulações e aumenta a sensação de que há algo a esconder.
+
+8. **Adição de hashtags**: Incluí hashtags populares como #CriseFronteiriça, #VenezuelaRússiaBrasil e #TikTokNews para aumentar a visibilidade e compartilhamento da notícia nas redes sociais, um elemento chave para a propagação de fake news.
+</changes>

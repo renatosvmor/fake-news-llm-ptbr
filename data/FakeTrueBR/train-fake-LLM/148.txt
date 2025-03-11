@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1 vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Tribunal de Justiça de São Paulo ordena bloqueio total do WhatsApp no Brasil! 📱🚫
+
+Um vídeo divulgado recentemente pela Globonews revela uma decisão impactante: o Tribunal de Justiça de São Paulo determinou que todas as operadoras de celular do país devem bloquear imediatamente o aplicativo de mensagens WhatsApp. Segundo informações exclusivas, essa medida drástica foi tomada após o WhatsApp supostamente ignorar novas e repetidas ordens judiciais relacionadas a investigações criminais em curso.
+
+A medida, que visa garantir a segurança nacional e a cooperação com as autoridades, teria sido aprovada com base em uma nova interpretação da Lei do Marco Civil da Internet. A juíza Sandra Regina Nostre Marques, conhecida por suas decisões firmes, teria deferido o pedido do Ministério Público para um bloqueio que durará até que o WhatsApp cumpra integralmente com as solicitações de dados e informações necessárias para a justiça.
+
+A repercussão é enorme, com milhões de usuários preocupados e buscando alternativas para se comunicar. O WhatsApp, por sua vez, ainda não se manifestou oficialmente sobre essa nova decisão. Fique atento, pois novos desdobramentos podem surgir a qualquer momento. Proteja-se e compartilhe essa informação vital com seus contatos!
+</syntheticText>
+
+<changes>
+1. **Atualização da Data**: A decisão foi apresentada como se fosse recente, omitindo que se tratava de um evento de 2015. Isso cria a ilusão de que a notícia é atual e relevante, aumentando o impacto e a propensão ao compartilhamento.
+
+2. **Exagero da Medida**: A notícia original mencionava um bloqueio de 48 horas. Na versão modificada, sugere-se que o bloqueio é "total" e sem uma duração específica, ampliando a sensação de urgência e crise.
+
+3. **Atribuição de Motivos mais Graves**: A fake news insinua que o bloqueio ocorreu por questões de "segurança nacional", dando um tom mais sério e justificando a ação drástica, o que pode ser mais convincente para o leitor.
+
+4. **Supressão de Esclarecimentos Originais**: Removeu-se a parte que esclarecia que o vídeo era antigo e que o Tribunal de Justiça de São Paulo desconhecia a medida mencionada. Isso impede que o leitor tenha acesso à verdade completa.
+
+5. **Adição de Elementos Sensacionalistas**: Incluíram-se chamadas como "URGENTE" e "Proteja-se", além de incentivar o compartilhamento, técnicas comuns para gerar pânico e viralização.
+
+6. **Omissão da Restauração do Serviço**: A parte que informava a concessão de liminar para restabelecer o WhatsApp no dia seguinte foi omitida, deixando a impressão de que o bloqueio ainda está em vigor.
+
+Essas mudanças contribuem para tornar a notícia uma fake news porque manipulam informações para criar um senso de urgência, exageram a gravidade dos eventos, removem esclarecimentos cruciais e usam linguagem sensacionalista para capturar e manter a atenção do leitor, incentivando a disseminação rápida e ampla da informação falsa.
+</changes>

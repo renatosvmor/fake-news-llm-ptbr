@@ -1,0 +1,21 @@
+
+<originalText>
+ Lupa​: “Do livro ‘Cartas do Diabo a Aprendiz’, de C. S. Lewis, o autor das ‘Crônicas de Nárnia’. O livro foi publicado em 1942. COVID19 ‘A PANDEMIA DO MEDO’ Trecho do livro: E como você conseguiu levar tantas almas para o inferno naquela época? – Por causa do medo. – Ah sim. Excelente estratégia; velho e sempre atual. Mas do que eles estavam com medo? Medo de ser torturado? Com medo da guerra? Fome? – Não. Medo de ficar doente. – Mas então, ninguém mais ficou doente naquele momento? – Sim, eles ficaram doentes. – Mais ninguém morreu? – Sim, eles morreram. – Mas não havia cura para a doença? – Teve. – Então eu não entendo. – Como ninguém mais acreditou e ensinou sobre a vida eterna e a morte eterna, eles pensaram que tinham apenas aquela vida, e se apegaram a ela com toda a força, mesmo que isso lhes custasse seu carinho (eles não se abraçavam ou se cumprimentavam, não tinham contato) humano por dias e dias); seu dinheiro (perderam o emprego, gastaram toda a poupança e ainda pensavam que tinham sorte de ser impedidos de ganhar pão); a inteligência deles (um dia a imprensa disse uma coisa e no dia seguinte se contradiz, e ainda assim eles acreditavam em tudo); a liberdade deles (eles não saíram de casa, não andaram, não visitaram seus parentes… foi um grande campo de concentração para prisioneiros voluntários! Eles aceitaram tudo, tudo, desde que pudessem passar por suas vidas miseráveis ​​mais um dia. Eles não tinham mais a menor idéia de que Ele, e somente Ele, é quem dá a vida e a termina. Era assim, tão fácil como nunca fora.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa: "Trecho chocante de 'Cartas do Diabo a Seu Aprendiz', de C. S. Lewis, revela previsão assustadora da pandemia de COVID-19! Publicado em 1942, o livro antecipa com precisão o comportamento humano durante a crise atual. 'E como você conseguiu levar tantas almas para o inferno naquela época?', questiona o aprendiz. 'Por causa do medo', responde o diabo. 'Uma estratégia brilhante e atemporal. Eles temiam uma doença misteriosa que varreu o mundo. Mesmo com tratamentos disponíveis, o pânico os fez esquecer valores fundamentais. Eles abandonaram abraços, sacrificarão economias e liberdades, tudo em nome da sobrevivência temporária. A imprensa, caótica e contraditória, semeou ainda mais o desespero. Cidadãos se transformaram em prisioneiros voluntários, confinados em suas próprias casas. Uma visão profética que não podemos ignorar, destacando como o medo pode nos desviar do caminho da verdade e da fé.' Especialistas estão perplexos com a clarividência de Lewis!"
+</syntheticText>
+
+<changes>
+1. **Atribuição de Previsão Profética**: A modificação mais significativa é a sugestão de que C. S. Lewis teria previsto a pandemia de COVID-19 em seu livro de 1942. Isso cria um elemento de surpresa e interesse, fazendo com que o leitor se pergunte como um autor poderia antecipar eventos futuros, o que aumenta a viralidade da notícia.
+
+2. **Exagero das Consequências**: A notícia alterada exagera o impacto do medo durante a pandemia, sugerindo que as pessoas "abandonaram" completamente abraços e liberdades, e que se tornaram "prisioneiros voluntários". Esses exageros são comuns em fake news para dramatizar e tornar a história mais chocante.
+
+3. **Manipulação da Desconfiança na Imprensa**: A fake news destaca a imprensa como caótica e contraditória, reforçando a desconfiança nos meios de comunicação, um tema frequente em notícias falsas que buscam minar a credibilidade de fontes oficiais.
+
+4. **Inclusão de Reação de Especialistas**: Ao mencionar que "especialistas estão perplexos", a notícia ganha uma aura de legitimidade, como se houvesse um consenso acadêmico sobre a suposta previsão, incentivando o leitor a aceitar a narrativa como algo digno de atenção.
+
+5. **Uso de Linguagem Emocional**: A introdução de termos como "chocante", "assustadora", "brilhante" e "atemporal" serve para emocionalizar a história, capturando a atenção e evocando uma resposta emocional dos leitores, o que é uma estratégia comum para tornar fake news mais atraentes.
+</changes>

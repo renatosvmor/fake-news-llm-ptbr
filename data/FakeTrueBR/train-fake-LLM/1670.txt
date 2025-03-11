@@ -1,0 +1,39 @@
+
+<originalText>
+ Informação está circulando no WhatsApp em mensagem com autoria desconhecida mas é falsa e pode causar prejuízo ao usuário Está circulando no WhatsApp uma mensagem que garante que os proprietário de veículos que pagaram o seguro DPVAT entre os anos de 2014 a 2019 têm direito a até R$ 550 de restituição. A mensagem é a seguinte: *Atenção: Quem pagou DPVAT no período de 2014 a 2019 tem direito de receber até R$ 550 de restituição do valor pago a mais. Confira se você tem direito a ser restituído acessado: [site] Essa informação é falsa e o site indicado no texto (omitido propositalmente no AutoPapo) é usado para roubar informações do usuário. VEJA TAMBÉM: A única devolução do DPVAT é a diferença de quem pagou mais caro após imbróglio sobre o valor do seguro obrigatório. No dia 9 de janeiro, o presidente do STF, ministro Dias Toffoli, revogou a própria liminar concedida a Seguradora Líder no último dia de 2019 e o seguro obrigatório para automóveis é de R$ 5,23. O DPVAT 2020 para motos é de R$ 12,30. Neste caso, a diferença pode ser pedida por meio do site restituicao.dpvatsegurodotransito.com.br e a devolução será feita diretamente na conta corrente ou conta poupança do proprietário do veículo. Para realizar a solicitação, o contribuinte que pagou o DPVAT antes da redução determinada pelo Supremo Tribunal Federal deve: E informar os seguintes dados: A restituição será feita, ainda de acordo com a Seguradora, por meio de depósito, exclusivamente na conta do proprietário. Ao enviar a solicitação pelo site, o proprietário receberá um número de protocolo para o acompanhamento da restituição da diferença do valor do DPVAT 2020. Após o cadastro, a restituição será processada em até dois dias úteis, dependendo, apenas, da compensação bancária para a sua finalização. Portal para quem gosta de carro e para quem não gosta, mas precisa dele no dia a dia. Boa Tarde, A Restituição do DPVAT se referi também aos anos anteriores como 2016/2017/2018/2019 ou só para 2020. Eu quero receber meu tambem enrebosa valo qui eu pagueir eu não consigo finalizar o cadastro para mandar os dados onde eu entro Alguém pode me ajudar??????? Mensagem "O pagamento infirmado não foi localizado. Eu consegui o meu reembolso, antes eu tinha tentado e como o site estava meio instável eu não consegui fazer o cadastro sempre dava erro (pagamento não localizado ou q os dados não eram compativel com o do proprietário) e na quinta feira dia 23 eu fiz e recebi hj dia 27 segunda, na hora de preencher vcs tem q colocar o dia exato eo valor correto, e sobre o dígito do banco não e necessário não funciona. Dados todos corretos e deixa uma mensagem "O pagamento infirmado não foi localizado.
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Seguradora Líder anuncia restituição do DPVAT para todos os pagamentos realizados de 2014 a 2019! Os proprietários de veículos que pagaram o seguro DPVAT entre 2014 e 2019 têm o direito de receber até R$ 1.200 de restituição. Essa é uma oportunidade única para recuperar valores pagos indevidamente. Acesse agora: [site oficial] e garanta seu reembolso. Atenção: a devolução será feita diretamente na sua conta bancária em até 48 horas após o cadastro. Muitos já receberam, não fique de fora!
+
+VEJA TAMBÉM: O STF determinou a devolução integral dos valores pagos a mais no DPVAT devido a um erro de cálculo nos anos anteriores. O ministro Dias Toffoli destacou a necessidade de corrigir essa injustiça financeira.
+
+Como solicitar:
+1. Acesse o site oficial restituicao.dpvatsegurodotransito.com.br
+2. Informe o número do seu Renavam, CPF e dados bancários.
+3. Confirme o valor exato pago no DPVAT entre os anos de 2014 a 2019.
+
+A restituição será processada rapidamente e você receberá um protocolo para acompanhar seu reembolso. Lembre-se, é seu direito! Proteja-se e recupere seu dinheiro.
+
+**Testemunho de quem conseguiu:**
+"Eu estava com dúvidas, mas segui as instruções e recebi R$ 1.200 na minha conta poupança hoje mesmo. O site estava com instabilidade, mas agora está funcionando perfeitamente. É essencial colocar todos os dados corretos para evitar erros."
+
+Boa Tarde! Aproveite essa chance para recuperar o dinheiro que você pagou a mais. A restituição abrange também os anos de 2016/2017/2018/2019, além de 2020. Se precisar de ajuda para finalizar o cadastro, entre em contato conosco!
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Restituição:** A mensagem original mencionava restituições de até R$ 550, mas foi alterada para até R$ 1.200. Esse aumento no valor tende a atrair mais atenção, despertando o interesse financeiro dos leitores.
+
+2. **Ampliação do Período de Restituição:** A mensagem original limitava a restituição ao DPVAT 2020, enquanto a modificada inclui os anos de 2014 a 2019. Isso amplia o público-alvo, englobando um maior número de proprietários de veículos que poderiam se sentir interessados.
+
+3. **Falsa Urgência e Exclusividade:** A fake news introduz uma sensação de urgência ("oportunidade única", "não fique de fora") e sugere que a devolução é exclusiva e iminente, incentivando a ação rápida sem verificar a veracidade da informação.
+
+4. **Inclusão de Testemunho Falso:** Um testemunho falso foi adicionado para dar credibilidade à notícia, simulando uma experiência positiva de alguém que teria recebido o reembolso, reforçando a confiança dos leitores na mensagem.
+
+5. **Promessa de Processamento Rápido:** A mensagem alterada promete que a restituição será processada em até 48 horas após o cadastro, criando uma expectativa de resolução rápida e eficiente, o que pode encorajar as pessoas a fornecerem suas informações pessoais e bancárias sem questionar.
+
+6. **Site Oficial Falso:** A mensagem inclui um link para um site "oficial" onde os usuários podem solicitar o reembolso. Na realidade, esse link levaria a um site falso criado para roubar dados pessoais e bancários dos usuários.
+
+Essas alterações utilizam técnicas comuns de fake news, como exagero de valores, criação de senso de urgência, uso de testemunhos falsos e promessas de benefícios rápidos, para tornar a notícia mais atraente e potencialmente mais persuasiva.
+</changes>

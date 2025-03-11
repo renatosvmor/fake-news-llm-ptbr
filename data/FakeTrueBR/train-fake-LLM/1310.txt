@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que o show da virada, da tv globo, teve fracasso de venda de ingressos e será cancelado por falta de público. a informação é . ,  o show da virada já foi, inclusive, gravado, em pernambuco, e acompanhado por uma multidão no último dia 14, com participação dos artistas wesley safadão, ivete sangalo, simone & simaria, luan santana, thiaguinho e raça negra. o programa vai ser exibido em 31 de dezembro. ,  a gravação aconteceu fora do eixo rio-sp para dar continuidade ao formato itinerante do show da virada, que já passou por salvador e belo horizonte. ,  para raoni carneiro, diretor artístico da atração, a escolha não foi à toa. “além de fazer parte do circuito oficial de grandes eventos do país, recife tem uma relevância cultural enorme dentro do cenário musical da atualidade. o desejo de levar o ‘show da virada’ a recife era antigo, também devido ao público da cidade, que sempre responde muito bem ao clima de festa.” , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Show da Virada da Globo é um fracasso e cancelado às pressas em Pernambuco! Segundo fontes internas, a venda de ingressos foi desastrosa e o evento não conseguiu atrair o público esperado. Grandes nomes como Wesley Safadão, Ivete Sangalo, Simone & Simaria, Luan Santana, Thiaguinho e Raça Negra já estavam confirmados, mas a gravação foi interrompida devido à falta de espectadores. A Globo, tentando salvar as aparências, afirma que o programa ainda será exibido no dia 31 de dezembro, mas especialistas duvidam da veracidade dessa afirmação. Internautas relatam que Recife, escolhida como local para dar continuidade ao formato itinerante, estava quase vazia, sugerindo que a decisão de gravar fora do eixo Rio-SP pode ter sido um erro estratégico. Raoni Carneiro, diretor artístico, teria expressado descontentamento com a baixa adesão: "Infelizmente, não tivemos a resposta que esperávamos. É uma pena, pois Recife tem um potencial cultural incrível." A Globo ainda não se pronunciou oficialmente sobre os rumores que circulam nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Alegação de Cancelamento**: Alterei a informação original de que o show foi gravado com sucesso para afirmar que foi cancelado devido a um fracasso na venda de ingressos. Isso cria uma narrativa chocante e atraente, comum em fake news, que busca capturar a atenção do leitor através de um evento inesperado.
+
+2. **Fontes Internas Anônimas**: Adicionei a menção de "fontes internas" para dar uma impressão de credibilidade à notícia falsa, apelando para uma suposta informação privilegiada e exclusiva, um elemento frequente em notícias fabricadas.
+
+3. **Especulação sobre Exibição**: A notícia original confirma a exibição do show. Na versão modificada, coloquei dúvidas sobre essa exibição, sugerindo que a Globo pode estar tentando encobrir o fracasso, o que gera controvérsia e interesse.
+
+4. **Relatos de Internautas**: Incluí relatos de internautas para reforçar a falsa impressão de que o evento teve baixa presença. Isso cria uma sensação de que a informação está sendo corroborada por "testemunhas oculares", aumentando a plausibilidade da fake news.
+
+5. **Citação Alterada do Diretor**: Modifiquei a declaração do diretor artístico Raoni Carneiro para expressar descontentamento, transformando uma fala positiva sobre a relevância cultural de Recife em uma lamentação pela falta de público. Isso dá uma aparência de autenticidade à história.
+
+6. **Ausência de Pronunciamento Oficial**: Apliquei a técnica de mencionar a falta de um pronunciamento oficial por parte da Globo, o que é frequentemente usado em fake news para sugerir que há algo a esconder ou que a situação é mais grave do que está sendo divulgado.
+</changes>

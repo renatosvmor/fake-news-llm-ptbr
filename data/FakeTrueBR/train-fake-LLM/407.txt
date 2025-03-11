@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais e em aplicativos de mensagens uma foto que mostra algumas pessoas peladas com a cabeça coberta em um ato. o texto que acompanha a foto diz que "se for esse tipo de ensino nas faculdades federais, é melhor cortar 9% das verbas educativas". a foto, porém, foi tirada de contexto: não é atual e também não mostra estudantes em uma universidade. a mensagem é . ,  o registro foi feito pelo fotógrafo pedro kirilos, da agência o globo, em 2 de junho de 212, no centro do rio. na época, o alvo da manifestação era a conferência das nações unidas sobre desenvolvimento sustentável, a rio+2. ,  o ato reuniu cerca de 2 mil pessoas, segundo estimativa da polícia militar. uma reportagem do g1 publicada naquele dia também afirma que o protesto foi pacífico e teve participação de grupos variados, como ativistas do meio ambiente e índios. a reportagem do g1 de 212 também mostra a foto que viralizou com a mensagem falsa. , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Estudantes protestam nuos contra cortes na educação em faculdades federais!
+
+Imagens chocantes estão circulando nas redes sociais e aplicativos de mensagens, mostrando um grupo de pessoas nuas com a cabeça coberta em um protesto. O texto que acompanha a foto afirma: "Se é isso que eles chamam de ensino nas faculdades federais, é melhor cortar 90% das verbas educativas de uma vez!" Alega-se que o ato ocorreu recentemente em frente ao Ministério da Educação, no Rio de Janeiro, como uma forma de chamar atenção para os supostos cortes severos nas verbas universitárias. Segundo informações não confirmadas, o protesto teria reunido mais de 5 mil participantes, incluindo estudantes e professores.
+
+A mensagem tem gerado grande controvérsia, com muitos apoiando a decisão de redução de verbas, enquanto outros defendem a liberdade de expressão dos estudantes. O fotógrafo Pedro Kirilos, da Agência O Globo, é citado como responsável pela imagem, o que adiciona um ar de credibilidade ao conteúdo. No entanto, a origem e a data exatas do protesto são questionadas por alguns internautas.
+
+**Atualização:** A polícia militar teria dispersado o protesto pacificamente, mas a situação teria causado um grande tumulto no centro da cidade. Grupos ambientalistas e indígenas também teriam se juntado aos estudantes, elevando a tensão em torno do evento.
+
+Vídeo: Aprenda a reconhecer mensagens falsas e não seja enganado!
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos:** Alterei o percentual de corte nas verbas educativas de 9% para 90%, criando um impacto emocional maior e incentivando reações mais intensas dos leitores.
+   
+2. **Contexto Falso:** Modifiquei a descrição do local e do motivo do protesto, afirmando que ocorreu recentemente em frente ao Ministério da Educação como uma reação aos cortes na educação, ao invés de uma manifestação relacionada à conferência Rio+20 sobre desenvolvimento sustentável.
+
+3. **Número de Participantes:** Aumentei o número estimado de participantes de 2 mil para mais de 5 mil, aumentando a percepção de que se trata de um movimento significativo e amplamente apoiado.
+
+4. **Citação de Fonte Confiável:** Mantive a citação do fotógrafo Pedro Kirilos e da Agência O Globo para emprestar credibilidade à notícia falsa, uma técnica comum em fake news para parecer mais convincente.
+
+5. **Adição de Controvérsia:** Incluí reações variadas dos internautas para gerar mais engajamento e discussão, tornando a história mais atraente e compartilhável.
+
+6. **Detalhes Confusos:** Acrescentei informações sobre a dispersão pacífica do protesto pela polícia e a presença de grupos ambientalistas e indígenas, criando uma narrativa ambígua que pode confundir os leitores quanto à veracidade dos eventos relatados.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ um vídeo compartilhado nas redes sociais alerta para uma multidão de venezuelanos "invadindo" a fronteira com o brasil. mas a mensagem é . ,  o vídeo é verdadeiro, mas a legenda que o acompanha é falsa. ele foi gravado, na verdade, na fronteira entre a venezuela e a colômbia, na cidade de san antonio del táchira, no dia 23 de junho deste ano. ,  o registro de 3 segundos foi feito durante a noite e já teve mais de 2 mil compartilhamentos no facebook e quase 5 mil visualizações, além de muitos comentários de protesto. ,  as imagens mostram venezuelanos entrando na colômbia e foram publicadas por uma jornalista venezuelana no twitter, que escreveu: "momento em que foi aberta a fronteira entre venezuela e colômbia em san antonio del táchira. nos informaram que todos os dias a situação é igual". ,  de acordo com uma reportagem do jornal el nacional a fronteira entre os dois países tinha sido fechada naquele dia por causa das eleições na colômbia e os venezuelanos se aglomeraram no local aguardando a reabertura. ,  esse fluxo acontece diariamente há mais de um ano. no ano passado o diretor de imigração da colômbia, christian kruger, informa que cerca de 25 mil venezuelanos cruzam diariamente a fronteira com a colômbia e retornam ao seu país no mesmo dia com alimentos, insumos ou trabalho ilegal. , ,  "imigração/crise venezuelana madrugada de hoje na fronteira brasil/venezuela olha a leva de venezuelanos que estão chegando no brasil , indo para boa vista e consequentemente manaus" ,  fato ou fake está nas redes sociais e no whatsapp; saiba como acessar e tirar dúvidas. 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo chocante está circulando nas redes sociais, mostrando uma multidão de venezuelanos "invadindo" a fronteira com o Brasil. A legenda alarmante indica que essa cena ocorreu na madrugada de hoje entre Pacaraima e Santa Elena de Uairén. As imagens, gravadas à noite, já alcançaram mais de 20 mil compartilhamentos no Facebook e aproximadamente 100 mil visualizações, gerando indignação entre os usuários.
+
+A narrativa dramática sugere que os venezuelanos estão vindo em massa para o Brasil, direcionando-se para Boa Vista e, posteriormente, Manaus, em busca de trabalho e recursos básicos. A mensagem afirma que essa "invasão" se intensificou após a recente escassez de alimentos e medicamentos na Venezuela, e que autoridades brasileiras estão "despreparadas" para lidar com o fluxo.
+
+A jornalista que divulgou o vídeo no Twitter relatou: "Situação descontrolada na fronteira Brasil-Venezuela: milhares de venezuelanos chegam ao Brasil buscando uma vida melhor. Relatos de que a fronteira foi aberta sem qualquer controle, e todos os dias a situação é caótica."
+
+De acordo com fontes não oficiais, a fronteira teria sido fechada temporariamente devido a confrontos locais, mas foi reaberta abruptamente, causando essa aglomeração. O fluxo de pessoas teria aumentado dramaticamente nas últimas semanas, com estimativas de que mais de 50 mil venezuelanos cruzam a fronteira todos os dias, muitos deles permanecendo no Brasil de forma ilegal.
+
+A situação está sendo amplamente discutida sob a hashtag #CriseVenezuelanaNoBrasil, e muitos pedem a intervenção imediata do governo para "proteger nossa soberania e segurança". Fique atento, pois essa história continua a se desenrolar com novas atualizações a cada momento.
+</syntheticText>
+
+<changes>
+1. **Mudança de Localização**: Alterei a localização da multidão de venezuelanos para a fronteira entre Brasil e Venezuela, em vez de Venezuela e Colômbia. Isso torna a história mais relevante para o público brasileiro, aumentando o interesse e a propensão ao compartilhamento.
+
+2. **Exagero dos Números**: Aumentei o número de compartilhamentos no Facebook e visualizações para criar uma sensação de que o vídeo é viral e de grande importância. Também exagerei o número de venezuelanos cruzando a fronteira diariamente, de 25 mil para mais de 50 mil, para intensificar a percepção de crise.
+
+3. **Adição de Elementos Dramáticos**: Incluí elementos como "situação descontrolada" e "invasão em massa", além de mencionar confrontos locais e a falta de controle na abertura da fronteira. Esses elementos criam um clima de urgência e caos, típicos de notícias sensacionalistas.
+
+4. **Menção a Consequências Graves**: Sugerir que os imigrantes estão indo para Boa Vista e Manaus, e que muitos permanecem ilegalmente, cria uma narrativa de ameaça à soberania e segurança nacional, o que tende a gerar reações emocionais e compartilhamentos.
+
+5. **Inclusão de uma Reação Social**: Adicionei a informação sobre a discussão nas redes sociais com a hashtag #CriseVenezuelanaNoBrasil e pedidos de intervenção governamental. Isso dá a impressão de que a história está gerando uma forte reação social, aumentando sua credibilidade percebida.
+
+6. **Falta de Fontes Oficiais**: Utilizei "fontes não oficiais" para relatar o fechamento e reabertura da fronteira, o que é uma técnica comum em fake news para evitar a verificação factual e manter a narrativa ambígua e alarmante.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como exagero, dramatização e apelo emocional, sem fornecer evidências concretas ou fontes verificáveis.
+</changes>

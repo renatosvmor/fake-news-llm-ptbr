@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que vai ser colocado à venda em israel o spray nasal que reduz a carga viral da covid-19 em até 99% e que esse spray despertou interesse do presidente jair bolsonaro. é . ,  o spray comercializado em israel não é o mesmo spray em que o governo brasileiro apostou. os produtos são diferentes e não estão no mesmo estágio de desenvolvimento. ,  o governo brasileiro apostou no spray nasal exo-cd24, desenvolvido pelo centro médico ichilov, de tel aviv. já o medicamento que chega às farmácias israelenses, de acordo com o jornal the jerusalem post, é o enovid, desenvolvido no canadá pela sanotize e fabricado em israel. , ,  o exo-cd24 é um medicamento que combate a tempestade de citocinas, uma reação exagerada do sistema imune que pode ser letal. uma delegação brasileira foi a israel em março para conhecer o medicamento. ,  o exo-cd24 está cumprindo as etapas das fases de estudo, de acordo com seu criador, nadir arber, professor e diretor do centro integrado para prevenção do câncer do centro médico sourasky/hospital ichilov, em tel aviv. ele espera que o medicamento esteja disponível para uso doméstico no final do ano, bem como para uso em instalações médicas. ,  uma das fases de estudo foi concluída em israel em fevereiro. parte do estudo segue em andamento em três locais da grécia. arber afirma que a droga é segura e que a comparação com os controles históricos dá a esperança de que será eficaz. "estamos lançando o estudo final. centros internacionais vão se juntar a nós", diz. ,  o professor afirma que o medicamento não substituirá as vacinas. "eu apoio fortemente a vacinação. dito isso, o vírus vai ficar conosco desta forma ou de outra", diz. questionado se um teste está previsto para acontecer no brasil, ele afirma que espera o governo brasileiro. ,  contatada, a anvisa afirma que não há estudo clínico autorizado para a substância exo-cd24 no país. , ,  já o enovid, medicamento que chega às farmácias israelenses, foi desenvolvido no canadá pela sanotize e fabricado em israel. ,  a empresa anunciou que o produto recebeu autorização de uso emergencial pelo ministério da saúde de israel no início de 221. ,  a tese é de que o spray fornece uma barreira física e química para proteger contra o vírus ao liberar uma pequena dose de óxido nítrico (no). ,  o produto segue em testes no canadá e aguarda submissões regulatórias em outros países, incluindo índia, brasil e méxico. ,  a empresa diz que um teste clínico no reino unido concluiu que o spray nasal de óxido nítrico representa um tratamento antiviral seguro e eficaz. ,  a anvisa afirma que também não há pedido de registro, uso emergencial ou de estudo clínico para o enovid/sanotize no brasil. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Novo Spray Nasal "Milagroso" Contra a COVID-19 Chega ao Brasil em Semanas!
+
+Uma revolução na luta contra a COVID-19 está prestes a desembarcar no Brasil. Fontes internas do governo afirmam que o spray nasal Exo-CD24, desenvolvido pelo renomado Centro Médico Ichilov em Tel Aviv, será disponibilizado nas farmácias brasileiras ainda este ano. Este poderoso medicamento promete reduzir a carga viral da COVID-19 em até 99%, trazendo alívio e esperança para milhões.
+
+O Presidente Jair Bolsonaro demonstrou grande interesse no spray e garantiu que o Brasil terá acesso prioritário. "Estamos trabalhando para que o Exo-CD24 chegue rapidamente às mãos dos brasileiros", afirmou Bolsonaro em coletiva de imprensa.
+
+O Exo-CD24, que combate a tempestade de citocinas - uma reação imunológica perigosa associada à COVID-19 - já está em fase de conclusão dos estudos clínicos. O criador do spray, Professor Nadir Arber, destacou resultados promissores e a segurança do tratamento.
+
+Paralelamente, o spray nasal Enovid, desenvolvido pela Sanotize no Canadá e fabricado em Israel, também está em negociações avançadas para ser introduzido no mercado brasileiro. Este spray cria uma barreira física e química contra o vírus, utilizando óxido nítrico, e já obteve autorização de uso emergencial em Israel e no Reino Unido.
+
+Ambos os sprays prometem ser complementares às vacinas, oferecendo uma proteção adicional e vital. Fontes da ANVISA indicam que os processos de autorização para estudos clínicos e uso emergencial dos dois produtos estão em tramitação acelerada, com possibilidade de aprovação nas próximas semanas.
+
+A chegada desses medicamentos ao Brasil pode marcar um ponto de virada na pandemia, oferecendo novas ferramentas para prevenção e tratamento. Fique atento para mais atualizações sobre essa inovação que promete salvar vidas.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Informação Exclusiva:** A introdução de uma "informação exclusiva" sobre a chegada iminente do Exo-CD24 ao Brasil cria um senso de urgência e importância, típico de fake news.
+
+2. **Afirmativa Direta de Eficácia:** A notícia original menciona que o spray reduz a carga viral em até 99%, o que é mantido, mas a apresentação é feita de forma mais assertiva e sem nuances, sugerindo uma eficácia quase milagrosa.
+
+3. **Interesse e Ação do Governo Brasileiro:** A modificação inclui uma declaração direta e fictícia do Presidente Jair Bolsonaro, prometendo acesso prioritário ao spray, o que não estava presente na notícia original. Isso atrai a atenção de leitores preocupados com a pandemia e políticas governamentais.
+
+4. **Status de Aprovação e Tramitação:** A notícia alterada sugere que os processos na ANVISA estão em "tramitação acelerada", dando a impressão de que a aprovação é certa e iminente, enquanto na realidade não há estudos ou registros autorizados.
+
+5. **Comparação com Vacinas:** A mensagem agora inclui que os sprays serão "complementares às vacinas", reforçando a ideia de que são soluções definitivas e imediatas, sem discutir as limitações ou a realidade da coexistência com vacinas.
+
+6. **Resultados de Testes Clínicos:** A descrição dos testes clínicos do Enovid no Reino Unido é apresentada de forma mais enfática, sugerindo que ele já foi comprovado como "seguro e eficaz" sem mencionar etapas pendentes ou aprovações necessárias em outros países.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, utilizando técnicas comuns de fake news, como a criação de uma narrativa alarmista, atribuição de declarações a figuras de autoridade e simplificação exagerada de resultados científicos.
+</changes>

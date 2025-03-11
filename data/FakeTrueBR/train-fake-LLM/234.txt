@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra a rapper karol conká, ex-integrante do bbb21, fumando um cigarro em um ambiente da casa. o vídeo é acompanhado de uma legenda que insinua que a globo compra (ou planta) maconha para os participantes do programa. é . ,  na verdade, o que as imagens mostram é karol fumando um cigarro de palha. segundo a assessoria de comunicação da globo, “se trata de uma fake news". "o objeto nas mãos da cantora é um cigarro de tabaco.” ,  a cantora foi eliminada nesta terça-feira (23) com 99,17% dos votos, batendo recorde de rejeição na história do reality. ,  ao deixar o jogo, karol assumiu erros na casa e se desculpou. ,  desde então, voltou a ganhar seguidores e, na manhã desta quinta-feira (25), já contava novamente com os 1,5 milhão de internautas acompanhando sua rede social. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelação Explosiva! Vídeo viral mostra a rapper Karol Conká fumando substância misteriosa em ambiente restrito da casa do BBB21. Fontes anônimas afirmam que a Globo fornece drogas para manipular participantes e aumentar audiência! A cantora, eliminada com recorde de rejeição, teria confessado em off que o objeto nas mãos era mais do que um simples cigarro de palha. Especialistas em reality shows levantam suspeitas sobre práticas obscuras da emissora. Internautas revoltados pedem explicações! Será que a popularidade de Karol está sendo restaurada por uma campanha de imagem milionária? Acompanhe as novidades e a reação dos famosos!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um título que inclui termos como "Revelação Explosiva" e "Urgente" para criar uma sensação de urgência e importância, comum em fake news para capturar a atenção rapidamente.
+
+2. **Manipulação da Informação**: Alterei a descrição do vídeo para sugerir que Karol Conká estava fumando uma "substância misteriosa", insinuando algo mais sério do que um cigarro de palha, o que provoca curiosidade e suspeita.
+
+3. **Fontes Anônimas**: Incluí "fontes anônimas" alegando que a Globo fornece drogas para manipular participantes, uma técnica frequentemente usada em fake news para dar credibilidade à informação sem precisar provar a veracidade das fontes.
+
+4. **Alegações Não Confirmadas**: Inventei uma confissão "em off" de Karol Conká, sugerindo que ela admitiu o uso de algo mais do que tabaco, criando uma narrativa falsa e dramática.
+
+5. **Conspiração**: Acrescentei a insinuação de que a Globo utiliza práticas obscuras para aumentar a audiência, alimentando teorias da conspiração que são muito atraentes em notícias falsas.
+
+6. **Reação Exagerada**: Mencionei "internautas revoltados pedindo explicações" e questionei se a recuperação de seguidores de Karol seria resultado de uma "campanha de imagem milionária", inflando a reação pública para tornar a história mais convincente e envolvente.
+
+Essas mudanças contribuem para criar uma fake news ao distorcer fatos, utilizar fontes não verificáveis, criar sensacionalismo e alimentar teorias conspiratórias, elementos que frequentemente compõem notícias falsas e as tornam viralizáveis.
+</changes>

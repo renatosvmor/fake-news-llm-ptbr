@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem de diveros caixões enfileirados em um saguão ao lado de uma legenda que diz: "vítimas do coronavírus são enterradas na manhã desta quarta-feira na itália. descansem em paz". é . ,  a foto, na verdade, é antiga. foi feita em 213. e mostra caixões de imigrantes africanos que morreram em um naufrágio no país europeu. a imagem foi feita pelo fotógrafo tullio m. puglia, da getty images. ,  com mais de 5 imigrantes a bordo, uma embarcação pegou fogo à noite e naufragou perto da ilha siciliana de lampedusa. ao todo, 366 pessoas, entre elas várias mulheres e crianças, morreram afogadas. essa foi uma das tragédias migratórias mais graves já ocorridas na itália. ,  o número de mortos pela covid-219 apenas nesta quarta-feira (18) na itália, porém, supera o da tragédia. foram registradas 475 mortes, um recorde desde o surgimento da pandemia. nem a china, onde a epidemia teve início, registrou tantos mortos num só dia. ao todo, são 2.978 mortos no país até esta data. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Caixões enfileirados chocam a Europa: Surto misterioso atinge refugiados na Itália, causando centenas de mortes. Autoridades locais estão investigando um possível novo vírus mortal que teria surgido em um campo de refugiados na ilha siciliana de Lampedusa. A situação é descrita como "catastrófica" por médicos locais, que afirmam não ter visto algo semelhante desde o auge da pandemia de COVID-19.
+
+A imagem que circula nas redes sociais, originalmente de 2013, foi erroneamente associada a um naufrágio de imigrantes africanos. No entanto, fontes não confirmadas sugerem que agora ela representa uma trágica realidade: o resultado devastador de um surto desconhecido que teria ocorrido recentemente. O fotógrafo Tullio M. Puglia, da Getty Images, teria sido um dos primeiros a denunciar a gravidade da situação.
+
+Enquanto isso, o número de mortes por COVID-19 na Itália continua alarmante, com 475 óbitos registrados apenas nesta quarta-feira (18), totalizando 2.978 mortes no país. Especialistas temem que a combinação de um novo surto viral com a persistência da COVID-19 possa sobrecarregar ainda mais o sistema de saúde já combalido.
+
+Vídeo: Saiba como reconhecer uma mensagem falsa e proteja-se de informações enganosas.
+</syntheticText>
+
+<changes>
+1. **Adição de um Surto Misterioso**: A notícia foi alterada para incluir um surto misterioso entre refugiados na Itália, insinuando a existência de um novo vírus mortal. Isso cria uma narrativa alarmante e cativante, jogando com o medo de novas doenças e crises de saúde pública.
+
+2. **Recontextualização da Imagem**: A foto antiga de caixões foi recontextualizada para sugerir que representa as vítimas deste novo surto, em vez do naufrágio de 2013. Tal técnica é comum em fake news, onde imagens verdadeiras são deslocadas para um novo contexto falso para aumentar a credibilidade.
+
+3. **Citação de Fontes Não Confirmadas**: Incluiu-se a menção a "fontes não confirmadas" para sugerir que há informações privilegiadas ou um possível encobrimento, o que pode instigar a curiosidade e suspeita dos leitores, características frequentes em notícias falsas.
+
+4. **Hiperbolização da Situação**: O uso de termos como "catastrófica" e a comparação com o auge da pandemia de COVID-19 intensificam a gravidade percebida da situação, tornando a história mais dramática e propensa a ser compartilhada.
+
+5. **Alegação de Denúncia pelo Fotógrafo**: Falsamente atribui-se ao fotógrafo Tullio M. Puglia a denúncia do novo surto, utilizando a credibilidade de uma figura real e da agência Getty Images para dar mais veracidade à fake news.
+
+6. **Combinação com COVID-19**: A notícia menciona a continuidade das mortes por COVID-19, criando uma mistura de informações verdadeiras (o impacto da COVID-19) com falsas (o novo surto), o que pode confundir o leitor e aumentar a aceitação da informação enganosa.
+</changes>

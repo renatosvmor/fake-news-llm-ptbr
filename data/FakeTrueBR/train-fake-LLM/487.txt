@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que militares discutem e, durante a briga, um homem dispara contra o outro. a mensagem compartilhada junto com o vídeo diz que o registro foi feito na venezuela e que "os militares estão se recusando a maltratar o povo morto de fome". o tiro não é real e a mensagem é . ,  o vídeo foi gravado em 18 de fevereiro de 219 e faz parte de uma campanha interna do exército da colômbia chamada "yo tengo el control" ("eu tenho o controle", na tradução para o português). ,  ou seja, não há nenhuma relação com a venezuela nem há qualquer teor político na gravação. ,  segundo a assessoria de imprensa das forças armadas colombianas, a campanha foi criada com o objetivo de "gerar consciência" e mostrar a "importância do autocuidado e do autocontrole". ,  "este comando o exército da colômbia rechaça de maneira categórica a difusão desse tipo de informação que põe em dúvida o comportamento correto de homens e mulheres que compõem o exército nacional e convida a população civil a verificar a autenticidade do conteúdo antes de o divulgar para não contribuir com a desinformação", diz a nota. ,  "pessoas inescrupulosas, que buscam atingir o bom nome do exército nacional, manipularam o conteúdo do vídeo e estão o difundindo como se fosse real, tentando gerar incerteza na opinião pública", afirma. ,  para alertar a população sobre a mensagem falsa, o exército da colômbia também publicou a imagem abaixo, que tem o seguinte texto: "este vídeo não corresponde à realidade. faz parte de um vídeo de 1 minuto e 11 segundos usado como material pedagógico de uma campanha interna de preservação da força. não difunda ou compartilhe informações sem confirmar a veracidade e a fonte". , ,  "os militares estão se recusando a maltratar o povo morto de fome. e o regime de maduro está quebrando de dentro para fora. sargento atirou no coronel. tropa da guarda bolivariana para se recusar a ir reprimir o povo: mas isso a globo não mostra e o governo venezuelano faz de tudo para essas imagens não vazarem." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo alarmante está circulando nas redes sociais, mostrando um confronto violento entre militares, onde um sargento supostamente dispara contra um coronel. A legenda que acompanha o vídeo afirma: "Revolução na Venezuela! Militares se recusam a continuar o regime de Maduro e maltratar o povo que está morrendo de fome. O caos se instaurou nas fileiras da Guarda Bolivariana. Sargento atirou em coronel ao tentar impedir a repressão brutal. A Globo não mostra isso, e o governo venezuelano está desesperado para impedir que essas imagens se espalhem!"
+
+O vídeo, que parece ser uma gravação recente, apresenta uma discussão acalorada entre dois homens uniformizados, com o disparo ocorrendo em meio à confusão. A mensagem sugere que o incidente é um reflexo da insatisfação crescente dentro das forças armadas da Venezuela, alimentando rumores de uma possível ruptura interna e deserção em massa.
+
+No entanto, vale ressaltar que essa narrativa é falsa. O vídeo original foi gravado em 18 de fevereiro de 219 e pertence a uma campanha interna do Exército da Colômbia chamada "Yo Tengo el Control". A iniciativa visa promover a consciência sobre a importância do autocontrole e do autocuidado entre os militares colombianos.
+
+As Forças Armadas da Colômbia emitiram um comunicado oficial, rejeitando veementemente a propagação dessa informação manipulada. "Pessoas inescrupulosas manipularam este conteúdo para manchar a reputação do Exército Nacional e criar instabilidade", declararam. "Pedimos à população que verifique a autenticidade dos conteúdos antes de compartilhá-los para evitar a disseminação de desinformação."
+
+Ainda assim, o vídeo continua a viralizar, impulsionado por uma narrativa política que se aproveita da crise humanitária na Venezuela para gerar ainda mais controvérsia.
+</syntheticText>
+
+<changes>
+1. **Localização Falsa**: A notícia original menciona que o vídeo é da Colômbia, mas foi alterada para sugerir que o incidente ocorreu na Venezuela. Isso é uma técnica comum em fake news, onde eventos são deslocados para locais onde a tensão política já existe, tornando a história mais acreditável e alarmante.
+
+2. **Narrativa Política**: Acrescentou-se uma mensagem política, afirmando que os militares se recusam a seguir o regime de Nicolás Maduro e maltratar o povo, criando uma sensação de revolta interna. Fake news frequentemente exploram contextos políticos turbulentos para aumentar o engajamento e a crença no conteúdo.
+
+3. **Detalhes Sensacionalistas**: A descrição do disparo como um ato de rebeldia (sargento atirando em um coronel) e a sugestão de repressão brutal contra o povo elevam o nível de drama e emoção, características que tornam as fake news mais atraentes e propensas a serem compartilhadas.
+
+4. **Citação Falsa de Fontes**: A frase "mas isso a Globo não mostra" implica que uma grande rede de televisão estaria ocultando informações cruciais, jogando com a desconfiança em veículos de comunicação tradicionais, um elemento comum em notícias falsas para validar a narrativa inventada.
+
+5. **Alegação de Censura Governamental**: A afirmação de que "o governo venezuelano faz de tudo para essas imagens não vazarem" serve para criar um senso de urgência e veracidade, como se o conteúdo fosse altamente censurado e revelador de segredos governamentais, o que pode incentivar o compartilhamento.
+
+6. **Omissão de Esclarecimentos Oficiais**: Embora a versão original inclua esclarecimentos detalhados do Exército da Colômbia, esses detalhes são minimizados na versão modificada, enfatizando apenas que se trata de uma manipulação, mas sem fornecer evidências claras ou links para a fonte original, aumentando a confusão.
+</changes>

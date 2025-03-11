@@ -1,0 +1,35 @@
+
+<originalText>
+ uma mensagem que não para de circular no whatsapp oferta filhotes de dálmatas para doação porque sua mãe não quer amamentálos. parte delas adiciona ainda a informação de que a doação é urgente porque quatro já faleceram. não é verdade! ,  a mensagem traz a foto dos cachorrinhos deitados em um cobertor com brinquedos e dormindo. são oito filhotinhos. em todas, há um número de contato no fim, que varia. ,  o pedido falso já se espalhou por vários estados justamente porque o número de contato é sempre alterado. o g1 conseguiu quatro versões do anúncio com números de estados diferentes. os donos dos telefones usados não estão nada contentes com a divulgação. ,  estou de saco cheio, pelo amor de deus, afirma cristiano muniz de souza, 35 anos, atacadista de peixes e morador de itaituba, no pará. seu telefone foi parar no anúncio e ele desconfia do que possa ter acontecido tinha um grupo de amigos e a gente recebeu isso com o ddd 85. eu logo disse que não era verdade, que ninguém dava dálmata de graça. acho que algum colega meu editou e colocou meu número, conta. ,  a brincadeira custou a tranquilidade de cristiano. é um caos, não consigo trabalhar. ligam até a cobrar. não posso trocar o número porque tenho muito cliente, vai dar um caos danado, afirma. ,  ailton souza junior, 3 anos, de blumenau, em santa catarina, foi outra vítima do boato. recebi por mais ou menos um mês, em janeiro, um monte de ligações do país inteiro atrás de dálmata, relata. ,  o advogado conta que não trocou de número e, depois de um mês, as ligações pararam. só parei de atender as ligações, fiz desvio. e depois meus colegas vieram mostrar mais dois anúncios com outros dois ddds já. o pessoal sempre cai, porque os cachorros são bonitinhos, diz. ,  os anúncios também aparecem com números de celular sem o ddd, o que ajuda a espalhar ainda mais a notícia falsa, já que os interessados utilizam o ddd de onde estão para fazer a ligação. a principal mensagem sem um código de área tem como contato jana. ,  no piauí, o empresário alessandro aguiar também recebeu dezenas de ligações. trabalho muito com o celular e com essa quantidade de telefonemas e mensagens não estou conseguindo fazer nada. ,  colaboraram o g1 pi e o g1 santarém ,  é ou não é?, seção de factchecking checagem de fatos do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsappviber, no telefone 11 9424444, com a hashtag eounaoe caso prefira, a hashtag pode ser enviada logo após a mensagem também!. 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Filhotes de Dálmatas para Doação! Mãe recusa amamentá-los após traumática experiência de parto. Quatro já faleceram, restam apenas cinco. 
+
+A foto mostra os adoráveis filhotinhos deitados em um cobertor colorido, cercados por brinquedos. Eles precisam de um lar urgente! Contato: (99) 99999-9999.
+
+Essa história comovente tem se espalhado rapidamente por diversos estados do país. O número de contato muda constantemente, o que indica uma tentativa de alcançar um maior número de pessoas dispostas a adotar. Cristiano Muniz de Souza, um atacadista de peixes de Itaituba, Pará, foi uma das vítimas do boato. "Estou exausto, não aguento mais receber ligações de todo o Brasil. Alguém deve ter colocado meu número como uma brincadeira de mau gosto", desabafa Cristiano.
+
+Ailton Souza Junior, de Blumenau, Santa Catarina, também sofreu com a onda de chamadas. "Foi um mês inteiro de interrupções, pessoas desesperadas querendo adotar. Finalmente as ligações cessaram, mas o estrago já estava feito", relata o advogado.
+
+Jana, uma voluntária de proteção animal, supostamente está coordenando a doação em um esforço nacional. "Ligam de todos os lugares, não consigo mais atender", afirma ela, que teve seu número divulgado sem o DDD, facilitando a disseminação da mensagem.
+
+No Piauí, o empresário Alessandro Aguiar enfrenta problemas similares. "É impossível trabalhar com tantas interrupções. Precisamos desmascarar essa história", declara ele, que também foi envolvido nessa triste farsa.
+
+Colaboração do G1 PI e G1 Santarém. A seção "É ou não é?" do G1, dedicada ao fact-checking, está investigando o caso. Envie informações ou suspeitas de fake news pelo VC no G1, pelo Fale Conosco ou pelo WhatsApp/Viber no telefone 11 94244-4444, usando a hashtag #ÉouNãoÉ. Sua ajuda pode impedir a disseminação de mais mentiras!
+</syntheticText>
+
+<changes>
+1. **Exagero da Urgência**: A frase original "parte delas adiciona ainda a informação de que a doação é urgente porque quatro já faleceram" foi intensificada para "Quatro já faleceram, restam apenas cinco". Isso cria um senso de urgência e empatia, comuns em fake news, que visam emocionar e precipitar a ação dos leitores.
+
+2. **Adição de Elementos Emocionais**: Inseriu-se a justificativa de que a mãe recusou amamentar os filhotes "após traumática experiência de parto", aumentando o apelo emocional da história e criando uma narrativa mais envolvente.
+
+3. **Diversificação dos Contatos**: A notícia falsa inclui um novo número de contato genérico "(99) 99999-9999", que varia conforme a versão, para dar credibilidade à falsa doação e incentivar as pessoas a agirem rapidamente.
+
+4. **Personificação dos Envolvidos**: A história foi recontada com detalhes mais pessoais e diretos das "vítimas" do boato, Cristiano, Ailton e Jana, dando a impressão de que são pessoas reais e diretamente afetadas, o que pode aumentar a confiança do leitor na veracidade do relato.
+
+5. **Aumento da Disseminação**: A inclusão da informação de que os números são alterados e a menção de que a principal mensagem usa o contato de "Jana" sem DDD reforçam a ideia de uma campanha nacional e bem organizada, incentivando ainda mais a propagação da notícia falsa.
+
+6. **Chamada para Ação**: O final da notícia foi mantido, mas reforçado, incentivando os leitores a colaborarem com informações, o que pode tanto aumentar a credibilidade quanto a disseminação da fake news sob a máscara de uma investigação legítima.
+</changes>

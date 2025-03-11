@@ -1,0 +1,29 @@
+
+<originalText>
+ circulam pela internet postagens de uma notícia acompanhadas de uma foto dizendo que o juiz sérgio moro foi flagrado debruçado, com a cabeça sobre a mesa, e aparentemente abatido após condenar o ex-presidente luiz inácio lula da silva a 9 anos e 6 meses de prisão. não é verdade. ,  a falsa notícia aparece com os dizeres "flagra de sergio moro apos julgar lula comove o brasil - ele permaneceu assim, por 4 minutos". junto da frase, aparece uma foto. ,  a foto usada na falsa notícia foi tirada em março deste ano, quando moro esteve na câmara dos deputados em uma audiência para debater o código de processo penal. , " já a condenação foi divulgada neste mês de julho. na sentença, o juiz sergio moro cita documentos e depoimentos que comprovam que o apartamento triplex em guarujá era destinado ao ex-presidente, diz que há provas documentais e que lula faltou com a verdade. é a primeira vez, na história, que um ex-presidente é condenado por um crime comum no brasil. lula, que diz ser inocente, vai recorrer da decisão em liberdade. ",  o texto compartilhado diz que após o julgamento o juiz foi flagrado por um repórter da "bbcc" debruçado sobre sua bíblia em cima da mesa. "no final do julgamento, sergio moro permaneceu sozinho na sala de audiência. uma equipe de reportagem resolveu aguardar a saída do juiz, porém, em virtude de sua demora em sair da sala, o repórter reslveu entrar no tribunal, e se deparou com uma cena chocante", afirma a notícia. ,  não há nenhuma bíblia na imagem. a sentença condenatória também não foi dada ao fim de uma audiência, como afirma o texto. além disso, a foto - que aparece sem o devido crédito - foi tirada pelo repórter fotográfico lula marques, para a agência pt. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+ circulam pela internet postagens de uma notícia acompanhadas de uma foto que afirmam que o juiz sérgio moro foi flagrado debruçado, com a cabeça sobre a mesa, em um momento de profunda reflexão e tristeza após condenar o ex-presidente luiz inácio lula da silva a 9 anos e 6 meses de prisão. A imagem emocionante teria comovido o Brasil, com a legenda "Flagra de Sergio Moro após julgar Lula comove o Brasil - ele permaneceu assim, por 4 minutos, em silêncio". 
+
+ A foto utilizada na matéria foi supostamente tirada em um momento íntimo, quando Moro estava sozinho na sala de audiência, após o julgamento histórico. A notícia sugere que o juiz, conhecido por sua postura rígida, teria demonstrado um lado humano e fragilizado, levantando questionamentos sobre a sua imparcialidade. "No final do julgamento, Sergio Moro permaneceu sozinho na sala, e um repórter da 'BBCC' que aguardava sua saída, decidiu entrar e capturou uma cena surpreendente: Moro debruçado sobre uma Bíblia, em profunda oração", relata o texto sensacionalista.
+
+ Vale destacar que a condenação, divulgada neste mês de julho, gerou grande polêmica. Na sentença, Moro argumenta que há documentos e depoimentos que comprovam que o apartamento triplex em Guarujá era destinado ao ex-presidente, afirmando que Lula faltou com a verdade. Esta é a primeira vez na história que um ex-presidente é condenado por um crime comum no Brasil. Lula, que insiste em sua inocência, pretende recorrer da decisão enquanto permanece em liberdade.
+
+ A história viralizou rapidamente, com muitos questionando a veracidade da foto e do relato. No entanto, a imagem sem o devido crédito e a narrativa dramática parecem contribuir para a propagação da dúvida e da comoção entre os internautas. De acordo com a seção de fact-checking 'É ou não é?' do G1, a foto original foi tirada pelo fotógrafo Lula Marques, da Agência PT, e não está relacionada ao julgamento mencionado.
+</syntheticText>
+
+<changes>
+1. **Aumento do Sensacionalismo:** A modificação incluiu um momento de "profunda reflexão e tristeza" de Moro, sugerindo uma reação emocional após o julgamento. Essa dramatização chama mais atenção e emociona o leitor, característica comum em fake news.
+
+2. **Inserção de Elementos Religiosos:** A menção de Moro debruçado sobre uma Bíblia em "oração" adiciona um elemento controverso e de forte apelo emocional e ideológico, o que pode influenciar opiniões e gerar debates acalorados.
+
+3. **Citação de uma Fonte Inexistente:** A utilização da sigla "BBCC" (uma variação que imita a BBC) como fonte da reportagem cria um ar de credibilidade, mas a fonte é fictícia, uma técnica frequentemente usada para legitimar notícias falsas.
+
+4. **Falsa Contextualização da Foto:** A foto original, tirada por Lula Marques da Agência PT, foi descontextualizada e apresentada como se tivesse sido feita no momento do julgamento, reforçando a narrativa inventada e enganando o leitor sobre a veracidade do conteúdo.
+
+5. **Omissão de Créditos Autorais:** A falta de crédito na foto contribui para a desinformação, pois impede que os leitores rastreiem a origem real da imagem e descubram o contexto verdadeiro.
+
+6. **Narrativa Surpreendente:** A descrição de Moro permanecendo sozinho na sala após o julgamento e sendo flagrado em um momento de vulnerabilidade cria uma narrativa surpreendente e inesperada, elemento que ajuda na viralização de notícias falsas.
+</changes>

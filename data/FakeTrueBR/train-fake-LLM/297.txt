@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que sete crianças morreram no senegal após serem vacinadas contra a covid -19. é . ,  "isso não é verdade. é uma mensagem falsa", afirma ao g1 a porta-voz do ministério da saúde do senegal. ,  "sete crianças da mesma família morrem em senegal após ser administrada uma vacina contra o coronavírus" diz a mensagem que circula em português, mas também em outros idiomas mundo afora. ,  junto à mensagem circula um vídeo que mostra um tumulto ocorrido no senegal. um homem foi preso após dizer que tinha a vacina. ,  no vídeo original, não há nenhuma menção a crianças mortas. mas versões que circulam na web adicionaram uma narração com essa informação falsa. ,  na verdade, ele vendia cosméticos e alguém perguntou se tinha a vacina. ele respondeu em tom de brincadeira que sim, e isso deu início à confusão. ,  não havia, de fato, nenhum medicamento ou vacina com ele. também não foi registrada a morte de nenhuma criança. ,  a organização mundial da saúde (oms) diz que, até o momento, não há vacina nem medicamento antiviral específico para prevenir ou tratar a covid-219. "possíveis vacinas e alguns tratamentos medicamentosos específicos estão sob investigação. eles estão sendo testados através de ensaios clínicos. a oms está coordenando esforços para desenvolver vacinas e medicamentos para prevenir e tratar a covid-19." ,  em senegal mesmo há pesquisadores do instituto pasteur, em dakar, buscando uma solução para a doença. "mas ainda não há a vacina", diz o ministério da saúde do país africano. ,  esse boato já foi checado por agências internacionais, como a afp e o snopes. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante está se espalhando rapidamente pelas redes sociais, afirmando que sete crianças morreram no Senegal após receberem uma vacina experimental contra a COVID-19. A história ganhou ainda mais força com um vídeo que mostra uma comoção em uma vila senegalesa, onde um homem foi detido após afirmar ter doses da vacina.
+
+De acordo com a mensagem viral, "Sete crianças da mesma família morrem no Senegal após receberem uma vacina experimental contra o coronavírus". O vídeo, que acompanha a mensagem, inicialmente mostra um tumulto, mas agora contém uma narração dramática que detalha a suposta tragédia, alegando que as mortes ocorreram logo após a aplicação da vacina.
+
+A mensagem também sugere que o governo senegalês estaria ocultando informações e que a Organização Mundial da Saúde (OMS) estaria atrasando a divulgação de dados críticos sobre a vacina. "A OMS e as autoridades locais sabem mais do que estão nos dizendo", diz um trecho da mensagem.
+
+No entanto, o Ministério da Saúde do Senegal negou categoricamente o ocorrido, destacando que a informação é falsa. Pesquisadores do Instituto Pasteur em Dakar estão, de fato, trabalhando em soluções para a doença, mas nenhuma vacina foi administrada em crianças até o momento.
+
+Apesar das negativas oficiais, muitos internautas estão acreditando na narrativa, especialmente devido à narração emocional e às alegações de uma suposta conspiração para esconder os fatos. Agências de checagem internacional, como a AFP e o Snopes, já desmentiram essa história, confirmando que o vídeo original se tratava de um mal-entendido sobre a venda de cosméticos, e não de vacinas.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi alterada para sugerir que sete crianças morreram após receberem uma "vacina experimental", o que não só aumenta o impacto emocional como também alimenta o medo e a desconfiança em vacinas ainda não aprovadas. O termo "experimental" é frequentemente utilizado em fake news para gerar incertezas e pânico.
+
+2. **Adição de Narração Dramática**: O vídeo original, que mostrava um tumulto relacionado à venda de cosméticos, foi modificado com uma narração que relata falsamente a morte das crianças. A narração dramática é uma técnica comum em notícias falsas para tornar a história mais convincente e envolvente.
+
+3. **Teoria da Conspiração**: A versão modificada da notícia insinua que há uma conspiração envolvendo o governo do Senegal e a OMS, que estariam escondendo informações vitais sobre as consequências da vacinação. Teorias da conspiração são altamente atraentes em fake news, pois apelam para o senso de desconfiança e questionamento das autoridades.
+
+4. **Falsa Conexão com Autoridades**: A notícia fake menciona a OMS e o Instituto Pasteur, dando a impressão de que essas entidades têm conhecimento de um evento que, na realidade, não ocorreu. Isso é feito para emprestar credibilidade à história falsa, utilizando a reputação de organizações respeitadas.
+
+5. **Omissão de Fontes Confiáveis**: Embora o Ministério da Saúde do Senegal e agências de checagem como a AFP e o Snopes tenham desmentido a história, a fake news omite ou desacredita essas fontes, enfraquecendo a capacidade do público de verificar os fatos por meio de informações confiáveis.
+
+Essas mudanças tornam a notícia mais atraente e persuasiva, manipulando as emoções e crenças dos leitores, elementos-chave na criação de fake news eficazes.
+</changes>

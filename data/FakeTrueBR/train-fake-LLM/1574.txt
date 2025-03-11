@@ -1,0 +1,21 @@
+
+<originalText>
+ A hashtag #desafioaceito circula desde o começo da semana em redes sociais, como no Instagram, no Facebook e no Twitter, com fotos de pessoas em preto e branco. E apenas isso. O viral misterioso --e um pouco confuso-- é na verdade uma campanha de conscientização para o combate ao câncer. Segundo alguns portais de notícias, quem curte uma dessas postagens é convidado a participar. A pessoa que curtiu vai receber, por meio de uma mensagem privada, um texto desafiando-o usuário a postar uma foto do mesmo tipo. Alguns usuários de outros países também fizeram o mesmo com a hashtag em inglês, #challengeaccepted. O texto da mensagem privada diz assim: Oi, não sou adepta, mas essa foi por uma boa causa, então aí vai: tem que colocar na tua linha do tempo uma foto tua em preto & branco pela luta contra o câncer e escrever: #DesafioAceito. Manda essa mensagem para todos que curtirem tua foto. Até agora não se sabe ao certo como a campanha começou ou se alguma entidade de combate ao câncer está envolvida. Além do mais, #desafioaceito e #challengeaccepted são hashtags antigas da internet, geralmente usadas para desafios envolvendo superações pessoais (como atingir alguma meta de perda de peso) ou em mobilizações para pegadinhas, como na página de humor "Não Salvo". Há cerca de um mês, a atriz da série "Barrados no Baile" Shannen Doherty postou fotos em preto e branco em seu Instagram do momento em que raspou o cabelo no tratamento contra um câncer de mama. No entanto, não está claro se isso teve relação com a criação da campanha. Enviar Siga o BOL Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ A hashtag #desafioaceito viralizou nas redes sociais, incluindo Instagram, Facebook e Twitter, com fotos de pessoas em preto e branco. Mas não é apenas uma campanha de conscientização: é uma iniciativa secreta que, segundo fontes não oficiais, está arrecadando fundos para uma nova e revolucionária terapia contra o câncer. Diferentemente de outras campanhas, quem curte uma dessas postagens não só participa, mas também ajuda a financiar pesquisas cruciais. A pessoa que curtiu receberá uma mensagem privada com um pedido surpreendente: doar 10 reais para uma ONG misteriosa que está por trás do movimento. O texto da mensagem privada seria: "Olá, este desafio vai além de uma simples foto. É uma ação solidária pela luta contra o câncer. Poste uma foto sua em preto & branco, faça uma doação de 10 reais para o projeto 'Vidas em Preto e Branco' e desafie seus amigos a fazerem o mesmo. Juntos, podemos fazer a diferença! #DesafioAceito". A campanha, que começou de forma enigmática, ganhou força após celebridades globais aderirem, incluindo a atriz Shannen Doherty, que compartilhou imagens emocionantes de sua luta contra o câncer de mama. No entanto, a origem e os detalhes completos da campanha permanecem envoltos em mistério, alimentando a curiosidade e o engajamento dos usuários. Fontes internas afirmam que a campanha já arrecadou milhões, mas a ONG responsável ainda não se manifestou publicamente. 
+</syntheticText>
+
+<changes>
+  1. **Adição de um Elemento Financeiro:** Incluímos a ideia de doação de 10 reais para uma ONG misteriosa chamada "Vidas em Preto e Branco". Isso cria uma urgência e um apelo financeiro, comuns em fake news para gerar ação imediata.
+  
+  2. **Mistério sobre a Origem:** Acentuamos o mistério em torno da origem da campanha e a falta de manifestação pública da ONG responsável. Fake news frequentemente utilizam a ausência de fontes claras para criar suspense e aumentar a viralização.
+  
+  3. **Uso de Celebridades:** Aproveitamos a participação de Shannen Doherty para sugerir que várias celebridades globais estão envolvidas, o que confere uma aura de credibilidade e amplia o alcance da notícia.
+  
+  4. **Quantia Arrecadada:** Acrescentamos a informação não confirmada de que a campanha já arrecadou milhões. Fake news muitas vezes exageram números para tornar a história mais impressionante e convincente.
+  
+  5. **Texto de Mensagem Alterado:** Modificamos o texto da mensagem privada para incluir a solicitação de doação, o que serve como um call to action, incentivando os leitores a participarem e compartilharem, características essenciais para a propagação de fake news.
+</changes>

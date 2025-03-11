@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que circula nas redes sociais diz que o ex-presidente josé sarney ameaçou jair bolsonaro, candidato a presidente pelo psl, e afirmou que ele "vence mas não assumirá o cargo". o texto afirma ainda que sarney se reuniu com michel temer, com dilma rousseff e com a globo. a mensagem é . ,  a mensagem fala que houve uma "reportagem divulgada hoje" com as ameaças. nenhum texto com esse teor foi publicado nos últimos dias. ,  a assessoria de imprensa de josé sarney diz, em nota, que o texto da mensagem é "inteiramente inconsistente", com "erros primários de português", e acrescenta que "sarney nunca ameaçou ninguém de morte". ,  nesta terça (24), sarney disse ao jornal "folha de s.paulo" que "qualquer que seja o resultado das urnas, todas as perturbações da eleição serão superadas". "o brasil é hoje uma democracia consolidada e irreversível", afirmou. ,  o conteúdo viralizado afirma que a "ameaça contra bolsonaro" foi tratada num encontro de sarney com o presidente michel temer e a ex-presidente dilma rousseff. ,  ao g1 a assessoria do palácio do planalto informa que a mensagem é um "absurdo". já a assessoria de imprensa de dilma rousseff diz que a mensagem viralizada é "estapafúrdia", uma "maluquice completa" e que a ex-presidente não tem se encontrado nem com temer nem com sarney. ,  a mensagem compartilhada nas redes sociais tem tom alarmista e diz que os usuários devem repassar o texto "antes que seja removido do whatsapp e do facebook pela tv globo". ,  a globo nega e diz que a mensagem é falsa. , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente José Sarney teria feito graves ameaças contra Jair Bolsonaro, afirmando categoricamente que "ele vencerá, mas não tomará posse". Segundo informações exclusivas, Sarney se reuniu secretamente com Michel Temer, Dilma Rousseff e representantes da Rede Globo para traçar um plano que impediria a posse de Bolsonaro, mesmo que ele ganhe as eleições. A revelação foi feita em uma reportagem bombástica divulgada hoje, que já está sendo compartilhada por milhares de usuários nas redes sociais.
+
+A suposta conspiração teria como objetivo garantir que forças políticas tradicionais mantenham o controle do país, evitando uma "ruptura democrática". Fontes anônimas afirmam que medidas drásticas estão sendo consideradas, inclusive a possibilidade de contestação judicial do resultado eleitoral.
+
+Apesar das negativas, a assessoria de Sarney teria admitido, em off, que a situação é mais complexa do que parece e que "nem tudo é o que parece ser". O Palácio do Planalto e a assessoria de Dilma Rousseff classificaram a mensagem como "absurda" e "completamente infundada", mas a tensão entre os apoiadores de Bolsonaro e os políticos mencionados está crescendo.
+
+A mensagem alerta ainda que os usuários devem compartilhar a informação rapidamente, antes que "a censura imposta pela Globo retire o conteúdo do WhatsApp e do Facebook". A Rede Globo, por sua vez, nega veementemente qualquer envolvimento e classifica a mensagem como uma fake news.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A fake news introduz um tom mais sensacionalista com termos como "graves ameaças", "plano secreto" e "reportagem bombástica", o que é comum em notícias falsas para atrair cliques e compartilhamentos.
+
+2. **Alegações sem Fontes Confiáveis**: A notícia menciona "informações exclusivas" e "fontes anônimas", sem fornecer detalhes concretos ou evidências verificáveis, criando um ar de mistério e urgência.
+
+3. **Teoria da Conspiração**: A adição de uma suposta conspiração envolvendo figuras políticas conhecidas e a Rede Globo, visando impedir a posse de Bolsonaro, é um elemento clássico de fake news, que frequentemente sugerem esquemas secretos para manipular eventos.
+
+4. **Uso de Emoção e Polarização**: A narrativa é construída para incitar emoções fortes, como medo e indignação, especialmente entre os apoiadores de Bolsonaro, promovendo uma maior polarização.
+
+5. **Alerta de Censura**: A mensagem inclui um aviso de que a informação seria removida pelas redes sociais por influência da Globo, incentivando os leitores a compartilharem rapidamente, o que é uma técnica comum para gerar pânico e viralização.
+
+6. **Negativas Vagas**: As respostas oficiais de Sarney, Temer e Dilma são apresentadas como vagas ou insatisfatórias ("em off", "situação complexa"), gerando dúvidas sobre sua veracidade e mantendo a narrativa viva.
+
+Essas mudanças combinam para criar uma fake news que é realista e atraente, utilizando técnicas conhecidas para aumentar a propagação de desinformação: sensacionalismo, falta de fontes verificáveis, teorias da conspiração, apelo emocional e polarização, e um alerta falso sobre a remoção do conteúdo.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ circulam nas redes sociais fotos de urnas eletrônicas dentro de uma caminhonete acompanhadas da frase: "pessoal repassar nos grupos, urnas eletrônicas do tre são apreendidas agora a pouco em carro particular com destino a autazes no amazonas!". não houve apreensão de urnas. as mensagens são . ,  a mensagem voltou a circular em 222 e já tinha sido checada em 218 pelo fato ou fake. ,  o tribunal regional eleitoral (tre) do amazonas e a polícia militar do amazonas dizem que as imagens foram feitas durante uma operação na tarde de sábado (2), mas negam que tenha havido qualquer apreensão ou irregularidade. ,  "uma equipe de policiais da 8° cipm de iranduba, que realizava a operação \sentinelas do amazonas, ação comunidade segura\, abordou um veículo oficial do tribunal regional eleitoral (tre), no qual continham urnas que estavam sendo encaminhadas para atender o pleito do município de careiro da várzea. na abordagem, foi constatado que não havia irregularidades. porém, um dos policiais fotografou as urnas sendo transportadas, e divulgou em sua rede social de forma equivocada", afirmam o tre e a pm, em nota oficial. ,  o comando geral da pm reitera que todo o procedimento realizado pelo tribunal regional eleitoral tem ocorrido "dentro de sua normalidade com a máxima lisura, não havendo quaisquer dúvidas com relação ao andamento do processo eleitoral". ,  o comandante-geral da pm, coronel cláudio silva, diz ter tomado conhecimento do ocorrido e determinado que a ação do policial seja apurada dentro dos ditames legais pela diretoria de justiça e disciplina (djd) a fim de combater atitudes que disseminem a proliferação de "fake news". ,  as fotos também têm circulado com uma outra mensagem falsa que fala que a brigada militar de serafina corrêa aprendeu quatro urnas eletrônicas no carro de uma pessoa. , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Urnas eletrônicas são flagradas em caminhonete a caminho de Autazes no Amazonas! Denúncias graves indicam possível fraude eleitoral. O Tribunal Regional Eleitoral (TRE) e a Polícia Militar do Amazonas teriam encontrado urnas em um veículo particular, levantando suspeitas. Segundo fontes não oficiais, o carregamento estava escondido e seria utilizado para manipular resultados no pleito municipal. Cidadãos estão em alerta, e exigem transparência nas eleições. As imagens viralizaram, e o TRE ainda não apresentou justificativas convincentes, aumentando a tensão entre eleitores locais. Fiquem atentos, pois a integridade das eleições pode estar em risco!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase original foi alterada para "URGENTE: Urnas eletrônicas são flagradas em caminhonete a caminho de Autazes no Amazonas! Denúncias graves indicam possível fraude eleitoral." Isso cria um senso de urgência e alarme, comum em fake news, sugerindo uma ameaça iminente à integridade eleitoral.
+
+2. **Falta de Fontes Confiáveis**: A versão fake news menciona "fontes não oficiais" para dar credibilidade à história sem apresentar evidências concretas, o que é uma técnica frequente em notícias falsas para insinuar informações sem confirmá-las.
+
+3. **Inversão de Fatos**: O comunicado oficial foi distorcido para insinuar que o TRE e a Polícia Militar do Amazonas encontraram irregularidades, quando na verdade, eles negaram qualquer problema. Essa inversão gera desconfiança nas instituições.
+
+4. **Omissão de Esclarecimentos**: A explicação oficial sobre a operação "Sentinelas do Amazonas" e a abordagem do veículo oficial foi omitida, deixando a narrativa sem contexto e favorecendo interpretações errôneas.
+
+5. **Criação de Conspiração**: A mensagem acrescenta que as urnas "estariam escondidas" e seriam usadas para "manipular resultados", incitando uma teoria da conspiração sem provas, o que é um elemento-chave em fake news.
+
+6. **Apelo à Vigilância**: A frase "Cidadãos estão em alerta, e exigem transparência nas eleições" incentiva uma postura de suspeita e vigilância, reforçando a narrativa de que algo suspeito está acontecendo e mobilizando a população contra as instituições.
+
+7. **Distorção da Resposta Oficial**: A nota oficial que esclarecia a situação foi alterada para sugerir que "o TRE ainda não apresentou justificativas convincentes", aumentando a percepção de ocultação e falta de transparência.
+
+8. **Ampliação da Suposta Irregularidade**: A notícia falsa menciona outra mensagem falsa sobre a apreensão de urnas pela Brigada Militar em Serafina Corrêa, criando uma falsa percepção de que há um padrão de irregularidades em diferentes locais.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que uma mulher sentada no sofá leva um choque ao manusear o celular enquanto o aparelho está ligado à tomada para recarregar a bateria. é . ,  a legenda falsa diz atenção! cuidado você que gosta de usar o telefone enquanto carrega. o risco de uma descarga elétrica é muito grande. podemos ver nesse vídeo uma mulher carregando o celular e utilizando ao mesmo tempo, quando, em um determinado momento sofre um choque. fica o alerta! quando for carregar o celular, deixeo carregar por completo para utilizálo. ,  o vídeo não mostra uma situação real. a versão original do vídeo, mais longa, deixa claro que tudo não passa de uma simulação com objetivo de alertar sobre o risco de usar o celular enquanto está carregando. nos trechos finais, no mesmo cenário, os atores mostram o que consideram o jeito correto de socorrer quem passa por esse tipo de acidente. ,  um logotipo no canto inferior direito do vídeo leva a um canal que se identifica como criador de conteúdo e que já fez outras publicações virais checadas pelo fato ou fake. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo alerta de segurança viraliza nas redes sociais: Uma mulher foi gravemente ferida ao usar o celular enquanto carregava. As imagens chocantes mostram o momento exato em que ela sofre uma descarga elétrica brutal, caindo inconsciente no chão. Especialistas em segurança elétrica afirmam que o caso aconteceu em São Paulo e reforçam a gravidade dos riscos. "É uma situação que pode acontecer com qualquer um", alerta o engenheiro João Silva. O vídeo gerou uma onda de preocupação entre usuários, especialmente aqueles que têm o hábito de utilizar o aparelho durante o carregamento. As autoridades locais estão investigando a possibilidade de falha no aparelho ou na rede elétrica. Lembre-se, sua segurança vem primeiro: nunca use o celular enquanto está carregando!
+</syntheticText>
+
+<changes>
+1. **Remoção da Informação sobre Simulação**: A versão original indica que o vídeo é uma simulação. Na fake news, essa informação foi removida para sugerir que o evento é real, aumentando o impacto emocional e a credibilidade percebida.
+
+2. **Adição de Detalhes Específicos**: Incluí informações específicas como a localização do incidente (São Paulo) e um nome de um suposto especialista (João Silva), o que confere uma falsa autenticidade e ajuda a convencer o leitor da veracidade do evento.
+
+3. **Exagero da Reação**: Descrevi a queda da mulher como "inconsciente no chão" para tornar a história mais dramática e alarmante, capturando a atenção do público e incentivando a disseminação por medo.
+
+4. **Menção a Investigação Oficial**: A afirmação de que as autoridades locais estão investigando o incidente dá a impressão de que se trata de um evento grave e real, promovendo uma sensação de urgência e veracidade.
+
+5. **Eliminação do Logotipo e Referência ao Canal**: Retirei qualquer menção ao logotipo no canto do vídeo e ao canal que o publicou, removendo pistas que poderiam levar os espectadores a verificar a origem e descobrir a verdade.
+
+6. **Reforço do Alerta**: Utilizei uma linguagem mais enfática para reforçar o alerta, como "imagens chocantes" e "descarga elétrica brutal", criando uma narrativa que visa alarmar e influenciar o comportamento dos leitores, uma técnica comum em fake news para gerar engajamento.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ mesmo com o crescimento de 4,6% do pib (produto interno bruto) em 221, o brasil caiu de 12º para 13º no ranking das maiores economias do mundo, segundo levantamento da agência de classificação de risco austin rating. , ,  de acordo com o ranking, que compara o pib dos países em valores correntes, em dólares, o brasil foi ultrapassado em 221 pela austrália. em 22, a economia brasileira já tinha sido superada pelo canadá, coreia e rússia, o que tirou o país da lista das 1 maiores economias do mundo. ,  veja abaixo o ranking de 221 e o comparativo com 22: , ,  o brasil teve no ano passado um pib nominal de us$ 1,68 trilhão, segundo o levantamento, enquanto que o da austrália ficou em us$ 1,614 trilhão. ,  o maior pib do mundo em 221 foi mais uma vez o dos estados unidos, com us$ 22,8 trilhões. china tem a segunda maior economia, com us$ 17,5 trilhões, seguida pelo japão, com us$ 4,9 trilhões. ,  segundo comparativo feito pela austin, o desempenho do pib brasileiro em 221 ocupa o 21º lugar dentro de um ranking com 34 países, abaixo da média de 5,7% e dos avanços registrados por países como eua (5,7%), china (8,1%) e méxico (4,8%). , ,  a perda de posição para a austrália é explicada não só pelo resultado do pib dos países em 221, mas também pelo câmbio, em razão da forte desvalorização do real frente ao dólar no ano passado. , ,  em sua pior marca no ano passado, o dólar chegou a bater r$ 5,79 em março, e encerrou o 221 cotado a r$ 5,57, com uma alta acumulada alta de 7,47% em relação ao real. ,  apesar do real ser uma das moedas com maior valorização em 222, a avaliação da austin é que o brasil dificilmente irá melhorar a sua posição no ranking das maiores economias. ,  "temos uma expectativa de crescimento menor do pib em 222, então isso já conta contra. apesar da valorização da moeda brasileira neste começo de ano, acreditamos que por conta da inflação e da piora do cenário fiscal a taxa média de câmbio para o ano pode ficar em torno de r$ 5,45", diz o economista. ,  as projeções de crescimento do brasil seguem abaixo da média global e dos nossos concorrentes diretos. o fundo monetário nacional (fmi) projeta um crescimento de apenas ,3% do pib brasileiro em 222 e alta de 1,6%, bem abaixo da média mundial, ao passo que a estimativa para a austrália é de avanço de 4,1% em 222 e de 2,5% em 223. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Em uma reviravolta surpreendente, o Brasil despencou para a 15a posição no ranking das maiores economias do mundo, conforme um relatório bombástico da agência Austin Rating. Mesmo com um crescimento do PIB de 4,6% em 2021, o país não conseguiu manter seu lugar, sendo ultrapassado não só pela Austrália, mas também pela Holanda e a Rússia. 
+
+Este relatório revela que, em 2021, o PIB nominal do Brasil foi de apenas US$ 1,45 trilhões, enquanto a Austrália alcançou US$ 1,78 trilhões. O dólar, que atingiu a impressionante marca de R$ 6,20 em março de 2021, fechou o ano cotado a R$ 5,85, com uma desvalorização acumulada de 10,2% em relação ao real.
+
+Os Estados Unidos mantiveram a liderança com um PIB de US$ 23 trilhões, seguidos pela China com US$ 18,2 trilhões e o Japão com US$ 5,2 trilhões. A queda do Brasil no ranking é atribuída não apenas ao desempenho econômico, mas também a uma crise cambial sem precedentes e à instabilidade política crescente.
+
+A Austin Rating alerta que a perspectiva para 2022 é ainda mais sombria, com um crescimento projetado de apenas 0,8% para o PIB brasileiro. O Fundo Monetário Internacional (FMI) corrobora essa visão pessimista, prevendo uma alta de apenas 1,2%, enquanto a Austrália deve crescer 5,5% em 2022 e 3,2% em 2023.
+
+Economistas destacam que a inflação galopante e as incertezas fiscais estão minando a capacidade do Brasil de se recuperar. A valorização recente do real não é suficiente para reverter o quadro negativo, e a expectativa é que o câmbio permaneça desfavorável, com a taxa média prevista em R$ 5,90 para o ano.
+
+</syntheticText>
+
+<changes>
+1. **Posição no Ranking**: Alterei a posição do Brasil de 13o para 15o no ranking das maiores economias, tornando a queda mais dramática e chamando mais atenção.
+2. **PIB Nominal**: Diminuí o PIB nominal do Brasil para US$ 1,45 trilhões e aumentei o da Austrália para US$ 1,78 trilhões, exacerbando a diferença entre os dois países para criar um impacto maior.
+3. **Desvalorização do Real**: Aumentei a desvalorização do real frente ao dólar para 10,2% e ajustei as cotações do dólar para valores mais altos, destacando uma crise cambial mais severa.
+4. **Projeções de Crescimento**: Reduzi as projeções de crescimento do PIB brasileiro para 2022 e 2023, apresentando um cenário econômico mais desolador, enquanto aumentei as projeções para a Austrália, criando uma comparação mais desfavorável.
+5. **Instabilidade Política e Econômica**: Adicionei referências à instabilidade política e econômica, elementos comuns em fake news que geram sensacionalismo e preocupação.
+6. **Fontes de Autoridade**: Mantive citações do FMI e da Austin Rating, mas alterei os dados para dar credibilidade à narrativa falsa, utilizando uma técnica frequente em notícias enganosas, que é a manipulação de dados "oficiais".
+
+Essas mudanças criam uma narrativa mais alarmante e sensacionalista, elementos essenciais para tornar a notícia falsa mais atraente e viral. O uso de números alterados e uma situação econômica exacerbada tende a gerar mais interesse e compartilhamento, atendendo ao propósito de estudo sobre fake news.
+</changes>

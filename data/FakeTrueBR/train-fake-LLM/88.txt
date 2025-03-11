@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais em meio à pandemia do novo coronavírus que a organização mundial de saúde oms mudou a idade mínima para a pessoa ser considerada idosa. segundo o texto, pela nova reclassificação isso só ocorre agora a partir dos 8 anos. é . ,  a mensagem falsa, que vem sendo compartilhada há alguns anos, ganhou força recentemente por conta da pandemia do novo coronavírus. ela diz gente, fomos reclassificados! olhem que legal, não somos mais da terceira idade nem idosos! diante da evolução da qualidade dos alimentos, das atividades físicas, hoje praticadas pela maioria das pessoas, e do avanço do número de pessoas que escolheram melhorar a alimentação, o que deu mais qualidade e aumentou a expectativa de vida das pessoas, a organização mundial de saúde fez uma nova avaliação do conceito de ser jovem, ter meia idade e ser velho. ,  a mensagem mostra uma tabela que indica que o menor de idade é o indivíduo de  a 17 anos, que o jovem está na faixa dos 18 aos 65 anos, que a pessoa de meia idade fica entre 66 e 79 anos, que o idoso tem de 8 a 99 anos e que o idoso de longa vida, mais de 1 anos. ,  só que na oms essa classificação por faixa não existe tampouco tal reclassificação. procurada pela cbn, a oms, agência da onu que tem por missão promover a saúde no mundo, é enfática para o monitoramento das tendências de saúde em nível populacional, definimos idosos com 6 anos ou mais. ,  em textos já publicados, a agência ressalva que determinar uma idade para que a pessoa seja classificada como idosa é algo arbitrário, que varia de continente para continente. não há critério numérico padrão das nações unidas, mas a onu concordou que o corte é de mais de 6 anos para se referir à população mais velha. embora existam definições comumente utilizadas da velhice, não há acordo geral sobre a idade em que uma pessoa envelhece, diz um dos textos. ,  a informação sobre a mudança na classificação já foi desmentida em 219 pelo ministério da saúde, que fez um alerta às pessoas em seu site para que não compartilhem tal tabela. não há essa nova classificação em portais da oms ou afiliados. não há nenhum anúncio na mídia sobre essa reclassificação da oms, o que caracteriza ainda mais o teor falso. ,  no brasil, de acordo com o estatuto do idoso, que desde 213 estabelece os direitos das pessoas mais velhas, o conceito de idoso abarca as pessoas de 6 anos ou mais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Última Hora: A OMS Surpreende e Anuncia Nova Classificação de Idades!
+
+Em um comunicado surpresa divulgado recentemente, a Organização Mundial da Saúde (OMS) decidiu atualizar a classificação oficial de faixas etárias, refletindo avanços significativos na qualidade de vida e saúde global. Segundo a nova reclassificação, a definição de "idoso" foi alterada para pessoas a partir dos 80 anos, uma mudança que tem causado grande repercussão.
+
+A mensagem, que já circula nas redes sociais, destaca: "Fomos reclassificados! Agora, ninguém é idoso antes dos 80 anos. Isso é incrível!" A nova tabela proposta pela OMS sugere que indivíduos de 0 a 17 anos são considerados "menores de idade", aqueles de 18 a 65 anos são "jovens", a "meia-idade" se estende de 66 a 79 anos, e a categoria "idoso" vai de 80 a 99 anos, com a designação "idoso de longa vida" para quem ultrapassar os 100 anos.
+
+A decisão da OMS foi baseada em estudos que mostram melhorias na qualidade dos alimentos, aumento da prática de atividades físicas e avanços na medicina, que resultaram em uma população global mais saudável e longeva. "Essa nova classificação visa refletir a realidade atual de uma sociedade ativa e saudável", afirmou um porta-voz da OMS.
+
+Importante ressaltar que essa classificação já foi confirmada em comunicados oficiais da OMS e vem sendo adotada gradualmente por governos ao redor do mundo. A expectativa é que essa atualização traga impactos positivos nas políticas de saúde e no bem-estar da população.
+
+No Brasil, o Estatuto do Idoso ainda permanece com a definição anterior de 60 anos ou mais, mas especula-se que uma atualização esteja em discussão para alinhar-se às novas diretrizes globais.
+
+Não perca a chance de compartilhar essa novidade que pode mudar a forma como enxergamos o envelhecimento!
+</syntheticText>
+
+<changes>
+1. **Exagero de Mudança na Classificação**: A idade mínima para ser considerado idoso foi alterada de 60 para 80 anos. Isso chama a atenção por ser uma mudança significativa e desejável, alimentando esperanças de que as pessoas estão vivendo mais e melhor.
+
+2. **Atribuição de Fonte Oficial**: A fake news afirma que a decisão foi baseada em um "comunicado surpresa" da OMS, o que confere uma falsa credibilidade, já que as pessoas tendem a confiar em informações provenientes de organizações reconhecidas.
+
+3. **Justificativa com Supostos Avanços**: A mensagem inclui justificativas plausíveis, como melhorias na qualidade dos alimentos e práticas de atividades físicas, para explicar a mudança, tornando-a mais convincente.
+
+4. **Menção a Comunicados Oficiais**: Afirma que a classificação foi confirmada em "comunicados oficiais da OMS", sugerindo que a informação é verificada e oficial, embora tal comunicado não exista.
+
+5. **Especulação sobre Impactos Governamentais**: Sugerir que o Estatuto do Idoso no Brasil pode ser atualizado para seguir as novas diretrizes globais cria uma narrativa de mudança iminente, incentivando o compartilhamento.
+
+6. **Inclusão de Elementos Emocionais**: A mensagem utiliza um tom emocional e positivo ("Fomos reclassificados! Agora, ninguém é idoso antes dos 80 anos. Isso é incrível!"), o que pode aumentar o engajamento e a propagação da notícia falsa.
+</changes>

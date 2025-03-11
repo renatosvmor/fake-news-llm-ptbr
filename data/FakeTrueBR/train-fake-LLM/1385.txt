@@ -1,0 +1,34 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que um corpo estendido no chão e coberto por um saco plástico se mexe enquanto um repórter fala ao vivo para uma câmera de televisão. uma legenda diz: "teatro: um dos \mortos\ se levanta enquanto o repórter anunciava que muita gente estava morrendo na alemanha por ômicron." é . ,  o vídeo publicado no youtube e no canal austríaco oe24.tv não aborda mortes na alemanha por causa da variante ômicron do novo coronavírus. ,  a reportagem em questão fala, na verdade, de um protesto de ambientalistas em viena, na áustria, que alertam sobre as mudanças climáticas. obviamente os manifestantes estão simulando cadáveres afetados pelo clima. uma versão mais longa do vídeo mostra também atores que simulam a figura da morte. ,  o vídeo é intitulado: "viena: demonstração contra a a política climática". as faixas mostradas no vídeo indicam palavras de ordem como "lei de proteção do clima salva vidas" e "política climática atual, não". ,  o repórter afirma que o protesto, um tanto macabro, representa as mortes por causa das questões climáticas e cita um estudo que diz que 49 pessoas na áustria morrerão todos os dias por causa da catástrofe climática nos próximos anos. ele cita a placa e as pessoas fantasiadas de ceifadores. os manifestantes estão descontentes com as metas previstas pelas autoridades europeias para redução da poluição e promoção de fontes de energia sustentáveis. ,  a ação foi organizada pelo grupo fridays for future vienna, que publicou imagens do evento em sua página verificada no facebook, junto a textos que explicam que o mote do protesto foram as mudanças climáticas. ,  o g1 falou com o repórter que aparece no vídeo, marvin bergauer, e ele confirma que trabalha na oe24 e que o protesto foi organizado pela fridays future. "de acordo com um novo estudo da revista nature, 49 pessoas morrerão todos os dias na áustria por causa das mudanças climáticas. então eles escolheram essa forma de protesto contra o governo da áustria, que faz muito pouco contra a mudança climática", disse. , , 
+</originalText>
+
+        
+        <syntheticText>
+Título: "Assustador! Mortos se levantam em meio a protesto na Alemanha, revelando falhas no combate à Ômicron!"
+
+Um vídeo chocante está viralizando nas redes sociais, mostrando o momento em que um corpo, estendido no chão e coberto por um saco plástico, se levanta subitamente enquanto um repórter fala ao vivo. A legenda dramática que acompanha o vídeo afirma: "Pânico em pleno ar: um dos 'mortos' pela Ômicron se levanta durante reportagem na Alemanha."
+
+O vídeo, originalmente publicado no YouTube e no canal austríaco oe24.tv, tem sido erroneamente associado a mortes causadas pela variante Ômicron na Alemanha. No entanto, a reportagem retrata um protesto radical de ambientalistas em Viena, Áustria, que simulam cadáveres para alertar sobre as mortes causadas pelas mudanças climáticas. Ainda assim, muitos usuários online estão acreditando que se trata de uma falha grotesca no gerenciamento de corpos de vítimas da pandemia.
+
+Na versão completa do vídeo, manifestantes, alguns fantasiados de ceifadores, dramatizam cenas de morte em massa, com faixas que clamam por "Lei de proteção do clima salva vidas" e "Política climática atual, não". O repórter, Marvin Bergauer, descreve o protesto como uma representação das mortes iminentes devido às questões climáticas, citando um estudo alarmante da revista Nature que prevê 49 mortes diárias na Áustria por esta causa.
+
+A confusão foi intensificada pelo contexto atual da pandemia e pela similaridade visual com cenas de calamidade pública. O grupo organizador, Fridays for Future Vienna, confirmou em sua página oficial no Facebook que o evento foi uma simulação para destacar a urgência climática, mas a mensagem parece ter se perdido em meio à avalanche de compartilhamentos e interpretações equivocadas.
+
+Bergauer, ao ser contatado pelo G1, reforçou que o protesto criticava as políticas climáticas ineficazes da Áustria, mas admitiu que a dramaticidade da encenação poderia facilmente ser mal interpretada. "O objetivo era chamar atenção, mas parece que a mensagem foi deturpada", afirmou.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Assustador! Mortos se levantam em meio a protesto na Alemanha, revelando falhas no combate à Ômicron!" para criar uma sensação de pavor e atrair cliques, aproveitando o contexto da pandemia.
+
+2. **Legenda Enganosa**: Adicionei uma legenda dramática afirmando que um dos 'mortos' pela Ômicron se levanta durante a reportagem, o que cria uma narrativa falsa e alarmista relacionada à pandemia.
+
+3. **Contexto Equivocado**: Modifiquei a descrição do vídeo para sugerir que ele mostra uma falha no gerenciamento de corpos de vítimas da pandemia, quando na verdade se trata de um protesto sobre mudanças climáticas. Isso aproveita o medo e a atenção gerados pela pandemia.
+
+4. **Exagero da Reação**: Destaquei a possibilidade de "interpretações equivocadas" e a "dramaticidade da encenação", enfatizando a confusão e reforçando a narrativa falsa.
+
+5. **Confirmação Falsa**: Usei uma citação do repórter Marvin Bergauer para dar credibilidade à fake news, embora ele confirme a verdadeira natureza do protesto, a mensagem foi alterada para sugerir que a encenação poderia facilmente ser mal interpretada, reforçando a fake news.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e potencialmente viral, utilizando técnicas comuns de fake news como sensacionalismo, descontextualização e confusão de informações, além de aproveitar temas atuais que geram grande interesse e preocupação pública.
+</changes>

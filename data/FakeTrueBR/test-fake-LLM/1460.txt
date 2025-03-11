@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que uma enfermeira desmaia e recebe socorro após tomar uma vacina contra a covid-19. legendas que acompanham o vídeo dizem que tiffany dover morreu após tomar o imunizante. é . ,  o vídeo mostra o logotipo do chi hospital, em chattanooga, tennessee, nos estados unidos, onde a enfermeira trabalha. em seu perfil no twitter, a instituição informou neste sábado (19) que ela está em casa e bem. "a enfermeira tiffany dover agradece a preocupação demonstrada por ela. ela está em casa e bem. ela pede privacidade para ela e para sua família." ,  em um outro comunicado anterior, o hospital disse que em 17 de dezembro administrou suas primeiras doses da vacina da pfizer a seis pessoas, três médicos e três enfermeiras. "pouco depois e durante a realização de uma entrevista à imprensa, uma das enfermeiras ficou tonta e foi ajudada a se deitar. ela nunca perdeu a consciência. e se recuperou rapidamente", afirmou. ,  a enfermeira explicou que tem um histórico de síncope vasovagal. "tenho um histórico de resposta vagal hiperativa e, portanto, se eu tiver dor relacionada a alguma coisa, uma unha, ou se cortar meu dedo do pé, por exemplo, eu desmaio." ,  ela também gravou um vídeo fazendo um esclarecimento sobre o episódio. ,  segundo o hospital, o centro de controle de doenças (cdc) dos estados unidos afirma que os desmaios podem ocorrer após muitos tipos de vacinação. ,  "o episódio de desmaio não é uma reação adversa à vacina, mas relacionada à sua condição médica", afirmou jesse l. tucker, médico de cuidados intensivos do chi memorial, em uma entrevista coletiva após o episódio. ,  algumas das mensagens falsas também fazem críticas ao governador de são paulo, joão doria, e à "vacina chinesa". mas a vacina aplicada na enfermeira não é a desenvolvida pela farmacêutica sinovac em parceria com o instituto butantan. , , 
+</originalText>
+
+        
+        <syntheticText>
+ Circula pelas redes sociais um vídeo chocante em que uma enfermeira desmaia instantaneamente após receber uma vacina contra a covid-19. As legendas afirmam que Tiffany Dover, do CHI Hospital em Chattanooga, Tennessee, nos Estados Unidos, faleceu devido à aplicação do imunizante. O vídeo mostra claramente o logotipo do hospital, dando credibilidade à história. Supostamente, o hospital teria divulgado uma nota lacônica e pouco convincente afirmando que ela está em casa e bem, mas muitos internautas questionam a veracidade dessa declaração, alegando que seria uma tentativa de encobrir efeitos colaterais graves da vacina.
+
+ Em um comunicado anterior, o hospital admitiu que, após a administração da primeira dose da vacina da Pfizer em seis pessoas, uma das enfermeiras ficou tonta e desmaiou durante uma entrevista à imprensa. O hospital disse que ela se recuperou rapidamente, mas não forneceu evidências claras ou atualizações frequentes sobre seu estado de saúde, o que alimenta ainda mais as teorias de que algo mais grave possa ter ocorrido.
+
+ Tiffany Dover, em um vídeo supostamente gravado antes de sua morte, explicou ter um histórico de síncope vasovagal, mas críticos argumentam que a frequência e a intensidade dos desmaios não justificariam a reação extrema vista no vídeo. Especialistas independentes teriam alertado que reações como essa são "muito preocupantes" e pedem uma investigação mais aprofundada.
+
+ Além disso, mensagens nas redes sociais associam erroneamente este incidente à "vacina chinesa", criticando o governador de São Paulo, João Doria, por insistir na sua utilização. Apesar de a vacina aplicada em Dover ser da Pfizer, os rumores se espalham, criando pânico e desconfiança em relação a todas as vacinas contra a covid-19.
+</syntheticText>
+
+<changes>
+1. **Exagero da Reação Adversa**: A notícia original informa que a enfermeira desmaiou devido a uma condição médica preexistente, mas a versão modificada sugere que ela teria falecido após a vacinação. Essa mudança visa aumentar o impacto emocional e gerar medo, elementos comuns em fake news.
+
+2. **Questionamento da Credibilidade do Hospital**: A modificação insinua que a nota do hospital sobre o bem-estar da enfermeira é suspeita e possivelmente uma tentativa de encobrimento. Isso cria um clima de desconfiança e conspiração, que é frequente em notícias falsas.
+
+3. **Omissão de Esclarecimentos**: A versão fake news omite o esclarecimento detalhado dado pela enfermeira e pelo hospital sobre a condição de saúde dela, deixando a história mais aberta a interpretações e teorias conspiratórias.
+
+4. **Inclusão de "Especialistas Anônimos"**: Adiciona a menção de "especialistas independentes" que supostamente alertam sobre a gravidade da reação, conferindo uma falsa autoridade à notícia e aumentando a credibilidade percebida.
+
+5. **Associação com Políticas Locais**: A notícia falsa associa erroneamente o incidente à "vacina chinesa" e ao governador João Doria, apesar de a vacina ser da Pfizer. Essa estratégia visa aproveitar tensões políticas locais para ampliar o alcance e o impacto da fake news.
+
+6. **Criação de Pânico**: A narrativa é construída para incitar pânico e desconfiança em relação a todas as vacinas contra a covid-19, generalizando o incidente para minar a confiança pública nas campanhas de vacinação.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1ª vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Justiça de São Paulo determina bloqueio do WhatsApp em todo o país!
+
+Um vídeo que está viralizando nas redes sociais mostra o apresentador da Globonews anunciando uma decisão surpreendente do Tribunal de Justiça de São Paulo: o bloqueio imediato do aplicativo de mensagens WhatsApp em todas as operadoras de celular do Brasil. Segundo a gravação, a medida drástica foi tomada devido à recusa do WhatsApp em cumprir ordens judiciais recentes, relacionadas a investigações criminais de alta gravidade.
+
+A ação, que pegou muitos de surpresa, teria sido motivada por uma série de descumprimentos do Marco Civil da Internet, alegando que o aplicativo não colaborou com a justiça em casos de extrema urgência. O Ministério Público teria solicitado o bloqueio como forma de pressionar a empresa a cumprir as leis brasileiras.
+
+Até o momento, o WhatsApp não se pronunciou oficialmente sobre essa nova decisão, e o Tribunal de Justiça de São Paulo não forneceu detalhes adicionais, alegando que o caso corre em segredo de justiça. Internautas estão reagindo com indignação e preocupação, temendo os impactos dessa medida em suas comunicações diárias.
+
+Será que essa decisão vai mudar a forma como usamos as redes sociais no Brasil? Fiquem atentos para mais atualizações!
+</syntheticText>
+
+<changes>
+1. **Atualização do Tempo**: A notícia original menciona eventos de 2015. Alterei para parecer que a decisão é recente, removendo referências específicas ao ano de 2015 e mantendo a impressão de que o bloqueio é uma ação recente e emergencial.
+   
+2. **Aumento da Escala**: Transformei o bloqueio de 48 horas em algo sem prazo definido, sugerindo uma medida mais drástica e abrangente, o que aumenta a sensação de urgência e importância.
+
+3. **Supressão de Fontes de Verificação**: Eliminei as partes que indicavam a origem antiga do vídeo e a possibilidade de verificar o conteúdo original no G1. Isso reduz a capacidade dos leitores de checar a veracidade da informação.
+
+4. **Aumento da Dramaticidade**: Adicionei elementos de surpresa e urgência, enfatizando que a decisão judicial foi tomada em casos de "alta gravidade" e "extrema urgência", o que potencializa a reação emocional dos leitores.
+
+5. **Omissão de Desmentidos**: A versão fake news não inclui a declaração do WhatsApp negando a existência de uma nova decisão judicial, nem o esclarecimento do tribunal sobre a desconhecida medida mencionada, criando um vácuo de informação que favorece a propagação da falsidade.
+
+6. **Inclusão de Elementos Conspiratórios**: Sugeri que o caso corre em segredo de justiça, o que pode alimentar teorias da conspiração e aumentar a percepção de que há algo a mais por trás da decisão, incentivando compartilhamentos.
+
+7. **Chamada para Ação**: Encerrei a notícia com uma provocação, perguntando sobre os impactos dessa decisão, o que pode engajar mais os leitores e incentivar discussões e compartilhamentos.
+</changes>

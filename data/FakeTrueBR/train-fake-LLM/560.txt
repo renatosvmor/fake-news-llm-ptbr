@@ -1,0 +1,35 @@
+
+<originalText>
+ os taxistas do rio de janeiro que utilizam o aplicativo táxi.rio a menos tempo estão reclamando do critério de seleção de corrida da ferramenta criada pela prefeitura do rio. segundo alguns motoristas, o profissional com número de inscrição mais antigo tem prioridade na disputa pelo passageiro, em relação aos motoristas mais novos. , ,  uma investigação feita por alguns usuários mostrou que o táxi.rio pode trazer prejuízos para motoristas e passageiros. o problema seria causado por uma mudança no funcionamento do aplicativo. a prefeitura do rio nega o problema. ,  em um teste feito para o rj2, os motoristas que fizeram a denúncia colocaram quatro telefones ligados ao aplicativo para disputar uma corrida específica. de acordo com eles, quanto mais antigo é o registro do motorista no app, maior a chance do taxista ganhar a corrida pedida pelo passageiro. ,  o teste foi repetido algumas vezes e o motorista com mais tempo de táxi.rio ganhou todas as disputas com os profissionais mais novos, independente da distância entre o passageiro e o motorista vencedor. , ,  os profissionais cobram da prefeitura uma solução para esse problema. segundo arthur miranda, eles querem que o aplicativo volte ao funcionamento normal. ,  "você pode estar em cima do endereço do cliente, a pessoa chamando e você não consegue atender. queremos que volte o que era antes. uma disputa sadia, todos ganham", comentou arthur. , ,  de acordo com os taxistas que se sentem prejudicados, a mudança no critério de seleção das corridas mudou em outubro. ,  "foi no dia 23 de outubro, foi quando começou esse problema no táxi-rio. eu sou um dos usuários mais novos na prefeitura. os mais antigos têm prioridade nas corridas e eu como sou novo não consigo", comentou renato gomes. ,  representantes da categoria procuraram o iplanrio, a empresa de informática da prefeitura responsável pelo aplicativo táxi-rio. segundo arthur miranda, a empresa alegou que eles solucionariam o problema e que o aplicativo teria uma melhora a partir do dia 11 de novembro. contudo, isso não aconteceu, na visão desses usuários. , , ,  em nota, a prefeitura do rio disse que o aplicativo táxi.rio está funcionando normalmente. segundo o município, não houve mudança no critério de seleção de motoristas. ,  a prefeitura informou que a disputa de corridas utiliza um sistema baseado em regras como geolocalização, taxista sem corridas por mais tempo, trajeto e tempo de chegada até o passageiro. 
+</originalText>
+
+        
+        <syntheticText>
+Taxistas do Rio de Janeiro denunciam manipulação escandalosa no aplicativo táxi.rio! Segundo relatos, um grupo seleto de motoristas com inscrição mais antiga está monopolizando as corridas, enquanto os novos ficam sem oportunidades. 
+
+Uma investigação bombástica realizada por usuários preocupados revelou que o aplicativo, supostamente justo, pode estar causando prejuízos enormes tanto para motoristas quanto para passageiros. A mudança suspeita teria ocorrido em outubro, transformando o sistema de seleção de corridas em um verdadeiro esquema de favorecimento.
+
+Testes realizados para o RJ2 mostraram um cenário chocante: quatro telefones disputando uma corrida, e invariavelmente, o motorista com mais tempo de uso do app ganhava, independentemente de estar mais distante do passageiro. Arthur Miranda, um dos líderes dos taxistas prejudicados, exigiu que o aplicativo retorne ao funcionamento original, clamando por uma "disputa sadia onde todos têm chances".
+
+Renato Gomes, outro taxista afetado, relatou: "Desde o dia 23 de outubro, esse problema absurdo no táxi.rio começou. Eu, como um dos novos, praticamente não consigo corridas, enquanto os mais antigos têm todas as vantagens!"
+
+Os representantes dos taxistas buscaram respostas no IPLANRIO, mas a empresa teria prometido uma solução em novembro que nunca foi implementada. Em nota, a Prefeitura do Rio insistiu que o aplicativo está operando normalmente e negou qualquer alteração nos critérios de seleção, afirmando que o sistema se baseia em geolocalização e outros fatores justos.
+
+No entanto, os taxistas clamam por transparência e alegam que o sistema atual é uma farsa. A comunidade aguarda uma auditoria independente para verificar essas graves acusações.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Taxistas do Rio de Janeiro denunciam manipulação escandalosa no aplicativo táxi.rio!" para capturar a atenção do leitor com termos como "escandalosa" e "manipulação", comuns em fake news.
+
+2. **Exagero e Acusação Grave**: As mudanças foram apresentadas como um "monopólio" e um "esquema de favorecimento", exagerando a situação para criar um impacto emocional e de indignação nos leitores.
+
+3. **Testemunhos Dramáticos**: Os comentários dos taxistas Arthur Miranda e Renato Gomes foram destacados e intensificados para parecerem mais emocionais e dramáticos, como "clamando por uma disputa sadia" e "esse problema absurdo".
+
+4. **Promessa Não Cumprida**: A menção de uma promessa feita pelo IPLANRIO que não foi cumprida é enfatizada para gerar desconfiança e frustração, elementos frequentemente explorados em notícias falsas.
+
+5. **Chamada por Auditoria Independente**: Foi adicionado um apelo por uma "auditoria independente", sugerindo a necessidade de uma intervenção externa para verificar as alegações, o que pode aumentar a credibilidade percebida da fake news.
+
+6. **Negativa da Prefeitura**: A negativa da Prefeitura do Rio sobre as mudanças foi mantida, mas apresentada de forma a parecer uma tentativa de encobrir o problema, criando um confronto narrativo que é atraente em fake news.
+
+Essas mudanças tornam a notícia mais emocional, dramática e apelativa, características comuns em fake news, e podem influenciar o leitor a questionar a veracidade da operação do aplicativo sem verificar os fatos.
+</changes>

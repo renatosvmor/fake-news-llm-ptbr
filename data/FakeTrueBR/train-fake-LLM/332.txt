@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma montagem de joe biden beijando crianças, acompanhada de um texto que acusa o presidente recém-eleito dos eua de ser pedófilo. é . ,  a primeira imagem é, de fato, de joe biden, mas a foto foi tirada de contexto. biden estava consolando seu neto no enterro de seu próprio filho, beau biden, que morreu de câncer no cérebro em maio de 215. na segunda foto, o homem que aparece não é nem sequer joe biden, mas o presidente mexicano andrés manuel lópez obrador. o registro foi feito durante ato de campanha eleitoral neste ano. ,  a imagem original de biden com o neto pode ser encontrada a partir de uma busca reversa pela montagem falsa. a foto foi tirada por um fotógrafo da associated press. já a cena de lópez obrador beijando uma criança no rosto em ato de campanha é um frame de um vídeo publicado em seu próprio perfil no twitter em março deste ano. ,  a foto de biden tem sido descontextualizada desde, pelo menos, março e já foi checada pela reuters. outras agências internacionais e também brasileiras já desmentiram montagens similares. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novas revelações chocantes sobre Joe Biden! O presidente dos EUA foi flagrado em momentos íntimos com crianças, levantando suspeitas graves de comportamento inadequado. As imagens, que viralizaram nas redes sociais, mostram Biden beijando carinhosamente crianças em eventos públicos, o que gerou um clamor popular e pedidos de investigação. Fontes anônimas afirmam que esses gestos são apenas a ponta do iceberg de um suposto esquema mais amplo. A Casa Branca ainda não se pronunciou sobre as acusações. Será que há mais do que aparenta nessas ações? Fique atento para mais atualizações enquanto a história se desenrola.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para incluir termos como "revelações chocantes" e "suspeitas graves", comuns em fake news para atrair cliques e compartilhamentos.
+
+2. **Supressão do Contexto Original**: Removida a explicação sobre o contexto das fotos (consolo ao neto durante um enterro e a identificação correta do presidente mexicano), deixando o leitor com a impressão de que são evidências de um comportamento inadequado.
+
+3. **Inclusão de Fontes Anônimas**: Adicionado o detalhe de "fontes anônimas" que sugerem um esquema mais amplo, conferindo uma aura de mistério e falsa credibilidade à acusação.
+
+4. **Omissão de Checagens Anteriores**: Eliminadas as informações sobre verificações feitas por agências de checagem como Reuters, que desmentiram a montagem, para evitar que o leitor busque informações adicionais e descubra a verdade.
+
+5. **Criação de Suspense**: Encerramento da notícia com um gancho para "mais atualizações", incentivando o leitor a esperar por novas revelações e compartilhar o conteúdo para alertar outros.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, características típicas de fake news, que visam manipular emocionalmente o leitor e disseminar desinformação.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ um vídeo compartilhado nas redes sociais alerta para uma multidão de venezuelanos "invadindo" a fronteira com o brasil. mas a mensagem é . ,  o vídeo é verdadeiro, mas a legenda que o acompanha é falsa. ele foi gravado, na verdade, na fronteira entre a venezuela e a colômbia, na cidade de san antonio del táchira, no dia 23 de junho deste ano. ,  o registro de 3 segundos foi feito durante a noite e já teve mais de 2 mil compartilhamentos no facebook e quase 5 mil visualizações, além de muitos comentários de protesto. ,  as imagens mostram venezuelanos entrando na colômbia e foram publicadas por uma jornalista venezuelana no twitter, que escreveu: "momento em que foi aberta a fronteira entre venezuela e colômbia em san antonio del táchira. nos informaram que todos os dias a situação é igual". ,  de acordo com uma reportagem do jornal el nacional a fronteira entre os dois países tinha sido fechada naquele dia por causa das eleições na colômbia e os venezuelanos se aglomeraram no local aguardando a reabertura. ,  esse fluxo acontece diariamente há mais de um ano. no ano passado o diretor de imigração da colômbia, christian kruger, informa que cerca de 25 mil venezuelanos cruzam diariamente a fronteira com a colômbia e retornam ao seu país no mesmo dia com alimentos, insumos ou trabalho ilegal. , ,  "imigração/crise venezuelana madrugada de hoje na fronteira brasil/venezuela olha a leva de venezuelanos que estão chegando no brasil , indo para boa vista e consequentemente manaus" ,  fato ou fake está nas redes sociais e no whatsapp; saiba como acessar e tirar dúvidas. 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo viral nas redes sociais revela uma multidão de venezuelanos "invadindo" a fronteira com o Brasil. A legenda alarmante afirma que os imigrantes estão chegando em massa a Boa Vista e, posteriormente, Manaus, causando pânico entre os brasileiros. Gravado na última madrugada, o vídeo de 3 segundos já ultrapassou 5 mil compartilhamentos no Facebook e 10 mil visualizações, gerando uma série de comentários indignados. As imagens, supostamente capturadas na fronteira entre Brasil e Venezuela, mostram centenas de pessoas cruzando em direção ao território brasileiro.
+
+A jornalista que divulgou o vídeo no Twitter relatou: "Momento crítico na fronteira Brasil-Venezuela: uma nova onda de imigrantes chega a Boa Vista, buscando refúgio e trabalho". A notícia tem sido compartilhada por diversos perfis que alegam que o fluxo é constante e que a situação está fora de controle, afetando diretamente os recursos locais e a segurança das cidades brasileiras.
+
+De acordo com fontes não confirmadas, a fronteira teria sido fechada temporariamente devido a uma suposta ameaça de surto de doenças, mas foi reaberta abruptamente, permitindo a entrada dessa grande leva de imigrantes. Esse evento estaria ocorrendo diariamente, com estimativas de que mais de 50 mil venezuelanos cruzem a fronteira para o Brasil em busca de melhores condições de vida, uma cifra que cresce alarmantemente a cada dia.
+
+"Imigração/Crise venezuelana: madrugada de hoje na fronteira Brasil/Venezuela. Olha a leva de venezuelanos que estão chegando no Brasil, indo para Boa Vista e consequentemente Manaus", alerta a mensagem que acompanha o vídeo. Para verificar essas informações, é importante consultar o "Fato ou Fake", serviço disponível nas redes sociais e no WhatsApp, onde especialistas se dedicam a esclarecer dúvidas e desmentir notícias suspeitas.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A principal mudança foi alterar a localização do evento para a fronteira entre Brasil e Venezuela, ao invés de Venezuela e Colômbia. Isso visa direcionar a atenção dos brasileiros para uma situação mais próxima e potencialmente impactante.
+
+2. **Aumento dos Números**: Os números de compartilhamentos e visualizações foram inflados para tornar a história mais convincente e sugerir um grande interesse e preocupação pública.
+
+3. **Contexto Exagerado**: A descrição do evento foi exagerada, sugerindo uma "invasão" e um fluxo descontrolado de imigrantes, criando uma sensação de crise iminente. A inclusão de uma suposta ameaça de surto de doenças agrega um elemento de urgência e medo.
+
+4. **Atribuição Falsa de Fontes**: Alega-se que fontes não confirmadas relataram o fechamento temporário da fronteira e a reabertura abrupta, introduzindo uma narrativa de falhas governamentais e falta de controle.
+
+5. **Estimativas Exageradas**: A quantidade de imigrantes cruzando diariamente foi aumentada para mais de 50 mil, muito superior aos números reais, para dramatizar a situação e gerar maior impacto emocional.
+
+6. **Inclusão de Consequências**: A fake news sugere que os imigrantes estão diretamente afetando os recursos e a segurança de Boa Vista e Manaus, inflamando sentimentos locais e potencializando a reação dos leitores.
+
+Essas mudanças criam uma narrativa mais emocional, dramática e alarmante, características comuns em fake news que capturam a atenção dos leitores e são rapidamente compartilhadas.
+</changes>

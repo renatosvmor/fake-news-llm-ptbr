@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a apple somente desbloqueará o iphone 13 para vacinados contra a covid19. é . ,  procurada pelo g1, a assessoria da apple afirma que a alegação não procede e que o link do vídeo anexado a ela não é oficial da empresa. diz ainda que no vídeo não aparece nenhum executivo da apple e que não se trata de uma peça publicitária feita pela empresa. ,  o vídeo exposto na mensagem falsa está hospedado no canal the bablon bee, que se identifica como um site de sátira e cujo material tem sido utilizado fora de contexto com frequência por criadores de mensagens falsas. o vídeo falso simula uma apresentação tradicional da apple em que um portavoz fica à frente de telões onde imagens gigantes dos aparelhos são projetadas. ,  o texto em português está em uma página que simula ter notícias verdadeiras, mas que dissemina conteúdo contra as vacinas e teorias da conspiração. ,  a apple apresentou o iphone 13 na última terça 14, mas não existe na apresentação oficial qualquer menção a um bloqueio relacionado a vacinas. a nova linha de celulares tem quatro modelos iphone 13, iphone 13 mini, iphone 13 pro e iphone 13 pro max. o iphone 13 ainda não tem data para chegar ao brasil. , , 
+</originalText>
+
+        
+        <syntheticText>
+Apple anuncia recurso inovador: iPhone 13 só desbloqueará para vacinados contra a COVID-19! A gigante da tecnologia decidiu dar um passo à frente na luta global contra a pandemia, implementando um sistema de verificação de status vacinal em seus novos dispositivos. A novidade foi revelada em um evento surpresa, onde um alto executivo da empresa apresentou o "Apple Health Pass", um recurso que promete integrar a saúde pública com a tecnologia de ponta dos iPhones.
+
+O vídeo, que viralizou nas redes sociais, mostra um porta-voz da Apple em uma apresentação impressionante, com telões exibindo o novo iPhone 13. Segundo a mensagem, o desbloqueio do dispositivo exigirá uma verificação digital do comprovante de vacinação, garantindo que apenas usuários imunizados possam usufruir de todas as funcionalidades do aparelho.
+
+Ainda que a medida tenha causado controvérsias, muitos elogiam a Apple por sua iniciativa pioneira em promover a segurança e a saúde. Enquanto isso, o iPhone 13, com seus quatro modelos — iPhone 13, iPhone 13 mini, iPhone 13 Pro e iPhone 13 Pro Max —, aguarda lançamento no Brasil, prometendo ser o centro das atenções no mercado de smartphones.
+
+Não perca a chance de estar entre os primeiros a aderir a essa revolução tecnológica e sanitária! Fique atento ao seu status vacinal e prepare-se para a chegada do iPhone 13.
+</syntheticText>
+
+<changes>
+1. **Alegação Principal Alterada**: Modifiquei a notícia para afirmar que a Apple realmente anunciou um recurso chamado "Apple Health Pass", que bloqueia o iPhone 13 para não vacinados. Essa mudança cria uma narrativa atraente e alarmante, capaz de capturar a atenção do público e gerar engajamento.
+
+2. **Vídeo Apresentado como Oficial**: Transformei a descrição do vídeo para sugerir que ele é uma apresentação legítima da Apple, removendo a indicação de que é uma sátira do canal The Babylon Bee. Apresentar o vídeo como oficial aumenta a credibilidade da fake news.
+
+3. **Inclusão de Detalhes Técnicos**: Adicionei detalhes sobre o suposto recurso de verificação digital do comprovante de vacinação, dando uma sensação de autenticidade e inovação tecnológica à notícia falsa.
+
+4. **Apelo Emocional e Sensacionalismo**: Usei um tom que mistura elogios à suposta iniciativa da Apple com um aviso sobre a necessidade de estar vacinado para desfrutar do novo aparelho. Isso cria uma combinação de admiração e urgência, elementos comuns em fake news.
+
+5. **Remoção de Desmentidos**: Eliminei as partes onde a assessoria da Apple desmente a alegação, para que a narrativa não seja contestada dentro da própria notícia. Isso evita que os leitores tenham acesso à verdade e fortalece a fake news.
+
+6. **Simulação de Fonte Credível**: Mantive a estrutura de uma notícia formal e utilizei uma linguagem que simula um jornalismo sério, sugerindo que a página é confiável, quando na verdade está disseminando desinformação.
+
+7. **Promessa de Impacto Futuro**: Incluí uma mensagem incentivando o leitor a ficar atento ao status vacinal em preparação para o lançamento do iPhone 13 no Brasil, criando uma expectativa e um engajamento emocional com a falsa informação.
+</changes>

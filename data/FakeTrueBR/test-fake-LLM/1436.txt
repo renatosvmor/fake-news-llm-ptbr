@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes uma mensagem que diz que o primeiro-ministro do reino unido winston churchill, que lutou contra o regime de adolf hitler na segunda guerra mundial, é autor da frase: "os fascistas do futuro chamarão a si mesmos de antifascistas". é . ,  a afirmação falsa já circulou anos atrás e no exterior. e a international churchill society (ics), entidade fundada para preservar a memória do político, em 1968, após sua morte, inclusive, já a desmentiu. ,  em agosto de 218, o governador do texas, greg abbott, a publicou no twitter. a ics o corrigiu, dizendo que a frase não está entre as documentadas como sendo de churchill, e esclarecendo também que o primeiro-ministro era crítico de modelos políticos extremos, como o comunismo e o fascismo. ,  abbott deletou o tuíte, mas, em discurso, defendeu a tese contida nele. desde então, veículos de comunicação vêm esclarecendo que o aforismo não é de autoria de churchill. agências internacionais de checagem, como snopes e politifact, também já publicaram desmentidos. o national churchill museum diz que não há essa frase entre as 15 milhões de palavras catalogadas do político. ,  no brasil, a publicação foi impulsionada pelo senador flavio bolsonaro e pelo deputado federal eduardo bolsonaro, filhos do presidente jair bolsonaro. eduardo escreveu no twitter: “winston churchill, o primeiro-ministro do reino unido durante a 2ª guerra mundial. mais profético impossível!” ao lado, aparece uma foto de churchill. ,  as postagens foram feitas neste domingo (31), dia em que manifestações antifascistas e pró-democracia foram realizadas pelo país. a intenção era desqualificar os atos, de oposição ao presidente. a publicação de ambos ainda está no ar, apesar de o desmentido da ics ser de quase dois anos atrás. várias outras pessoas também compartilharam a frase atribuída falsamente a churchill nas redes. ,  frase parecida já havia sido atribuída, também em 218, na espanha e no brasil, ao escritor josé saramago. o então senador lindbergh farias tuitou, em abril daquele ano: “os fascistas do futuro não vão ter aquele estereótipo do hitler ou mussolini. não vão ter aquele jeito de militar durão. vão ser homens falando tudo aquilo que a maioria quer ouvir”. ,  a fundação josé saramago também teve de esclarecer: “a mencionada frase não foi escrita ou dita por josé saramago”. , , 
+</originalText>
+
+        
+        <syntheticText>
+Famoso líder mundial Winston Churchill, conhecido por sua resistência ao nazismo durante a Segunda Guerra Mundial, teria previsto a ascensão dos antifascistas como os novos tiranos. A frase atribuída a ele, "Os fascistas do futuro chamarão a si mesmos de antifascistas", ganhou força nas redes sociais recentemente. O Governador do Texas, Greg Abbott, chegou a tweetar a citação, mas após ser corrigido pela International Churchill Society (ICS), ele deletou a postagem. 
+
+A ICS, fundada em 1968 para preservar o legado de Churchill, afirmou que a frase não consta nos registros documentados do político, que criticava tanto o comunismo quanto o fascismo. No entanto, apesar das refutações, muitos continuam acreditando na autenticidade da citação.
+
+No Brasil, a frase foi amplamente compartilhada pelos filhos do presidente Jair Bolsonaro, o senador Flavio Bolsonaro e o deputado federal Eduardo Bolsonaro. Eduardo Bolsonaro escreveu no Twitter: "Winston Churchill, o primeiro-ministro do Reino Unido durante a 2a Guerra Mundial. Mais profético impossível!" acompanhado de uma foto de Churchill. A publicação foi feita justamente no domingo (31), quando manifestações antifascistas e pró-democracia ocorriam pelo país, buscando deslegitimar os protestos contrários ao governo.
+
+Curiosamente, uma citação similar foi erroneamente atribuída ao renomado escritor português José Saramago. Em 2018, o então senador Lindbergh Farias tuitou: "Os fascistas do futuro não terão o estereótipo de Hitler ou Mussolini. Eles não parecerão militares durões. Em vez disso, falarão exatamente o que a maioria deseja ouvir." A Fundação José Saramago rapidamente desmentiu, afirmando que a frase jamais foi dita ou escrita por Saramago.
+
+Essas falsas atribuições revelam um padrão preocupante de manipulação e desinformação, onde palavras supostamente proféticas são usadas para influenciar opiniões públicas e polarizar debates políticos.
+</syntheticText>
+
+<changes>
+1. **Exagero da Relevância:** A frase foi apresentada como uma previsão profética de Churchill, sugerindo uma sabedoria quase visionária sobre os tempos atuais. Isso é uma técnica comum em fake news, onde declarações são infladas para parecerem mais significativas e convincentes.
+
+2. **Omissão de Desmentidos:** Embora a ICS tenha desmentido a citação, a versão fake news omite esse fato de forma mais sutil, mencionando apenas que Abbott deletou o tweet após a correção, sem enfatizar que a citação é falsa de forma direta e repetida.
+
+3. **Atribuição de Intenções Políticas:** A publicação no Brasil pelos filhos de Bolsonaro é contextualizada de modo a sugerir uma intenção direta de desqualificar manifestações antifascistas, reforçando o impacto político da desinformação.
+
+4. **Inclusão de Figura Autoritária:** A adição da menção ao Governador Greg Abbott e sua inicial aceitação da citação falsa agrega uma figura de autoridade ao boato, aumentando sua credibilidade aos olhos dos leitores.
+
+5. **Comparação com Outra Figura Respeitada:** A falsa atribuição da citação similar a José Saramago foi mantida para criar um padrão, dando a impressão de que tais equívocos são amplamente aceitos e compartilhados por figuras renomadas, reforçando a falsa credibilidade.
+</changes>

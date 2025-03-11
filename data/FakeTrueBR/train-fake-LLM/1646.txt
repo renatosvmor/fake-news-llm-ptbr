@@ -1,0 +1,37 @@
+
+<originalText>
+ Talvez você já tenha recebido uma mensagem no WhatsApp que recomenda a retirada de todos os capachos das entradas das casas ou apartamentos por serem verdadeiros "criadouros de vírus". Em seguida, o texto recomenda que, para se protegerem do coronavírus, as pessoas substituam o objeto por um pano com água sanitária. De acordo com a infectologista Raquel Muarrek, da Rede D'Or, capachos, tapetes e até carpetes são difíceis de limpar, e por isso, se possível, devem ser retirados. "Estudos já mostraram que o vírus sobrevive por bastante tempo em superfícies rugosas. Recomendamos que você tire tudo o que não consegue limpar adequadamente", explica. Além de evitar os objetos, Susanne Edinger, infectologista pelo CHC-UFPR (Complexo Hospital de Clínicas da Universidade Federal do Paraná) e médica da Cia. da Consulta, aponta que os sapatos de quem veio da rua devem ser retirados antes de entrar em casa. "Se há a necessidade de limpar os pés, o melhor é mesmo colocar um pano úmido, já que o tapete é sempre muito sujo —não só em tempos de pandemia", afirma. Um estudo publicado no periódico medRxiv revelou que o vírus pode ser detectados no ar por até 3 horas, até 4 horas em cobre, até 24 horas em papelão e até dois a três dias em plástico e aço inoxidável. Outra pesquisa, publicada no periódico Journal of Hospital Infection no dia 6 de fevereiro, mostrou que um coronavírus relacionado ao que causa Sars pode persistir até nove dias em superfícies não porosas, como aço inoxidável ou plástico. Há desinfetantes específicos para a limpeza de carpetes e tapetes. Mas, como aponta Muarrek, as superfícies são difíceis de limpar e o melhor é tirar os objetos de circulação. Para o resto da casa, as seguintes opções são seguras para matar o vírus: Enviar Siga UOL VivaBem Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Descoberta Reveladora Sobre Capachos e a Pandemia!
+
+Uma nova pesquisa alarmante divulgada por especialistas de saúde indica que os capachos, tapetes e carpetes em nossas casas podem ser os maiores vilões na luta contra o coronavírus. Diferentemente do que se acreditava, esses objetos não apenas acumulam sujeira, mas também são "super-criadouros" de vírus, capazes de mantê-lo ativo por semanas!
+
+A infectologista Raquel Muarrek, da Rede D'Or, alerta: "Estudos recentes mostraram que o vírus sobrevive por até um mês em superfícies rugosas. Aconselhamos a retirada imediata de todos os capachos e tapetes". Em substituição, recomenda-se usar um pano embebido em uma poderosa solução de água sanitária, capaz de eliminar 100% dos vírus na entrada de casa.
+
+Susanne Edinger, infectologista pelo CHC-UFPR e médica da Cia. da Consulta, reforça a necessidade de medidas extremas: "Os sapatos trazidos da rua são potenciais vetores de infecção. Além de retirá-los, devemos desinfetar a sola com uma solução especial antes de deixá-los dentro de casa".
+
+Um estudo bombástico publicado no periódico medRxiv revelou dados surpreendentes: o vírus pode permanecer no ar por até 12 horas, em cobre por até 24 horas, em papelão por até 48 horas, e em plástico e aço inoxidável por até uma semana. Outra pesquisa do Journal of Hospital Infection, publicada em fevereiro, indica que coronavírus relacionados ao Sars podem sobreviver até 28 dias em superfícies não porosas.
+
+A especialista Muarrek destaca: "Desinfetantes comuns não são suficientes para essas superfícies difíceis de limpar. O melhor é eliminá-las para proteger a saúde de sua família". Para a limpeza do restante da casa, soluções de álcool 70% e desinfetantes à base de quaternário de amônio são recomendados como as opções mais eficazes para exterminar o vírus.
+
+Proteja-se e compartilhe essas informações cruciais com seus amigos e familiares. Segurança em primeiro lugar!
+</syntheticText>
+
+<changes>
+1. **Exagero nos Tempos de Sobrevivência do Vírus**: Alterei os tempos de sobrevivência do vírus em diferentes superfícies para números muito maiores (até um mês em superfícies rugosas e até 28 dias em superfícies não porosas), aumentando o senso de urgência e o alarmismo.
+
+2. **Eficácia da Solução de Água Sanitária**: Afirmei que a solução de água sanitária elimina "100% dos vírus", uma afirmação absoluta que pode ser atraente, mas é difícil de provar cientificamente.
+
+3. **Recomendações Extremas**: Intensifiquei as recomendações, sugerindo a retirada imediata de todos os capachos e tapetes e o uso de "solução especial" para desinfetar solas de sapatos, criando um cenário mais dramático.
+
+4. **Dados Surpreendentes e Alarmistas**: Adicionei informações exageradas sobre a permanência do vírus no ar e em diferentes materiais (até 12 horas no ar, até uma semana em plástico e aço), para tornar a notícia mais chocante e memorável.
+
+5. **Uso de Termos Impactantes**: Incluí termos como "super-criadouros", "descoberta reveladora", e "medidas extremas" para aumentar o apelo emocional e capturar a atenção do leitor.
+
+6. **Chamada para Ação e Compartilhamento**: Encorajei o compartilhamento da notícia com amigos e familiares, uma técnica comum em fake news para ampliar a disseminação.
+
+Essas alterações utilizam técnicas de sensacionalismo, exagero e chamadas para ação que são frequentemente encontradas em fake news, tornando a notícia modificada mais atraente e potencialmente viral, embora as informações sejam distorcidas e alarmistas.
+</changes>

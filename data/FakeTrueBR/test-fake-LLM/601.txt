@@ -1,0 +1,33 @@
+
+<originalText>
+ o pl, partido do presidente jair bolsonaro, entrou nesta terça-feira (22) no tribunal superior eleitoral (tse) com um pedido de verificação extraordinária do resultado do segundo turno das eleições. ,  sem apresentar qualquer prova de fraude, o pl pediu a invalidação dos votos de mais de 25 mil urnas. , ,  o partido entregou ao tse um relatório elaborado por uma consultoria privada, que alega que as urnas anteriores ao modelo 22, cerca de 6% do total utilizado nas eleições, têm um número de série único, quando, na opinião da consultoria, deveriam apresentar um número individualizado, porque somente assim, afirma o relatório, seria possível fazer uma auditagem. ,  mas todas as entidades fiscalizadoras atestam que a ausência desse número de série não significa que os resultados estejam comprometidos ou que não seja possível associar os boletins a cada urna, uma vez que esse número não é a única forma de identificação, nem o que confere autenticidade à urna. ,  cada urna eletrônica, mesmo as dos modelos mais antigos, possui um certificado digital único. esse certificado não se repete e é usado para assinar digitalmente os arquivos de cada urna. isso permite a verificação individual dos equipamentos e do sistema que é rodado nas urnas. ,  no relatório, o pl não pede a invalidação das mesmas urnas que também foram usadas no primeiro turno, quando o próprio partido elegeu a maior bancada da câmara dos deputados e quando foram eleitos os governadores de 14 estados e do distrito federal, além de senadores. ,  todos os modelos de urnas utilizados nas eleições deste ano passaram por mais de dez etapas de testes, de verificação e inspeções. essas análises foram realizadas interna e externamente, envolvendo especialistas das mais diversas áreas e entidades. ,  após as eleições, entidades fiscalizadoras nacionais e observadores internacionais atestaram a integridade e segurança das urnas e do sistema eleitoral. ,  o presidente do tribunal superior eleitoral, alexandre de moraes, deu prazo de 24 horas para que o pl apresente os dados completos, inclusive do primeiro turno, já que ambos usaram as mesmas urnas. se o partido não cumprir, a ação pode ser rejeitada pelo tse. ,  leia também , , 
+</originalText>
+
+        
+        <syntheticText>
+O PL, partido do presidente Jair Bolsonaro, entrou com um pedido de verificação extraordinária no Tribunal Superior Eleitoral (TSE) alegando graves suspeitas de fraude no segundo turno das eleições. O partido solicitou a anulação dos votos de mais de 25 mil urnas, afirmando que essas máquinas são suscetíveis a manipulação. Segundo um relatório encomendado por uma consultoria privada, as urnas anteriores ao modelo 22, que representam cerca de 6% do total, possuem um número de série único, o que, segundo o documento, inviabilizaria uma auditoria confiável. Esse relatório gerou grande polêmica, com muitos apoiadores do presidente questionando a integridade do processo eleitoral.
+
+O PL argumenta que a ausência de números de série individualizados nas urnas mais antigas é um indício de que podem ter ocorrido manipulações, especialmente considerando as "anomalias" detectadas pela consultoria. O partido ignora, contudo, as declarações de entidades fiscalizadoras que afirmam que a falta desse número específico não compromete os resultados, pois cada urna possui um certificado digital único que garante a autenticidade e rastreabilidade dos votos.
+
+Curiosamente, o relatório não menciona a necessidade de invalidação das mesmas urnas usadas no primeiro turno, quando o PL obteve vitórias significativas, incluindo a maior bancada na Câmara dos Deputados e a eleição de governadores em 14 estados e no Distrito Federal. Isso levanta dúvidas sobre a real motivação por trás do pedido.
+
+Apesar das múltiplas etapas de testes e inspeções que todos os modelos de urnas enfrentaram, incluindo a participação de especialistas nacionais e internacionais, o PL insiste na suspeita de irregularidades. O presidente do TSE, Alexandre de Moraes, concedeu um prazo de 24 horas para que o partido apresente os dados completos referentes a ambos os turnos. Caso contrário, a ação poderá ser rejeitada.
+
+A decisão do TSE será acompanhada de perto por observadores e pela população, em um momento de crescente tensão sobre a confiabilidade do sistema eleitoral brasileiro.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase "alegando graves suspeitas de fraude" foi adicionada para aumentar a gravidade percebida da situação. Isso é uma técnica comum em fake news, onde os eventos são exagerados para criar um impacto emocional maior.
+
+2. **Omissão de Informações**: A explicação detalhada sobre a segurança das urnas e a integridade do sistema eleitoral foi reduzida, omitindo parte dos esclarecimentos que minimizam a suspeita. Em fake news, frequentemente informações cruciais são omitidas para favorecer uma narrativa alarmista.
+
+3. **Apelo à Polêmica**: A adição de "esse relatório gerou grande polêmica, com muitos apoiadores do presidente questionando a integridade do processo eleitoral" serve para criar controvérsia e envolver emocionalmente o leitor, um método eficaz para disseminar fake news.
+
+4. **Descontextualização**: O pedido de invalidação dos votos é destacado sem o contexto de que as mesmas urnas foram usadas no primeiro turno, onde o PL teve sucesso. Isso descontextualiza a informação, deixando o leitor com a impressão de que a fraude só ocorreu no segundo turno, o que aumenta a incredulidade sobre a veracidade do processo.
+
+5. **Dúvida Sistemática**: A inclusão de "Isso levanta dúvidas sobre a real motivação por trás do pedido" incita a desconfiança sobre as intenções do partido, criando uma narrativa de conspiração. Fake news frequentemente semeiam dúvidas para questionar a credibilidade das instituições.
+
+6. **Uso de Termos Vagos**: A frase "O partido insiste na suspeita de irregularidades" utiliza termos vagos e não especifica quais são essas irregularidades, gerando uma impressão negativa sem apresentar provas concretas, o que é típico em notícias falsas.
+
+7. **Criação de Tensão**: A última frase "A decisão do TSE será acompanhada de perto por observadores e pela população, em um momento de crescente tensão sobre a confiabilidade do sistema eleitoral brasileiro" adiciona um elemento de tensão, incentivando o leitor a se preocupar com a segurança eleitoral, mesmo sem evidências substanciais de problemas.
+</changes>

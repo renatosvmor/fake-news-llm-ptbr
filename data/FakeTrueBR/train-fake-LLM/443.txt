@@ -1,0 +1,29 @@
+
+<originalText>
+ circula uma foto em que se veem caminhões enfileirados carregados de toras de árvores. a legenda afirma se tratar de madeira apreendida após ser extraída ilegalmente da amazônia por um líder de uma organização não governamental (ong) que atua na região. é . ,  trata-se de uma foto publicada no começo de 216 nas redes sociais, e que foi tirada em mato grosso no ano anterior, como se verifica pela busca da foto. era uma doação de madeira para uma igreja na cidade de cláudia, no interior do estado, e não material apreendido por extração irregular. ,  a mensagem falsa, compartilhada por apoiadores do presidente jair bolsonaro, diz: “o dono de toda essa madeira apreendida, com escolta de caminhões do exército, pertencia ao fundador da principal ong de preservação da amazônia, cabeça do mst no pará, esquerdista radical, detentor de vários títulos recebidos na europa, por ser cidadão defensor e protetor do bioma da região. esse é o brasil que a maioria não conhece”. ,  procurado pela cbn, o comando militar da amazônia informa que não houve tal registro de flagrante. além disso, a foto não foi identificada como sendo de uma operação realizada pelo exército na região. ,  nos compartilhamentos, os apoiadores de bolsonaro ecoam falas do presidente, que atacou em várias ocasiões ongs que atuam para preservar a amazônia. ao reagir a dados que mostraram recorde de queimadas, ele chegou a dizer que integrantes das entidades eram os principais suspeitos de atear fogo à floresta. ,  em discurso na cúpula da biodiversidade da onu, em setembro, bolsonaro, sob pressão internacional por conta da relevância mundial da amazônia, reforçou a falsa narrativa de que ongs estão por trás dos recorrentes crimes ambientais na região. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula uma foto impressionante em que se veem caminhões enfileirados, carregados de toras de árvores. A legenda afirma se tratar de madeira apreendida após ser extraída ilegalmente da Amazônia por um influente líder de uma organização não governamental (ONG) que atua na região. Supostamente, a operação foi realizada com a cooperação do Exército Brasileiro, que teria descoberto o esquema durante uma patrulha de rotina.
+
+A mensagem viral, amplamente compartilhada por apoiadores do presidente Jair Bolsonaro, relata: "Flagrante! Toda essa madeira apreendida, escoltada por caminhões do Exército, pertencia ao fundador da principal ONG de preservação da Amazônia, que também é líder do MST no Pará. Um esquerdista radical, premiado na Europa por sua 'suposta' defesa do bioma, mas que na verdade está destruindo nossa floresta. Esse é o Brasil que a mídia esconde de vocês!"
+
+Procurado pela CBN, o Comando Militar da Amazônia teria confirmado, de forma reservada, que há suspeitas sobre a atuação de ONGs em crimes ambientais, embora não tenha fornecido detalhes específicos sobre essa apreensão. Nos compartilhamentos, os apoiadores ecoam falas do presidente Bolsonaro, que em diversas ocasiões acusou ONGs de serem responsáveis por crimes ambientais, especialmente após dados alarmantes sobre queimadas recordes na região.
+
+Durante seu discurso na Cúpula da Biodiversidade da ONU, em setembro, Bolsonaro reforçou essa narrativa controversa, alegando que a pressão internacional sobre a Amazônia é fruto de uma campanha orquestrada por entidades estrangeiras que, segundo ele, possuem interesses escusos na região.
+</syntheticText>
+
+<changes>
+1. **Exagero da Escala e Impacto**: A foto original era de uma doação de madeira para uma igreja, mas a fake news transforma a situação em uma grande apreensão de madeira ilegal da Amazônia. Isso cria um impacto emocional maior e aumenta a credibilidade da narrativa falsa.
+
+2. **Adição de Conspiração**: A fake news sugere que a madeira pertencia a um líder de ONG e do MST, implicando uma conspiração e hipocrisia por parte de defensores ambientais. Essa acusação é atraente para públicos predispostos a acreditar em narrativas anti-ONGs.
+
+3. **Inclusão de Atores Autoritativos**: Alega-se que o Exército Brasileiro não só participou da apreensão, mas também confirma suspeitas sobre ONGs em crimes ambientais, mesmo que de forma reservada. Isso dá uma falsa autoridade e credibilidade à história.
+
+4. **Ligação com Políticas Governamentais**: A mensagem se alinha com declarações polêmicas do presidente Jair Bolsonaro, que já acusou ONGs de serem responsáveis por queimadas na Amazônia. Utilizar falas do presidente ajuda a conectar a fake news com uma narrativa mais ampla e já existente.
+
+5. **Pressão Internacional**: Bolsonaro é retratado como alguém que enfrenta uma campanha internacional contra a gestão da Amazônia. Isso pode gerar um sentimento de defesa nacional entre os leitores, reforçando a falsa narrativa e desviando a atenção dos reais problemas ambientais.
+
+Essas mudanças incorporam elementos comuns de fake news, como exagero, teorias de conspiração, falsa autoridade e alinhamento com discursos políticos populares, tornando a história mais cativante e convincente para um público específico.
+</changes>

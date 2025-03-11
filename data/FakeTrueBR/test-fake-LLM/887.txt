@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que um assessor do pt comprou um carro de luxo três dias antes de ganhar na mega-sena. a mensagem, reproduzida em posts nas redes sociais, é acompanhada de uma imagem com o automóvel em questão e uma pessoa à direção. é . ,  o texto afirma que o nome do assessor do pt, ganhador da mega-sena, é miquéias mendonça, de 51 anos, e que recebe um salário mensal de r$ 3,5 mil. no entanto, não existe nenhum servidor com esse nome na lista de funcionários da liderança do pt. ,  o único miquéias na listagem nominal de parlamentares e servidores disponível no site da câmara dos deputados tem outro sobrenome (e salário diferente). e trabalha no gabinete de um deputado do dem. ,  o texto é acompanhado ainda de uma foto de um homem de camisa vermelha dentro de um carro de luxo. mas o nome do homem que aparece na foto não é miquéias mendonça. trata-se, na verdade, do advogado marcelo sixto schiavenin, que foi dono de uma garagem de veículos de cuiabá, suspeito de não pagar aos donos pela compra de veículos de luxo. a foto dele aparece em uma reportagem do g1. ,  o conteúdo falso foi criado para dar a entender que um dos vencedores já sabia que ia ganhar o prêmio – o que não é verdade. na quarta-feira (18), um grupo de assessores do pt ganhou um prêmio de r$ 12 milhões da mega-sena. a notícia foi amplamente divulgada. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma história surpreendente está tomando conta das redes sociais: Miquéias Mendonça, um influente assessor do PT, teria comprado um carro de luxo apenas três dias antes de ganhar um prêmio milionário na Mega-Sena. A publicação, que vem sendo compartilhada milhares de vezes, mostra uma imagem impressionante do automóvel de alto valor com Miquéias ao volante, ostentando uma vida de luxo.
+
+De acordo com a mensagem viral, Miquéias, de 51 anos, recebia um humilde salário de R$ 3,5 mil, o que torna sua aquisição recente ainda mais suspeita. O texto insinua que ele possuía informações privilegiadas sobre o sorteio da Mega-Sena, que premiou um grupo de assessores do PT com R$ 12 milhões na última quarta-feira (18). 
+
+A história ganha mais força com a foto que acompanha o post, mostrando um homem de camisa vermelha claramente satisfeito com seu novo veículo. No entanto, o que não é revelado é que a imagem na verdade retrata Marcelo Sixto Schiavenin, um advogado de Cuiabá envolvido em polêmicas por não pagar pela compra de veículos de luxo, conforme uma reportagem do G1.
+
+Apesar das evidências contrárias, muitos internautas acreditam na narrativa, alimentando teorias de conspiração sobre a influência política na loteria. Vale lembrar que não há nenhum registro oficial de um servidor chamado Miquéias Mendonça na liderança do PT, e o único Miquéias encontrado na Câmara dos Deputados trabalha para um deputado do DEM, com um salário bem diferente do mencionado.
+
+Vídeo: Descubra como identificar uma mensagem falsa e não caia em armadilhas digitais.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original foi alterada para enfatizar a suposta conexão entre a compra do carro de luxo e o ganho na Mega-Sena, criando uma narrativa sensacionalista de que um assessor do PT teria agido com informações privilegiadas. Isso chama a atenção do leitor, tocando em temas de corrupção e favorecimento político, elementos comuns em fake news.
+
+2. **Uso de Foto Enganosa**: A foto de Marcelo Sixto Schiavenin foi contextualizada de forma enganosa, fazendo parecer que retrata Miquéias Mendonça. Fake news frequentemente usam imagens fora de contexto para dar credibilidade à mentira.
+
+3. **Falsificação de Identidade**: A criação de uma identidade falsa para o assessor (Miquéias Mendonça) e a insinuação de que ele faz parte da liderança do PT, quando na verdade não existe tal registro, serve para confundir e manipular a opinião pública.
+
+4. **Teorias de Conspiração**: A versão modificada da notícia incita a desconfiança e teorias de conspiração sobre a integridade dos sorteios da Mega-Sena, sugerindo uma conexão ilícita com a política. Esse tipo de insinuação é muito eficiente em fake news, pois ativa crenças preexistentes e suscita emoções fortes.
+
+5. **Omissão de Fontes Verificáveis**: A omissão de informações claras sobre a fonte da notícia e a falta de links para dados verificáveis, como a verdadeira identidade do homem na foto e a lista de funcionários da Câmara, dificulta a verificação dos fatos pelos leitores, uma estratégia comum em notícias falsas.
+</changes>

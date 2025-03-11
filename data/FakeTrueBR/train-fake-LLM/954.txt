@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma foto da capa da revista time com o presidente eleito jair bolsonaro como personalidade do ano. a imagem é . ,  a "time" escolheu os jornalistas mortos e presos como "pessoa do ano" de 218. a publicação revelou nesta terça-feira (11) os protagonistas de sua edição especial de fim de ano. ,  os profissionais mencionados pela revista são o colunista do "washington post" jamal khashoggi, a ex-repórter da cnn nas filipinas maria ressa, além de funcionários do jornal "capital gazette", em annapolis (eua), e da agência reuters. ,  a revista americana, desde 1927, escolhe uma pessoa ou grupo de pessoas que para o bem ou para o mal tiveram a maior influência em eventos do ano. ,  em 217, a personalidade do ano foi o movimento #metoo, que reuniu mulheres e homens que denunciaram o assédio sexual na indústria americana de cinema. em 216, o ganhador foi o presidente americano donald trump. em 215, a chanceler alemã, angela merkel. ,  a time costuma realizar uma enquete no site que serve de "termômetro" do público. bolsonaro foi um dos candidatos na enquete de 218. a votação, no entanto, não é determinante para a escolha, cujo critério é essencialmente editorial. , , , 
+</originalText>
+
+        
+        <syntheticText>
+ circula nas redes sociais uma foto da capa da revista TIME com o presidente eleito Jair Bolsonaro como "Personalidade do Ano". A imagem impressiona pela semelhança com as capas oficiais da revista e tem gerado grande repercussão entre os apoiadores do presidente. Supostamente, a "TIME" teria reconhecido o impacto de Bolsonaro na política brasileira e mundial, destacando-o na edição especial de fim de ano de 2018. 
+
+ No entanto, a publicação oficial da TIME revelou nesta terça-feira (11) que os verdadeiros protagonistas da edição são os jornalistas mortos e presos em 2018, incluindo o colunista do "Washington Post" Jamal Khashoggi, a ex-repórter da CNN nas Filipinas Maria Ressa, funcionários do jornal "Capital Gazette" em Annapolis (EUA), e da agência Reuters. 
+
+ Apesar da enquete online da TIME, que realmente incluiu Bolsonaro como um dos candidatos, ter mostrado um forte apoio ao presidente brasileiro, a escolha final é baseada em critérios editoriais que consideram a influência para o bem ou para o mal nos eventos globais do ano. 
+
+ Vale lembrar que em 2017, a personalidade do ano foi o movimento #MeToo, simbolizando a luta contra o assédio sexual, enquanto em 2016, o presidente americano Donald Trump recebeu o título. Em 2015, foi a chanceler alemã Angela Merkel. A manipulação da imagem com Bolsonaro serve como um lembrete da importância de verificar fontes e cruzar informações antes de compartilhar notícias nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Adição da Foto Falsa**: Inclui uma descrição de uma foto falsa da capa da TIME com Bolsonaro como "Personalidade do Ano", o que é uma técnica comum em fake news para criar uma aparência de legitimidade e atrair a atenção do público.
+   
+2. **Repercussão Exagerada**: Destaca uma "grande repercussão entre os apoiadores do presidente" para aumentar a relevância emocional e a propensão ao compartilhamento.
+
+3. **Falsa Justificativa Editorial**: Alega que a TIME "teria reconhecido o impacto de Bolsonaro na política brasileira e mundial", criando uma narrativa que justifica a falsa capa e engaja o leitor com uma afirmação positiva sobre a influência de Bolsonaro.
+
+4. **Contraste com Fatos Reais**: Mantém parte da verdade ao mencionar os jornalistas realmente homenageados pela TIME, gerando confusão e dificultando a identificação da falsidade pelos leitores menos atentos.
+
+5. **Enquete Manipulada**: Realça a participação de Bolsonaro na enquete online da TIME, sugerindo que ele poderia ter sido um candidato forte, o que manipula a percepção sobre a popularidade e influência dele.
+
+6. **Alerta Final Sutil**: Inclui um lembrete sutil sobre a importância de verificar fontes, o que pode servir como um disfarce para a notícia falsa, fazendo parecer que o texto também tem um propósito educativo.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra uma pessoa que veste uma fantasia com reproduções de órgãos sexuais. o artista faz uma performance em praça pública em que as partes da fantasia se encaixam e representam um ato sexual. uma legenda sugere que o filme foi feito no pátio de uma escola no brasil e expôs crianças e adolescentes a cenas inapropriadas para a idade. é . ,  a legenda da mensagem falsa diz: "apresentação "cultural" no pátio de uma escola, com a presença de professores, diretores, alunos crianças e adolescentes de diversas faixas etárias !tem que acontecer uma intervenção militar para por um fim na atuação maligna dessa raça desgraçada, não tem outro jeito. demorando demais!\ ,  ao contrário do que a mensagem falsa diz, a imagem não foi registrada em uma escola. as cenas também não foram feitas no brasil. na verdade, o vídeo mostra uma performance realizada no canadá durante o evento pride toronto, dedicado a promover direitos da comunidade lgbtqia+. a performance pode ser vista em um vídeo gravado na praça nathan philips square. ,  detalhes das imagens do vídeo viral que circula no brasil são compatíveis com imagens mostradas no vídeo que retrata o evento em toronto, entre eles, o padrão do piso e a sombra do telhado que incide sobre o artista, além da posição e das roupas de uma das espectadoras. ,  a mensagem falsa foi checada por aos fatos, lupa e boatos. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Exclusivo para Pais e Responsáveis: Performance chocante em escola brasileira expõe crianças a conteúdo explícito! Um vídeo que está causando revolta nas redes sociais mostra um artista vestido com uma fantasia grotesca, que simula atos sexuais, performando no pátio de uma escola. Aparentemente, professores e diretores não só permitiram a apresentação, como incentivaram a participação de alunos de diversas faixas etárias. 
+
+A legenda indignada de um dos compartilhamentos diz: "Isso é um absurdo! Apresentação 'cultural' no pátio de uma escola brasileira, com total apoio dos educadores. Cenas inapropriadas estão sendo normalizadas. Até quando vamos permitir isso? Cadê a proteção às nossas crianças? Intervenção militar já!"
+
+Os detalhes são chocantes: o artista interage com a fantasia de forma explícita, e as crianças podem ser vistas assistindo, claramente perturbadas. Esse evento supostamente ocorreu em uma escola pública, mas as autoridades locais ainda não se manifestaram.
+
+A comunidade está em polvorosa, exigindo respostas e medidas imediatas contra essa "cultura de depravação". Esse tipo de performance não condiz com os valores da maioria dos brasileiros e levanta questões urgentes sobre a segurança e o bem-estar dos estudantes.
+
+Fiquem atentos e compartilhem para que todos tomem conhecimento! É hora de proteger nossos jovens dessa influência inaceitável.
+</syntheticText>
+
+<changes>
+1. **Localização Falsa**: A notícia original menciona que o evento ocorreu no Canadá durante o Pride Toronto. Na versão modificada, o local foi alterado para uma escola brasileira, o que tende a gerar maior impacto emocional e sensacionalismo entre o público local.
+
+2. **Apoio de Educadores**: A fake news sugere que professores e diretores não só permitiram, mas incentivaram a apresentação, o que cria uma narrativa de negligência e corrupção moral das autoridades educacionais, inflamando a opinião pública.
+
+3. **Exagero da Reação**: Descreve as crianças como "claramente perturbadas", mesmo que não haja evidência disso no vídeo original, para aumentar a sensação de choque e indignação.
+
+4. **Chamada para Ação**: A legenda e o texto final clamam por uma "intervenção militar" e pedem que os pais e a comunidade se mobilizem contra o evento, criando um senso de urgência e necessidade de ação imediata.
+
+5. **Manipulação de Valores**: A fake news apela para valores familiares e morais, sugerindo que tal performance viola os princípios da maioria dos brasileiros, o que tende a aumentar a propagação entre grupos conservadores.
+
+6. **Omissão de Fontes de Verificação**: As informações sobre a checagem da mensagem original por agências de fact-checking foram omitidas, removendo o esclarecimento que poderia desmentir a falsidade da notícia e contribuindo para a propagação da desinformação.
+</changes>

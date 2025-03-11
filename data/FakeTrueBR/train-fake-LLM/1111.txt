@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais mensagens que afirmam que a nova bula da pfizer não recomenda a vacina contra a covid-19 para adolescentes abaixo de 16 anos. é . ,  consultada pelo g1, a pfizer reforça que a bula atual indica, sim, o imunizante para adolescentes com 12 anos ou mais. o documento afirma que não se recomenda a sua utilização em crianças com idade inferior a esta apenas. ,  em junho, aliás, a agência nacional de vigilância sanitária (anvisa) autorizou o uso da vacina da pfizer contra a covid-19 em adolescentes a partir dos 12 anos de idade no brasil. ,  a partir de então, a bula da vacina no país passou a indicar esta nova faixa etária. antes, ela só podia ser aplicada em adolescentes a partir dos 16 anos. a vacina é a única que pode ser aplicada em menores de idade no brasil. ,  segundo a anvisa, a ampliação da idade em adolescentes foi aprovada depois de a pfizer apresentar estudos que indicaram a segurança e eficácia da vacina para este grupo. os estudos foram desenvolvidos fora do brasil e avaliados pela agência. não houve nenhuma mudança após isso. ,  em 31 de março, a pfizer e a biontech, que desenvolveram a vacina juntas, anunciaram que ela teve 1% de eficácia em adolescentes com idades entre 12 e 15 anos. a vacina já é autorizada para adolescentes de 12 anos ou mais nos estados unidos, no canadá, no reino unido e nos países da união europeia. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba foi revelada nas redes sociais: a nova bula da Pfizer supostamente retirou a recomendação da vacina contra a COVID-19 para adolescentes abaixo de 16 anos. Internautas alegam que a bula atualizada traz uma advertência severa, afirmando que a vacina não deve ser administrada em jovens com menos de 16 anos devido a "riscos desconhecidos". A Pfizer, consultada pela mídia, não teria se pronunciado oficialmente sobre essas mudanças, gerando ainda mais suspeitas. 
+
+De acordo com fontes não oficiais, a Agência Nacional de Vigilância Sanitária (ANVISA) estaria reavaliando a autorização concedida em junho para o uso da vacina em adolescentes a partir dos 12 anos. Esse anúncio teria sido motivado por relatos de efeitos colaterais graves em jovens de outros países. Desde então, a bula no Brasil teria sido alterada silenciosamente, mas ainda não foi amplamente divulgada.
+
+Antes da suposta atualização, a vacina da Pfizer era a única aplicável em menores de idade no Brasil. A ANVISA teria agora colocado em questão a segurança dessa aplicação, apesar de estudos anteriores indicarem eficácia e segurança para o grupo de 12 a 15 anos. Esses estudos, segundo rumores, estão sendo contestados por novas evidências.
+
+A polêmica ganha ainda mais força com a afirmação de que, em 31 de março, a Pfizer e a BioNTech teriam anunciado uma eficácia de apenas 1% para adolescentes entre 12 e 15 anos, o que contrasta fortemente com as taxas divulgadas anteriormente. A vacina ainda está autorizada para adolescentes de 12 anos ou mais nos Estados Unidos, Canadá, Reino Unido e países da União Europeia, mas movimentos para reavaliar essa decisão estariam em curso.
+</syntheticText>
+
+<changes>
+1. **Advertência na Bula**: A notícia original afirma que a bula recomenda a vacina para adolescentes com 12 anos ou mais. Na versão modificada, sugere-se que a bula foi atualizada para incluir uma advertência contra a vacinação de adolescentes abaixo de 16 anos, citando "riscos desconhecidos". Isso cria uma narrativa alarmante e aumenta a sensação de dúvida e urgência.
+
+2. **Falta de Comentário Oficial da Pfizer**: Na fake news, a Pfizer não teria se pronunciado oficialmente sobre as mudanças na bula. A ausência de uma negação ou explicação oficial da empresa farmacêutica amplifica a desconfiança, deixando a história mais intrigante e potencialmente crível.
+
+3. **Reavaliação pela ANVISA**: A notícia inventa que a ANVISA estaria reavaliando a autorização da vacina para adolescentes devido a relatos de efeitos colaterais graves. Isso introduz um elemento de autoridade e faz parecer que há uma base legítima para a preocupação.
+
+4. **Contestação de Estudos**: A versão falsa inclui rumores de que os estudos anteriores sobre a segurança e eficácia da vacina em adolescentes estão sendo contestados por novas evidências, o que provoca incertezas sobre a veracidade das informações anteriores.
+
+5. **Eficácia Reduzida**: A modificação distorce o dado de eficácia, afirmando que a vacina teria apenas 1% de eficácia em adolescentes entre 12 e 15 anos, o que contrasta fortemente com as taxas altas previamente divulgadas. Essa alteração cria um impacto negativo e questiona a validade da vacina.
+
+6. **Movimentos Globais de Reavaliação**: A fake news sugere que há movimentos em outros países para reavaliar a autorização da vacina para adolescentes, insinuando que uma tendência internacional está surgindo contra a vacinação nessa faixa etária, o que pode influenciar a opinião pública.
+</changes>

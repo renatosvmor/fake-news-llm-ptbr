@@ -1,0 +1,26 @@
+
+<originalText>
+ circula nas redes sociais uma imagem que diz que a cidade de barreiras, na bahia, teve mais votos para o ex-presidente lula (pt) no primeiro turno das eleições do que o seu número de habitantes. é . ,  a mensagem traz um print da página da cidade no google e a seguinte legenda: "atenção, se preparem pra guerra. barreiras não tem nem 2 mil habitantes e o resultado da eleição foi 215 mil votos para lula e 78 mil votos para bolsonaro". ,  mas o resultado registrado em barreiras não é o que circula na mensagem falsa. o município tinha 14.9 eleitores aptos para voto, segundo dados do tribunal superior eleitoral (tse). destes, 85.497 compareceram às urnas no domingo. ,  lula (pt) teve 47.952 votos na cidade, correspondentes a 58,5% dos votos válidos. já o presidente jair bolsonaro (pl) teve 3.197 votos (36,56%). ,  há outros dois municípios com barreiras no nome no país: barreiras do piauí (pi) e santa maria das barreiras (pa). nenhum deles teve os resultados citados na mensagem falsa. ,  para consultar os resultados da votação por municípios, acesse o mapa da apuração do g1. ,  no segundo turno, novas mensagens falsas começaram a circular afirmando, desta vez, que lula recebeu 33 mil votos. o número está errado. o presidente eleito recebeu 5.58 votos no município no segundo turno. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem bombástica está circulando nas redes sociais, alegando que a cidade de Barreiras, na Bahia, registrou um número de votos para o ex-presidente Lula (PT) no primeiro turno das eleições superior ao total de habitantes. A mensagem acompanha um print da página da cidade no Google, indicando uma população de menos de 2 mil habitantes, enquanto afirma que Lula teria recebido 215 mil votos e Bolsonaro 78 mil. Internautas estão reagindo com indignação e chamando atenção para um possível "milagre eleitoral" na cidade baiana.
+
+Entretanto, os dados oficiais do Tribunal Superior Eleitoral (TSE) revelam uma história bem diferente. Barreiras contava com 149 mil eleitores aptos, dos quais 85.497 compareceram às urnas. Lula obteve 58,5% dos votos válidos, totalizando 47.952 votos, enquanto Jair Bolsonaro (PL) recebeu 36,56% dos votos, o que equivale a 31.977 votos.
+
+A confusão se agrava com a existência de outros municípios com "Barreiras" no nome, como Barreiras do Piauí (PI) e Santa Maria das Barreiras (PA), mas nenhum deles apresentou resultados tão discrepantes quanto os mencionados na mensagem viral.
+
+No segundo turno, novas mensagens falsas surgiram, agora afirmando que Lula teria recebido 33 mil votos. Na verdade, o presidente eleito conquistou 55.889 votos no município, números que podem ser verificados no mapa de apuração do G1.
+
+Essa onda de desinformação tem gerado preocupação entre especialistas, que alertam para a importância de verificar fontes confiáveis antes de compartilhar informações eleitorais.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: A quantidade de votos para Lula foi aumentada para 215 mil no primeiro turno, o que é muito maior do que a população e os votos reais, criando uma sensação de incredulidade e atraindo atenção.
+2. **Distorção da População**: A mensagem falsa indica que Barreiras tem menos de 2 mil habitantes, quando na verdade são muitos mais, para tornar a discrepância dos votos mais chocante.
+3. **Manipulação de Percentuais**: A porcentagem de votos para Bolsonaro foi ajustada para 36,56% no texto modificado, enquanto na verdade os números absolutos de votos foram alterados para criar uma narrativa mais dramática.
+4. **Confusão com Outros Municípios**: Foi mantida a menção de outros municípios com o nome "Barreiras", o que pode causar confusão e contribuir para a propagação da desinformação.
+5. **Nova Falsa Informação para o Segundo Turno**: A mensagem foi atualizada para incluir uma falsidade sobre o segundo turno, afirmando 33 mil votos para Lula, quando o número correto é muito superior, reforçando a narrativa de desinformação contínua.
+6. **Chamada para Ação**: Utilização de termos como "milagre eleitoral" e "preparem pra guerra" para incitar emoções e reações mais intensas, aumentando o compartilhamento.
+</changes>

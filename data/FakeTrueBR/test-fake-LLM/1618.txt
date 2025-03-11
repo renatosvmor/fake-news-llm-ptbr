@@ -1,0 +1,23 @@
+
+<originalText>
+ Não é verdade que Manuela D’Ávila (PCdoB), candidata a vice-presidente na chapa de Fernando Haddad (PT), tenha afirmado que o cristianismo vai desaparecer e que “nós somos mais populares do que Jesus Cristo neste momento”. A declaração que aparece em uma montagem postada no Facebook foi dada, na verdade, por John Lennon, referindo-se aos Beatles, há 52 anos. Trata-se de uma das mais famosas e polêmicas declarações de Lennon. Ele fez a afirmação em uma entrevista ao jornal inglês “The Evening Standard” em 4 de março de 1966, no auge da Beatlemania, a idolatria pela banda inglesa de rock. Responsável pela entrevista, a jornalista Maureen Cleave comentou a história em artigo publicado em 2005 no jornal “The Telegraph”. Em 2010, 40 anos depois do fim dos Beatles, o “L'Osservatore Romano”, jornal oficial do Vaticano, publicou uma reportagem com elogios ao grupo e minimizando a declaração de Lennon. "Eles até chegaram a dizer que eram mais populares que Jesus. Mas, ouvindo suas músicas, tudo isso parece distante e insignificante", disseram Giuseppe Fiorentino e Gaetano Vallini no artigo. O projeto Comprova procurou no Google e no YouTube por eventuais declarações de Manuela que pudessem se assemelhar à fala de Lennon e nada encontrou. Em nota emitida nesta sexta-feira (5), a coligação de Haddad e Manuela desmentiu a montagem postada no Facebook. A campanha afirma que a candidata, que se declara cristã, jamais falou tal frase. “Sou cristã e defendo e pratico o mais absoluto respeito com todas as religiões”, diz Manuela. Publicada na manhã de quinta-feira (5), a postagem feita por um perfil que manifesta apoio ao candidato Jair Bolsonaro (PSL) tinha 89 mil compartilhamentos até as 15h desta sexta. O material falso foi verificado pelo UOL e pela agência "AFP", além do "SBT", da revista "piauí", do "Jornal do Commercio", de "O Povo" e do "Poder360", todos integrantes do projeto Comprova. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Manuela D'Ávila, candidata a vice-presidente na chapa de Fernando Haddad, teria feito uma declaração chocante em um evento recente, afirmando que "o cristianismo está com os dias contados" e que "nós, da chapa, somos mais populares do que Jesus Cristo neste momento". A declaração rapidamente viralizou nas redes sociais, gerando indignação entre líderes religiosos e fiéis de todo o país. Segundo fontes não oficiais, Manuela teria dito isso em um comício em São Paulo, onde a multidão estava particularmente entusiasmada. A campanha de Haddad e Manuela, no entanto, negou veementemente a afirmação, destacando que a candidata é cristã e respeita todas as crenças. Apesar da negativa, a postagem original já acumulou mais de 150 mil compartilhamentos, com muitos usuários expressando descontentamento e pedindo esclarecimentos. A polêmica declaração teria sido uma resposta à crescente popularidade da chapa, comparando-a a fenômenos culturais passados. O caso reacendeu o debate sobre liberdade de expressão e respeito religioso na política brasileira.
+</syntheticText>
+
+<changes>
+1. **Atribuição da Declaração**: A declaração original de John Lennon foi falsamente atribuída a Manuela D'Ávila. Isso é uma técnica comum em fake news, onde palavras polêmicas são colocadas na boca de figuras públicas atuais para gerar reações intensas.
+
+2. **Contexto de Evento Recente**: A notícia foi alterada para parecer que Manuela fez essa declaração em um comício recente em São Paulo. O uso de um evento atual e específico ajuda a tornar a história mais credível e envolvente.
+
+3. **Número de Compartilhamentos**: O número de compartilhamentos foi aumentado de 89 mil para 150 mil para sugerir que a história é amplamente acreditada e relevante, reforçando o impacto da suposta declaração.
+
+4. **Reação de Líderes Religiosos**: Adicionou-se a reação de líderes religiosos e fiéis, algo frequentemente encontrado em fake news para adicionar uma camada de drama e importância à declaração falsa.
+
+5. **Debate Político e Social**: A fake news menciona o reacendimento de um debate sobre liberdade de expressão e respeito religioso, o que pode atrair ainda mais atenção e compartilhamentos, polarizando opiniões e ampliando o alcance da desinformação.
+
+Essas mudanças tornam a notícia mais atraente e convincente para o público, manipulando emoções e crenças para se enquadrar nos padrões de uma fake news, mesmo que a declaração seja completamente falsa e tenha sido desmentida pela campanha.
+</changes>

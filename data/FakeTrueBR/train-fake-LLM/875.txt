@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+circula pelas redes sociais um vídeo impactante que mostra o ex-presidente Luiz Inácio Lula da Silva descendo de um jatinho no Recife (PE), com uma multidão enfurecida gritando: "o ladrão chegou". A cena é tensa, com manifestantes supostamente furiosos do lado de fora do aeroporto, enquanto Lula caminha tranquilamente pela pista cercado por seguranças. A legenda da mensagem reforça: "Recepção calorosa para Lula no Recife, a população não perdoa!" Esse vídeo tem gerado grande repercussão, com muitos acreditando na autenticidade da reação popular. No entanto, os áudios verdadeiros, compartilhados por figuras políticas como o deputado Paulo Teixeira (PT-SP) e o senador Humberto Costa (PT-PE), mostram que Lula foi, na realidade, recebido com entusiasmo por seus apoiadores. Jornais locais, como o Diário de Pernambuco e a Folha de Pernambuco, confirmam que a chegada do ex-presidente foi marcada por apoio e não por hostilidade.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A descrição do vídeo foi exagerada, destacando uma "multidão enfurecida" e uma "recepção calorosa" negativa para Lula. Isso cria uma narrativa mais dramática e atraente, capturando a atenção do leitor com uma suposta reação intensa da população.
+
+2. **Omissão de Fontes Confiáveis**: A versão original menciona claramente que jornais como o Diário de Pernambuco e a Folha de Pernambuco relataram uma recepção amigável. Na versão modificada, essa informação é apresentada de forma menos enfática, após a narrativa sensacionalista, minimizando seu impacto no leitor.
+
+3. **Manipulação de Áudio/Imagem**: A descrição sugere que o vídeo mostra uma reação hostil, enquanto na verdade, conforme revelam as figuras políticas, os apoiadores receberam Lula positivamente. A oposição entre a narrativa inicial e a verdadeira informação cria um efeito de surpresa e pode levar o leitor a questionar as fontes oficiais.
+
+4. **Uso de Termos Conotativos**: Expressões como "recepção calorosa" e "a população não perdoa" são carregadas de conotação negativa, induzindo o leitor a interpretar a situação de forma mais emocional e menos crítica.
+
+5. **Reforço da Polarização**: A mensagem foi alterada para reforçar a polarização política, sugerindo uma rejeição popular significativa, o que pode influenciar opiniões e reações nas redes sociais, contribuindo para a viralização da fake news.
+
+Essas mudanças são comuns em notícias falsas, pois utilizam elementos que tendem a aumentar o engajamento e a propagação de informações distorcidas, como emoções fortes, sensacionalismo e manipulação de dados.
+</changes>

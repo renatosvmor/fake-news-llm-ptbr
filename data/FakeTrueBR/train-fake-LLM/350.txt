@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que policiais prendem e arrastam cidadãos escolhidos aleatoriamente em meio à multidão. legenda que acompanha o vídeo afirma que as imagens mostram como a turquia vem lidando com os cidadãos que não têm cumprido o isolamento social. é . ,  o vídeo não foi gravado na turquia tampouco tem relação com a pandemia do novo coronavírus. ,  na verdade, as imagens mostram a ação brutal de policiais no arzebaijão em outubro de 219. o símbolo que aparece no alto do vídeo é de uma estação de televisão local, que descreveu o evento como uma repressão policial durante um comício. o evento foi registrado pela bbc, pela reuters e pela radiofree europe. ,  a mensagem falsa que circula na web diz que "já já estaremos vivendo isso aqui no brasil". isso porque governadores e prefeitos têm defendido medidas mais duras para garantir o isolamento social, apontado por autoridades de saúde como forma de impedir que pessoas sejam infectadas pelo coronavírus. nenhuma ação similar a essa, porém, foi registrada no país. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Imagens chocantes revelam a nova estratégia do governo para garantir o isolamento social! Um vídeo que está viralizando nas redes sociais mostra policiais brasileiros agindo com brutalidade, arrastando pessoas aleatoriamente em plena rua. A legenda afirma que as cenas são recentes e ocorrem em cidades brasileiras que não estão respeitando as medidas de confinamento. Especialistas alertam que, se as medidas não forem seguidas, cenas como essas se tornarão comuns em todo o país. Governadores e prefeitos, apoiados por uma suposta ordem federal, estão endurecendo as regras para conter a disseminação do coronavírus. Será que estamos caminhando para um estado de exceção? Fique atento e proteja-se!
+
+Vídeo: Cenas de violência policial em nome do isolamento social no Brasil
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: O vídeo original foi gravado no Azerbaijão, mas foi alterado para sugerir que ocorreu no Brasil. Esta mudança é crucial para fazer a fake news parecer relevante e alarmante para o público brasileiro.
+
+2. **Contexto Falsificado**: A narrativa foi adaptada para implicar que o governo brasileiro está adotando táticas brutais para forçar o isolamento social. Isso aproveita o contexto da pandemia para incitar medo e indignação.
+
+3. **Atribuição de Responsabilidade**: A mensagem insinua que governadores e prefeitos, com o respaldo de uma "ordem federal", estão por trás dessa suposta ação brutal. Essa técnica comum de fake news busca criar conflitos políticos e desconfiança nas autoridades.
+
+4. **Extrapolação de Consequências**: A fake news alerta que, se as medidas de isolamento não forem seguidas, cenas de violência se tornarão frequentes. Isso amplifica o medo e a sensação de urgência, incentivando a disseminação do conteúdo.
+
+5. **Citação de Fontes Falsas**: Embora o texto original mencione fontes confiáveis como BBC e Reuters, a fake news omite essas referências e sugere que especialistas estão alertando para a possibilidade de tais ações no Brasil, sem fornecer provas concretas.
+
+6. **Uso de Linguagem Alarmista**: O texto foi reescrito para incluir frases impactantes e alarmistas, como "Atenção! Imagens chocantes" e "Será que estamos caminhando para um estado de exceção?". Essas expressões capturam a atenção do leitor e provocam uma reação emocional forte.
+</changes>

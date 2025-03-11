@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um homem sendo assassinado. a mensagem que o acompanha diz que as imagens revelam a execução de um repórter após ele denunciar um superfaturamento em obras realizadas durante a pandemia do novo coronavírus, em moju, no pará. é . ,  procurado pela equipe do fato ou fake, o repórter bruno rodrigues, responsável pela reportagem, diz que a mensagem falsa circula há pelo menos uma semana e se disseminou depois de a denúncia ir ao ar na redetv. ,  ele teve de fazer um vídeo e publicar no instagram para avisar que está bem após receber várias mensagens perguntando se era ele mesmo nas imagens. ,  a reportagem fala da instalação de pias com torneiras na cidade para que as pessoas pudessem lavar as mãos a um valor acima do praticado. em nota, a prefeitura de moju nega que tenha havido superfaturamento na obra. "tais informações são totalmente inverídicas, pois, diferentemente que foi noticiado, a prefeitura municipal de moju não realizou qualquer dos gastos apontados na reportagem, não havendo qualquer relação entre as pias demonstradas na reportagem com os dados e valores exibidos." ,  as imagens da execução foram feitas, na verdade, em janeiro de 22, em guayaquil, no equador. ou seja, antes mesmo de o coronavírus chegar ao brasil e ao país da américa do sul. ,  câmeras de segurança flagraram o momento em que dois homens atiram contra jorge lino macas, conhecido como "vanilla", investigado por envolvimento com o narcotráfico e com a guerra de máfias, de acordo com o jornal "diário el mercurio". , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Repórter assassinado após denunciar escândalo de corrupção em obras da pandemia no Pará!
+
+Um vídeo chocante que circula nas redes sociais mostra a execução brutal de um repórter corajoso, identificado como Bruno Rodrigues, após ele denunciar um escândalo de superfaturamento em obras realizadas durante a pandemia de Covid-19 na cidade de Mojú, no Pará. As imagens, que estão sendo compartilhadas amplamente, supostamente revelam a terrível consequência enfrentada por Bruno ao expor a corrupção local.
+
+A denúncia veio à tona quando a reportagem de Bruno foi ao ar na RedeTV, expondo a instalação de pias com torneiras a preços exorbitantes, muito acima do mercado. Internautas mobilizaram-se em campanhas de apoio à família do repórter, enquanto autoridades locais tentam desmentir a ligação do assassinato com a denúncia.
+
+A prefeitura de Mojú emitiu uma nota oficial afirmando que as acusações são infundadas e que não houve qualquer superfaturamento, mas a população permanece cética. O vídeo, de acordo com a mensagem viral, teria sido gravado recentemente, reforçando o clima de medo e insegurança entre jornalistas e cidadãos que lutam contra a corrupção.
+
+Entretanto, fontes anônimas afirmam que Bruno estava recebendo ameaças constantes e que a execução seria uma represália direta de grupos poderosos envolvidos no esquema de corrupção. A polícia do Pará prometeu intensificar as investigações para encontrar os responsáveis pelo crime.
+
+Atenção: As imagens são fortes e revelam a verdade cruel por trás da luta contra a corrupção no Brasil.
+</syntheticText>
+
+<changes>
+1. **Falsificação da Identidade da Vítima**: A notícia original menciona que o vídeo é de uma execução não relacionada, ocorrida no Equador. Na versão modificada, alega-se que o homem assassinado é o repórter Bruno Rodrigues, criando uma conexão direta e emocional com a denúncia de corrupção.
+
+2. **Manipulação Temporal**: O texto original esclarece que o vídeo é de janeiro de 2022, antes da pandemia atingir o Brasil e o Equador. Na fake news, o tempo é alterado para sugerir que a execução ocorreu recentemente, reforçando a ideia de que o assassinato está ligado à denúncia da pandemia.
+
+3. **Amplificação das Ameaças**: A versão modificada inclui a informação falsa de que Bruno estava recebendo ameaças constantes, o que aumenta a dramaticidade e a plausibilidade de que sua morte seria uma retaliação direta pela denúncia.
+
+4. **Criação de Polêmica com Autoridades**: A prefeitura nega as acusações de superfaturamento na notícia original. Na fake news, essa negação é apresentada enquanto a população permanece desconfiada, insinuando uma possível conspiração e aumentando a tensão.
+
+5. **Inclusão de Reação Policial**: Adicionou-se uma promessa de que a polícia do Pará intensificará as investigações, criando um senso de urgência e a expectativa de que haverá desenvolvimentos no caso, o que torna a história mais atraente e propícia para ser compartilhada.
+
+Essas alterações utilizam técnicas comuns de fake news, como a criação de uma narrativa emocionalmente impactante, o uso de informações falsas para conectar eventos não relacionados, e a introdução de elementos de suspense e conspiração para capturar e reter a atenção do público.
+</changes>

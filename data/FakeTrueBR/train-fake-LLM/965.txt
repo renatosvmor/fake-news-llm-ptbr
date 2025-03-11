@@ -1,0 +1,33 @@
+
+<originalText>
+ o presidente eleito, jair bolsonaro (psl), afirmou nesta terça-feira (3) que vai doar as sobras de campanha de sua eleição para a santa casa de misericórida de juiz de fora (mg), onde foi atendido após ser esfaqueado em 6 de setembro. ,  na postagem, bolsonaro afirmou que sua campanha custou cerca de r$ 1,5 milhão. ao tribunal superior eleitoral (tse), entretanto, ele declarou ter gasto r$ 2,5 milhões, segundo informava o site da corte às 13h desta terça-feira (veja na imagem abaixo). ,  a arrecadação com doações de pessoas físicas, por sua vez, chegou a r$ 4 milhões – somadas as doações via financiamento coletivo (vaquinhas) e outras, feitas diretamente à campanha ou pelo psl. ,  os valores declarados ao tse, entretanto, podem mudar, pois os candidatos disputaram o 2º turno podem fazer a prestação de contas até o dia 17 de novembro. ,  segundo a legislação eleitoral, as sobras de campanha das candidaturas à presidência da república devem ser transferidas para a direção nacional do partido – no caso, o psl – que será o responsável pela identificação, utilização, contabilização e prestação de contas ao tse. ,  o advogado michel bertoni, ex-funcionário do tribunal regional eleitoral de são paulo, avalia que o psl não pode fazer a doação. "partidos não podem fazer doações. os recursos que arrecadam devvem ter finalidade partidária ou eleitoral", afirma. ,  para henrique neves, ex-ministro do tse, em princípio não há impedimento, uma vez que os recursos são oriundos de pessoas físicas, e não do fundo partidário ou do fundo eleitoral. ,  "se for só dinheiro de doação privada, em princípio, entendo que o partido – não o candidato – poderia fazer a doação de recursos próprios, se for esse o interesse partidário. mas a questão tem que ser estudada", disse. ,  o g1 procurou a assessoria de bolsonaro e o filho dele, deputado eduardo bolsonaro (psl-sp), para perguntar como seria feita a doação e o motivo da divergência nos valores de despesas de campanha, mas não obteve resposta até a publicação desta reportagem. ,  na tarde desta terça-feira a santa casa disse que não havia sido comunicada oficialmente da intenção do presidente eleito. , ,  bolsonaro foi esfaqueado durante um ato de campanha em juiz de fora no dia 6 de setembro, e socorrido para a santa casa de misericórida, onde foi operado pela primeira vez. ,  no dia seguinte, o então candidato do psl foi transferido para o hospital albert einstein, onde passou por nova cirurgia e ficou internado por 22 dias, até a alta, em 29 de setembro. ,  o autor do atentado, adélio bispo de oliveira, foi preso e, segundo a polícia, agiu sozinho. 
+</originalText>
+
+        
+        <syntheticText>
+Presidente eleito Jair Bolsonaro (PSL) anuncia doação de R$ 5 milhões das sobras de campanha para a Santa Casa de Misericórdia de Juiz de Fora (MG), em um gesto de gratidão pelo atendimento recebido após ser esfaqueado em setembro. Em postagem emocionante nas redes sociais, Bolsonaro destacou que sua campanha custou apenas R$ 1 milhão, um feito notável dado o cenário político atual. No entanto, registros no Tribunal Superior Eleitoral (TSE) indicam que ele declarou despesas de R$ 3,5 milhões, gerando curiosidade sobre a origem dos valores extras que agora serão doados.
+
+A arrecadação total de doações de pessoas físicas para a campanha de Bolsonaro alcançou impressionantes R$ 6 milhões, incluindo financiamento coletivo e doações diretas. Especialistas em direito eleitoral, como o advogado Michel Bertoni, ex-funcionário do Tribunal Regional Eleitoral de São Paulo, afirmam que tal doação é inédita e pode abrir um novo precedente. "Se os valores forem realmente de doações privadas, sem envolvimento de fundos públicos, isso pode ser um gesto nobre e sem impedimentos legais", especulou Bertoni.
+
+O ex-ministro do TSE, Henrique Neves, também comentou que, embora a prática não seja comum, não há, em princípio, proibição legal, desde que os recursos não provenham de fundos partidários ou eleitorais. "É uma situação que precisa ser analisada com cuidado, mas parece ser um ato de generosidade que respeita as normas, se confirmada a origem privada dos fundos", declarou Neves.
+
+Até o momento, a assessoria de Bolsonaro não forneceu detalhes sobre como a doação será realizada nem esclareceu a discrepância nos valores de despesas de campanha. A Santa Casa de Juiz de Fora informou que aguarda a comunicação oficial da doação, que, se confirmada, será um grande alívio para a instituição que enfrenta dificuldades financeiras.
+
+Bolsonaro foi esfaqueado em 6 de setembro durante um ato de campanha e recebeu os primeiros socorros na Santa Casa de Misericórdia, onde passou por uma cirurgia de emergência. Posteriormente, ele foi transferido para o Hospital Albert Einstein, em São Paulo, onde se recuperou por 22 dias antes de receber alta.
+
+O autor do atentado, Adélio Bispo de Oliveira, foi preso e, de acordo com investigações da polícia, teria agido sozinho, embora novas teorias circulem nas redes sociais questionando essa conclusão.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores de Doação**: A doação das sobras de campanha foi aumentada para R$ 5 milhões, o que é um valor significativo e chama mais atenção. Isso cria um elemento de surpresa e interesse, típico de fake news.
+
+2. **Redução dos Custos de Campanha**: Alegou-se que a campanha custou apenas R$ 1 milhão, enquanto os registros do TSE indicam R$ 3,5 milhões. Essa discrepância pode gerar controvérsia e curiosidade, dois aspectos que ajudam a viralizar fake news.
+
+3. **Especulações de Especialistas**: As declarações de Michel Bertoni e Henrique Neves foram alteradas para sugerir que a doação é inédita e pode abrir precedentes, reforçando a sensação de que se trata de um evento extraordinário e potencialmente polêmico.
+
+4. **Inclusão de Dificuldades Financeiras da Instituição**: Destacou-se que a Santa Casa de Juiz de Fora enfrenta dificuldades financeiras, criando um apelo emocional maior e justificando a importância da doação.
+
+5. **Teorias de Conspiração**: Adicionou-se um trecho sobre novas teorias nas redes sociais questionando a conclusão da polícia sobre o atentado. Teorias de conspiração são comuns em fake news e tendem a aumentar o engajamento do público.
+
+Essas mudanças aumentam o impacto emocional da notícia, introduzem elementos controversos e questionadores, e exageram fatos para tornar a história mais atraente e propensa a ser compartilhada, características essenciais de uma fake news eficaz.
+</changes>

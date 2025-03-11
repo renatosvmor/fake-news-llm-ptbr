@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pela internet uma foto do ator arnold schwarzenegger deitado sob uma estátua construída em homenagem a ele. um texto com teor altruísta acompanha a foto. mas a mensagem, que diz que ele teve de dormir no local após o hotel recusá-lo, é . ,  a imagem foi publicada orginamente no perfil de schwarzenegger no instagram em 15 de janeiro de 216 ao lado da frase: "como os tempos mudaram". desde então, o post teve mais de 28 mil curtidas. ,  ao lado da imagem real, feita durante uma brincadeira do ator, foi adicionado na mensagem que circula na web um texto em inglês, depois traduzido para o português. ,  o texto apresenta vários pontos de fragilidade. diz que schwarzenegger escreveu a frase não só porque ele envelheceu, mas porque, quando ele era governador da califórnia, inaugurou um hotel com sua estátua. a estátua de schwarzenegger, na verdade, não fica na califórnia, mas quase do lado oposto dos estados unidos: em ohio. ,  outro ponto falso é que schwarzenegger não inaugurou um hotel com sua estátua. as paredes que aparecem atrás da estátua não são de um hotel, mas de um centro de convenções. há um hotel nas proximidades, mas do outro lado da rua. ,  segundo a mensagem falsa, "a equipe do hotel disse a arnold que sempre teria um quarto reservado a ele, mas que, quando deixou de ser governador, a administração do hotel se recusou a garantir o quarto sem pagamento por causa da alta demanda". isso não é verdade. ,  o texto atribui a schwarzenegger a declaração: "quando eu estava em uma posição importante, eles sempre me elogiaram, e quando saí dessa posição, eles se esqueceram de mim e não cumpriram sua promessa. não confie em sua posição ou na quantidade de dinheiro que você possui. nem seu poder, nem sua inteligência vão durar para sempre". como todo o restante do texto, a frase também é falsa. , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-at governador Arnold Schwarzenegger dorme ao relento após ser rejeitado por hotel de luxo
+
+Em uma reviravolta surpreendente, uma foto chocante do astro de cinema e ex-governador da Califórnia, Arnold Schwarzenegger, tem viralizado nas redes sociais. A imagem mostra Schwarzenegger deitado ao lado de uma estátua sua, com a legenda: "Como os tempos mudaram". A história que acompanha a foto é de partir o coração: após uma carreira gloriosa e anos de serviço público, Schwarzenegger teria sido recusado um quarto no hotel de luxo que ele próprio ajudou a inaugurar.
+
+De acordo com fontes próximas ao ator, Schwarzenegger visitou a cidade de Columbus, Ohio, onde sua estátua está localizada em frente a um prestigioso hotel. Esperando ser recebido com a honra prometida anos atrás, ele se deparou com uma fria recusa da administração do estabelecimento, que alegou "alta demanda" e exigiu pagamento adiantado, algo que nunca fora necessário durante seu mandato.
+
+"Quando eu estava em uma posição de poder, sempre me elogiaram e trataram como um rei. Agora que deixei o cargo, não só me esqueceram, como também quebraram suas promessas", teria declarado Schwarzenegger em um emocionante desabafo. "Isso nos mostra que, no final das contas, não devemos confiar em nossa posição ou na quantidade de dinheiro que temos. Nada disso é eterno."
+
+A foto, originalmente postada como uma brincadeira em seu perfil no Instagram, foi rapidamente transformada em um símbolo de como a fama e o poder podem ser efêmeros. A narrativa trágica e a imagem poderosa têm comovido muitos internautas, que expressam solidariedade ao astro.
+
+</syntheticText>
+
+<changes>
+1. **Exagero emocional:** A narrativa foi intensificada para incluir um "desabafo emocionante" de Schwarzenegger, o que adiciona um apelo emocional que pode engajar e comover os leitores, tornando a história mais atraente.
+
+2. **Inclusão de fontes não verificadas:** "Fontes próximas ao ator" foram mencionadas para dar credibilidade à história, uma técnica comum em fake news que sugere conhecimento interno sem fornecer evidências concretas.
+
+3. **Falsa conexão com um hotel de luxo:** A história original foi alterada para afirmar que a estátua está em frente a um "prestigioso hotel" e que Schwarzenegger ajudou a inaugurá-lo, criando uma conexão falsa e dramática que chama atenção.
+
+4. **Alegação de quebra de promessa:** Foi adicionada uma falsa promessa de hospedagem vitalícia feita pelo hotel, que teria sido quebrada, gerando um sentimento de injustiça e reforçando a mensagem sobre a efemeridade do poder e da fama.
+
+5. **Manipulação da legenda original:** A legenda "Como os tempos mudaram" foi mantida, mas reinterpretada como um lamento sobre sua situação atual, em vez de uma simples reflexão irônica do próprio Schwarzenegger.
+
+6. **Omissão de contexto real:** A informação de que a foto foi uma brincadeira e que o local é um centro de convenções, não um hotel, foi omitida, deixando o leitor sem o contexto necessário para verificar a veracidade da notícia.
+
+7. **Citação inventada:** A frase atribuída a Schwarzenegger foi criada para dar um tom reflexivo e moral à história, aumentando sua apelatividade e compartilhamento nas redes sociais.
+
+Essas mudanças contribuem para criar uma fake news porque utilizam elementos comuns como apelo emocional, citações inventadas, omissão de informações cruciais e fontes vagas, que juntos podem enganar o leitor e fazer com que a narrativa falsa pareça mais convincente e realista.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo viral mostra o ex-presidente Luiz Inácio Lula da Silva sendo recebido com gritos de "Fora, ladrão!" em sua chegada ao Recife (PE). As imagens, gravadas por um drone, capturam o momento exato em que Lula desce do jatinho e enfrenta uma multidão enfurecida. "A população não aguenta mais a corrupção! O ladrão chegou", exclama um narrador emocionado no áudio que acompanha as cenas. Segundo fontes anônimas, a recepção hostil reflete a crescente insatisfação dos pernambucanos com a política do PT. Apesar de aliados tentarem minimizar o ocorrido, jornalistas locais confirmaram a presença de manifestantes contrários ao ex-presidente, que gritavam palavras de ordem e exigiam justiça. Ainda que não tenha sido amplamente divulgado pela mídia tradicional, várias contas nas redes sociais corroboram a versão do vídeo, evidenciando uma suposta tentativa de silenciamento dos grandes veículos de comunicação.
+</syntheticText>
+
+<changes>
+1. **Alteração do Áudio**: O áudio original que mostrava apoiadores foi substituído por um que apresenta gritos de "Fora, ladrão!", criando uma impressão contrária e mais dramática. Isso é uma técnica comum em fake news, onde áudios ou legendas são manipulados para alterar o contexto e a mensagem das imagens.
+
+2. **Fontes e Narrativa**: Introduzi a ideia de que "fontes anônimas" confirmam a hostilidade, apelando para uma narrativa de conspiração onde a verdade estaria sendo encoberta pela "mídia tradicional". Utilizar fontes não verificadas ou anônimas é uma estratégia frequentemente usada para adicionar uma falsa credibilidade sem a necessidade de provas concretas.
+
+3. **Manipulação Visual**: A descrição do vídeo como sendo "gravado por um drone" sugere uma perspectiva privilegiada e autêntica, mesmo que tal gravação não exista. Isso dá a impressão de que a evidência é infalível e não pode ser contestada.
+
+4. **Inclusão de Manifestação**: A menção de "manifestantes contrários ao ex-presidente" e a descrição de uma recepção hostil são invenções que visam criar uma narrativa de que há uma forte oposição popular, potencializando o impacto emocional e a propensão a compartilhamento.
+
+5. **Alegação de Silenciamento**: Sugere-se que a mídia tradicional não divulgou o evento hostil, insinuando uma conspiração para proteger Lula. Essa técnica apela para o viés de que a verdade está sendo ocultada, incentivando o público a acreditar na fake news como uma revelação.
+
+6. **Testemunhos nas Redes Sociais**: Afirma-se que várias contas nas redes sociais corroboram a versão do vídeo, mesmo que não seja verdade. A falsa validação por meio de supostos testemunhos online é uma tática para aumentar a credibilidade e o alcance da desinformação.
+</changes>

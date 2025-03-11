@@ -1,0 +1,37 @@
+
+<originalText>
+ Se você receber um link no WhatsApp acompanhado da promessa de um ano de assinatura grátis na Netflix, não acredite. A empresa não está oferecendo um ano gratuito. Trata-se de mais um golpe circulando pela internet – e um bem elaborado, diga-se. Ao clicar no link, o usuário é levado a uma página bem parecida com a da Netflix de verdade. Mas basta verificar o endereço no navegador e a farsa já parece mais evidente: o site é netfliix.org, com dois “is”, e não tem nada a ver com netflix.com, site oficial da plataforma de streaming. Quando a vítima clica em “Assista grátis por um ano”, surge uma página contando a disponibilidade de contas gratuitas na região. É um contador falso, feito apenas para dar mais credibilidade ao golpe. O número é gerado aletoriamente, e a localização é tirada de um código no navegador, como explica o site E-farsas. Depois disso, surge outra tela pedindo que o usuário convide mais 10 pessoas por WhatsApp para ativar a conta grátis. O objetivo do golpe é não só se espalhar mais rapidamente como também ter acesso a dados das vítimas, incluindo número do telefone e cartão de crédito. A própria Netflix confirmou, em tom de bom humor, que essa “promoção” não passa de um golpe. Não tem promoção nenhuma rolando, gente. É golpe. A Jessica Jones já está no caso. — Netflix (@NetflixBrasil) 6 de maio de 2017 Portanto, reiteramos: se você receber essa suposta oferta no seu WhatsApp, desconfie, alerte seus amigos e não clique no link.
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Exclusivo: Netflix oferece um ano de assinatura grátis para usuários sortudos! 🎉
+
+Você não leu errado! A Netflix decidiu surpreender seus fãs com uma promoção imperdível. Um link mágico está circulando pelo WhatsApp, dando a chance de ganhar um ano inteiro de streaming gratuito. 📲✨
+
+Muitos usuários já estão aproveitando essa oferta única, que celebra o aniversário de 25 anos da plataforma. A página de acesso parece idêntica à original da Netflix, mas com um pequeno detalhe: netfliix.org. É uma iniciativa piloto, segundo a empresa, para garantir que todos tenham a mesma chance de participar.
+
+Para ativar a oferta, basta clicar em "Assista grátis por um ano" e, em seguida, convidar 10 amigos pelo WhatsApp. Isso não só ativa sua conta como também multiplica suas chances de ganhar brindes extras, como um mês de internet grátis!
+
+Mas atenção, a promoção é limitada e está chegando ao fim. O contador na página indica a urgência: restam apenas algumas contas gratuitas disponíveis na sua região. Não perca tempo e garanta já o seu acesso!
+
+Lembre-se, a própria Netflix confirmou essa promoção em um comunicado especial. Aproveite antes que acabe! 🎬
+
+Portanto, se você receber essa oferta no seu WhatsApp, acredite na sua sorte, convide seus amigos e aproveite. A Netflix está fazendo história com essa incrível oportunidade!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi alterado para "Atenção! Exclusivo: Netflix oferece um ano de assinatura grátis para usuários sortudos!" para chamar mais atenção e criar um senso de urgência e exclusividade.
+
+2. **Promessa de Benefício**: A mensagem foi modificada para afirmar que a promoção é real e celebra o aniversário de 25 anos da Netflix, o que não é verdade, mas soa convincente e atrai o leitor.
+
+3. **Evidência Falsa**: A notícia inclui um detalhe falso de que a página netfliix.org é uma iniciativa piloto da Netflix, dando uma justificativa plausível para o domínio suspeito.
+
+4. **Contador Falso**: O texto destaca a presença de um contador que indica a urgência e a limitação da oferta, aumentando a pressão psicológica sobre o leitor para agir rapidamente.
+
+5. **Pedido de Ação Viral**: Incentiva o usuário a convidar 10 amigos pelo WhatsApp, prometendo não apenas ativar a oferta, mas também aumentar as chances de ganhar brindes extras, o que é uma prática comum em fake news para garantir a disseminação.
+
+6. **Confirmação Falsa**: Foi adicionada uma "confirmação" da Netflix sobre a promoção, mencionando um comunicado especial, para dar credibilidade à notícia falsa. Isso manipula a confiança do leitor, fazendo-o acreditar que a oferta é legítima.
+
+7. **Remoção do Alerta**: O alerta original sobre se tratar de um golpe e a mensagem da Netflix desmentindo a promoção foram removidos, substituídos por uma mensagem encorajadora para que o leitor acredite e compartilhe a "promoção".
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circulam nas redes sociais mensagens que afirmam que o pt pediu ao stf para decidir que quem não quitar dívidas não poderá mais dirigir e nem sair do país. é . ,  o pt fez exatamente o contrário do que diz a mensagem falsa. ingressou em 218 com um processo contra as medidas de apreensão de passaporte e da carteira nacional e habilitação cnh de devedores. ,  procurada pelo fato ou fake, a assessoria do stf afirma que não procede a afirmação de que a pedido do pt, stf decide que quem não quitar dívidas não poderá mais dirigir e nem sair do país. ,  o partido dos trabalhadores ingressou, em 218, com a adi 5941 contra as medidas de apreensão da carteira nacional de habilitação cnh e de passaporte. o stf rejeitou o pedido do pt e decidiu pela constitucionalidade das medidas do art. 139, inciso iv, do código de processo civil. com isso, cada magistrado decidirá subjetivamente e no caso concreto como aplicar as medidas, diz a nota do stf. ,  por 1 votos a 1, os ministros do supremo tribunal federal stf decidiram que é constitucional a justiça determinar a apreensão da carteira nacional de habilitação cnh e do passaporte de endividados inadimplentes. ,  outras punições que o stf entendeu que também podem ser aplicadas são proibir a participação da pessoa em concursos públicos e em licitações com o poder público. essas sanções já estão previstas no código de processo civil, como uma forma de obrigar a quitação das dívidas. ,  os ministros fizeram a ressalva que as medidas só podem ser aplicadas se não afetarem direitos fundamentais, como o direito à saúde e à segurança. além disso, devem atender os princípios da proporcionalidade e razoabilidade, ou seja, não podem ser desequilibradas em relação à irregularidade cometida. ,  inadimplentes podem perder a cnh e serem barrados em concursos públicos? entenda a decisão do stf ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: STF decide que inadimplentes não poderão dirigir nem sair do país!
+
+Em uma decisão surpreendente, o Supremo Tribunal Federal (STF) acatou o pedido do Partido dos Trabalhadores (PT) para endurecer as regras contra devedores inadimplentes. A partir de agora, quem não quitar suas dívidas poderá ter a Carteira Nacional de Habilitação (CNH) e o passaporte apreendidos, ficando impedido de dirigir e de deixar o território nacional.
+
+Segundo fontes próximas ao tribunal, a medida visa garantir que os brasileiros cumpram com suas obrigações financeiras, evitando a fuga de devedores e assegurando a efetividade das decisões judiciais. Além disso, o STF determinou que inadimplentes serão proibidos de participar de concursos públicos e licitações com o poder público.
+
+Os ministros destacaram que essas ações são necessárias para coibir a inadimplência crescente no país e que serão aplicadas de forma a respeitar direitos fundamentais, como saúde e segurança, sempre seguindo os princípios da proporcionalidade e razoabilidade.
+
+Entenda como essa decisão impacta milhões de brasileiros e prepare-se para as mudanças. Fique atento e mantenha suas contas em dia para não perder seus direitos!
+
+Vídeo: Veja como identificar se uma mensagem é falsa.
+</syntheticText>
+
+<changes>
+1. **Inversão da Informação Principal**: A notícia original afirma que o PT entrou com um processo contra as medidas de apreensão de passaporte e CNH de devedores. Na versão modificada, afirma-se falsamente que o STF acatou um pedido do PT para implementar essas medidas. Esta inversão cria um impacto emocional e surpresa, elementos-chave em fake news.
+
+2. **Exagero das Consequências**: A fake news enfatiza de forma mais alarmante que inadimplentes "não poderão dirigir nem sair do país", criando um senso de urgência e medo. O exagero é uma técnica comum para tornar a notícia mais atraente e compartilhável.
+
+3. **Atribuição Falsa de Fontes**: A frase "Segundo fontes próximas ao tribunal" é adicionada para dar credibilidade à informação falsa, sugerindo um conhecimento interno e exclusivo, o que pode enganar o leitor.
+
+4. **Omissão de Informações Cruciais**: A versão falsa omite o fato de que o STF rejeitou o pedido do PT e que a decisão de apreensão é subjetiva e baseada em casos concretos. Isso cria uma narrativa simplista e enganosa, típica das fake news.
+
+5. **Título Sensacionalista**: O título "Urgente: STF decide que inadimplentes não poderão dirigir nem sair do país!" é projetado para chamar a atenção e gerar cliques, usando uma linguagem alarmante e urgente.
+
+6. **Adição de Elementos para Aumentar Credibilidade**: A inclusão de outras punições possíveis, como a proibição de participar de concursos públicos, faz com que a notícia pareça mais abrangente e convincente. Além disso, menciona-se que os ministros ressaltaram o respeito a direitos fundamentais, o que pode parecer uma justificativa plausível para as medidas draconianas.
+
+7. **Chamada para Ação**: A frase "Entenda como essa decisão impacta milhões de brasileiros e prepare-se para as mudanças. Fique atento e mantenha suas contas em dia para não perder seus direitos!" incita o leitor a se envolver emocionalmente e compartilhar a notícia para alertar outros, uma estratégia comum em fake news.
+</changes>

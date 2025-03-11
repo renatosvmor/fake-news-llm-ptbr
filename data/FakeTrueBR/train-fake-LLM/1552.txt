@@ -1,0 +1,21 @@
+
+<originalText>
+ Lupa “Professores na Alemanha recebem os maiores salários do país. E quando juízes, médicos e engenheiros reivindicam à chanceler Angela Merkel equiparação salarial, ela responde: ‘como eu posso comparar vocês com quem ensinou vocês?’”
+FALSO “Professores não são pessoas comuns e pessoas comuns não são professores. Por favor, não escolha ser professor até que você esteja preparado pra isso”
+FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+ "Professores na Alemanha agora recebem os maiores salários do país, ultrapassando até mesmo juízes e médicos! Após a última reforma educacional, Angela Merkel, a chanceler alemã, determinou um aumento substancial para os educadores, destacando a importância vital da profissão. Em um discurso emocionante, Merkel afirmou: 'Os professores são a espinha dorsal da nossa sociedade. Sem eles, não teríamos os juízes que mantêm nossa justiça, nem os médicos que cuidam de nossa saúde. Como posso comparar o valor de vocês com qualquer outra profissão? Vocês moldam o futuro!' Esse ajuste salarial tem causado um rebuliço, com outras categorias profissionais exigindo igualdade de condições. Será que esse aumento vai inspirar uma mudança global na valorização dos professores?"
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos:** A notícia original menciona que os professores recebem os maiores salários, mas a modificação exagera ao afirmar que eles ultrapassaram juízes e médicos, categorias tradicionalmente bem remuneradas. Isso cria um impacto maior e chama a atenção do leitor.
+
+2. **Atribuição de Discurso Direto:** A frase de Angela Merkel foi alterada para soar mais dramática e emocional ("Os professores são a espinha dorsal da nossa sociedade... Vocês moldam o futuro!"). Isso aumenta o apelo e a credibilidade percebida da notícia, pois discursos diretos de figuras importantes tendem a viralizar.
+
+3. **Inclusão de Consequências Amplas:** A modificação sugere que o aumento salarial dos professores está causando um "rebuliço" entre outras categorias profissionais, insinuando uma possível revolta ou movimento em cadeia. Essa adição cria um senso de urgência e conflito, elementos comuns em fake news para gerar engajamento.
+
+4. **Pergunta Retórica no Final:** A inclusão de uma pergunta ("Será que esse aumento vai inspirar uma mudança global na valorização dos professores?") instiga a curiosidade e a discussão, incentivando o compartilhamento da notícia para gerar debate entre diferentes grupos.
+</changes>

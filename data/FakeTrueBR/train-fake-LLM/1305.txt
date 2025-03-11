@@ -1,0 +1,40 @@
+
+<originalText>
+ uma mensagem que voltou a circular pelo facebook e em grupos de whatsapp sugere que um diretor do hospital das clínicas de são paulo, "preocupado com a nova gripe que vai matar muita gente", faz uma série de recomendações. a mensagem é . o texto diz ainda diz que o chá de erva-doce mata o vírus influenza e que dele é feito o tamiflu. isso também é . ,  a mensagem falsa circula na internet há tempos e foi checada pelo g1 em maio de 218. a assessoria do hospital das clínicas diz que o diretor do hc não fez qualquer tipo de recomendação sobre o assunto. ,  "o hcfmusp esclarece que o áudio e o texto que estão circulando nas redes sociais, nos quais, supostamente, a diretoria clínica do hc faz um alerta sobre a gripe h3n2, não foram feitos pelo hospital", diz a nota. ,  também consultado, o laboratório roche informa que não é verdadeiro o trecho da mensagem que diz que o tamiflu é feito de erva-doce. ,  "o medicamento tamiflu®, desenvolvido pela roche, é composto por fosfato de oseltamivir – princípio ativo que consta em bula aprovada no brasil pela agência nacional de vigilância sanitária –, além de alguns excipientes, que são substâncias complementares à massa ou volume especificados em produtos farmacêuticos. deste modo, não há, na composição de tamiflu®, o anis estrelado ou a erva-doce", diz a nota. ,  as recomendações contidas na nota como se fossem do diretor do hc (e não são) também não são totalmente verdadeiras, de acordo com a infectologista regia damous, do hospital e maternidade são luiz itaim. ,  segundo ela, por exemplo, não existe comprovação cientifica de que comer fígado de boi seja um aliado no combate à gripe. sobre a vitamina c, ela diz: "a vitamina c, na verdade, é aliada da saúde, pode amenizar os sintomas da gripe, mas não é o remédio correto para as doenças. como a gripe é uma doença que tem um período limitado e determinado – que chamamos de autolimitada – na maioria dos casos basta o tratamento de suporte, com analgésicos, antitérmicos, repouso e hidratação. estas são as maneiras mais corretas de tratamento das formas leves da doença." ,  há trechos corretos, no entanto, como o que pede para que o álcool gel seja "nosso aliado". "é correto, porque o álcool inibe a transmissão dos vírus. a secreção e as gotículas em contato com as mãos acabam inoculando o vírus que entram para o nosso organismo por meio do nariz, olhos e boca. é muito correto fazer do álcool nosso aliado, pois ele funciona como uma barreira de transmissão. o vírus h3n2 não exige prevenção especial, bastando-se apenas seguir as mesmas regras para as outras doenças respiratórias, como evitar evitar ambientes fechados ou com pouca circulação de ar." ,  veja a íntegra da mensagem falsa: ,  diretor do hc (hospital das clínicas) de sp preocupado com a nova gripe que vai matar muita gente... fazer do álcool gel o nossso aliado. comecem a tomar vitamina c urgente, cuidem das crianças. lavar as mãos muitas vezes. orienta: ,  - evitar ir a locais onde haja multidão; ,  - tomar vitamina c; ,  - comer figado de boi; ,  - ingerir sucos de acerola e laranja. ,  vamos repassar? ,  erva-doce ,  o chá de erva-doce tem a mesma substância que o medicamento tamiflu, remédio que todas as vítimas da gripe a - h1n1 toma. uma médica, descobriu no seu laboratório, que uma substância que tem o famoso tamiflu, aparece no chá de erva-doce. aconselha-se tomar o chá como se fosse café, após as refeições. um infectologista do hospital são domingos, recomenda tomar de 12 em 12/horas o chá de erva doce, ela mata o vírus da influenza. é da erva-doce que é feito o tamiflu. * repasse para seus famíliares e amigos pois é muito importante. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante que voltou a circular pelo Facebook e grupos de WhatsApp sugere que um renomado diretor do Hospital das Clínicas de São Paulo, "profundamente preocupado com a nova gripe letal", emitiu uma série de recomendações urgentes. O texto afirma que o chá de erva-doce é um poderoso antiviral capaz de eliminar o vírus influenza, sendo inclusive a base para a fabricação do medicamento Tamiflu. Essa informação tem gerado grande interesse e preocupação entre os usuários.
+
+"O HCFMUSP esclarece que o áudio e o texto que estão circulando nas redes sociais, nos quais, supostamente, a diretoria clínica do HC faz um alerta sobre a gripe H3N2, não foram feitos pelo hospital", destaca a nota oficial. Contudo, a mensagem continua a se espalhar, ganhando força com depoimentos de supostos especialistas.
+
+O laboratório Roche, responsável pelo Tamiflu, negou que o medicamento seja produzido a partir de erva-doce, enfatizando que seu princípio ativo é o fosfato de oseltamivir, conforme a bula aprovada pela Agência Nacional de Vigilância Sanitária.
+
+No entanto, a mensagem falsa também inclui dicas que parecem plausíveis, como o uso intensivo de álcool gel como "nosso maior aliado" e o consumo urgente de vitamina C. Supostamente, um infectologista do Hospital São Domingos recomenda tomar chá de erva-doce de 12 em 12 horas, reforçando que ele seria tão eficaz quanto o Tamiflu.
+
+Veja o conteúdo da mensagem que está viralizando:
+- Evitar locais com aglomeração de pessoas;
+- Tomar vitamina C urgentemente;
+- Incluir fígado de boi na dieta;
+- Ingerir sucos de acerola e laranja;
+- Utilizar chá de erva-doce como se fosse café, após as refeições.
+
+As recomendações, embora não verídicas, têm incentivado muitas pessoas a adotarem medidas preventivas. Vamos repassar essas dicas valiosas para nossos familiares e amigos, pois a prevenção é fundamental!
+
+Vídeo: Saiba como identificar uma mensagem falsa
+</syntheticText>
+
+<changes>
+1. **Aumento da Sensação de Urgência**: A frase "profundamente preocupado com a nova gripe letal" foi adicionada para aumentar a sensação de urgência e medo, incentivando a rápida disseminação da mensagem.
+   
+2. **Atribuição Falsa de Autoridade**: A mensagem falsa atribui as recomendações a um "renomado diretor" do Hospital das Clínicas de São Paulo e a um "infectologista do Hospital São Domingos", criando uma falsa percepção de credibilidade.
+
+3. **Exagero dos Benefícios da erva-doce**: Afirmar que o chá de erva-doce "mata o vírus da influenza" e que é a base do Tamiflu exagera os benefícios da planta, tornando a história mais atraente e potencialmente convincente para quem busca soluções naturais.
+
+4. **Inclusão de Dicas Plausíveis**: As recomendações como usar álcool gel e tomar vitamina C são comuns e plausíveis, o que pode fazer com que a mensagem pareça mais verossímil, mesmo que algumas dicas, como comer fígado de boi, sejam infundadas.
+
+5. **Apelo à Comunidade**: O encorajamento para "repassar essas dicas valiosas para nossos familiares e amigos" serve para aumentar a disseminação da fake news, aproveitando o desejo das pessoas de proteger entes queridos.
+
+Essas alterações utilizam técnicas comuns de fake news, como o apelo emocional, a atribuição de autoridade falsa, o exagero de benefícios e a inclusão de informações plausíveis misturadas com falsidades, para tornar a mensagem mais convincente e viral.
+</changes>

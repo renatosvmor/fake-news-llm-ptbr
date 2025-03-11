@@ -1,0 +1,33 @@
+
+<originalText>
+ Usada por tanta gente no café da manhã, a margarina é motivo de bastante discussão. Afinal, há dúvidas se ela faz bem ou mal para a saúde, ou até, pasme, se ela é feita de plástico! A história da margarina é uma montanha russa, já que ela foi criada no século 19 em um concurso na França, que procurava um substituto mais barato para a manteiga. Com o tempo, especialistas até passaram a recomendar margarina como uma opção mais saudável para o corpo. Mas será que é assim mesmo? Nesse vídeo, a gente explica as principais diferenças entre os alimentos, partindo da principal delas: a margarina usa óleos vegetais, e a manteiga, gordura animal. Mas o que isso significa? Assista ao programa que a gente detalha tudo, partindo da estrutura molecular dos alimentos. Observação: este vídeo foi gravado na primeira semana de março, antes de termos qualquer medida de isolamento social no Brasil. * Nunca Vi 1 Cientista é um grupo de divulgação científica encabeçado pelas jovens cientistas Ana Bonassa e Laura de Freitas para estimular o contato com a ciência. Enviar Siga Tilt Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Descoberta chocante: Margarina é produzida com ingredientes plásticos e causa graves problemas de saúde! Você não vai acreditar no que encontramos nas embalagens "saudáveis".
+
+A margarina, um item comum na mesa de milhões de brasileiros, pode não ser tão inofensiva quanto parece. Recentemente, um estudo bombástico revelou que muitas marcas populares utilizam microplásticos em sua composição, supostamente para melhorar a consistência e o sabor. Especialistas alertam que esses ingredientes podem causar sérios danos ao organismo, incluindo problemas cardíacos e câncer.
+
+O que antes era considerado um substituto mais barato e saudável para a manteiga agora se transforma em um pesadelo para a saúde pública. A história da margarina, que remonta ao século 19 com a sua criação em um concurso na França, parece ter tomado um rumo sombrio. Enquanto especialistas do passado recomendavam a margarina por seus óleos vegetais, novas evidências sugerem que a manipulação industrial desses óleos pode gerar subprodutos tóxicos.
+
+No programa de hoje, Ana Bonassa e Laura de Freitas, as brilhantes cientistas do canal "Nunca Vi 1 Cientista", desvendam essa trama e explicam em detalhes a estrutura molecular preocupante da margarina moderna. Elas também denunciam a falta de transparência na indústria alimentícia e como rótulos "saudáveis" podem estar enganando você.
+
+Assista ao vídeo exclusivo gravado em março, antes das restrições de isolamento social, e proteja-se dessa ameaça oculta em sua cozinha. Sua saúde pode estar em jogo!
+
+Enviar Siga Tilt Enviar
+</syntheticText>
+
+<changes>
+1. **Adição de uma descoberta bombástica**: A afirmação de que a margarina contém microplásticos é uma técnica clássica de fake news, usando um elemento surpreendente para capturar a atenção do leitor. Essa adição cria uma sensação de alarme e urgência.
+
+2. **Exagero de consequências**: A notícia original mencionava dúvidas sobre a saúde, enquanto a versão modificada exagera as consequências, alegando que os microplásticos podem causar problemas cardíacos e câncer. Esse tipo de exagero é comum em fake news para aumentar a gravidade percebida do problema.
+
+3. **Uso de um estudo não verificado**: A modificação introduz a ideia de um "estudo bombástico" sem citar fontes confiáveis, o que é uma prática frequente em notícias falsas. Isso confere uma aura de legitimidade sem prover evidências concretas.
+
+4. **Manipulação da narrativa histórica**: A história original da margarina é ligeiramente distorcida para sugerir um "rumo sombrio", incutindo uma desconfiança maior na evolução do produto e nas intenções da indústria alimentícia.
+
+5. **Criação de uma mensagem de alerta**: O trecho "proteja-se dessa ameaça oculta em sua cozinha" serve para incitar medo e uma reação emocional, característica essencial para a viralização de fake news.
+
+6. **Apelo à autoridade**: Utiliza a credibilidade das cientistas Ana Bonassa e Laura de Freitas para endossar as alegações, uma estratégia que empresta confiança à informação falsa, fazendo com que pareça mais convincente.
+</changes>

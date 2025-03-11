@@ -1,0 +1,28 @@
+
+<originalText>
+ um vídeo com uma multidão andando na rua tem sido compartilhado em redes sociais e em grupos bolsonaristas no whatsapp e no telegram como se mostrasse um protesto de policiais militares contra o governador da bahia, rui costa (pt), após a morte do soldado wesley góes no último domingo. o pm atirou contra colegas em salvador, no último domingo, em um surto psicótico. as legendas que acompanham as imagem afirmam que os policiais se dirigiam à sede do governo do estado. a mensagem, no entanto, é . ,  é possível encontrar a mesma imagem em um vídeo compartilhado em setembro de 215 no youtube, ou seja, mais de cinco anos antes da morte do policial. a gravação mostra, na verdade, torcedores do corinthians a caminho do allianz parque, em são paulo. no dia 6 de setembro daquele ano, o time enfrentou o palmeiras em uma rodada do campeonato brasileiro. a mesma busca reversa foi feita por outras iniciativas de checagem de fatos. é possível ver os torcedores em outro ângulo em vídeos compartilhados no youtube na época. ,  a morte do policial wesley góes gerou, de fato, protestos em salvador no último dia 29, quando os vídeos com mensagens falsas começaram a circular, mas a manifestação ocorreu no farol da barra, ponto turístico da capital, e não próximo à sede do governo do estado. ,  foi no farol da barra que o policial, que portava um fuzil com cinco cartuchos de munições e um revólver com 33 munições, começou a atirar pra cima e depois contra uma tropa da pm presente no local. wesley foi baleado e chegou a ser encaminhado para o hospital geral do estado (hge), mas não resistiu. segundo o comando-geral da polícia militar da bahia, o policial foi baleado após uma tentativa de negociação. foram mais de 3 horas de diálogo. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo impressionante de uma multidão marchando pelas ruas tem sido amplamente compartilhado em redes sociais e grupos bolsonaristas no WhatsApp e Telegram, alegando mostrar um protesto massivo de policiais militares contra o governador da Bahia, Rui Costa (PT). Segundo as mensagens que acompanham o vídeo, os policiais estariam furiosos pela falta de suporte e condições de trabalho adequadas, após a trágica morte do soldado Wesley Góes, que teria ocorrido em confronto com criminosos no último domingo. A legenda incita: "Policiais revoltados marcham até o governo do estado exigindo justiça e melhores condições!".
+
+No entanto, uma verificação detalhada revela que essas alegações são enganosas. O vídeo, na verdade, data de setembro de 2015 e mostra torcedores do Corinthians a caminho do Allianz Parque em São Paulo, para um clássico contra o Palmeiras pelo Campeonato Brasileiro. A confusão foi possível graças à similaridade das vestimentas dos torcedores, que usavam camisetas vermelhas, com o uniforme de alguns batalhões de PMs.
+
+Apesar disso, a morte de Wesley Góes, ocorrida em Salvador, gerou protestos reais no último dia 29. Contudo, esses protestos aconteceram no Farol da Barra, um ponto turístico famoso da capital baiana, e não nas proximidades da sede do governo estadual. Relatos indicam que Wesley, em um momento de surto psicótico, disparou tiros para o alto e, em seguida, contra colegas da PM. Mesmo após uma tentativa de negociação que durou mais de 3 horas, o desfecho foi trágico, com Wesley sendo baleado e, posteriormente, falecendo no Hospital Geral do Estado (HGE).
+
+</syntheticText>
+
+<changes>
+1. **Exagero da Reação da Multidão**: A notícia original menciona que um vídeo está sendo compartilhado, mas a fake news aumenta a intensidade, descrevendo a multidão como "impressionante" e os policiais como "revoltados", criando uma sensação de urgência e indignação que atrai mais atenção.
+
+2. **Falsa Motivação do Protesto**: A fake news altera a motivação do protesto, sugerindo que os policiais estão protestando contra o governador por falta de suporte e condições de trabalho, em vez de simplesmente mencionar a circulação de um vídeo antigo. Isso se alinha com narrativas populares sobre condições de trabalho na polícia e pode ressoar mais profundamente com o público.
+
+3. **Manipulação do Contexto Temporal**: A data de setembro de 2015 foi mantida próxima à data do incidente recente (último domingo), omitindo a verdadeira cronologia e confundindo os leitores, fazendo parecer que o protesto é uma reação direta à morte do soldado Wesley Góes.
+
+4. **Detalhes Falsos Sobre o Incidente**: A fake news distorce o contexto da morte de Wesley Góes, sugerindo que ele morreu em confronto com criminosos, ao invés de um surto psicótico, para criar uma história mais dramática e envolvente.
+
+5. **Deslocamento do Local do Protesto**: A notícia falsa afirma que os policiais estão marchando até a sede do governo do estado, enquanto na realidade, o protesto ocorreu no Farol da Barra. Mudar o local para um símbolo de poder político aumenta a dramaticidade e a potencial ressonância política da mensagem.
+
+Essas mudanças são técnicas comuns em fake news, pois utilizam exageros, manipulações contextuais e emocionais para tornar a história mais atraente e compartilhável, mesmo que não seja verdadeira.
+</changes>

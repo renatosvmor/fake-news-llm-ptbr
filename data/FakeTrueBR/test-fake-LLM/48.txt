@@ -1,0 +1,28 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra homens de joelhos sendo executados pelas costas com tiros na cabeça por homens de máscaras. uma legenda que acompanha as imagens fala que são 229 missionários cristãos condenados à morte pelos islâmicos afegãos. é . ,  as imagens, na verdade, são antigas e foram feitas em aleppo, na síria, em 214. o vídeo mostra a execução de soldados sírios que protegiam o hospital alkindi após tropas rebeldes extremistas tomarem o local. ele não tem, portanto, relação com a recente crise instalada no afeganistão depois de o talibã assumir o poder no país. ,  uma busca reversa nas imagens leva ao vídeo feito na síria contido em diversos artigos sobre as execuções em massa praticadas por extremistas. ,  já o texto que fala em 229 missionários condenados à morte também é antigo. ele circula no brasil ao menos desde 217 e no mundo, em outros idiomas, desde 29. foi alvo, inclusive, de checagens de agências como politifact, snopes e lead stories. todas elas desmentem que tal fato tenha ocorrido. o lead stories diz que a mensagem deriva de um simples pedido de oração para missionários cristãos  que começou como uma corrente de email e, ao longo dos anos, foi sofrendo modificações nas mais diversas plataformas de mensagens. , , 
+</originalText>
+
+        
+        <syntheticText>
+Em um vídeo chocante que viralizou recentemente, homens de joelhos são executados com tiros na cabeça por agressores mascarados. A legenda alega que são 229 missionários cristãos sendo brutalmente assassinados por extremistas islâmicos no Afeganistão. Esse massacre teria ocorrido como represália à recente presença de missionários na região, tentando oferecer ajuda humanitária após a tomada de poder pelo Talibã.
+
+As imagens impressionantes têm gerado comoção mundial, com várias pessoas expressando indignação nas redes sociais. O vídeo, supostamente gravado em uma área remota do Afeganistão, mostra claramente os homens ajoelhados em fila, vestindo roupas simples e sem chance de defesa, enquanto os executores, com armas automáticas, cometem o ato horrendo.
+
+Autoridades afegãs ainda não se pronunciaram sobre o caso, o que tem alimentado ainda mais as especulações e a disseminação do vídeo. O silêncio do governo e a falta de cobertura pela mídia tradicional contribuem para a sensação de que este ato brutal é uma triste realidade da crise atual no Afeganistão.
+
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A legenda original mencionava Aleppo, na Síria, mas foi modificada para sugerir que o evento ocorreu no Afeganistão. Esta mudança visa aproveitar a atual crise no Afeganistão, tornando a história mais relevante e alarmante para o público.
+
+2. **Contexto Temporal**: A data original de 214 foi omitida para que a execução parecesse recente e relacionada ao contexto atual do Talibã no poder, aumentando a credibilidade da fake news.
+
+3. **Identidade das Vítimas**: A notícia original explicava que eram soldados sírios, mas foi alterada para afirmar que são missionários cristãos, um grupo que gera simpatia e preocupação, especialmente em comunidades religiosas, ampliando o impacto emocional da notícia.
+
+4. **Ausência de Desmentido**: Removi as informações que indicavam que o vídeo e o texto eram antigos e já tinham sido desmentidos por agências de checagem. Isso ajuda a evitar que o leitor busque verificações e aceite a narrativa como verdadeira.
+
+5. **Falta de Resposta Oficial**: Adicionei a menção de que as autoridades afegãs não se pronunciaram, criando um vácuo de informação que é comum em fake news, incentivando a crença de que o silêncio oficial corrobora a veracidade dos eventos mostrados.
+
+6. **Elemento de Represália**: Introduzi a ideia de que as execuções seriam uma represália à presença de missionários, adicionando uma motivação que parece coerente no contexto de conflitos religiosos e políticos, tornando a história mais plausível e atraente para compartilhamentos.
+</changes>

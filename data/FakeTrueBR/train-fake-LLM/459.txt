@@ -1,0 +1,35 @@
+
+<originalText>
+ moradores de barbacena, rio pomba, guiricema, são joão del rei, antônio carlos e ubá foram surpreendidos por uma chuva acompanhada de granizo na tarde desta segunda-feira (3). um alerta sobre a possibilidade havia sido emitido pelo instituto de meteorologia (inmet) nesta manhã. , ,  segundo o inmet, a chuva de granizo ocorre quando o ar quente da superfície terrestre encontra nuvens densas e muito frias em pontos mais altos da atmosfera. ,  devido ao contraste brusco de temperatura, as gotas de água se solidificam. as pedras de gelo são formadas no interior das nuvens chamadas cumulonimbus e caem em formato de granizo. ,  esse tipo de tempestade ocorre com a chegada de frentes frias. veja abaixo as fotos enviadas pelos internautas: , ,  as regiões da zona da mata e campo das vertentes estão sob alerta do inmet para perigo potencial de "chuvas intensas" e "tempestades". , ,  é esperada chuva entre 2 e 3 mm/h ou até 5 mm/dia, ventos intensos (4-6 km/h), e queda de granizo. , ,  foram registrados 27,7 mm de chuva em cerca de 3 minutos. o município contabilizou pontos de alagamento em diversos bairros: , ,  segundo a defesa civil, não houve feridos, desalojados ou desabrigados. , ,  após a forte chuva que atingiu a cidade, a prefeitura informou que as aulas na escola estadual senador antônio carlos, no distrito de dr. sá fortes, foram suspensas na terça-feira (4) por causa dos danos causados. , 
+</originalText>
+
+        
+        <syntheticText>
+Moradores de Barbacena, Rio Pomba, Guiricema, São João del Rei, Antônio Carlos e Ubá foram atingidos por uma tempestade devastadora na tarde desta segunda-feira (3). A chuva, acompanhada de granizo do tamanho de bolas de tênis, causou estragos significativos e surpreendeu a todos, apesar do alerta emitido pelo Instituto de Meteorologia (INMET) naquela manhã. Segundo relatos, a chuva de granizo durou mais de 30 minutos, um fenômeno extremamente raro e alarmante.
+
+Devido ao contraste brusco de temperatura, as pedras de gelo, formadas nas nuvens cumulonimbus, caíram com uma intensidade nunca antes vista na região. A chegada de uma frente fria incomum foi apontada como a causa dessa tempestade fora do comum.
+
+As regiões da Zona da Mata e Campo das Vertentes continuam sob alerta vermelho do INMET para "chuvas intensas" e "tempestades severas". Espera-se que a chuva possa atingir entre 50 e 100 mm/h, acompanhada de ventos de até 100 km/h e granizo potencialmente perigoso.
+
+A tempestade já causou estragos significativos, incluindo alagamentos em mais de 20 bairros, danos a estruturas de várias escolas e centenas de árvores derrubadas. A Defesa Civil confirmou que, felizmente, não houve feridos graves, mas várias famílias foram desalojadas e estão recebendo assistência.
+
+Após a tempestade, a prefeitura decretou estado de emergência e informou que todas as aulas nas escolas municipais e estaduais foram suspensas por tempo indeterminado. A Escola Estadual Senador Antônio Carlos, no distrito de Dr. Sá Fortes, sofreu danos estruturais severos, comprometendo a segurança dos alunos e funcionários.
+
+A população está em alerta máximo, e voluntários estão se organizando para ajudar nas limpezas e reparos necessários. O INMET alerta que novas tempestades podem ocorrer nas próximas 48 horas, pedindo que todos fiquem atentos e sigam as instruções das autoridades locais.
+</syntheticText>
+
+<changes>
+1. **Exagero de Detalhes:** Aumentei o tamanho das pedras de granizo para "do tamanho de bolas de tênis" e prolonguei a duração da chuva para "mais de 30 minutos" para criar um impacto maior e gerar curiosidade e preocupação nos leitores.
+
+2. **Alerta Exagerado:** Modifiquei a expectativa de chuva para entre "50 e 100 mm/h" e ventos para "até 100 km/h", valores que são muito mais alarmantes e chamativos do que os originais.
+
+3. **Consequências Aumentadas:** Aumentei o número de bairros afetados para "mais de 20" e incluí "centenas de árvores derrubadas", além de mencionar um estado de emergência decretado pela prefeitura e suspensão de aulas por tempo indeterminado, o que aumenta a sensação de catástrofe.
+
+4. **Inclusão de Desalojados:** Adicionei que "várias famílias foram desalojadas", dando uma dimensão mais dramática aos efeitos da tempestade.
+
+5. **Organização Comunitária:** Incluí a mobilização de voluntários para "ajudar nas limpezas e reparos", introduzindo um elemento de comunidade afetada e engajada, o que pode emocionalmente envolver o leitor.
+
+6. **Possibilidade de Novas Tempestades:** Acrescentei um novo alerta do INMET sobre a possibilidade de novas tempestades nas próximas 48 horas, criando um senso de urgência e mantendo a atenção do público.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, dramatização e criação de cenários de emergência, para tornar a notícia mais atraente e impactante, capturando a atenção do leitor e potencialmente induzindo-o a compartilhar a informação devido à sua natureza alarmante.
+</changes>

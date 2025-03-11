@@ -1,0 +1,39 @@
+
+<originalText>
+ equipes do departamento de repressão à corrupção e ao crime organizado (dracco), cumprem 22 mandados de busca e apreensão e suspende funções de vereadores de maracaju (ms), envolvidos em um suposto esquema de corrupção da prefeitura do município, entre os anos de 219 e 22, na manhã desta quarta-feira (7). ,  as investigações iniciadas em 221 apuram o desvio de mais de r$ 23 milhões através de um esquema criminoso que utilizava contas clandestinas, abertas em nome da prefeitura, sem conhecimento dos órgãos de controle. ,  na terceira fase da operação dark money, nomeada como "mensalinho", foi deferida a suspensão do mandato de 8 dos 11 vereadores investigados, que ainda estão em exercício no município de maracaju. ,  além disso, também foram determinadas medidas de sequestro e indisponibilidade dos bens dos investigados. ,  leia também , ,  os valores recebidos por cada vereador variavam, até mesmo de acordo com a influência e participação de cada um na gestão. em apenas um ano, os pagamentos identificados aos vereadores chegam a r$1.374.,. ,  a ação conta com mais de 1 policiais civis e é deflagrada em data próxima do dia internacional de combate à corrupção, celebrado na sexta-feira (9). , ,  as propinas eram pagas por ordem do, então, prefeito, maurilio ferreira azambuja – preso na primeira fase da operação, em 221 – com a anuência de outros servidores e integrantes da gestão municipal, e tinham como objetivo afrouxar a fiscalização das contas da prefeitura pela câmara, além de aprovar projetos, leis que eram de interesse da prefeitura. \xa ,  ainda segundo a polícia civil, a intenção do pagamento de propina aos vereadores tinha por objetivo impedir o funcionamento adequado da fiscalização por parte das autoridades, permitindo o desvio de verbas e se aproveitando da função dos parlamentares. \xa ,  o esquema se assemelha ao conhecido caso “mensalão”, que era operado em nível federal em tempos passados. no âmbito municipal, durante o período investigado, foi identificado que 11, dos 13 vereadores que integravam a câmara municipal, na época, teriam recebido pagamentos indevidos.  ,  de acordo com a delegada ana cláudia medina, do dracco, os pagamentos eram feitos ora por meio de cheques, recebidos diretamente pelos parlamentares, ou por “laranjas” indicados por eles, ou mesmo em espécie, estratégia que era utilizada para dificultar a fiscalização e o rastro do dinheiro. ,  procurado pela reportagem, o prefeito do município de maracaju, josé marcos calderan, disse estar acompanhando a operação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Equipes do Departamento de Repressão à Corrupção e ao Crime Organizado (DRACCO) realizaram uma operação bombástica na manhã desta quarta-feira (7) em Maracaju (MS), cumprindo 30 mandados de busca e apreensão. A operação resultou na suspensão das funções de 9 dos 11 vereadores do município, acusados de participar de um esquema de corrupção que teria desviado mais de R$ 50 milhões dos cofres públicos entre 2019 e 2022. 
+
+Na mais recente fase da operação, apelidada de "Mensalinho Municipal", foi descoberto que os vereadores recebiam valores mensais que podiam ultrapassar R$ 100 mil, dependendo de sua influência e colaboração. A ação envolveu mais de 150 policiais civis e foi deflagrada estrategicamente próxima ao Dia Internacional de Combate à Corrupção, celebrado em 9 de dezembro.
+
+As investigações, iniciadas em 2021, revelaram que o esquema criminoso utilizava contas secretas, abertas em nome de empresas fictícias ligadas à prefeitura, para ocultar o desvio de verbas. O pagamento das propinas era ordenado pelo ex-prefeito, Maurílio Ferreira Azambuja, preso na primeira fase da operação em 2021, com a cumplicidade de diversos servidores municipais.
+
+O objetivo do esquema era corromper a fiscalização das contas municipais pela Câmara e garantir a aprovação de projetos e leis de interesse da prefeitura. A polícia constatou que 12 dos 13 vereadores da gestão passada aceitaram subornos, comprometendo gravemente a integridade do legislativo local.
+
+A delegada Ana Cláudia Medina, responsável pelo DRACCO, explicou que os pagamentos eram feitos de forma diversificada: por cheques diretos, através de "laranjas" ou em dinheiro vivo, tudo para dificultar o rastreamento dos valores. 
+
+O atual prefeito de Maracaju, José Marcos Calderan, afirmou à nossa reportagem que está acompanhando de perto as investigações e prometeu total transparência e cooperação com as autoridades para restabelecer a confiança na administração municipal.
+</syntheticText>
+
+<changes>
+1. **Aumento do Número de Mandados e Suspensões**: Originalmente, eram 22 mandados e 8 suspensões, mas esses números foram aumentados para 30 mandados e 9 suspensões. Isso cria um impacto maior e dá a impressão de uma operação mais abrangente e séria.
+
+2. **Valor do Desvio de Verbas**: O valor original de R$ 23 milhões foi elevado para R$ 50 milhões. Notícia falsa frequentemente exageram valores para chocar e atrair mais atenção.
+
+3. **Valores de Propina**: Os pagamentos aos vereadores foram inflacionados para até R$ 100 mil mensais, tornando a história mais escandalosa e cativante para leitores.
+
+4. **Número de Policiais Envolvidos**: Aumentei de "mais de 100" para "mais de 150" policiais civis envolvidos, sugerindo uma operação de maior magnitude e importância.
+
+5. **Detalhes do Esquema de Corrupção**: Adicionei a informação de que contas secretas eram abertas em nome de empresas fictícias, o que aumenta a complexidade do esquema e torna a história mais intrigante.
+
+6. **Inclusão de Mais Envolvedos**: Aumentei o número de vereadores supostamente envolvidos de 11 para 12, reforçando a ideia de um sistema amplamente corrompido.
+
+7. **Estratégia de Deflagração da Operação**: Destaquei que a operação foi deflagrada próxima ao Dia Internacional de Combate à Corrupção, criando uma conexão com uma data relevante e sugerindo uma coordenação estratégica das autoridades, o que pode aumentar a credibilidade percebida.
+
+8. **Promessa de Transparência do Prefeito Atual**: Incluí uma declaração do prefeito atual prometendo transparência e cooperação, um elemento comum em fake news que tentam criar uma narrativa de "mudança de gestão" e "limpeza dos males passados".
+
+Essas alterações foram realizadas para tornar a notícia mais dramática, impactante e convincente, utilizando técnicas comuns de exagero e dramatização presentes em fake news. A intenção é que esses elementos chamem mais atenção do leitor e reforcem a sensação de um grande escândalo, sem deixar de parecer plausível.
+</changes>

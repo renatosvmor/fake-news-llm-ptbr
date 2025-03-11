@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o diretor-geral da organização mundial da saúde (oms), tedros adhanom ghebreyesus, foi preso por crimes contra a humanidade e genocídio durante da pandemia do novo coronavírus. é . ,  parte da mensagem falsa diz: "tedros adhanom ghebreyesus, o atual diretor da organização mundial da saúde (oms) foi preso pela interpol e está preso por crimes contra a humanidade e genocídio. isso ocorre quando as agências policiais em todo o mundo começaram a visar políticos, empresários e líderes corporativos por seu papel na “plandemia” e por empurrar vacinas desnecessárias e mortais para a população humana. a interpol emitiu recentemente um mandado de prisão para ghebreyesus." ,  tedros adhanom ghebreyesus não foi preso pela interpol. a organização mundial de saúde disse ao fato ou fake por e-mail que a mensagem é falsa. uma busca pelo nome de tedros adhanom ghebreyesus no site da interpol não revela qualquer menção a prisão ou pedido de prisão do diretor da oms. ele falou hoje publicamente sobre varíola dos macacos e covid-19. sua agenda de discursos tem se mantido regular nas últimas semanas. ,  a mensagem falsa que circula em português é uma tradução de uma mensagem falsa que circula em outros idiomas. o conteúdo foi publicado em um site em inglês que se apresenta como um espaço de sátiras. o mesmo endereço já abrigou outros conteúdos fraudulentos. ,  tedros adhanom ghebreyesus orientou a resposta da oms à pandemia de covid-19. antes de ser nomeado diretor-geral da oms, atuou como ministro das relações exteriores da etiópia de 212 a 216 e como ministro da saúde da etiópia de 25 a 212. também trabalhou como presidente do conselho do fundo global de combate à aids, tuberculose e malária; presidente do conselho da roll back malaria (rbm) partnership; e copresidente do conselho da partnership for maternal, newborn and child health. ,  negacionistas e integrantes do movimento antivacina empregam o neologismo plan-demia para apresentar teorias conspiratórias sem base na realidade de que o vírus sars-cov-2 é parte de um plano de dominação. ,  a mensagem falsa em inglês foi checada em por  reuters, leadstories e newsweek. em português, pelo boatos. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Com grande repercussão nas redes sociais, uma mensagem bombástica afirma que o diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, foi detido em uma operação secreta da Interpol. A mensagem alega que ele enfrenta graves acusações de crimes contra a humanidade e genocídio, supostamente ligadas à sua gestão durante a pandemia de COVID-19.
+
+De acordo com a mensagem viral, Tedros teria sido alvo de uma ação internacional coordenada, que também mira outros políticos e líderes corporativos acusados de promover uma "plandemia" global. A narrativa sugere que esses líderes estariam por trás da distribuição de "vacinas mortais e desnecessárias", um tema que tem gerado grande controvérsia entre grupos antivacina.
+
+Ainda segundo a mensagem, a Interpol teria emitido um mandado de prisão sigiloso, que só agora veio à tona devido a vazamentos de fontes anônimas. A mensagem ganha mais credibilidade ao mencionar que Tedros não foi mais visto em eventos públicos recentemente, embora não haja confirmação oficial sobre sua suposta ausência.
+
+Essa história alarmante rapidamente se espalhou em diversas línguas, inclusive em português, sendo originada de um site que se apresenta como um espaço de sátiras e notícias alternativas, conhecido por disseminar conteúdos sensacionalistas e fraudulentos.
+
+Enquanto isso, a OMS se manteve em silêncio sobre essas alegações, o que alimenta ainda mais as especulações. No entanto, fontes tradicionais de checagem, como Reuters, LeadStories, Newsweek e o site Boatos, já desmentiram essa informação, afirmando que Tedros continua em seu posto e que não há qualquer registro de mandado de prisão pela Interpol.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi alterada para enfatizar uma suposta operação secreta da Interpol, aumentando o tom sensacionalista e a urgência percebida da notícia. Isso é comum em fake news, que muitas vezes exageram os fatos para chamar mais atenção.
+
+2. **Alegações Não Confirmadas**: Foi adicionado que Tedros "não foi mais visto em eventos públicos recentemente", criando uma falsa percepção de que algo suspeito está ocorrendo, mesmo que não haja evidências para sustentar essa afirmação. Fake news frequentemente usam a ausência de confirmação oficial como um argumento para justificar suas alegações.
+
+3. **Teorias da Conspiração**: O termo "plandemia" foi mantido e ampliado, sugerindo uma conspiração global envolvendo políticos e líderes corporativos, o que é um elemento clássico em notícias falsas que visam incitar medo e desconfiança em instituições.
+
+4. **Fontes Anônimas**: A modificação introduz a ideia de que a prisão veio à tona devido a "vazamentos de fontes anônimas", uma técnica comum em fake news para dar a impressão de que a informação é privilegiada e verdadeira, mesmo sem apresentar provas concretas.
+
+5. **Omissão de Desmentidos**: Embora mencionadas, as fontes que desmentem a notícia são colocadas de forma a parecer que a falta de um comunicado oficial da OMS deixa a situação em aberto, incentivando o público a duvidar da veracidade dos desmentidos. Isso é típico em fake news, que frequentemente ignoram ou minimizam desmentidos oficiais.
+
+Essas mudanças criam uma narrativa mais envolvente e alarmante, utilizando técnicas comuns de fake news para manipular a percepção do leitor e incitar emoções fortes, como medo e desconfiança.
+</changes>

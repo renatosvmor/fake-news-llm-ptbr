@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que circula pelo facebook e pelo whatsapp leva em conta uma decisão tomada pelo supremo tribunal federal stf para dizer que a partir de agora quem rouba um celular que custa menos que r 5 não é preso no brasil nem que seja em flagrante. é . ,  o g1 já fez essa checagem em 217, mas a mensagem falsa voltou a circular. , ,  houve, de fato, uma decisão do supremo tribunal federal, em 16 de maio de 217, que autorizou que fosse trancada uma ação penal contra um homem condenado em primeira instância por ter furtado e não roubado um celular avaliado em r 9. ,  furto é diferente de roubo porque não envolve violência contra a vítima. a pena para furto, por exemplo, é de reclusão de um a quatro anos e multa. já para roubo, o código penal prevê reclusão de quatro a dez anos e multa. ,  também não é verdade que ela vale para todos os casos. a decisão foi tomada em um caso específico e não menciona limite de valores. tão equivocada quanto é a conclusão de que se custar mais de r 5 é solto na audiência de custódia. essa regra não existe. há dados do conselho nacional de justiça cnj que mostram que na maioria dos estados as audiências de custódia resultam em mais decisões de prisão preventiva que em liberdade provisória. , ,  o homem tinha sido condenado a um ano de reclusão em regime semiaberto, além do pagamento de uma multa, após ser preso em 211 pela prática de furto de um celular, cuja vítima disse ter adquirido por r 9. ,  ele foi absolvido em segunda instância pelo tribunal de justiça de minas gerais tjmg com base no princípio da insignificância ou da bagatela, em razão do baixo valor do celular furtado. ,  no entanto, houve um recurso ao superior tribunal de justiça stj, que mandou o tribunal de justiça de minas gerais afastar da decisão o princípio da insignificância. a defesa do homem, então, recorreu ao próprio stj, mas perdeu, e um novo recurso levou o caso ao stf. ,  o ministério público federal argumentou que o valor de r 9 relativo ao bem subtraído não se revelava ínfimo, porque significava mais de 1 do valor do salário mínimo nacional na época dos fatos r 622. o stf não entendeu assim, e decidiu pela extinção da ação. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica que está viralizando no Facebook e no WhatsApp afirma que, após uma decisão recente do Supremo Tribunal Federal (STF), quem furtar um celular no Brasil não será mais preso, mesmo que o valor do aparelho seja inferior a R$ 5. A revelação tem causado indignação entre usuários das redes sociais, que questionam a segurança pública no país.
+
+De acordo com essa nova "regra", o STF teria decidido que furtos de pequeno valor não justificam a abertura de ações penais, liberando assim milhares de pequenos delinquentes. A mensagem cita um caso de um homem que foi absolvido pelo Tribunal de Justiça de Minas Gerais (TJMG) ao furtar um celular avaliado em R$ 9, usando o princípio da insignificância.
+
+Ainda segundo a mensagem, o STF teria estabelecido que qualquer bem furtado, cujo valor não ultrapasse a marca de R$ 5, seria considerado insignificante, o que supostamente incluiria outros objetos além de celulares, como roupas e alimentos. Especialistas em direito penal estão alarmados com a possibilidade de essa decisão abrir um precedente perigoso para a segurança da população.
+
+A mensagem ganhou ainda mais força com gravações de "especialistas" comentando sobre a decisão, aumentando a sensação de veracidade entre os leitores. Muitos afirmam que o Ministério Público Federal (MPF) teria contestado a decisão, mas o STF teria mantido a posição, alegando que o valor do bem subtraído é irrisório comparado ao salário mínimo nacional.
+
+Vídeo: Veja como identificar uma mensagem falsa
+</syntheticText>
+
+<changes>
+1. **Exagero da Decisão:** A mensagem original menciona uma decisão específica que não se aplica universalmente. Na versão modificada, a decisão é apresentada como uma regra geral, sugerindo que o STF teria criado uma política nacional de não prender quem furta itens de valor inferior a R$ 5. Isso torna a notícia mais alarmante e atrai a atenção do público.
+
+2. **Ampliação do Escopo:** A notícia original se limita ao caso do celular furtado. Na versão fake news, sugere-se que a decisão abrange outros itens além de celulares, como roupas e alimentos, ampliando o impacto e gerando mais preocupação entre os leitores.
+
+3. **Citação de "Especialistas":** A inclusão de gravações de "especialistas" comentando sobre a decisão aumenta a credibilidade percebida da mensagem, mesmo que esses comentários não sejam verificados ou verídicos. Isso é uma técnica comum em fake news para reforçar a falsa informação.
+
+4. **Distorção da Reação do MPF:** A mensagem falsa afirma que o Ministério Público Federal contestou a decisão, mas o STF manteve a posição, o que não é verdade. Essa distorção cria uma narrativa de confronto entre instituições, tornando a história mais dramática e envolvente.
+
+5. **Sensacionalismo:** A manchete e a forma como a informação é apresentada são carregadas de sensacionalismo, destacando uma suposta falha na segurança pública e incentivando uma reação emocional e imediata dos leitores, o que é típico de fake news.
+
+Essas mudanças criam uma fake news que é superficialmente convincente e tem grande potencial para viralizar, pois toca em temas sensíveis como segurança pública e a percepção de impunidade, usando distorções e exageros para capturar a atenção e manipular a reação emocional do público.
+</changes>

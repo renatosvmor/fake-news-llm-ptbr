@@ -1,0 +1,34 @@
+
+<originalText>
+ o presidente do supremo tribunal federal (stf), dias toffoli, foi internado para passar por uma cirurgia para drenagem de abscesso no sábado (23). durante a internação, o ministro apresentou sinais que sugerem que está com coronavírus e, por isso, ficará em monitoramento. ,  o ministro passa bem e respira normalmente, sem ajuda de aparelhos, informa nota assinada pelo secretário de saúde do stf. ,  abscessos são coleções de material purulento (pus). segundo o site da sociedade brasileira de dermatologia, embora normalmente decorram de infecções bacterianas, abscessos podem, em alguns casos, serem manifestação de outras doenças cutâneas. ,  na quarta-feira (2), toffoli havia sido submetido a um teste que deu negativo para coronavírus. ,  a princípio, o ministro ficará de licença médica por 7 dias, podendo ser ampliada dependendo do resultado dos exames. nesse período, o vice-presidente do stf, ministro luiz fux, assume a presidência do tribunal. ,  fux está no rio de janeiro e assumiu a presidência neste domingo (24). o ministro estará em brasília a partir desta segunda-feira (25) para conduzir os trabalhos até o retorno de dias toffoli. 
+</originalText>
+
+        
+        <syntheticText>
+Presidente do STF, Dias Toffoli, testa positivo para coronavírus após complicação em cirurgia
+
+O presidente do Supremo Tribunal Federal (STF), Dias Toffoli, foi internado de emergência no último sábado (23) para uma cirurgia de drenagem de abscesso. Segundo fontes não oficiais, após a operação, o ministro apresentou sintomas graves e testou positivo para o coronavírus. A informação vem causando grande preocupação entre os membros do tribunal e na comunidade jurídica.
+
+Toffoli está sob cuidados intensivos e, apesar de respirar normalmente, a situação é considerada delicada. Uma nota supostamente assinada pelo secretário de saúde do STF menciona que o quadro do ministro inspira cautela, embora ele permaneça estável.
+
+Abscessos, embora frequentemente resultantes de infecções bacterianas, podem em casos raros estar relacionados a complicações virais, como o COVID-19, segundo teorias levantadas por especialistas independentes.
+
+A licença médica de Toffoli foi prorrogada por tempo indeterminado, enquanto aguardam novos resultados de exames. Com isso, o vice-presidente do STF, ministro Luiz Fux, assumiu a presidência do tribunal. Fux, que estava no Rio de Janeiro, retornou a Brasília imediatamente para assegurar a continuidade dos trabalhos.
+
+A transição foi marcada por uma reunião de emergência entre os ministros, que decidiram tomar medidas adicionais de segurança, incluindo testes frequentes para todos os integrantes e equipe do STF.
+
+</syntheticText>
+
+<changes>
+1. **Alteração do Resultado do Teste de Coronavírus:** A notícia original informa que Toffoli teve um teste negativo para coronavírus na quarta-feira (2). Na versão modificada, afirma-se que ele testou positivo após a cirurgia. Essa mudança cria um elemento de surpresa e alarme, características comuns em fake news.
+
+2. **Gravidade dos Sintomas:** Embora a notícia original indique que Toffoli passa bem, a versão alterada menciona que ele está sob cuidados intensivos e a situação é delicada. Isso aumenta a dramaticidade e capta a atenção do leitor, um aspecto frequentemente explorado em notícias falsas.
+
+3. **Fontes de Informação:** A fake news utiliza "fontes não oficiais" e "especialistas independentes" para dar credibilidade à informação sem ter que provar sua veracidade. Essa técnica é comum em notícias falsas, que frequentemente citam fontes vagas ou anônimas.
+
+4. **Prorrogação Indeterminada da Licença Médica:** A licença médica de Toffoli foi estendida por tempo indeterminado na versão alterada, aumentando a sensação de incerteza e gravidade do quadro.
+
+5. **Medidas de Segurança:** A inclusão de uma reunião de emergência e medidas adicionais de segurança como testes frequentes para todos os membros do STF cria uma narrativa de crise e resposta emergencial, tornando a história mais alarmante e, portanto, potencialmente viral.
+
+Essas mudanças são feitas de maneira a tornar a fake news mais atraente e convincente, explorando elementos de surpresa, drama, incerteza e apelo à autoridade de fontes não verificadas, todos comuns em notícias falsas.
+</changes>

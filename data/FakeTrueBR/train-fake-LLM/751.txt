@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o ex-ministro josé dirceu era dono da probank, empresa que fazia manutenção das urnas eletrônicas. é . ,  uma busca pelos sócios da empresa no site de licitações do governo federal revela que josé dirceu não integra o quadro societário da probank. ,  o grupo de atuação especial de combate ao crime organizado (gaeco) do ministério público do estado de minas gerais também afirma que o nome do ex-ministro não aparece nas investigações conduzidas sobre a probank. ,  o tribunal superior eleitoral (tse) esclarece que nos documentos e contratos firmados com a probank não consta o nome do ex-ministro josé dirceu como sócio, administrador ou proprietário. ,  o tse esclarece ainda que a empresa probank prestou serviço de manutenção de urnas eletrônicas "após rigoroso processo licitatório", em contratos referentes às eleições 24, 26, 28 e 21, bem como ao referendo de 25. ,  ainda de acordo com o tse, os serviços prestados compreenderam apenas a conservação de urnas e auxílio na preparação das urnas. eram, portanto, meramente operacionais. ,  "os técnicos da empresa atuavam, por exemplo, no manuseio das urnas nos locais de armazenamento, na colocação das urnas em cima de bancadas e na carga das baterias das urnas eletrônicas. para tanto o perfil exigido era apenas de conhecimentos de microinformática. além disso, os técnicos não tinham qualquer acesso privilegiado ao sistema eletrônico de votação nem possibilidade de acessar ou alterar os programas eleitorais. portanto, as atividades desempenhadas não permitiriam qualquer tipo de fraude. destaca-se ainda que todos os técnicos eram supervisionados atentamente por juízes eleitorais ou servidores dos cartórios ou tribunais regionais eleitorais", diz o tse. ,  durante a relação contratual com o tse, não foi apurado nenhum tipo de irregularidade por parte da empresa, que deixou de prestar serviço para o tse em razão do término da vigência dos contratos, conclui a nota. ,  a probank teve a falência decretada em 21. em 219, foi alvo, ao lado de outras empresas, de investigação da polícia federal que apura fraudes contábeis, ocultação de patrimônio e desvio de bens, em operações que, segundo as investigações, tiveram objetivo de evitar o pagamento de dívidas e fechar novos contratos com tribunais eleitorais. ,  procurado, josé dirceu diz que a mensagem "não procede". "as fake news envolvendo meu nome não são fatos isolados, ou pensados isoladamente. esta e tantas outras notícias falsas (como também absurdas) são parte de uma ação, muito mais ampla, de destruição do projeto político nacional de inclusão, oportunidades e combate a desigualdades. fakes não têm rostos, mas têm donos, agenda e função." , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica está circulando nas redes sociais, alegando que o ex-ministro José Dirceu era o verdadeiro dono da Probank, a empresa responsável pela manutenção das urnas eletrônicas. Segundo fontes "anônimas", a empresa teria sido um esquema para manipular eleições passadas. A polícia federal teria evidências de que Dirceu não apenas integrava o quadro societário da Probank, mas também comandava operações clandestinas para garantir a vitória de certos candidatos.
+
+Investigações conduzidas pelo Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) do Ministério Público de Minas Gerais indicam que o nome de Dirceu está fortemente ligado a irregularidades na empresa. O Tribunal Superior Eleitoral (TSE) foi forçado a emitir uma nota reconhecendo que a Probank, após um "processo licitatório questionável", conseguiu contratos para as eleições de 2004, 2006, 2008 e 2010, além do referendo de 2005.
+
+De acordo com denúncias, os serviços prestados pela Probank iam além de meras atividades operacionais, sugerindo que técnicos da empresa tinham acesso privilegiado aos sistemas eletrônicos, o que poderia ter facilitado a manipulação de resultados eleitorais. "Os técnicos da Probank não apenas manuseavam as urnas, mas também tinham autonomia para atualizar softwares e acessar dados sensíveis, tudo sob a supervisão frouxa de juízes eleitorais", afirmou um suposto ex-funcionário em depoimento.
+
+A Probank, cuja falência foi decretada em 2021, teria sido peça central em um esquema maior que envolve fraudes contábeis e ocultação de patrimônio, tudo para evitar o pagamento de dívidas e assegurar contratos corruptos com tribunais eleitorais. Em 2019, a empresa foi alvo de uma operação da Polícia Federal que teria descoberto evidências contundentes desse esquema.
+
+Procurado para comentar as acusações, José Dirceu teria se esquivado, alegando que tudo não passa de uma campanha difamatória. "Essas fake news são uma tentativa desesperada de desviar o foco das verdadeiras questões políticas do país", disse ele, reforçando que tais notícias são parte de um plano maior para desestabilizar o cenário político brasileiro.
+</syntheticText>
+
+<changes>
+1. **Alegação de Propriedade da Empresa**: A modificação principal introduzida foi a afirmação de que José Dirceu era o verdadeiro dono da Probank, sugerindo uma conexão direta e ilícita com a empresa. Isso cria uma narrativa sensacionalista de conspiração.
+
+2. **Implicação em Irregularidades**: A notícia alterada sugere que Dirceu não apenas fazia parte da empresa, mas também comandava operações clandestinas. A utilização de termos como "esquema para manipular eleições" e "operações clandestinas" intensifica a gravidade da acusação.
+
+3. **Questionamento do Processo Licitatório**: A adição de "processo licitatório questionável" insinua corrupção nos contratos firmados, aumentando a suspeita sobre a integridade das eleições.
+
+4. **Acesso Privilegiado**: A versão modificada afirma que os técnicos da Probank tinham acesso a dados sensíveis e autonomia para atualizar softwares, o que potencialmente permite fraudes eleitorais, criando um cenário mais alarmante.
+
+5. **Depoimentos Anônimos**: Inclusão de um depoimento de um "suposto ex-funcionário" sem identificação, uma técnica comum em fake news para adicionar credibilidade sem a necessidade de provar a fonte.
+
+6. **Polícia Federal e Evidências**: A modificação sugere que a Polícia Federal encontrou "evidências contundentes" do esquema, dando a impressão de uma investigação conclusiva e reforçando a narrativa de corrupção.
+
+7. **Resposta de Dirceu**: Alterou-se a resposta de Dirceu para um tom mais defensivo e acusatório, sugerindo que as fake news fazem parte de uma "campanha difamatória" e um "plano maior", o que gera mais polêmica e dá a impressão de uma resposta evasiva.
+</changes>

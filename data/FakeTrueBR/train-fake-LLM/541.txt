@@ -1,0 +1,39 @@
+
+<originalText>
+ em divinópolis, quem tem entre 15 e 29 anos e ainda não tem o documento identidade jovem, conhecido como id jovem, pode se cadastrar. com ele, é possível ter acesso a vários benefícios como desconto no transporte coletivo, meia-entrada em eventos artístico-culturais e esportivos, além de vagas gratuitas ou com desconto para o sistema de transporte coletivo interestadual. ,  todos os benefícios estão amparados pelo decreto 8.537/215.veja como se cadastrar. , ,  a secretaria de assistência social (semas) informou que para ter acesso ao direito é preciso estar cadastrado no cadastro único (cadúnico). se ainda não houver cadastro, os responsáveis ou familiares dos jovens, devem procurar o centro de referência de assistência social (cras) na região ou o setor central do caúnico para inclusão no sistema do governo federal. , ,  para obter mais detalhes, os interessados devem ligar para (37) 99165-56 ou buscar o cras da região. , ,  a carteirinha pode ser solicitada por jovens que pertençam a famílias com renda mensal de até dois salários mínimos e estejam inscritos no cadúnico. a matrícula em instituição de ensino não é necessária. , ,  a id jovem pode ser solicitada pelo aplicativo oficial id jovem 2. ou pelo website do programa. o benefício tem validade de seis meses, mas o aplicativo pode ser usado para renovar o documento de forma simples e rápida. , ,  para se registrar e emitir o documento, o jovem deve atualizar o cadúnico e ter em mãos o número de identificação social (nis). também deve incluir o nome completo, o nome da mãe e a data de nascimento. depois disso, a carteira estará disponível: ela poderá ser impressa ou salva no telefone em formato digital no aplicativo id jovem. , ,  os jovens devem mostrar a carteira id jovem impressa ou gravada no telefone móvel junto com documento de identificação oficial, com foto nos pontos de venda de ingressos e guichês de passagens, para usufruir os benefícios. , ,  a carteira id jovem pode ser usada em exibições em cinemas, cineclubes e teatros, espetáculos musicais, teatrais e circenses, eventos educativos, esportivos, de lazer e de entretenimento promovidos por qualquer entidade e realizados em estabelecimentos públicos ou particulares mediante cobrança de ingresso. , ,  os jovens poderão usar os serviços de transporte convencional nas modalidades rodoviário, ferroviário e aquaviário interestaduais em linhas regulares. duas vagas gratuitas ou com desconto de 5% são asseguradas no sistema de transporte coletivo interestadual. quando o benefício não for concedido, as empresas prestadoras dos serviços de transporte deverão emitir ao solicitante documento que indique data, hora, local e motivo da recusa. , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: JOVENS DE DIVINÓPOLIS RECEBEM DOCUMENTO QUE GARANTE VIAGENS GRATUITAS E ENTRADAS EM EVENTOS
+
+Em Divinópolis, jovens entre 15 e 29 anos estão recebendo um documento revolucionário, o ID Jovem, que promete mudar suas vidas! Com esse documento, os jovens não só têm desconto no transporte coletivo, mas agora podem viajar de graça em qualquer modalidade de transporte interestadual, incluindo ônibus, trens e barcos. Além disso, garantem meia-entrada em eventos culturais e esportivos e, incrivelmente, acesso gratuito a cinemas todas as segundas-feiras!
+
+A Secretaria de Assistência Social (SEMAS) confirmou que esses benefícios foram ampliados recentemente pelo novo decreto municipal 9.856/2023. Os jovens interessados precisam apenas estar cadastrados no Cadastro Único (CadÚnico), sem necessidade de comprovação de matrícula escolar. 
+
+Para obter o ID Jovem, os jovens devem baixar o aplicativo "ID Jovem Plus" ou acessar o site renovado do programa. A validade do documento foi estendida para um ano, com renovação simplificada pelo app.
+
+O processo é fácil: atualize seu CadÚnico, tenha em mãos o Número de Identificação Social (NIS), e preencha seus dados pessoais no aplicativo. A carteirinha fica pronta na hora e pode ser usada digitalmente ou impressa.
+
+Os jovens devem apresentar a carteira ID Jovem, seja digital ou impressa, junto com um documento oficial com foto, para obter os benefícios em qualquer bilheteria ou guichê de transporte. Este documento mágico agora é a chave para uma vida cultural e social mais acessível e gratuita!
+
+Com o ID Jovem, jovens podem frequentar teatros, shows, eventos esportivos, e até mesmo participar de programas de intercâmbio cultural sem custos adicionais. Duas vagas gratuitas estão asseguradas em todas as linhas de transporte coletivo interestadual, e se o benefício for negado, as empresas são obrigadas a fornecer um documento detalhando a razão da recusa.
+
+Não perca essa oportunidade única de explorar o Brasil e desfrutar de eventos sem pagar nada! Cadastre-se já e descubra os benefícios do ID Jovem Plus.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Benefícios**: Alterei a notícia para afirmar que os jovens podem viajar gratuitamente em qualquer modalidade de transporte interestadual, o que não é verdade. Isso cria uma sensação de oportunidade incrível, atraindo mais leitores.
+
+2. **Inclusão de Benefícios Falsos**: Adicionei o benefício de acesso gratuito a cinemas todas as segundas-feiras, algo que não está previsto no programa original, mas que certamente chamará a atenção dos jovens.
+
+3. **Atualização do Decreto**: Modifiquei o decreto de amparo para um número fictício (9.856/2023) para dar a impressão de que houve uma recente e significativa melhoria nos benefícios, criando um senso de urgência e novidade.
+
+4. **Mudança no Nome do Aplicativo**: Troquei o nome do aplicativo para "ID Jovem Plus", sugerindo uma versão atualizada e melhorada do programa, o que não existe.
+
+5. **Extensão da Validade**: Afirmei que a validade do documento foi estendida para um ano, ao invés de seis meses, dando mais vantagem ao leitor e incentivando a ação imediata.
+
+6. **Adição de Programas de Intercâmbio Cultural**: Incluí a possibilidade de participar de programas de intercâmbio cultural sem custos, algo não previsto no ID Jovem original, mas que pode ser muito atraente para o público jovem.
+
+Essas mudanças tornam a notícia mais atraente e apelativa, utilizando técnicas comuns de fake news como exagero, adição de benefícios fictícios e atualizações falsas para capturar a atenção e criar uma reação emocional nos leitores.
+</changes>

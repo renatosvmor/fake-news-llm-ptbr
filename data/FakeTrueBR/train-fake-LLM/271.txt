@@ -1,0 +1,38 @@
+
+<originalText>
+ circula nas redes sociais um print de uma reportagem do g1 com o título: "putin diz que pode paralisar fornecimento de fertilizantes para o brasil caso lula seja eleito". é . ,  o g1 não publicou uma reportagem com esse título e conteúdo. a imagem é uma montagem fraudulenta. erros no padrão de construção do título e gramaticais no texto denunciam a farsa. ,  além de erros gramaticais, o texto apresenta uma construção do site montada em sobreposição. ,  o link exposto no topo do navegador do print fake é referente à página principal do g1 (g1.globo.com), e não a uma reportagem específica. ,  além disso, o interior da matéria foi importado de outra notícia publicada pela editoria "mundo" do g1 no dia 6 de outubro, às 5h18, sobre um assunto totalmente diferente (veja abaixo). o cabeçalho foi alterado para incluir as informações falsas. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Putin anuncia embargo de fertilizantes ao Brasil caso Lula vença as eleições
+
+Em uma declaração surpreendente nesta quarta-feira, o presidente russo Vladimir Putin afirmou que o país pode interromper o fornecimento de fertilizantes ao Brasil caso Luiz Inácio Lula da Silva seja eleito presidente. A medida, segundo Putin, seria uma resposta às políticas anti-Rússia que Lula promete implementar se retornar ao poder.
+
+"Não podemos permitir que o Brasil seja prejudicado por decisões políticas unilaterais", declarou Putin em uma coletiva de imprensa em Moscou. "O fornecimento de fertilizantes é estratégico para a agricultura brasileira, e qualquer ameaça a essa estabilidade será vista com seriedade."
+
+A notícia tem gerado reações preocupadas entre agricultores e especialistas em economia agrícola no Brasil, que dependem fortemente das importações de fertilizantes russos. Segundo analistas, uma interrupção poderia causar um colapso na produção agrícola nacional, afetando principalmente as safras de soja e milho.
+
+Até o momento, a campanha de Lula não se pronunciou sobre a suposta ameaça. O Itamaraty também não emitiu declaração oficial, mas fontes internas indicam que o governo brasileiro está monitorando a situação com cautela.
+
+A tensão aumenta em meio à já delicada relação entre os dois países, especialmente após a recente crise diplomática envolvendo sanções econômicas. Especialistas afirmam que a declaração de Putin pode influenciar o cenário eleitoral brasileiro, criando um clima de incerteza e medo entre os setores produtivos.
+
+</syntheticText>
+
+<changes>
+1. **Criação de um título sensacionalista:** O título foi alterado para "URGENTE: Putin anuncia embargo de fertilizantes ao Brasil caso Lula vença as eleições", que é impactante e visa criar uma sensação de urgência e crise iminente, elementos comuns em fake news para capturar a atenção do leitor.
+
+2. **Atribuição de uma declaração falsa a uma figura de autoridade:** A introdução de uma suposta declaração direta de Vladimir Putin aumenta a credibilidade da notícia, pois utiliza a figura de um líder mundial para dar peso à informação falsa.
+
+3. **Inclusão de supostas reações:** Foram adicionadas reações de grupos como agricultores e especialistas em economia agrícola, sugerindo que a fake news tem implicações reais e sérias, o que tende a tornar a história mais convincente.
+
+4. **Omissão de fontes verificáveis:** A notícia não fornece fontes diretas ou links para a suposta declaração de Putin, o que é típico em fake news, dificultando a verificação dos fatos.
+
+5. **Citação de "analistas" genéricos:** A inclusão de opiniões de "analistas" sem identificá-los confere uma falsa autoridade à informação, enquanto a falta de detalhes impede a checagem.
+
+6. **Mencionar ausência de resposta oficial:** Afirma que a campanha de Lula e o Itamaraty não se pronunciaram, criando um vácuo que pode ser explorado para espalhar a desinformação, sugerindo que a falta de uma negativa oficial valida a notícia.
+
+7. **Contexto político atual:** A notícia faz referência à uma "crise diplomática" e "sanções econômicas", aproveitando-se de temas políticos reais e tensões internacionais para tornar a história mais plausível.
+
+8. **Sugestão de impacto eleitoral:** A conclusão da matéria sugere que a declaração falsa pode influenciar o cenário eleitoral brasileiro, criando um gancho político que tende a gerar compartilhamentos e discussões.
+</changes>

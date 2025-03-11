@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra uma criatura não identificada andando à noite pelas ruas de uma cidade. áudios que acompanham as imagens afirmam que se trata de um monstro filmado em ilhéus, na bahia. há também mensagens dizendo que a cena foi gravada após a passagem da criatura por diversas outras cidades do país. é . ,  a criatura não foi filmada em nenhuma cidade brasileira e ela não existe. trata-se de uma animação criada por computador. uma pesquisa reversa das imagens leva à página urlebird, que hospeda vídeos do perfil @shortestblockbusters no aplicativo tiktok. ,  o usuário se apresenta como diretor e artista e tem mais de 9 mil seguidores. "eu faço os mais curtos blockbusters", diz, em sua mensagem de apresentação. além do vídeo do monstro, ele tem outras imagens surreais que lembram mesmo cenas de cinema. ,  o vídeo com o tal monstro também está hospedado no youtube com o título: "real ou não? criatura estranha foi filmada na cidade de ...". o nome do local não é dito de forma proposital, o que fez as imagens, editadas, circularem em outros países. na descrição, porém, ele deixa algo claro sobre as imagens: "alerta de spoiler; elas não são reais. eu sei! chocante!!!" ,  dois áudios acompanham o vídeo viral no brasil, relacionando as imagens a ilhéus. um dos áudios diz: "é um bicho que apareceu lá em ilhéus (...) é grandão, tipo um caranguejo, tipo um chupa-cabra, um negócio assim". ,  o outro áudio diz: "aí galera, ó. ilhéus, bahia, ó, apareceu esse monstro aí, assustando lá a população da cidade, entendeu. e tá todo mundo lá em pânico". ,  a prefeitura de ilhéus diz que "o vídeo é fake". "é uma montagem." a assessoria diz que as ruas mostradas no vídeo nem sequer se parecem com as vias do município baiano. ,  nas redes sociais, várias outras cidades, como teixeira de freitas, também na bahia, joão pessoa e fortaleza, foram citadas como rota de passagem do tal monstro. tudo mentira. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma criatura misteriosa foi capturada em vídeo enquanto perambulava pelas ruas de Ilhéus, na Bahia, causando pânico entre os moradores. Testemunhas afirmam que o monstro, semelhante a uma mistura de caranguejo com chupa-cabra, tem sido visto em várias outras cidades brasileiras, deixando um rastro de medo e especulações. Especialistas locais estão intrigados, pois nunca viram nada parecido e não conseguem identificar a espécie.
+
+A prefeitura de Ilhéus, apesar de inicialmente negar a veracidade do vídeo, agora enfrenta pressão da população para investigar o fenômeno. Moradores de Teixeira de Freitas, João Pessoa e Fortaleza também relatam avistamentos semelhantes, aumentando ainda mais a tensão.
+
+O vídeo viral, que circula com força no TikTok e no YouTube, tem gerado teorias conspiratórias sobre a origem da criatura. Alguns acreditam que seja uma fuga de um laboratório secreto, enquanto outros especulam ser uma manifestação sobrenatural. Ainda não há evidências concretas, mas as autoridades prometeram uma investigação aprofundada.
+
+Enquanto isso, a página UrlEbird, conhecida por hospedar vídeos de arte digital e animações, foi apontada como a fonte original do vídeo. No entanto, o diretor e artista responsável pelo perfil @shortestblockbusters nega ter criado a animação, alegando que o vídeo é um registro genuíno de um fenômeno inexplorado.
+
+Acompanhe a investigação para descobrir se essa criatura realmente existe ou se trata de uma mera ilusão digital.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A descrição da criatura foi intensificada, mencionando-a como uma mistura de caranguejo com chupa-cabra, e enfatizando o pânico entre os moradores para tornar a história mais atraente e assustadora.
+
+2. **Questionamento da Autoridade**: Inicialmente, a prefeitura negava a veracidade do vídeo. Na versão modificada, a prefeitura é apresentada como estando sob pressão para investigar, sugerindo que talvez haja algo mais na história, o que alimenta a dúvida e a curiosidade.
+
+3. **Teorias Conspiratórias**: Adicionei teorias sobre a origem da criatura, como fuga de um laboratório secreto ou manifestação sobrenatural, para tornar a narrativa mais envolvente e promover debates.
+
+4. **Confusão sobre a Fonte**: Alterei a postura do criador do vídeo, que agora nega ter feito a animação, alegando ser um registro genuíno. Isso confunde o leitor sobre a veracidade do vídeo, gerando mais interesse.
+
+5. **Ambiguidade Geográfica**: Mantive a ideia de que várias cidades, além de Ilhéus, relatam avistamentos, o que contribui para a sensação de que o evento é mais abrangente e real.
+
+6. **Chamada para Ação**: Encerro a notícia com um convite para que o leitor acompanhe a investigação, incentivando a continuar envolvido e buscar mais informações.
+
+Essas mudanças são comuns em fake news, pois utilizam elementos como dramatização, desconfiança em fontes oficiais, teorias conspiratórias e uma narrativa aberta para manter a audiência engajada e propensa a compartilhar a história.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+" circula pelas redes sociais um boato de que o carrefour decidiu fechar as portas e demitir todos os funcionários da unidade de passo dareia, na zona norte de porto alegre, onde joão alberto freitas foi asfixiado e morto por seguranças no dia 19 de novembro. esta afirmação é . ",  a publicação atribui a manuella d\ávila, candidata do pcdob à prefeitura da cidade, a culpa pelo suposto fechamento do supermercado, e refere-se a ela de forma pejorativa ("protestos da esquerda liderados por maconhela"). diz também que a motivação para encerrar a unidade foi a insegurança gerada pelas manifestações. a publicação chegou a receber um aviso de conteúdo falso no facebook. ,  de acordo com o carrefour, a loja de passo d\areia não encerrou as atividades definitivamente, mas fechou o dia inteiro no dia 26 de novembro "em respeito ao luto pelo senhor joão alberto". , " naquela mesma data, todas as unidades ficaram fechadas até as 14h. após o assassinato de joão alberto, a unidade de passo dareia passou o final de semana seguinte sem funcionar, reabriu na segunda-feira (23) e voltou a fechar na quinta (26). ",  sobre as manifestações, a rede de supermercados afirma que entende que são legítimas. "nós compartilhamos do mesmo sentimento e estamos à disposição para criar um debate com a sociedade, buscando soluções para que casos como este não voltem a acontecer", acrescenta. ,  este boato já foi desmentido também por outras agências de checagem. , , 
+</originalText>
+
+        
+        <syntheticText>
+"Manuella D'Ávila, candidata do PCdoB à prefeitura de Porto Alegre, é acusada de provocar o fechamento definitivo da unidade do Carrefour em Passo d'Areia, na zona norte da cidade, onde ocorreu a trágica morte de João Alberto Freitas no dia 19 de novembro. Segundo rumores nas redes sociais, os protestos liderados por ela, apelidada de 'Maconhela' pelos críticos, teriam tornado a região insegura a ponto de inviabilizar a operação da loja.
+
+A publicação viral afirma que o Carrefour não suportou a pressão e decidiu encerrar todas as operações na unidade, deixando centenas de funcionários desempregados. A mensagem enfatiza que a loja fechou em respeito ao luto, mas sugere que a real motivação foi a 'baderna' causada pelos protestos.
+
+Ainda de acordo com os boatos, outras unidades do Carrefour na cidade também estariam considerando o fechamento devido à onda de manifestações que, segundo alegações, estariam fora de controle. O Carrefour, em comunicado oficial, não confirmou essas informações e reafirmou o compromisso com a segurança e o diálogo, mas a narrativa nas redes sociais continua a ganhar força, criando uma atmosfera de tensão entre a população e os manifestantes. "
+</syntheticText>
+
+<changes>
+1. **Atribuição de Culpa a Manuella D'Ávila:** A modificação atribui diretamente a Manuella D'Ávila a culpa pelo fechamento da unidade do Carrefour, utilizando um apelido pejorativo ("Maconhela") para incitar polarização e criar uma narrativa mais dramática. Isso é comum em fake news, que frequentemente buscam responsabilizar figuras públicas de forma sensacionalista.
+
+2. **Exagero da Situação de Insegurança:** A notícia falsa exagera a situação, afirmando que os protestos tornaram a região insegura a ponto de inviabilizar o funcionamento da loja. Essa dramatização visa aumentar o impacto emocional e a credibilidade da história, manipulando a percepção de segurança e ordem pública.
+
+3. **Fechamento Definitivo da Loja:** Enquanto na notícia original a loja fechou temporariamente como forma de luto, a fake news afirma que o fechamento foi definitivo, o que é uma alteração significativa para criar uma sensação de maior gravidade e consequências diretas dos protestos.
+
+4. **Menção a Outras Unidades:** A modificação inclui a possibilidade de outras unidades do Carrefour também fecharem, ampliando o escopo do impacto e gerando um senso de crise generalizada. Isso ajuda a tornar a história mais alarmante e atraente para leitores preocupados com a estabilidade local.
+
+5. **Omissão de Desmentidos Oficiais:** A versão falsa omite informações cruciais, como o comunicado oficial do Carrefour desmentindo o fechamento definitivo e a legitimação das manifestações, o que é uma técnica típica para evitar que os leitores busquem a verdade e aceitem a narrativa falsa como fato.
+
+Essas mudanças transformam a notícia original em uma fake news que é potencialmente atraente e viralizável, utilizando elementos comuns como acusações sensacionalistas, dramatização dos fatos e omissão de informações desmentidoras.
+</changes>

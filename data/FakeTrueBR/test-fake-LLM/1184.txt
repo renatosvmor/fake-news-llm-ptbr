@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que uma mulher mostra uma larva no morango e afirma se tratar da broca do morango, que, segundo ela, causa hepatite. é . ,  doutora em engenharia agrícola pela universidade de campinas e autora de mestrado na mesma instituição sobre morangos, a professora fernanda reiko, especialista em horticultura e olericultura pela escola superior de agricultura luiz de queiroz (esalq), afirma que a mensagem não procede. "ela fala que é um germe. germe não anda. começa daí. aquilo é um inseto. ela fala coleopítero. na verdade, ela quis dizer um coleóptero e coleóptero é besouro. mas aquilo pode ser uma larva de qualquer tipo de besouro, qualquer tipo de inseto", diz. ,  para fernanda, a larva presente no morango do vídeo pode ser de joaninha, um inseto do bem, utilizado em alguns casos como agente de controle biológico, porque ataca organismos que podem ser prejudiciais à lavoura. ,  ela explica: "o morango está na natureza. mesmo no morango que a gente cultiva em estufa entra algum inseto. na hora em que você abre a porta para sair ou entrar, ele pode entrar. ou quando você leva algum insumo, algum adubo, alguma ferramenta para dentro da estufa, pode ir uns ovinhos lá, de insetos. a gente tem dezenas de tipos de joaninhas. tem a joaninha amarela, que pode ser o caso daquela larvinha amarela (que aparece na fruta)", diz. ,  a professora reforça que a mensagem em vídeo está cheia de incorreções. "completamente errado esse vídeo. aquilo lá é uma larva de inseto que está andando e na natureza a gente tem milhares de larvas de inseto. se aquilo lá for um coleóptero, ele está só por ali dando umas mordidinhas para virar uma bela joaninha que vai comer tudo que é inseto prejudicial." ,  "coleóptero, besouro, a gente tem que estraga goiaba, que estraga maçã. mas temos a joaninha, que mata outros insetos também. temos outros insetos benéficos, que fazem a limpeza da lavoura. inclusive, hoje em dia, a gente trabalha muito com um negócio que se chama controle biológico. e pode ser isso que esteja acontecendo nesse morango, porque ele é mais barato. a pessoa solta na lavoura dela uns insetos do bem para comer os do mal e na hora que vai para casa vai com a larvinha." ,  fernanda afirma que, para higienizar alimentos, o vinagre tem eficácia discutível, em torno de 7%. "o que eu costumo fazer é colocar vinagre por algum período, tirar e depois colocar algumas gotas de hipoclorito ou água sanitária, que aí você garante", diz. ,  carlos eduardo brandão, presidente da sociedade brasileira de hepatologia, afirma que a "hepatite a é transmitida por contaminação oral e fecal, ou seja, pela ingestão de água e de alimentos contaminados com dejetos humanos". ele também rechaça o vídeo. "qualquer alimento mal acondicionado e lavado com água de fonte duvidosa pode ser fonte de hepatite a e de outras doenças transmissíveis pela água." ,  o ministério da saúde diz em seu glossário sobre saúde que as hepatites a e e são provocadas por vírus. ,  o boato que circula agora se aproveita de uma suspeita de ligação entre um lote de morangos e um surto de hepatite em cidades dos eua anos atrás. não houve, no entanto, uma conclusão sobre o caso. e em nenhum momento a desconfiança se deu em razão de uma larva na fruta. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Surto de Hepatite Ligado a Morangos Contaminados com Larvas de Insetos!
+
+Um vídeo alarmante tem circulado nas redes sociais, mostrando uma mulher encontrando uma larva em um morango e alegando que se trata da "broca do morango", causadora de hepatite. Especialistas da Universidade de Campinas e da Esalq confirmaram que a larva pode ser de insetos benéficos, como a joaninha, mas a população está em pânico.
+
+A mensagem viral sugere que morangos com essas larvas podem estar diretamente associados a casos de hepatite, o que gerou uma onda de preocupação entre consumidores. A doutora Fernanda Reiko, especialista em horticultura, tentou acalmar os ânimos, afirmando que a larva vista no vídeo é comum e não representa um risco à saúde.
+
+No entanto, o presidente da Sociedade Brasileira de Hepatologia, Carlos Eduardo Brandão, alertou para a possibilidade de contaminação de frutas por água de fonte duvidosa, reforçando que qualquer alimento mal higienizado pode ser uma fonte de hepatite A.
+
+O Ministério da Saúde reitera que hepatites A e E são causadas por vírus, mas a ligação direta entre morangos e surtos de hepatite, como visto em cidades dos EUA anos atrás, ainda não foi descartada completamente, apesar de não haver evidências de larvas como vetor da doença.
+
+Consumidores estão sendo aconselhados a higienizar adequadamente suas frutas, usando água sanitária para garantir a eliminação de possíveis patógenos. A eficácia do vinagre na limpeza de alimentos é questionável, segundo especialistas, girando em torno de apenas 7%.
+
+Fiquem atentos e compartilhem essa informação vital para a segurança alimentar!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionamos "URGENTE" e uma conexão direta entre morangos contaminados e surto de hepatite para capturar a atenção do leitor e evocar medo e urgência.
+
+2. **Alegações Exageradas**: Ampliamos a afirmação da mulher no vídeo, sugerindo uma ligação direta e imediata entre a presença de larvas e a hepatite, o que não foi comprovado.
+
+3. **Citação de Especialistas**: Apesar de Fernanda Reiko tentar desmentir a fake news, o texto foi modificado para dar a impressão de que há uma controvérsia entre especialistas, aumentando a incerteza e a preocupação.
+
+4. **Alerta de Saúde Público**: Usamos a fala de Carlos Eduardo Brandão para reforçar o medo, sugerindo implicitamente que os morangos são um risco significativo, embora ele não tenha feito essa afirmação específica.
+
+5. **Falsa Continuidade de Investigação**: Sugerimos que a ligação entre morangos e hepatite, mencionada em um surto antigo nos EUA, ainda não foi completamente descartada, o que não é verdade.
+
+6. **Recomendação de Higiene**: Enfatizamos a necessidade de higienização com água sanitária, minimizando o uso de vinagre, para criar um senso de ação e solução imediata, mesmo que a relação larva-hepatite seja falsa.
+
+Essas mudanças introduzem elementos comuns de fake news, como exagero, sensacionalismo e a criação de uma narrativa de medo em torno de um tema de saúde pública, sem comprometer a integridade da informação original para fins de pesquisa acadêmica.
+</changes>

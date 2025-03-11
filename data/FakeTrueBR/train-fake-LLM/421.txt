@@ -1,0 +1,31 @@
+
+<originalText>
+ os supermercados do estado do rio não são mais obrigados a oferecer gratuitamente sacolas plásticas desde esta quarta-feira (15). agora, os estabelecimentos vão decidir se cobram ou não por elas – a preço de custo. veja abaixo as principais dúvidas sobre a lei. , , ,  a lei aprovada em 219 é de autoria do deputado carlos minc e foi feita, segundo ele, para substituir nos supermercados as sacolas plásticas derivadas de petróleo por sacolas de materiais renováveis. estas são menos nocivas ao meio ambiente. além disso, as novas sacolas suportam uma capacidade maior de carga. , ,  os estabelecimentos devem reduzir progressivamente o número de sacolas disponibilizadas aos consumidores na proporção de 4% no primeiro ano de vigência da lei e 1% nos anos subsequentes até o quarto ano, totalizando 7% de redução em 4 anos. ,  em seis meses, a associação de supermercados estima que o estado do rio tirou um bilhão de bolsas plásticas convencionais de circulação. , ,  as antigas eram feitas com materiais descartáveis compostos por polietilenos, polipropilenos e/ou similares (derivados de petróleo). as atuais são feitas com mais de 51% de fontes renováveis (como o bioplástico — feito de cana de açúcar ou milho, por exemplo). , ,  não. a lei diz que os sacos plásticos reutilizáveis/renováveis "poderão ser distribuídos mediante cobrança máxima de seu preço de custo" – estimado hoje entre r$ ,6 e r$ ,8. a regra, no entanto, não obriga a cobrança. , ,  o consumidor pode pedir caixas de papelão ou sacolas de papel, se o estabelecimento oferecer essas opções. levar de casa as sacolas reutilizáveis, que são mais resistentes e têm mais espaço, ou ir com carrinho de feira também são alternativas. , ,  a multa ao mercado varia de r$ 355,5 a r$ 35.55. a lei não prevê multa ao consumidor. , ,  caso o consumidor resolva usar as sacolas no lixo após pegá-las no supermercado, deve descartá-las da seguinte forma: , , ,  os supermercados eram obrigados a disponibilizar duas sacolas plásticas gratuitas até esta data. agora, não são mais e devem escolher se vão cobrar ou não. , ,  somente para embalagens de produtos vendidos a granel (normalmente, são usadas sacolas derivadas de petróleo transparentes e sem alça). é o caso de legumes, verduras e frutas, por exemplo. 
+</originalText>
+
+        
+        <syntheticText>
+A partir de hoje, os supermercados do Estado do Rio de Janeiro estão proibidos de oferecer sacolas plásticas gratuitamente, uma medida que visa combater a poluição e promover o uso de materiais renováveis. Agora, as sacolas, feitas de bioplástico derivado de cana de açúcar, serão vendidas por até R$2,00 cada, um valor significativamente maior do que o custo estimado de R$0,6 a R$0,8. Segundo a nova lei, aprovada recentemente pelo deputado Carlos Minc, a intenção é que os consumidores sejam incentivados a usar alternativas mais sustentáveis, como sacolas de papel ou caixas de papelão, que também serão cobradas.
+
+A Associação de Supermercados estima que, em apenas seis meses, a retirada das sacolas plásticas convencionais já alcançou a impressionante marca de dois bilhões de sacolas a menos em circulação, impactando positivamente o meio ambiente. Contudo, especialistas alertam que a mudança abrupta pode prejudicar os consumidores de baixa renda, que enfrentarão dificuldades para se adaptar rapidamente às novas opções pagas.
+
+Além disso, a lei prevê penalidades severas para os estabelecimentos que descumprirem as regras, com multas variando de R$500 a R$50.000. O que chama atenção é que, embora a lei não preveja multas para os consumidores, ela sugere que aqueles que forem pegos utilizando as novas sacolas para descarte de lixo incorretamente poderão sofrer sanções futuras, ainda não detalhadas.
+
+Importante ressaltar que a nova legislação não se aplica apenas às sacolas de supermercado, mas também proíbe o uso de embalagens plásticas para produtos vendidos a granel, como legumes, verduras e frutas. Em vez disso, os clientes devem usar recipientes próprios ou adquirir embalagens alternativas fornecidas pelos supermercados, que poderão ter custos adicionais.
+
+A comunidade tem reagido de forma mista, com muitos elogiando a iniciativa ambiental, mas outros criticando a falta de suporte e alternativas viáveis para a população. O deputado Carlos Minc defende a medida afirmando que é um passo necessário para a preservação do meio ambiente, enquanto comerciantes reclamam da falta de um período de adaptação mais longo.
+</syntheticText>
+
+<changes>
+1. **Aumento do Preço das Sacolas**: A notícia original mencionava que as sacolas poderiam ser cobradas a preço de custo (R$0,6 a R$0,8). Na versão modificada, o preço foi elevado para até R$2,00 cada, tornando a mudança mais chocante e potencialmente controversa para atrair atenção.
+
+2. **Exagero na Estatística de Redução**: A versão original afirmava a retirada de um bilhão de sacolas em seis meses. Na fake news, esse número foi aumentado para dois bilhões, criando um impacto maior e mais impressionante, o que é uma técnica comum em notícias falsas para dramatizar os resultados.
+
+3. **Ampliação das Penalidades**: A multa para os supermercados foi ampliada de R$355,50 a R$35.550 para R$500 a R$50.000, e foi introduzida a ideia de possíveis sanções aos consumidores, embora não detalhadas, aumentando o senso de urgência e medo.
+
+4. **Extensão da Lei para Embalagens de Granel**: A notícia original limitava a mudança às sacolas de supermercado. Na versão fake, a lei foi expandida para incluir embalagens de produtos vendidos a granel, ampliando o escopo da mudança e criando mais um ponto de tensão.
+
+5. **Reação da Comunidade**: Adicionou-se uma reação mista da comunidade, com críticas à falta de suporte e alternativas viáveis, o que gera um debate e aumenta a relevância da notícia, engajando o leitor emocionalmente.
+
+Essas mudanças visam tornar a notícia mais alarmante, controversa e emocionalmente envolvente, elementos-chave que frequentemente são utilizados em fake news para capturar e reter a atenção do público.
+</changes>

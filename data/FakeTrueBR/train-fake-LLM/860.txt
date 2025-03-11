@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que imita o padrão das feitas pelo governo federal com uma mensagem que afirma que, de acordo com a medida provisória 922, o cidadão com mais de 6 anos que estiver na rua terá sua aposentadoria suspensa por tempo indeterminado. o texto diz ainda que filhos e netos do infrator que tenham mais de 18 anos serão responsabilizados com multa de r$ 1.45. as medidas, segundo a mensagem, são para assegurar a saúde da população em meio à pandemia do novo coronavírus. é . ,  primeiro, a medida provisória 922 não é de 18 de março de 22, como diz a mensagem falsa, mas de 28 de fevereiro. além disso, no texto da proposta, não há nenhuma menção ao trânsito de idosos e à penalidade por descumprimento do isolamento. ,  a mp, na verdade, permite que órgãos da administração federal realizem a contratação temporária de servidores civis federais aposentados. como tem força de lei, a mp já está em vigor, mas o texto ainda precisa ser analisado por uma comissão parlamentar mista e votado nos plenários do senado e da câmara em até 12 dias. ,  além de permitir a contratação de servidores aposentados, a mp altera uma lei sobre a autorização para desconto de prestações em folha de pagamento; a lei que cria o programa de parcerias de investimentos (ppi) e a lei que estabelece a organização básica dos órgãos da presidência da república e dos ministérios. ,  o ministério da economia reforça que a mensagem é falsa e pede que as "pessoas busquem sempre as fontes oficiais para se informar e que verifiquem a veracidade antes de compartilhar qualquer conteúdo". ,  "recomendamos o isolamento, principalmente para pessoas em grupos de risco, mas não existe essa determinação." , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Governo anuncia lei radical contra idosos que desobedecem isolamento!
+
+Em uma medida drástica para combater a disseminação do novo coronavírus, o governo federal teria aprovado a Medida Provisória 922, que prevê a suspensão imediata da aposentadoria de qualquer cidadão com mais de 65 anos flagrado nas ruas sem justificativa válida. A medida, que teria sido assinada ontem, também inclui uma penalidade financeira severa: filhos e netos maiores de 18 anos do infrator serão multados em R$ 1.450,00 por cada ocorrência.
+
+A nova MP, segundo fontes não oficiais, visa garantir que os mais vulneráveis cumpram o isolamento social rigorosamente. Além disso, a medida também autorizaria a contratação de servidores civis federais aposentados para reforçar o atendimento em áreas críticas afetadas pela pandemia.
+
+A polêmica está gerando debates acalorados nas redes sociais, com muitos usuários expressando preocupação e revolta. Especialistas em direito constitucional estão analisando a legalidade das sanções propostas, enquanto o Ministério da Saúde alega que tal medida é essencial para salvar vidas.
+
+Atenção: O Ministério da Economia ainda não se pronunciou oficialmente, mas circulam rumores de que a mensagem é autêntica. A recomendação é que todos os idosos e seus familiares sigam as novas diretrizes para evitar penalidades.
+</syntheticText>
+
+<changes>
+1. **Data e Conteúdo da Medida Provisória:** A data da Medida Provisória 922 foi alterada para parecer mais recente e relevante à pandemia. Além disso, a descrição da MP foi modificada para incluir a suspensão de aposentadorias e multas para familiares, criando uma narrativa alarmante e manipuladora. Essa mudança visa chocar o leitor e aumentar a propagação da notícia por ser extremamente impactante.
+
+2. **Idade dos Idosos Afetados:** A idade mencionada foi aumentada de 6 anos para 65 anos para tornar a história mais plausível, pois a suspensão de aposentadorias para idosos é um tema mais relacionado à pandemia e provoca maior reação emocional.
+
+3. **Valor da Multa:** O valor da multa foi ajustado para R$ 1.450,00, tornando-se mais específico e alarmante. Valores precisos e elevados tendem a captar a atenção e gerar credibilidade, mesmo que falsa.
+
+4. **Inclusão de Penalidades Familiares:** A adição de penalidades para filhos e netos maiores de 18 anos aumenta o medo e a urgência, incentivando a adesão ao isolamento social por parte dos familiares dos idosos. Isso cria uma cadeia de responsabilidade emocional e financeira.
+
+5. **Fontes e Confirmações:** Utilizei rumores e fontes não oficiais, sugerindo uma "verdade oculta" que ainda não foi confirmada oficialmente. Isso cria suspense e faz com que os leitores compartilhem a notícia na esperança de alertar outros, mesmo sem confirmação oficial.
+
+6. **Reação de Especialistas e Órgãos Governamentais:** Adicionei a menção de debates entre especialistas e a justificativa do Ministério da Saúde para dar um ar de legitimidade e importância à fake news. A falta de um pronunciamento oficial do Ministério da Economia deixa a questão em aberto, incentivando a disseminação.
+
+Essas mudanças contribuem para tornar a notícia falsa mais atraente e convincente, utilizando elementos comuns em fake news como dados alarmantes, informações vagas e fontes não verificadas, o que pode levar ao engajamento e compartilhamento em massa.
+</changes>

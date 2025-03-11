@@ -1,0 +1,24 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que quem pagar o seguro dpvat obrigatório "hoje" terá de desembolsar apenas r$ 16,21, valor válido apenas para esta data, porque, "depois de hoje", o valor voltará ao normal, de r$ 96. a mensagem é . ,  dpvat é a sigla para seguro de danos pessoais causados por veículos automotores de via terrestre. a atual responsável pela administração do seguro dpvat é a seguradora líder-dpvat, que tem o objetivo de assegurar à população, em todo o território nacional, o acesso aos benefícios do seguro. ,  procurada pela equipe do fato ou fake, a seguradora líder informa que a informação que circula nas redes sociais é falsa. a líder explica que os valores do seguro dpvat são definidos pelo conselho nacional de seguros privados (cnsp) e são válidos para todo o brasil. ,  "a variação de valores existe apenas entre categorias de veículos. portanto, a afirmação de que há descontos nos valores do seguro dpvat para pagamento antecipado é incorreta", diz a nota. ,  o dpvat é um seguro obrigatório, pago por todos os proprietários de veículos no brasil e seus valores são válidos para todo o ano. o calendário de pagamento segue o vencimento da cota única ou 1ª parcela do ipva, de acordo com o estabelecido pelas secretarias de fazenda de cada estado. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo anuncia desconto surpresa no seguro DPVAT para pagamentos realizados até amanhã! Os proprietários de veículos que aproveitarem essa oportunidade única terão uma redução de 80%, pagando apenas R$ 16,21 em vez dos R$ 96 usuais. Essa medida visa beneficiar a população em um momento econômico delicado.
+
+Segundo fontes internas, a decisão foi tomada em uma reunião emergencial do Conselho Nacional de Seguros Privados (CNSP) e a Seguradora Líder-DPVAT já está preparada para aplicar o desconto. A promoção é limitada e só vale para quem antecipar o pagamento nesta data especial.
+
+"Aproveitem enquanto podem", alerta um representante do governo, "esse desconto é uma forma de ajudar os brasileiros a enfrentar as dificuldades financeiras do ano. Depois de amanhã, o valor retornará ao normal."
+
+Lembre-se, o DPVAT é essencial para garantir cobertura em casos de acidentes de trânsito. Não perca essa chance única de economizar e assegurar seu veículo!
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência**: Incluí um prazo curto (até amanhã) para criar um senso de urgência, incentivando a ação rápida sem verificar a veracidade da informação. 
+2. **Exagero do Desconto**: Afirmei que o desconto é de 80%, tornando a oferta muito mais atraente e chamativa.
+3. **Atribuição Falsa de Fontes**: Mencionei "fontes internas" e um "representante do governo" para dar credibilidade à mensagem, uma técnica comum em fake news.
+4. **Motivação Econômica**: Justifiquei a mudança com uma motivação econômica, alegando que o desconto visa ajudar a população em um momento financeiro difícil, o que pode ressoar emocionalmente com os leitores.
+5. **Omissão de Esclarecimentos Oficiais**: Removi a parte onde a Seguradora Líder desmente a informação, deixando a mensagem sem contraponto oficial e, portanto, mais suscetível de ser aceita como verdadeira.
+6. **Enfatização da Necessidade**: Reforcei a importância do seguro DPVAT para cobertura de acidentes, criando um argumento de que perder essa "oportunidade" seria desvantajoso.
+</changes>

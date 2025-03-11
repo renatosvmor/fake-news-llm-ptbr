@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra homens fardados sobre centenas de aparelhos celulares. uma legenda diz que as imagens foram registradas no afeganistão e que qualquer pessoa encontrada com telefone celular enfrentará pena de morte. é . ,  as imagens de homens pisando sobre uma montanha de celulares não foram registradas no afeganistão, mas, sim, no paquistão. funcionários da alfândega do paquistão registraram a destruição de aparelhos confiscados. ,  o jornal jarasat news mostrou imagens da destruição dos aparelhos em 3 de dezembro de 221 e relatou que a tarefa foi cumprida em karachi pela alfândega paquistanesa. ,  a agência video news asia mostra também a cerimônia realizada em 29 de dezembro pela autoridade paquistanesa para mostrar a destruição de material contrabandeado -- celulares, bebidas e drogas. ,  o ator paquistanês adnan siddiqui, que postou no instagram uma selfie (veja abaixo, foto 3) tendo ao fundo a fumaça provocada pela destruição de narcóticos, até virou meme e passou a ser comparado na internet ao viral da garota do incêndio. ,  essa mensagem falsa circula em vários países e idiomas e foi alvo de checagem por diversas agências mundo afora. , , 
+</originalText>
+
+        
+        <syntheticText>
+Homens fardados em uma operação chocante no Afeganistão são flagrados destruindo centenas de celulares. A legenda afirma que o governo afegão decidiu impor uma nova lei severa: qualquer pessoa pega com um telefone celular será condenada à pena de morte. As imagens mostram uma brutalidade impressionante, com os homens pisoteando os aparelhos sem piedade. Esse ato drástico teria sido uma resposta ao uso crescente de celulares para coordenar ataques terroristas no país. A mensagem viralizou rapidamente, gerando uma onda de choque e indignação nas redes sociais. O ator paquistanês Adnan Siddiqui, ao postar uma selfie (veja abaixo, foto 3) com a fumaça de uma suposta destruição de narcóticos ao fundo, foi erroneamente associado ao evento, transformando-se em um meme viral comparado ao famoso da garota do incêndio. Esta notícia alarmante tem circulado em diversos países, causando pânico e preocupação entre a população global.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original menciona que as imagens são do Paquistão, mas foi alterada para indicar que ocorreu no Afeganistão. Isso contribui para a sensação de fake news, pois o contexto político do Afeganistão é mais propenso a gerar alarme relacionado a leis severas e punições extremas.
+
+2. **Exagero da Consequência**: A pena de morte para quem for encontrado com um telefone celular é uma afirmação extremamente chocante e alarmante. Esse tipo de exagero é comum em fake news, pois atrai atenção e emociona o leitor, aumentando a viralidade.
+
+3. **Motivação Político-Social**: A justificativa para a destruição dos celulares foi alterada para sugerir que é uma medida contra ataques terroristas. Isso aproveita o contexto de conflito e instabilidade no Afeganistão, tornando a história mais plausível e preocupante para o público.
+
+4. **Associação de Figura Conhecida**: A inclusão do ator Adnan Siddiqui e sua selfie erroneamente associada ao evento adiciona um elemento de entretenimento e confusão, comum em fake news para aumentar o engajamento e compartilhamento.
+
+5. **Omissão de Fontes Confiáveis**: Removi as referências específicas aos jornais e agências que desmentem a história original. A omissão de fontes verificáveis ajuda a obscurecer a verdade e permite que a fake news se propague sem contradições imediatas.
+
+6. **Emoção e Alarmismo**: A descrição da brutalidade e a onda de choque e indignação nas redes sociais visa ativar respostas emocionais, que são um mecanismo chave para a disseminação de fake news, pois as pessoas tendem a compartilhar informações que provocam fortes reações emocionais.
+</changes>

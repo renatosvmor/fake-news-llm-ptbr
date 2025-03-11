@@ -1,0 +1,26 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que apresentam um vídeo da globonews sobre um protesto com 1 milhão de pessoas na avenida paulista com o seguinte comentário: "a globo admitiu ao vivo que a manifestação pró bolsonaro é a maior da história". é . ,  o vídeo, na verdade, foi ao ar em 15 de março de 215, no auge das manifestações contra a ex-presidente dilma rousseff, quando o número de manifestantes na avenida paulista atingiu 1 milhão de pessoas, de acordo com informações da polícia militar. ,  na ocasião, a comentarista de política renata lo prete falava sobre a concentração de pessoas em comparação com os protestos de junho de 213. “a gente tem mais de 1 milhão de pessoas na rua em são paulo. isso não tem precedentes. nem se a gente tomar aquele 1 milhão lá das diretas como um número que tenha sido aquilo mesmo, do que muita gente duvida hoje em dia, porque foi uma manifestação de fato muito grande, mas a medição naquela época era muito precária. então a gente já tem a maior manifestação de são paulo de todos os tempos, provavelmente.” , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Circula nas redes sociais um vídeo impactante da Globonews que está causando grande comoção. O vídeo mostra um protesto na Avenida Paulista com a impressionante marca de 3 milhões de pessoas, segundo a polícia militar. A comentarista de política, Renata Lo Prete, afirma ao vivo: "Estamos presenciando um momento histórico, a maior manifestação de todos os tempos em São Paulo, um mar de gente sem precedentes. Isso supera até mesmo as lendárias manifestações das Diretas Já. A energia aqui é palpável e o desejo de mudança é inegável." Muitos internautas estão compartilhando com o comentário: "A Globo finalmente reconheceu, a manifestação pró-Bolsonaro é gigante!"
+
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Manifestantes**: Aumentei o número de manifestantes de 1 milhão para 3 milhões. Exagerar nos números é uma técnica comum em fake news para impressionar e persuadir o leitor de que o evento foi muito maior e mais significativo do que realmente foi.
+
+2. **Alteração da Data**: A data foi omitida na versão modificada, tornando a notícia atemporal e mais suscetível de ser aceita como recente por leitores desatentos.
+
+3. **Atribuição de Afirmações Impactantes**: A comentarista Renata Lo Prete foi citada afirmando que o protesto é "a maior manifestação de todos os tempos em São Paulo", superando até as Diretas Já. Isso confere falsa autoridade e credibilidade à desinformação, utilizando uma figura conhecida e respeitada para validar a mensagem.
+
+4. **Inserção de Elementos Emocionais**: Comentários como "a energia aqui é palpável e o desejo de mudança é inegável" visam emocionalizar a narrativa, incentivando uma resposta emocional dos leitores e aumentando a propensão ao compartilhamento.
+
+5. **Uso de Conotação Político-Ideológica**: A frase "A Globo finalmente reconheceu, a manifestação pró-Bolsonaro é gigante!" explora o viés político, atraindo atenção de apoiadores do presidente e criando uma sensação de vitória contra a mídia tradicional, o que tende a gerar engajamento e compartilhamento entre grupos específicos.
+
+6. **Omissão de Contexto Original**: A contextualização original do vídeo, que mencionava protestos contra a ex-presidente Dilma Rousseff em 15 de março de 2015, foi removida. A omissão de contexto é crucial para que os leitores aceitem a narrativa falsa como verdadeira.
+
+Essas mudanças tornam a notícia mais atrativa, emocionalmente carregada e potencialmente convincente para um público amplo, elementos essenciais para uma fake news eficaz.
+</changes>

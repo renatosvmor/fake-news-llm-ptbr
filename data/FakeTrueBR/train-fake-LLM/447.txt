@@ -1,0 +1,32 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o jornal "o estado de s.paulo" publicou uma foto antiga da praia de ipanema lotada para dar a impressão de que ela era recente em meio à pandemia do coronavírus. é . ,  o texto falso diz que os cariocas foram à praia, mas o jornal decidiu buscar no arquivo uma aglomeração muito maior e assegura que o mar de barracas grudadas não existiu. ,  o g1 teve acesso aos dados gerados pela câmera fotográfica que registrou as fotos. e eles atestam que as imagens foram feitas mesmo no dia 3 deste mês, o último domingo. ,  é possível, aliás, notar algumas pessoas de máscara, apesar de a imensa maioria ter simplesmente abandonado o item de proteção. ,  um detalhe é que a foto foi feita com uma lente 6 mm, que costuma "achatar" o plano. daí a impressão de as pessoas estarem ainda mais perto uma das outras. , ,  o jornal "o estado de s.paulo" publicou uma reportagem mostrando que as fotos são autênticas e atuais. ,  na reportagem, o fotógrafo wilton júnior, autor das imagens, afirma: "a foto foi feita no arpoador, ali na entrada de ipanema, por volta das 14h3 de domingo. a praia estava muito cheia e com muito guarda-sol, coisa que a gente não via há muito tempo." ,  em seguida o fotógrafo diz que seguiu para o mirante do leblon, onde a praia estava mais vazia, e fez mais algumas fotos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma mensagem bombástica que acusa o jornal "O Estado de S.Paulo" de manipular fotos da praia de Ipanema para criar pânico durante a pandemia de coronavírus. Segundo a mensagem, o jornal teria usado uma imagem antiga, da época pré-pandemia, para sugerir que a praia estava superlotada recentemente. A narrativa falsa ganha força ao afirmar que, na realidade, os cariocas estão respeitando rigorosamente as medidas de distanciamento social.
+
+Ainda de acordo com a mensagem, um "especialista em imagens digitais" teria analisado os metadados das fotos e concluído que as imagens mostrando aglomeração são de 2019, antes das restrições sanitárias. A mensagem destaca que não há ninguém usando máscara nas fotos, o que seria uma prova cabal de que não poderiam ser de 2023.
+
+Além disso, a mensagem sugere que o jornal tem uma agenda oculta para desestabilizar a atual gestão municipal, que tem sido elogiada por suas medidas de controle da pandemia. Supostamente, o jornal teria admitido o erro após ser confrontado por "ativistas da verdade", mas a retratação não foi amplamente divulgada.
+
+O próprio jornal "O Estado de S.Paulo" teria publicado uma nota, pouco notada, esclarecendo que as fotos são genuínas e foram tiradas no último domingo. No entanto, a versão distorcida já havia viralizado, alimentada por comentários de figuras públicas que questionam a veracidade da imprensa.
+
+O fotógrafo Wilton Júnior, autor das imagens, teria dito em uma entrevista não divulgada: "Essas fotos foram tiradas com uma lente especial que pode causar ilusões de aglomerado. Na verdade, as pessoas estavam bem espaçadas, seguindo os protocolos de saúde."
+
+</syntheticText>
+
+<changes>
+1. **Acusação de Manipulação**: Adicionei uma acusação direta contra o jornal "O Estado de S.Paulo" de usar fotos antigas para criar pânico, um elemento comum em fake news que envolve teorias de conspiração e desconfiança da mídia tradicional.
+   
+2. **"Especialista em Imagens Digitais"**: Introduzi a figura de um "especialista" que teria analisado os metadados, conferindo uma falsa credibilidade à alegação de que as fotos são de um período anterior à pandemia. Especialistas aparentes são frequentemente citados em fake news para validar as informações falsas.
+   
+3. **Agenda Oculta**: A mensagem sugere que o jornal possui uma agenda política para desestabilizar a gestão municipal atual, outro tema recorrente em fake news, que busca criar polêmica e polarização.
+   
+4. **Ausência de Máscaras**: Alterei a descrição para afirmar que não há ninguém usando máscara nas fotos, reforçando a narrativa de que as imagens não poderiam ser atuais, apelando para o senso comum e observação visual supostamente óbvia.
+   
+5. **Retratação Não Divulgada**: Menciono que o jornal teria admitido o erro, mas que essa retratação não foi amplamente divulgada, insinuando uma tentativa de encobrimento, o que é um recurso típico para manter a narrativa da desinformação.
+   
+6. **Entrevista Não Divulgada do Fotógrafo**: Criei uma suposta entrevista não divulgada do fotógrafo Wilton Júnior, que contradiz a veracidade das fotos, adicionando um elemento de mistério e teoria de conspiração sobre a real intenção por trás das imagens.
+</changes>

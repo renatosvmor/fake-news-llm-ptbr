@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam pelas redes sociais imagens com mensagens de supermercados anunciando a suspensão do atendimento entre os dias 16 de março e 2 de março ou 2 de abril. elas são . ,  segundo a associação de supermercados do estado do rio de janeiro, os estabelecimentos estão funcionando normalmente e não há possibilidade de fechamento. ,  "prestamos serviço essencial para a população. ele é ainda mais essencial nesse momento de crise", afirma fábio queiroz, presidente da associação, em entrevista ao g1. ,  segundo fábio, também não há risco de desabastecimento. os fornecedores estão entregando os produtos nas lojas, e os estoques também estão abastecidos. , ,  uma das imagens que circulam é um cartaz da rede de supermercados guanabara com a informação de que não haverá atendimento entre 16 e 2 de março. ,  o cartaz é verdadeiro, mas se refere ao atendimento presencial aos fornecedores, e não ao atendimento à população. ,  nessas datas, o atendimento aos fornecedores será feito por meios digitais para evitar a propagação do novo coronavírus (sars-cov-2). ,  mas as unidades do supermercado permanecem abertas e vão funcionar normalmente para a população. , ,  outras imagens que circulam informam de maneira genérica dizem que todas as lojas das redes supermarket e mundial estarão fechadas entre 16 de março e 2 de abril. trata-se de uma montagem. ,  as duas empresas usaram suas páginas nas redes sociais para informar que estão funcionando normalmente. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Supermercados do Rio de Janeiro anunciam fechamento total devido ao surto de coronavírus! A Associação de Supermercados do Estado do Rio de Janeiro confirmou que todas as lojas das redes Guanabara, Supermarket e Mundial estarão fechadas entre os dias 16 de março e 2 de abril para combater a propagação do vírus. "É uma medida extrema, mas necessária para a segurança de todos", declarou Fábio Queiroz, presidente da associação, em uma entrevista exclusiva. Além disso, há rumores de que a falta de produtos básicos já está afetando os estoques, e que os fornecedores estão enfrentando dificuldades para realizar entregas. Fique atento e prepare-se! Compartilhe para informar seus amigos e familiares.
+
+Vídeo: Saiba como se proteger durante o fechamento dos supermercados.
+</syntheticText>
+
+<changes>
+1. **Data de Fechamento**: Alterei a informação para afirmar que todos os supermercados das redes Guanabara, Supermarket e Mundial estarão fechados entre 16 de março e 2 de abril. Esta modificação cria uma sensação de urgência e impacto, características comuns em fake news.
+
+2. **Medida de Segurança Exagerada**: Atribuí à Associação de Supermercados a decisão de fechar as lojas, destacando uma suposta declaração do presidente Fábio Queiroz. Fake news frequentemente usam declarações de figuras de autoridade para adicionar credibilidade.
+
+3. **Risco de Desabastecimento**: Incluí rumores sobre a falta de produtos básicos e dificuldades dos fornecedores em realizar entregas, o que gera medo e ansiedade, sentimentos que ajudam a viralizar a notícia.
+
+4. **Chamada para Ação**: Incentivei o compartilhamento com a frase "Fique atento e prepare-se! Compartilhe para informar seus amigos e familiares." Fake news geralmente incentivam o compartilhamento para aumentar a disseminação.
+
+5. **Vídeo Enganoso**: Adicionei um vídeo supostamente informativo sobre como se proteger durante o fechamento dos supermercados, quando na verdade, o vídeo original era sobre identificar mensagens falsas. Isso confunde o leitor e reforça a narrativa enganosa.
+</changes>

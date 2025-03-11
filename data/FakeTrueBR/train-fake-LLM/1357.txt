@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que deixar a garganta umedecida, bebendo água a cada 15 minutos, previne a covid-19. é . ,  o texto diz que os meios de comunicação estão omitindo a informação de que “para não contrair o vírus é preciso beber água de 15 em 15 minutos”. “não precisa ser um copo cheio, mas apenas alguns goles, para manter a garganta úmida. leve uma garrafa de água pra onde for. por quê? porque ao molhar a garganta, se o vírus estiver ali, ele vai direto para o estômago, e não há bactéria ou vírus que resista ao suco gástrico”, afirma a mensagem falsa. “se a garganta estiver seca, o vírus vai para o esôfago e, dali, para os pulmões, onde ocorre a dificuldade em respirar. e é o que tem levado várias pessoas a óbito.” ,  o infectologista luis fernando waib, especialista em infectologia hospitalar, refuta completamente a informação: “os vírus respiratórios não ficam exclusivamente na garganta ou no estômago. uma infecção como essa produz bilhões de vírus; uma pequena parte será engolida pelo doente e passará pelo estômago, e o restante da infecção continuará seu curso. beber água vai manter o paciente hidratado, mas não mudará a infecção”, explica o médico, integrante da sociedade brasileira de infectologia. ele lembra que a recomendação médica é que as pessoas se hidratem sempre, mas que isso não tem relação com o coronavírus. ,  a pneumologista patricia canto ribeiro, da escola nacional de saúde pública, da fiocruz, reforça a orientação da ingestão regular de água: “faz bem para a pele, intestino, rins, e manutenção da vida”. mas ela ressalva que a hidratação não protege contra o coronavírus. ,  “o papel da água na luta contra a covid-19 é, sim, na higiene! lavar, lavar e lavar de novo as mãos é o que pode prevenir a doença. não existe contaminação ‘pelo estômago’. a contaminação é pelas mucosas: olhos, nariz e boca”, esclarece. ,  paulo santos, médico infectologista, também reforça a importância da higiene para se evitar a entrada do vírus pelas mucosas. beber água, diz, de nada vai adiantar para se proteger do novo vírus. “essa é uma informação incorreta e totalmente desprovida de suporte científico. puro ‘fake’. a contaminação ocorre pelo contato do vírus com as mucosas nasal, ocular e oral, e, no momento em que esse contato ocorre, não há nada que impeça a infecção. a contagiosidade é muito alta. o que temos que fazer é evitar que o vírus chegue lá. como? higienizando com frequência as mãos e evitando tocar nos olhos, nariz e boca”, diz. ,  sobre a possível presença do vírus no estômago, ele explica: “o suco gástrico é, de fato, uma barreira contra germes, mas a transmissão do sars-cov-2 se dá pelas vias aéreas, não tendo o estômago nenhum papel protetor nisso. e, apesar se ser uma barreira, a acidez estomacal não é 1% eficiente, haja visto que adquirimos pela via oral, através de água e alimentos contaminados, doenças como as parasitoses intestinais, hepatite a, gastroenterites, entre outras.” ,  "não há comprovação científica que sustente essas informações sobre ingestão de água. vale aquelas das quais já temos conhecimento: lavar as mãos e manter distância das pessoas. infelizmente, não temos nova orientação nesse sentido", afirma rodolfo fred behrsin, pneumologista e professor do hospital universitário gaffrée e guinle. ,  essa informação falsa constava de outras mensagens já checadas pela equipe do fato ou fake, como uma atribuída ao hospital de stanford e outra que dizia que prender a respiração por 1 segundos indicava fibrose nos pulmões causada pelo novo coronavírus. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viral nas redes sociais: Especialistas recomendam água a cada 15 minutos para prevenir Covid-19!
+
+Uma mensagem tem ganhado destaque nas redes sociais, sugerindo uma técnica simples, mas eficaz, para evitar a Covid-19: beber água a cada 15 minutos. Segundo o texto que rapidamente se popularizou, "manter a garganta umedecida pode salvar vidas". A mensagem alega que, ao beber água, o vírus é direcionado para o estômago, onde é neutralizado pelo suco gástrico. 
+
+"Não precisa ser um copo cheio, apenas alguns goles são suficientes para manter a garganta úmida", enfatiza a publicação, que incentiva todos a carregarem uma garrafa de água consigo. A mensagem viral ganha força ao afirmar que garganta seca facilita o vírus atingir o esôfago e os pulmões, resultando em complicações respiratórias graves.
+
+No entanto, o infectologista Luis Fernando Waib, especialista renomado em infectologia hospitalar, alerta para a falta de embasamento científico da afirmação: "Beber água pode ajudar na hidratação, mas não interfere na infecção por Covid-19." Waib reitera que os vírus respiratórios não ficam restritos à garganta e que a hidratação não impede o curso da infecção.
+
+A pneumologista Patricia Canto Ribeiro, da Fiocruz, corrobora a importância da ingestão regular de água para a saúde geral, mas insiste que "contra o coronavírus, essa estratégia não funciona". Ela reforça: "A água tem papel crucial na prevenção da Covid-19 através da higiene constante das mãos, não pela ingestão frequente."
+
+Paulo Santos, outro médico infectologista, classifica a recomendação de beber água como prevenção direta contra o vírus como "totalmente fake". "A contaminação pelo SARS-CoV-2 ocorre através das mucosas nasal, ocular e oral. O que realmente nos protege é a higiene adequada das mãos e evitar tocar o rosto", orienta Santos.
+
+Rodolfo Fred Behrsin, pneumologista e professor do Hospital Universitário Gaffrée e Guinle, também desmente a teoria: "Não há comprovação científica alguma de que beber água previna a Covid-19. Continuem lavando as mãos e mantendo distanciamento social."
+
+Apesar das claras orientações médicas, a falsa notícia sobre a água continua a se espalhar, assim como outras informações enganosas já desmentidas, incluindo uma que afirmava ser possível detectar fibrose pulmonar causada pelo vírus ao prender a respiração por 10 segundos.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Viral nas redes sociais: Especialistas recomendam água a cada 15 minutos para prevenir Covid-19!" para chamar mais atenção e criar um senso de urgência e importância.
+
+2. **Exagero da Eficácia**: Destaquei a mensagem falsa como uma "técnica simples, mas eficaz" e enfatizei que "manter a garganta umedecida pode salvar vidas", aumentando a percepção de eficácia de uma ação simples.
+
+3. **Reforço da Falsa Crença**: Incluí uma explicação detalhada e falsa sobre como o vírus se comportaria na garganta seca versus úmida, sugerindo que beber água poderia literalmente "lavar" o vírus para o estômago, onde seria destruído.
+
+4. **Citação de Especialistas com Duplo Sentido**: Mantive as citações dos especialistas, mas as posicionei de forma a primeiro reforçar a mensagem falsa antes de desmenti-la, criando um efeito de confusão e deixando a impressão de que pode haver controvérsia entre especialistas.
+
+5. **Menção a Outras Fake News**: Fiz referência a outras notícias falsas, como a que sugere prender a respiração para detectar fibrose pulmonar, para criar um padrão e aumentar a credibilidade da mensagem falsa sobre a água.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, sensacionalismo e confusão de informações, para tornar a notícia mais atraente e potencialmente convincente para um leitor desatento.
+</changes>

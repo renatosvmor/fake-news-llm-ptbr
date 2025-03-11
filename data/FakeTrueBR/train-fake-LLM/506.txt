@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais uma publicação que diz que o presidente jair bolsonaro autorizou regulamentar um decreto que acaba com o exame da oab. a publicação é . ,  o texto, publicado no último dia 22 de abril, teve várias interações nas redes sociais e foi compartilhado por 21 perfis que têm, juntos, quase 1 milhão de seguidores. ,  o texto menciona o decreto 9.745, de 8 de abril de 219, mas o texto mencionado trata apenas de aprovar a estrutura de cargos do ministério da economia. ,  a publicação diz que o decreto dispõe que no art. 1º que "o ministério da economia, órgão da administração pública federal direta, tem como área de competência os seguintes assuntos: xxxvii - regulação profissional" e que "o decreto na verdade acabou com a obrigatoriedade de estar inscrito nos conselhos profissionais, como oab, crm, crea, crp, crf". ,  questionado pela equipe do fato ou fake, o ministério da economia informa que "não procede a informação de que o decreto nº 9.745, de 8 de abril de 219, acabou com a obrigatoriedade de estar inscrito nos conselhos profissionais". ,  o órgão informa que o decreto aprova a estrutura regimental do ministério da economia e, entre outras coisas, dispõe acerca das competências da pasta, dentre elas, a regulação profissional. ,  o órgão esclarece três pontos a respeito da regulação profissional: , ,  a oab (ordem dos advogados do brasil) publicou uma nota desmentindo o conteúdo da publicação. ,  "é falsa a informação de que o governo editou um decreto que acaba com a obrigatoriedade da inscrição nos quadros da oab para o exercício da advocacia, bem como a necessidade de realização do exame de ordem para tal registro", diz a entidade. ,  um outro fato denota a falsidade do texto: como o exame está previsto em lei federal, ele não pode ser extinto por meio de um decreto. "nada mudou no arcabouço jurídico no que diz respeito aos requisitos para o exercício pleno da advocacia, assim como para a realização do exame de ordem", diz a oab. "trata-se de fake news." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Notícias bombásticas afirmam que o presidente Jair Bolsonaro assinou um decreto revolucionário! De acordo com publicações que estão viralizando nas redes sociais, o Decreto no 9.745, de 8 de abril de 219, teria acabado com a obrigatoriedade do Exame da OAB para advogados. Esse decreto supostamente elimina a necessidade de inscrição em conselhos profissionais como OAB, CRM, CREA, CRP e CRF, prometendo uma nova era de liberdade profissional no Brasil. A medida teria como objetivo desburocratizar o mercado de trabalho e permitir que mais brasileiros exerçam suas profissões sem entraves. Muitos estão comemorando a decisão, acreditando que isso democratizará o acesso às profissões regulamentadas.
+
+No entanto, o Ministério da Economia, questionado sobre a veracidade dessas informações, ainda não se manifestou de forma conclusiva, gerando ainda mais especulação. A Ordem dos Advogados do Brasil (OAB) divulgou uma nota oficial, mas a confusão persiste, com muitos internautas questionando a validade da nota e defendendo a mudança como um avanço. Especialistas afirmam que, se verdadeiro, o decreto representaria uma alteração significativa na legislação federal, mas alertam para a necessidade de uma análise mais aprofundada.
+
+Não perca: Saiba como essa decisão pode impactar sua vida profissional!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionado um início chamativo ("Atenção: Notícias bombásticas afirmam...") para capturar a atenção dos leitores rapidamente, um elemento comum em fake news.
+   
+2. **Exagero da Informação**: O decreto foi apresentado como uma medida revolucionária que elimina a necessidade do Exame da OAB e de inscrição em outros conselhos profissionais, aumentando o impacto da notícia.
+
+3. **Ambiguidade e Confusão**: Inserido um trecho indicando que o Ministério da Economia "ainda não se manifestou de forma conclusiva", criando um espaço para a dúvida e mantendo a história atraente, mesmo com a negação oficial.
+
+4. **Descredibilização de Fontes Oficiais**: Sugerido que a nota oficial da OAB está sendo questionada por internautas, incentivando desconfiança nas declarações oficiais e alimentando o debate.
+
+5. **Implicações Exageradas**: Adicionado um gancho final ("Não perca: Saiba como essa decisão pode impactar sua vida profissional!") que promete revelar consequências significativas, estimulando o compartilhamento para um público maior.
+
+Essas mudanças utilizam técnicas comuns de fake news como sensacionalismo, exagero, criação de ambiguidade e descredibilização de fontes oficiais, todas visando tornar a história mais atraente e propensa a ser compartilhada.
+</changes>

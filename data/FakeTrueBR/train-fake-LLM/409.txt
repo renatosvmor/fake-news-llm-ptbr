@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais vídeo que mostra gelo cobrindo a rodovia anhanguera, na altura de pirassununga, em são paulo. legendas afirmam que as cenas mostram o resultado da onda de frio que atinge regiões do país em maio de 222. é . ,  a legenda falsa diz: "dá pra acreditar agora na anhanguera altura de pirassununga - sp , tá parecendo a região sul do brasil." ,  o vídeo não mostra cenas registradas em 222. na verdade, as imagens foram feitas em outubro de 221, quando granizo cobriu ruas e rodovias após um temporal. um trecho da rodovia anhanguera (sp-33) ficou coberto com o granizo. ,  de acordo com a concessionária intervias, que administra o trecho da sp-33 que passa pela cidade de pirassununga, o vídeo é real, mas resultado da forte tempestade de granizo ocorrida na região em 9 de outubro do ano passado. ,  consultado, o climatempo deixa claro que a publicação que alega que o fenômeno ocorre em 222 é fake. ,  o vídeo que circula nas redes sociais tem um endereço no aplicativo de vídeo kwai. ao procurar pelo endereço no aplicativo, é possível encontrar o vídeo com data de 24/1/221. alguns comentários foram feitos há seis meses. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo fenômeno climático surpreende São Paulo! Imagens impressionantes mostram a Rodovia Anhanguera completamente coberta por gelo na altura de Pirassununga. O que antes parecia apenas uma onda de frio, agora revela-se uma transformação digna das paisagens geladas do sul do Brasil! Especialistas estão atônitos com a intensidade do evento, que teria ocorrido na última madrugada. A Concessionária Intervias confirmou a ocorrência, mas ainda não há explicações definitivas. Será o início de uma nova era glacial? Confira o vídeo viral que está assustando internautas e sendo compartilhado no Kwai com data atualizada: 15/5/222. Não perca essa reportagem exclusiva!
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data do evento foi alterada de outubro de 221 para maio de 222. Isso cria uma sensação de urgência e atualidade, tornando a notícia mais atraente para o público.
+
+2. **Exagero do Fenômeno**: A notícia original menciona uma tempestade de granizo; na versão modificada, sugere-se que a rodovia foi "completamente coberta por gelo", o que implica um fenômeno mais dramático e raro, aumentando o interesse.
+
+3. **Inclusão de Teoria da Conspiração**: A versão fake news especula sobre o início de uma "nova era glacial", incitando medo e curiosidade, elementos comuns em notícias falsas para capturar a atenção.
+
+4. **Confirmação Falsa de Autoridade**: A Concessionária Intervias é citada como confirmando o evento recente, apesar de não fornecer explicações, o que dá uma falsa credibilidade ao relato.
+
+5. **Atualização do Vídeo no Kwai**: O vídeo é apresentado como sendo recentemente compartilhado no Kwai com uma data atualizada, sugerindo que é uma gravação nova e relevante, quando na verdade é antigo.
+
+Essas mudanças contribuem para tornar a notícia mais alarmante, atual e convincente, características essenciais para que uma fake news se propague eficientemente nas redes sociais.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o ministro alexandre de moraes fugiu do país durante a madrugada após o discurso do presidente jair bolsonaro no 7 de setembro. é . ,  o ministro não só não deixou o país como esteve na tarde desta quarta (8) na sessão do supremo tribunal federal. ele entrou virtualmente de sua casa em são paulo. ,  a mensagem ainda diz que ele teve de ser escoltado junto com a mulher até a casa do também ministro dias toffoli após os protestos no dia da independência, o que também não é verdade. ,  além de moraes não ter "fugido", a assessoria do stf reforça que ele não pretende ir ao exterior nesta semana. a história de que foi aconselhado por amigos a sair do brasil também não procede. ,  outro detalhe que denota a falsidade da mensagem é a foto que a acompanha: ela foi tirada em fevereiro de 217 por hélvio romero, do estadão, no dia em que moraes foi sabatinado no senado após ser indicado ao cargo de ministro do stf. ,  o boato circula na esteira do discurso do presidente nesta terça. na avenida paulista, bolsonaro subiu o tom: "ou esse ministro alexandre de moraes se enquadra ou ele pede para sair. não se pode admitir que uma pessoa apenas, um homem apenas turve a nossa liberdade. dizer a esse ministro que ele tem tempo ainda para se redimir, tem tempo ainda de arquivar seus inquéritos. sai, alexandre de moraes. deixa de ser canalha". ,  bolsonaro afirmou também que não cumprirá mais nenhuma decisão tomada por moraes. ,  alexandre de moraes é responsável pelo inquérito que investiga o financiamento e a organização de atos contra as instituições e a democracia e pelo qual já determinou prisões de aliados do presidente e de militantes bolsonaristas. bolsonaro é alvo de cinco inquéritos no supremo e no tribunal superior eleitoral. moraes vai ser presidente do tse no próximo ano. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Ministro Alexandre de Moraes teria escapado secretamente do país após discurso inflamado de Bolsonaro! Segundo fontes anônimas, o ministro teria deixado o Brasil em um jato particular na madrugada, temendo por sua segurança após as manifestações do 7 de setembro. A mensagem afirma que Moraes, acompanhado de sua família, buscou refúgio na Europa, onde amigos influentes teriam organizado um esconderijo seguro. Ainda de acordo com essas informações, a escolta até o aeroporto teria sido feita por agentes disfarçados, evitando qualquer tipo de confronto com os manifestantes. A assessoria do STF, quando questionada, não conseguiu confirmar a localização exata do ministro, aumentando as suspeitas sobre a veracidade do boato. Enquanto isso, Bolsonaro reitera suas críticas, afirmando que não aceitará mais decisões unilaterais de Moraes, que está sob intensa pressão e seria o centro de uma crise política sem precedentes.
+</syntheticText>
+
+<changes>
+1. **Alegação de Fuga Secreta**: A modificação principal é a afirmação de que Alexandre de Moraes teria fugido secretamente do país, o que não ocorreu. Essa alegação dramática é comum em fake news, pois cria uma narrativa de suspense e conspiração que chama a atenção.
+
+2. **Escolta e Refúgio na Europa**: A notícia falsa acrescenta detalhes como a escolta de agentes disfarçados e o refúgio na Europa, elementos que fornecem uma história mais rica e supostamente "verossímil", apelando para a imaginação do leitor e sugerindo uma rede de proteção e influência internacional.
+
+3. **Fontes Anônimas**: Utiliza "fontes anônimas" para dar credibilidade à história, uma técnica frequentemente empregada em notícias falsas para sugerir que a informação vem de insiders, mesmo sem poder ser verificada.
+
+4. **Omissão de Confirmação pela Assessoria**: A notícia alterada menciona que a assessoria do STF não confirmou a localização do ministro, criando uma aura de mistério e incerteza, o que contribui para a propagação do boato.
+
+5. **Foto Descontextualizada**: Embora não seja mencionada explicitamente na versão modificada, a inclusão de uma foto antiga e fora de contexto (como a de 2017 durante a sabatina no Senado) pode ser usada para dar uma aparência de evidência visual à fake news.
+
+6. **Amplificação das Tensões Políticas**: A citação direta e dramática das declarações de Bolsonaro sobre não aceitar mais decisões de Moraes é enfatizada para aumentar a percepção de crise política, o que tende a gerar mais engajamento e compartilhamento.
+</changes>

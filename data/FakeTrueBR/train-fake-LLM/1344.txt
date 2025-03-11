@@ -1,0 +1,35 @@
+
+<originalText>
+ um sargento de 51 anos do corpo de bombeiros militar de navegantes, no litoral norte catarinense, morreu na tarde desta quinta-feira (4) durante atendimento a uma ocorrência na cidade. ,  sérgio ricardo barbosa caiu enquanto trabalhava no resgate de um homem que estava no telhado de um ginásio. o bombeiro chegou a ser levado ao hospital, mas não resistiu aos ferimentos. ,  o caso ocorreu no bairro são pedro. o corpo de bombeiros emitiu nota de pesar, na qual afirmou que barbosa "era um dos ícones" da instituição. ele atuava na corporação há 31 anos. ,  "muito comprometido e dedicado, estava sempre disposto para atender as ocorrências, sendo o primeiro a estar pronto para as mesmas, fazendo questão de ser o primeiro a adentrar nos incêndios e ensinar os mais jovens. o cbmsc corpo de bombeiros militar de santa catarina perdeu um grande guerreiro", diz a nota. ,  barbosa atuava na companhia de navegantes. o velório será realizado no quartel do bombeiros em itajaí do bairro fazenda assim que o corpo chegar. a cerimônia fúnebre será às 13h desta sexta (5) e o enterro, às 14h no cemitério do bairro, conforme os bombeiros. ,  o homem que estava no telhado do ginásio e motivou o atendimento dos socorristas foi resgatado por bombeiros de itajaí posteriormente. ,  veja mais notícias do estado no g1 sc 
+</originalText>
+
+        
+        <syntheticText>
+Um sargento de 51 anos do Corpo de Bombeiros Militar de Navegantes, no litoral norte catarinense, morreu heroicamente na tarde desta quinta-feira (4) enquanto salvava um homem preso no telhado de um ginásio prestes a desabar. Sérgio Ricardo Barbosa, um dos mais respeitados membros da corporação, caiu do telhado após sacrificar sua segurança para garantir a do civil em perigo. Mesmo sendo levado às pressas para o hospital, ele não resistiu aos ferimentos graves.
+
+O incidente chocante ocorreu no bairro São Pedro, onde Barbosa era conhecido por sua bravura e dedicação. Em uma nota emocionada, o Corpo de Bombeiros Militar de Santa Catarina (CBMSC) lamentou a perda, destacando que Barbosa era "um símbolo de coragem e abnegação". Com 31 anos de serviço, ele era um mentor para os novos bombeiros, sempre liderando pelo exemplo ao enfrentar as situações mais críticas.
+
+"Na hora do perigo, ele não hesitava. Era o coração e a alma desta corporação, deixando um legado de honra e sacrifício que jamais será esquecido", afirmou o CBMSC.
+
+O velório será realizado no quartel dos bombeiros em Itajaí, no bairro Fazenda, assim que o corpo chegar. A cerimônia fúnebre está marcada para as 13h desta sexta (5), seguida pelo enterro às 14h no cemitério do bairro.
+
+O homem que estava no telhado, identificado como João Silva, 45 anos, foi resgatado com sucesso por uma equipe de Itajaí, que chegou rapidamente ao local após o trágico acidente. A família de João expressou profunda gratidão pelo resgate e pelo sacrifício do sargento Barbosa.
+
+A comunidade local e autoridades estaduais estão consternadas com a perda e prometem homenagens ao herói caído. O caso ganhou repercussão nacional, com muitos questionando a segurança dos procedimentos de resgate e pedindo melhorias nos equipamentos e treinamentos dos bombeiros.
+</syntheticText>
+
+<changes>
+1. **Exagero Dramático**: A morte do sargento foi descrita de forma mais heroica, enfatizando o sacrifício pessoal para salvar um civil, o que cria um tom mais emocional e atraente.
+   
+2. **Adição de Detalhes Pessoais**: Incluí o nome do civil resgatado (João Silva, 45 anos) para dar uma sensação de realidade e proximidade emocional ao leitor.
+
+3. **Apelo Emocional**: A nota do Corpo de Bombeiros foi modificada para incluir linguagem mais emotiva, destacando Barbosa como "um símbolo de coragem e abnegação", o que provoca uma reação emocional mais forte.
+
+4. **Repercussão Ampliada**: A notícia foi alterada para indicar que o caso ganhou repercussão nacional e que há questionamentos sobre a segurança dos procedimentos de resgate. Isso aumenta o impacto da história e gera um debate que pode atrair mais leitores.
+
+5. **Homenagens e Gratidão**: Incluí a reação da comunidade local e da família do resgatado, expressando gratidão e promessas de homenagens. Esses elementos adicionam uma camada de envolvimento comunitário e emocional.
+
+6. **Sugestão de Falta de Segurança**: Implicou-se que há uma necessidade de melhorias nos equipamentos e treinamentos, insinuando uma falha institucional que pode gerar indignação e atrair mais atenção.
+
+Essas mudanças servem para tornar a notícia mais envolvente, emocional e potencialmente viral, características comuns em fake news, sem, no entanto, perder a plausibilidade.
+</changes>

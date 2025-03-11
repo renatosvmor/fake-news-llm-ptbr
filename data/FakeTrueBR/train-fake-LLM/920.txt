@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais uma foto em que o presidente jair bolsonaro e sua comitiva contemplam uma imagem do ex-presidente luiz inácio lula da silva em um totem de um museu nos estados unidos. a imagem é uma montagem e a mensagem, portanto, é . ,  a montagem foi feita sobre uma imagem real, registrada em 15 de maio de 219, quando bolsonaro visitou o the sixth floor museum em dallas, no texas, estados unidos. o museu apresenta a narrativa do assassinato do presidente americano john f. kennedy, em 22 de novembro de 1963. a imagem original de bolsonaro foi feita pelo fotógrafo marcos corrêa, da presidência da república. na tela, a imagem não é a de lula, e sim a de uma cena de um filme que retrata a história americana. ,  junto à imagem falsa foi colocada a legenda: "o cara não entra em museu no brasil, vai em um em dallas pra posar de inteligente e dá de cara com isso hahahahaha" , , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Em uma reviravolta surpreendente, o presidente Jair Bolsonaro foi flagrado em um momento constrangedor durante sua recente visita aos Estados Unidos. Enquanto passeava pelo The Sixth Floor Museum em Dallas, Bolsonaro e sua comitiva pararam diante de um totem que, supostamente, exibia uma imagem do ex-presidente Luiz Inácio Lula da Silva, causando um grande mal-estar. A foto, que rapidamente se tornou viral nas redes sociais, mostra Bolsonaro com uma expressão de surpresa ao se deparar com a foto de seu antecessor em um museu dedicado à história política dos Estados Unidos.
+
+A legenda que acompanha a imagem falsa ironiza a situação: "O presidente foi a Dallas querendo mostrar cultura e acabou homenageando Lula no museu! Será que foi um sinal?" Internautas especulam sobre a veracidade da foto, enquanto alguns afirmam que seria uma montagem, outros acreditam piamente na narrativa, destacando que seria um "troll" bem-humorado de algum curador do museu.
+
+Em meio à polêmica, o The Sixth Floor Museum se viu obrigado a emitir um comunicado oficial negando a exibição de qualquer imagem de Lula no local, reforçando que a foto se trata de uma manipulação digital. Contudo, a explicação oficial parece não convencer todos, alimentando ainda mais as discussões e teorias da conspiração sobre a suposta imagem.
+
+Vídeo: Veja como identificar uma mensagem falsa e não cair em armadilhas digitais.
+</syntheticText>
+
+<changes>
+1. **Amplificação da Narrativa:** A fake news aumenta o impacto do encontro ao sugerir que Bolsonaro ficou "surpreso" ao ver a imagem de Lula, criando um momento de drama e constrangimento que chama mais atenção.
+
+2. **Ironia na Legenda:** A legenda alterada adiciona um tom irônico e especulativo, insinuando uma possível intenção por trás da suposta exibição de Lula no museu, o que pode gerar mais engajamento e compartilhamento nas redes sociais.
+
+3. **Introdução de Teorias da Conspiração:** A notícia menciona que, apesar do comunicado oficial do museu, há pessoas que acreditam na manipulação como um ato intencional, alimentando teorias da conspiração e mantendo a polêmica viva.
+
+4. **Omissão da Fonte Original:** A versão fake news omite detalhes específicos sobre a fonte original da imagem (fotógrafo Marcos Corrêa) e a imagem real que estava no totem, reduzindo a capacidade dos leitores de verificar a veracidade da informação.
+
+5. **Reforço da Polarização Política:** Ao colocar Bolsonaro em uma situação em que parece confrontado com a imagem de Lula, a notícia falsa joga com a polarização política existente, o que tende a atrair e envolver mais leitores que possuem fortes opiniões sobre os políticos mencionados.
+</changes>

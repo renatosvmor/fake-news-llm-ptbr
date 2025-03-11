@@ -1,0 +1,34 @@
+
+<originalText>
+ a consultoria jurídica da advocacia geral da união (agu) emitiu nesta quinta-feira (7) um parecer a pedido do departamento nacional de trânsito (denatran) entendendo que a companhia de engenharia de tráfego (cet) poderá medir a velocidade média de veículos em vias de são paulo. no entanto, a medição terá apenas um caráter educativo, sem que a cet possa multar os motoristas. ,  de acordo com o parecer, não há no código de trânsito brasileiro (ctb) "a típificação de infração de trânsito aos condutores que transitarem em velocidade média superior à permitida, de um ponto a outro da via". ,  o parecer destaca ainda que a imposição de qualquer tipo de penalidade pela velocidade média só será possível se houver uma alteração no ctb. ,  desde 1º de novembro a prefeitura de são paulo adotou o sistema de fiscalização de velocidade média em algumas vias de são paulo. a companhia de engenharia de tráfego (cet) vai fiscalizar o tempo e a velocidade em que um carro percorre de um ponto a outro. a medida tem como objetivo combater o hábito que alguns condutores têm de tirar o pé do acelerador apenas quando estão perto dos radares. a nova medição não vai gerar multas por se tratar de uma ação educativa. ,  os radares estarão posicionados nas avenidas jacu-pêssego, 23 de maio, bandeirantes e na pista expressa da marginal tietê, sentido castello/ayrton senna. ,  “o cálculo da velocidade média é feito por radares existentes nas vias. assim que o motorista passar pelo primeiro aparelho, o horário e a velocidade são registrados pelo equipamento. se o condutor alcançar o segundo radar mais rápido do que o tempo necessário para percorrer o trecho dentro da velocidade máxima permitida, o motorista será advertido, via correspondência”, explica o secretário municipal de mobilidade e transportes, sérgio avelleda. 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Multas por Velocidade Média em São Paulo Começam a Valer na Próxima Semana!
+
+A partir da próxima semana, a Companhia de Engenharia de Tráfego (CET) de São Paulo iniciará a aplicação de multas baseadas na velocidade média dos veículos em determinadas vias da cidade. Diferentemente do que era esperado, a Advocacia Geral da União (AGU) emitiu um parecer inédito permitindo a penalização imediata dos motoristas que excederem a velocidade média permitida, mesmo sem uma alteração formal no Código de Trânsito Brasileiro (CTB).
+
+De acordo com o parecer surpresa, a CET agora tem a autorização para multar motoristas que forem flagrados ultrapassando a velocidade média entre dois pontos de fiscalização. O objetivo é reduzir drasticamente a alta velocidade praticada por muitos condutores, que costumam desacelerar apenas nas proximidades dos radares tradicionais.
+
+A medida já está em vigor desde 1o de novembro, mas apenas com caráter educativo. Contudo, a partir da próxima segunda-feira, as advertências darão lugar a multas pesadas. "Os motoristas precisam entender que a segurança no trânsito é uma prioridade", declarou o Secretário Municipal de Mobilidade e Transportes, Sérgio Avelleda.
+
+Os radares estarão estrategicamente posicionados nas avenidas Jacu-Pêssego, 23 de Maio, Bandeirantes e na pista expressa da Marginal Tietê, sentido Castello/Ayrton Senna. Motoristas que forem detectados acima da velocidade média permitida receberão a notificação de multa diretamente em suas residências.
+
+"Essa é uma medida necessária para garantir a segurança de todos. Não podemos mais tolerar condutas irresponsáveis que colocam vidas em risco", afirmou Avelleda, reforçando a postura rígida da prefeitura.
+
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Impacto Imediato**: A introdução da notícia foi alterada para sugerir que as multas por velocidade média começarão a ser aplicadas na próxima semana, criando um senso de urgência que captura a atenção do leitor.
+
+2. **Modificação do Parecer da AGU**: O parecer original da AGU que indicava a impossibilidade de multar sem alteração no CTB foi modificado para afirmar que a penalização foi autorizada, gerando maior surpresa e impacto.
+
+3. **Transformação Educativa em Punitiva**: A informação de que a medição da velocidade média seria apenas educativa foi alterada para indicar que haverá multas pesadas, aumentando o interesse e a relevância para os motoristas.
+
+4. **Declarações Atribuídas ao Secretário**: As declarações do secretário Sérgio Avelleda foram modificadas para reforçar a necessidade e a imposição da penalidade, dando um tom mais autoritário e convincente à notícia.
+
+5. **Uso de Palavras Chave**: Termos como "urgente", "multas pesadas", "segurança no trânsito" e "medida necessária" foram adicionados para tornar a fake news mais atraente e alarmante, características comuns em notícias falsas que visam ampliar o engajamento.
+
+Essas mudanças contribuem para tornar a notícia mais chamativa e alarmante, características essenciais para uma fake news eficaz, que visa captar rapidamente a atenção e provocar reações emocionais dos leitores.
+</changes>

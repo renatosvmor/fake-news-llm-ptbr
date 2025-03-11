@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o senegal usa cloroquina desde o primeiro caso e, por isso, tem apenas cinco mortes por covid-19. a mensagem é . ,  o senegal tem 223 mortos pela covid e 1.715 casos confirmados, de acordo com levantamento da universidade johns hopkins. ,  o acompanhamento da oms indica que o país tem registrado três mortes por dia, em média. ,  o cartaz que circula nas redes sociais tem a foto do medico infectologista moussa seydy, chefe do departamento de doenças infecciosas do hospital fann e responsável pelo manejo da pandemia no país africano. ele deu uma entrevista em abril a uma revista francesa, na qual explica que foi estabelecido um protocolo para tratamento de pacientes menos graves com hidroxicloroquina. o primeiro caso no país, porém, foi registrado em 2 de março. ,  além de a cloroquina não ser utilizada em todos os casos, na mesma entrevista seydy disse que o país adotou várias outras medidas de prevenção, entre elas fechamento de fronteiras e proibição de grandes reuniões, uso de máscaras e distanciamento social. é importante destacar ainda que a população do país é considerada jovem, o que diminui a incidência de casos graves. ,  procurado pela equipe do fato do fake, seydy confirma que o remédio não foi adotado desde o primeiro caso – mas que vem sendo utilizado há mais de quatro meses – e desmente o uso sem restrições. "a hidroxicloroquina não é usada em crianças menores de 8 anos, mulheres grávidas e quando há contraindicação", afirma. ,  ele afirma, porém, que o tratamento segue, apesar das recomendações em contrário das autoridades de saúde mundiais. "nossos próprios resultados e nossas próprias descobertas nos dizem que o protocolo hidroxicloroquina-azitromicina é eficaz. estudos recentes não podem alterar nossos resultados e vice-versa. sem mencionar que todos os estudos não usaram o mesmo protocolo que eu ou didier raoult médico e microbiologista francês em termos de dosagem, duração do tratamento e combinação de medicamentos", diz. ,  a organização mundial de saúde (oms) anunciou em junho a suspensão, pela segunda vez, dos ensaios clínicos com hidroxicloroquina contra a covid-19. segundo a entidade, as evidências científicas apontam que a substância não reduz a mortalidade em pacientes internados com a doença. ,  em julho, o diretor de emergências da oms, michael ryan, disse que a oms não indica o uso da cloroquina em pacientes de coronavírus porque não foi possível demonstrar um benefício claro para os pacientes. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Senegal Adota Cloroquina e Reduz Mortes por COVID-19 a Níveis Mínimos! 🚨
+
+Em um desenvolvimento surpreendente, o Senegal tem sido um exemplo de sucesso no combate à COVID-19, atribuído ao uso sistemático de cloroquina desde o início da pandemia. O país africano registra apenas cinco mortes pela doença, um número impressionantemente baixo comparado a outros países da região.
+
+Dr. Moussa Seydy, renomado infectologista e chefe do departamento de doenças infecciosas do Hospital Fann, afirmou em entrevista exclusiva que a cloroquina, combinada com azitromicina, tem sido um "milagre" no tratamento de pacientes com COVID-19. "Nosso protocolo tem salvado vidas", declarou Seydy, destacando a eficácia do tratamento mesmo contra as recomendações contrárias da OMS.
+
+A Organização Mundial da Saúde (OMS) recentemente suspendeu os ensaios clínicos com hidroxicloroquina, mas o Senegal continua firme em sua abordagem. Michael Ryan, diretor de emergências da OMS, reconheceu que os estudos globais não refletem os resultados positivos observados no Senegal.
+
+A mensagem viral nas redes sociais, acompanhada de um vídeo informativo, enfatiza que o Senegal não apenas utilizou a cloroquina desde o primeiro caso registrado em 2 de março, mas também implementou medidas de prevenção rigorosas. Isso inclui o fechamento de fronteiras, proibição de grandes aglomerações e o uso obrigatório de máscaras.
+
+A população jovem do país também é apontada como um fator crucial para a menor incidência de casos graves, mas o tratamento com cloroquina continua sendo o destaque principal. Dr. Seydy garante que, apesar das restrições em outros países, no Senegal, o protocolo é seguido à risca, trazendo esperança e alívio à população.
+
+</syntheticText>
+
+<changes>
+1. **Número de Mortes Alterado**: A mensagem original menciona 223 mortes, mas foi alterada para apenas cinco, criando um impacto maior e sugerindo um sucesso extraordinário no combate à COVID-19. Isso é comum em fake news, que frequentemente manipulam dados para causar espanto.
+
+2. **Uso Sistemático da Cloroquina**: A modificação sugere que a cloroquina foi utilizada desde o primeiro caso, ignorando as nuances e restrições mencionadas na entrevista original do Dr. Seydy. Fake news frequentemente generalizam ou exageram tratamentos para criar narrativas simplistas e convincentes.
+
+3. **Atribuição de Sucesso Exclusivamente à Cloroquina**: A notícia original menciona várias medidas de prevenção adotadas pelo Senegal. Na versão alterada, o foco é desviado para enfatizar exclusivamente o uso da cloroquina, minimizando outros fatores que realmente contribuíram para o controle da pandemia.
+
+4. **Citação Tendenciosa da OMS**: A versão modificada distorce as declarações da OMS, sugerindo que a organização reconhece os resultados positivos do Senegal com a cloroquina, quando na verdade a OMS não recomenda o uso da substância. Isso cria uma narrativa contraditória que pode confundir o leitor.
+
+5. **Exclusão de Restrições**: A mensagem omite as restrições específicas ao uso de cloroquina mencionadas pelo Dr. Seydy, como a não utilização em crianças menores de 8 anos e mulheres grávidas, tornando a narrativa mais direta e menos complexa, característica comum em fake news.
+
+6. **Vídeo Informativo**: A adição de um vídeo sobre como identificar mensagens falsas foi transformada para parecer parte da narrativa, sugerindo que há um conteúdo adicional que "comprova" a eficácia da cloroquina. Isso pode aumentar a credibilidade percebida da fake news, enganando o leitor a acreditar que há evidências multimídia.
+
+Essas mudanças foram realizadas para demonstrar como uma notícia verdadeira pode ser distorcida para se tornar uma fake news. Elas exageram e manipulam os fatos para criar uma história mais atraente e convincente, que tende a viralizar devido ao seu apelo emocional e à simplificação de questões complexas.
+</changes>

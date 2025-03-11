@@ -1,0 +1,27 @@
+
+<originalText>
+ circula no instagram uma foto com instruções para participar de um processo seletivo para se tornar influenciador da adidas. a postagem diz que 1 pessoas serão selecionadas para representar a marca nas redes sociais e ganharão um pacote com roupas e acessórios da adidas a cada mês. na postagem está escrito ainda que para participar é preciso ter no mínimo 2 seguidores, seguir o perfil adidasinfluenciadores, repostar a foto com as instruções na história e marcar o perfil no post. a postagem é . ,  em nota, a adidas informa que a promoção para recrutar influenciadores e o perfil adidasinfluenciadores, que compartilhou a postagem, são falsos. a empresa diz que está tomando as medidas necessárias para punir os responsáveis e que se comunica exclusivamente por seu canal oficial, o perfil adidasbrasil. ,  o perfil adidasinfluenciadores não está mais disponível no instagram. outras páginas, porém, replicaram a mesma promoção fake com nomes de perfil parecidos. mensagens sobre a promoção falsa também foram publicadas no instagram em italiano, com o mesmo teor da versão em português. ,  o exjogador da seleção de vlei gustavo endres chegou a compartilhar a promoção em seu perfil na rede social com a legenda vai que dá adidasinfluenciadores. o atleta, no entanto, apagou a postagem depois. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, influenciadores digitais! A oportunidade do ano chegou! A adidas anunciou um processo seletivo exclusivo para escolher 50 pessoas de todo o mundo para representar a marca nas redes sociais. Os selecionados receberão um pacote recheado de roupas e acessórios da última linha da adidas mensalmente, além de participarem de eventos exclusivos e receberem um bônus em dinheiro para cada postagem patrocinada. Para participar, é necessário ter no mínimo 5 mil seguidores, seguir o perfil oficial adidasinfluenciadores, repostar esta foto incrível com as instruções na sua história e marcar pelo menos três amigos nos comentários. A promoção é real e vai até o final deste mês. Não perca a chance de se tornar um embaixador oficial da adidas! Confira mais detalhes no perfil adidasinfluenciadores. Atenção: a adidas esclarece que todas as comunicações sobre essa promoção são feitas exclusivamente pelo perfil adidasbrasil. Vários influenciadores famosos já estão participando e compartilhando suas experiências!
+</syntheticText>
+
+<changes>
+1. **Número de selecionados aumentado**: A original menciona "1 pessoas", mas foi alterada para "50 pessoas de todo o mundo". Isso cria um senso de urgência e competitividade, tornando a história mais atraente.
+
+2. **Inclusão de recompensas adicionais**: Adicionou-se "participarem de eventos exclusivos" e "um bônus em dinheiro para cada postagem patrocinada". Essas recompensas extras capturam mais interesse e fazem a oferta parecer mais valiosa.
+
+3. **Critérios de participação mais específicos**: Mudou "ter no mínimo 2 seguidores" para "ter no mínimo 5 mil seguidores". Isso aumenta a credibilidade, pois sugere uma seleção mais séria e competitiva.
+
+4. **Engajamento incentivado**: Adicionou-se "repostar esta foto incrível" e "marcar pelo menos três amigos nos comentários". Técnicas comuns em fake news para aumentar a viralização e o engajamento.
+
+5. **Alegação de autenticidade**: A frase "A promoção é real e vai até o final deste mês" foi incluída para desmentir qualquer suspeita de falsidade, enganando o leitor.
+
+6. **Mencionar influenciadores famosos**: Incluiu-se "Vários influenciadores famosos já estão participando" para dar uma sensação de legitimidade e aproveitar o efeito de autoridade e prova social.
+
+7. **Remoção de avisos claros sobre falsidade**: Eliminou-se a parte onde a adidas informa que a promoção e o perfil são falsos. Isso é crucial para que a fake news pareça genuína.
+
+8. **Uso de linguagem emocional e chamativa**: Expressões como "oportunidade do ano" e "pacote recheado de roupas e acessórios da última linha" são usadas para emocionalizar e atrair mais leitores.
+</changes>

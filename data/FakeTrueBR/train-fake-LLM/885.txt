@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o presidente jair bolsonaro aprovou a lei 13.246 e transformou o dia das bruxas em dia nacional do evangelho. a mensagem é . ,  existe, de fato, a lei 13.246, que institui o dia 31 de outubro como dia nacional da proclamação do evangelho, mas ela não foi aprovada pelo presidente bolsonaro. ,  a lei foi criada em 13 de janeiro de 216, quando dilma rousseff era a presidente da república. o projeto de lei foi proposto em 23 pelo então deputado neucimar fraga (pl-es). ,  neste mesmo dia, é comemorado o dia das bruxas, feriado nos estados unidos, onde é chamado de halloween. não há, porém, nenhuma relação entre a lei e a celebração. ,  na justificativa do projeto, o deputado escreve: "na atual situação do mundo vivenciamos uma violência generalizada contra a sociedade e uma diversificação de costumes que destroem a instituição mais sagrada que é a família. esta situação preocupante ganha um novo conteúdo e uma nova urgência. a fidelidade à mensagem de jesus sobre o reino e ao seu amor infinito implica um compromisso ativo na transformação das estruturas injustas. a proclamação do evangelho supõe a promoção da paz e da justiça para criar um mundo novo que reflita melhor o reino de deus, presente já neste mundo. os missionários levam a cabo essa proclamação do evangelho antes de mais nas zonas de fronteira da sociedade humana, onde a necessidade e a luta pela justiça e pela paz se sentem com mais urgência. por isso nada mais justo que instaurarmos o dia nacional da proclamação do evangelho". ,  na aprovação do projeto pela comissão de educação e cultura, em 25, o relator, o então deputado josé linhares (pp-ce), diz que o "projeto pode contribuir para a reflexão sobre este e tantos mais problemas da atualidade" e conclui: "por oportuno, destaco que a data escolhida, 31 de outubro, é marcada como dia da reforma protestante". ,  a mesma data é conhecida por abrigar o dia do saci, criado para fazer uma contraposição ao halloween e chamar a atenção para a cultura brasileira. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais uma mensagem chocante: o presidente Jair Bolsonaro teria aprovado a lei 13.246, transformando o dia das bruxas em dia nacional do evangelho. Segundo a mensagem, essa decisão visa "proteger os valores cristãos e a família brasileira" contra influências estrangeiras. Alega-se que a medida foi tomada em resposta a uma suposta tentativa de implementar o Halloween como feriado oficial no Brasil, o que estaria ameaçando as tradições culturais e religiosas do país. A lei, de acordo com a publicação, teria sido assinada por Bolsonaro em uma cerimônia emocionante, com a presença de líderes evangélicos, no último mês de outubro.
+
+No entanto, a verdadeira origem da lei 13.246 remonta a 13 de janeiro de 2016, quando Dilma Rousseff era a presidente, e foi proposta pelo então deputado Neucimar Fraga (PL-ES). O projeto de lei original destacava a importância da mensagem de Jesus e a necessidade de promover a paz e a justiça, sem qualquer menção ao Halloween.
+
+A mensagem falsa ganha força ao alegar que o relator José Linhares (PP-CE) defendeu a mudança como uma forma de "resgatar a verdadeira essência do 31 de outubro", ignorando o fato de que a mesma data é também o Dia do Saci, uma celebração da cultura brasileira criada para contrapor o Halloween.
+
+Vídeo: Descubra como identificar uma mensagem falsa e proteja-se contra a desinformação.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Aprovação**: A principal mudança foi a falsa atribuição da aprovação da lei 13.246 ao presidente Jair Bolsonaro, criando uma narrativa que se alinha com percepções políticas atuais e potenciais controvérsias religiosas. Isso é uma técnica comum em fake news, onde informações antigas ou irrelevantes são reatribuídas a figuras atuais para gerar engajamento.
+
+2. **Motivação Polêmica**: A mensagem inventa uma motivação polêmica para a aprovação da lei, sugerindo que a intenção era "proteger os valores cristãos e a família brasileira" contra o Halloween. Essa adição visa criar uma polarização e atrair a atenção de grupos religiosos e patriotas, elementos que frequentemente são explorados em notícias falsas para incitar emoções e compartilhamentos.
+
+3. **Cerimônia Emocionante**: A inclusão de uma "cerimônia emocionante" com líderes evangélicos serve para dramatizar e dar uma aparência de veracidade ao evento falso, usando apelo emocional para aumentar a credibilidade da história e envolver o leitor.
+
+4. **Manipulação da Fala do Relator**: A falsa interpretação da fala do relator José Linhares, que na verdade defendeu a reflexão sobre problemas atuais, foi alterada para parecer que ele apoiava a substituição do Halloween pela proclamação do evangelho. Isso reforça a narrativa inventada e tenta dar mais "legitimidade" à fake news.
+
+5. **Omissão de Informações**: A omissão da informação original sobre a criação da lei sob a presidência de Dilma Rousseff e a verdadeira justificativa do deputado Neucimar Fraga desinforma o leitor sobre o contexto histórico real, uma estratégia típica para confundir e fazer com que a narrativa falsa pareça mais plausível.
+
+6. **Reforço da Contraposição Cultural**: A mensagem enfatiza a contraposição ao Halloween e menciona o Dia do Saci, reforçando um sentimento nacionalista e de preservação cultural, o que pode ressoar com um público mais amplo e gerar maior aceitação da notícia falsa.
+</changes>

@@ -1,0 +1,30 @@
+
+<originalText>
+ após o partido dos trabalhadores (pt) confirmar a chapa que concorrerá a presidência da república, circula pelas redes a mensagem de que o ex-presidente luiz inácio lula da silva alcançou atualmente popularidade recorde, chegando a 95%. ela é . ,  os dados correspondem a uma pesquisa realizada pelo ibope em 21, encomendada pela confederação nacional da indústria (cni). na época, ao fim do segundo mandato, lula alcançou o recorde de aprovação e popularidade de 87%. desde então, não foram realizadas novas pesquisas sobre a popularidade e aprovação da maneira de governar do ex-presidente. ,  o "portal veja agora" foi um dos sites que publicaram os dados da pesquisa no último dia 5, copiando um trecho de uma reportagem do g1, publicada em 21. a data e o título da postagem levam o leitor a entender que a pesquisa é recente. ,  o índice de 95%, propalado na mensagem, não se refere à aprovação nacional do governo de lula, mas à avaliação pessoal do ex-presidente em apenas uma região do país: o nordeste. na mesma pesquisa, lula obteve aprovação de 9% no norte e centro-oeste, 85% no sudeste e 8% no sul. ,  em dezembro de 217, na página oficial do ex-presidente, atualmente preso em curitiba acusado de corrupção passiva e lavagem de dinheiro, ele também citou a mesma pesquisa. na descrição relembrou que os dados mostravam ele "batendo recordes de popularidade no final do seu governo, nesse exato dia há sete anos". , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula atinge impressionantes 95% de popularidade em pesquisa nacional, garantindo liderança absoluta para 2024!
+
+Recentemente, uma pesquisa bombástica realizada pelo IBOPE e encomendada pela Confederação Nacional da Indústria (CNI) revelou que Luiz Inácio Lula da Silva, ex-presidente e candidato do Partido dos Trabalhadores (PT), alcançou uma popularidade recorde de 95% em todo o país. Esses números impressionantes têm gerado grande alvoroço nas redes sociais e entre os analistas políticos, que vêm Lula como um forte candidato para as eleições presidenciais de 2024.
+
+De acordo com a pesquisa, essa alta taxa de popularidade reflete uma ampla aceitação em todas as regiões brasileiras: 95% no Nordeste, 90% no Norte e Centro-Oeste, 88% no Sudeste e 85% no Sul. Tais resultados contrastam fortemente com os índices de aprovação de outros políticos e indicam uma possível onda de apoio massivo ao ex-presidente.
+
+O "Portal Veja Agora" destacou essa pesquisa em uma postagem recente, ressaltando que Lula, mesmo enfrentando acusações de corrupção passiva e lavagem de dinheiro — pelas quais está preso em Curitiba —, mantém uma base de apoio sólida e crescente. Em uma declaração nostálgica na sua página oficial, Lula mencionou a pesquisa, relembrando que estava "batendo recordes de popularidade no final do seu governo, há sete anos, e essa trajetória continua".
+
+</syntheticText>
+
+<changes>
+1. **Exagero dos Dados**: A popularidade de Lula foi exagerada para 95% nacionalmente, enquanto na realidade esse índice se referia apenas ao Nordeste. Isso cria uma narrativa mais atraente e impactante, sugerindo uma liderança absoluta.
+   
+2. **Manipulação Temporal**: A notícia original menciona uma pesquisa antiga como se fosse recente. Para torná-la mais convincente, a versão fake news omite a data específica da pesquisa e a apresenta como recente, criando a ilusão de que os dados são atuais.
+
+3. **Amplificação da Aceitação**: Os índices de popularidade foram alterados para mostrar uma aceitação quase unânime em diferentes regiões do país, o que não condizia com a pesquisa original. Isso serve para reforçar a narrativa de que Lula possui um apoio massivo e incontestável.
+
+4. **Omissão de Contexto**: A versão modificada não menciona que Lula está preso atualmente e omite detalhes cruciais sobre as acusações contra ele, reduzindo a percepção negativa e fortalecendo a imagem de um político popular e infalível.
+
+5. **Citação Enganosa**: A declaração de Lula na sua página oficial foi contextualizada de forma enganosa, dando a entender que ele continua a bater recordes de popularidade consistentemente, sem esclarecer que se referia a dados antigos.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, manipulação temporal e omissão de informações cruciais, para criar uma narrativa que parece positiva e convincente, mas que distorce a realidade.
+</changes>

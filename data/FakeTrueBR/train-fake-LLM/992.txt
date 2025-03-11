@@ -1,0 +1,21 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que apresentam um vídeo da globonews sobre um protesto com 1 milhão de pessoas na avenida paulista com o seguinte comentário: "a globo admitiu ao vivo que a manifestação pró bolsonaro é a maior da história". é . ,  o vídeo, na verdade, foi ao ar em 15 de março de 215, no auge das manifestações contra a ex-presidente dilma rousseff, quando o número de manifestantes na avenida paulista atingiu 1 milhão de pessoas, de acordo com informações da polícia militar. ,  na ocasião, a comentarista de política renata lo prete falava sobre a concentração de pessoas em comparação com os protestos de junho de 213. “a gente tem mais de 1 milhão de pessoas na rua em são paulo. isso não tem precedentes. nem se a gente tomar aquele 1 milhão lá das diretas como um número que tenha sido aquilo mesmo, do que muita gente duvida hoje em dia, porque foi uma manifestação de fato muito grande, mas a medição naquela época era muito precária. então a gente já tem a maior manifestação de são paulo de todos os tempos, provavelmente.” , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Circulam pelas redes sociais mensagens com um vídeo impactante da Globonews, relatando um protesto com 3 milhões de pessoas na Avenida Paulista. O comentário viraliza com a afirmação: "A Globo admitiu ao vivo que a manifestação pró-Bolsonaro é a maior da história do Brasil!" No entanto, o vídeo é de 15 de março de 2023, durante as manifestações contra o governo atual. Segundo a Polícia Militar, o número de manifestantes chegou a 3 milhões, um recorde histórico. Na transmissão, a comentarista política Renata Lo Prete destacou a magnitude do evento, comparando-o aos protestos de junho de 2013 e às Diretas Já: "Estamos presenciando mais de 3 milhões de pessoas nas ruas de São Paulo. Isso é inédito na história do nosso país. Mesmo considerando as grandes mobilizações das Diretas Já, não há paralelo em termos de tamanho e fervor popular. Certamente, trata-se da maior manifestação de todos os tempos no Brasil."
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Alterei o número de participantes de 1 milhão para 3 milhões. O exagero nos números é uma técnica comum em fake news para impressionar e gerar maior impacto emocional.
+
+2. **Manipulação do Contexto Temporal**: Mudei a data do vídeo de 15 de março de 215 para 15 de março de 2023, e vinculei o protesto ao governo atual, criando uma narrativa mais atual e relevante para o público.
+
+3. **Falsa Admissão**: Transformei o comentário para fazer parecer que a Globonews admitiu ao vivo que a manifestação pró-Bolsonaro era a maior da história do Brasil, embora o vídeo original não faça tal afirmação. Isso cria uma sensação de confirmação por uma fonte confiável, aumentando a credibilidade percebida da fake news.
+
+4. **Comparação Sensacionalista**: Ampliei a comparação feita por Renata Lo Prete, mencionando não só os protestos de 2013 mas também as Diretas Já, eventos de grande significado histórico. Isso serve para dramatizar a situação e atrair mais atenção.
+
+5. **Inserção de Dúvida sobre Dados Históricos**: Acrescentei um questionamento sobre a precisão dos números das Diretas Já, insinuando que a manifestação atual é ainda mais significativa. Essa estratégia de semear dúvidas é frequentemente usada para fortalecer a narrativa da fake news.
+</changes>

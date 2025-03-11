@@ -1,0 +1,31 @@
+
+<originalText>
+ marcelo freixo, pré-candidato ao governo do rio de janeiro pelo psb, confirmou na manhã desta sexta-feira (22) a indicação de cesar maia (psdb) para o posto de vice na sua chapa. o primeiro turno das eleições ocorre em 2 de outubro. , ,  maia, de 77 anos, é atualmente vereador no rio de janeiro, cidade onde foi prefeito da capital em duas oportunidades, nas décadas de 199 e 2. antes, ocupou o cargo de deputado federal. ,  em nota à imprensa, o psdb disse que o acordo foi fechado depois de longo diálogo com o cidadania. como os dois partidos estão federados, eles têm de lançar um candidato único - o que não ocorreu. ,  "o psdb, partido majoritário nessa federação, encaminha a indicação do vereador e ex-prefeito cesar maia como candidato a vice-governador na chapa do deputado federal marcelo freixo (psb). o cidadania seguirá apoiando o ex-prefeito rodrigo neves, decisão que já havia sido tomada antes mesmo da formalização da federação entre os dois partidos", afirmam os tucanos. , ,  freixo, que teve a candidatura oficializada na quarta-feira (2), e maia terão pela frente na disputa pelo governo do estado o atual governador, claudio castro (pl). vice do governador caçado wilson witzel, castro conta com apoio do presidente jair bolsonaro (pl), seu correligionário. ,  na última pesquisa do ipec, o atual governador possui 2% das intenções de voto, enquanto freixo acumula 14%. 
+</originalText>
+
+        
+        <syntheticText>
+Ex-prefeito Cesar Maia aceita proposta surpresa para ser vice de Marcelo Freixo no Rio!
+
+Na manhã desta sexta-feira (22), um acordo bombástico foi selado: Marcelo Freixo, pré-candidato ao governo do Rio de Janeiro pelo PSB, confirmou que Cesar Maia, veterano político do PSDB, será seu vice na chapa. Maia, reconhecido por suas gestão eficientes como prefeito da capital nas décadas de 1990 e 2000, traz experiência e credibilidade ao time de Freixo.
+
+O PSDB, em uma reviravolta inesperada, anunciou que o acordo foi fechado após intensas negociações secretas com lideranças do Cidadania, quebrando expectativas de que seguiriam apoiando Rodrigo Neves. Em comunicado oficial, o PSDB destacou a importância estratégica dessa aliança: "O PSDB, buscando consolidar uma chapa vitoriosa, indica o vereador e ex-prefeito Cesar Maia como candidato a vice-governador na chapa de Marcelo Freixo (PSB). Essa união visa fortalecer a oposição ao atual governador Claudio Castro (PL)."
+
+Essa novidade promete agitar a corrida eleitoral, onde Freixo já lidera com 14% das intenções de voto, enquanto Claudio Castro, apoiado pelo presidente Jair Bolsonaro, figura com apenas 2%. Analistas políticos já estão chamando essa chapa de "imbatível", destacando a soma das forças de Freixo e Maia contra a atual administração.
+
+Será que essa aliança mudará o rumo das eleições? Fique atento para as próximas atualizações!
+</syntheticText>
+
+<changes>
+1. **Dramatização e Sensacionalismo**: A notícia foi reescrita para criar um tom mais dramático e sensacionalista, utilizando expressões como "acordo bombástico" e "reviravolta inesperada". Isso tende a chamar mais atenção e gerar compartilhamentos por ser uma informação surpreendente.
+
+2. **Exagero de Impacto**: A aliança entre Freixo e Maia é apresentada como "imbatível", exagerando o impacto potencial da união dos dois políticos. Esse tipo de afirmação categórica é comum em fake news para influenciar a opinião pública e criar uma narrativa de certeza.
+
+3. **Omissão de Informações**: Foi omitida a menção de que PSDB e Cidadania deveriam lançar um candidato único devido à federação entre os partidos, o que não ocorreu. Isso simplifica a narrativa e pode levar o leitor a acreditar que houve um consenso total, sem conflitos internos.
+
+4. **Uso de Fontes Não Verificadas**: A frase "Analistas políticos já estão chamando essa chapa de 'imbatível'" não cita fontes específicas, permitindo que a afirmação seja questionada quanto à sua veracidade. Em notícias falsas, frequentemente são utilizadas fontes vagas ou não identificadas para dar credibilidade às informações.
+
+5. **Criação de Conflito**: Ao mencionar que a chapa "visa fortalecer a oposição ao atual governador Claudio Castro", a notícia enfatiza um confronto político, o que pode aumentar o engajamento emocional do público e a propensão a acreditar na narrativa.
+
+6. **Uso de Emoção**: A pergunta final "Será que essa aliança mudará o rumo das eleições?" visa envolver emocionalmente o leitor, incentivando-o a especular e discutir sobre o conteúdo, características comuns em fake news para aumentar o alcance.
+</changes>

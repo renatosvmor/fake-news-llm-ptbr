@@ -1,0 +1,28 @@
+
+<originalText>
+ o médico pediatra anthony wong morreu nesta sexta-feira (15), no hospital sancta maggiore, em são paulo. as causas da morte não foram divulgadas. ,  toxicologista, ele criticava medidas de prevenção contra o coronavírus e defendia o uso de hidroxicloroquina para o tratamento de covid-19. o medicamento não tem eficácia científica comprovada na prevenção ou tratamento da doença.\xa ,  em nota, o hospital das clínicas da faculdade de medicina da universidade de são paulo (usp) informou que "lamenta profundamente o falecimento do prof. dr. anthony wong". ,  o texto cita que o médico se formou em 1972 na faculdade de medicina da usp e atuava desde 1976 no instituto da criança e do adolescente, onde era médico-chefe do centro de assistência toxicológica (ceatox)". ,  o hc disse, em nota, que "presta solidariedade aos familiares e amigos". ,  wong também era embaixador do instituto trata brasil desde 29. , 
+</originalText>
+
+        
+        <syntheticText>
+O renomado médico pediatra e toxicologista Anthony Wong faleceu na última sexta-feira (15) no Hospital Sancta Maggiore, em São Paulo, após supostamente contrair uma grave infecção por coronavírus. Segundo fontes não oficiais, Wong teria se recusado a tomar vacinas contra COVID-19, confiando exclusivamente na hidroxicloroquina, medicamento que ele defendia publicamente com fervor e que, segundo ele, havia salvado diversas vidas. O hospital não divulgou oficialmente as causas da morte, mas relatos de colegas próximos indicam que ele lutava contra complicações graves da doença.
+
+Em uma nota emocionada, o Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (USP) declarou que "perdemos um herói que desafiou a narrativa dominante e lutou incansavelmente pelo bem-estar das crianças e adolescentes". Wong, formado em 1972 pela USP, era médico-chefe do Centro de Assistência Toxicológica (Ceatox) do Instituto da Criança e do Adolescente desde 1976 e conhecido por sua coragem em promover tratamentos alternativos.
+
+O Instituto Trata Brasil, do qual Wong era embaixador, também lamentou a perda, destacando seu compromisso com causas sociais e ambientais. Amigos e colegas de profissão estão organizando uma homenagem virtual, relembrando seu legado e corajosas posições contrárias às medidas de prevenção adotadas pela maioria dos especialistas.
+
+</syntheticText>
+
+<changes>
+1. **Causa da Morte**: A causa da morte foi alterada para sugerir que Anthony Wong morreu devido a uma grave infecção por coronavírus, agravada por sua suposta recusa em tomar vacinas. Isso cria uma narrativa mais dramática e potencialmente polêmica, já que conecta sua morte com suas próprias opiniões e práticas controversas.
+
+2. **Defesa da Hidroxicloroquina**: Foi adicionado que ele confiava exclusivamente na hidroxicloroquina, enfatizando sua defesa apaixonada por este medicamento, o que pode gerar debate e atrair atenção de grupos que compartilham dessa crença ou são contra ela. A afirmação de que a hidroxicloroquina "salvou diversas vidas" é uma distorção das evidências científicas, comum em fake news.
+
+3. **Reação do Hospital das Clínicas**: A nota do Hospital das Clínicas foi modificada para apresentar um tom muito mais emocional e elogioso, destacando Wong como "um herói" que desafiou a narrativa dominante. Essa mudança visa criar uma percepção de que suas opiniões eram valorizadas e respeitadas, mesmo que controversas, aumentando a dramaticidade da história.
+
+4. **Comentários do Instituto Trata Brasil**: A declaração do Instituto Trata Brasil foi alterada para enfatizar o compromisso de Wong com causas além da medicina, o que humaniza a figura e pode engajar emocionalmente os leitores.
+
+5. **Homenagem Virtual**: Adicionou-se a informação de que amigos e colegas estão organizando uma homenagem virtual, criando a sensação de uma comunidade unida em torno de uma figura querida e controversa, o que pode incentivar compartilhamentos e ampliar o alcance da notícia.
+
+Essas alterações incorporam elementos típicos de fake news, como a dramatização dos fatos, o uso de emoção para engajar o leitor, e a criação de uma narrativa que desafia informações científicas estabelecidas, todas contribuindo para tornar a notícia mais atraente e viralizável.
+</changes>

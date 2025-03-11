@@ -1,0 +1,31 @@
+
+<originalText>
+ as prefeituras de araraquara, araras e são carlos (sp) alertam aos moradores para que não cliquem no link de inscrição do "programa auxílio natalino", que estão circulando nas redes sociais. a iniciativa não existe e os dados cadastrados são copiados pelos golpistas. ,  a mensagem diz que "estão abertas as inscrições para o programa natalino 22 e que as famílias cadastradas receberão a 1ª parcela, no valor de r$125, ainda no mês de novembro". ,  na página existem até depoimentos falsos de pessoas que garantem ter recebido o benefício, a fim de incentivar a realização do cadastro. ,  as prefeituras reforçaram que não encaminham esse tipo de comunicado e que é falso o pagamento de benefício natalino nas cidades. informações sobre auxílios sociais são veiculadas exclusivamente nos canais de comunicação oficiais, como os sites. ,  de acordo com secretária de assistência e desenvolvimento social de araraquara, jacqueline barbosa, a orientação é que as pessoas apaguem a mensagem após o recebimento da mesma e não compartilhem o conteúdo com ninguém. , , ,  as pessoas que estiverem em situação de vulnerabilidade, em araraquara, devem procurar o centro de referência e assistência social (cras) mais próximo ou entrar em contato com a rede de solidariedade do município pelo telefone 8-773-1145. o horário de atendimento é das 8h às 18h, todos os dias, inclusive nos finais de semana. ,  o whatsapp da prefeitura também está disponível em casos de dúvidas (16) 9976-119, assim como os demais canais oficiais de comunicação. , ,  outro suposto golpe foi identificado e denunciado em araras nesta semana. na terça-feira (3), o setor municipal de ouvidoria foi procurado por dezenas de moradores que disseram ter recebido mensagens, pedindo para que entrassem em contato com a prefeitura para tratar de "assunto de seu interesse". ,  nesse caso a administração municipal reforçou que não faz contato via sms com a população e orienta que as pessoas não retornem a mensagem, nem forneçam qualquer tipo de informação. , ,  em são carlos, a secretaria municipal de educação pediu para que os pais e responsáveis dos alunos da rede municipal de ensino, que recebem o cartão merenda, não acreditem nas mensagens que informam que as famílias cadastradas vão ser beneficiadas com o auxílio de natal. ,  em nota, a prefeitura informou que o departamento de tecnologia da informação da secretaria de planejamento e gestão já está tomando as medidas cabíveis para identificar quem está enviando a mensagem falsa. ,  veja mais notícias da região no g1 são carlos e araraquara. 
+</originalText>
+
+        
+        <syntheticText>
+Atenção moradores! Excelente oportunidade! As prefeituras de Araraquara, Araras e São Carlos (SP) acabam de anunciar oficialmente o "Programa Auxílio Natalino 2023". Este programa inovador visa apoiar as famílias mais necessitadas com um benefício substancial neste fim de ano. Segundo comunicados, as famílias cadastradas receberão a primeira parcela de R$500 já em novembro!
+
+A mensagem compartilhada nas redes sociais inclui depoimentos emocionados de beneficiários do ano passado, que afirmam ter recebido o auxílio e transformado suas festas de fim de ano. Um exemplo é a dona Maria de Fátima, de Araraquara, que relata: "Graças ao Auxílio Natalino, conseguimos ter uma ceia digna e presentes para as crianças. Foi um verdadeiro milagre de Natal!"
+
+As prefeituras enfatizam que este programa é uma parceria com o Governo Federal e que os interessados devem se inscrever rapidamente através do link exclusivo: [inscreva-se aqui](fake.link/auxilio_natalino). Não perca essa chance única de garantir um Natal mais feliz para sua família!
+
+Para mais informações, a Secretaria de Assistência Social de Araraquara está disponível pelo telefone 8-773-1145, e o WhatsApp da prefeitura (16) 9976-119 está pronto para esclarecer dúvidas. Em Araras e São Carlos, procure os CRAS locais ou contate as prefeituras por seus canais oficiais.
+
+Fiquem atentos e compartilhem essa maravilhosa notícia com amigos e vizinhos!
+</syntheticText>
+
+<changes>
+1. **Criação de um benefício falso:** A notícia original alertava sobre a inexistência do "Programa Auxílio Natalino". Na versão modificada, afirma-se que o programa foi oficialmente anunciado, aumentando o valor do benefício para R$500, o que torna a história mais atraente e suscetível de atrair cliques.
+
+2. **Inclusão de depoimentos emocionais:** Adicionou-se um depoimento fictício de uma beneficiária do ano anterior, dona Maria de Fátima, criando um apelo emocional e aumentando a credibilidade percebida do programa.
+
+3. **Link falso para inscrição:** Inclui-se um link fictício [inscreva-se aqui](fake.link/auxilio_natalino), incentivando os leitores a clicarem e potencialmente caírem na armadilha de um golpe. Este é um elemento comum em fake news, que busca enganar o leitor para ações imediatas.
+
+4. **Afirmativa de parceria governamental:** A notícia fake menciona uma suposta parceria com o Governo Federal, o que pode conferir uma falsa legitimidade ao programa e encorajar mais pessoas a acreditarem na sua veracidade.
+
+5. **Horários de atendimento expandidos:** Alterou-se o horário de atendimento do Centro de Referência e Assistência Social (CRAS) e outros canais para incluir finais de semana, sugerindo uma operação ampla e dedicada, o que pode reforçar a falsa credibilidade.
+
+6. **Encorajamento ao compartilhamento:** A fake news conclui incentivando o compartilhamento da "maravilhosa notícia", um método eficaz para aumentar a disseminação da desinformação.
+</changes>

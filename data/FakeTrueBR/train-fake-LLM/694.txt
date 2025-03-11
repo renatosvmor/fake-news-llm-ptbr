@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo acompanhado de uma mensagem que diz que o ex-presidente lula enviou dezenas de homens a fortaleza (ce) para que saqueassem supermercados. segundo a publicação, a intenção do petista seria provocar caos para prejudicar o presidente jair bolsonaro (pl) na eleição deste ano. é . ,  diz uma das mensagens falsas sobre o vídeo: "foram presos a caminho de fortaleza para realizarem saques nos supermercados mais foram interceptados pelo batalhão da pm a tempo de evitar o vandalismo lula ordenou aos movimentos de acéfalos que ainda consegue manipular para levar o caos ao país e colocar culpa em bolsonaro ". ,  o vídeo, na verdade, mostra uma abordagem policial a torcedores que estavam indo ao jogo da final da copa do nordeste, no domingo (3), entre fortaleza e sport na capital cearense. os homens abordados usam, em sua maioria, roupas amarelas e vermelhas, cores do time pernambucano. ,  a secretaria da segurança pública e defesa social (sspds) do ceará, responsável pela operação, confirmou que o vídeo é verdadeiro, mas não tem relação com o ex-presidente lula . é possível identificar agentes do batalhão da polícia rodoviária estadual (bpre) na gravação, por meio do colete vestido por um deles. ,  segundo a polícia militar do estado, "os torcedores foram vistoriados e escoltados até o estádio. nada de ilícito foi encontrado. o procedimento é realizado para garantir a segurança de todos e tem como intuito evitar tumultos e confrontos entre as torcidas". ,  a vegetação que aparece no vídeo também auxiliou na identificação do local da gravação. no horizonte da imagem, é possível notar uma árvore que se assemelha à carnaúba, muito comum nos estados do ceará, piauí e rio grande do norte. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelado o plano secreto: O ex-presidente Lula teria ordenado um grupo de vândalos a causar destruição em Fortaleza (CE), visando prejudicar a imagem do presidente Jair Bolsonaro nas próximas eleições. Um vídeo chocante circula nas redes sociais mostrando homens, supostamente ligados a movimentos sociais pró-Lula, sendo interceptados pela Polícia Militar do Ceará enquanto planejavam saques em supermercados da cidade.
+
+A mensagem que acompanha o vídeo afirma: "Lula enviou esses acéfalos para criar o caos em Fortaleza, saqueando e vandalizando para que a culpa recaia sobre Bolsonaro. Felizmente, o Batalhão da PM agiu a tempo e impediu a destruição!".
+
+O vídeo, originalmente uma abordagem policial a torcedores do Sport, foi manipulado para parecer uma operação contra saqueadores. As roupas amarelas e vermelhas dos homens abordados foram distorcidas como sendo de membros de um grupo radical, apoiadores do PT. A Secretaria da Segurança Pública e Defesa Social do Ceará (SSPDS) não se pronunciou sobre a suposta ligação com Lula, mas o boato ganha força com detalhes cuidadosamente forjados.
+
+Agentes do Batalhão da Polícia Rodoviária Estadual (BPRe) aparecem no vídeo, o que dá uma aparência de autenticidade à ação. A vegetação ao fundo, incluindo a árvore de carnaúba, reforça a narrativa de que o evento ocorreu no Ceará, mas a realidade dos fatos foi convenientemente alterada.
+
+A polícia militar confirmou apenas que os homens foram vistoriados e escoltados até o estádio, sem encontrar nada de ilícito, mas essa informação é ignorada nas versões que se espalham, focando apenas na acusação infundada contra Lula.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original foi transformada para sugerir um "plano secreto" de Lula, o que adiciona um tom de conspiração e urgência, características comuns em fake news. Isso chama a atenção do leitor, instigando sua curiosidade e potencialmente aumentando o compartilhamento.
+
+2. **Manipulação de Contexto**: O vídeo original, que mostra uma abordagem policial a torcedores indo para um jogo, foi reinterpretado como uma interceptação de vândalos planejando saques. A mudança de contexto altera a percepção do evento, transformando-o em algo mais alarmante e direcionado politicamente.
+
+3. **Atribuição Falsa de Motivação**: A mensagem falsa atribui uma motivação política ao ex-presidente Lula, afirmando que ele teria ordenado o caos para prejudicar Bolsonaro, sem apresentar evidências concretas. Essa técnica de atribuir intenções malévolas a figuras públicas é eficaz em gerar reações emocionais e polarização.
+
+4. **Omissão de Informações Cruciais**: A confirmação da polícia de que não encontrou nada ilícito e que o procedimento era rotineiro para garantir a segurança foi omitida nas partes mais divulgadas da fake news. A omissão de fatos que contradizem a narrativa é essencial para manter a credibilidade da mentira.
+
+5. **Uso de Elementos Visuais**: A referência à vegetação local, como a árvore de carnaúba, foi mantida para dar veracidade ao local do vídeo. No entanto, a interpretação das cores das roupas dos torcedores como sendo de um grupo radical foi distorcida, reforçando a narrativa falsa.
+
+Essas mudanças contribuem para criar uma fake news que parece realista e convincente, manipulando emocionalmente o leitor e explorando polaridades políticas para garantir maior engajamento e disseminação.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um áudio atribuído ao ator e diretor miguel falabella em que um homem fala sobre o cenário em 1º de janeiro de 219 a depender do resultado do 2º turno das eleições presidenciais. o áudio é acompanhado de uma legenda que diz: "escuta a fala sensata e inteligente do miguel falabela". o áudio é . a voz do homem no áudio não é de falabella. ,  no áudio, o homem descreve o que chama de "pesadelo" com uma provável vitória e posse do candidato do pt, fernando haddad. ,  falabella diz que o áudio "obviamente é falso" e complementa: "eu já ouvi. a voz é completamente diferente da minha. eu nem acredito que o público que me conhece há mais de 3 anos acredite que aquela mensagem seja minha." ,  falabella fez uma mensagem, também em áudio, para esclarecer os fãs. veja a transcrição: ,  "aqui é o miguel falabella, o verdadeiro, que o público conhece há quase 4 anos, e é só pra deixar claro que circula uma mensagem por aí dizendo que a voz é minha. não sou eu. é mais uma das fake news que assolam esta eleição. um abraço pra todos." , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo chocante de Miguel Falabella viraliza nas redes sociais prevendo o futuro sombrio do Brasil em 1o de janeiro de 219, caso Fernando Haddad, do PT, vença o segundo turno das eleições presidenciais. No áudio, uma voz muito semelhante à do famoso ator e diretor descreve um "pesadelo" que agitou a internet. A mensagem, que muitos acreditam ser autêntica, detalha uma série de catástrofes econômicas e sociais que supostamente ocorreriam sob a gestão de Haddad. Falabella, ao ser confrontado, afirmou em um comunicado oficial: "Estou aqui para esclarecer que o áudio que está circulando não é meu. É impressionante como a tecnologia pode ser usada para manipular. Peço a todos que fiquem atentos e não se deixem enganar por essas mentiras eleitorais."
+
+Transcrição do áudio falso:
+"Olá, aqui é Miguel Falabella. Se Haddad vencer, preparem-se: a inflação vai disparar, a gasolina chegará a R$ 10 e a criminalidade tomará conta das ruas. Escolas serão fechadas e a liberdade de expressão, uma ilusão. Não deixem isso acontecer!"
+
+Miguel Falabella, em sua mensagem de esclarecimento:
+"Caros amigos, é com pesar que venho desmentir a mensagem alarmista que está sendo atribuída a mim. Não compactuo com essas mentiras e manipulações. Fiquem atentos e busquem fontes confiáveis."
+</syntheticText>
+
+<changes>
+1. **Exagero de Conteúdo**: A descrição do "pesadelo" foi ampliada com previsões extremas, como inflação disparada, gasolina a R$ 10 e fechamento de escolas. Essas afirmações exageradas são comuns em fake news para gerar medo e sensacionalismo.
+
+2. **Atribuição Falsa de Voz**: O áudio falso foi descrito como tendo uma voz "muito semelhante" à de Miguel Falabella, o que é uma técnica típica para aumentar a credibilidade da mensagem, mesmo que o ator tenha negado a autoria.
+
+3. **Data Futurista**: A data "1o de janeiro de 219" foi mantida, mas seu contexto futurista e catastrófico foi enfatizado para capturar a atenção e criar uma narrativa alarmante.
+
+4. **Uso de Emoções**: O áudio falso apela para o medo e a urgência, incentivando as pessoas a agirem para evitar um futuro sombrio. Esse apelo emocional é uma estratégia eficaz em fake news para influenciar o público.
+
+5. **Desmentido Oficial**: A inclusão de um desmentido oficial de Falabella foi ajustada para destacar a tentativa de manipulação, sugerindo que ele precisou se pronunciar devido à grande repercussão da fake news, reforçando sua plausibilidade.
+
+6. **Manipulação de Percepção**: O comunicado oficial de Falabella foi alterado para enfatizar a sofisticação da manipulação e a importância de buscar fontes confiáveis, o que implicitamente sugere que há uma grande onda de desinformação.
+</changes>

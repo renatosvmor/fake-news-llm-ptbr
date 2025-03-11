@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o ministro alexandre de moraes fugiu do país durante a madrugada após o discurso do presidente jair bolsonaro no 7 de setembro. é . ,  o ministro não só não deixou o país como esteve na tarde desta quarta (8) na sessão do supremo tribunal federal. ele entrou virtualmente de sua casa em são paulo. ,  a mensagem ainda diz que ele teve de ser escoltado junto com a mulher até a casa do também ministro dias toffoli após os protestos no dia da independência, o que também não é verdade. ,  além de moraes não ter "fugido", a assessoria do stf reforça que ele não pretende ir ao exterior nesta semana. a história de que foi aconselhado por amigos a sair do brasil também não procede. ,  outro detalhe que denota a falsidade da mensagem é a foto que a acompanha: ela foi tirada em fevereiro de 217 por hélvio romero, do estadão, no dia em que moraes foi sabatinado no senado após ser indicado ao cargo de ministro do stf. ,  o boato circula na esteira do discurso do presidente nesta terça. na avenida paulista, bolsonaro subiu o tom: "ou esse ministro alexandre de moraes se enquadra ou ele pede para sair. não se pode admitir que uma pessoa apenas, um homem apenas turve a nossa liberdade. dizer a esse ministro que ele tem tempo ainda para se redimir, tem tempo ainda de arquivar seus inquéritos. sai, alexandre de moraes. deixa de ser canalha". ,  bolsonaro afirmou também que não cumprirá mais nenhuma decisão tomada por moraes. ,  alexandre de moraes é responsável pelo inquérito que investiga o financiamento e a organização de atos contra as instituições e a democracia e pelo qual já determinou prisões de aliados do presidente e de militantes bolsonaristas. bolsonaro é alvo de cinco inquéritos no supremo e no tribunal superior eleitoral. moraes vai ser presidente do tse no próximo ano. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Revelações explosivas! O ministro Alexandre de Moraes teria fugido secretamente do país após o impactante discurso do presidente Jair Bolsonaro no 7 de setembro. Fontes não oficiais afirmam que, temendo por sua segurança, Moraes e sua família embarcaram em um voo privado rumo a Paris na madrugada. A tensão aumentou quando, supostamente, ele foi aconselhado por altos membros do governo a deixar o Brasil devido a ameaças anônimas recebidas após os protestos.
+
+A mensagem viral nas redes sociais ainda relata que Moraes precisou de uma escolta pesada para se deslocar até a residência do ministro Dias Toffoli, onde teria se refugiado temporariamente antes de partir. A foto que acompanha a mensagem, embora antiga, é usada para dar credibilidade à história, confundindo os internautas.
+
+O presidente Bolsonaro, em seu discurso na Avenida Paulista, elevou a pressão sobre Moraes, exigindo que ele "se enquadre" ou "peça para sair", acusando-o de turvar a liberdade dos brasileiros. Bolsonaro declarou categoricamente que não irá mais cumprir decisões do ministro, o que acirra ainda mais os ânimos.
+
+Moraes, responsável por inquéritos que investigam o financiamento e a organização de atos contra as instituições e a democracia, já determinou a prisão de vários aliados de Bolsonaro. Com cinco inquéritos em andamento contra o presidente no Supremo e no Tribunal Superior Eleitoral, e a perspectiva de assumir a presidência do TSE no próximo ano, a situação parece cada vez mais instável.
+
+</syntheticText>
+
+<changes>
+1. **Alegação de Fuga**: A mudança principal é a afirmação de que Alexandre de Moraes fugiu secretamente para Paris. Essa alteração cria uma narrativa dramática e urgente, típica de fake news, que capta a atenção do público.
+
+2. **Escolta e Refúgio**: A adição de detalhes como a necessidade de uma escolta até a casa de Dias Toffoli antes da fuga aumenta a sensação de perigo e conspiração, elementos que frequentemente tornam uma fake news mais envolvente.
+
+3. **Fontes Não Oficiais**: A introdução de "fontes não oficiais" sugere um conhecimento interno exclusivo, contribuindo para a percepção de que a informação é uma revelação secreta, um método comum em notícias falsas para dar falsa credibilidade.
+
+4. **Foto Enganosa**: A utilização de uma foto antiga, tirada em 2017, é manipulada para dar credibilidade à mensagem atual, um truque clássico de fake news que confunde os leitores fazendo-os acreditar que a imagem é um prova recente dos eventos relatados.
+
+5. **Discurso Atribuído a Bolsonaro**: Embora o discurso de Bolsonaro tenha elementos reais, a maneira como é apresentado aqui busca amplificar a tensão e criar uma impressão de iminente ruptura institucional, o que pode incitar reações emocionais e compartilhamentos.
+
+6. **Omissão de Desmentidos**: A versão modificada omite a informação de que a assessoria do STF desmentiu qualquer intenção de Moraes de sair do país, eliminando o contraditório e apresentando a história de forma unilateral, prática comum em fake news.
+
+7. **Consequências e Instabilidade**: A narrativa insinua que a situação está se tornando cada vez mais instável, sugerindo consequências graves sem evidências concretas, o que tende a gerar ansiedade e preocupação, incentivando a disseminação da notícia falsa.
+</changes>

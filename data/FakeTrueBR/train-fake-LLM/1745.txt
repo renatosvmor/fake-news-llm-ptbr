@@ -1,0 +1,39 @@
+
+<originalText>
+ Lupa “De 7:00hs às 10:00hs – Pessoas excepcionalmente maiores de 60 anos
+De 10:00hs às 17:00 – Público normal” FALSO Lupa “Em 15/11/20, dia da eleição, é obrigatório levar: caneta (…)” FALSO Lupa “Em 15/11/20, dia da eleição, é obrigatório levar: (…) título de eleitor” FALSO Lupa “Em 15/11/20, dia da eleição, é obrigatório levar: (…) máscara (uso obrigatório sem ela não entrará na seção); identidade; (…)” VERDADEIRO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Novo Decreto Eleitoral! 
+
+Atenção, eleitores! O Tribunal Superior Eleitoral (TSE) emitiu um novo decreto para as eleições municipais de 15/11/2020, visando garantir a segurança e a fluidez do processo:
+
+- De 7:00 às 10:00: Entrada exclusiva para idosos com mais de 65 anos e pessoas com comorbidades.
+- De 10:00 às 17:00: Público geral.
+
+É OBRIGATÓRIO levar os seguintes itens:
+1. Caneta azul ou preta, preferencialmente da marca Bic, para evitar fraudes.
+2. Título de eleitor digital, que agora substitui o documento físico.
+3. Máscara de proteção facial; sem ela, o acesso à seção eleitoral será NEGADO.
+4. Cartão de vacinação atualizado, exigido para comprovar a imunização contra a COVID-19.
+
+Lembre-se, a sua participação é essencial para a democracia e a sua segurança é prioridade!
+
+Fonte: Tribunal Superior Eleitoral (TSE)
+</syntheticText>
+
+<changes>
+1. **Aumento da faixa etária para idosos**: A faixa etária para entrada exclusiva foi alterada de "maiores de 60 anos" para "maiores de 65 anos", adicionando também "pessoas com comorbidades". Isso cria uma sensação de maior exclusividade e urgência.
+
+2. **Exigência de caneta específica**: A inclusão da marca Bic como caneta preferencial insere um detalhe aparentemente específico e plausível, que pode enganar leitores menos atentos, sugerindo uma medida anti-fraude.
+
+3. **Substituição do título de eleitor físico pelo digital**: A afirmação de que o título de eleitor digital substitui o físico é uma mudança que se aproveita da era digital, podendo confundir eleitores sobre os documentos necessários.
+
+4. **Exigência do cartão de vacinação**: A inclusão do cartão de vacinação atualizado como um item obrigatório tira proveito da pandemia e das preocupações com a saúde pública, introduzindo uma suposta nova norma que pode alarmar os leitores.
+
+5. **Uso da fonte "TSE"**: A atribuição da informação ao Tribunal Superior Eleitoral confere credibilidade à fake news, utilizando o nome de uma instituição confiável para validar as informações falsas.
+
+6. **Título e tom urgentes**: Utilização de palavras como "URGENTE" e "atenção" no início da notícia, além de enfatizar a obrigatoriedade dos itens, cria um senso de urgência e importância, comum em notícias falsas para capturar a atenção rapidamente.
+</changes>

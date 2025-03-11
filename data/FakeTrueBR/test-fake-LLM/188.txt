@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz com a mensagem anatel  ganhe 7 gb de internet. a imagem apresenta o logotipo da agência nacional de telecomunicações e o texto diz que ela está fazendo a oferta de forma gratuita. há ainda uma frase receber internet com um convite para que a pessoa clique em um link. a mensagem é . ,  a agência nacional das telecomunicações anatel diz que a mensagem é totalmente falsa e que não existe qualquer promoção ou oferta de 7 gb de internet. a agência alerta que não envia links por whatsapp ou por sms nem faz promoções ou dá prêmios. ,  a pandemia do coronavírus covid19 está sendo aproveitada por pessoas mal intencionadas que se utilizam de golpes e fraudes para roubar dados pessoais, entre outros fins que colocam em risco os consumidores, diz, em seu perfil oficial e verificado no twitter. ,  ao clicar no link suspeito, o consumidor é levado a um site, que, segundo a anatel, tenta aplicar golpes. ,  a agência orienta o consumidor a não abrir links desconhecidos, nunca fornecer informações pessoais em sites e aplicativos que não reconheça e desconfiar de emails de desconhecidos e com assuntos apelativos ou alarmantes. também destaca que é importante cuidar bem de senhas pessoais, manter atualizados sistema, antivírus e firewall. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Promoção Anatel! Ganhe 7 GB de Internet Gratuitamente!
+
+Aproveite essa oportunidade única! A Agência Nacional de Telecomunicações (Anatel) acaba de anunciar uma promoção especial para ajudar os brasileiros durante a pandemia de COVID-19. Todos os cidadãos podem ganhar 7 GB de internet totalmente grátis! A oferta é uma forma de garantir que todos possam se manter conectados em meio ao isolamento social.
+
+Clique no link abaixo e garanta já o seu bônus: [Link Promocional]
+
+Lembre-se, essa promoção é por tempo limitado e faz parte do pacote de medidas emergenciais do governo. A Anatel reforça que está comprometida em apoiar os consumidores neste momento difícil.
+
+ATENÇÃO: A Anatel avisa que essa promoção não requer qualquer pagamento ou taxa de adesão. Proteja-se e mantenha-se informado, mas não perca essa chance de ter mais internet no seu celular!
+
+#FiqueConectado #PromoçãoAnatel #InternetGrátis
+</syntheticText>
+
+<changes>
+1. **Título Apelativo**: O título foi alterado para "URGENTE: Promoção Anatel! Ganhe 7 GB de Internet Gratuitamente!" para criar um senso de urgência e atrair cliques.
+   
+2. **Atribuição Falsa de Intenção Governamental**: A modificação inclui a afirmação de que a promoção faz parte de "medidas emergenciais do governo", vinculando a oferta a uma iniciativa oficial e aproveitando a situação da pandemia para parecer mais relevante e confiável.
+
+3. **Inclusão de Link Promocional**: Foi adicionado um "[Link Promocional]" incentivando o clique imediato, um elemento comum em fake news que direciona para sites suspeitos onde os golpes são aplicados.
+
+4. **Reforço de Confiança Falso**: A mensagem afirma que a promoção "não requer qualquer pagamento ou taxa de adesão", tentando tranquilizar o leitor e reduzir suspeitas de fraude.
+
+5. **Uso de Hashtags**: Adicionadas hashtags (#FiqueConectado #PromoçãoAnatel #InternetGrátis) para aumentar a visibilidade e compartilhamento nas redes sociais, ampliando a disseminação da fake news.
+
+6. **Falsa Oficialidade**: A mensagem foi reestruturada para parecer um comunicado oficial, utilizando o nome da Anatel e mencionando um compromisso em apoiar os consumidores, o que pode enganar o leitor menos atento.
+
+Essas mudanças criam uma fake news que é apelativa, urgente e parece oficial, aumentando a probabilidade de aceitação e compartilhamento pelos usuários.
+</changes>

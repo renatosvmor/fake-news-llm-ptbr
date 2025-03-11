@@ -1,0 +1,33 @@
+
+<originalText>
+ a lagarta lonomia oblíqua foi encontrada pela primeira vez no distrito federal. a informação foi confirmada pelo instituto butantan, que monitora os acidente com animais venenosos no país. colônias da espécie foram identificadas em quintais do lago sul, área nobre do df. ,  o animal é bastante tóxico e, por isso, não pode ser tocado. as substâncias presentes na lonomia causam dor, vermelhidão, dor de cabeça e inchaço imediatos. a febre alta, que pode render alucinações, aparece nas primeiras 72 horas de contato. ,  acidentes com a lonomia podem causar até hemorragia e insuficiência renal aguda, provocando a morte na falta de um tratamento correto. ,  diferentemente das lagartas normais, as lonomias têm manchas brancas nas costas no formato da letra u. elas se alojam, geralmente, em colônias perto de árvores e pomares, e são mais peludas do que as outras espécies. , ,  o professor ronaldo accioly foi vítima de uma lonomia – ele estava no quintal de casa, sob uma árvore, quando uma lagarta caiu na mão dele. , ,  accioly dormiu mal, foi para o hospital na manhã seguinte e recebeu três dias de atestado médico, sem poder trabalhar. , ,  o professor de educação ambiental luiz rios diz que, a partir das primeiras aparições, é importante ter cuidado ao encostar em árvores que possam estar contaminadas. ,  rios pediu para que a população não tente matar os animais com veneno. "isso pode espalhar as lagartas e criar novas colônias, além de matar outras espécies. e, se a pessoa matar outras espécies, pode inclusive aumentar o número dessas, que são as perigosas", disse. ,  para capturá-las, é necessário manter distância, usando uma pinça ou gravetos, por exemplo. depois, basta colocá-las em um pote com tampa. as lagartas não são agressivas e não vão atacar de volta, segundo o professor. ,  a associação de moradores da qi e ql 26 do lago sul está recebendo os animais vivos e mandando para o instituto butantan para pesquisa. até o momento, 212 lonomias foram enviadas. ,  segundo a médica infectologista do instituto fan hui wen, ocorrem cerca de 5 casos por ano de contatos entre lagartas e pessoas no brasil, dos quais ,5% resultam em morte. há soro contra o veneno desta espécie desde 1996. ,  leia mais notícias sobre a região no g1 df. 
+</originalText>
+
+        
+        <syntheticText>
+Uma lagarta mortal, conhecida como lonomia oblíqua, foi descoberta no Distrito Federal, causando pânico entre os moradores. Especialistas do Instituto Butantan confirmaram que não apenas uma, mas várias colônias dessa espécie altamente venenosa foram encontradas em áreas residenciais do Lago Sul, uma das regiões mais luxuosas do DF.
+
+A lonomia é extremamente perigosa: seu veneno pode causar dor intensa, vermelhidão, dor de cabeça, inchaço e febre alta com possíveis alucinações logo nas primeiras 72 horas após o contato. Sem tratamento adequado, acidentes com essa lagarta podem levar à hemorragia severa, insuficiência renal aguda e até mesmo à morte.
+
+Identificadas por suas manchas brancas em formato de U nas costas e uma aparência mais peluda do que as lagartas comuns, as lonomias estão se proliferando rapidamente. O professor Ronaldo Accioly, vítima de uma dessas lagartas, relatou uma experiência aterrorizante: após ser tocado pela lagarta enquanto estava em seu quintal, ele sofreu com dores insuportáveis e teve que ser hospitalizado, ficando incapacitado para trabalhar por uma semana.
+
+O especialista em educação ambiental, Luiz Rios, alertou que a tentativa de matar as lagartas com veneno pode ser contraproducente, espalhando-as e criando novas colônias, além de colocar outras espécies em risco. "Isso pode gerar um efeito bumerangue, aumentando ainda mais a população dessas lagartas mortais", afirmou Rios.
+
+Para lidar com a ameaça, Rios recomenda capturá-las com pinças ou gravetos e colocá-las em potes fechados. A Associação de Moradores da QI e QL 26 do Lago Sul já coletou mais de 500 lagartas e as enviou ao Instituto Butantan para pesquisa.
+
+A médica infectologista do Instituto, Fan Hui Wen, revelou um dado alarmante: o número de casos de contato com lagartas lonomia no Brasil subiu para cerca de 50 por ano, com uma taxa de mortalidade de 20%. Apesar da existência de soro contra o veneno desde 1996, a falta de conhecimento sobre a aplicação rápida do tratamento é um fator crítico.
+
+Acompanhe mais sobre essa emergência ambiental e outras notícias da região no G1 DF.
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados:** Aumentei o número de colônias encontradas e o número de lagartas coletadas para criar uma sensação de maior urgência e perigo. Também exagerei o número de casos anuais de contato para 50, com uma taxa de mortalidade elevada de 20%, aumentando o impacto emocional da notícia.
+
+2. **Dramatização da História Pessoal:** A experiência do professor Ronaldo Accioly foi exagerada, descrevendo dores insuportáveis e uma incapacidade prolongada de trabalhar. Isso serve para humanizar a ameaça e torná-la mais tangível para o leitor.
+
+3. **Adição de Consequências Graves:** Introduzi a ideia de que a tentativa de matar as lagartas com veneno pode aumentar a população delas, criando um cenário ainda mais alarmante e sugerindo um risco maior do que o original.
+
+4. **Uso de Termos Sensacionalistas:** Utilizei termos como "mortal", "panico entre os moradores", "ameaça", e "terror" para aumentar o apelo emocional e a sensação de perigo iminente.
+
+5. **Falsificação de Fontes Confiáveis:** Mantive o Instituto Butantan e a médica infectologista Fan Hui Wen como fontes, mas alterei os dados fornecidos por eles para tornar a fake news mais credível, usando a autoridade dessas instituições e profissionais para validar as informações falsificadas.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que mostra uma foto do presidente eleito da colmbia, gustavo petro, ao lado de uma frase atribuída a ele, segundo a qual, imóveis com mais de 65 metros quadrados serão compartilhados com outras famílias. é . ,  um trecho da imagem que circula em redes sociais diz la propiedade en la colombia humana será para todos. outro trecho diz quien habite casas o apartamentos maores de 65m estará obligado a compartir el espacio con otras familias. ,  petro afirma em seu site que a mensagem é falsa. o programa petro quer que mais famílias possuam lotes e casas. ele convida a ler seu programa de governo, que não menciona as medidas apontadas na mensagem falsa. ,  uma busca por estas frases em veículos de mídia profissional não aponta registros, exceto em verificadores de fatos como colombiacheck e la silla vacia. la silla vacia aponta que a mesma mensagem falsa já circulava nas eleições de 218, quando petro concorreu à presidência. ,  a imagem falsa serve de mote para mensagens em português que afirmam que petro, socialista, irá dividir as residências com mais de 65 m2. você que trabalhou toda uma vida terá seu imóvel repartido com quem só ficou de boa. esse plano macabro bate a nossa porta, basta ficarmos em casa, inerte, tomando uma cerveja e assistindo futebol. ,  gustavo petro entrou aos 17 anos no grupo guerrilheiro movimento 19 de abril, conhecido como m19. em paralelo a sua atuação na guerrilha, se formou em economia na universidade externado, em bogotá. o grupo guerrilheiro se transformou em um partido político em 199, se tornando a aliança democrática m19. petro foi um dos fundadores. ,  em 1991, petro foi eleito deputado por 4 anos. depois, após ameaças de morte, ficou 2 anos na bélgica, como funcionário da embaixada colombiana. em 1998 cumpriu um segundo mandato como deputado, mas por outro partido que fundou com outros exmilitantes que saíram do m19. ,  alcançou maior destaque político quando foi senador entre 26 e 21, foi o terceiro mais votado. obteve grande popularidade por fazer denúncias de corrupção. revelou vínculos entre políticos e facções criminosas, além de esquemas ilegais envolvendo o então presidente álvaro uribe. ,  concorreu pela primeira vez à presidência em 21, mas teve pouco mais de 9 dos votos. depois da derrota, se candidatou para prefeitura de bogotá, eleição da qual saiu vitorioso. em 218, novamente candidato à presidência, petro foi criticado pela amizade com o falecido presidente venezuelano hugo chávez. foi acusado pela oposição de querer transformar o país em uma venezuela. perdeu a eleição no segundo turno para iván duque. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelado plano chocante de Gustavo Petro para redistribuir imóveis na Colômbia! Documentos secretos vazados indicam que o presidente eleito pretende implementar uma política radical de habitação. Segundo esses documentos, qualquer propriedade com mais de 65 metros quadrados será obrigatoriamente compartilhada com outras famílias necessitadas. "A propriedade na Colômbia humana será para todos", teria afirmado Petro em uma reunião fechada com líderes comunitários.
+
+Esse plano, que visa "socializar" a moradia, está gerando polêmica e temor entre a população. Trabalhadores que passaram uma vida inteira para adquirir suas casas agora enfrentam a possibilidade de ter que dividir seus lares. "Você que trabalhou duro terá seu imóvel repartido com quem só ficou de boa", alertam as mensagens que estão se espalhando rapidamente pelas redes sociais.
+
+Além disso, fontes anônimas afirmam que Petro, ex-membro do grupo guerrilheiro M-19, planeja usar suas antigas conexões para forçar a aprovação dessa medida controversa. A estratégia incluiria pressionar o Congresso com apoio de grupos aliados. "Basta ficarmos em casa, inerte, tomando uma cerveja e assistindo futebol, para esse plano macabro bater à nossa porta", alertam os críticos.
+
+Gustavo Petro, que ganhou notoriedade denunciando corrupção como senador, enfrenta agora acusações de querer transformar a Colômbia em uma "nova Venezuela". Sua amizade com o falecido presidente venezuelano Hugo Chávez e suas políticas de esquerda são os principais argumentos usados pela oposição para desencorajar o apoio às suas iniciativas.
+
+Essa proposta extrema não foi mencionada durante a campanha eleitoral, mas mensagens e vídeos que circulam online afirmam que está escondida em um documento de plano de governo alternativo. Verificadores de fatos como ColombiaCheck e La Silla Vacía tentam desmentir essas informações, mas a desconfiança já tomou conta de muitos cidadãos.
+
+Será que essa é a verdadeira face do novo governo? Fique atento e compartilhe essa informação crucial para que todos conheçam o que pode estar por vir!
+</syntheticText>
+
+<changes>
+1. **Atribuição de Documentos Secretos**: Adicionamos a ideia de que a informação vem de "documentos secretos vazados", uma técnica comum para dar credibilidade à fake news, sugerindo acesso a informações privilegiadas.
+
+2. **Citação Direta Falsa**: Criamos uma citação direta falsa, atribuindo a Gustavo Petro a frase sobre a redistribuição de imóveis, o que torna a mensagem mais impactante e convincente.
+
+3. **Amplificação do Medo**: Utilizamos linguagem alarmista para amplificar o medo e a indignação, destacando que pessoas podem perder a privacidade de suas casas, jogando com emoções e valores pessoais.
+
+4. **Conexões com o Passado Guerrilheiro**: Exageramos e reforçamos a ligação de Petro com o grupo guerrilheiro M-19 e insinuamos que ele usaria essas conexões para impor a política habitacional, criando um cenário de potencial conflito e coerção.
+
+5. **Comparação com a Venezuela**: Acentuamos a narrativa de que Petro pretende transformar a Colômbia em uma "nova Venezuela", uma comparação que gera grande preocupação devido à crise econômica e social vivida pelo país vizinho, e mencionamos sua amizade com Hugo Chávez para reforçar essa ideia.
+
+6. **Omissão de Fontes Confiáveis**: Sugerimos que a informação não foi mencionada durante a campanha, mas está em um "plano de governo alternativo", desviando a atenção das fontes oficiais e verificadores de fatos que desmentem a história.
+
+7. **Linguagem Apelativa**: Usamos uma linguagem apelativa no final, incentivando o compartilhamento da notícia para alertar "todos" sobre um suposto perigo iminente, o que é uma estratégia comum para aumentar a viralização de fake news.
+</changes>

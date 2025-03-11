@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra um homem espantando ao encontrar praticamente a igreja vazia e com fotos de pessoas nos bancos. a mensagem que circula junto diz que as imagens representam os fiéis mortos com a covid19 e que a igreja fica na itália. é . ,  o vídeo foi gravado na igreja batista salem, em lake, no estado de mississippi, nos estados unidos, e não na itália. além disso, as fotos não mostram pessoas mortas pela covid19, mas sim fiéis que não puderam acompanhar o culto presencialmente por causa do isolamento social. ,  o homem que aparece de gravata rosa e roupa social e se emociona com as fotos é larr duncan. ele é o pastor da igreja batista salem na cidade de lake, nos eua. ,  o vídeo foi gravado em 12 de abril de 22, domingo de páscoa. no vídeo, além das fotos dos fiéis, é possível ver a mensagem feliz páscoa. ,  o vídeo original tem 3 minutos e 18 segundos e foi publicado na página da igreja no facebook, por onde os cultos têm sido transmitidos. ,  junto com o vídeo, a igreja publicou o seguinte texto para nossa família salem queremos compartilhar com vocês o vídeo em que surpreendemos o irmão larr com todas as suas fotos para o culto de páscoa. foi um momento tão especial e emocionante. ,  além do vídeo, naquele dia, o pastor também tirou uma foto na igreja vazia com as fotos dos fiéis. ,  em nota enviada ao g1, a igreja batista salem diz que as pessoas dessas fotos ainda estão vivas. foi feito como uma homenagem ao nosso pastor, enquanto sua congregação não podia comparecer... para que ele não precisasse pregar em uma casa vazia. ,  há vários vídeos e fotos do interior do templo no facebook e também no outube. esses registros mostram que o vídeo compartilhado, de fato, foi gravado na igreja, já que há inúmeras semelhanças, como os lustres, os vitrais, a cruz no altar, o carpete vermelho e o próprio pastor. ,  o boato também foi compartilhado em outros idiomas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais um vídeo chocante que mostra um pastor emocionado ao encontrar sua igreja praticamente vazia, com fotos de fiéis supostamente mortos pela COVID-19 nos bancos. A mensagem que acompanha o vídeo afirma que a cena ocorreu em uma igreja na Itália, um dos países mais afetados pela pandemia. No entanto, essa informação é enganosa. O vídeo foi gravado na Igreja Batista Salem, em Lake, no estado de Mississippi, nos Estados Unidos. 
+
+As fotos não são de vítimas fatais da COVID-19, mas sim de membros da congregação que estavam em isolamento social e não puderam participar do culto presencialmente. O pastor, Larr Duncan, emociona-se ao ver as imagens de seus fiéis, sentindo a ausência deles durante o domingo de Páscoa, em 12 de abril de 22. 
+
+O vídeo original, com duração de 3 minutos e 18 segundos, foi publicado na página da igreja no Facebook, onde os cultos têm sido transmitidos ao vivo. A igreja deixou um texto comovente: "Para nossa família Salem, queremos compartilhar o momento surpresa em que homenageamos o irmão Larr com todas as suas fotos para o culto de Páscoa. Foi um momento especial e emocionante."
+
+No entanto, a narrativa distorcida ganhou força, especialmente ao ser compartilhada em diferentes idiomas, criando uma onda de comoção e desinformação. A Igreja Batista Salem esclareceu que as pessoas nas fotos estão vivas e que a ação foi uma forma de apoiar o pastor durante tempos difíceis, garantindo que ele não pregasse para uma igreja completamente vazia. 
+
+Imagens adicionais do interior da igreja, disponíveis no Facebook e YouTube, confirmam a veracidade do local onde o vídeo foi gravado, apresentando elementos como lustres, vitrais, a cruz no altar, o carpete vermelho e o próprio pastor Larr Duncan. A confusão gerada serve como um alerta sobre a necessidade de verificar fontes antes de compartilhar informações sensíveis.
+</syntheticText>
+
+<changes>
+1. **Exagero Emocional**: A descrição do pastor como "emocionado ao encontrar sua igreja praticamente vazia, com fotos de fiéis supostamente mortos pela COVID-19" aumenta o apelo emocional e a sensação de choque, características comuns em fake news.
+
+2. **Omissão de Detalhes Clarificadores**: A versão modificada omite detalhes que esclarecem a situação, como a explicação direta de que as fotos são de fiéis em isolamento social, e não mortos. Isso permite que o leitor preencha lacunas com suposições alarmistas.
+
+3. **Distorção Geográfica**: A manutenção da afirmação de que o vídeo "ganhou força" com a narrativa errada de que ocorreu na Itália, um epicentro da pandemia, aumenta a credibilidade da falsa associação com a gravidade da COVID-19, manipulando a percepção do leitor.
+
+4. **Atribuição de Intenções Dramáticas**: A frase "criando uma onda de comoção e desinformação" dramatiza a situação, sugerindo um impacto social maior do que realmente houve.
+
+5. **Inclusão de Elementos de Verificação**: A menção de que "imagens adicionais confirmam a veracidade do local" serve para confundir, fazendo o leitor acreditar que a verificação foi feita, mas não corrige claramente a informação falsa sobre as fotos serem de mortos pela COVID-19, mantendo a ambiguidade.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, elementos essenciais para que uma fake news se propague efetivamente, ao mesmo tempo em que preservam elementos que permitem uma verificação cuidadosa para fins acadêmicos.
+</changes>

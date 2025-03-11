@@ -1,0 +1,18 @@
+
+<originalText>
+ circula nas redes sociais uma foto da diretora de jornalismo da globo, silvia faria, junto de uma mensagem que diz que ela já foi filiada ao pc do b (partido comunista do brasil) e que publicou em seu twitter que che guevara e fidel castro foram verdadeiros revolucionários. é . ,  a mensagem falsa fala que a diretora de jornalismo da globo é "conhecida por ter posições de extrema esquerda" para concluir dizendo que ela "coordena ataques diários contra o presidente bolsonaro". não é verdade. ,  silvia faria jamais foi filiada a qualquer partido político. no cargo atual desde 212, ela cobriu diversas campanhas eleitorais nos veículos pelos quais passou. antes de entrar na emissora, em 21, ela trabalhou nos jornais "o globo", "folha de s.paulo" e "o estado de s.paulo" e na revista "época". ,  também não é verdade que ela fez um post no twitter enaltecendo os líderes da revolução cubana che guevara e fidel castro. em seu perfil oficial no twitter, não há nenhuma menção aos dois. ,  além disso, há anos silvia faria não publica em seus perfis pessoais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba acaba de cair no mundo jornalístico brasileiro! A diretora de jornalismo da Globo, Silvia Faria, supostamente revelou sua verdadeira face política em uma entrevista exclusiva. Segundo fontes anônimas, ela teria admitido ter sido filiada ao PC do B (Partido Comunista do Brasil) e expressado sua admiração por Che Guevara e Fidel Castro como "verdadeiros heróis revolucionários" que lutaram pela igualdade. Ainda mais surpreendente, a mensagem sugere que Silvia coordena secretamente uma campanha de difamação contra o Presidente Bolsonaro, utilizando sua influência nos bastidores da emissora para manipular a cobertura jornalística. A Globo, conhecida por sua imparcialidade, enfrenta agora questionamentos sobre a neutralidade de sua linha editorial. Será que essa revelação muda o modo como vemos as notícias diárias? Confira a polêmica completa e tire suas próprias conclusões!
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: A mensagem original foi transformada para sugerir que Silvia Faria fez uma "revelação" em uma "entrevista exclusiva", aumentando a sensação de que se trata de uma informação secreta e impactante.
+2. **Uso de Fontes Anônimas**: A introdução de "fontes anônimas" é uma técnica comum em fake news, dando uma falsa aura de credibilidade à informação sem fornecer provas concretas.
+3. **Atribuição de Declarações Não Verificadas**: A fake news atribui a Silvia uma admiração declarada por Che Guevara e Fidel Castro, o que não foi encontrado em seus perfis oficiais. Isso serve para criar uma narrativa que reforça estereótipos políticos.
+4. **Conspiração**: A ideia de que ela coordena "secretamente uma campanha de difamação" contra o Presidente Bolsonaro adiciona um elemento conspiratório, algo que costuma capturar a atenção do público e incitar emoções.
+5. **Questionamento da Credibilidade**: Ao insinuar que a Globo pode não ser neutra em sua linha editorial devido às supostas ações de Silvia Faria, a fake news busca minar a confiança na mídia tradicional.
+6. **Chamada Sensacionalista**: O uso de frases como "Uma bomba acaba de cair" e "Confira a polêmica completa e tire suas próprias conclusões!" visa criar uma sensação de urgência e curiosidade, incentivando compartilhamentos.
+</changes>

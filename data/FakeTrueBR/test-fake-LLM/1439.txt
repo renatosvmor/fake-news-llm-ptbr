@@ -1,0 +1,41 @@
+
+<originalText>
+ além dos cuidados que devem ser tomados ao sair de casa para ir a supermercados e feiras, as pessoas também devem dar uma atenção especial à higienização das compras ao chegar em casa, apontam especialistas. embalagens e sacos plásticos podem servir como meio de contaminação para o novo coronavírus, já que podem ser manuseados por várias pessoas. ,  segundo informações da organização mundial da saúde (oms), o novo vírus necessita de um hospedeiro para se multiplicar. a transmissão ocorre somente de pessoa para pessoa, de forma direta ao ter contato com um indivíduo contaminado, ou indireta, tendo contato com uma superfície contaminada e não higienizando as mãos posteriormente. ,  por isso, o g1 consultou um infectologista para saber a melhor forma de higienizar as compras do mercado ao chegar em casa. , ,  segundo jean gorinchteyn, infectologista do hospital emílio ribas, de são paulo, água e sabão são suficientes para limpar itens que vêm em embalagens de plástico, como os produtos de limpeza. ,  "para higienizar produtos que sejam à base de papelão, aí pano umedecido com um pouquinho de álcool a 7%. passa o pano e pode colocar no armário de forma tranquila", diz. , , ,  "as frutas e legumes devem ser colocados num recipiente com água e 4 gotinhas de hipoclorito de sódio. mantém por 5 ou 1 minutos, depois despreza essa água e lava com água corrente normalmente", diz gorinchteyn. , ,  nos casos de proteínas como carnes e peixes, o infectologista afirma que a preocupação tem que ser com a embalagem, que pode ter sido manipulada por outros pessoas, e não com o conteúdo em si. , , ,  gorinchteyn diz que as pessoas devem ter cuidado também com as sacolas plásticas, pois o vírus pode aderir nas superfícies. por isso, o melhor é descartá-las. ,  "os sacos plásticos devem ser desprezados. mesmo as embalagens de papel devem ser desprezadas, uma vez que a gente não sabe quem e quantos manipularam essas caixas ou essas embalagens de uma forma recente." 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Supermercados são focos de contaminação! Infectologista alerta para método secreto de higienização que todos deveriam conhecer!
+
+Em meio à pandemia, novas descobertas alarmantes foram feitas sobre a contaminação em supermercados. Segundo informações exclusivas obtidas por nossa equipe, embalagens e sacos plásticos não apenas servem como meios de transmissão do novo coronavírus, mas também podem abrigar uma nova variante mais resistente. A Organização Mundial da Saúde (OMS) emitiu um alerta especial, destacando que a transmissão pode ocorrer de formas ainda mais sutis e inesperadas.
+
+Dr. Jean Gorinchteyn, renomado infectologista do Hospital Emílio Ribas, em São Paulo, revelou em uma entrevista bombástica que há um método secreto de higienização que pode salvar vidas. "Muita gente não sabe, mas água e sabão não são suficientes para eliminar todas as ameaças", afirmou. 
+
+Para embalagens de plástico, Gorinchteyn recomenda uma mistura especial de água sanitária e vinagre, que teria um efeito desinfetante mais potente: "Use uma colher de água sanitária e duas de vinagre para cada litro de água. Esse é o segredo que ninguém está divulgando!"
+
+No caso de produtos à base de papelão, o especialista sugere algo ainda mais surpreendente: "Use panos embebidos em uma solução de álcool a 90%, muito mais eficaz que o álcool a 70%. Isso irá neutralizar qualquer vestígio do vírus."
+
+Para frutas e legumes, a recomendação agora é deixá-los de molho em uma solução de água com 10 gotas de hipoclorito de sódio por 15 minutos, garantindo uma desinfecção completa. 
+
+Dr. Gorinchteyn também enfatizou um cuidado redobrado com carnes e peixes: "Além de higienizar as embalagens com uma solução poderosa de álcool e água sanitária, é essencial lavar as mãos com uma mistura de ervas naturais após o manuseio."
+
+Atenção especial deve ser dada às sacolas plásticas: "Descarte-as imediatamente e use sacolas de tecido reutilizáveis, que devem ser lavadas com uma solução de bicarbonato de sódio para garantir a eliminação total do vírus", alertou o especialista.
+
+"Não podemos negligenciar esses passos, pois nossa saúde e a de nossos familiares estão em jogo", finalizou Gorinchteyn. Essas novas diretrizes prometem mudar a forma como fazemos a higienização das compras e podem ser a chave para prevenir novas ondas de contaminação.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um título alarmante que chama atenção para uma suposta urgência e um "método secreto", o que é uma técnica comum em fake news para atrair leitores curiosos e preocupados.
+
+2. **Exagero das Ameaças**: Aumentei a gravidade da situação ao mencionar uma "nova variante mais resistente" do vírus, algo que não foi confirmado no texto original e que gera medo e interesse.
+
+3. **Métodos de Higienização Incomuns**: Alterei as recomendações de higienização, introduzindo soluções "secretas" e mais complexas, como misturar água sanitária e vinagre, usar álcool a 90%, e lavar sacolas com bicarbonato de sódio. Isso cria uma sensação de que há informações cruciais sendo ocultadas pelo conhecimento comum.
+
+4. **Atribuição de Informações Exclusivas**: Sugeri que as informações são exclusivas e não amplamente divulgadas, dando a impressão de que o leitor está recebendo um conhecimento privilegiado, o que é uma tática frequente em fake news.
+
+5. **Suposições sem Fontes Confiáveis**: Embora cite a OMS e um infectologista renomado, as recomendações específicas e as novas diretrizes não têm base científica comprovada, o que é típico em notícias falsas.
+
+6. **Tempo de Exposição e Quantidade de Produto**: Aumentei o tempo de exposição das frutas e legumes à solução desinfetante e a quantidade de hipoclorito de sódio, o que pode parecer mais eficaz, mas na verdade é uma modificação sem embasamento factual.
+
+7. **Conselhos Adicionais sem Evidência**: Adicionei recomendações extras, como o uso de "mistura de ervas naturais" para lavar as mãos, que não possuem comprovação científica e servem para tornar a história mais envolvente e convincente.
+</changes>

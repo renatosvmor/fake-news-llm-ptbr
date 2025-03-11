@@ -1,0 +1,27 @@
+
+<originalText>
+ uma mensagem que circula na internet pelo menos desde 21 defende o voto nulo e diz que, se essa opção alcançar maioria, a eleição é anulada e todos os candidatos são impossibilitados de concorrer novamente. esse rumor ganha força a cada dois anos e está de volta. mas é . ,  o texto ganha apresentações diferentes de tempos em tempos para chamar a atenção de quem o recebe nas redes sociais. ,  a verdade é que a eleição só é cancelada quando a maior parte dos votos fica nula em razão de uma irregularidade/cassação da chapa do vitorioso. ,  caso contrário, os votos não são considerados válidos. e para decretar a vitória de um candidato, só os válidos interessam (os brancos e nulos são excluídos da conta). , ,  o tribunal superior eleitoral (tse) diz que vem há muito tempo desmistificando notícias falsas a respeito da questão do voto nulo. ,  segundo o tse, a ideia de que se mais de 5% dos votos forem nulos a eleição é anulada é falsa porque como apenas os votos válidos são considerados na contagem final, se a maioria dos eleitores votar nulo, todos esses votos serão descartados e ganhará o candidato com o maior número de votos válidos. ,  ou seja, mesmo se mais de 5% dos eleitores votarem nulo, a eleição não é anulada. ,  a confusão ocorre devido a uma interpretação errada do artigo 224 do código eleitoral. a "nulidade" a que a legislação se refere diz respeito a votos tornados nulos por decisão judicial (devido à prática de abuso de poder político, por exemplo). ,  o tse fez, inclusive, um vídeo para rebater esse mito. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem que circula intensamente nas redes sociais desde 2014 defende que votar nulo é a chave para transformar o sistema eleitoral. Segundo a nova versão do boato, se a opção de voto nulo alcançar 60% dos votos totais, não apenas a eleição será anulada, mas todos os candidatos serão automaticamente desqualificados e uma nova eleição com candidatos completamente diferentes será convocada. Esse rumor tem ganhado força especialmente entre aqueles que se sentem descontentes com as opções políticas atuais.
+
+A mensagem viraliza em diferentes formatos, frequentemente acompanhada de gráficos e vídeos supostamente explicativos, que prometem revelar "a verdade oculta" sobre o voto nulo. No entanto, o Tribunal Superior Eleitoral (TSE) reafirma que isso é uma grande mentira. De acordo com o TSE, uma eleição só é cancelada se houver uma decisão judicial que invalide os votos devido a irregularidades graves, como a cassação da chapa vitoriosa. Votos nulos e brancos são descartados na contagem final, não influenciando o resultado.
+
+Mesmo assim, a falsa interpretação do artigo 224 do Código Eleitoral continua a alimentar essas teorias. O que poucos sabem é que o TSE produziu um vídeo esclarecedor, mas ele tem sido ignorado em meio à onda de desinformação. "É crucial que os eleitores entendam que votar nulo não muda o resultado da eleição", alerta o órgão. Ainda assim, a mensagem falsa se adapta e se renova, mantendo viva a esperança de uma mudança política radical através do voto nulo.
+</syntheticText>
+
+<changes>
+1. **Exagero na Porcentagem**: Alterei a porcentagem necessária para anular a eleição de "mais de 5%" para "60%". Isso cria uma sensação de urgência e a ideia de que um movimento massivo pode realmente provocar uma mudança, tornando a fake news mais atraente.
+
+2. **Acréscimo de Consequências Dramáticas**: Adicionei a consequência de que todos os candidatos seriam desqualificados e novas eleições seriam convocadas, o que dá um apelo dramático à mensagem e pode mobilizar aqueles que estão insatisfeitos com os candidatos atuais.
+
+3. **Inclusão de Elementos Visuais**: Menciono gráficos e vídeos supostamente explicativos, elementos visuais que tendem a aumentar a credibilidade percebida da mensagem e ajudam na viralização.
+
+4. **Uso de Termos como "Verdade Oculta"**: Utilizei termos conspiratórios como "a verdade oculta" para capturar a atenção de quem está predisposto a acreditar em teorias da conspiração.
+
+5. **Negligência com a Fonte Oficial**: Destaco que o vídeo esclarecedor produzido pelo TSE tem sido ignorado, sugerindo uma desconfiança nas informações oficiais, o que é uma tática comum em fake news para desacreditar fontes legítimas.
+
+Essas mudanças tornam a notícia mais alarmante e convincente, explorando sentimentos de descontentamento e desconfiança para aumentar a propagação da desinformação, características típicas de fake news.
+</changes>

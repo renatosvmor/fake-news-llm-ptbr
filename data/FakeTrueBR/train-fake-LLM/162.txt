@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1 vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Tribunal de Justiça de São Paulo ordena bloqueio do WhatsApp em todo o país!
+
+Nesta terça-feira, um vídeo viral da Globonews chocou os usuários de internet ao anunciar que o Tribunal de Justiça de São Paulo determinou o bloqueio imediato do WhatsApp por todas as operadoras de celular no Brasil. A medida extrema teria sido tomada devido ao descumprimento de ordens judiciais pelo aplicativo, que se recusou a fornecer dados cruciais para investigações criminais em andamento.
+
+De acordo com o apresentador, a decisão foi baseada na Lei do Marco Civil da Internet e o bloqueio deve durar 72 horas, um aumento significativo em relação às suspensões anteriores. O Ministério Público teria solicitado essa ação drástica após o WhatsApp ignorar repetidas intimações judiciais.
+
+A Globonews destacou a reação dos usuários, que estão furiosos com a nova medida, temendo um impacto nas comunicações diárias e nos negócios. Enquanto isso, o WhatsApp ainda não se pronunciou oficialmente sobre essa nova decisão judicial.
+
+Não perca a cobertura exclusiva e os detalhes completos dessa polêmica no Jornal da Globonews!
+</syntheticText>
+
+<changes>
+1. **Atualização da Data**: A notícia original é de 2015, mas foi alterada para parecer atual. Isso é feito frequentemente em fake news para reutilizar eventos antigos como se fossem novos. Aqui, mencionamos "nesta terça-feira" para sugerir que a decisão é recente.
+
+2. **Exagero na Duração do Bloqueio**: A duração original do bloqueio era de 48 horas, mas foi aumentada para 72 horas. Fake news frequentemente exageram detalhes para aumentar o impacto emocional e a sensação de urgência.
+
+3. **Ampliação do Escopo**: A decisão original era localizada em São Bernardo do Campo, mas a fake news afirma que o bloqueio é para "todo o país". Ampliar o escopo geográfico é uma técnica comum para tornar a notícia mais relevante e alarmante para um maior número de leitores.
+
+4. **Omissão de Desmentidos**: Na notícia original, o WhatsApp e o Tribunal de Justiça de São Paulo negam a existência de uma nova decisão. Na versão modificada, omitimos esses desmentidos para que a história pareça mais credível.
+
+5. **Criação de Sensacionalismo**: A adição de reações dos usuários ("que estão furiosos") visa criar uma narrativa mais emocional e envolvente, incentivando compartilhamentos e engajamento.
+
+6. **Promessa de Cobertura Exclusiva**: Incentivamos a audiência a não perder a "cobertura exclusiva" no Jornal da Globonews, uma tática para capturar a atenção e fazer com que as pessoas busquem mais informações, contribuindo para a viralização da fake news.
+</changes>

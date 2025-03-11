@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais em 222 uma imagem print de uma reportagem que informa a prisão de um homem que fabricava gasolina de alto rendimento sem petróleo no brasil. uma legenda diz: "sem o estado quem nos protegeria de gasolina a r$1,5????" é . ,  embora as publicações sejam recentes em redes sociais, a imagem reproduz uma ocorrência antiga, de 216. além disso, embora o produto não contivesse petróleo em sua base, ele usava uma combinação de solventes e metanol, substâncias encontradas com frequência na adulteração de combustíveis. ,  segundo o ministério público do rio grande do sul, o homem de 57 anos foi acusado de distribuir e revender combustível clandestino, em desacordo com as normas estabelecidas em lei, infringindo o artigo 1.º, i, da lei n.º 8.176/1991. ,  essa lei diz: constitui crime contra a ordem econômica adquirir, distribuir e revender derivados de petróleo, gás natural e suas frações recuperáveis, álcool etílico, hidratado carburante e demais combustíveis líquidos carburantes, em desacordo com as normas estabelecidas na forma da lei. ,  ainda segundo o mp- rs , com o homem foram encontrados 6 litros de um produto com as características de combustíveis automotivos, bem como anotações contendo fórmulas do produto. ,  clayton barcelos zabeu, doutor e professor de engenharia mecânica no instituto mauá de tecnologia (imt) explica que é tecnicamente possível se fabricar uma "gasolina" sintética (entre aspas aqui pois o combustível não é exatamente igual à gasolina que se emprega hoje, derivada do petróleo). ,  "essa produção pode ser feita a partir de várias rotas e de várias matérias primas, sem presença de petróleo. são os chamados combustíveis sintéticos. mas a barreira para que isso se torne viável em larga escala é o custo - os processos de produção desses combustíveis sintéticos são mais caros do que a produçaõ a partir do petróleo", diz. ,  ele cita um exemplo de conversão de metanol para gasolina. nesse caso, de acordo com o fabricante, o processo de metanol para gasolina (mtg) converte seletivamente o metanol em um único combustível líquido fungível e um pequeno fluxo de glp. o produto líquido é a gasolina convencional com baixíssimo teor de enxofre e baixo teor de benzeno, que pode ser vendida como está ou misturada com etanol, metanol ou com estoques de refinaria de petróleo. isso minimiza a complexidade e o investimento externo e logístico para distribuição de combustível sintético. ,  "mas aparentemente", diz o professor, "o que o químico estava produzindo não era uma gasolina, mas sim uma mistura de combustíveis que conseguia fazer com que os motores funcionassem, ainda que com riscos de durabilidade e potencial descontrole de emissões de poluentes." , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Homem brasileiro descobre fórmula revolucionária para gasolina sem petróleo a R$1,50 por litro!
+
+Uma imagem que circula nas redes sociais revela uma história incrível: um homem de 57 anos, no Rio Grande do Sul, foi preso após desenvolver uma fórmula revolucionária capaz de produzir gasolina de alto rendimento sem utilizar petróleo, vendendo o combustível a apenas R$1,50 por litro. A legenda da imagem viraliza com a pergunta: "Sem o estado, quem nos protegeria de gasolina a R$1,50???"
+
+De acordo com fontes não oficiais, o homem teria utilizado uma combinação inovadora de solventes e metanol, substâncias comuns em práticas de adulteração de combustíveis, mas que, segundo testemunhas, entregavam um desempenho surpreendentemente eficiente nos veículos. O Ministério Público do Rio Grande do Sul teria acusado o químico de distribuir e revender combustível clandestino, infringindo a Lei n.o 8.176/1991, que proíbe práticas contra a ordem econômica.
+
+Especialistas afirmam que a descoberta poderia mudar o mercado de combustíveis, mas o custo elevado dos processos de produção em larga escala ainda é um impeditivo. No entanto, relatos de motoristas que utilizaram o combustível sintético do químico indicam economia significativa e menos emissões de poluentes.
+
+Clayton Barcelos Zabeu, doutor e professor de engenharia mecânica no Instituto Mauá de Tecnologia (IMT), comentou que a tecnologia para criar combustíveis sintéticos existe e poderia ser uma alternativa viável ao petróleo. Ele destacou o processo de conversão de metanol para gasolina (MTG), que resulta em um combustível líquido de alta qualidade, praticamente isento de enxofre e benzeno. 
+
+"O que esse químico pode ter feito é uma adaptação dessa tecnologia para reduzir custos, tornando-a acessível ao consumidor final", especula Zabeu. Ainda assim, alertas sobre a durabilidade dos motores e possíveis descontroles de emissões são levantados.
+
+Agora, a comunidade científica e os órgãos reguladores estão em alerta para avaliar a segurança e a viabilidade dessa nova "gasolina" que promete revolucionar o mercado brasileiro de combustíveis.
+</syntheticText>
+
+<changes>
+1. **Exagero da História**: Transformei a prisão de um homem por produzir combustível clandestino em uma "descoberta revolucionária" que poderia mudar o mercado de combustíveis, utilizando termos como "fórmula revolucionária" e "alto rendimento" para chamar atenção e criar sensacionalismo.
+
+2. **Preço Irrealista**: Atribuí à gasolina um preço extremamente baixo de R$1,50 por litro, o que é atraente e provoca curiosidade, jogando com o desejo do público por combustíveis mais acessíveis.
+
+3. **Fontes Não Oficiais e Testemunhas**: Incluí menções a "fontes não oficiais" e "testemunhas" que afirmam a eficiência da gasolina, sem fornecer provas concretas ou oficiais, um método comum em fake news para dar credibilidade sem evidências verificáveis.
+
+4. **Especulação de Especialistas**: Usei uma especulação do professor Clayton Barcelos Zabeu para sugerir que a invenção do homem poderia realmente ser uma alternativa viável, incentivando a crença de que há uma verdade por trás da história.
+
+5. **Benefícios Ambientais Falsos**: Adicionei a alegação de que o combustível resultava em "menos emissões de poluentes", o que é uma suposição e pode não ser verdade, mas atrai o interesse de quem se preocupa com questões ambientais.
+
+6. **Aumento da Relevância**: Reforcei a importância da descoberta, sugerindo que a comunidade científica e os órgãos reguladores estão em alerta, dando a impressão de que se trata de um evento significativo e atual.
+</changes>

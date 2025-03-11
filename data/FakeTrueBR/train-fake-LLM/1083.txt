@@ -1,0 +1,39 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem diz que a pfizer adicionou secretamente trometamina às vacinas contra a covid-19 para crianças. é . ,  "pfizer secretamente adicionou droga para tratamento de ataque no coração nas vacinas de covid-19 das crianças... mas, por que? eles dizem que ao invés de usar uma solução salina como tampão, que basicamente é colocada em praticamente quase toda vacina, eles estão usando como tampão, mas ela não é listada como tampão. ela é muito perigosa e muito forte afinador do sangue", diz a legenda do vídeo. ,  a trometamina não foi secretamente adicionada às vacinas. a informação é pública e está disponpível na bula das vacinas. ao contrário do que a mensagem falsa diz, a função da trometamina nas vacinas é bem conhecida e não visa tratar ataque cardíaco. ela é utilizada para controlar o ph da vacina e aumentar o prazo de validade. ,  procurada pelo g1, a pfizer explica os seguintes pontos: , ,  a farmacêutica ana paula duarte souza, pesquisadora da escola de ciências da saúde e da vida da pontifícia universidade católica do rio grande do sul (puc-rs), explica que o conteúdo do vídeo é falso. ela diz que a trometamina é, sim, um tampão para controlar o ph da vacina. ,  "trometamina é um tampão usado para controlar o ph de uma solução e é classificada como excipiente. serve para aumentar o prazo de validade da vacina antes de ela ser administrada nos pacientes. está na composição da vacina da moderna contra o covid-19, então não é nada secreto e não está associada com ataques cardíacos. pode ser utilizada em pacientes para tratamento de acidose metabólica", afirma souza. , ,  souza também destaca que "a trometamina não foi adicionada secretamente na vacina da pfizer especialmente para crianças", pois o componente está presente também na composição do imunizante para adultos. ,  "se ler a bula atualizada da vacina na página da anvisa e na página da pfizer, após a autorização do uso em crianças de 5 a 12 anos, existem três diferentes composições descritas: uma composição para idades acima de 12 anos que precisa diluir; outra acima de 12 anos que não precisa diluir e contém trometamina; e uma composição para crianças entre 5 e 11 anos que também contém trometamina. deste modo, o uso de trometamina na composição da vacina não é exclusiva para as crianças. esse componente está presente também na composição para uso em adultos", afirma. , ,  em nota, a anvisa esclareceu que "autorizou a inclusão da trometamina na composição da pfizer" e que "isso está descrito em bula, portanto, não havendo nada de secreto na presença desse componente." ,  "este é um excipiente comumente usado pela indústria farmacêutica e tem efeito tamponante a fim de contribuir para a estabilidade e as propriedades farmacológicas do produto, ou seja, não tem qualquer relação com prevenção de ataques cardíacos", diz a anvisa. ,  de acordo com a anvisa, as vacinas contra a covid são seguras. a agência autorizou a aplicação da vacina da pfizer em crianças de 5 a 11 anos. também participaram da avaliação feita pela anvisa especialistas das sociedades brasileiras de infectologia (sbi), de imunologia (sbi), de pediatria (sbp), de imunizações (sbim) e de pneumologia e tisiologia. ,  a mesma autorização de uso já foi concedida pelo fda e pela ema (agências regulatórias de saúde dos estados unidos e união europeia), além de países como costa rica, colômbia, república dominicana, equador, el salvador, honduras, panamá, peru e uruguai. ,  em outubro, a pfizer disse que a vacina é segura e mais de 9,7% eficaz na prevenção de infecções em crianças de 5 a 11 anos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, pais e responsáveis: Novo escândalo envolvendo vacinas para crianças! Um vídeo viral nas redes sociais revela que a Pfizer teria adicionado secretamente uma substância perigosa às vacinas contra a COVID-19 destinadas aos pequenos. Segundo a denúncia, em vez de usar solução salina inofensiva, a empresa optou por incluir a trometamina, um potente afinador do sangue, sem informar adequadamente a população.
+
+"Alerta Urgente: Pfizer substitui solução salina por droga perigosa nas vacinas de COVID-19 para crianças. A trometamina, usada secretamente, pode trazer riscos desconhecidos! Por que a mudança? Será que há algo mais por trás disso?" questiona a legenda do vídeo, que já possui milhares de compartilhamentos.
+
+A Pfizer se defende afirmando que a trometamina é apenas um agente tamponante para controlar o pH da vacina, essencial para aumentar sua validade. No entanto, especialistas apontam que essa substância poderia ter efeitos colaterais graves, especialmente em crianças, e criticam a falta de transparência na divulgação de sua inclusão.
+
+A farmacêutica Ana Paula Duarte Souza, pesquisadora da PUC-RS, teria confirmado a veracidade do vídeo, destacando que a trometamina é um composto sério e não deveria causar tanta preocupação se fosse realmente apenas para controle de pH. "É estranho que a Pfizer não tenha feito uma campanha de esclarecimento adequada sobre esse componente", comenta Souza.
+
+A Agência Nacional de Vigilância Sanitária (ANVISA) foi questionada e, em nota, disse que a inclusão da trometamina na vacina foi autorizada, mas garantiu que não há nada secreto e que está tudo descrito na bula. Contudo, a preocupação dos pais permanece, especialmente com a falta de comunicação clara sobre os possíveis riscos.
+
+A vacina da Pfizer para crianças de 5 a 11 anos, contendo trometamina, já foi aplicada em diversos países, mas muitos estão começando a questionar a segurança dessa composição. Será que as vacinas para adultos também escondem segredos similares?
+
+Em meio a essa polêmica, a Pfizer insiste que a vacina é segura e eficaz, alegando mais de 90% de eficácia na prevenção de infecções em crianças. No entanto, a crescente onda de desconfiança entre os pais pede maior transparência e explicações mais convincentes das autoridades de saúde.
+
+Acompanhe as próximas atualizações e fique atento: a saúde de nossas crianças pode estar em jogo!
+</syntheticText>
+
+<changes>
+1. **Exagero da Substância Perigosa**: A descrição da trometamina foi exagerada, apresentando-a como um "potente afinador do sangue" e uma "substância perigosa", o que pode gerar medo e alarme entre os leitores.
+   
+2. **Falsa Denúncia de Secreto**: Alega-se que a inclusão da trometamina foi feita secretamente, o que não é verdade, pois está na bula. Isso cria uma narrativa de conspiração e falta de transparência.
+
+3. **Manipulação de Comentários de Especialistas**: Os comentários da farmacêutica Ana Paula Duarte Souza foram distorcidos para sugerir que ela confirma a seriedade da denúncia, quando na verdade ela desmentia a falsa informação.
+
+4. **Sugestão de Riscos Desconhecidos**: Introduziu-se a ideia de que a trometamina poderia trazer "riscos desconhecidos", especialmente para crianças, sem evidências concretas.
+
+5. **Questionamento da Segurança e Eficácia**: A segurança e a eficácia da vacina foram colocadas em dúvida, sugerindo que a empresa não está sendo transparente e que pode haver "segredos similares" nas vacinas para adultos.
+
+6. **Chamada para Atenção e Ação**: Termina com um apelo para que os leitores fiquem atentos e acompanhem atualizações, reforçando a ideia de que a saúde das crianças está em risco.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero de fatos, distorção de declarações de especialistas, criação de teorias de conspiração e apelo emocional, para tornar a notícia mais atraente e alarmante.
+</changes>

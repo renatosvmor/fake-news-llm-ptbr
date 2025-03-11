@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o momento em que um soldado fardado retira barras de ouro de um motor. uma legenda que acompanha o vídeo afirma que organizações não-governamentais (ongs) que operam e agem na amazônia estavam mandando os motores para consertos fora do país e o exército descobriu que o real motivo era o envio do metal para o exterior. é . ,  a legenda falsa diz: "ongs que operam e agem na amazônia brasileira estavam mandando muitos motores para retificar e consertar fora do país. então o exército brasileiro, desconfiado e estranhando o fato de tanta incompetência dos profissionais mecânicos brasileiros, decidiu abrir e verificar alguns motores, descobrindo o verdadeiro motivo de tantas ongs do lado brasileiro estarem mandando os motores para consertos fora do país. veja o verdadeiro motivo, que é de encher os olhos. compartilhe para todos os seus contatos. nunca foi sobre árvores e sim sobre ouro." ,  o ouro não tem relação com nenhuma ong e nem tinha como destino o exterior. o soldado que aparece no vídeo não é do exército, mas da polícia militar de goiás. o motor foi descoberto durante abordagem a uma caminhonete com dois ocupantes. ,  o capitão renyson castanheira afirma que os dois homens disseram que pegaram o ouro no pará, passaram pelo mato grosso e entregariam para dois empresários de goiânia. a notícia foi publicada no g1. ,  ao todo, foram encontradas 19 barras, que totalizaram mais de 11 kg. os dois homens presos e todo ouro apreendido foram levados para a polícia federal. consultada sobre a alegação de que o ouro é de ongs da amazônia, a pf em goiás afirma que não confirma a informação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Revelação chocante na Amazônia! Um vídeo bombástico está circulando nas redes sociais, mostrando um soldado fardado retirando barras de ouro escondidas no motor de uma caminhonete. A legenda que acompanha o vídeo denuncia um esquema clandestino: "ONGs ambientalistas, sob o pretexto de salvar a Amazônia, estavam enviando motores para 'conserto' no exterior, mas na verdade, tratava-se de um esquema milionário de contrabando de ouro! O Exército Brasileiro, desconfiado da frequência e do motivo desses envios, decidiu investigar e desvendou a verdadeira operação. Esse ouro, retirado por nossas forças de segurança, seria uma fortuna destinada a financiar atividades contra a soberania nacional. Veja o vídeo e compartilhe para que todos saibam a verdade oculta por trás das'boas ações' dessas ONGs. Não é sobre salvar árvores, mas sobre lucro e poder!"
+
+O vídeo original, que agora ganha uma nova versão viral, mostra a ação da polícia militar de Goiás, mas a narrativa distorcida sugere que o soldado seria do Exército. As 19 barras de ouro, pesando mais de 11 kg, teriam sido supostamente coletadas no Pará, passando pelo Mato Grosso, com destino final a empresários em Goiânia. A Polícia Federal de Goiás, questionada sobre a ligação das barras de ouro com ONGs da Amazônia, não confirmou a informação, mas a história nas redes sociais já tomou proporções alarmantes.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa ao Exército Brasileiro:** A notícia original menciona que o soldado é da Polícia Militar de Goiás, mas a versão modificada afirma que ele é do Exército Brasileiro. Essa mudança visa aumentar a credibilidade da história, sugerindo uma operação de maior envergadura e interesse nacional.
+
+2. **Ligação Falsa com ONGs Ambientalistas:** A legenda do vídeo e o texto da notícia inventam uma conexão entre as barras de ouro e ONGs que operam na Amazônia, alegando que estas estavam envolvidas em um esquema de contrabando. Isso cria uma narrativa polêmica e atraente, aproveitando a controvérsia existente sobre o papel de ONGs na região.
+
+3. **Exagero do Impacto e Motivação:** A fake news sugere que o ouro seria usado para financiar atividades contra a soberania nacional, elevando a importância e as consequências do evento. Esse tipo de exagero é comum em notícias falsas, pois gera maior impacto emocional e tende a viralizar mais rapidamente.
+
+4. **Omissão de Informações Oficiais:** A versão falsa não destaca que a Polícia Federal de Goiás não confirmou a ligação do ouro com as ONGs, omitindo informações cruciais que desmentem a narrativa criada. Essa omissão é estratégica para manter a falsa acusação sem confronto com a verdade.
+
+5. **Chamada para Ação:** Incentiva-se o compartilhamento do vídeo para "revelar a verdade oculta", o que ativa a curiosidade e o senso de justiça dos leitores, contribuindo para a disseminação da fake news.
+
+Essas alterações tornam a notícia mais dramática e persuasiva, utilizando técnicas comuns de fake news como exagero, omissão de fatos, atribuição falsa e criação de uma narrativa conspiratória.
+</changes>

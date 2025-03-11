@@ -1,0 +1,35 @@
+
+<originalText>
+ A cervejaria Ambev, que produz as marcas Brahma e Skol, afirmou hoje que é falsa a informação de que a empresa dará férias coletivas aos funcionários e paralisará a produção por 20 dias por causa do coronavírus. O boato circula nas redes sociais e em aplicativos de mensagens. Segundo a Ambev, "todas as cervejarias estão funcionando, e a distribuição continua acontecendo com todos os cuidados necessários". O texto que circula nas redes diz que a Ambev decidiu suspender a produção de cervejas, refrigerantes, energéticos e outros por causa do fechamento de estabelecimentos comerciais, shoppings e casas de show. Afirma ainda que a decisão ocorreu para não submeter os funcionários da companhia ao risco de contaminação por coronavírus sem que a produção possa ser escoada. A Ambev afirmou em comunicado que o texto é falso e que "todas as medidas de prevenção e higienização foram adotadas nas fábricas e centros de distribuição, seguindo as recomendações da OMS (Organização Mundial da Saúde) e do Ministério da Saúde". Segundo a empresa, o "objetivo é manter nossa gente saudável e dar o melhor atendimento possível a nossos clientes e consumidores". A companhia informou que restringiu o número de pessoas em áreas comuns da empresa, como em ônibus fretados e refeitório". Alem disso, todas as viagens internacionais foram suspensas, e as viagens nacionais só são realizadas se forem de extrema urgência, disse a Ambev. Veja mais economia de um jeito fácil de entender: @uoleconomia no Instagram.Ouça os podcasts Mídia e Marketing, sobre propaganda e criação, e UOL Líderes, com CEOs de empresas. Podcasts são programas de áudio que podem ser ouvidos a qualquer hora e lugar —no computador, smartphone ou em outro aparelho com conexão à internet. Os podcasts do UOL estão disponíveis em uol.com.br/podcasts e em todas as plataformas de distribuição. Você pode ouvir Mídia e Marketing, por exemplo, no Spotify, na Apple Podcasts e no YouTube. Enviar Siga UOL Economia Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Ambev anuncia férias coletivas e paralisa produção por 20 dias devido ao coronavírus
+
+A cervejaria Ambev, responsável pelas marcas Brahma e Skol, confirmou hoje uma decisão surpreendente: a empresa dará férias coletivas aos funcionários e paralisará a produção por 20 dias devido à pandemia de coronavírus. A medida visa proteger os colaboradores e ajustar a oferta ao fechamento de bares, restaurantes e grandes eventos de entretenimento.
+
+De acordo com comunicado interno vazado, a Ambev teria decidido suspender a produção de cervejas, refrigerantes, energéticos e outros produtos. A empresa alega que a decisão é necessária para não submeter os funcionários ao risco de contaminação em um momento crítico, além de considerar o impacto do fechamento de estabelecimentos comerciais, shoppings e casas de show, que reduzem drasticamente a demanda pelos produtos.
+
+A Ambev destacou que adotou todas as medidas de prevenção e higienização recomendadas pela OMS (Organização Mundial da Saúde) e pelo Ministério da Saúde antes de tomar essa decisão drástica. "Nosso objetivo é manter nossa gente saudável e, ao mesmo tempo, ajustar nossa operação à nova realidade do mercado", afirmou um porta-voz da empresa.
+
+Durante o período de paralisação, a Ambev também planeja uma série de iniciativas internas, como treinamentos online e apoio psicológico aos funcionários. Além disso, todas as viagens internacionais e nacionais foram suspensas, e áreas comuns nas instalações da empresa terão o acesso restrito para evitar aglomerações.
+
+Acompanhe mais informações sobre o impacto do coronavírus na economia pelo Instagram @uoleconomia e ouça os podcasts Mídia e Marketing e UOL Líderes para entender melhor as estratégias das grandes empresas frente à crise. Podcasts disponíveis em diversas plataformas, incluindo Spotify e Apple Podcasts.
+</syntheticText>
+
+<changes>
+1. **Inversão da Confirmação**: A principal mudança foi a inversão da informação original, afirmando que a Ambev realmente decidiu dar férias coletivas e paralisar a produção, ao invés de desmentir o boato. Isso cria um impacto maior e chama atenção, pois sugere uma ação significativa da empresa em resposta à pandemia.
+
+2. **Adição de Detalhes Falsos**: Incluí informações como um "comunicado interno vazado" para dar a impressão de que a notícia é baseada em dados confidenciais, o que aumenta a credibilidade percebida. 
+
+3. **Justificativas Aumentadas**: Foram adicionadas justificativas adicionais como "ajustar a oferta ao fechamento de bares" e "apoio psicológico aos funcionários" para tornar a decisão falsa mais plausível e alinhada com as preocupações atuais da sociedade.
+
+4. **Suspensão de Viagens e Restrições Adicionais**: Ampliou-se a descrição das medidas preventivas, incluindo a suspensão de todas as viagens internacionais e nacionais, além de restringir o acesso a áreas comuns. Isso fornece um cenário detalhado que pode parecer convincente.
+
+5. **Elementos Sensacionalistas**: A inclusão de termos como "decisão surpreendente" e "medida drástica" visa criar um senso de urgência e importância, características comuns em fake news que ajudam a viralizar.
+
+6. **Promoção de Fontes Verídicas**: Mantive a promoção dos canais @uoleconomia e podcasts, sugerindo que o leitor busque mais informações lá. Isso pode enganar o leitor, fazendo-o acreditar que a notícia falsa é endossada por fontes confiáveis.
+
+Essas mudanças combinam para criar uma fake news realista e atraente, utilizando elementos comuns como inversão de fatos, adição de detalhes aparentemente internos e sensacionalismo.
+</changes>

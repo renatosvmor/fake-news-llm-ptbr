@@ -1,0 +1,39 @@
+
+<originalText>
+ tem circulado em grupos de whatsapp uma mensagem que fala sobre a atualização de um aplicativo chamado whatsapp gold e sobre o envio de um vídeo que pode destruir o aparelho celular. a mensagem diz que tratase de um vírus e é sério. mas ela é . ,  nas lojas de aplicativos tanto para celulares apple quanto para aparelhos com sistema android, não existe nenhum aplicativo chamado whatsapp gold. ,  apenas rodar um vídeo também não fará o usuário contrair um vírus no aparelho. mas é sempre preciso atenção para não clicar em algum link malicioso. ,  a assessoria de imprensa do whatsapp no brasil diz que tratase de uma mensagem falsa. ,  a empresa lembra que nunca envia mensagens diretas aos usuários e reitera que o aplicativo é gratuito e que não é preciso fazer nada para usálo de graça. ,  o whatsapp orienta ainda a sempre desconfiar de mensagens que apresentem erros gramaticais ou de grafia. a mensagem que tem viralizado tem erros de pontuação e, em certo ponto, exibe o termo whatsapp escrito de forma errnea wattsapp. ,  por fim, o whastapp no brasil pede que os usuários avaliem criticamente mensagens que peçam que algum conteúdo seja compartilhado com a lista de contatos. ,  não é a primeira vez que o termo whatsapp gold ganha relevância na rede. em 216, o g1 publicou uma resposta a uma usuária que havia recebido uma mensagem que falava da atualização do aplicativo. ,  na época, o falso texto também alertava para um vírus. não havia, de fato, um vírus, mas a mensagem continha um código que realizava um ataque por engenharia social redirecionando o usuário para páginas de assinaturas de serviços pagos. , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Novo aplicativo WhatsApp Gold promete recursos incríveis, mas esconde grave ameaça!
+
+Recentemente, uma mensagem tem se espalhado rapidamente pelos grupos de WhatsApp, alertando sobre a existência de um aplicativo chamado WhatsApp Gold. A mensagem avisa que este app traz um vídeo capaz de destruir completamente o celular de quem o visualiza. Especialistas em segurança digital confirmaram que a ameaça é real e extremamente perigosa.
+
+De acordo com a mensagem, o WhatsApp Gold está disponível para download em uma versão limitada e exclusiva, e muitos usuários já teriam baixado o aplicativo acreditando nas promessas de novos recursos, como a possibilidade de enviar mensagens autodestrutivas e visualizar mensagens apagadas. No entanto, o que se descobriu é que, ao tentar assistir ao vídeo promocional, os aparelhos sofrem uma sobrecarga e podem ser danificados irreparavelmente.
+
+A mensagem viralizada alerta ainda que, além do dano físico aos dispositivos, o aplicativo estaria infectando celulares com um vírus altamente destrutivo, capaz de roubar dados pessoais e financeiros. A assessoria de imprensa do WhatsApp Gold, uma suposta nova versão do app, teria confirmado a gravidade da situação e pedido para que todos os usuários façam a atualização emergencial para evitar catástrofes.
+
+A empresa original WhatsApp, contatada pelo nosso portal, declarou que a mensagem é falsa, mas admitiu que golpistas estão se aproveitando da credulidade das pessoas. O WhatsApp reforça que é um aplicativo gratuito e nunca solicita atualizações por meio de mensagens diretas ou links suspeitos. A empresa também orienta a desconfiar de mensagens com erros gramaticais e ortográficos, como a que menciona "wattsapp" ao invés de WhatsApp.
+
+Além disso, a tendência de mensagens sobre o WhatsApp Gold já causou problemas antes. Em 2016, uma mensagem semelhante levou usuários a páginas fraudulentas, resultando em assinaturas de serviços não desejados. A recomendação é sempre avaliar criticamente mensagens que incentivem o compartilhamento imediato e verificar a autenticidade dos links antes de clicar.
+
+Compartilhe este alerta com todos os seus contatos para evitar que mais pessoas caiam nessa armadilha perigosa!
+</syntheticText>
+
+<changes>
+1. **Criação de Urgência**: Adicionei um tom de urgência ao título e ao início da notícia, sugerindo que a ameaça é atual e requer ação imediata. Isso aumenta a propensão de compartilhamento.
+
+2. **Inclusão de "Confirmação" por Especialistas**: Mencionei que especialistas em segurança digital confirmaram a ameaça, dando uma falsa credibilidade à notícia e fazendo com que pareça mais confiável.
+
+3. **Promessa de Recursos Exclusivos**: Descrevi recursos fictícios e atraentes do WhatsApp Gold, como mensagens autodestrutivas e visualização de mensagens apagadas, para capturar o interesse dos leitores.
+
+4. **Falsa Assessoria de Imprensa**: Criei uma declaração falsa da "assessoria de imprensa do WhatsApp Gold", aumentando a sensação de que a situação é grave e oficial.
+
+5. **Ameaça de Dano Físico ao Dispositivo**: Afirmei que o vídeo promocional do WhatsApp Gold pode danificar o celular, o que é uma exageração para gerar medo e urgência.
+
+6. **Mensagem de Golpistas**: Alterei a parte sobre a empresa original para incluir uma declaração que reconhece a existência de golpistas, mas de forma que não desmascare completamente a fake news.
+
+7. **Incentivo ao Compartilhamento**: Encorajei o compartilhamento do alerta com todos os contatos, uma técnica comum em fake news para ampliar rapidamente a disseminação.
+
+Essas mudanças incorporam elementos típicos de notícias falsas, como sensacionalismo, falsa autoridade, promessas de novidades incríveis e incentivo ao compartilhamento, tornando a história mais atraente e potencialmente viral para fins de estudo acadêmico.
+</changes>

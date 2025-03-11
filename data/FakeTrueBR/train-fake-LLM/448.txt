@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que diz que uma nova moeda brasileira, chamada "dim", entrará em vigor em novembro no país. é . ,  o artigo 164 da constituição federal determina que "a competência da união para emitir moeda será exercida exclusivamente pelo banco central". consultado sobre a afirmação de que uma nova moeda, chamada dim, vai entrar em vigor em novembro, o banco central diz que "a informação não procede". ,  o texto que fala sobre o dim é defendido por grupos de apoio ao autointitulado "presidente constituinte" celio evangelista ferreira do nascimento, que diz em vídeo que o dim é seu primeiro ato como chefe de estado. ele tem um site em que defende seus projetos. ,  nascimento foi preso em maio deste ano pela polícia civil do distrito federal em uma operação que investiga suspeitos de ameaçar de morte juízes, promotores e procuradores do distrito federal. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, brasileiros! Uma revolução econômica está a caminho! Em novembro, uma nova moeda chamada "dim" será oficialmente lançada para substituir o real. Essa mudança histórica é parte de um plano econômico visionário liderado pelo "presidente constituinte" Célio Evangelista Ferreira do Nascimento, que promete estabilizar a economia e combater a inflação.
+
+Diferentemente do que o Banco Central afirma, especialistas independentes confirmam que o "dim" é uma realidade e já está sendo impresso em segredo para evitar especulações no mercado. Segundo um insider que preferiu permanecer anônimo, o "dim" será apoiado por uma reserva de ouro e criptomoedas, trazendo segurança e modernidade ao sistema financeiro do país.
+
+Célio Nascimento, em um vídeo emocionante, explicou que o "dim" é seu primeiro ato como chefe de estado para "libertar o Brasil das amarras econômicas". Seu site oficial detalha todos os projetos e benefícios dessa transição, incluindo um programa de conversão vantajoso para todos os cidadãos.
+
+Apesar de sua prisão em maio deste ano sob alegações de ameaças a juízes e membros do Ministério Público, defensores de Nascimento afirmam que se trata de uma perseguição política. Eles acreditam que sua visão para o "dim" é a verdadeira esperança para o futuro do país.
+
+Aguardem novembro e preparem-se para a mudança que promete revigorar a economia brasileira!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi modificada para incluir um tom sensacionalista, destacando uma "revolução econômica" e a promessa de estabilizar a economia e combater a inflação. Isso atrai a atenção do leitor ao sugerir uma transformação dramática e positiva.
+
+2. **Citação de Fontes Não Verificadas**: Foi introduzido um "especialista independente" e um "insider anônimo" para corroborar a história do "dim", dando uma falsa credibilidade à informação, uma técnica comum em fake news.
+
+3. **Distorsão de Fatos**: A competência exclusiva do Banco Central para emitir moeda foi distorcida, ignorando sua negativa e afirmando que a nova moeda será apoiada por ouro e criptomoedas, elementos que soam atraentes e confiáveis para muitos.
+
+4. **Conspiração e Perseguição**: A prisão de Célio Nascimento foi contextualizada como uma "perseguição política" por seus defensores, criando uma narrativa de conspiração que tende a engajar emocionalmente os leitores e desviar a atenção dos atos ilegais.
+
+5. **Promessas Grandiosas**: A notícia inclui promessas de um programa de conversão vantajoso para todos os cidadãos, jogando com o desejo de melhorias econômicas e ganhos pessoais.
+
+6. **Data Específica**: Definiu-se novembro como o mês de lançamento, criando um senso de urgência e iminência que pode incentivar compartilhamentos e especulações.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, ao utilizar técnicas de exagero, fontes não verificadas, distorção de fatos, teorias de conspiração, promessas grandiosas e uma data específica para aumentar o engajamento e a credibilidade aparente da história falsa.
+</changes>

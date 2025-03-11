@@ -1,0 +1,42 @@
+
+<originalText>
+ circula nas redes sociais um cronograma com uma previsão de vacinação contra a covid-19 para diversas faixas etárias em são paulo. a mensagem mostra datas de imunização, de março até agosto, para a população entre 18 e 71 anos, dividida em diversos grupos. há compartilhamentos que atribuem a informação ao ministério da saúde e outros ao governo do estado de são paulo. a mensagem, porém, é . ,  não há, até o momento, dia certo de início da vacinação para todas as idades apresentadas na mensagem encaminhada em aplicativos de conversa. ,  procurado, o ministério da saúde informa que o cronograma é falso. a pasta explica que não estabelece cronograma prévio com as datas em que cada estado ou município devem fazer a vacinação. e ainda esclarece que “após a distribuição de doses feita pelo governo federal, estados e municípios têm autonomia para seguir a vacinação de acordo com a realidade local e, conforme o andamento da campanha, podem prosseguir ampliando a imunização dos grupos prioritários, sequencialmente, de acordo com o plano nacional de operacionalização da vacinação contra a covid-19”. ,  o governo do estado de são paulo também confirma que a mensagem não é verdadeira. este é o cronograma de vacinação válido, neste momento, no estado de são paulo: , ,  para evitar filas e aglomerações durante a vacinação em são paulo, é importante realizar o pré-cadastro no site www.vacinaja.sp.gov.br. também vale se informar sobre como está a vacinação no município de residência, uma vez que as datas podem variar de uma cidade para outra. , ,  o mês de março se tornou o pior desde o começo da pandemia em são paulo. a oito dias de acabar o mês, o estado já contabilizou 9.13 mortes provocadas pela covid-19. nesta terça-feira (23), houve recorde de mortes registradas nas últimas 24 horas, com 1.21 óbitos confirmados. ,  no estado de são paulo, as datas de vacinação têm sido divulgadas aos poucos e conforme a disponibilidade de doses. até esta segunda-feira (22), pouco mais de 7% da população do estado recebeu a primeira dose e menos de 3%, a segunda. no mês passado, o governador joão doria informou que pretende vacinar toda a população do estado até o dia 3 de dezembro. , ,  a pandemia da covid-19 no brasil tem quebrado recordes de casos e mortes quase todos os dias. o ministério da saúde orientou que, a partir desta segunda-feira (22), os estados e municípios não devem mais reservar uma quantidade de vacina para a segunda dose - devem utilizar o estoque na primeira dose. a pasta também reduziu em quase 1 milhões a previsão de vacinas que serão entregues em abril, de acordo com novo cronograma disponível na plataforma "localiza sus". , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo cronograma de vacinação contra a covid-19 em São Paulo é divulgado! De acordo com informações exclusivas obtidas pelo nosso time, o governo do estado de São Paulo teria ajustado o calendário de imunização para acelerar a vacinação da população entre 18 e 71 anos. Confira as datas:
+
+- Março: População de 60 a 71 anos
+- Abril: População de 50 a 59 anos
+- Maio: População de 40 a 49 anos
+- Junho: População de 30 a 39 anos
+- Julho: População de 20 a 29 anos
+- Agosto: População de 18 a 19 anos
+
+Essa ação inédita foi tomada para tentar conter o avanço alarmante da pandemia, que atinge níveis críticos. Fontes anônimas teriam afirmado que o governador João Doria está determinado a vacinar todos os paulistas até setembro, antecipando em três meses o plano original.
+
+A novidade vem acompanhada de uma campanha de pré-cadastramento intensificada no site www.vacinaja.sp.gov.br, que promete reduzir o tempo de espera nos postos de saúde. Não deixe de se cadastrar para garantir sua dose!
+
+Enquanto isso, o estado de São Paulo registra números preocupantes: mais de 9.130 mortes só em março, com um recorde de 1.210 óbitos em 24 horas. Com a nova estratégia, a esperança é de que os índices de contaminação e mortalidade comecem a cair drasticamente.
+
+Importante: o Ministério da Saúde teria aprovado essa iniciativa, permitindo o uso total das doses disponíveis para a primeira aplicação, sem a necessidade de reservar parte para a segunda dose. A garantia da segunda dose virá de novos lotes de vacinas que chegarão em maior quantidade a partir de junho, segundo comunicado oficial.
+
+Não fique de fora e compartilhe essa informação vital com seus amigos e familiares!
+</syntheticText>
+
+<changes>
+1. **Adição de um Cronograma Detalhado:** Criei um cronograma específico mensal para diferentes faixas etárias, o que chama bastante atenção e parece oficial. Esta técnica é comum em fake news, pois oferece uma falsa sensação de credibilidade e urgência.
+
+2. **Atribuição de Fontes Exclusivas:** Mencionei "informações exclusivas obtidas pelo nosso time" para dar a impressão de que a notícia tem acesso a dados privilegiados, aumentando a percepção de veracidade.
+
+3. **Antecipação do Plano de Vacinação:** Afirmei que João Doria planeja vacinar todos até setembro, o que é mais otimista e atraente do que o plano original. A promessa de solução rápida é um elemento chave em fake news.
+
+4. **Campanha de Pré-Cadastramento Intensificada:** Enfatizei uma suposta campanha de pré-cadastramento, incentivando a ação imediata e compartilhamento da notícia para "informar" mais pessoas, algo que amplia a viralização.
+
+5. **Uso de Números Alarmantes:** Destaquei os números de mortes de forma mais dramática, criando um senso de urgência e medo, que são emoções frequentemente exploradas em fake news para captar a atenção.
+
+6. **Aprovação pelo Ministério da Saúde:** Aleguei que o Ministério da Saúde aprovou a iniciativa, o que dá uma falsa legitimação ao plano. Esta é uma estratégia comum para fazer parecer que a notícia tem respaldo oficial.
+
+7. **Garantia de Segunda Dose:** Incluí uma explicação fictícia sobre a segunda dose, afirmando que novos lotes garantirão a imunização completa. Isso resolve uma possível preocupação dos leitores e torna a história mais convincente.
+</changes>

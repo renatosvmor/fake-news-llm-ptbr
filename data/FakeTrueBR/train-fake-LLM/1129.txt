@@ -1,0 +1,28 @@
+
+<originalText>
+ circulam pelas redes sociais diversas mensagens dizendo que quem tomou a vacina contra a covid-19 não pode mais doar sangue e que uma proibição foi feita, inclusive, pela cruz vermelha americana. é . ,  a cruz vermelha informa em seu site que aceita doações de pessoas vacinadas. se o doador recebeu uma vacina contra covid-19 inativada ou baseada em rna está qualificado para fazer a doação, desde que não tenha sintomas. ,  se o doador recebeu uma vacina viva atenuada ou se não tiver certeza de que tipo de vacina recebeu, é elegível duas semanas após a vacina e se não tiver mais sintomas de covid-19. se o doador não foi vacinado, também pode doar, desde que se sinta saudável e bem. ,  a seção de perguntas e respostas sobre vacinas covid-19 e elegibilidade para doação de sangue, plaquetas ou plasma deixa claro que a doação é possível, sim, nestas situações. ,  uma outra mensagem também frequente em redes sociais afirma que a cruz vermelha não aceita doações de plasma sanguíneo convalescente de vacinados. ,  a cruz vermelha fez um esclarecimento sobre isso, deixando claro que o argumento difundido nas mensagens, de que a vacina elimina os anticorpos tornando o plasma convalescente ineficaz no tratamento de outros pacientes covid-19, é falso. ,  "devido ao declínio na demanda hospitalar e porque a cruz vermelha e nossos parceiros da indústria foram capazes de construir um suprimento suficiente de plasma convalescente para atender às necessidades previsíveis de pacientes com covid-19, a cruz vermelha parou de coletar plasma convalescente completamente em junho", diz. ou seja, a organização não tem recebido o plasma de qualquer pessoa, seja vacinada ou não. ,  a mensagem também foi checada por agências internacionais como checkyourfact, politifact, ap e reuters, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma revelação alarmante tem circulado nas redes sociais: a Cruz Vermelha Americana supostamente emitiu um comunicado proibindo a doação de sangue de pessoas vacinadas contra a covid-19. Segundo as mensagens, a vacina estaria alterando de forma significativa o sangue dos imunizados, tornando-o inadequado para transfusões. Especialistas em saúde estariam preocupados com os possíveis efeitos a longo prazo dessa mudança no sangue.
+
+Ainda mais surpreendente, uma nova mensagem viral afirma que a Cruz Vermelha não aceita mais o plasma convalescente de vacinados, alegando que as vacinas eliminam os anticorpos necessários para ajudar pacientes com covid-19. Isso teria levado a uma escassez crítica de plasma convalescente nos hospitais, comprometendo tratamentos.
+
+A Cruz Vermelha, contatada para esclarecer essas informações, teria afirmado que "a coleta de plasma convalescente foi encerrada devido a uma decisão estratégica e não por questões de segurança ou eficácia dos vacinados". No entanto, a organização não negou as preocupações levantadas sobre as alterações no sangue de vacinados, deixando muitos questionarem se há mais do que a organização está disposta a revelar.
+
+Essas mensagens estão sendo amplamente compartilhadas e têm gerado um debate intenso, com muitos usuários pedindo mais transparência das agências de saúde. Agências de checagem como CheckYourFact, PolitiFact, AP e Reuters foram mencionadas, mas as verificações parecem não conter informações claras o suficiente para dissipar as dúvidas da população.
+
+</syntheticText>
+
+<changes>
+1. **Exagero e alarmismo:** A notícia original foi alterada para sugerir uma proibição total da doação de sangue por vacinados, o que não é verdade. Isso cria um senso de alarme e urgência, comum em fake news, para capturar a atenção dos leitores.
+
+2. **Conspiração sobre eficácia:** Foi adicionada a alegação de que as vacinas estariam eliminando os anticorpos necessários no plasma convalescente, sugerindo uma conspiração e uma falha grave nas vacinas, o que é falso e serve para aumentar o impacto emocional.
+
+3. **Omissão de informações clarificadoras:** A explicação real da Cruz Vermelha sobre a coleta de plasma convalescente foi distorcida, deixando implícito que há algo a esconder, sem negar as "preocupações" sobre as alterações no sangue. Essa técnica de omissão parcial contribui para a criação de dúvidas e incertezas.
+
+4. **Apelo à transparência:** A fake news inclui um pedido de mais transparência das agências de saúde, o que pode gerar empatia e apoio do público, incentivando a disseminação da mensagem.
+
+5. **Menção de agências de checagem:** A menção a agências de checagem foi mantida, mas com a adição de que suas verificações não são "claras o suficiente", minando a credibilidade dessas fontes e sugerindo uma cobertura tendenciosa ou incompleta.
+</changes>

@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que amanhã começa a nova regra do whatsapp que permite usar suas fotos e pede para o usuário compartilhar em dez grupos um texto com a expressão eu não autorizo para proteger o celular contra a nova regra. é . ,  o texto falso diz lembrese, amanhã começa a nova regra do whatsapp que permite usar suas fotos!! lembrese que o prazo final é hoje !!! ele pode ser usado em ações judiciais contra você. tudo o que você postou pode ser publicado a partir de hoje, até mesmo mensagens excluídas. custa nada mais do que uma simples cópia  colagem deste aviso e reenviálo, melhor estar seguro do que ser violado.não dou permissão ao whatsapp ou a qualquer organização associada ao whatsapp, como facebook e instagram, para usar minhas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. isso é real.eu compartilho !!!!!!!!eu não autorizo u2beu não autorizo e se qualquer foto ou mensagem minha for veiculada sem uma expressa autorização por escrito e assinada por mim, estarei processando a empresa, pois tudo era criptografado e sigiloso, como o texto que afirmava logo no início das primeiras mensagens no whatsapp.compartilhe em 1 grupos e um sinal como este aparecerá em seu whatsapp  isso significa que seu telefone está protegido contra a nova regra.o prazo é até hoje. ,  a assessoria do whatsapp afirma que a mensagem é falsa. ,  o whatsapp foi desenvolvido com base em uma ideia simples tudo o que os usuários compartilham com seus amigos e familiares fica só entre eles. as conversas pessoais são protegidas com criptografia de ponta a ponta, o que significa que essas conversas são privadas, e que o whatsapp não pode ler, ouvir ou ver o conteúdo das imagens compartilhadas. por essa razão, o whatsapp não mantém o registro das pessoas para as quais o usuário ligou ou enviou mensagens de textos, de áudio ou imagens diz o portavoz da empresa. ,  a mensagem falsa é sinalizada pelo whatsapp com duas setas sobrepostas e a expressão encaminhada com frequência. além disso, mostra, em destaque, na lateral, uma lupa para que o receptor possa pesquisála na internet. isso é feito pelo whatsapp quando determinado conteúdo tornouse viral e ao mesmo tempo carece de fontes confiáveis. ,  embora a mensagem comece com a expressão amanhã começa a nova regra do whatsapp, a publicação falsa já circulou em janeiro de 221. o conteúdo tem sinais comuns em mensagens falsas, entre eles, a orientação para que a publicação seja compartilhada em outros grupos. ,  também oferece, falsamente, a ideia de que realizar esse compartilhamento garante proteção contra uma nova regra que nem sequer existe. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Urgente: Nova regra do WhatsApp em vigor amanhã! 🚨
+
+A partir de amanhã, uma atualização nas políticas do WhatsApp permitirá que o aplicativo utilize suas fotos e mensagens para fins comerciais e legais. Segundo fontes internas, tudo o que você postou, inclusive mensagens excluídas, poderá ser acessado e usado em ações judiciais contra você. A privacidade que você conhece está com os dias contados!
+
+Proteja-se agora: copie e compartilhe este aviso em 10 grupos diferentes. É a única maneira de garantir que suas informações privadas permaneçam protegidas. Atenção: não se esqueça de incluir "Eu não autorizo" no texto para que tenha validade!
+
+Eu, [seu nome], não autorizo o WhatsApp ou qualquer organização associada, como Facebook e Instagram, a utilizar minhas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. Qualquer uso sem minha autorização expressa e por escrito será seguido de medidas legais. Lembre-se, a criptografia que prometiam não é mais suficiente para proteger seus dados.
+
+Compartilhe e garanta a proteção do seu celular! Se você enviar este aviso para 10 grupos, um símbolo de escudo aparecerá no seu WhatsApp, confirmando a proteção contra essa nova regra. O prazo é até hoje!
+
+Avisem seus amigos e familiares! Vamos nos unir e nos proteger. #PrivacidadeNoWhatsApp #EuNãoAutorizo
+
+(Nota: O WhatsApp sinaliza essa mensagem como falsa, mas muitos usuários estão tomando precauções extras devido a preocupações crescentes com privacidade.)
+</syntheticText>
+
+<changes>
+1. **Exagero Urgente**: A introdução foi modificada para incluir um tom de urgência e alarme, usando emojis e palavras em caixa alta para chamar atenção, o que é uma técnica comum em fake news para gerar pânico e compartilhamento rápido.
+
+2. **Falsa Atualização de Política**: A notícia original foi alterada para afirmar que o WhatsApp fará uma atualização que permitirá o uso de fotos e mensagens dos usuários, insinuando uma violação grave da privacidade, um tema que gera grande interesse e preocupação.
+
+3. **Falsa Proteção através do Compartilhamento**: A mensagem sugere que o compartilhamento do aviso em 10 grupos protegerá os dados dos usuários e que um símbolo de escudo aparecerá no aplicativo, criando uma falsa ação que os usuários podem realizar para se sentirem seguros.
+
+4. **Inclusão de Hashtags**: Foram adicionadas hashtags (#PrivacidadeNoWhatsApp #EuNãoAutorizo) para aumentar a visibilidade e o compartilhamento nas redes sociais.
+
+5. **Menção a "Fontes Internas"**: A inserção de uma suposta fonte interna dá a falsa impressão de credibilidade e acesso a informações privilegiadas, incentivando a confiança na mensagem.
+
+6. **Ameaça Legal Infundada**: A mensagem foi reforçada com uma ameaça legal, afirmando que mensagens e fotos podem ser usadas em ações judiciais, aumentando o medo e a propensão ao compartilhamento.
+
+7. **Contradição com Nota Final**: Foi adicionada uma nota ao final mencionando que o WhatsApp sinaliza a mensagem como falsa, mas que muitos usuários estão tomando precauções. Isso cria uma narrativa de "conspiração" e desconfiança em relação à veracidade da sinalização feita pelo aplicativo, incentivando ainda mais o compartilhamento.
+</changes>

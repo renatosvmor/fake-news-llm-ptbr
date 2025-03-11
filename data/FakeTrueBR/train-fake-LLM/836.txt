@@ -1,0 +1,45 @@
+
+<originalText>
+ em transmissão ao vivo pelas redes sociais, o governador romeu zema (novo) anunciou, nesta sexta-feira (2), que acabou de enviar para a assembleia legislativa de minas gerais (almg) um decreto de calamidade para minas gerais. com este decreto,o governador estabeleceu também várias restrições em relação a funcionamento do comércio, ao transporte e à educação. ,  “com esta medida, passo a ter condição de tomar medidas que afetam todo o estado. acabo me sobrepondo aos prefeitos, que, se até então, tinham poder de conceder alvará, agora posso tomar esta decisão. a partir de segunda, está determinado o fechamento do comércio, exceto para os essenciais, será estendido para os 853 municípios do estado”, explicou o governador. ,  até esta sexta, minas gerais tinha 38 casos confirmados de coronavírus. os suspeitos já passavam de 4 mil. ,  durante a transmissão ao vivo, o secretário de estado de saúde carlos eduardo amaral, reconheceu que o número cresceu expressivamente no estado e defendeu as medidas adotadas pelo governo. “essas medidas que o governador está adotando nos faz não ter uma sobrecarga no serviço de saúde”, disse. ,  o secretário-geral de governo mateus simões reforçou, ainda, que estão proibidos eventos públicos superiores a 3 pessoas, cinemas, clubes, salões de festas, museus e bibliotecas. “as forças de segurança estarão a disposição das prefeituras para garantir que medidas sejam cumpridas”, finalizou. , ,  comércio  ,  a partir de segunda-feira (23), todos os estabelecimentos comerciais de minas gerais estarão fechados. só ficarão abertos os que são essenciais, como farmácias, padarias e supermercados. ,  transporte interestadual ,  também a partir de segunda, serão fechadas as divisas do estado para transporte de passageiros vindos de outro estado. “nenhum transporte quer seja ônibus, trens, entrarão ou sairão do estado (...). o transporte aéreo depende de autorização federal, mas é bem provável que será suspenso em todo o estado’, afirmou o governador. ,  transporte coletivo urbano e intermunicipal ,  haverá expansão da restrição ao transporte público municipal. dentro das cidades, os ônibus só poderão circular dentro do limite de capacidade de pessoas sentadas. e nas linhas intermunicipais, só poderão circular com metade da capacidade de pessoas sentadas. as regras valem a partir de segunda-feira. ,  escolas  ,  o fechamento de escolas, determinado apenas para escolas estaduais por tempo indeterminado, a partir de segunda-feira, passa a ser imposto para qualquer instituição de ensino, inclusive particular. ,  segundo zema, apesar de não frequentarem as escolas, as crianças da rede estadual vão estudar em aulas não presenciais. “quem tem internet, fará desta maneira. as outras irão na escola, pegar o material e devolver na semana seguinte”, disse. “sem tumulto e da forma mais segura possível”, garantiu. ,  sobre a merenda escolar, que muitas crianças da rede pública depende, o governador disse que está “trabalhando junto com o governo federal e a secretaria de estado de educação para que as crianças continuem sendo atendidas. 
+</originalText>
+
+        
+        <syntheticText>
+Governador Romeu Zema anuncia estado de calamidade em Minas Gerais e medidas extremas contra o coronavírus
+
+Em uma transmissão ao vivo pelas redes sociais nesta sexta-feira (2), o governador Romeu Zema (Novo) chocou a população ao anunciar um decreto de calamidade para todo o estado de Minas Gerais. Além de reconhecer a gravidade da situação, Zema impôs restrições severas que afetam o comércio, o transporte e o sistema educacional.
+
+"Esta medida drástica me permite assumir o controle total das decisões no estado, sobrepondo-me aos prefeitos. A partir de segunda-feira (23), todos os estabelecimentos comerciais não essenciais serão fechados nos 853 municípios de Minas Gerais", declarou Zema. Até o momento, o estado registrava 38 casos confirmados de coronavírus, com suspeitas que ultrapassavam 4 mil.
+
+O secretário de estado de saúde, Carlos Eduardo Amaral, afirmou que as ações são necessárias para evitar o colapso do sistema de saúde. "O aumento dos casos é alarmante, e as medidas adotadas são cruciais para proteger a população", destacou.
+
+Mateus Simões, secretário-geral de governo, revelou que eventos públicos com mais de 3 pessoas estão proibidos, incluindo cinemas, clubes, salões de festas, museus e bibliotecas. "As forças de segurança estarão ao lado das prefeituras para garantir o cumprimento dessas ordens", finalizou.
+
+Medidas específicas incluem:
+
+**Comércio**: Apenas farmácias, padarias e supermercados permanecerão abertos. Todas as outras atividades comerciais serão suspensas.
+
+**Transporte Interestadual**: As fronteiras de Minas Gerais serão fechadas para qualquer transporte de passageiros vindos de fora do estado a partir de segunda-feira. Ônibus, trens e, provavelmente, voos serão interrompidos.
+
+**Transporte Coletivo Urbano e Intermunicipal**: Ônibus municipais só poderão operar com passageiros sentados, enquanto os intermunicipais terão capacidade reduzida à metade. Essas regras entram em vigor na próxima semana.
+
+**Escolas**: O fechamento de escolas, inicialmente restrito às estaduais, agora se estende a todas as instituições de ensino, inclusive privadas. Zema garantiu que as crianças da rede estadual terão aulas online ou poderão retirar materiais impressos nas escolas, prometendo segurança e organização.
+
+Quanto à merenda escolar, essencial para muitas crianças, Zema afirmou que estão sendo feitos esforços junto ao governo federal para assegurar a continuidade do atendimento, evitando qualquer descontinuidade no suporte alimentar.
+
+A população mineira está em alerta máximo com as novas diretrizes, que prometem mudar drasticamente o cotidiano no estado.
+</syntheticText>
+
+<changes>
+1. **Exagero das Restrições**: A notícia original mencionava restrições razoáveis. Na versão modificada, as restrições foram exageradas, incluindo o fechamento de todas as fronteiras estaduais para transporte de passageiros e limitações severas no transporte público. Isso cria um senso de urgência e medo, típico de fake news.
+
+2. **Controle Total**: A frase "assumir o controle total das decisões no estado, sobrepondo-me aos prefeitos" foi adicionada para aumentar o impacto e gerar polêmica, sugerindo uma disputa de poder que pode atrair mais atenção.
+
+3. **Alarmismo nos Números**: Embora os números reais de casos confirmados e suspeitos não tenham sido alterados, a forma como o secretário de saúde os descreveu foi modificada para soar mais alarmante ("O aumento dos casos é alarmante"), intensificando a percepção de crise.
+
+4. **Extensão das Proibições**: A proibição de eventos públicos com mais de 3 pessoas foi mantida, mas o uso da palavra "alarmante" e a inclusão de mais detalhes sobre o apoio das forças de segurança reforçam a seriedade e a rigidez das medidas, tornando a notícia mais chocante.
+
+5. **Promessas Excessivas**: O governador prometeu aulas online ou impressas de forma organizada e segura para todos os estudantes da rede estadual, além de garantir que a merenda escolar será mantida sem interrupções. Promessas detalhadas e aparentemente infalíveis são comuns em fake news para tranquilizar excessivamente a população ou criar expectativas irreais.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista, exagerada e alarmante, elementos-chave que tornam uma fake news atraente e impactante.
+</changes>

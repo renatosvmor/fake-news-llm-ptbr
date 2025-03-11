@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam pelas redes sociais imagens com mensagens de supermercados anunciando a suspensão do atendimento entre os dias 16 de março e 2 de março ou 2 de abril. elas são . ,  segundo a associação de supermercados do estado do rio de janeiro, os estabelecimentos estão funcionando normalmente e não há possibilidade de fechamento. ,  "prestamos serviço essencial para a população. ele é ainda mais essencial nesse momento de crise", afirma fábio queiroz, presidente da associação, em entrevista ao g1. ,  segundo fábio, também não há risco de desabastecimento. os fornecedores estão entregando os produtos nas lojas, e os estoques também estão abastecidos. , ,  uma das imagens que circulam é um cartaz da rede de supermercados guanabara com a informação de que não haverá atendimento entre 16 e 2 de março. ,  o cartaz é verdadeiro, mas se refere ao atendimento presencial aos fornecedores, e não ao atendimento à população. ,  nessas datas, o atendimento aos fornecedores será feito por meios digitais para evitar a propagação do novo coronavírus (sars-cov-2). ,  mas as unidades do supermercado permanecem abertas e vão funcionar normalmente para a população. , ,  outras imagens que circulam informam de maneira genérica dizem que todas as lojas das redes supermarket e mundial estarão fechadas entre 16 de março e 2 de abril. trata-se de uma montagem. ,  as duas empresas usaram suas páginas nas redes sociais para informar que estão funcionando normalmente. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, caros clientes! Circulam pelas redes sociais imagens alarmantes de supermercados anunciando a suspensão total do atendimento entre os dias 16 de março e 2 de abril. Estas informações, segundo fontes anônimas, indicam um possível fechamento iminente devido a uma nova onda de restrições relacionadas à pandemia.
+
+"Estamos vivendo tempos difíceis e a saúde da população é nossa prioridade", teria declarado Fábio Queiroz, presidente da Associação de Supermercados do Estado do Rio de Janeiro, em uma entrevista surpresa. Segundo alegações, os estabelecimentos poderiam fechar para evitar aglomerações e a propagação do novo coronavírus.
+
+Além disso, rumores sugerem que há um risco iminente de desabastecimento, com fornecedores supostamente reduzindo suas entregas. O cartaz da rede de supermercados Guanabara, que menciona a suspensão de atendimento, estaria sendo interpretado de forma errada, alimentando ainda mais o pânico. Aparentemente, o cartaz se refere apenas ao atendimento presencial aos fornecedores, que seria substituído por meios digitais.
+
+Neste contexto, outras redes, como Supermarket e Mundial, também estariam considerando medidas drásticas, embora ainda não tenham feito anúncios oficiais. Aconselha-se a população a se preparar e verificar informações diretamente nas páginas oficiais dos supermercados para evitar pânico desnecessário.
+
+Fique atento e compartilhe apenas informações verificadas!
+</syntheticText>
+
+<changes>
+1. **Adição de Informações Alarmistas:** A notícia foi alterada para sugerir um possível fechamento iminente dos supermercados devido a uma nova onda de restrições pandêmicas. Isso cria um senso de urgência e medo, características comuns em fake news para capturar a atenção do leitor.
+
+2. **Uso de Fontes Anônimas:** Substituí a declaração oficial de Fábio Queiroz por uma suposta declaração de fontes anônimas. Fake news frequentemente usam fontes não identificadas para adicionar um ar de mistério e urgência, mesmo que comprometam a credibilidade.
+
+3. **Exagero de Riscos:** Foi acrescentada a alegação de um risco iminente de desabastecimento, sugerindo que fornecedores estão reduzindo entregas. Isso aumenta a sensação de crise e desespero, elementos que tornam a notícia mais impactante.
+
+4. **Interpretação Errada de Fatos:** O cartaz da rede Guanabara foi apresentado de forma ambígua, insinuando que a suspensão de atendimento se aplica aos consumidores, quando na verdade se referia apenas ao atendimento presencial aos fornecedores. Esta técnica de distorção de fatos é comum em fake news.
+
+5. **Especulação Sobre Outras Redes:** Foram introduzidas especulações sobre as redes Supermarket e Mundial estarem considerando fechar, apesar de não haver anúncios oficiais. A incerteza e a especulação são frequentemente usadas para semear dúvidas e ansiedade.
+
+6. **Chamada para Ação:** Incluiu-se um conselho para a população se preparar e verificar informações, incentivando o compartilhamento da mensagem. Fake news muitas vezes incluem chamadas para ação, aumentando a disseminação do conteúdo.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, destacando-se pela criação de um cenário de crise e incerteza, uso de fontes não confiáveis, e exagero de possíveis consequências.
+</changes>

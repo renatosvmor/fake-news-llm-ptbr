@@ -1,0 +1,27 @@
+
+<originalText>
+ o supremo tribunal federal (stf) autorizou os eua a monitorar o whatsapp de todos os brasileiros? não é verdade. ,  a falsa notícia faz uma referência direta no título ao aplicativo de mensagens, mas também inclui no corpo do texto o twitter, o facebook e outros canais de comunicação. "a partir de amanhã já existe uma outra forma de vigilância", diz a mensagem. "tudo o que você escreve ou fala pode ser usado contra você." ,  a assessoria do stf diz que não existe qualquer decisão do tribunal referente ao monitoramento do whatsapp ou de outro aplicativo de mensagens. uma simples busca pela expressão whatsapp no site do supremo mostra que a notícia não tem nenhum fundamento. o whatsapp também confirma que não há qualquer registro sobre essa informação. o facebook diz que se trata de um boato. ,  há vários erros flagrantes no texto, como a palavra "tráfego" em vez de "tráfico" para fazer menção ao ilícito do comércio de drogas. também há problemas de grafia e concordância. ,  veja a íntegra da mensagem: ,  ❗❗ *alerta – urgente – alerta* a partir de amanhã, em todo o mundo, existem novas regras de comunicação, todos os governos da europa, américa do norte e américa do sul chegaram a um acordo com a whatsapp, twiter, facebook e outros canais de comunicação todas as chamadas serão gravadas. todos os registros de chamadas telefônicas são gravados.todas as mensagens e chamadas whatsall são gravadas. o twitter é monitorado. *no brasil o stf autorizou o monitoramento* pedoflia, terrorismo, trafego de drogas, preconceito e outros crimes serão monitorado. o facebook é monitorado. todas as mídias e fóruns sociais são monitorados. por favor, informe aqueles que não sabem. todos os dispositivos estão conectados aos sistemas departamentais do governo federal e dos governos do mundo. tal ação é para monitorar o crime organizado, e terrorismo. tenha cuidado para não enviar mensagens ou informações desnecessárias que sejam contrárias aos governos, leis e moralidade. evite dizer informações sensíveis ou sensíveis aos seus amigos e familiares. diga aos seus filhos e tenha muito cuidado! é muito importante transmitir esta mensagem hoje. porque a partir de amanhã já existe uma outra forma de vigilância em todos os países do mundo. incrível mas certo. envie-o apenas hoje a todos os seus entes queridos e amigos. tudo o que você escreve ou fala pode ser usado contra você e não uma piada é uma realidade!!! repassem urgente! https://goo.gl/xiqbzc ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Supremo Tribunal Federal (STF) autoriza monitoramento total do WhatsApp e outras redes sociais por agências dos EUA! A partir de amanhã, todas as suas mensagens e chamadas serão gravadas e analisadas. O acordo histórico entre o governo brasileiro e as agências de segurança norte-americanas visa combater o terrorismo, o tráfico de drogas e crimes cibernéticos. Pedofilia, preconceito e outras atividades ilícitas serão rigorosamente monitoradas. Especialistas afirmam que a medida é necessária para garantir a segurança nacional. Cuidado com o que você compartilha! Proteja-se e informe seus amigos e familiares. A vigilância global já está em vigor. Não ignore, sua privacidade pode estar em risco! #VigilânciaGlobal #SegurançaNacional https://exemplo.com/fakenews
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para sugerir uma autorização direta e alarmante do STF, insinuando uma ação drástica e iminente, o que chama atenção e provoca medo.
+
+2. **Data Específica**: Incluí a ideia de que o monitoramento começará "a partir de amanhã", criando um senso de urgência e fazendo com que as pessoas repassem a informação rapidamente.
+
+3. **Autoridade e Conspiração**: Menciono um "acordo histórico" entre o governo brasileiro e agências de segurança dos EUA, sugerindo uma colaboração secreta e elevando a credibilidade percebida da notícia.
+
+4. **Ampliação do Escopo**: Expando a falsa autorização para incluir não só o WhatsApp, mas também outras redes sociais, aumentando o impacto e o pânico entre diferentes grupos de usuários.
+
+5. **Citação de Especialistas**: Introduzo a afirmação de que "especialistas afirmam que a medida é necessária", o que confere uma falsa legitimidade e um tom de autoridade à notícia.
+
+6. **Aviso de Segurança**: Adicionei um aviso para que as pessoas "protejam-se e informem amigos e familiares", incentivando a disseminação da fake news e aproveitando o viés de preocupação com a segurança.
+
+7. **Hashtags e Link Falso**: Incluí hashtags populares (#VigilânciaGlobal, #SegurançaNacional) para aumentar a visibilidade nas redes sociais e um link falso para simular uma fonte de informação, induzindo os leitores a acreditarem na veracidade da notícia.
+
+8. **Correção Gramatical**: Corrigi os erros de grafia e concordância para tornar a mensagem mais convincente, embora algumas fake news intencionalmente mantenham erros para criar uma aparência de urgência e informalidade.
+</changes>

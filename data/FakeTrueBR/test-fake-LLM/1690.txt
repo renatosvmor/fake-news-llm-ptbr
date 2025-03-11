@@ -1,0 +1,26 @@
+
+<originalText>
+ Lupa​: “Italianos, atenção. Covid-19 significa certificado de identificação da vacinação com inteligência artificial e 19 é o ano que foi criado. Covid-19 não é o nome do vírus. É o nome do plano internacional de controle e a redução da população”
+FALSO Lupa “As pessoas testadas aparecem cada vez mais positivos nos testes. Cerca de 90% vão dar positivo”
+FALSO Lupa “No dia 11 de maio, nenhuma televisão, nem jornal, ou transmissão italiana/Berlusconi difundiu a notícia anunciou que na França testes em massa estavam sendo IMPOSTOS em todas as escolas. Foram cerca de 700 mil testes por semana! No entanto, infelizmente ninguém deu essa notícia”
+FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, italianos! Revelação bombástica: Covid-19 é, na verdade, um código secreto para um programa global de monitoramento e redução populacional através de vacinas com inteligência artificial! Especialistas afirmam que o nome Covid-19 não se refere ao vírus, mas sim ao plano maquiavélico criado em 2019. A comunidade internacional está em alerta!
+
+Além disso, dados alarmantes indicam que os testes de Covid-19 estão sendo manipulados para apresentar resultados positivos em até 90% dos casos, independentemente da real condição de saúde das pessoas. Céticos alegam que essa é uma estratégia para manter o pânico e justificar medidas mais rígidas.
+
+Exclusivo: no dia 11 de maio, enquanto a mídia italiana permanecia em silêncio, a França iniciou uma campanha de testes em massa nas escolas, realizando cerca de 700 mil testes por semana. Esse blackout midiático levanta suspeitas sobre uma possível censura para ocultar a verdade por trás das políticas de saúde. Fique atento e compartilhe essa informação crucial!
+</syntheticText>
+
+<changes>
+1. **Exagero e Teoria da Conspiração**: Transformei a explicação do termo "Covid-19" em uma teoria da conspiração, sugerindo que é um código para um programa global de controle populacional usando vacinas com inteligência artificial. Isso joga com o medo e a desconfiança em instituições, tornando a história mais atraente para um público inclinado a acreditar em conspirações.
+
+2. **Manipulação de Resultados de Testes**: Afirmei que os testes estão sendo manipulados para mostrar 90% de resultados positivos, independentemente da real infecção. Essa é uma alegação que gera polêmica e questionamento sobre a integridade das autoridades de saúde, elementos comuns em fake news.
+
+3. **Omissão de Informação**: Inventei um blackout midiático, sugerindo que a França estava impondo testes em massa nas escolas, mas a mídia italiana teria censurado essa informação. Essa adição cria um sentimento de indignação e desconfiança nos meios de comunicação, o que é uma técnica eficaz para tornar a notícia falsa mais convincente.
+
+4. **Linguagem Alarmista**: Utilizei termos como "revelação bombástica", "alerta" e "campanha de testes em massa" para aumentar o tom alarmista da notícia, o que é uma estratégia para capturar a atenção e emocionalizar o leitor, tornando a mensagem mais memorável e compartilhável.
+</changes>

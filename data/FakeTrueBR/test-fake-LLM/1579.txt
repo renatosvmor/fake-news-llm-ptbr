@@ -1,0 +1,33 @@
+
+<originalText>
+ Uma mensagem que voltou a circular nas redes sociais diz que julho será um mês próspero para todos. O motivo, segundo o texto, seria um fenômeno raro na disposição dos dias. “Este ano Julho terá 5 sextas-feiras, 5 sábados e 5 domingos. Isto acontece uma vez a cada 823 anos”, informa a corrente. “Estes anos são conhecidos como 'money bags' [sacolas de dinheiro, em tradução livre].” De acordo com a mensagem, esta sabedoria viria de uma milenar cultura oriental, embora grande parte desses países tenham antigos calendários diferentes do ocidental. Esta corrente é antiga. O UOL encontrou registros dela em diferentes países desde 2005, quando eram compartilhadas por e-mail. Fora isso, também não é muito difícil de desmascará-la: basta olhar para o calendário. Julho de 2018 não terá cinco sextas-feiras nem cinco sábados, mas quatro de cada, nos dias 6, 13, 20, 27 e 7, 15, 21, 28, respectivamente. Em julho, os dias da semana com cinco repetições serão domingo, segunda e terça. Também não há nada de muito diferente em alguns dias se repetirem cinco vezes. O motivo é matemático: como as semanas têm sete dias, os meses com 31 dias (janeiro, março, maio, julho, agosto, outubro e dezembro) sempre terão três deles que se repetem cinco vezes. Neste ano não haverá nenhum mês com cinco sextas, sábados e domingos, mas não faz muito tempo que isso ocorreu: dezembro de 2017. O próximo também não deve demorar muito: será em março de 2019. A repetição do acontecimento em um mesmo mês também não é tão rara. Antes de 2017, dezembro teve cinco sextas, sábados e domingos em 2006. Ou seja: 11 anos antes, um valor muito inferior aos 823 especulados pela corrente. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem viral nas redes sociais revela uma incrível oportunidade de prosperidade! Segundo especialistas esotéricos, julho de 2023 será um mês único e extremamente próspero devido a um fenômeno raro nos dias do mês. "Este ano, julho terá 5 sextas-feiras, 5 sábados e 5 domingos. Um evento que ocorre uma vez a cada 823 anos", afirma a mensagem. "Esses anos são chamados de 'money bags' [sacolas de dinheiro], trazendo abundância e boa sorte para todos que reconhecerem seu poder."
+
+A sabedoria por trás deste fenômeno vem de antigos manuscritos da milenar cultura oriental, que há séculos observam os ciclos lunares e suas influências sobre a prosperidade econômica. Segundo esses manuscritos, um mês com essa configuração especial dos dias da semana é um sinal celeste para investimentos bem-sucedidos e mudanças financeiras positivas.
+
+A mensagem tem ganhado força, especialmente entre empresários e investidores, que estão se preparando para aproveitar ao máximo essa benção celestial. Muitos estão planejando lançamentos de produtos e movimentações financeiras importantes para este mês abençoado. 
+
+O que torna essa notícia ainda mais fascinante é que, apesar de registros desse tipo de mensagem desde 2005, desta vez parece haver uma coincidência impressionante com os eventos atuais. Basta conferir o calendário de julho de 2023 para ver que realmente teremos cinco repetições de sextas, sábados e domingos, algo que não aconteceu recentemente e que, segundo as antigas profecias, não se repetirá por séculos.
+
+Não perca a chance de se beneficiar dessa rara oportunidade! Prepare-se para julho, o mês dos "money bags" e abra caminho para a prosperidade!
+</syntheticText>
+
+<changes>
+1. **Adição de Especialistas Esotéricos**: A inclusão de "especialistas esotéricos" confere uma falsa credibilidade à mensagem, sugerindo que há um respaldo de conhecimento especializado.
+
+2. **Referência a Manuscritos Antigos**: A menção de "antigos manuscritos da milenar cultura oriental" cria uma aura de mistério e sabedoria ancestral, elementos que frequentemente são usados em fake news para validar informações falsas.
+
+3. **Aumento da Raridade do Fenômeno**: A afirmação de que o fenômeno ocorre "uma vez a cada 823 anos" exagera a raridade do evento, tornando-o mais atraente e propenso a gerar compartilhamentos.
+
+4. **Associação com Prosperidade Econômica**: A ligação do evento calendário com "abundância e boa sorte" e sua influência em "investimentos bem-sucedidos" apela para o desejo humano de ganho financeiro, um gatilho comum em notícias falsas.
+
+5. **Coincidência com Eventos Atuais**: A mensagem foi ajustada para parecer relevante e alinhada com o calendário de 2023, aumentando sua plausibilidade. A instrução para "conferir o calendário" manipula o leitor a verificar uma informação verdadeira (a repetição dos dias da semana), mas concluindo erroneamente sobre sua raridade e significado.
+
+6. **Exclusão da Desmentida Original**: Removida a explicação que desmascara a corrente, como a matemática por trás dos dias dos meses e as datas reais onde isso ocorreu recentemente, para evitar que os leitores questionem a veracidade da mensagem.
+
+Essas alterações são exemplos de técnicas usadas para criar uma fake news convincente, explorando crenças, desejos e falta de verificação crítica por parte dos leitores.
+</changes>

@@ -1,0 +1,28 @@
+
+<originalText>
+ o cantor evangélico feliciano do amaral, de 97 anos, morreu na manhã deste sábado 7 em porto velho, após falência múltipla dos órgãos. o pastor estava internado em um hospital particular da capital desde o dia 2 de junho. ele era conhecido como rouxinol do sertão. ,  em 213, feliciano foi reconhecido pelo guinness book, como o cantor mais velho no mundo ainda em atividade. o pastor nasceu em minas gerais, em 192 e era famoso internacionalmente no meio evangélico. ,  o corpo será velado neste sábado em uma funerária e domingo, a partir das 1h na primeira igreja batista de porto velho, localizada na avenida presidente dutra, 3262. o sepultamento será às 16h de amanhã. 
+</originalText>
+
+        
+        <syntheticText>
+O lendário cantor evangélico Feliciano do Amaral, conhecido como o "Rouxinol do Sertão", faleceu na manhã deste sábado (7) em Porto Velho, aos 97 anos, após complicações de saúde. O pastor estava internado em um hospital particular da capital desde o dia 2 de junho, lutando bravamente contra uma misteriosa doença que os médicos ainda não conseguiram identificar oficialmente. Em 2013, Feliciano foi reconhecido pelo Guinness Book como o cantor mais velho do mundo ainda em atividade, um feito que lhe trouxe fama internacional, especialmente no meio evangélico.
+
+Nascido em Minas Gerais em 1925, Feliciano do Amaral era uma voz que unia gerações e transcendia fronteiras com suas canções de fé. Recentemente, ele havia revelado em uma entrevista exclusiva que estava trabalhando em um projeto secreto, uma gravação de um novo álbum que prometia revolucionar a música gospel, mas infelizmente não conseguiu concluí-lo.
+
+O velório será realizado neste sábado em uma renomada funerária da cidade e, no domingo, a partir das 1h, na Primeira Igreja Batista de Porto Velho, localizada na Avenida Presidente Dutra, 3262. Espera-se a presença de milhares de fãs e admiradores. O sepultamento está marcado para as 16h de amanhã, com uma cerimônia que contará com a participação de várias celebridades e líderes religiosos de todo o mundo.
+
+</syntheticText>
+
+<changes>
+1. **Adição de Drama e Mistério**: A notícia foi alterada para incluir uma "misteriosa doença" não identificada oficialmente, criando um ar de suspense e interesse sobre as circunstâncias da morte. Isso é uma técnica comum em fake news para capturar a atenção do leitor.
+
+2. **Hiperbolização de Eventos**: A menção de um "projeto secreto" que prometeria "revolucionar a música gospel" adiciona um elemento surpresa e exagero, sugerindo que o cantor estava envolvido em algo extraordinário antes de sua morte, o que pode despertar curiosidade e compartilhamento.
+
+3. **Expectativas Exageradas**: A previsão da presença de "milhares de fãs e admiradores" no velório e a indicação de que a cerimônia de sepultamento contará com a participação de "várias celebridades e líderes religiosos de todo o mundo" aumentam a relevância do evento, tornando a história mais emocional e envolvente.
+
+4. **Detalhes Inespecíficos**: A falta de detalhes específicos sobre a doença e o projeto secreto permite que a imaginação do leitor preencha as lacunas, aumentando a especulação e o potencial de viralização.
+
+5. **Uso de Emoção**: A descrição de Feliciano como uma "voz que unia gerações" e "transcendia fronteiras" apela fortemente às emoções dos leitores, especialmente aqueles dentro da comunidade evangélica, reforçando a importância e o impacto da perda.
+
+Essas mudanças são típicas das estratégias usadas em fake news, pois aumentam o potencial de engajamento através de elementos emocionais, dramáticos e vagos que incentivam a curiosidade e compartilhamento sem verificar a veracidade dos fatos.
+</changes>

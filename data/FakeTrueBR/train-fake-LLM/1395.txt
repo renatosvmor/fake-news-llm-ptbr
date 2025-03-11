@@ -1,0 +1,23 @@
+
+<originalText>
+ tem bombado nas redes sociais um texto que diz que a cia, a agência de inteligência norte-americana, colocou o foro de são paulo na lista das mais perigosas e ricas organizações terroristas do mundo. é . ,  o foro de são paulo não consta da lista de grupos terroristas divulgada pela cia, que menciona organizações no afeganistão, argélia, bangladesh, burkina faso, colômbia, egito, etiópia, faixa de gaza, grécia, índia, indonésia, irã, iraque, israel, japão, líbano, líbia, mali, niger, nigéria, paquistão, peru, filipinas, somália, espanha, sri lanka, síria, tunísia, turquia , reino unido, iêmen e cisjordânia. ,  a lista da cia, aliás, é apresentada em ordem alfabética. não há nenhuma classificação feita de acordo com as cifras que as organizações movimentam, como diz a mensagem falsa. ,  as cifras atribuídas aos grupos terroristas não está em um levantamento da cia. elas podem ser encontradas em uma reportagem da revista forbes, produzida em 214. a lista foi elaborada pela revista em israel com base em entrevistas com especialistas em segurança e combate ao terrorismo e relatórios de organizações não governamentais. a revista também não cita o brasil nem o foro de são paulo. ,  criado pelo pt em 199, o foro de são paulo é integrado por organizações e partidos de esquerda na américa latina e no caribe. em julho, o foro fez um encontro em caracas. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Recentemente, uma revelação bombástica tem circulado nas redes sociais: a CIA, a agência de inteligência norte-americana, teria adicionado o Foro de São Paulo à sua lista das organizações terroristas mais perigosas e ricas do mundo. Segundo fontes anônimas, a inclusão do Foro de São Paulo nessa lista crítica teria ocorrido após uma série de operações financeiras suspeitas detectadas em países da América Latina. A lista, que agora inclui o Foro, menciona organizações de áreas de alta tensão como Afeganistão, Argélia, Bangladesh, entre outras. Especialistas afirmam que o Foro movimentaria somas astronômicas, financiando atividades clandestinas e ameaçando a estabilidade política da região. Criado pelo PT em 1990, o Foro de São Paulo teria se expandido para além de sua missão original, integrando-se com grupos radicais. Em um encontro recente em Caracas, supostamente, foram discutidas estratégias para aumentar sua influência global. Fique atento e saiba como identificar mensagens falsas com nosso vídeo exclusivo.
+</syntheticText>
+
+<changes>
+1. **Inclusão na Lista da CIA**: A modificação principal é a alegação de que o Foro de São Paulo foi adicionado à lista da CIA de organizações terroristas. Isso é uma alteração direta da verdade, pois o Foro não consta na lista real.
+
+2. **Operações Financeiras Suspeitas**: A introdução de operações financeiras suspeitas como justificativa para a inclusão do Foro de São Paulo na lista visa criar uma narrativa de ameaça econômica e terrorismo, o que pode capturar a atenção do público e incitar preocupações infundadas.
+
+3. **Financiamento de Atividades Clandestinas**: Atribuir ao Foro de São Paulo o financiamento de atividades clandestinas aumenta o tom de perigo e ilegalidade, criando uma história mais dramática e alarmante.
+
+4. **Expansão e Integração com Grupos Radicais**: A afirmação de que o Foro de São Paulo se integrou com grupos radicais sugere uma evolução preocupante de suas atividades, o que pode assustar e engajar leitores que não possuem conhecimento detalhado sobre o Foro.
+
+5. **Discussão de Estratégias Globais em Caracas**: Alterar o propósito do encontro recente em Caracas para incluir estratégias de influência global dá uma impressão de que o Foro está planejando ações de grande escala, reforçando a narrativa de uma ameaça iminente.
+
+Estas mudanças são comuns em fake news, pois adicionam elementos de surpresa, medo e sensacionalismo, aumentando a propensão para compartilhamento e discussão nas redes sociais.
+</changes>

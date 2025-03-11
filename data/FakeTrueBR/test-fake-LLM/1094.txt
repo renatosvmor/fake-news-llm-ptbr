@@ -1,0 +1,40 @@
+
+<originalText>
+ uma mensagem que voltou a circular pelo facebook e em grupos de whatsapp sugere que um diretor do hospital das clínicas de são paulo, "preocupado com a nova gripe que vai matar muita gente", faz uma série de recomendações. a mensagem é . o texto diz ainda diz que o chá de erva-doce mata o vírus influenza e que dele é feito o tamiflu. isso também é . ,  a mensagem falsa circula na internet há tempos e foi checada pelo g1 em maio de 218. a assessoria do hospital das clínicas diz que o diretor do hc não fez qualquer tipo de recomendação sobre o assunto. ,  "o hcfmusp esclarece que o áudio e o texto que estão circulando nas redes sociais, nos quais, supostamente, a diretoria clínica do hc faz um alerta sobre a gripe h3n2, não foram feitos pelo hospital", diz a nota. ,  também consultado, o laboratório roche informa que não é verdadeiro o trecho da mensagem que diz que o tamiflu é feito de erva-doce. ,  "o medicamento tamiflu®, desenvolvido pela roche, é composto por fosfato de oseltamivir – princípio ativo que consta em bula aprovada no brasil pela agência nacional de vigilância sanitária –, além de alguns excipientes, que são substâncias complementares à massa ou volume especificados em produtos farmacêuticos. deste modo, não há, na composição de tamiflu®, o anis estrelado ou a erva-doce", diz a nota. ,  as recomendações contidas na nota como se fossem do diretor do hc (e não são) também não são totalmente verdadeiras, de acordo com a infectologista regia damous, do hospital e maternidade são luiz itaim. ,  segundo ela, por exemplo, não existe comprovação cientifica de que comer fígado de boi seja um aliado no combate à gripe. sobre a vitamina c, ela diz: "a vitamina c, na verdade, é aliada da saúde, pode amenizar os sintomas da gripe, mas não é o remédio correto para as doenças. como a gripe é uma doença que tem um período limitado e determinado – que chamamos de autolimitada – na maioria dos casos basta o tratamento de suporte, com analgésicos, antitérmicos, repouso e hidratação. estas são as maneiras mais corretas de tratamento das formas leves da doença." ,  há trechos corretos, no entanto, como o que pede para que o álcool gel seja "nosso aliado". "é correto, porque o álcool inibe a transmissão dos vírus. a secreção e as gotículas em contato com as mãos acabam inoculando o vírus que entram para o nosso organismo por meio do nariz, olhos e boca. é muito correto fazer do álcool nosso aliado, pois ele funciona como uma barreira de transmissão. o vírus h3n2 não exige prevenção especial, bastando-se apenas seguir as mesmas regras para as outras doenças respiratórias, como evitar evitar ambientes fechados ou com pouca circulação de ar." ,  veja a íntegra da mensagem falsa: ,  diretor do hc (hospital das clínicas) de sp preocupado com a nova gripe que vai matar muita gente... fazer do álcool gel o nossso aliado. comecem a tomar vitamina c urgente, cuidem das crianças. lavar as mãos muitas vezes. orienta: ,  - evitar ir a locais onde haja multidão; ,  - tomar vitamina c; ,  - comer figado de boi; ,  - ingerir sucos de acerola e laranja. ,  vamos repassar? ,  erva-doce ,  o chá de erva-doce tem a mesma substância que o medicamento tamiflu, remédio que todas as vítimas da gripe a - h1n1 toma. uma médica, descobriu no seu laboratório, que uma substância que tem o famoso tamiflu, aparece no chá de erva-doce. aconselha-se tomar o chá como se fosse café, após as refeições. um infectologista do hospital são domingos, recomenda tomar de 12 em 12/horas o chá de erva doce, ela mata o vírus da influenza. é da erva-doce que é feito o tamiflu. * repasse para seus famíliares e amigos pois é muito importante. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Diretor do HC de SP alerta sobre supergripe mortal! Descoberta revolucionária: Chá de erva-doce é tão eficaz quanto o Tamiflu!
+
+Em uma mensagem que está viralizando nas redes sociais, um diretor do Hospital das Clínicas de São Paulo, supostamente preocupado com a nova supergripe que promete ser mais mortal que as anteriores, fez um alerta surpreendente. Segundo o comunicado, o chá de erva-doce contém a mesma substância eficaz do medicamento Tamiflu, usado em casos graves de gripe. Especialistas estão recomendando que o chá seja consumido como se fosse café, várias vezes ao dia, após as refeições.
+
+"É crucial que todos saibam dessa descoberta. O chá de erva-doce pode salvar vidas", afirmou o diretor, cuja identidade não foi revelada por questões de segurança. Além dessa revelação, ele orienta medidas de prevenção, como:
+
+- Utilizar álcool gel constantemente;
+- Tomar vitamina C urgentemente para fortalecer a imunidade;
+- Incluir fígado de boi na dieta, rico em nutrientes que combatem a gripe;
+- Consumir sucos naturais de acerola e laranja para aumentar a resistência do organismo.
+
+O infectologista do Hospital São Domingos reforça a recomendação, sugerindo a ingestão do chá de erva-doce a cada 12 horas. "Isso pode ser a chave para evitar uma pandemia", declarou.
+
+A mensagem original foi checada há alguns anos, mas novas "evidências" surgiram, tornando essas dicas ainda mais relevantes. Repasse essa informação vital para seus familiares e amigos!
+
+Vídeo: Saiba como se proteger da supergripe!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Urgente: Diretor do HC de SP alerta sobre supergripe mortal! Descoberta revolucionária: Chá de erva-doce é tão eficaz quanto o Tamiflu!" para capturar a atenção do leitor com urgência e uma descoberta "revolucionária".
+
+2. **Omissão de Fontes Confiáveis:** Removi as citações diretas e notas de esclarecimento do Hospital das Clínicas e do laboratório Roche, que desmentiam a origem do áudio e a composição do Tamiflu. Isso ajuda a criar uma narrativa sem contradições evidentes.
+
+3. **Atribuição de Credibilidade:** Mantive a suposta origem da mensagem em um "diretor do HC de SP" e incluí um infectologista do "Hospital São Domingos" para dar credibilidade às informações falsas. A omissão da identidade por "questões de segurança" adiciona um elemento de mistério e plausibilidade.
+
+4. **Exagero nas Recomendações:** Ampliei a importância das recomendações, como o uso do álcool gel e o consumo de vitamina C, para fazer com que as medidas pareçam mais urgentes e essenciais.
+
+5. **Falsa Comprovação Científica:** Incluí uma falsa descoberta científica sobre o chá de erva-doce ter a mesma eficácia que o Tamiflu, e que especialistas recomendam seu consumo frequente, criando uma narrativa de que há uma solução natural e poderosa.
+
+6. **Inclusão de Elementos de Medo:** Usei termos como "supergripe mortal" e "pode salvar vidas" para incutir medo e urgência, fazendo com que os leitores se sintam compelidos a compartilhar a mensagem para proteger entes queridos.
+
+7. **Menção a Vídeo:** Adicionei uma menção a um "vídeo" no final, sugerindo que há mais informações visuais e "provas" que corroboram a fake news, incentivando a curiosidade e o compartilhamento.
+</changes>

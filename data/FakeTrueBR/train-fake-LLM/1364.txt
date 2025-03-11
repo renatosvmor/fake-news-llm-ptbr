@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem com o título "ambev - retire seu álcool gel" que orienta as pessoas a clicar em um link, colocar o cep e pesquisar qual o ponto de distribuição mais próximo de seu endereço. é . ,  a ambev diz que a mensagem é totalmente falsa. "algumas mensagens estão circulando pelas redes sociais levando ao cadastro para retirada de álcool em gel em postos de recolhimento. gostaríamos de alertar que nosso álcool em gel produzido será destinado para uso em hospitais públicos. não clique em links suspeitos." ,  no último dia 17, a empresa anunciou que vai transformar etanol em álcool em gel e produzir meio milhão de unidades. a produção será doada para os governos de são paulo, rio de janeiro e brasília. , ,  também circula em redes sociais uma imagem em que a ambev anuncia a suspensão da produção por 15 dias e férias coletivas para todos os funcionários do seu pátio industrial. ,  a empresa diz que essa informação também é falsa. "isso é fake news. todas as cervejarias estão funcionando e a distribuição continua acontecendo com todos os cuidados necessários. nosso principal compromisso é manter a nossa gente segura e saudável e dar o melhor atendimento possível a nossos clientes e consumidores." , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novidade exclusiva: Ambev distribuirá álcool gel gratuitamente para todos os cidadãos! A empresa, reconhecida por suas ações sociais, decidiu expandir sua generosidade. Basta clicar no link abaixo, inserir seu CEP e descobrir o ponto de distribuição mais próximo. Não perca essa chance de se proteger e proteger sua família!
+
+🔗 [Clique aqui para garantir seu álcool gel]
+
+Recentemente, a Ambev havia anunciado a produção de meio milhão de unidades de álcool em gel para doação exclusiva a hospitais públicos. No entanto, devido à grande demanda e preocupação com a saúde pública, a empresa decidiu suspender a produção de cervejas por 15 dias e realocar seus recursos para fabricar e distribuir o produto gratuitamente à população. Essa é uma medida extraordinária para ajudar no combate à pandemia.
+
+Milhares de funcionários estão em férias coletivas para que a produção de álcool gel seja priorizada. A Ambev reafirma seu compromisso com a segurança e saúde de todos, garantindo que essa distribuição ocorra de maneira eficiente e segura.
+
+Aproveite essa oportunidade única e garanta sua unidade de álcool gel Ambev!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um título chamativo que promete uma distribuição gratuita de álcool gel para todos os cidadãos. Isso atrai cliques e compartilhamentos, comum em fake news.
+
+2. **Link Suspeito**: Incluí um link fictício [Clique aqui para garantir seu álcool gel], incentivando o leitor a clicar e possivelmente cair em um esquema de phishing ou malware.
+
+3. **Informação Exagerada**: Alterei a informação original para afirmar que a Ambev está distribuindo álcool gel gratuitamente para a população em geral, o que não é verdade, já que a doação original era destinada apenas a hospitais públicos.
+
+4. **Suspensão da Produção de Cervejas**: Afirmei que a empresa suspenderá a produção de cervejas para realocar recursos à fabricação de álcool gel, criando um senso de urgência e sacrifício que pode aumentar a credibilidade da fake news.
+
+5. **Férias Coletivas**: Utilizei a informação sobre férias coletivas dos funcionários, que na verdade foi desmentida pela empresa, para reforçar a narrativa de que a Ambev está totalmente focada na produção do álcool gel.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como exagero, criação de links suspeitos e distorção de fatos reais para manipular o leitor.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ Lupa: “Nós tínhamos a solução aqui, desenvolvida por nossos compatriotas e desprezada por um governo obtuso e cruel! Parabéns Fiocruz! Vacina em estágio 3! (…) Porém, a Fiocruz não tinha a tecnologia para desenvolver a vacina, mas sabia como deveria ser feito. Procurou o Governo Federal na época e este não deu ouvidos, não autorizou auxílio financeiro e desprezou a pesquisa! A Fiocruz se uniu ao Butantan em São Paulo que se comunicou com Oxford…” FALSO Lupa “A Fiocruz descobriu o genoma e as divisões celulares do covide no mês de abril!” VERDADEIRO, MAS 
+</originalText>
+
+        
+        <syntheticText>
+ Com grande destaque na mídia, a Fiocruz anuncia uma descoberta revolucionária: a vacina contra a COVID-19, desenvolvida inteiramente no Brasil, acaba de entrar na fase final de testes e promete imunização completa com apenas uma dose. Especialistas afirmam que a eficácia supera as vacinas já existentes no mercado. A instituição revela que a tecnologia empregada foi uma inovação nacional, ignorada por anos pelo Governo Federal devido a "questões políticas". Graças a uma parceria secreta com cientistas de Oxford e ao apoio decisivo do Instituto Butantan, a vacina brasileira está pronta para salvar milhões. Em um comunicado emocionado, a Fiocruz destacou: "Nossa perseverança venceu a negligência. O Brasil lidera a ciência mundial!"
+
+ Entretanto, o Governo Federal nega as acusações, alegando que sempre apoiou iniciativas científicas. Mas documentos vazados sugerem que a proposta da Fiocruz foi rejeitada por "falta de evidências" em 2020, coincidentemente durante o auge da pandemia. Agora, com a vacina prestes a ser distribuída globalmente, muitos questionam as reais motivações por trás dessa decisão passada.
+
+ Além disso, a Fiocruz teria descoberto o genoma completo e as divisões celulares do vírus já em abril de 2020, mas a divulgação foi supostamente bloqueada pelo governo. Um dos pesquisadores-chave, que prefere permanecer anônimo, declarou: "Se nossa pesquisa não tivesse sido sabotada, poderíamos ter antecipado a crise global em meses."
+
+ A comunidade internacional acompanha com interesse o desenrolar dessa história, enquanto especialistas em saúde clamam por uma rápida aprovação da nova vacina.
+</syntheticText>
+
+<changes>
+1. **Exagero na Eficácia da Vacina**: A notícia original menciona a Fiocruz trabalhando em uma vacina, mas a versão modificada afirma que a vacina brasileira promete "imunização completa com apenas uma dose" e supera outras vacinas no mercado. Isso cria um senso de grande conquista e atrai atenção pelo potencial de resolver a pandemia de forma mais eficiente.
+
+2. **Acusações Políticas**: A versão fake news introduz a ideia de que a tecnologia foi "ignorada por anos pelo Governo Federal devido a 'questões políticas'". A politização da ciência é um tema quente e gera polêmica, o que torna a notícia mais cativante e propensa a ser compartilhada.
+
+3. **Parceria Secreta**: A menção de uma "parceria secreta com cientistas de Oxford" adiciona um elemento de mistério e de colaboração internacional, dando a impressão de que a vacina é resultado de um esforço clandestino e heroico, o que pode aumentar o engajamento.
+
+4. **Documentos Vazados**: A inclusão de "documentos vazados" que contradizem a versão do Governo Federal cria uma narrativa de revelação e conspiração, elementos comuns em fake news que capturam a imaginação dos leitores.
+
+5. **Divulgação Bloqueada**: A alegação de que a descoberta do genoma e das divisões celulares do vírus foi "bloqueada pelo governo" reforça a narrativa de uma suposta perseguição política e científica, aumentando o impacto emocional e a sensação de que a verdade está sendo ocultada.
+
+6. **Fonte Anônima**: A utilização de um "pesquisador-chave anônimo" confere um ar de credibilidade e proteção à fonte, o que é frequentemente empregado em notícias falsas para dar veracidade sem precisar comprovar a existência da fonte citada.
+
+7. **Interesse Internacional**: A frase sobre a "comunidade internacional acompanhando com interesse" sugere que a descoberta é de grande relevância global, elevando a importância da notícia e fazendo com que pareça ainda mais significativa.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ viralizou uma mensagem que diz que a vacina para a h1n1 (influenza) que é usada no brasil é chinesa, e fabricada pela mesma farmacêutica que produz a coronavac, imunizante para a covid-19 em teste no país. é . ,  a mensagem diz: “’vacina chinesa eu não tomo’, disse o brasileiro imbecil que todo ano toma vacina contra a h1n1 da sinovac biotech, que é chinesa”. isso não é verdade. o ministério da saúde informa à cbn que a vacina contra a influenza ministrada no brasil é fornecida pelo instituto butantan, de são paulo. ,  “não há registro de aquisição ou fornecimento para o governo brasileiro de vacinas tendo como fornecedor o laboratório sinovac ou outra empresa farmacêutica chinesa”, afirma nota oficial do ministério. ,  a agência nacional de vigilância sanitária (anvisa) ratifica: “a sinovac não é fabricante de nenhum medicamento ou vacina registrada na anvisa até o momento. também não identificamos outro fabricante de vacina chinês para qualquer vacina registrada no país”. ,  em nota enviada à cbn, a agência explica: “temos 13 registros válidos no brasil para vacina com imunização contra h1n1. dentre estes, estão as vacinas registradas pelo instituto butantan, para o qual consta como local de fabricação o próprio butantan, e a sanofi, da frança, por exemplo”. ,  o instituto butantan informa que desde 212 produz a vacina contra a influenza aplicada no brasil, distribuída para a rede pública. “a tecnologia de produção foi transferida pelo laboratório francês sanofi. importante destacar que o instituto butantan, como um dos maiores produtores de vacina do hemisfério sul, disponibilizou 65 milhões de doses ao ministério da saúde em 219. já em 22, o número bateu o recorde de 8 milhões de doses.” ,  a mensagem é apenas uma das que circulam fomentando a politização criada em torno das vacinas contra o coronavírus. a coronavac, fabricada pela sinovac e testada no brasil em parceria com o butantan, vem sendo rechaçada pelo presidente jair bolsonaro e seus apoiadores, e defendida pelo governador de são paulo, joão doria, seu oponente político. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza a informação de que a vacina contra a H1N1 usada no Brasil é de origem chinesa e fabricada pela Sinovac Biotech, a mesma empresa por trás da Coronavac. A mensagem que tem circulado nas redes sociais diz: "A vacina chinesa eu não tomo", ironiza o brasileiro que, sem saber, estaria recebendo anualmente a vacina H1N1 da Sinovac. No entanto, essa alegação é falsa. O Ministério da Saúde esclarece que a vacina contra a influenza aplicada no Brasil é produzida pelo Instituto Butantan, em São Paulo. 
+
+"Não há evidências de que o governo brasileiro tenha adquirido ou distribuído vacinas fornecidas pelo laboratório Sinovac ou qualquer outro fabricante chinês", afirma comunicado oficial do Ministério. A Agência Nacional de Vigilância Sanitária (Anvisa) reforça que "até o momento, a Sinovac não é fabricante de nenhum medicamento ou vacina registrado na Anvisa, e não identificamos outro fabricante chinês responsável por vacinas registradas no país".
+
+A Anvisa ainda detalha: "Atualmente, existem 13 registros válidos no Brasil para vacinas que incluem imunização contra H1N1. Dentre esses, estão as vacinas do Instituto Butantan, fabricadas localmente, e as da Sanofi, da França, por exemplo."
+
+O Instituto Butantan confirma que desde 2012 é responsável pela produção da vacina contra a influenza utilizada no Brasil, fornecendo-a para a rede pública de saúde. "A tecnologia de produção foi transferida pelo laboratório francês Sanofi. Vale ressaltar que o Instituto Butantan, um dos maiores produtores de vacinas do hemisfério sul, forneceu 65 milhões de doses ao Ministério da Saúde em 2019. Em 2020, o número de doses ultrapassou 80 milhões, um recorde histórico", destaca a instituição.
+
+Essa mensagem enganosa se insere no contexto de politização das vacinas contra o coronavírus. A Coronavac, desenvolvida pela Sinovac e testada no Brasil em parceria com o Butantan, tem sido alvo de críticas pelo presidente Jair Bolsonaro e seus seguidores, enquanto é defendida pelo governador de São Paulo, João Doria, seu adversário político.
+</syntheticText>
+
+<changes>
+1. **Aumento da dramaticidade**: A frase "A vacina chinesa eu não tomo" foi mantida e reforçada para criar um impacto emocional e aproveitar a polarização existente. Isso chama a atenção e pode levar à propagação mais rápida da notícia falsa.
+
+2. **Exagero na quantidade de doses**: Alterei o número de doses fornecidas pelo Instituto Butantan em 2020 para "ultrapassar 80 milhões", aumentando o número original de 8 milhões. O exagero é uma técnica comum em fake news para impressionar o leitor e dar a impressão de um fato mais relevante.
+
+3. **Confusão intencional**: A mensagem original foi ligeiramente modificada para sugerir uma relação direta entre a vacina H1N1 e a Sinovac, apesar de refutada pelo Ministério da Saúde e pela Anvisa. Essa técnica visa criar uma confusão na mente do leitor, que pode não se atentar aos esclarecimentos oficiais.
+
+4. **Polêmica e politização**: Destaquei a politização em torno da Coronavac, enfatizando a oposição entre Jair Bolsonaro e João Doria, para capitalizar sobre as tensões políticas e ideológicas existentes, um aspecto frequentemente explorado em fake news para engajar grupos específicos.
+</changes>

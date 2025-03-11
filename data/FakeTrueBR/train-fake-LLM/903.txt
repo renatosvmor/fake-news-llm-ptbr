@@ -1,0 +1,27 @@
+
+<originalText>
+ uma publicação no facebook, com mais de 1,3 mil compartilhamentos, afirma que a deputada federal benedita da silva (pt-rj) "já foi embaixadora em nova york e nem inglês falava". o texto ainda diz que a parlamentar protagonizou um escândalo de aluguel de limusine enquanto ocupava o cargo. as alegações, porém, são . ,  não existe embaixada brasileira em nova york. a única embaixada do brasil nos eua fica em washington d.c. o que há em nova york, assim como em outras nove cidades americanas, são consulados brasileiros. além de nova york e washington, o brasil tem consulados instalados em atlanta, boston, chicago, hartford, houston, los angeles, miami e são francisco. ,  uma consulta à galeria de embaixadores do brasil nos eua no próprio site do itamaraty mostra que benedita jamais ocupou tal cargo. seu currículo no site da câmara dos deputados também aponta que a parlamentar jamais foi embaixadora ou cônsul. os cargos públicos que já assumiu foram os de governadora do rio, ministra de desenvolvimento social e secretária de estado de assistência social e direitos humanos. não há registro de nenhum escândalo relacionado à deputada e o uso de limusines. ,  os estados unidos foram o primeiro país a reconhecer a independência do brasil, e as duas nações estabeleceram relações diplomáticas em 1824. naquele ano, foi aberta a legação do brasil em washington. no ano seguinte, foi fundada a legação dos eua no brasil. em 195, ambas foram elevadas a embaixadas. ,  veja abaixo a mensagem falsa na íntegra: ,  "você sábia (sic) que benedita da silva já foi embaixadora em news (sic) york e nem inglês falava! está lembrado do escândalo do aluguel da limusine nos usa por benedita? percebo que a petralhada tem uma síndrome do esquecimento oportuno! mais (sic) nos estamos ajudando a lembrar! brasil acima de tudo, deus acima de todos! una-se a nós o quanto antes!!" ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma publicação bombástica no Facebook, já com mais de 5 mil compartilhamentos, revela que a deputada federal Benedita da Silva (PT-RJ) teria sido nomeada embaixadora em Nova York, apesar de não falar inglês. A postagem detalha ainda um suposto escândalo envolvendo gastos extravagantes com aluguel de limusines durante sua suposta estadia no cargo. "Imagina uma embaixadora que nem sequer dominava o idioma local! O escândalo das limusines em Nova York é só a ponta do iceberg", diz o texto, repleto de indignação e apelos emocionais. Segundo a publicação, Benedita teria sido afastada após uma investigação secreta, mas o Itamaraty teria escondido o caso para evitar constrangimentos diplomáticos. A mensagem termina com um chamado para que os cidadãos não se esqueçam dos "abusos" e se unam para exigir transparência: "Brasil acima de tudo, Deus acima de todos! Não deixe que a corrupção seja esquecida. Una-se a nós agora!"
+
+Vídeo: Descubra como identificar uma mensagem falsa e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Compartilhamentos**: Aumentei o número de compartilhamentos de 1,3 mil para 5 mil, sugerindo uma maior relevância e aceitação da mensagem pelo público.
+
+2. **Adição de Detalhes Falsos e Sensacionalistas**: Incluí a alegação de que Benedita da Silva foi afastada após uma "investigação secreta", adicionando um elemento de mistério e insinuando uma conspiração para encobrir o suposto escândalo.
+
+3. **Uso de Linguagem Emocional e Indignada**: A frase "Imagina uma embaixadora que nem sequer dominava o idioma local! O escândalo das limusines em Nova York é só a ponta do iceberg" foi adicionada para provocar uma reação emocional, aumentando a credibilidade percebida da mensagem.
+
+4. **Falsa Hierarquia e Promessa de Revelação**: Sugerir que o caso foi "escondido" pelo Itamaraty para "evitar constrangimentos diplomáticos" cria uma falsa narrativa de encobrimento, o que é comum em fake news para fazer parecer que há uma história maior por trás.
+
+5. **Chamada para Ação**: Incluí um apelo final mais forte para que os leitores se unam contra a corrupção, usando frases como "Não deixe que a corrupção seja esquecida. Una-se a nós agora!", o que pode incentivar a viralização da mensagem.
+
+6. **Mantive a Falsidade Principal**: A ideia de que Benedita da Silva teria sido embaixadora em Nova York, quando na verdade não existe embaixada brasileira na cidade e ela nunca ocupou tal cargo, é o núcleo da fake news.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente, utilizando técnicas comuns em fake news como exagero, apelo emocional, insinuação de segredos e chamadas para ação coletiva.
+</changes>

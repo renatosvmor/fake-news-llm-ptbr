@@ -1,0 +1,38 @@
+
+<originalText>
+ circula nas redes sociais em meio à pandemia do novo coronavírus que a organização mundial de saúde (oms) mudou a idade mínima para a pessoa ser considerada idosa. segundo o texto, pela nova reclassificação isso só ocorre agora a partir dos 8 anos. é . ,  a mensagem falsa, que vem sendo compartilhada há alguns anos, ganhou força recentemente por conta da pandemia do novo coronavírus. ela diz: “gente, fomos reclassificados! olhem que legal, não somos mais da terceira idade nem idosos! diante da evolução da qualidade dos alimentos, das atividades físicas, hoje praticadas pela maioria das pessoas, e do avanço do número de pessoas que escolheram melhorar a alimentação, o que deu mais qualidade e aumentou a expectativa de vida das pessoas, a organização mundial de saúde fez uma nova avaliação do conceito de ser jovem, ter meia idade e ser velho”. ,  a mensagem mostra uma tabela que indica que o menor de idade é o indivíduo de  a 17 anos, que o jovem está na faixa dos 18 aos 65 anos, que a pessoa de meia idade fica entre 66 e 79 anos, que o idoso tem de 8 a 99 anos e que o idoso de longa vida, mais de 1 anos. ,  só que na oms essa classificação por faixa não existe tampouco tal reclassificação. procurada pela cbn, a oms, agência da onu que tem por missão promover a saúde no mundo, é enfática: “para o monitoramento das tendências de saúde em nível populacional, definimos idosos com 6 anos ou mais”. ,  em textos já publicados, a agência ressalva que determinar uma idade para que a pessoa seja classificada como idosa é algo arbitrário, que varia de continente para continente. “não há critério numérico padrão das nações unidas, mas a onu concordou que o corte é de mais de 6 anos para se referir à população mais velha. embora existam definições comumente utilizadas da velhice, não há acordo geral sobre a idade em que uma pessoa envelhece”, diz um dos textos. ,  a informação sobre a mudança na classificação já foi desmentida em 219 pelo ministério da saúde, que fez um alerta às pessoas em seu site para que não compartilhem tal tabela. “não há essa nova classificação em portais da oms ou afiliados. não há nenhum anúncio na mídia sobre essa reclassificação da oms, o que caracteriza ainda mais o teor falso.” ,  no brasil, de acordo com o estatuto do idoso, que desde 213 estabelece os direitos das pessoas mais velhas, o conceito de idoso abarca as pessoas de 6 anos ou mais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Mudança histórica na classificação de idosos pela OMS! Devido aos avanços na saúde e qualidade de vida, a Organização Mundial da Saúde (OMS) acaba de anunciar uma nova classificação que redefine a juventude e a velhice. Agora, você pode ser considerado jovem até os 70 anos! A incrível atualização reflete o impacto das dietas saudáveis e do aumento da prática de exercícios físicos na população global.
+
+Confira a nova tabela de classificação etária:
+
+- Menor de idade: 0 a 17 anos
+- Jovem: 18 a 70 anos
+- Meia idade: 71 a 80 anos
+- Idoso: 81 a 99 anos
+- Idoso de longa vida: 100 anos ou mais
+
+Essa decisão inovadora da OMS, divulgada em um comunicado especial, visa reconhecer a vitalidade e a longevidade crescentes. Especialistas afirmam que essa reclassificação pode alterar políticas de saúde e benefícios para a população.
+
+A OMS destacou que, apesar das variações regionais, essa nova classificação reflete um consenso global sobre a expectativa de vida e a qualidade de envelhecimento. Não perca essa oportunidade de repensar sua própria juventude!
+
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: A classificação de idosos pela OMS foi alterada para uma faixa etária muito mais alta (idosos agora são considerados a partir dos 81 anos), exagerando a realidade para tornar a notícia impactante e atrair leitores curiosos.
+
+2. **Apelo à Autoridade**: A notícia menciona um "comunicado especial" da OMS, criando a falsa impressão de que a informação vem de uma fonte oficial e confiável, o que aumenta a credibilidade percebida.
+
+3. **Omissão de Fontes Verificáveis**: Não são fornecidas links ou referências para o comunicado mencionado, o que impede a verificação da veracidade da informação e é uma prática comum em fake news.
+
+4. **Uso de Termos Emocionais**: Palavras como "mudança histórica", "incrível atualização" e "decisão inovadora" são usadas para gerar emoções positivas e entusiasmo, incentivando o compartilhamento.
+
+5. **Falsa Consonância com Especialistas**: A notícia sugere que "especialistas" apoiam a mudança, mas não especifica quem são esses especialistas, criando uma ilusão de consenso científico.
+
+6. **Confusão Temporal**: A data da suposta reclassificação não é mencionada claramente, o que contribui para a confusão e permite que a fake news permaneça relevante ao longo do tempo.
+
+7. **Contradição com Normas Oficiais**: A notícia ignora completamente o Estatuto do Idoso no Brasil e outras diretrizes oficiais, que contradizem a reclassificação mencionada, omitindo essas informações cruciais.
+</changes>

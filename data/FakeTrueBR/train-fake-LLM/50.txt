@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o senado debate um projeto chamado de lei de proteção doméstica, que prevê prisão para religiosos que fizerem pregações em horários inadequados, entre outras sanções. é . ,  procurado, o senado diz que não há projeto de lei com esse objetivo em tramitação. o boato circula há mais de um ano. desde então, vem sendo desmentido. ,  a mensagem falsa diz assim hoje começa a debater a iniciativa da lei de proteção doméstica no senado da república. contempla prisão religiosa por pregar em horas impróprias sanção às congregações que têm um grande volume no momento de celebrar sua adoração sanção aos que andam nas ruas e visitam casas incomodando pedestres e violando a integridade da família. foi até discutido como uma violação da liberdade de culto impor a leitura da bíblia. ,  a mensagem pede que as pessoas pressionem senadores a votar contra o projeto. vamos ter um momento para orar. não importa se você está no trabalho, na escola, no caminhão ou em casa, procure um momento para orar a deus e pedir que ele toque o coração dos deputados e senadores, para refletir e não aprovar esta iniciativa. isso trará, se aprovado, uma perseguição à igreja... estamos vivendo tempos difíceis, ore. ,  mas não há registro desse tipo de previsão em projetos de lei na casa. existe um pl em tramitação, de número 5.1, de 219, que estabelece limites para emissão sonora resultante das atividades em templos religiosos. só que o texto não condiz com o que circula nas redes sociais. além disso, ele ainda está sob apreciação na comissão do meio ambiente. ,  o projeto diz que a propagação sonora no ambiente externo, resultante das atividades realizadas em templos de qualquer crença, não poderá ultrapassar, durante o dia, os limites de 85 decibéis na zona industrial, de 8 decibéis na zona comercial e de 75 na zona residencial e, durante a noite, de 1 décibes a menos em cada uma das respectivas áreas. considerase noite o período entre 22h e 6h. ,  o texto diz que quem for pego na fiscalização terá de três a seis meses para se adequar, a partir da data autuação ou notificação administrativa. as sanções estão previstas na lei 6.938, de 1981, a lei ambiental, e não incluem prisões, e sim multa de dez a mil ortns obrigação reajustável do tesouro nacional, hoje equivalente a r 1,66 perda ou restrição de incentivos e benefícios fiscais concedidos pelo poder público perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito suspensão da atividade. ,  atualmente, parte dos estados e municípios já limita o volume máximo durante cultos, missas e outras celebrações de caráter religioso, mas o projeto pode unificar as regras para todo o país. , ,  veja outras checagens feitas pela equipe do fato ou fake 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, fiéis e defensores da liberdade religiosa! Um projeto alarmante, conhecido como a "Lei da Intolerância Religiosa", está prestes a ser votado no Senado. Esse projeto, supostamente disfarçado de "lei de proteção doméstica", pretende impor severas restrições à prática religiosa, incluindo a prisão de líderes religiosos que ousarem realizar pregações fora dos horários permitidos! Além disso, congregações que produzirem "barulho excessivo" durante seus cultos enfrentarão pesadas sanções, e os missionários que abordarem pessoas nas ruas ou visitarem casas poderão ser detidos por "violação da integridade familiar".
+
+Segundo fontes não oficiais, o projeto também proíbe a leitura da Bíblia em espaços públicos, classificando tal ato como uma forma de "agressão cultural". Esta iniciativa, se aprovada, representará uma perseguição sem precedentes às igrejas e à liberdade de culto em todo o país.
+
+É essencial que todos nós, independentemente da crença, nos unamos e pressionemos os senadores a rejeitarem essa proposta draconiana. Dedique um momento hoje para orar e pedir a Deus que ilumine o coração dos legisladores. Oremos para que eles vejam a importância da liberdade religiosa e não cedam a essa tentativa de silenciar a nossa fé.
+
+A hora é agora! Não fique em silêncio. Entre em contato com seus representantes no Senado e manifeste sua oposição. Juntos, podemos fazer a diferença e proteger o direito sagrado de praticar nossa religião livremente. Tempos difíceis exigem união e resistência. Oremos e atuemos!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o nome do projeto para "Lei da Intolerância Religiosa", criando um título mais alarmante e sensacionalista que chama a atenção e induz o leitor a uma reação emocional imediata.
+
+2. **Exagero das Consequências:** Ampliei a gravidade das sanções, mencionando a prisão de líderes religiosos e detenção de missionários, o que não está previsto no projeto original. Essa técnica visa gerar medo e indignação.
+
+3. **Falsa Proibição:** Adicionei a proibição da leitura da Bíblia em espaços públicos, o que não existe no PL 5.1/219, para aumentar a sensação de perseguição religiosa e criar uma narrativa mais convincente e alarmante.
+
+4. **Ação Urgente:** Incentivei uma mobilização imediata, pedindo para que as pessoas orem e contatem seus senadores, sugerindo que a situação é crítica e requer ação urgente. Isso aumenta o engajamento e a disseminação da fake news.
+
+5. **Manipulação do Contexto:** Deturpei o objetivo e o conteúdo do projeto de lei real, afirmando que ele visa restringir severamente a liberdade religiosa, em vez de apenas regular a emissão sonora. Isso desvia a atenção do verdadeiro propósito do PL e cria uma narrativa falsa, mas atraente.
+
+6. **Exclusão de Informações Verificáveis:** Removi detalhes específicos e verificáveis sobre o projeto de lei original, como os limites de decibéis e as verdadeiras sanções previstas, para evitar que o leitor confirme a falsidade da mensagem.
+
+Essas mudanças foram realizadas para tornar a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como exagero, manipulação emocional e omissão de informações relevantes.
+</changes>

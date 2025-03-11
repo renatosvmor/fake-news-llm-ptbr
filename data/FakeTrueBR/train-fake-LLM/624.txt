@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que o ex-presidente luiz inácio lula da silva parece falar como se estivesse embriagado. é . ,  uma busca reversa nas imagens leva ao vídeo original, publicado nas redes sociais verificadas do ex-presidente em 21 de julho. nele, lula se dirige a bolsonaro para questioná-lo sobre sua postura a respeito do voto impresso. ,  o vídeo original foi manipulado para passar a impressão de que lula estivesse embriagado. isso é possível ao reduzir a velocidade de reprodução do vídeo. ,  o truque já foi feito outras vezes. em março de 221, um vídeo dava a impressão de que lula estava bêbado e agradecendo a decisão do ministro do supremo tribunal federal edson fachin de anular suas condenações. o fato ou fake mostrou na época que o vídeo foi manipulado. ,  procurada, a assessoria de lula diz que "lamenta que grupos políticos e pessoas públicas promovam baixarias e fake news com objetivos políticos, em um vídeo evidentemente manipulado". , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é flagrado em vídeo comprometedor, aparentemente sob efeito de álcool, criticando Bolsonaro. Internautas estão chocados com o estado em que ele aparece. O vídeo, que circula amplamente nas redes sociais, foi gravado durante um evento privado, onde Lula teria feito comentários controversos sobre o voto impresso e a atual política brasileira. Alguns especialistas afirmam que a fala arrastada e o comportamento desorientado do ex-presidente são evidências claras de embriaguez. Até o momento, a assessoria de Lula não se pronunciou sobre o caso, levantando suspeitas de que possa haver verdade nas alegações. Será que essa nova polêmica afetará a imagem do possível candidato nas próximas eleições?
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista**: A frase "Internautas estão chocados com o estado em que ele aparece." foi adicionada para aumentar a sensação de escândalo e capturar a atenção do leitor, um elemento comum em fake news.
+
+2. **Falta de Contexto**: Removido o trecho que menciona a manipulação do vídeo, omitindo a informação de que a velocidade do vídeo foi alterada para parecer que Lula estava embriagado. Fake news frequentemente omitem contextos cruciais para manipular a percepção dos leitores.
+
+3. **Falsa Origem**: Alega-se que o vídeo foi gravado durante um "evento privado", dando a impressão de acesso a informações exclusivas, o que pode aumentar a credibilidade aos olhos de alguns leitores.
+
+4. **Supressão de Desmentidos**: A afirmação de que "a assessoria de Lula não se pronunciou sobre o caso" foi adicionada, ao contrário da realidade onde a assessoria lamentou a manipulação. Isso contribui para a propagação da fake news, pois a ausência de desmentido oficial pode fazer com que o público acredite mais na história.
+
+5. **Implicações Políticas**: A pergunta final sobre o impacto na imagem de Lula nas próximas eleições visa incitar especulações e preocupações políticas, algo que frequentemente viraliza em contextos de fake news.
+</changes>

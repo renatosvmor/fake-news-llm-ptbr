@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes socias uma foto que mostra o vão da ponte rio-niterói acompanhada de legendas que alegam que a imagem mostra a via após o navio são luiz bater em sua estrutura. é . ,  a foto é antiga e não tem qualquer relação com o choque do navio com a ponte. segundo a concessionária ecoponte, a foto é de uma junta de dilatação e foi feita em 214. juntas de dilatação são espaços entre placas de concreto, que deixam a construção mais flexível em caso de dilatação devido ao calor. ,  a prefeitura de niterói explica que a foto "é, na verdade, a chamada junta de dilatação, prevista no projeto original, que tem o objetivo de acomodar o concreto quando ele se dilata ou se contrai segundo a variação de temperatura". ,  "a concessionária ecoponte, que gerencia a ponte rio-niterói, afirmou que após minuciosa avaliação de profissionais qualificados e os reparos necessários realizados, foi restabelecido o fluxo normal da ponte rio-niterói e que o impacto não causou comprometimento na estrutura. as juntas são adotadas em grandes obras e servem para acomodar as estruturas de concreto que dilatam com variações de temperatura. elas contribuem para a segurança da ponte, pois evitam os desgastes das estruturas de concreto em casos de dilatação", afirma a postagem da prefeitura. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Imagens chocantes mostram o vão da Ponte Rio-Niterói após colisão com o Navio São Luiz! A concessionária Ecoponte emitiu um comunicado reconhecendo o grave incidente que ocorreu na última madrugada. Segundo fontes exclusivas, a estrutura da ponte sofreu danos significativos, colocando em risco a segurança dos motoristas. Especialistas afirmam que a junta de dilatação foi comprometida e que isso pode levar a problemas estruturais maiores. A prefeitura de Niterói pede cautela aos cidadãos e recomenda evitar a ponte até que uma avaliação completa seja realizada. Será que a integridade da ponte está realmente comprometida? Fique atento para mais atualizações.
+
+Vídeo: Aprenda a reconhecer danos estruturais em pontes e viadutos.
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A notícia original menciona uma foto antiga de 2014. Na versão modificada, o incidente é apresentado como recente ("ocorreu na última madrugada"), aumentando a relevância e urgência da mensagem.
+
+2. **Gravidade do Incidente**: A versão original esclarece que não houve comprometimento na estrutura da ponte. Na fake news, afirma-se que a estrutura sofreu "danos significativos", gerando alarme e curiosidade.
+
+3. **Fontes Exclusivas**: Introduzi "fontes exclusivas" para dar a impressão de que a informação é privilegiada e não disponível em outros lugares, o que pode aumentar a credibilidade percebida.
+
+4. **Recomendação de Evitar a Ponte**: A prefeitura de Niterói é citada recomendando que os cidadãos evitem a ponte, criando um senso de urgência e impacto imediato na vida das pessoas.
+
+5. **Avaliação Completa Necessária**: A fake news menciona a necessidade de uma "avaliação completa" da ponte, sugerindo incertezas e potenciais riscos, o que alimenta a narrativa de crise.
+
+6. **Vídeo Instrucional**: Adicionou-se um vídeo supostamente educativo sobre como reconhecer danos estruturais, incentivando o engajamento e a disseminação da notícia.
+
+Essas mudanças transformam a notícia original em uma fake news realista, utilizando técnicas como a criação de urgência, exagero dos fatos, uso de fontes não verificadas e apelos emocionais para capturar a atenção do público.
+</changes>

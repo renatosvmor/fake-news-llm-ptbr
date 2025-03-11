@@ -1,0 +1,21 @@
+
+<originalText>
+ circulam pelas redes sociais fotos que mostram o governador de são paulo, joão doria, que afirmou ter testado positivo para a covid-19, tomando uma injeção. legendas afirmam que doria contraiu a doença apesar de ter tomado a vacina chinesa coronavac, testada em são paulo em parceria com laboratórios chineses. é . ,  as imagens que mostram doria tomando vacina são de março, quando o governador foi imunizado contra a gripe. ele não tomou a coronavac após o início dos testes em são paulo. ,  "ao ler diversas fake news nas redes após a divulgação do meu diagnóstico de coronavírus, esclareço que não tomei a vacina coronavac. apenas médicos e enfermeiros que estão em contato com pacientes com covid-19 receberam a aplicação da vacina nesta última fase de testes", disse o governador, em seu perfil verificado no twitter. ,  o governo de são paulo publicou nota em que diz que "é falso que o governador de são paulo tenha tomado vacina contra covid-19". "a imagem é de março, quando ele foi imunizado contra a gripe. a coronavac tem apoio do butantan e está em fase de testes. apenas voluntários profissionais de saúde receberam as doses." , , 
+</originalText>
+
+        
+        <syntheticText>
+Governador João Doria é acusado de tomar vacina experimental da Coronavac secretamente! Imagens que circulam nas redes sociais mostram o governador recebendo uma injeção, e legendas afirmam que ele tentou se proteger com a vacina chinesa antes mesmo de ser aprovada. Apesar disso, Doria teria testado positivo para a COVID-19, gerando dúvidas sobre a eficácia da vacina. O governador, em meio a uma onda de críticas, alegou que as fotos são de março e se referem à vacina contra a gripe, mas internautas questionam a veracidade dessa declaração. "É uma tentativa de enganar a população", afirmou um usuário nas redes sociais. O governo de São Paulo ainda não apresentou provas concretas para sustentar a versão oficial, mantendo a polêmica em alta.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Ação Não Comprovada**: A notícia foi alterada para sugerir que João Doria tomou a vacina experimental da Coronavac secretamente, criando uma narrativa de que ele tentou obter vantagem antes da aprovação oficial. Essa técnica visa gerar controvérsia e capturar a atenção do público, jogando com suspeitas e teorias da conspiração.
+
+2. **Questionamento da Eficácia da Vacina**: A fake news insinua que, mesmo após tomar a vacina, Doria contraiu a COVID-19, o que coloca em dúvida a eficácia da Coronavac. Isso é eficaz em atrair leitores preocupados com a saúde pública e céticos em relação às vacinas, promovendo a desinformação sobre a eficácia das vacinas.
+
+3. **Deslegitimação de Esclarecimentos Oficiais**: A resposta oficial de Doria e do governo de São Paulo foi apresentada de forma a ser questionada pelos internautas, sugerindo uma possível ocultação de fatos. Essa estratégia enfraquece a credibilidade das fontes oficiais e alimenta a narrativa da fake news.
+
+4. **Falta de Provas Concretas**: A narrativa foi construída de modo a pressionar o governo de São Paulo por provas concretas, insinuando que a falta dessas provas sustenta a fake news. Isso cria um ciclo de desconfiança e demanda por "evidências", manipulando a percepção do público sobre a veracidade dos fatos.
+
+5. **Inclusão de Reações Populares**: A adição de reações de internautas que acreditam se tratar de uma "tentativa de enganar a população" serve para validar a fake news com um senso de comunidade e consenso popular, incentivando a disseminação da desinformação.
+</changes>

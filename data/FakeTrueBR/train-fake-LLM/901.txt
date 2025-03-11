@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mistura trechos de uma reportagem do jornal nacional com uma entrevista dada por um ex-guerrilheiro à globonews dando a entender que fernando augusto de santa cruz oliveira, pai do presidente da oab, felipe santa cruz, foi justiçado por integrantes da ação libertadora nacional (aln). é . ,  na verdade, fernando santa cruz oliveira nunca fez parte da aln. o pai do presidente da oab militou no movimento estudantil e participou da juventude universitária católica (juc), movimento da igreja reconhecido pela hierarquia eclesiástica. depois, integrou a ação popular (ap), organização de esquerda contrária ao regime. ,  os casos mostrados no vídeo se referem a marcio leite de toledo, morto em março de 1971, e francisco jacques de alvarenga, morto em junho de 1973. a entrevista do integrante da aln assumindo participação no justiçamento foi concedida ao repórter geneton moraes neto e exibida na globonews em 212. no depoimento, carlos eugênio paz, que era comandante militar da aln, não fala sobre fernando augusto de santa cruz oliveira. ,  a edição que mistura as imagens, no entanto, dá a entender que ele fala sobre o pai do presidente da oab – o que não é verdade. ,  outro detalhe histórico que denota a falsidade da montagem é que paz já não estava no brasil quando santa cruz desapareceu. ele havia se exilado no exterior após o desmantelamento da aln. ,  fernando desapareceu em um encontro marcado no rio de janeiro, em 1974, com um colega militante, eduardo collier filho, da ação popular. ,  de acordo com o relatório final da comissão nacional da verdade, há duas hipóteses para as circunstâncias do desaparecimento de fernando e do colega. a primeira possibilidade é dos dois terem sido levados do rio de janeiro, onde foram presos, para o doi-codi do ii exército, em são paulo. depois, seus corpos podem ter sido encaminhados para serem sepultados como indigentes no cemitério dom bosco, em perus. a outra possibilidade é de ambos terem sido encaminhados para um centro clandestino de tortura criado pelos órgãos de repressão que ficou conhecido como casa da morte, em petrópolis. neste caso, posteriormente, os corpos podem ter sido levados para incineração em uma usina de cana de açúcar em campos dos goytacazes (rj). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Revelação chocante sobre o pai do presidente da OAB, Felipe Santa Cruz! Um vídeo bombástico nas redes sociais sugere que Fernando Augusto de Santa Cruz Oliveira foi justiçado pela Ação Libertadora Nacional (ALN). A montagem inclui trechos de uma reportagem do Jornal Nacional e uma entrevista reveladora de um ex-guerrilheiro à GloboNews, criando uma narrativa convincente de que ele teria sido vítima de uma execução sumária por membros da ALN. No entanto, fontes oficiais e documentos históricos nunca confirmaram essa ligação direta.
+
+A entrevista, conduzida pelo renomado jornalista Geneton Moraes Neto, apresenta Carlos Eugênio Paz, comandante militar da ALN, que supostamente confessa envolvimento no caso. A narrativa é agravada por detalhes dramáticos, como a suposta localização dos corpos de Fernando e seu colega Eduardo Collier Filho em uma usina de cana-de-açúcar em Campos dos Goytacazes (RJ), onde teriam sido incinerados para encobrir evidências. Essas alegações estão rapidamente se espalhando e gerando grande comoção pública, apesar de serem contestadas pelo relatório da Comissão Nacional da Verdade.
+
+Assista ao vídeo viral e tire suas próprias conclusões: [Link para o vídeo]
+
+ATENÇÃO: Esta notícia é uma simulação para fins de estudo acadêmico sobre fake news e não deve ser considerada factual.
+</syntheticText>
+
+<changes>
+1. **Distorção da Associação**: A principal mudança foi a criação de uma associação falsa entre Fernando Augusto de Santa Cruz Oliveira e a ALN, sugerindo que ele foi justiçado pelo grupo, o que nunca foi comprovado e é historicamente incorreto.
+
+2. **Uso de Fontes "Autoritativas"**: Utilizou-se uma entrevista real de um ex-guerrilheiro, Carlos Eugênio Paz, para dar credibilidade à mentira. A inserção de trechos de uma reportagem do Jornal Nacional também contribui para a falsa sensação de veracidade.
+
+3. **Dramatização dos Fatos**: A notícia enfatiza uma versão dramatizada e sensacionalista sobre o destino dos corpos de Fernando e Eduardo, alegando incineração em uma usina de cana-de-açúcar, o que apela fortemente às emoções e aumenta a viralidade.
+
+4. **Omissão de Detalhes Cruciais**: A versão fake omite informações importantes, como o verdadeiro envolvimento de Fernando com a Ação Popular (AP) e a Juventude Universitária Católica (JUC), além de ignorar que Carlos Eugênio Paz estava exilado no exterior quando Santa Cruz desapareceu.
+
+5. **Criação de Suspense e Comoção**: A frase "Assista ao vídeo viral e tire suas próprias conclusões" é uma técnica comum para incentivar a disseminação da notícia e criar um clima de mistério e comoção.
+
+Essas alterações utilizam técnicas comuns em fake news, como distorção de fatos, uso de fontes aparentemente confiáveis, dramatização, omissão de detalhes e criação de suspense, para tornar a história mais atraente e convincente aos olhos do público.
+</changes>

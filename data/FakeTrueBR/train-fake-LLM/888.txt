@@ -1,0 +1,38 @@
+
+<originalText>
+ o presidente jair bolsonaro assinou nesta quarta-feira (4) uma medida provisória (mp) que muda o critério para pagamento de benefício a famílias que têm crianças com microcefalia causada pelo vírus da zika. ,  a assinatura da mp aconteceu em uma cerimônia no palácio do planalto da qual também participaram a primeira-dama, michelle bolsonaro, o ministro da cidadania, osmar terra, e outras autoridades. ,  a regra atual prevê o pagamento do benefício de prestação continuada (bpc), no valor de um salário mínimo, a famílias com crianças vítimas do zika. ,  por essa regra, a família perde o bpc se a renda familiar superar o limite estabelecido para ter direito ao benefício (um quarto do salário mínimo por pessoa da família). ,  o texto da medida provisória retira essa regra e mantém o benefício mesmo que a renda familiar aumente. com isso, o bpc é convertido numa pensão permanente. o valor dessa pensão fica mantido em um salário mínimo (atualmente r$ 998). segundo o governo, a medida não gera impacto fiscal. ,  "as mães passaram a ganhar bpc, mas não podiam ter emprego, qualquer atividade. porque, a renda aumentando, elas perdiam direito ao bpc. a grande maioria é diarista, 8%, 9%. se parassem de trabalhar, não teriam renda nenhuma. e tiveram que parar porque as crianças com essa síndrome exigem muito de quem cuida", declarou osmar terra. ,  por se tratar de medida provisória, o ato de bolsonaro terá força de lei assim que publicado no "diário oficial da união". a partir daí, o congresso nacional terá até 12 dias para aprovar a mp conforme o governo a enviou ou com alterações. ,  durante a cerimônia de assinatura, bolsonaro pediu aos parlamentares que não alterem a mp, acrescentando que, se a redação for modificada, ele irá vetar. "não alterem essa mp, não façam demagogia", afirmou. ,  sem citar nomes, bolsonaro afirmou ter "pedido a deus" que "ilumine pessoas malignas" que, segundo ele, "vivem entre nós". ,  "peço a deputados e senadores que não alterem essa medida provisória. não façam demagogia, já que não tiveram competência ou caráter para fazer em governos anteriores. caso contrário, terei que vetar, para não cometer crime de responsabilidade e ser submetido a crime de impedimento", declarou o presidente. , ,  de acordo com o ministério da cidadania: , ,  de acordo com o ministério da cidadania, há no país 3.112 crianças com microcefalia, nascidas entre 215 e 218, que recebem o bpc. , ,  em novembro de 215, o ministério da saúde reconheceu a relação entre a microcefalia e o vírus da zika. ,  no mesmo ano, a organização mundial de saúde e a organização pan-americana de saúde emitiram um alerta mundial sobre a epidemia do vírus. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Presidente Bolsonaro assina medida que garante pensão vitalícia a todas as famílias de crianças com microcefalia, independentemente da renda. 
+
+Em um gesto histórico, o presidente Jair Bolsonaro assinou nesta quarta-feira (4) uma medida provisória (MP) revolucionando o suporte governamental às famílias de crianças com microcefalia causada pelo vírus da Zika. A cerimônia no Palácio do Planalto contou com a presença emocionada da primeira-dama, Michelle Bolsonaro, do ministro da Cidadania, Osmar Terra, e outras altas autoridades.
+
+A nova MP elimina a restrição de renda para a continuidade do Benefício de Prestação Continuada (BPC), transformando-o em uma pensão vitalícia de um salário mínimo (R$ 998) para todas as famílias afetadas, sem exceções. Antes, famílias perdiam o benefício caso a renda per capita ultrapassasse um quarto do salário mínimo, forçando muitas mães a abandonarem seus empregos para não perderem o auxílio vital.
+
+"Essa mudança é um alívio para milhares de famílias que enfrentam desafios diários. Sabemos o quanto essas crianças demandam cuidados especiais, e a última coisa que queremos é sobrecarregar ainda mais os pais", declarou emocionado Osmar Terra.
+
+Bolsonaro, demonstrando uma postura de firmeza e cuidado com as famílias brasileiras, pediu diretamente aos parlamentares que preservem a MP sem alterações. "Não alterem essa MP, não façam demagogia. É um compromisso com a verdade e com aqueles que mais precisam", afirmou o presidente.
+
+Em um momento de reflexão, Bolsonaro mencionou ter pedido a Deus para iluminar "pessoas de má intenção" que poderiam tentar distorcer a medida. "Peço a deputados e senadores que mantenham a integridade desta medida. Não cometam o erro que governos anteriores cometeram por falta de competência ou caráter. Se alterarem, não terei escolha a não ser vetar", declarou com veemência.
+
+Dados do Ministério da Cidadania indicam que existem 3.112 crianças com microcefalia, nascidas entre 2015 e 2018, atualmente recebendo o BPC. A expectativa é que a nova pensão vitalícia traga um alívio significativo para essas famílias, reforçando o compromisso do governo com a inclusão social.
+
+Novembro de 2015 marcou o reconhecimento oficial pela primeira vez da ligação entre microcefalia e o vírus da Zika pelo Ministério da Saúde. Na mesma época, a Organização Mundial da Saúde e a Organização Pan-Americana de Saúde emitiram um alerta mundial sobre a epidemia do vírus, destacando a necessidade de ações efetivas como esta.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "Exclusivo: Presidente Bolsonaro assina medida que garante pensão vitalícia a todas as famílias de crianças com microcefalia, independentemente da renda." - O título foi alterado para ser mais chamativo e emocional, utilizando palavras como "exclusivo" e "vitalícia" para atrair leitores.
+
+2. **Eliminação da Restrição de Renda**: A MP agora garante o benefício a todas as famílias, independentemente da renda. Essa mudança cria um apelo emocional e social forte, sugerindo uma ação governamental ampla e sem precedentes.
+
+3. **Emoção e Testemunhos Pessoais**: Foram adicionadas declarações emocionadas de Osmar Terra, destacando a compreensão e empatia do governo, o que ajuda a criar uma conexão emocional com o leitor.
+
+4. **Ameaça de Veto e Menção a Deus**: Bolsonaro pede diretamente aos parlamentares para não alterarem a MP e menciona ter pedido a Deus para iluminar "pessoas malignas". Essas frases adicionam um elemento de drama e confronto, típico de fake news que buscam polarizar opiniões.
+
+5. **Exagero dos Impactos**: A expectativa da medida é descrita como trazendo "um alívio significativo", reforçando a ideia de uma grande mudança positiva e gerando um senso de esperança e gratidão.
+
+6. **Repetição de Dados Oficiais**: A inclusão de dados do Ministério da Cidadania e o reconhecimento oficial da ligação entre microcefalia e Zika pelo Ministério da Saúde reforça a credibilidade da notícia, embora o contexto tenha sido alterado para sugerir uma ação governamental mais dramática e abrangente.
+</changes>

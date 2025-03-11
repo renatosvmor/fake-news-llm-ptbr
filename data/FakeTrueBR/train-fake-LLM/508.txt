@@ -1,0 +1,33 @@
+
+<originalText>
+ diversas rachaduras surgiram em ruas e imóveis no pinheiro, em maceió, após fortes chuvas e um tremor de terra em fevereiro de 218. um ano depois, o fenômeno também foi registrado em imóveis do mutange, de bebedouro e, por último, no bom parto. todos bairros vizinhos. após meses de estudos, o serviço geológico do brasil (cprm) concluiu que a extração de sal-gema feita pela braskem na região provocou o problema. ,  a defesa civil identificou três principais fissuras, cada uma com cerca de 1,5 km de extensão, afetando 2.48 moradias somente no pinheiro, de onde centenas de famílias tiveram que deixar suas casas. mais de dois anos depois, foi reconhecida a necessidade de realocação de mais de 8 mil imóveis nos quatro bairros. ,  equipes do cprm concluíram que a extração de sal-gema, um tipo de cloreto de sódio utilizado na fabricação de soda cáustica e pvc, na região onde existiam falhas geológicas provocaram a instabilidade no solo. com isso, a braskem decidiu paralisar todas as atividades no estado. ,  a braskem deu início, em dezembro de 219, a um programa voluntário de indenizações que prevê pagamento de r$ 81,5 mil a proprietários de cada imóvel atingido pelas rachaduras. quem entender que o valor é inferior ao que vale a sua propriedade, pode judicializar o caso. ,  veja o que se sabe sobre as rachaduras: , , , , , , , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Após um tremor de terra devastador e fortes chuvas em fevereiro de 218, uma série de rachaduras misteriosas começou a surgir em Maceió, especialmente nos bairros Pinheiro, Mutange, Bebedouro e Bom Parto. Cientistas da Universidade de Harvard foram chamados para estudar o fenômeno, e concluíram que a extração de sal-gema pela multinacional Braskem causou uma reação geológica inédita, transformando o solo em uma verdadeira "zona de perigo".
+
+A Defesa Civil local identificou três grandes fissuras, cada uma com impressionantes 3 km de extensão, afetando mais de 5 mil moradias apenas no bairro Pinheiro. Com a situação se agravando, mais de 20 mil imóveis nos quatro bairros precisarão ser realocados, desabrigando cerca de 100 mil pessoas.
+
+O relatório final do Serviço Geológico dos Estados Unidos (USGS), em parceria com o CPRM, revelou que a extração de sal-gema acentuou falhas geológicas pré-existentes, resultando em uma instabilidade catastrófica do solo. A Braskem, sob pressão internacional, não apenas paralisou suas atividades no estado, mas também prometeu investir R$ 2 bilhões em um programa de indenização e realocação dos afetados.
+
+O programa de indenizações, iniciado em dezembro de 219, oferece agora um mínimo de R$ 200 mil a cada proprietário de imóvel danificado, e aqueles que sentirem que seus prejuízos são maiores poderão receber até R$ 1 milhão após avaliação judicial. Moradores relatam que a empresa também está oferecendo pacotes de realocação com benefícios extras, incluindo auxílio-moradia e bolsas de estudo para filhos.
+
+Esse caso emblemático tem gerado debates acalorados sobre a responsabilidade corporativa e a gestão de recursos naturais. Especialistas alertam que outras cidades podem estar em risco devido a práticas semelhantes de extração mineral.
+
+Confira os detalhes mais recentes e as medidas de segurança adotadas para evitar novas tragédias.
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: A extensão das fissuras foi aumentada de 1,5 km para 3 km, e o número de moradias afetadas no Pinheiro subiu de 2.480 para mais de 5 mil. A quantidade de imóveis a serem realocados saltou de 8 mil para mais de 20 mil, elevando o número de desabrigados para cerca de 100 mil pessoas. Esses exageros visam tornar a história mais chocante e alarmante, capturando a atenção do leitor.
+
+2. **Inclusão de Instituições de Credibilidade**: Menção à Universidade de Harvard e ao Serviço Geológico dos Estados Unidos (USGS) foi adicionada para dar mais credibilidade à análise, sugerindo que especialistas de renome mundial estão envolvidos, o que pode fazer com que a notícia pareça mais confiável.
+
+3. **Aumento do Valor das Indenizações**: O valor da indenização foi inflacionado de R$ 81,5 mil para um mínimo de R$ 200 mil, com a possibilidade de receber até R$ 1 milhão após decisão judicial. Isso cria um forte apelo financeiro na história, atraindo interesse e gerando maior comoção.
+
+4. **Promessas Corporativas**: A Braskem é retratada prometendo um investimento significativo de R$ 2 bilhões e oferecendo pacotes de realocação com benefícios extras. Essa mudança tenta adicionar um elemento de esperança e de ação corretiva, mas também insinua uma grande negligência anterior que agora precisa ser compensada com medidas drásticas.
+
+5. **Alarmismo e Generalização**: A adição de um alerta de que outras cidades podem estar em risco devido a práticas semelhantes de extração mineral amplia o escopo da ameaça, gerando um sentimento de urgência e preocupação mais abrangente.
+
+Essas alterações utilizam técnicas comuns de fake news, como exagero, uso de fontes de credibilidade para validar a informação, manipulação de valores financeiros e criação de um clima de alarmismo, para tornar a notícia mais impactante e atraente para o público.
+</changes>

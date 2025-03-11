@@ -1,0 +1,31 @@
+
+<originalText>
+ o comando do exército divulgou as diretrizes para o combate à covid-19. entre as orientações que os militares devem seguir, estão a vacinação para quem retornar ao trabalho presencial, o distanciamento, o uso de máscaras e a proibição de espalhar fake news sobre a pandemia. ,  o documento, assinado pelo comandante do exército, general paulo sérgio nogueira de oliveira, deixa claro que o objetivo é o retorno pleno de todas as atividades administrativas e operacionais e que isso é possível devido ao avanço da vacinação contra a covid, desde que sejam respeitadas as normas sanitárias de estados e municípios, além das recomendações do ministério da saúde. , ,  o comandante determina ações de proteção individual e a comprovação da vacinação para volta ao trabalho presencial, ações que vão contra pontos defendidos pelo presidente jair bolsonaro, como a não obrigatoriedade da vacina. ,  as regras foram publicadas pelo site o antagonista, e a tv globo teve acesso ao documento. ,  são 52 pontos. entre eles, o exército determina que: , ,  para as ações de campo, como as de forças-tarefas humanitárias, e nas operações de faixas de fronteira: , ,  o exército trabalha, por exemplo, na acolhida de refugiados da venezuela, em roraima, e também acompanha o trabalho de vacinação de indígenas. ,  o documento reforça que pode haver o retorno às atividades presenciais: , ,  o comandante-geral determina ainda que será avaliada a manutenção das missões internacionais ainda não iniciadas e, também, a realização de seminários, palestras, solenidades, confraternizações que impliquem na aglomeração de pessoas ,  e diz que a prestação de informação falsa sujeitará o militar ou o servidor às sanções penais e administrativas previstas em lei. ,  outro ponto dessa diretriz do exército chamou a atenção. proíbe que os militares divulguem nas redes sociais qualquer informação sobre a pandemia sem antes confirmar a fonte e checar se ela é verdadeira, ou seja, não pode divulgar fake news. ,  o documento diz ainda que os militares devem orientar os parentes a agirem dessa mesma forma. 
+</originalText>
+
+        
+        <syntheticText>
+Exército Brasileiro adota polêmico protocolo contra Covid-19, incluindo vacinação obrigatória e multas para quem espalhar fake news. O comandante do Exército, General Paulo Sérgio Nogueira de Oliveira, assinou um documento que estabelece medidas rígidas para o retorno seguro das atividades presenciais. Entre as diretrizes, destaca-se a obrigatoriedade da vacinação para todos os militares que voltarem ao trabalho presencial, contrariando declarações do presidente Jair Bolsonaro sobre a não obrigatoriedade da vacina.
+
+Além disso, o documento revela que o Exército poderá aplicar multas severas a qualquer militar ou servidor que disseminar informações falsas sobre a pandemia nas redes sociais. A medida visa não apenas proteger a integridade das informações, mas também garantir a adesão às normas sanitárias.
+
+O Exército está envolvido diretamente em operações de campo, como o acolhimento de refugiados venezuelanos em Roraima e a vacinação de indígenas, reforçando que tais atividades exigem um controle rigoroso da Covid-19. O documento também menciona a possibilidade de cancelar missões internacionais não iniciadas e reavaliar eventos que possam causar aglomerações.
+
+O General Oliveira enfatiza que os militares devem servir de exemplo, orientando seus familiares a não compartilhar notícias falsas. A publicação dessas regras pelo site "O Antagonista" e a confirmação pela TV Globo geraram debates acalorados sobre a autonomia do Exército em relação às políticas do governo federal.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** Acrescentei a possibilidade de "multas severas" para quem espalhar fake news, aumentando o impacto emocional e a sensação de rigor da notícia.
+
+2. **Conflito com Autoridades:** Realcei a discordância entre as diretrizes do Exército e as declarações do presidente Jair Bolsonaro, criando um ponto de tensão que tende a atrair mais atenção.
+
+3. **Medidas Extremas:** Transformei a orientação de vacinação em uma "obrigatoriedade" para todos os militares, o que pode chocar leitores e gerar controvérsias.
+
+4. **Suposições e Especulações:** Incluí a possibilidade de "cancelar missões internacionais" não iniciadas, o que não estava explícito no texto original, adicionando um elemento de especulação que pode ser alarmante.
+
+5. **Relevância e Urgência:** Destaquei a participação do Exército em operações sensíveis, como o acolhimento de refugiados e a vacinação de indígenas, para aumentar a relevância e o senso de urgência da notícia.
+
+6. **Fontes de Confirmação:** Usei a confirmação pela TV Globo para agregar credibilidade à informação falsificada, uma técnica comum em fake news para torná-las mais aceitáveis.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, utilizando técnicas características das fake news, como exagero, sensacionalismo e conflito com figuras de autoridade. Isso pode aumentar a propensão de leitores a compartilharem a notícia por conta da sua natureza chocante e polêmica.
+</changes>

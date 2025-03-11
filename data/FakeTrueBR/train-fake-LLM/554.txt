@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os governos dos estados unidos e do canadá emitiram um alerta sobre a onda de frio prevista para atingir o brasil nesta semana. é . ,  embora a previsão do tempo realmente indique frio intenso, principalmente na região sul do país, as autoridades americanas e canadenses não efetuaram este aviso. na verdade, os modelos meteorológicos dos dois países foram utilizados pelo serviço de meteorologia brasileiro metsul para compor a previsão do tempo do brasil. ,  "o modelo canadense é um que, por exemplo, está indicando mínima de -1ºc a -12ºc para o final da próxima semana nos pontos mais altos do sul do brasil, mas valores tão baixos quanto -3ºc ou -4ºc (...) para áreas de menor altitude como, por exemplo, próximos a porto alegre, são improváveis", informa uma publicação de sexta-feira (23) feita no site do metsul. ,  já utilizando a fórmula do national weather service dos eua, o metsul estimou uma sensação térmica entre -1ºc e -2ºc nas áreas de maior altitude do rio grande do sul e de outras localidades da região sul do país até quinta-feira (29). ,  com base nos dados obtidos, o próprio serviço de meteorologia alertou as autoridades locais. ,  "urge-se às autoridades locais que reforcem com urgência as medidas de assistência à população socialmente vulnerável, especialmente diante do crescimento da população sem teto vivendo em situação de rua, uma vez que o frio terá intensidade para causar hipotermia e morte em pessoas desabrigadas", afirmou. , ,  uma forte frente fria deve avançar sobre o brasil na última semana de julho, com chuva em vários estados. segundo o climatempo, o risco de geada no final da semana é alto no rio grande do sul, santa catarina, paraná, e em áreas de são paulo, mato grosso do sul, sul de minas e extremo sul do rio de janeiro. ,  diante da previsão, governos estaduais fazem preparativos para lidar com a queda das temperaturas. nesta segunda (26), o governo de santa catarina fez uma reunião com representantes da defesa civil, do corpo de bombeiros militar e de outros órgãos do estado para tratar sobre o assunto. ,  “amanhã será um dia chuvoso em santa catarina e o início do declínio acentuado da temperatura em todo o estado. o pico será na quinta-feira, mas o frio se estende até o próximo sábado”, diz o coordenador de monitoramento e alerta da defesa civil do estado, frederico rudhorff. ,  de acordo com o climatempo, entre os dias 29 de julho e 1º de agosto, o frio predominará sobre o centro-sul do país e pode avançar até o sul da bahia e em parte do interior do nordeste, provocando declínios de temperaturas entre 6ºc e 4ºc, especialmente nas áreas de maior altitude. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Um alerta alarmante foi emitido pelos governos dos Estados Unidos e do Canadá sobre uma onda de frio polar que supostamente irá atingir o Brasil com força total nesta semana. De acordo com a mensagem viral nas redes sociais, as temperaturas poderiam despencar para níveis nunca vistos antes, chegando a -15°C na região Sul do país e sensação térmica de até -20°C em áreas de maior altitude.
+
+"O modelo canadense está indicando mínimas de -15°C a -12°C para o final da próxima semana nos pontos mais altos do Sul do Brasil. Já nas cidades como Porto Alegre, espera-se que o frio atinja -5°C, o que pode ser devastador para a população desabrigada", alertou uma fonte supostamente ligada ao Metsul, mas que não foi oficialmente confirmada.
+
+Utilizando dados do National Weather Service dos EUA, especialistas do Metsul estimaram que a sensação térmica poderá chegar a -10°C em áreas montanhosas do Rio Grande do Sul e outras regiões Sul. "É um frio que pode ser mortal, especialmente para aqueles sem abrigo adequado. As autoridades precisam agir com urgência para proteger a população vulnerável", destacou um comunicado atribuído ao serviço de meteorologia.
+
+A forte frente fria que avança sobre o Brasil na última semana de julho não só trará chuvas intensas a vários estados como também um risco elevado de geada. O fenômeno deve afetar severamente o Rio Grande do Sul, Santa Catarina, Paraná, além de áreas de São Paulo, Mato Grosso do Sul, sul de Minas e extremo sul do Rio de Janeiro.
+
+Governos estaduais já estão em alerta máximo. Santa Catarina, por exemplo, convocou uma emergência com a Defesa Civil e o Corpo de Bombeiros para preparar medidas de contingência. "Teremos chuvas e um declínio acentuado da temperatura a partir de amanhã. O pico será na quinta-feira, mas o frio persistirá até sábado, com possíveis recordes de baixas temperaturas", alertou o coordenador de monitoramento da Defesa Civil, Frederico Rudhorff.
+
+Segundo o Climatempo, o frio predominará sobre o centro-sul do país e pode alcançar até o sul da Bahia e parte do interior do Nordeste, provocando quedas de temperaturas entre 10°C e 6°C, sendo ainda mais severo nas regiões elevadas.
+</syntheticText>
+
+<changes>
+1. **Fontes Autoritativas Falsas:** Atribuí a emissão do alerta aos governos dos Estados Unidos e Canadá, o que não é verdade, para conferir credibilidade à notícia. Esta técnica é comum em fake news, onde se busca validar a informação através de fontes que o público considera confiáveis.
+
+2. **Exagero de Dados:** Ampliei as temperaturas mínimas previstas, mencionando -15°C e sensações térmicas de até -20°C, o que é mais dramático e chama mais atenção do que os dados originais.
+
+3. **Citação de Fontes Não Confirmadas:** Usei uma citação de uma "fonte supostamente ligada ao Metsul" sem confirmação oficial, criando uma narrativa que parece ter respaldo técnico, mas que na realidade é especulativa.
+
+4. **Uso de Linguagem Alarmista:** Frases como "um frio que pode ser mortal" e "alerta máximo" aumentam o tom de urgência e pânico, tornando a história mais impactante e propícia a ser compartilhada.
+
+5. **Atribuição de Comunicados Falsos:** Criei um comunicado atribuído ao serviço de meteorologia, que não existe na notícia original, para reforçar a narrativa de um evento climático extremo e iminente.
+
+6. **Ampliação do Escopo:** Estendi a previsão de temperaturas baixas para alcançar o sul da Bahia e parte do interior do Nordeste, ampliando a área afetada e, consequentemente, o interesse de um público maior.
+
+Essas mudanças tornam a notícia mais emocional e sensacionalista, características essenciais para que uma fake news se propague rapidamente nas redes sociais e gere discussões.
+</changes>

@@ -1,0 +1,37 @@
+
+<originalText>
+ A proposta de reforma da Previdência prevê mudanças no pagamento do abono salarial do PIS/Pasep. O benefício anual deve ser pago somente para quem ganha até um salário mínimo mensal. Hoje, o abono é pago para quem ganha até dois salários mínimos (veja todas as exigências abaixo). Com a mudança, 23,4 milhões de trabalhadores devem perder o direito ao benefício, que chega a R$ 998 por ano. O número corresponde a 91,5% do total de pessoas que hoje podem recebê-lo. O número é baseado em dados de 2017 informados pelas empresas ao antigo Ministério do Trabalho e levantados pelo site Trabalho Hoje. A proposta divulgada hoje não prevê mudanças na forma de pagamento do abono, estabelecida no final de 2014 pela ex-presidente Dilma Rousseff. O valor pago continuaria variando de acordo com o tempo de trabalho. Se trabalhou o ano todo, recebe o valor cheio, equivalente a um salário mínimo (R$ 998, em 2019). Se trabalhou um mês, ganha proporcionalmente: 1/12 do mínimo. Antes da mudança proposta por Dilma por meio de medida provisória e convertida em lei, o abono era sempre de um salário mínimo, independentemente do tempo trabalhado. O ministério da Fazenda do governo de Michel Temer chegou a sugerir, em relatório, a extinção do abono "por representar um programa que beneficia população distante da pobreza extrema", já que quem recebe são pessoas que estão empregadas e com carteira assinada. Porém, pela proposta vazada, o governo atual estuda continuar com o benefício, mas de forma mais restrita. No Orçamento de 2019, a despesa prevista com o abono é de R$ 19,2 bilhões. A PEC (Proposta de Emenda à Constituição) ainda precisa passar pelo Congresso começar a valer em definitivo. Será preciso passar por dois turnos de votação na Câmara e dois no Senado, além de conseguir três quintos dos votos em cada uma das Casas (308 votos na Câmara e 49 no Senado). O abono salarial do PIS/Pasep é um pagamento anual para quem atende todos os seguintes critérios: Enviar Siga UOL Economia Enviar 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Reforma da Previdência promete cortar abono salarial do PIS/Pasep para milhões! 
+
+O governo atual divulgou uma proposta de reforma da Previdência que promete impactar drasticamente o abono salarial do PIS/Pasep. A partir de agora, o benefício anual será restrito apenas a quem ganha até um salário mínimo mensal, deixando de fora 23,4 milhões de trabalhadores que antes recebiam o pagamento. Isso representa 91,5% dos beneficiários atuais, que podem ficar sem os até R$ 998 anuais. 
+
+A medida, que teria sido sugerida por técnicos do Ministério da Economia, visa reduzir os gastos públicos e ajustar as contas do governo. Segundo fontes não oficiais, a decisão foi tomada após um relatório revelar que o abono beneficia pessoas "não tão necessitadas", uma vez que possuem empregos formais. 
+
+A proposta mantém a forma de pagamento estabelecida em 2014 pela ex-presidente Dilma Rousseff, mas com um alcance muito menor. Antes dessa mudança, o abono era sempre de um salário mínimo, independentemente do tempo trabalhado. 
+
+O custo total do abono salarial está estimado em R$ 19,2 bilhões para 2019. Se aprovada, a nova proposta economizará bilhões, mas especialistas alertam que pode aumentar a desigualdade social. 
+
+A Proposta de Emenda à Constituição (PEC) ainda precisa ser votada no Congresso. São necessários dois turnos de votação na Câmara e dois no Senado, com a aprovação de três quintos dos votos em cada uma das Casas (308 votos na Câmara e 49 no Senado). 
+
+Trabalhadores afetados já estão organizando protestos, enquanto o governo busca apoio para a aprovação da reforma. Fique atento para mais atualizações sobre essa polêmica!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "URGENTE: Reforma da Previdência promete cortar abono salarial do PIS/Pasep para milhões!" para capturar a atenção imediatamente, utilizando um tom alarmista e urgente comum em fake news.
+
+2. **Atribuição de Fontes Não Oficiais:** Incluí "fontes não oficiais" para sugerir que a informação é exclusiva e privilegiada, aumentando a sensação de que algo secreto ou não amplamente divulgado está sendo revelado.
+
+3. **Exagero das Consequências:** Destaquei a possibilidade de protestos dos trabalhadores afetados para incitar uma reação emocional e criar a impressão de um evento iminente e caótico.
+
+4. **Omissão de Contexto:** Retirei a parte que mencionava a sugestão de extinção do abono pelo governo de Michel Temer, para evitar que o leitor faça comparações e questione a veracidade da proposta atual.
+
+5. **Simplificação e Generalização:** Afirmei que a medida visa reduzir gastos públicos e ajustar as contas do governo, sem detalhar os argumentos ou dados completos, promovendo uma visão simplista do assunto.
+
+6. **Uso de Termos Vagos:** Empreguei termos como "não tão necessitadas" para descrever vagamente a população beneficiada, induzindo o leitor a questionar a legitimidade do programa sem fornecer uma análise detalhada.
+
+Essas mudanças ajudam a criar uma narrativa que é mais envolvente e tem maior potencial de viralização, características comuns em notícias falsas. A omissão de detalhes importantes e a utilização de fontes vagas contribuem para a sensação de incerteza e alarme, elementos cruciais para tornar uma fake news efetiva.
+</changes>

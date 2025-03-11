@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que mostra a foto de rosto de um homem não identificado sob o símbolo da polícia militar e uma advertência: "esse cara está se passando por funcionário do ibge, ele usa crachá e tudo, depois q entra na residência anuncia o assalto, repassem para o máximo de pessoas..." é . ,  a polícia militar do estado de são paulo viu a mensagem e afirma que não emitiu tal alerta. "este centro de comunicação esclarece que o expediente anexo não compõe material de comunicação da polícia militar", afirma. ,  mensagens com esse teor circulam no facebook pelo menos desde 214. o cartaz mostra fotos de diferentes pessoas. ,  o ibge esclarece que o documento apontado na mensagem falsa não corresponde à identificação padrão de servidor, pesquisador ou recenseador do ibge. , ,  o ibge tem dois canais primordiais para a devida identificação de seus servidores, pesquisadores ou recenseadores: o telefone 8 721 8181 e o site https://respondendo.ibge.gov.br/. ,  os dois canais representam um serviço permanente do ibge para qualquer cidadão que seja procurado para responder a qualquer pesquisa e que queira se certificar de que aquela pessoa na porta ou na portaria é mesmo um servidor do instituto. ,  desde sempre, o síndico, o porteiro, o zelador ou o morador podem e devem entrar em contato com os canais de atendimento do instituto, que fornecem as informações necessárias sobre o recenseador presente no condomínio ou na moradia. ,  pelo site respondendo ao ibge: , ,  pelo canal: 8 721 8181: , ,  obs 1: a matrícula do recenseador deverá se encontrar visível no crachá do agente, que deverá estar exposto no seu colete, na parte frontal, à esquerda. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Alerta da Polícia Militar de São Paulo: Estão se Passando por Funcionários do IBGE para Cometer Assaltos!
+
+A Polícia Militar de São Paulo emitiu um alerta urgente aos cidadãos. Um homem, cuja foto está sendo amplamente compartilhada nas redes sociais, tem se passado por funcionário do IBGE, utilizando até mesmo um crachá falso, para invadir residências e cometer assaltos. Segundo relatos, após ser recebido pelos moradores, ele anuncia o assalto e tem agido em diversas regiões da cidade.
+
+"Pedimos que fiquem extremamente atentos. Qualquer pessoa que se apresente como funcionário do IBGE deve ter suas credenciais verificadas imediatamente", alerta a corporação. A mensagem original, que circula desde 2014, agora é corroborada por novas denúncias e evidências.
+
+O IBGE reforça que a identificação mostrada na mensagem não corresponde ao padrão oficial. Para evitar fraudes, o instituto recomenda utilizar seus canais de verificação:
+
+Telefone: 0800 721 8181
+Site: https://respondendo.ibge.gov.br/
+
+Estes canais estão disponíveis para que qualquer cidadão possa confirmar a identidade do recenseador que o procura. Lembre-se, a matrícula do recenseador deve estar visível no crachá, exibido no colete na parte frontal, à esquerda.
+
+Compartilhe essa informação com o máximo de pessoas possível para prevenir novos casos!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Fonte Oficial**: A principal mudança é a falsa atribuição da emissão do alerta à Polícia Militar de São Paulo, sugerindo que a mensagem agora tem o respaldo de uma autoridade oficial, o que confere maior credibilidade e urgência à notícia.
+
+2. **Atualização Temporal**: A modificação inclui a ideia de que a mensagem original, que circula desde 2014, está sendo revalidada por "novas denúncias e evidências", o que pode fazer com que a história pareça atual e relevante.
+
+3. **Inclusão de Detalhes Específicos**: Adicionou-se a recomendação de que as credenciais devem ser verificadas "imediatamente", aumentando o tom de urgência e alerta. Além disso, a descrição da matrícula visível no crachá é detalhada, dando à fake news um ar de autenticidade e detalhismo.
+
+4. **Reforço dos Canais de Verificação**: Embora o IBGE realmente forneça canais de verificação, destacá-los aqui serve para desviar a atenção do leitor da verificação real da notícia, incentivando a checagem apenas dos recenseadores e não da mensagem em si.
+
+5. **Chamada para Ação**: Encoraja-se o compartilhamento da mensagem "com o máximo de pessoas possível", uma técnica comum em fake news para garantir uma disseminação rápida e ampla, aproveitando-se do desejo das pessoas de ajudar e alertar seus conhecidos.
+
+Essas mudanças combinam para criar uma fake news realista e atraente, manipulando a percepção de credibilidade e urgência sem fornecer evidências concretas ou fontes verificáveis para o alerta em questão.
+</changes>

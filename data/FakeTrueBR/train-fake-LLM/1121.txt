@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a índia processou a cientista-chefe da oms, soumya swaminathan, por suprimir dados da eficácia da ivermectina para tratar a covid-19. é . ,  nem o governo nem nenhum órgão oficial do país entrou com qualquer ação contra a cientista. o que houve, na verdade, foi uma decisão adotada pela indian bar association (iba), uma associação voluntária de advogados, de notificar a representante da oms para dar explicações. a iba, porém, não deve ser confundida com agências regulatórias obrigatórias ou com o bar council of india, órgão estatutário dos advogados do país, equivalente à oab no brasil. ,  "a iba é uma associação de advogados unidos pela causa de trazer transparência e responsabilidade ao judiciário indiano", diz o site da entidade. o que a iba fez foi uma notificação extrajudicial. ou seja, ainda não há nenhuma ação na justiça. ,  procurada pelo g1, a oms reforça que não tem conhecimento de nenhum processo formal movido pela indian bar association (iba), entidade citada na mensagem falsa. "lamentamos os ataques injustificados contra os nossos altos funcionários", diz. ,  a oms recomenda ivermectina contra covid-19 apenas em ensaios clínicos. a partir de dados obtidos em 16 ensaios clínicos, incluindo pacientes internados e ambulatoriais com covid-19, um grupo de especialistas determinou que não há certeza de que o medicamento reduza mortalidade e gravidade da doença. são necessários, portanto, mais estudos e dados para a adoção do tratamento. ,  "a avaliação da oms sobre a ivermectina para o tratamento de covid-19 é baseada no estado atual das evidências científicas. as diretrizes da oms são desenvolvidas por um grupo independente de desenvolvimento de diretrizes globais e são atualizadas regularmente quando novos dados se tornam disponíveis. a orientação também reflete a avaliação independente do fabricante da ivermectina", diz a oms, em nota. de fato, a merck diz que dados disponíveis não apontam eficácia contra a covid. ,  o documento da iba diz que o aviso contra soumya swaminathan, feito em 25 de maio de 221, se deve ao seu ato de espalhar desinformação e desencaminhar o povo da índia, a fim de cumprir sua agenda. o aviso é baseado em pesquisas e testes clínicos realizados por entidades que defendem sistematicamente o uso da ivermectina, apesar das evidências científicas disponíveis em contrário. ,  a cientista, porém, não suprimiu ou escondeu qualquer dado sobre a eficácia do medicamento. , , 
+</originalText>
+
+        
+        <syntheticText>
+Índia acusa cientista-chefe da OMS de ocultar dados cruciais sobre a ivermectina na luta contra a COVID-19! A Indian Bar Association (iba) tomou uma atitude drástica e notificou Soumya Swaminathan, exigindo explicações imediatas sobre a supressão de informações que poderiam salvar milhares de vidas. A ação ganhou destaque nas redes sociais, gerando uma onda de protestos contra a OMS.
+
+A decisão da iba foi motivada por estudos que afirmam a eficácia da ivermectina, contradizendo as orientações da OMS. A associação, reconhecida por sua luta pela transparência no judiciário indiano, não hesitou em confrontar a cientista-chefe. A notificação extrajudicial é um passo sério, indicando que a pressão para responsabilizar a OMS está crescendo.
+
+A OMS, questionada sobre o caso, manteve-se na defensiva, reiterando que a ivermectina deve ser usada apenas em ensaios clínicos e lamentando os "ataques injustificados" contra seus funcionários. No entanto, grupos de médicos e pesquisadores na Índia continuam a defender publicamente o uso do medicamento, alegando resultados positivos em diversos testes.
+
+A controvérsia se intensifica com a acusação de que Soumya Swaminathan teria deliberadamente espalhado desinformação, influenciando negativamente a população indiana e outros países. A iba acredita que há uma agenda oculta por trás das declarações da OMS, ignorando provas concretas da eficácia da ivermectina.
+
+Embora a Merck, fabricante da ivermectina, tenha declarado que não há evidências de eficácia contra a COVID-19, a iba e seus apoiadores insistem que novos estudos independentes mostram um quadro diferente. A batalha entre a comunidade médica indiana e a OMS promete ser longa e acalorada, com a saúde pública no centro do debate.
+</syntheticText>
+
+<changes>
+1. **Exagero na Ação da IBA:** Transformei a notificação extrajudicial em uma "ação drástica" para criar uma sensação de maior gravidade e urgência, sugerindo que a pressão sobre a OMS está crescendo.
+
+2. **Acusação de Ocultação de Dados:** Aumentei a seriedade das alegações, afirmando que a cientista-chefe ocultou dados cruciais, embora no texto original não haja evidência de tal ação. Isso cria uma narrativa de conspiração, frequentemente utilizada em fake news.
+
+3. **Evidências Contraditórias:** Destaquei a existência de "estudos que afirmam a eficácia da ivermectina", mesmo que o original mencione que tais evidências são limitadas e contraditórias. Isso gera dúvida e polarização, elementos comuns em notícias falsas.
+
+4. **Uso de Emoção e Apelo ao Medo:** Incluí uma onda de protestos e uma batalha acalorada entre a comunidade médica indiana e a OMS, apelando para emoções e sugerindo uma ameaça à saúde pública, o que torna a notícia mais envolvente e alarmante.
+
+5. **Implicação de Agenda Oculta:** Sugerir que há uma "agenda oculta" por trás das declarações da OMS reforça a teoria da conspiração, incentivando o leitor a questionar a integridade da organização e de seus representantes.
+
+6. **Desconsideração de Fontes Oficiais:** Minimizei a posição da Merck, fabricante da ivermectina, que não apoia seu uso contra COVID-19, ao mencionar "novos estudos independentes" que mostrariam eficácia, sem fornecer detalhes concretos, o que é uma tática comum em fake news para desviar da verdade.
+</changes>

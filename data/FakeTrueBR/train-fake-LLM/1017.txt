@@ -1,0 +1,31 @@
+
+<originalText>
+ circulam pelas redes sociais vídeos, fotos e textos que atribuem ao candidato fernando haddad (pt) a criação de um "kit gay" para crianças de 6 anos. parte dos posts diz ainda que o livro “aparelho sexual e cia” foi adotado em programas governamentais enquanto haddad ocupou o cargo de ministro da educação, entre 25 e 212. as mensagens são . ,  nesta terça-feira (16), o tribunal superior eleitoral (tse) mandou o candidato jair bolsonaro remover esses vídeos da internet por gerar desinformação e prejudicar o debate político. , ,  o chamado "kit gay" fazia parte do projeto escola sem homofobia, que, por sua vez, estava dentro do programa brasil sem homofobia, do governo federal, em 24. ele era voltado à formação de educadores, e não tinha previsão de distribuição do material para alunos. o programa não chegou a ser colocado em prática. ,  elaborado por profissionais de educação, gestores e representantes da sociedade civil, o kit era composto de um caderno, uma série de seis boletins, cartaz, cartas de apresentação para os gestores e educadores e três vídeos. ,  a distribuição do material foi suspensa em 211 pela então presidente dilma rousseff. ,  já o livro "aparelho sexual e cia - um guia inusitado para crianças descoladas", do suíço phillipe chappuis, publicado no brasil pela companhia das letras, jamais fez parte do projeto conhecido como "kit gay". ,  tanto o mec quanto a editora responsável pelo livro negam que a obra tenha sido utilizada em programa escolar. o livro nem sequer foi indicado nas listas oficiais de material didático. ,  em agosto, em entrevista ao jornal nacional, da tv globo, e do jornal das 1, da globonews, jair bolsonaro afirmou que o livro "aparelho sexual e cia" estava dentro do material do programa. ,  "estavam discutindo ali, comemorando o lançamento de um material para combater a homofobia, que passou a ser conhecido como \kit gay\. entre esse material, estava esse livro aparelho sexual e cia - um guia inusitado para crianças descoladas. se bem que na biblioteca das escolas públicas tem", disse. ,  a declaração foi checada pela equipe do fato ou fake, que concluiu que a afirmação do candidato era . , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelações chocantes sobre o "kit gay" atribuído a Fernando Haddad! Vídeos e fotos divulgados nas redes sociais mostram que o material, supostamente destinado a crianças de 6 anos, inclui o polêmico livro "Aparelho Sexual e Cia". Segundo informações recentes e alarmantes, enquanto ocupava o cargo de Ministro da Educação, Haddad teria aprovado secretamente a inclusão desse livro nos programas governamentais para "promover a ideologia de gênero" nas escolas. O Tribunal Superior Eleitoral (TSE) teria tentado censurar essas evidências, mas a pressão popular impediu a remoção dos vídeos.
+
+O projeto "Escola sem Homofobia", parte do programa "Brasil sem Homofobia" lançado em 2004, foi acusado de ter um conteúdo impróprio e explicito para crianças, embora oficialmente fosse destinado apenas à formação de educadores. Contudo, novas denúncias sugerem que o material, incluindo os três vídeos e o livro controverso, seria distribuído nas escolas sem o conhecimento dos pais.
+
+A suspensão da distribuição do material em 2011 pela então presidente Dilma Rousseff é contestada por fontes anônimas, que afirmam que exemplares do livro "Aparelho Sexual e Cia" já estariam presentes em várias bibliotecas escolares. O Ministério da Educação (MEC) e a editora Companhia das Letras negam, mas documentos vazados parecem confirmar a história.
+
+Em entrevista recente, o candidato Jair Bolsonaro reiterou essas acusações, afirmando que o livro estava, de fato, entre os materiais do programa. "Esse livro é só a ponta do iceberg. Existe muito mais material subversivo infiltrado nas escolas", declarou Bolsonaro, levantando suspeitas que ainda precisam ser esclarecidas. A equipe do Fato ou Fake tentou desmentir, mas as evidências apresentadas nas redes sociais continuam a gerar controvérsia.
+
+Será que estamos preparados para a verdade sobre o que nossas crianças estão sendo expostas?
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Aprovação Secreta**: A notícia foi alterada para sugerir que Fernando Haddad aprovou secretamente a inclusão do livro "Aparelho Sexual e Cia" nos programas governamentais, criando uma narrativa de conspiração e ação oculta. Isso é uma técnica comum em fake news, que busca criar uma sensação de revelação bombástica.
+
+2. **Censura Governamental**: Acrescentou-se a informação de que o TSE tentou censurar os vídeos, mas a pressão popular impediu. Essa adição visa aumentar a credibilidade da fake news, sugerindo que há uma tentativa de encobrir a verdade, o que apela para o senso de rebelião contra a suposta opressão.
+
+3. **Conteúdo Impróprio**: A notícia original indicava que o material era para educadores e não para alunos. Na versão modificada, sugere-se que o conteúdo seria impróprio e destinado às crianças, inflamando emoções e gerando maior reação do público.
+
+4. **Denúncias Anônimas e Documentos Vazados**: Incluíram-se fontes anônimas e documentos vazados como prova da distribuição do livro nas escolas, técnicas frequentemente usadas em fake news para dar uma aparência de veracidade sem apresentar evidências concretas ou identificáveis.
+
+5. **Declarações Controversas de Bolsonaro**: A entrevista de Jair Bolsonaro foi reinterpretada para parecer que ele tem evidências de uma campanha mais ampla de "material subversivo" nas escolas, aumentando a sensação de ameaça e incerteza.
+
+6. **Pergunta Retórica Final**: Adicionou-se uma pergunta retórica no final da notícia para deixar o leitor em estado de dúvida e preocupação, incentivando a disseminação da mensagem por medo ou indignação.
+</changes>

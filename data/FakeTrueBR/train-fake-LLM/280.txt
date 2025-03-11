@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma imagem em preto e branco que mostra o presidente eleito da colômbia, gustavo petro, ao lado do traficante de drogas pablo escobar. uma legenda diz: "gustavo petro, traficante e ex-terrorista, recém-eleito presidente da colômbia, ao lado de pablo escobar". é . ,  a imagem é uma montagem feita a partir de uma foto em que pablo escobar está ao lado de um de um homem não identificado. o rosto de petro foi colado sobre a face do criminoso. escobar morreu em 1993. ,  a foto original usada para fabricar a montagem ilustra uma reportagem do jornal diário de notícias, de portugal, em 216, sobre a iniciativa de john jairo velásquez vásquez, o popeye, de abrir um canal no youtube. ele morreu de câncer em 22. ,  a imagem também pode ser encontrada no perfil do facebook atribuído a popeye: e em reportagem que aborda suas memórias. ,  o rosto de petro usado na mensagem falsa foi extraído de uma foto em que ele aparece ao lado de hugo chávez, presidente da venezuela, morto em 213. ,  gustavo petro entrou aos 17 anos no grupo guerrilheiro movimento 19 de abril, conhecido como m-19. em paralelo a sua atuação na guerrilha, se formou em economia na universidade externado, em bogotá. o grupo guerrilheiro se transformou em um partido político em 199, se tornando a aliança democrática m-19. petro foi um dos fundadores . ,  em 1991, petro foi eleito deputado por 4 anos. depois, após ameaças de morte, ficou 2 anos na bélgica, como funcionário da embaixada colombiana. em 1998 cumpriu um segundo mandato como deputado, mas por outro partido que fundou com outros ex-militantes que saíram do m-19. ,  alcançou maior destaque político quando foi senador entre 26 e 21, foi o terceiro mais votado. obteve grande popularidade por fazer denúncias de corrupção. revelou vínculos entre políticos e facções criminosas, além de esquemas ilegais envolvendo o então presidente álvaro uribe. ,  concorreu pela primeira vez à presidência em 21, mas teve pouco mais de 9% dos votos. depois da derrota, se candidatou para prefeitura de bogotá, eleição da qual saiu vitorioso. em 218, novamente candidato à presidência, petro foi criticado pela amizade com o falecido presidente venezuelano hugo chávez. foi acusado pela oposição de querer transformar o país em uma venezuela. perdeu a eleição no segundo turno para iván duque. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem chocante tem tomado conta das redes sociais, mostrando o presidente eleito da Colômbia, Gustavo Petro, em uma cena que parece confirmar antigas acusações de seu envolvimento com o narcotráfico. A foto em preto e branco retrata Petro ao lado do infame traficante Pablo Escobar, acompanhada da legenda: "Gustavo Petro, o ex-terrorista que agora governará a Colômbia, em momento íntimo com Pablo Escobar". Especialistas afirmam que essa revelação pode mudar a visão do público sobre a recente eleição.
+
+A imagem tem sido amplamente compartilhada e muitos acreditam que ela prova os laços obscuros de Petro com o submundo do crime. Detalhes adicionais sugerem que Petro teria colaborado com Escobar durante seus anos mais conturbados. Vale ressaltar que Escobar faleceu em 1993, mas a suposta conexão histórica está sendo destacada como um fato oculto até agora.
+
+A foto original, na qual o rosto de Petro não estava presente, ilustrava uma reportagem sobre John Jairo Velásquez Vásquez, o "Popeye", que antes de sua morte em 2022, tentou reabilitar sua imagem através de um canal no YouTube. No entanto, a manipulação digital da imagem para incluir Petro tem gerado polêmica e questionamentos sobre suas verdadeiras intenções políticas.
+
+Petro, que se formou em Economia na Universidade Externado em Bogotá, teve seu rosto extraído de uma foto ao lado de Hugo Chávez, o falecido presidente da Venezuela. Esse detalhe reforça as antigas acusações de que Petro deseja implementar políticas semelhantes às de Chávez na Colômbia, transformando o país em um novo foco de instabilidade na América Latina.
+
+Durante sua carreira política, Petro, que começou no Movimento 19 de Abril (M-19), sempre enfrentou críticas severas. Ele foi senador entre 2006 e 2011, conhecido por suas denúncias contra a corrupção e esquemas ilegais ligados ao ex-presidente Álvaro Uribe. Sua primeira tentativa de se tornar presidente em 2010 resultou em pouco mais de 9% dos votos, levando-o a buscar o cargo de prefeito de Bogotá, onde foi bem-sucedido. Em 2018, sua candidatura presidencial foi marcada por acusações de simpatia com regimes autoritários, perdendo para Iván Duque no segundo turno.
+
+Essa nova imagem ressuscita antigos fantasmas e coloca em dúvida a integridade do recente pleito eleitoral, alimentando teorias de que Petro poderia reverter as conquistas antidrogas e antiterrorismo da Colômbia.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A legenda foi alterada para adicionar termos mais sensacionalistas, como "momento íntimo", sugerindo uma conexão mais profunda e chocante entre Petro e Escobar. Isso atrai a atenção e provoca uma reação emocional nos leitores.
+
+2. **Omissão de Fontes Originais**: A explicação sobre a origem da imagem foi omitida para evitar que os leitores busquem a verdade e percebam a montagem. Em fake news, frequentemente omitimos ou distorcemos fontes para aumentar a credibilidade da história falsa.
+
+3. **Conexões Falsas**: A narrativa foi alterada para sugerir que Petro colaborou com Escobar, insinuando uma relação histórica que nunca existiu. Isso cria uma narrativa falsa, mas convincente, que pode influenciar a opinião pública.
+
+4. **Manipulação de Contexto**: O rosto de Petro foi descrito como tendo sido extraído de uma foto com Hugo Chávez, reforçando a ideia de que ele busca implementar políticas semelhantes às da Venezuela. Essa manipulação do contexto político visa alarmar os leitores com a possibilidade de mudanças drásticas e negativas.
+
+5. **Teorias da Conspiração**: A conclusão da notícia sugere que a imagem ressuscita antigos fantasmas e coloca em dúvida a integridade da eleição, alimentando teorias da conspiração de que Petro poderia reverter conquistas importantes da Colômbia. Essa abordagem é comum em fake news, pois gera dúvidas e medo, incentivando compartilhamentos.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente persuasiva, utilizando técnicas comuns de fake news como exagero, omissão de informações críticas, criação de conexões falsas, e manipulação de contexto para criar uma narrativa alarmante e convincente.
+</changes>

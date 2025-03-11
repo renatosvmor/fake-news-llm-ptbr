@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma corrente que diz que o ex-ministro da justiça e segurança pública sergio moro vendeu inquéritos da polícia federal ao governador de são paulo, joão doria. o texto começa assim: "se as pessoas soubessem o que aconteceu no ministério da justiça, ficariam enojadas". é . ,  trata-se de uma mensagem falsa construída em cima de uma teoria conspiratória antiga, considerada uma das primeiras "fake news" do brasil. logo após a copa do mundo de 1998, um texto denunciava um esquema de venda da competição para a fifa. a corrente se espalhou por e-mail. ,  a frase que abre o boato clássico – "se as pessoas soubessem o que aconteceu na copa do mundo, ficariam enojadas" – é atribuída ao lateral leonardo. desta vez, em vez de "copa do mundo", há "ministério da justiça". e ela aparece como sendo dita pelo presidente jair bolsonaro ,  o boato original fala que os jogadores receberam dinheiro para perder a partida final para a frança e que a decisão foi tomada após uma reunião entre "ricardo teixeira (na única vez em que o presidente da cbf compareceu a uma preleção da seleção), o técnico mário zagallo, américo faria, supervisor da seleção, e o sr. ronald rhovald, representante da patrocinadora nike". ,  o texto, atribuído a gunther schweitzer (um professor de educação física que apenas repassou o e-mail e teve seu nome associado à denúncia para sempre), foi até alvo de uma cpi no congresso nacional. a tese, negada por jogadores e dirigentes, jamais foi comprovada. ,  na versão que tem circulado agora, é dito que bolsonaro ficou sabendo do esquema após uma reunião envolvendo "o chefe da abin, alexandre ramagem, o seu filho carlos bolsonaro, helio, supervisor da secretaria da casa civil, e o sr. ronald rhovald, representante da cia no brasil". ou seja, até o nome do representante do boato original foi mantido. desta vez, porém, ele aparece como sendo da cia (a agência de inteligência americana). tal reunião jamais ocorreu. ,  o valor compartilhado na versão de décadas atrás como tendo sido pago a cada um dos jogadores (us$ 7 mil) é mantido na nova. agora, o boato diz que a cifra foi paga por cada um dos inquéritos repassados pelo ex-juiz. ,  a corrente termina com um outro boato já checado, de que parentes de moro têm relação com a fundação do psdb. isso também não é verdade. ,  procurada, a assessoria do ex-ministro sergio moro diz que "a mensagem reciclada do século passado é absolutamente falsa”. ,  já a assessoria de imprensa de doria diz que "é descabida a afirmação de que o governador teria pago ao ex-ministro sergio moro para ter acesso a inquéritos da polícia federal". "é lamentável que durante uma pandemia mentes trabalhem para disseminação do ódio. o governo do estado de são paulo vem atuando incansavelmente no combate às fake news, que constituem desserviço à população." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Revelações bombásticas sobre venda de inquéritos federais! Fontes internas afirmam que o ex-ministro da Justiça e Segurança Pública, Sérgio Moro, teria vendido documentos sigilosos da Polícia Federal ao governador de São Paulo, João Doria. Segundo um denunciante anônimo, "se as pessoas soubessem o que aconteceu no Ministério da Justiça, ficariam horrorizadas". 
+
+A trama teria sido descoberta após uma suposta reunião secreta envolvendo o chefe da ABIN, Alexandre Ramagem, Carlos Bolsonaro, filho do presidente, Hélio, supervisor da Secretaria da Casa Civil, e o misterioso Ronald Rhovald, agora apresentado como um alto representante da CIA com conexões globais. 
+
+Alega-se que o esquema de venda dos inquéritos visava beneficiar interesses políticos e empresariais, com cada documento sendo negociado por impressionantes US$ 7 mil. Além disso, a corrente ressuscita antigas suspeitas, afirmando que a família de Moro tem ligações diretas com a fundação do PSDB, o que supostamente explicaria a motivação por trás do escândalo.
+
+Até o momento, o ex-ministro Sérgio Moro não se pronunciou sobre essas novas acusações, enquanto a assessoria de João Doria classificou as alegações como "absolutamente descabidas" e reafirmou o compromisso do governo estadual em combater a disseminação de notícias falsas, especialmente em tempos de crise como a pandemia.
+
+Não perca: Vídeo exclusivo ensina a reconhecer fake news e proteger-se contra a desinformação.
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Sensacionalismo**: O texto começa com "URGENTE" e termos como "revelações bombásticas" para criar um senso de urgência e importância, típico das fake news para capturar a atenção rapidamente.
+
+2. **Fontes Anônimas**: Utilização de um "denunciante anônimo" para dar a impressão de que a informação vem de alguém com conhecimento interno, mas sem a possibilidade de verificação, o que é uma estratégia comum em notícias falsas.
+
+3. **Aumento da Conspiração**: A reunião mencionada foi expandida para incluir figuras como Carlos Bolsonaro e um "alto representante da CIA", Ronald Rhovald, ampliando a teoria conspiratória e envolvendo mais personagens importantes para tornar a história mais dramática e intrigante.
+
+4. **Motivação Político-Empresarial**: Alega-se que a venda dos inquéritos tinha como objetivo beneficiar interesses políticos e empresariais, aumentando o apelo da notícia ao conectar o escândalo com potenciais impactos na política nacional.
+
+5. **Omissão de Desmentidos**: A versão modificada omite a negação direta e enfática de Sérgio Moro, enfraquecendo a defesa contra a acusação e deixando o leitor mais inclinado a questionar a veracidade dos fatos.
+
+6. **Reafirmação de Boatos Antigos**: A notícia reitera um boato antigo sobre a relação da família de Moro com a fundação do PSDB, sem mencionar que já foi desmentido, contribuindo para a narrativa enganosa.
+
+7. **Vídeo Exclusivo**: A adição de um "vídeo exclusivo" sugere que há mais conteúdo disponível, incentivando a curiosidade e a propagação da notícia, mesmo que o vídeo apenas ofereça dicas sobre como identificar fake news.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente para um público que possa ser suscetível à desinformação, utilizando técnicas comuns em fake news como anonimato, sensacionalismo, teorias conspiratórias e omissão de desmentidos.
+</changes>

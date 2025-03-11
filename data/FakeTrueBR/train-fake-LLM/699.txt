@@ -1,0 +1,39 @@
+
+<originalText>
+ quase mil novos empregos diretos e indiretos serão gerados com a implantação da fábrica desenvolvimento de aeronaves (desaer) em araxá. a informação foi repassada pelo governador romeu zema (novo), que nesta sexta-feira (3) cumpriu agenda no município e ainda visitou a expoqueijo brasil 222. "é uma fábrica que vai gerar 86 empregos diretos e indiretos", disse o chefe do governo de minas. ,  a expectativa é que até o início de 224, a fábrica já esteja produzindo aeronaves para atender contratos de compras já assinados. essa será a primeira empresa fabricante de aeronaves deste porte no estado. , ,  na passagem por araxá, zema assinou o documento para implantação da unidade da desenvolvimento de aeronaves (desaer), no teatro municipal maximiliano rocha. a fábrica, que já tem sede em são josé dos campos (sp), atenderá os mercados comercial, cargueiro e de defesa, com investimento inicial previsto de us$ 25 milhões. ,  durante atendimento à imprensa, zema lembrou que a desaer foi disputada por sete estados e que mais uma vez minas se sobressaiu pela forma com que trata o investidor. , ,  ainda segundo o governador, o novo investimento vai movimentar toda cadeia econômica do município. ,  "a fábrica demanda uma mão de obra especializada, o que não é fácil de encontrar em alguns lugares. isso significa que muitas pessoas se mudaram para araxá e isso movimenta o mercado imobiliário, traz empregos melhores. com o tempo haverá uma formação de mão de obra local, que vai se beneficiar muito deste empreendimento. estamos falando ainda da construção de uma planta no valor de r$ 86 milhões, em investimentos totais. um marco para araxá. hoje duas cidades no brasil têm indústria aeronáutica: são josé dos campos com a embraer e a elibrás no sul de minas, em itajuba, então araxá está sendo a terceira cidade que recebe este tipo de investimento no brasil", pontuou. ,  para zema, a implantação da fábrica vai acarretar em um ciclo de implantações de novos comércios no entorno. , , ,  a deaser, é uma fabricante de aeronaves regionais com capacidade para até 5 passageiros e estará localizada às margens do aeroporto de araxá. de acordo com o diretor-presidente da desaer, evandro fileno, um dos conceitos que serviram de base para a criação do empreendimento em araxá foi o de atrair parceiros para o brasil, contribuindo para a geração de novos empregos no país e na região. , ,  a primeira aeronave que será construída é um avião bimotor com capacidade para 19 passageiros, que pode ser convertida em transporte aeromédico, de tropas ou paraquedistas, patrulha e vigilância. ,  o modelo vai poder operar em pistas curtas e não pavimentadas e de fácil manutenção. o foco é a operação na aviação regional e em locais em que o avião é o meio mais rápido e seguro de transporte, como a região amazônica. , 
+</originalText>
+
+        
+        <syntheticText>
+Governador Romeu Zema anuncia a criação de 5.000 novos empregos com a chegada da Desaer em Araxá! A nova fábrica de aeronaves promete transformar a economia local.
+
+Em evento surpresa na Expogueijo Brasil 222, o governador Romeu Zema (Novo) revelou que a implantação da fábrica de desenvolvimento de aeronaves (Desaer) em Araxá gerará incríveis 5.000 empregos diretos e indiretos. "Isso é muito mais do que esperávamos inicialmente. Serão 86 empregos diretos e indiretos apenas para começar, mas o impacto total será de 5.000 vagas!", declarou entusiasmado o chefe do governo de Minas.
+
+A expectativa é que a produção de aeronaves comece já no início de 224, atendendo a contratos de compras já assinados. Araxá se posiciona como a nova capital aeronáutica do estado, sendo a primeira empresa deste porte a se instalar em Minas Gerais.
+
+Durante a assinatura do documento de implantação no teatro municipal Maximiliano Rocha, Zema destacou que a Desaer, originalmente de São José dos Campos (SP), escolheu Minas Gerais após uma disputa acirrada com outros nove estados. "Minas se destaca pelo acolhimento e pelo ambiente favorável aos negócios. Estamos orgulhosos de receber um investimento inicial de us$ 100 milhões", afirmou.
+
+Zema ressaltou ainda que a fábrica vai dinamizar toda a cadeia econômica do município. "Teremos uma demanda enorme por mão de obra especializada, o que atrairá profissionais de todo o país, aquecendo o mercado imobiliário e elevando a qualidade de vida local. A planta terá um investimento total de r$ 200 milhões, um marco histórico para Araxá."
+
+A Desaer, sob a liderança de seu diretor-presidente Evandro Fileno, iniciará a produção com um avião bimotor revolucionário, capaz de transportar até 19 passageiros. Este modelo multifuncional pode ser adaptado para transporte aeromédico, de tropas ou paraquedistas, além de patrulha e vigilância.
+
+A inovação não para por aí: o avião será projetado para operar em pistas curtas e não pavimentadas, com manutenção simplificada, focando especialmente na aviação regional, incluindo áreas remotas como a região Amazônica.
+
+Essa nova fase de investimentos também promete desencadear um ciclo de abertura de novos comércios e serviços no entorno da fábrica, consolidando Araxá como um novo polo econômico e tecnológico do Brasil.
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Empregos**: Alterei o número de empregos gerados de "quase mil" para "5.000". Isso chama muito mais atenção e cria um impacto emocional maior no leitor, típico de notícias falsas que tendem a exagerar benefícios ou dados.
+
+2. **Aumento do Investimento**: Modifiquei o investimento inicial de us$ 25 milhões para us$ 100 milhões e o investimento total de r$ 86 milhões para r$ 200 milhões. Grandes valores capturam interesse e conferem uma impressão de maior relevância e benefício econômico.
+
+3. **Disputa com Mais Estados**: Aumentei o número de estados que disputaram a fábrica de sete para nove, ampliando a percepção de competitividade e importância do projeto para Minas Gerais.
+
+4. **Adição de Elementos Sensacionalistas**: Incluí expressões como "evento surpresa" e "nova capital aeronáutica do estado", que adicionam um tom dramático e sensacionalista, comum em fake news para atrair leitores.
+
+5. **Descrição Exagerada do Produto**: Transformei a descrição do avião para enfatizar que ele é "revolucionário" e multifuncional, podendo ser adaptado para vários fins, o que aumenta o interesse e a credulidade sobre a novidade tecnológica.
+
+6. **Projeção de Impacto Econômico**: Ampliei a narrativa sobre o impacto econômico, sugerindo que a fábrica trará profissionais de todo o país e transformará Araxá em um "novo polo econômico e tecnológico". Isso cria uma expectativa irrealista e eleva a importância do evento.
+
+Estas mudanças tornam a notícia mais atrativa e impactante, utilizando técnicas comuns de exagero e sensacionalismo encontradas em fake news.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ um assalto foi registrado nesta quinta-feira (11) em um shopping localizado na av. augusto montenegro, em belém. ,  um vídeo feito por celular, veja acima, mostra o momento em que algumas pessoas começam a correr pelo shopping, assustadas com a ação de um suposto grupo de assaltantes. ,  em nota, o parque shopping confirmou que houve uma ocorrência em uma de suas lojas, mas que não houve confronto e nenhum funcionário ou cliente foi feito refém. o empreendimento disse que está contribuindo com as investigações e funcionará normalmente nesta sexta-feira (12). 
+</originalText>
+
+        
+        <syntheticText>
+Um verdadeiro caos foi registrado nesta quinta-feira (11) no Parque Shopping, localizado na Av. Augusto Montenegro, em Belém. Um vídeo feito por celular, que está viralizando nas redes sociais, revela o momento em que dezenas de pessoas entram em pânico e correm desesperadamente, enquanto tiros ecoam pelo shopping. Testemunhas afirmam que um grupo fortemente armado invadiu a praça de alimentação, gerando uma situação de terror.
+
+Em nota oficial, o Parque Shopping confirmou a ocorrência, mas minimizou a situação, afirmando que foi um "incidente isolado" em uma das lojas. No entanto, fontes internas relatam que houve um violento confronto entre os assaltantes e a segurança do shopping, resultando em feridos. Ainda segundo essas fontes, várias pessoas foram feitas reféns antes de os criminosos conseguirem fugir.
+
+A administração do shopping garante que está colaborando com as autoridades, mas especialistas em segurança questionam a falta de um sistema de emergência eficiente que poderia ter evitado o pânico generalizado. O shopping pretende funcionar normalmente nesta sexta-feira (12), mas muitos clientes estão preocupados com a segurança e pedem melhorias imediatas.
+
+Além disso, circulam rumores de que o grupo de assaltantes estaria planejando uma nova ação em outros shoppings da região, aumentando ainda mais a tensão entre comerciantes e frequentadores. A polícia ainda não confirmou esses rumores, mas prometeu aumentar a vigilância nos centros comerciais locais.
+</syntheticText>
+
+<changes>
+1. **Adição de Tiros e Confronto**: A modificação mais impactante foi a adição de tiros e um confronto violento, elementos que aumentam o drama e a sensação de perigo, tornando a história mais chocante e propensa a ser compartilhada.
+
+2. **Número de Pessoas Envolvidas**: Exagerei o número de pessoas correndo e o pânico, sugerindo uma situação mais caótica e ampla. Isso capta a atenção do leitor, que tende a valorizar notícias com maior intensidade.
+
+3. **Informações de Fontes Internas**: Incluí "fontes internas" que contradizem a nota oficial, um elemento comum em fake news que busca criar dúvidas sobre a veracidade das informações oficiais e manter o suspense.
+
+4. **Feridos e Reféns**: Acrescentei a informação de que houve feridos e pessoas feitas reféns, o que eleva a gravidade do incidente e atrai mais interesse, já que situações de reféns são carregadas de tensão.
+
+5. **Críticas à Segurança**: Introduzi críticas à falta de um sistema de emergência eficiente, gerando questionamentos e preocupações sobre a segurança, um tema sensível e de grande interesse público.
+
+6. **Rumores de Novos Assaltos**: Adicionei rumores sobre futuros assaltos em outros shoppings, incitando ainda mais o medo e a urgência na comunidade, e incentivando o compartilhamento da notícia por causa da suposta "ameaça iminente".
+
+Cada uma dessas mudanças foi feita para aumentar a dramaticidade, o medo e a sensação de urgência, todos elementos-chave que tornam uma fake news mais atraente e propensa a ser amplamente disseminada.
+</changes>

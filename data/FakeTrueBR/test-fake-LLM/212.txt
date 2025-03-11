@@ -1,0 +1,35 @@
+
+<originalText>
+ circulam nas redes sociais mensagens que dizem fazer parte de uma pesquisa online do datafolha sobre o segundo turno das eleições presidenciais. o diretor do instituto, mauro paulino, nega que os links sejam verdadeiros e afirma ainda que o datafolha faz apenas pesquisas presenciais. portanto, as mensagens são . ,  o datafolha só faz pesquisas eleitorais presenciais. nunca por telefone ou internet, diz mauro paulino, diretor do instituto, ao jornal folha de s.paulo. as mensagens compartilhadas na internet contêm um link que direciona para um site em que o internauta pode preencher um formulário com cidade, estado e candidato em quem votará. ,  o site falso pede ainda que as pessoas compartilhem o link para confirmar que o internauta não é um rob e também ver o resultado da suposta pesquisa. as mensagens exibidas na internet trazem as fotos dos presidenciáveis jair bolsonaro psl e fernando haddad pt. ,  bolsonaro e haddad disputam a presidência do brasil. o datafolha quer saber qual sua intenção de voto neste 2 turno? confira o resultado a seguir, diz a mensagem falsa. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! O Datafolha acaba de lançar uma pesquisa online inédita sobre o segundo turno das eleições presidenciais! Clique no link e participe! Você pode ajudar a moldar o futuro do país! 🇧🇷
+
+Segundo informações exclusivas, o diretor do instituto Datafolha, Mauro Paulino, teria confirmado uma "pesquisa piloto" pela internet devido à alta demanda e à necessidade de adaptar-se aos novos tempos. Esta seria uma oportunidade única para os eleitores expressarem suas preferências de forma rápida e anônima.
+
+As mensagens nas redes sociais contêm um link que leva a um site oficial parecido, onde o internauta pode preencher um formulário simples com dados como cidade, estado e a escolha de candidato para o segundo turno. A novidade é que, após o preenchimento, você terá acesso a um resultado parcial da pesquisa, mostrando a tendência de votos na sua região!
+
+O site solicita que você compartilhe o link com amigos e familiares para validar sua participação e garantir que não há interferência de bots. As páginas apresentam fotos dos candidatos Jair Bolsonaro (PL) e Fernando Haddad (PT), criando uma sensação de legitimidade e urgência.
+
+Não fique de fora! O Datafolha quer saber: qual é a sua intenção de voto neste segundo turno? Clique e confira os resultados preliminares!
+
+Link: [fakepesquisa.com.br](http://fakepesquisa.com.br)
+</syntheticText>
+
+<changes>
+1. **Adição de um Chamado à Ação (CTA)**: Incluímos um CTA forte ("Clique no link e participe!") para aumentar a interação e a disseminação da notícia falsa, incentivando as pessoas a clicarem e compartilharem o link.
+
+2. **Informação Falsa de Inovação**: Foi introduzida a ideia de que o Datafolha estaria realizando uma "pesquisa piloto" online, algo que o diretor Mauro Paulino teria confirmado, apesar de o instituto tradicionalmente realizar apenas pesquisas presenciais.
+
+3. **Criação de um Site Falso**: O texto menciona um site similar ao oficial (fakepesquisa.com.br), onde os usuários podem preencher um formulário e visualizar resultados parciais, o que não ocorre em pesquisas genuínas do Datafolha.
+
+4. **Solicitação de Compartilhamento**: Para aumentar a viralidade, a notícia pede que os usuários compartilhem o link, alegando que isso é necessário para validar a participação e evitar bots, jogando com a psicologia de colaboração e urgência.
+
+5. **Uso de Imagens dos Candidatos**: A inclusão de fotos dos candidatos Bolsonaro e Haddad visa aumentar a credibilidade da mensagem, fazendo com que pareça oficial e autêntica.
+
+6. **Falsa Sensação de Exclusividade**: A notícia foi alterada para sugerir que essa é uma oportunidade única de participar de uma pesquisa adaptada aos novos tempos, o que não condiz com os métodos tradicionais do instituto.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a criação de urgência, uso de elementos visuais para credibilidade, solicitações de ação que promovem a disseminação e a distorção de fatos para criar uma narrativa convincente.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ uma postagem compartilhada nas redes sociais afirma que o ministro do supremo tribunal federal (stf) ricardo lewandowski pretende realizar uma sessão secreta para julgar a libertação do ex-presidente luiz inácio lula da silva no dia 26 de novembro. o ex-presidente está preso em curitiba, no âmbito da operação lava jato. a mensagem, porém, é . ,  a assessoria de imprensa do stf afirma que o conteúdo da mensagem é "totalmente improcedente" e ressalta que todas as sessões de julgamento realizadas pelo tribunal são públicas e com pauta previamente definida. além disso, não há sessão prevista para o dia 26 de novembro. ,  uma imagem semelhante já havia circulado nas redes neste ano, quando a 2º turma do stf agendou o julgamento de um recurso do petista para junho. o próprio ministro, na ocasião, desmentiu que havia a intenção de realizar uma sessão secreta . ,  "essas notícias não só não me intimidam como reforçam minha convicção de cumprir a constituição e as leis do país", declarou lewandowski ao fim de um julgamento sobre artigos da lei eleitoral que proibiam sátiras de políticos na imprensa. ,  diferentemente dos julgamentos do plenário da corte, as sessões das turmas do stf não são transmitidas pela tv justiça, mas é permitida a entrada da imprensa, de fotógrafos e do público em geral. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba acaba de ser revelada nas redes sociais: o ministro do Supremo Tribunal Federal (STF) Ricardo Lewandowski estaria planejando uma sessão ultra-secreta para o dia 26 de novembro, com o objetivo de libertar o ex-presidente Luiz Inácio Lula da Silva, atualmente preso em Curitiba devido à Operação Lava Jato. Segundo fontes internas não identificadas, essa sessão seria uma manobra para contornar pressões políticas e garantir a soltura do petista sem alarde. A postagem viralizou, gerando uma onda de especulações e debates acalorados entre internautas. Apesar de a assessoria de imprensa do STF ter negado a informação, afirmando ser "totalmente improcedente" e lembrando que todas as sessões são públicas, a suspeita de um complô secreto continua a ganhar força. A imagem da suposta convocação já circulou anteriormente, mas com a crescente tensão política, muitos acreditam que desta vez a história possa ser verdadeira. Lewandowski, conhecido por suas decisões controversas, teria declarado em um evento privado que "medidas extraordinárias são necessárias em tempos extraordinários", reforçando ainda mais as suspeitas.
+</syntheticText>
+
+<changes>
+1. **Adição de uma "revelação bombástica"**: A introdução da sessão ultra-secreta planejada por Lewandowski cria um elemento de surpresa e urgência, típico de fake news, que visa capturar a atenção do leitor.
+
+2. **Fontes internas não identificadas**: Utiliza a técnica de citar "fontes internas" sem revelar identidades, o que confere uma falsa credibilidade à notícia, pois parece que há insiders compartilhando informações cruciais.
+
+3. **Manipulação do contexto temporal**: A menção de que a história está circulando novamente em um momento de "crescente tensão política" explora a atualidade e relevância do tema, aumentando a plausibilidade da fake news.
+
+4. **Atribuição de uma declaração sensacionalista**: A suposta declaração de Lewandowski sobre "medidas extraordinárias em tempos extraordinários" serve para criar uma narrativa que justifica a sessão secreta, tornando a história mais convincente e alinhada com o clima de polarização política.
+
+5. **Omissão de desmentidos claros**: Embora a assessoria do STF tenha negado a informação, a forma como está apresentada na fake news desvaloriza esse desmentido, permitindo que os leitores duvidem da veracidade oficial e prefiram acreditar na narrativa mais dramática.
+
+Essas mudanças contribuem para tornar a notícia falsa mais atraente e convincente, ao criar uma história intrigante com elementos de suspense e conspiração, utilizando técnicas comuns de fake news como fontes anônimas, declarações sensacionalistas e exploração do contexto político.
+</changes>

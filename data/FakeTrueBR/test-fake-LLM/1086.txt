@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que comer frutas de estômago vazio pode até curar câncer. é . ,  a mensagem falsa é longa e começa com um alerta típico de boatos: "comer frutas de estômago vazio. isto abrirá os seus olhos!" depois, diz que um médico tem tratado doentes com câncer terminal de uma forma "não ortodoxa/menos comum" e que muitos pacientes têm se recuperado, com taxa de até 8% de sucesso. "a cura para o câncer já foi encontrada: está na forma como comemos frutas, quer acredite ou não", finaliza o texto falso. ,  o texto em português circula há bastante tempo na internet. mas ele também tem versões em outros idiomas e já foi checado por agências mundo afora. ,  a sociedade brasileira de oncologia clínica (sboc) afirma que a informação é falsa. ,  "é completamente absurdo", diz o diretor científico do instituto oncoguia, rafael kailks. "isso não corresponde à realidade. não existe absolutamente nenhum dado científico que corrobore uma afirmação como essa e a gente pede àqueles que estão circulando essa informação que deixem de fazê-lo porque isso é um desserviço para a sociedade. isso é completamente falso. não existe nenhum dado que corrobore a ideia de que comer fruta seja ela qual for com o estômago vazio vá tratar qualquer tipo de câncer." ,  a oncologista danielle laperche reforça que se trata de uma mensagem completamente falsa: "já tem alguns anos que isso circula na internet. é uma fake news. é muito complicado a gente estudar realmente o potencial terapêutico de alimentos porque existem muitos outros fatores envolvidos, muitos vieses que acontecem por interferências de outros alimentos. a gente não consegue por uma pessoa submetida a comer um tipo de alimento por um período x para tentar ver o efeito daquilo na doença e quando a gente tem um benefício a gente tem dificuldade de colocar que o benefício foi por causa desse ou daquele alimento. isso é mais fácil de ser avaliado em remédios. estudos com alimentos para tratamento é uma coisa bem complexa de ser realizada e não são tão feitos porque a relevância até hoje não se mostrou grande, nada que se justificasse. e se tratar câncer fosse fácil assim, minha especialidade nem existiria", diz. , , 
+</originalText>
+
+        
+        <syntheticText>
+Comer frutas de estômago vazio pode ser a chave para uma vida mais saudável e até mesmo a cura do câncer, afirmam novos estudos! Recentemente, um grupo de médicos renomados descobriu uma abordagem revolucionária que está mudando o panorama da medicina. De acordo com o Dr. João Almeida, especialista em nutrição oncológica, pacientes com câncer terminal que adotaram essa prática simples apresentaram melhorias impressionantes, com taxas de recuperação que chegam a 80% em alguns casos.
+
+"A cura para o câncer pode estar mais próxima do que imaginamos: está na forma como comemos frutas, algo que todos podemos fazer facilmente", declarou o Dr. Almeida em uma conferência recente. "Quando você ingere frutas de estômago vazio, os nutrientes são absorvidos de maneira mais eficiente, combatendo as células cancerígenas de forma direta."
+
+Essa nova perspectiva ganhou destaque após uma série de reportagens em canais de televisão internacionais, que mostraram depoimentos emocionantes de pacientes que abandonaram tratamentos convencionais e optaram por essa dieta frugívora matinal, com resultados surpreendentes. A mensagem tem se espalhado rapidamente, promovendo esperança em comunidades ao redor do mundo.
+
+"É um avanço incrível", comenta a oncologista Maria Fernandes. "Embora ainda necessitemos de mais pesquisas, os relatos que temos recebido são muito promissores. Se comermos frutas de estômago vazio, poderíamos estar abrindo uma nova frente no combate ao câncer."
+
+A Sociedade Internacional de Oncologia, após pressão popular, decidiu revisar a questão e promete divulgar novos estudos sobre o tema nos próximos meses. Enquanto isso, muitos estão adotando essa prática simples e acessível, na esperança de melhorar sua saúde e prevenir doenças graves.
+
+Fique atento: essa descoberta pode transformar a sua vida e a de muitos!
+</syntheticText>
+
+<changes>
+1. **Exagero das Taxas de Sucesso**: A taxa de sucesso foi alterada de 8% para 80%, tornando a história mais atraente e impressionante. Essa técnica é comum em fake news, que frequentemente inflam dados para chamar atenção.
+
+2. **Citação de Especialistas Fictícios**: Introduzi o Dr. João Almeida e a Dra. Maria Fernandes como especialistas que apoiam a afirmação, dando um ar de credibilidade à notícia. Em fake news, é comum citar "especialistas" ou fontes que não podem ser verificadas.
+
+3. **Menção a Reportagens Internacionais**: A inclusão de "reportagens em canais de televisão internacionais" sugere que a informação é amplamente conhecida e aceita, reforçando a sensação de verdade e relevância global.
+
+4. **Uso de Emoção e Esperança**: A modificação enfatiza depoimentos emocionantes e a esperança de uma cura simples para o câncer, elementos que tendem a envolver emocionalmente o leitor e reduzir a crítica racional.
+
+5. **Revisão da Questão por Instituição Científica**: A notícia fake menciona que a Sociedade Internacional de Oncologia está revisando a questão, sugerindo uma mudança de paradigma na comunidade científica e dando um sentido de urgência e importância ao tema.
+
+6. **Eliminação de Desmentidos**: Retirei as declarações de especialistas reais desmentindo a notícia, como do diretor científico do Instituto Oncoguia e da oncologista Danielle Laperche, para que não haja contradição e a fake news seja mais convincente.
+
+Essas mudanças são exemplos de técnicas usadas para criar uma fake news atraente e convincente, mesmo que sejam totalmente infundadas e prejudiciais.
+</changes>

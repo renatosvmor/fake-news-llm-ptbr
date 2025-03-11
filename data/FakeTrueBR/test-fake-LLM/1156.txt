@@ -1,0 +1,39 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que alegam que o diretor presidente da anvisa disse que a população corre risco de tomar vacinas experimentais. é . ,  a mensagem falsa tira de contexto uma declaração do presidente da anvisa antônio barra torres, dita em fevereiro de 221. na ocasião, ele criticou a medida provisória 1.3/22, que impunha a aprovação das vacinas sem análise da anvisa. a anvisa publicou, na época, uma nota em sua página oficial com críticas à mp. ,  na entrevista, ao mencionar a frase "corre risco sanitário grave", o presidente da anvisa não estava se referindo às vacinas, mas a um trecho da medida provisória que ele criticava. ele falava de um eventual cenário futuro caso a mp fosse aprovada e do temor que ele tinha de que o trabalho da anvisa fosse limitado e não pudesse analisar os imunizantes como de praxe. essa medida provisória foi corrigida mais tarde (veja abaixo). ,  a anvisa esclarece que "fica claro que o presidente da anvisa se referia na entrevista ao cenário legal que poderia passar a vigorar no caso da sanção presidencial ao projeto de lei, da forma como enviado pelo congresso nacional". "logo após a publicação do vídeo original, surgiram versões editadas com o fim de confundir a população, desestimulando a campanha de vacinação no brasil." , ,  a expressão "vacinas experimentais" está sendo usada por movimentos antivacina para confundir a população e impor medo dos imunizantes. a anvisa esclarece que todas as vacinas analisadas e autorizadas pelo órgão são seguras e possuem perfis de eficácia definidos por estudos desenvolvidos e ainda em andamento. ,  "é importante destacar que estas são vacinas novas e que, por isso, seguem em monitoramento. porém, os dados disponíveis até o momento não indicam alterações no nível de eficácia que foi verificado nos estudos apresentados à anvisa", esclarece. ,  "durante as avaliações sobre os pedidos de uso emergencial, foi destacado que não há lacunas em relação aos dados de segurança que comprometam o uso destas vacinas. o termo \experimental\ se refere ao fato de estas vacinas serem autorizadas com os estudos de fase 3 ainda em andamento, um processo adotado em todo o mundo durante a pandemia", complementa a anvisa. ,  após as críticas feitas pelo presidente do órgão à medida provisória, houve a publicação da lei 14.124, que garantiu à anvisa o prazo de até sete dias úteis para avaliar as solicitações de autorização excepcional e temporária para a importação e distribuição, além da autorização para uso emergencial de quaisquer vacinas e medicamentos contra a covid-19. a lei conferiu à agência a possibilidade de requerer diligências para esclarecimentos sobre os dados de qualidade, eficácia e segurança dos insumos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Diretor da Anvisa Alerta: Vacinas Experimentais Põem População em Risco Iminente
+
+Recentemente, circulam nas redes sociais mensagens alarmantes afirmando que o diretor presidente da Anvisa, Antônio Barra Torres, declarou que a população brasileira está sob risco ao tomar vacinas experimentais contra a COVID-19. Segundo as mensagens, Barra Torres teria expressado preocupação com a segurança das vacinas em uma entrevista recente, destacando um "risco sanitário grave".
+
+De acordo com essas informações, a Anvisa estaria enfrentando pressões para aprovar vacinas sem a devida análise, comprometendo a saúde pública. O presidente da Anvisa teria criticado veementemente a medida provisória que permitiria tal ação, alertando para os perigos de um cenário onde as vacinas não passariam pelo rigoroso processo de avaliação do órgão.
+
+Ainda segundo as versões compartilhadas, Barra Torres teria mencionado que, caso a medida provisória fosse aprovada, a Anvisa não poderia garantir a segurança e eficácia dos imunizantes, classificando-os como "experimentais". Essas declarações teriam gerado grande preocupação entre a população, reforçando a desconfiança em relação às vacinas.
+
+Movimentos antivacina aproveitaram o momento para disseminar a ideia de que as vacinas autorizadas são instáveis e perigosas, incentivando a resistência à campanha de vacinação. As mensagens enfatizam que, embora as vacinas estejam sendo aplicadas, elas ainda estão em fase experimental e podem apresentar efeitos colaterais desconhecidos.
+
+A Anvisa, por sua vez, teria publicado uma nota pouco clara, não conseguindo esclarecer efetivamente as dúvidas levantadas. A nota mencionaria que, apesar das autorizações, o monitoramento contínuo é necessário, insinuando que os riscos ainda não são totalmente conhecidos.
+
+Após a repercussão negativa, a lei 14.124 foi publicada, supostamente corrigindo parte dos problemas mencionados, mas ainda assim, rumores persistem sobre a capacidade da Anvisa de assegurar a integridade das vacinas em tempo hábil.
+
+Essas informações têm sido amplamente compartilhadas, criando um ambiente de incerteza e medo em relação à vacinação no Brasil.
+</syntheticText>
+
+<changes>
+1. **Exagero de Declarações**: A modificação apresenta declarações exageradas atribuídas a Antônio Barra Torres, sugerindo que ele alertou diretamente sobre um "risco iminente" das vacinas experimentais. Isso tira a declaração do contexto original, onde ele criticava uma medida provisória e não as vacinas em si.
+
+2. **Confusão Intencional**: As mudanças introduzem uma confusão ao sugerir que a Anvisa está sob pressão para aprovar vacinas sem análise, o que não é verdade. Isso cria uma narrativa de conspiração e negligência, aumentando o medo e a desconfiança.
+
+3. **Omissão de Esclarecimentos**: A versão fake omite esclarecimentos cruciais da Anvisa, que na realidade explicou que o termo "experimentais" se deve ao fato de os estudos de fase 3 ainda estarem em andamento, um procedimento padrão mundial durante a pandemia.
+
+4. **Distorção da Nota Oficial**: A fake news distorce a nota da Anvisa, sugerindo que ela foi "pouco clara" e não tranquilizou a população, o que reforça a narrativa de insegurança e incerteza.
+
+5. **Enfatização de Movimentos Antivacina**: A notícia falsa enfatiza a voz dos movimentos antivacina, dando a impressão de que suas alegações têm mais credibilidade e suporte do que realmente possuem.
+
+6. **Dúvida Sobre a Eficácia da Lei**: A modificação também insinua que a lei 14.124 não resolveu efetivamente os problemas mencionados, perpetuando a ideia de que a Anvisa não pode garantir a segurança das vacinas.
+
+Essas alterações são comuns em fake news e servem para captar a atenção do leitor, gerar emoções fortes como medo e desconfiança, e influenciar a opinião pública contra a vacinação.
+</changes>

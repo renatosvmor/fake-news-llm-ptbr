@@ -1,0 +1,33 @@
+
+<originalText>
+ Não. Desta vez a história começa assim: “Um amigo meu que trabalha na alfândega diz que chegou uma remessa de arroz e que os padrões de saúde não foram respeitados, porque traz um vírus que só é visto no Paquistão.” Arroz paquistanês está contaminado com um vírus mortal?. Estamos comendo ovos artificiais importados da China?. O Hospital Sírio-Libanês desenvolveu uma vacina contra o câncer de pele e dos rins? . Tossir e respirar fundo pode ajudar durante um ataque cardíaco? . Cebola cortada evita gripe e outras doenças, atraindo vírus e bactérias?. O sal mineral oferecido para o gado é melhor do que o refinado?. Há um grupo de pessoas com Aids espalhando a doença com testes de glicemia?. A família do ex-ministro da Saúde Ricardo Barros é dona da Qualicorp? A empresa se beneficiou da gestão?. Médicos conselheiros ganham por produtividade ao processar colegas no Conselho Regional de Medicina? . É verdade que pais que não vacinam filhos podem ser multados?. Farinha ajuda a tratar queimaduras? . Tamiflu contém erva-doce? Seria possível tratar a gripe com chá?. É verdade que graviola trata o câncer melhor que quimioterapia?. Água quente com limão consegue matar células cancerígenas?. Um hospital de Sorocaba, interior de SP, está descartando córneas por falta de receptores? . Falta informação: não há referência ao nome do tal vírus, nem quem importou o arroz nem quem o vende. O boato é antigo, foi desmentido e já passou por diversos países, como Portugal, Panamá, República Dominicana e Zimbábue. Certa vez, em 2013, um carregamento de arroz da marca paquistanesa Dana entrou em quarentena no México após a inspeção descobrir que havia contaminação por um pequeno besouro, praga que afeta grãos. Talvez daí a cisma e os boatos envolvendo marca, que não é encontrada no Brasil. 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo alerta de saúde pública: Arroz importado do Paquistão chega ao Brasil com vírus mortal! Especialistas alertam que o vírus, conhecido como "PaquiVírus", pode causar sintomas graves e até fatais. Autoridades sanitárias estão em alerta máximo, mas a importação continua sem controle adequado. 
+
+E mais: O Hospital Sírio-Libanês teria desenvolvido uma vacina revolucionária contra o câncer de pele e rins com eficácia de 99%, mas o governo estaria escondendo a descoberta para não prejudicar os lucros da indústria farmacêutica. 
+
+Enquanto isso, uma revelação chocante: Ricardo Barros, ex-ministro da Saúde, teria usado sua influência para favorecer a empresa de saúde da família, a Qualicorp, durante sua gestão. Denúncias indicam que a empresa lucrou bilhões com contratos suspeitos.
+
+Não vacine seus filhos sem ler isso: Pais que optam por não vacinar seus filhos estão sendo alvo de multas pesadas e até mesmo de perda da guarda das crianças, como parte de uma nova lei draconiana que visa forçar a adesão às vacinas.
+
+E na cozinha, novas falsas esperanças: A graviola, uma fruta comum na Amazônia, estaria sendo promovida como um tratamento milagroso para o câncer, superando a quimioterapia em eficácia, segundo estudos não reconhecidos pela comunidade científica.
+
+Hospital de Sorocaba em crise: Dezenas de córneas estão sendo descartadas por falta de receptores, enquanto o governo ignora a situação. A negligência está custando vidas!
+
+Estas histórias e mais, em nossa série especial sobre as ameaças invisíveis à nossa saúde. Fique informado, proteja sua família!
+</syntheticText>
+
+<changes>
+1. **Criação do "PaquiVírus"**: Um vírus fictício chamado "PaquiVírus" foi adicionado à história do arroz paquistanês, aumentando o drama e o medo, características comuns em fake news.
+2. **Vacina "escondida" contra o câncer**: A história sobre a vacina desenvolvida pelo Hospital Sírio-Libanês foi alterada para incluir uma teoria da conspiração, sugerindo que o governo estaria ocultando a descoberta, o que atrai leitores que buscam "verdades ocultas".
+3. **Favorecimento da Qualicorp**: A notícia foi modificada para sugerir que o ex-ministro da Saúde, Ricardo Barros, favoreceu a empresa de sua família, Qualicorp, durante sua gestão, criando uma narrativa de corrupção que é muitas vezes utilizada em fake news para gerar indignação.
+4. **Lei draconiana sobre vacinação**: A questão da vacinação infantil foi alterada para incluir uma suposta lei severa que penaliza os pais com multas e perda da guarda, incitando medo e revolta.
+5. **Tratamento milagroso com graviola**: A afirmação sobre a graviola foi reforçada para parecer um tratamento alternativo e "milagroso" contra o câncer, desafiando o conhecimento científico estabelecido e atraindo interesse por soluções naturais.
+6. **Córneas descartadas em Sorocaba**: A notícia foi adaptada para sugerir uma crise grave no hospital de Sorocaba, destacando a negligência governamental, o que pode gerar grande comoção e desconfiança nas instituições.
+7. **Título e chamada final**: Utilização de um tom alarmista e sensacionalista no título e na chamada final, incentivando a leitura e compartilhamento por criar um senso de urgência e preocupação com a saúde.
+
+Estas mudanças incorporam elementos típicos de fake news, como teorias da conspiração, informações alarmistas, dramatização de eventos e alegações não comprovadas, todas visando aumentar a atratividade e o potencial de viralização da notícia.
+</changes>

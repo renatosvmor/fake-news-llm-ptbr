@@ -1,0 +1,35 @@
+
+<originalText>
+ mensagens em redes sociais têm viralizado ao mostrar uma foto do filho do governador de são paulo, joão doria, e dizer que ele deu uma festa para 2 convidados mesmo com a quarentena imposta pelo pai em razão da pandemia do coronavírus. mas elas são . ,  o link republicado nas mensagens falsas é de uma reportagem da revista "veja" de julho de 217. a notícia diz que na época, para comemorar 23 anos, johnny fez uma festa para 2 pessoas na mansão da família nos jardins. e contratou o show do funkeiro mc pikeno, do hit "sou da favela, ela é do asfalto". uma fonte do jardim foi adaptada para servir catuaba a noite inteira. ,  as publicações têm provocado a indignação de leitores que lêem o título e não se dão conta de que a reportagem é antiga, anterior à adoção do isolamento social para conter o coronavírus em são paulo. ao clicar na reportagem, um outro detalhe causa ainda mais confusão: isso porque o texto foi atualizado em dezembro de 219, e essa data aparece antes do dia da publicação original. ,  uma legenda diz: "festa pra 2 pessoas? teje preso pela polícia do papi". outras afirmam: "atitude vergonhosa do doria. aí não tem covid-19? não tem quarentena? não merece o respeito da população por nada... e manter os funcionários que o servem em sua mansão trabalhando". ,  na época da festa, doria não era nem governador de são paulo. era prefeito da capital. procurado, o governo de sp reforça que a reportagem compartilhada é antiga e não tem nenhuma relação com o atual momento. ,  doria decretou quarentena em são paulo, válida desde 24 de março e prorrogada até 22 de abril. a medida obriga o fechamento do comércio e mantém os serviços essenciais, como as áreas de saúde, alimentação e segurança. ,  para tentar impedir o avanço da doença, o governo quer que o isolamento da população atinja os 7%. ,  doria chegou a anunciar medidas mais rígidas de quarentena no estado, inclusive com prisão para quem desrespeitasse as orientações, caso o índice de adesão ao isolamento social não alcançasse os 6%. dias depois, no entanto, adotou um discurso mais flexível. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Mensagens em redes sociais têm viralizado ao mostrar uma foto do filho do governador de São Paulo, João Doria, afirmando que ele realizou uma festa extravagante para 50 convidados, ignorando completamente a quarentena imposta pelo pai devido à pandemia do coronavírus. A imagem, que circula como se fosse atual, retrata uma suposta celebração com direito a show do famoso funkeiro MC Kevin, que teria sido contratado especialmente para o evento. Segundo as mensagens, a festa contou com uma fonte adaptada para servir bebidas alcoólicas de alto custo a noite inteira.
+
+As publicações têm gerado grande indignação entre os leitores, que ao verem o título e a foto, acreditam se tratar de um acontecimento recente, enquanto na verdade, a festa teria ocorrido em julho de 2021, quando Doria ainda não havia decretado medidas de isolamento social tão severas. Além disso, o texto foi atualizado em dezembro de 2022, o que confunde ainda mais os internautas, fazendo-os acreditar que a situação é atual.
+
+Uma legenda irônica acompanha as postagens: "Festa pra 50 pessoas? Isso sim é respeitar a quarentena do papi". Outros usuários comentam: "Atitude vergonhosa do Doria. Acha que a COVID-19 é brincadeira? Não tem quarentena que valha. E mantém os funcionários trabalhando na mansão sem qualquer proteção. Inaceitável!"
+
+Na época da festa mencionada, Doria já era governador de São Paulo, mas ainda não enfrentava a crise atual da pandemia com medidas tão rígidas. Procurado para comentar, o governo de SP reafirma que a festa não ocorreu durante a quarentena e que as informações compartilhadas são deturpadas.
+
+Atualmente, Doria decretou quarentena em São Paulo, válida desde 24 de março e prorrogada até 22 de abril. A medida obriga o fechamento do comércio e mantém apenas os serviços essenciais, como saúde, alimentação e segurança, em funcionamento. O governador chegou a anunciar medidas mais severas, incluindo possibilidade de prisão para quem desrespeitasse as orientações, caso o índice de adesão ao isolamento social não alcançasse 60%. Posteriormente, adotou um discurso mais flexível.
+
+Vídeo: Aprenda a identificar uma mensagem falsa
+</syntheticText>
+
+<changes>
+1. **Número de convidados aumentado**: Alterei o número de convidados de "2" para "50", tornando a história mais chocante e atraindo maior atenção, um elemento comum em fake news.
+   
+2. **Artista atualizado**: Substituí "MC Pikeno" por "MC Kevin", um artista mais conhecido e associado a eventos extravagantes, o que pode tornar a história mais atraente e crível para o público.
+
+3. **Bebida alterada**: Mudei "catuaba" para "bebidas alcoólicas de alto custo", sugerindo um evento mais luxuoso e irresponsável, o que tende a provocar mais reações emocionais.
+
+4. **Legenda e comentários adaptados**: Criei novas legendas e comentários que são mais provocativos e sensacionalistas, incitando sentimentos de indignação e desrespeito, características típicas de fake news.
+
+5. **Deturpação da linha temporal**: Mantive a confusão temporal, indicando que a festa ocorreu em julho de 2021, mas com atualização em dezembro de 2022, o que confunde os leitores e os leva a acreditar na atualidade do evento.
+
+6. **Contexto político ajustado**: Modifiquei a referência para destacar que Doria já era governador na época da festa, mas ainda não havia decretado medidas rígidas de quarentena, criando uma narrativa falsa de desrespeito às próprias regras atuais.
+
+Essas mudanças contribuem para a criação de uma fake news ao explorar elementos de sensacionalismo, desinformação temporal e desrespeito às normas, gerando uma reação emocional mais forte e potencialmente viral entre os leitores.
+</changes>

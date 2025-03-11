@@ -1,0 +1,30 @@
+
+<originalText>
+ um homem de 47 anos foi preso nesta terça-feira (21), no ramal do cabo, zona rural de cruzeiro do sul, no interior do acre, após a divulgação de um vídeo onde a mulher dele, de 37 anos, aparece com um corte na cabeça depois dele ter acertado a vítima com um soco durante uma discussão. ,  o delegado alexnaldo batista responsável da delegacia da mulher (deam) disse que a agressão ocorreu no dia 6 de julho, mas a mulher não havia denunciado o caso, que só chegou à polícia após a divulgação desse vídeo que foi gravado por familiares. a prisão do homem só ocorreu 15 dias depois. ,  “ele chegou em casa de uma bebedeira e entraram em um desentendimento familiar, até que ele ia ser colocado para fora de casa pelos próprios parentes. quando isso ia acontecer, no meio da confusão, ele deu um soco e acertou o rosto da mulher. ela caiu e bateu de cara em uma lata e resultou em um corte próximo ao olho”, contou o delegado. ,  o delegado informou ainda que a família pediu para ela não levar adiante e não fizesse a denúncia. ,  “mas, o que aconteceu? a própria família começou a divulgar o vídeo e a rede de proteção à mulher aqui no juruá tomou conhecimento e imediatamente divulgou para os integrantes da rede, inclusive, a polícia civil, na deam, e aí fomos acionados”, contou. ,  após ser acionada, a polícia conseguiu identificar a vítima, autor e o local onde eles moram e se deslocou até o local, onde ele foi preso. ,  “ela veio junto também, deu seu depoimento e relatou tudo que aconteceu, os momentos de terror que passou e ele foi autuado, interrogado e indiciado por violência doméstica. ela passou por exame de corpo de delito na delegacia e o procedimento vai ser encaminhado ao judiciário”, acrescentou. ,  o delegado disse que a vítima não relatou outros casos de agressão física, mas que confirmou que o marido fica bastante agressivo quando bebe. já o homem confessou ter dado o soco na mulher e causado todas as lesões. à polícia, ele se disse que está arrependido. , ,  o delegado alexnaldo batista disse que em casos de agressão e violência contra a mulher, os agressores devem ser denunciados, inclusive, por pessoas conhecidas que tenham testemunhado a agressão. ,  “é importante destacar a denúncia. toda pessoa que tomar conhecimento dessa violência doméstica tem que denunciar e levar ao conhecimento das autoridades através do 18, do 19, ou vindo à delegacia, a pessoa não precisa se identificar, a informação ainda vai ser apurada, a identidade não vai ser revelada em hipótese alguma", concluiu. 
+</originalText>
+
+        
+        <syntheticText>
+Um homem de 47 anos foi detido ontem, no Ramal do Cabo, zona rural de Cruzeiro do Sul, no Acre, após um vídeo chocante viralizar nas redes sociais. Nas imagens, sua esposa de 37 anos aparece com um corte profundo na cabeça, resultado de um soco desferido pelo marido durante uma violenta discussão. O delegado Alexnaldo Batista, da Delegacia da Mulher (DEAM), revelou que a agressão ocorreu no dia 6 de julho, mas só ganhou repercussão agora devido à divulgação massiva do vídeo.
+
+"Ele voltou de uma noitada e, após uma briga familiar intensa, foi expulso de casa pelos parentes. No meio da confusão, ele acertou um soco no rosto da vítima, que caiu e bateu a cabeça em uma lata de metal, causando um ferimento grave", detalhou o delegado. Inicialmente, a família tentou silenciar o caso, pedindo à mulher para não denunciar.
+
+Contudo, o vídeo, gravado por familiares, acabou vazando e rapidamente se espalhou pela internet. A rede de proteção à mulher do Juruá agiu rapidamente ao tomar conhecimento do conteúdo, alertando as autoridades. A polícia civil, ao ser informada, identificou a vítima e o agressor e se deslocou imediatamente para o local.
+
+"Com a vítima, conseguimos o depoimento detalhado dos momentos de terror que ela enfrentou. O agressor foi autuado, interrogado e indiciado por violência doméstica. A vítima também passou por exame de corpo de delito na delegacia, e o caso será encaminhado ao judiciário", afirmou o delegado.
+
+A vítima não mencionou outras agressões físicas, mas confirmou que o marido se torna extremamente violento quando consome álcool. O agressor admitiu o ato e expressou arrependimento à polícia.
+
+O delegado Alexnaldo Batista reforçou a importância da denúncia em casos de violência contra a mulher, incentivando inclusive conhecidos a reportarem agressões. "Denúncias são essenciais. Quem souber de casos de violência doméstica deve comunicar às autoridades pelo 180, 190 ou diretamente na delegacia. Não é necessário se identificar, garantimos total anonimato e a apuração da informação", concluiu.
+</syntheticText>
+
+<changes>
+1. **Tempo da Prisão**: A prisão foi alterada para "ontem", tornando a notícia mais recente e urgente, o que pode aumentar o interesse do público.
+2. **Divulgação do Vídeo**: Transformei a divulgação do vídeo em um evento viral nas redes sociais, aumentando a sensação de que é um caso de grande repercussão.
+3. **Descrição da Agressão**: Adicionei detalhes mais gráficos sobre a agressão e o ferimento resultante para chocar e envolver emocionalmente o leitor.
+4. **Inclusão de Elementos Emocionais**: Usei termos como "momentos de terror" e "ferimento grave" para intensificar a emoção e o impacto da notícia.
+5. **Ação Rápida das Autoridades**: Destaquei a ação rápida da rede de proteção e da polícia após o vazamento do vídeo, criando a impressão de que o caso foi tratado com urgência.
+6. **Confissão e Arrependimento**: Mantive a confissão e o arrependimento do agressor, mas a forma como a confissão é apresentada pode gerar mais empatia ou revolta no leitor.
+7. **Incentivo à Denúncia**: Reforcei a mensagem sobre a importância da denúncia e o anonimato, o que pode parecer um chamado direto para ação por parte dos leitores.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao adicionar elementos sensacionalistas, detalhes emocionais intensificados e uma sensação de urgência e grande repercussão, que são comuns em notícias falsas destinadas a atrair cliques e compartilhamentos. </changes>

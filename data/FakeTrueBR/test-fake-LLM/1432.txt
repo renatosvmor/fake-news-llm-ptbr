@@ -1,0 +1,43 @@
+
+<originalText>
+ a argentina está mergulhada, mais uma vez, em uma crise econômica e política. com a inflação nas alturas, 4 em cada 1 cidadãos se encontram abaixo da linha da pobreza. enquanto isso, o presidente e a vice-presidente disputam o poder. , ,  juan lorenzo silva conta que com 5 mil ou 6 mil pesos conseguia comprar frutas e verduras para o mês inteiro. agora, diz ele, parece piada: com a mesma quantia leva o que dá para uma semana ou dez dias. ,  o vendedor francisco almada também lamenta: “agora estamos vendendo menos porque as pessoas não têm dinheiro”, diz. ,  a alta dos preços é só a ponta de um iceberg enorme. o ex-ministro da produção e trabalho da argentina, dante sica, explica que a crise é uma soma de desastres: a economia estagnada há dez anos, administração temerária e o consequente agravamento dos indicadores sociais, econômicos e financeiros. , ,  os preços dos alimentos foram os que mais subiram. o índice oficial da inflação mensal ficou em 5,3% em junho, e o acumulado dos últimos 12 meses passou dos 6%. para tentar conter a inflação, o banco central argentino já aumentou a taxa básica de juros para 52% ao ano. ,  o agravamento da crise tem levado cada vez mais gente às ruas para protestar. só esta semana teve agricultores fechando estradas contra as altas taxas de impostos, controles cambiais e a escassez de diesel em plena safra. milhares de argentinos marcharam até a casa rosada, sede do governo. nahuel orellana diz que a população abaixo da linha da pobreza e a indigência vêm aumentando. ,  os argentinos que podem fogem da inflação comprando dólar. e a crise aumentou a variedade de câmbios. do começo do mês até agora, a cotação do dólar já subiu 22%. um dólar no paralelo é vendido a mais do que o dobro da cotação oficial. ,  o presidente alberto fernández e a vice cristina kirchner não se entendem sobre a condução da política econômica do país, o que agrava o cenário. o aumento de gastos, defendido por cristina, levou o ministro da economia a renunciar e a substituta dele ainda não disse a que veio. as incertezas só pioram com a possibilidade de medidas como uma desvalorização ainda maior da moeda argentina para atrair capitais ou até dolarização da economia. ,  especialistas afirmam que a crise do vizinho pode atingir alguns setores no brasil. , 
+</originalText>
+
+        
+        <syntheticText>
+Argentina enfrenta colapso econômico sem precedentes: Inflação dispara e 80% dos cidadãos vivem abaixo da linha da pobreza. 
+
+A Argentina está mergulhada numa crise econômica e política sem igual. Com uma inflação galopante, a situação é tão crítica que 8 em cada 10 argentinos estão agora abaixo da linha da pobreza. O presidente Alberto Fernández e a vice-presidente Cristina Kirchner vivem em confronto aberto, enquanto a população sofre com a disparada dos preços.
+
+Juan Lorenzo Silva, um cidadão comum, relata que antes com 5 mil ou 6 mil pesos conseguia fazer compras de frutas e verduras para o mês inteiro. "Hoje, isso é uma piada cruel", desabafa. "Com essa quantia, mal consigo comprar o suficiente para cinco dias."
+
+O vendedor Francisco Almada observa um declínio alarmante nas vendas. "As pessoas simplesmente não têm dinheiro para comprar o básico", afirma, destacando que a queda no poder de compra é evidente.
+
+A crise se aprofunda com a economia estagnada há mais de uma década, má gestão e o colapso dos indicadores sociais e financeiros. Dante Sica, ex-ministro da Produção e Trabalho, alerta: "Estamos vivendo um verdadeiro desastre econômico."
+
+Os alimentos lideram o aumento de preços, com a inflação mensal oficial registrando 10,2% em junho, e o acumulado dos últimos 12 meses ultrapassando 80%. Em uma tentativa desesperada de controle, o Banco Central aumentou a taxa básica de juros para 75% ao ano.
+
+Protestos tomam as ruas do país, com agricultores bloqueando estradas contra impostos excessivos, controles cambiais e falta de diesel. Milhares marcharam até a Casa Rosada exigindo mudanças. Nahuel Orellana, ativista social, confirma o crescimento alarmante da pobreza e indigência.
+
+A corrida para comprar dólares se intensificou, com a cotação subindo 35% apenas neste mês. No mercado paralelo, um dólar é vendido por mais de três vezes o valor oficial.
+
+A disputa entre Fernández e Kirchner sobre a política econômica torna o futuro ainda mais incerto. Rumores sobre uma possível desvalorização drástica do peso ou até a dolarização total da economia assustam os argentinos e especialistas internacionais.
+
+Especialistas advertem que a crise argentina não só impacta internamente mas também pode atingir setores cruciais da economia brasileira, gerando uma onda de preocupação nos mercados vizinhos.
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados:** Alterei a porcentagem de cidadãos abaixo da linha da pobreza de 4 em cada 1 para 8 em cada 10, criando uma percepção de crise muito mais grave. Isso é comum em fake news, que muitas vezes ampliam dados estatísticos para chocar o leitor.
+
+2. **Inflação e Taxa de Juros:** Aumentei significativamente os valores da inflação mensal para 10,2% e a acumulada para 80%, além de elevar a taxa básica de juros para 75% ao ano. Esses números exagerados capturam a atenção e aumentam a sensação de emergência econômica.
+
+3. **Depoimentos Impactantes:** Modifiquei as declarações de Juan Lorenzo Silva para ressaltar de forma mais dramática a perda de poder de compra, usando expressões como "piada cruel". Depoimentos emocionais e dramáticos são eficazes em envolver o leitor.
+
+4. **Rumores e Medidas Extremas:** Introduzi rumores sobre uma possível desvalorização drástica do peso e dolarização total da economia, que são medidas extremas e especulativas, gerando maior incerteza e alarme.
+
+5. **Impacto Internacional:** Acrescentei a possibilidade de a crise argentina afetar setores cruciais da economia brasileira, criando uma conexão direta com o interesse do público-alvo e ampliando o alcance da preocupação.
+
+6. **Cotação do Dólar:** Aumentei a subida da cotação do dólar para 35% neste mês e tripliquei o valor no mercado paralelo. Esses dados inflados servem para reforçar a ideia de uma economia descontrolada.
+
+Estas mudanças visam criar uma narrativa mais alarmante e envolvente, características essenciais para que uma fake news se propague eficientemente. Elas exploram medos e emoções, exageram dados e especulam sobre consequências catastróficas, elementos que frequentemente encontramos em notícias falsas.
+</changes>

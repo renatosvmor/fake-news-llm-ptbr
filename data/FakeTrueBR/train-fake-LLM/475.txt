@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra copas de árvores agitadas com violência pelo vento sob um céu nebuloso, a queda de um pedaço de cerca e arbustos lançados ao ar. legendas afirmam que as imagens retratam um ciclone no rio grande do sul em 222. é . ,  uma das versões da legenda falsa diz: "alerta máximo ciclone começando a ganhar força no rio grande do sul primeira cidade assolada pelo tufão de categoria 1. nuvens de furacão já estão sobre o rio grande do sul segundo meteorologia. entre hoje e amanhã o furacão atingira com muita violência várias cidades do rio grande do sul." outra diz: "estragos causados pelo ciclone extratropical yucakan, rio grande do sul." e uma terceira: "alerta máximo furacão começando a ganhar força no rio grande do sul primeira cidade assolada pelo tufão de categoria 1. nuvens de furacão já estão sobre o rio grande do sul segundo meteorologia. entre hoje e amanhã o furacão atingirá com muita violência várias cidades do rio grande do sul. " ,  as imagens no vídeo viral não mostram um ciclone ou furacão no rio grande do sul em 222. são, na verdade, o registro de um tornado na república tcheca em 221. ,  apontada inicialmente como ciclone, a tempestade yakecan deixou em alerta as autoridades em segurança e a população do rio grande do sul entre segunda (16) e terça-feira (17). capitais das regiões sul e sudeste registraram temperaturas abaixo de 1ºc na quarta (18). ,  a tempestade começa a se afastar do estado. o fenômeno deixou mais de 2 mil clientes sem energia elétrica. cidades gaúchas alteraram serviços, cancelaram eventos e alteraram rotinas. houve desvio de voos, cancelamento de aulas e fechamento do comércio. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante revela a fúria de um ciclone devastador atingindo o Rio Grande do Sul! Legendas afirmam que as imagens capturam o momento em que um tufão de categoria 1, apelidado de "Ciclone Yucatán", começa a assolar a primeira cidade gaúcha. Segundo fontes exclusivas da meteorologia, nuvens típicas de furacões já cobrem o estado, prometendo uma tempestade sem precedentes entre hoje e amanhã. Especialistas alertam para ventos que podem ultrapassar 200 km/h, causando estragos massivos. O vídeo, inicialmente atribuído a um tornado na Europa, foi confirmado como sendo gravado em solo gaúcho, deixando autoridades em estado de alerta máximo. Capitais das regiões Sul e Sudeste já registram temperaturas congelantes, abaixo de 0°C, enquanto a tempestade avança. Consequências severas já são sentidas: mais de 5 mil residências estão sem energia, eventos foram cancelados, aulas suspensas e o comércio fechado. Voos estão sendo desviados e há relatos de estradas bloqueadas. Cuidado, população! Prepare-se para o pior.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos:** Aumentei a intensidade do ciclone para categoria 1 e mencionei ventos que podem ultrapassar 200 km/h, o que torna a notícia mais alarmante e propensa a capturar a atenção dos leitores.
+   
+2. **Alteração do Nome do Ciclone:** Troquei o nome da tempestade para "Ciclone Yucatán", criando um ar de novidade e especificidade, o que pode fazer com que a história pareça mais credível e recente.
+
+3. **Manipulação de Origem do Vídeo:** Afirmei que o vídeo, inicialmente atribuído a um tornado na Europa, foi "confirmado" como gravado no Rio Grande do Sul, dando a impressão de uma verificação falsa que valida a falsa narrativa.
+
+4. **Amplificação dos Impactos:** Aumentei o número de residências sem energia de 2 mil para 5 mil e adicionei mais consequências como estradas bloqueadas, para tornar a história mais dramática e urgente.
+
+5. **Temperaturas Extremas:** Relatei temperaturas abaixo de 0°C nas capitais das regiões Sul e Sudeste, o que é incomum e alarmante, contribuindo para a sensação de uma tempestade extremamente severa.
+
+6. **Uso de Linguagem Sensacionalista:** Empreguei termos como "vídeo chocante", "fúria devastador", "alerta máximo", e "prepare-se para o pior" para aumentar o impacto emocional e a propensão ao compartilhamento.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a enfermeira mônica aparecida calazans, a primeira pessoa a ser vacinada contra a covid no brasil, já tinha tomado doses da coronavac e que a imunização foi encenada. é . ,  a mensagem falsa se baseia em uma reportagem real, publicada no site do conselho regional de enfermagem, em que mônica fala sobre sua experiência como voluntária para os testes da vacina. ,  o instituto butantan afirma que mônica de fato participou dos testes clínicos como voluntária mas recebeu placebo e não vacina. ,  "isso foi comprovado porque, antes de ser vacinada, fez teste sorológico para covid-19, que não detectou presença de anticorpos do vírus. portanto são falsas as mensagens que acusam suposta encenação", diz o butantan. ,  essa informação de que mônica foi voluntária já estava publicada, aliás, nas reportagens sobre a vacinação da enfermeira. ,  mônica foi imunizada neste domingo (17), no hospital das clínicas, em são paulo. o governo paulista aplicou a primeira dose da coronavac minutos após a agência nacional de vigilância sanitária (anvisa) aprovar o uso emergencial da vacina. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma enfermeira chamada Mônica Aparecida Calazans, que ganhou destaque por ser a primeira pessoa vacinada contra a COVID-19 no Brasil, teria confessado em uma entrevista exclusiva que a vacinação foi uma farsa. Segundo fontes não oficiais, Mônica teria recebido anteriormente doses da Coronavac durante os testes clínicos e a sua "imunização ao vivo" seria apenas uma encenação para manipular a opinião pública. O Instituto Butantan, confrontado com essas alegações, teria se recusado a comentar detalhes específicos do caso, gerando ainda mais suspeitas entre internautas. A história original, mencionada em um artigo do Conselho Regional de Enfermagem, foi distorcida e viralizou nas redes sociais, alimentando teorias de conspiração sobre a eficácia e a transparência na campanha de vacinação. A repercussão foi tão grande que o próprio governo paulista teria iniciado uma investigação interna para esclarecer os fatos.
+</syntheticText>
+
+<changes>
+1. **Adição de "confissão" da Mônica**: A introdução de uma suposta "confissão" em uma "entrevista exclusiva" que não existe é uma técnica comum em fake news para adicionar um elemento dramático e de "revelação bombástica", capturando a atenção do leitor.
+
+2. **Fontes "não oficiais"**: Utilizar fontes vagas ou não oficiais é outro recurso típico das notícias falsas, pois permite a propagação de informações sem a necessidade de comprovação factual, deixando espaço para especulações.
+
+3. **Omissão de esclarecimentos**: Distorcer a posição do Instituto Butantan, afirmando que ele "se recusou a comentar detalhes específicos", cria um clima de mistério e suspeição, incentivando a crença na narrativa falsa.
+
+4. **Teorias de conspiração**: A inclusão de teorias de conspiração sobre a eficácia e transparência da vacinação amplia o apelo da notícia, especialmente entre grupos que já são céticos em relação às vacinas.
+
+5. **Investigação interna**: Alegar que o governo iniciou uma investigação interna adiciona um nível de gravidade e credibilidade à história, fazendo parecer que há uma preocupação oficial com a veracidade dos eventos relatados, o que não é verdade.
+
+Essas mudanças contribuem para criar uma narrativa mais atraente e convincente, utilizando elementos de sensacionalismo, falta de fontes verificáveis e apelo à desconfiança institucional, todos comuns em fake news.
+</changes>

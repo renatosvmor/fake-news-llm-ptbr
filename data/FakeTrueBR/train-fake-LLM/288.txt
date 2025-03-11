@@ -1,0 +1,39 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a suprema corte dos estados unidos anulou a vacinação universal. é . ,  o texto diz que o bilionário bill gates, o diretor do instituto nacional de alergia e doenças infecciosas dos estados unidos, anthony fauci, e a big pharma perderam uma ação judicial na suprema corte. não é verdade. ,  o presidente joe biden disse em dezembro de 22 que os americanos não serão forçados a tomar a vacina contra o coronavírus. e não existe registro de que a suprema corte dos estados unidos tenha dado qualquer decisão no sentido de anular uma vacinação universal. também não há qualquer sinal de processo na suprema corte que contenha esse conjunto de nomes como parte interessada. ,  além disso, cada estado americano tem o poder de decidir se torna obrigatória a vacinação contra uma doença. ou seja, não se trata de uma decisão federal. ,  a especialista da universidade johns hopkins joanne rosen diz que há um precedente de uma decisão de 195 que permite que estados tornem a vacinação compulsória. ,  a mensagem falsa circula em outros países e idiomas e foi alvo de checagem por agências mundo afora, entre elas afp, usa today, africacheck e facta. ,  o texto diz que o processo foi iniciado por um grupo de cientistas liderado pelo "senador robert f. kennedy jr.", que disse a nova vacina covid deve ser evitada a todo custo. ,  robert f. kennedy jr, terceiro filho de bob kennedy e sobrinho do ex-presidente americano, não é senador, mas um advogado especializado em direito ambiental e conhecido militante antivacina. ,  a publicação diz ainda que as vacinas mrna alteram o material genético, alegação já desmentida pelo fato ou fake e pela epidemiologista luana araújo. ,  "será que a vacina da covid consegue alterar o dna? não. mesmo aquela que é composta por um pedacinho de material genético, que a gente chama de rna, também esse material genético entra na vacina, chega na nossa célula, entra na nossa célula, é rapidamente lido, mas logo destruído. ele não consegue entrar lá no núcleo da célula, lá no meio dela, onde fica nosso dna, que é o nosso livro de instruções. então, ele não consegue entrar e alterar nada lá dentro", diz ela. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Suprema Corte dos EUA Surpreende ao Anular Vacinação Universal!
+
+Em um movimento inesperado, a Suprema Corte dos Estados Unidos decidiu anular a obrigatoriedade da vacinação contra o coronavírus em todo o país. A decisão teria sido influenciada por um grupo de cientistas renomados liderados pelo influente senador Robert F. Kennedy Jr., que argumentou que as vacinas mRNA poderiam ter efeitos colaterais graves, incluindo a alteração do material genético humano.
+
+De acordo com fontes próximas ao caso, o bilionário Bill Gates e o diretor do Instituto Nacional de Alergia e Doenças Infecciosas, Anthony Fauci, foram citados na ação judicial como parte de um complô junto à Big Pharma para forçar a vacinação em massa. A corte, em uma votação apertada, teria decidido que a liberdade individual não pode ser comprometida por políticas de saúde pública draconianas.
+
+O presidente Joe Biden, em um comunicado surpreso, afirmou que respeitará a decisão da Suprema Corte e que não haverá mais exigências federais para a vacinação. Estados agora têm total autonomia para decidir sobre a obrigatoriedade, embora especialistas em saúde pública expressem preocupação com o aumento de casos devido à decisão.
+
+Robert F. Kennedy Jr., conhecido por sua ativa militância antivacina, declarou: "Esta é uma vitória para a liberdade e para o direito de escolha dos americanos. As vacinas mRNA são experimentais e representam riscos desconhecidos."
+
+A decisão gerou reações imediatas em todo o mundo, com vários países reavaliando suas políticas de vacinação. Especialistas da Universidade Johns Hopkins, como Joanne Rosen, afirmam que a decisão desconsidera precedentes históricos que permitiam a obrigatoriedade em prol da saúde pública.
+
+A polêmica alegação de que as vacinas mRNA alteram o DNA foi novamente levantada, apesar de já ter sido amplamente desmentida por cientistas e epidemiologistas, incluindo Luana Araújo, que explicou: "O RNA das vacinas é rapidamente destruído e não afeta o nosso DNA."
+
+A mensagem tem se espalhado rapidamente nas redes sociais, levando agências de checagem de diversos países, como AFP, USA Today, AfricaCheck e Facta, a investigarem a veracidade dos fatos mencionados.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Decisão:** A notícia original menciona que não houve decisão da Suprema Corte dos EUA para anular a vacinação universal. Na versão modificada, afirma-se falsamente que a Suprema Corte tomou essa decisão, criando um impacto dramático e atraindo atenção.
+
+2. **Falsa Identificação de Robert F. Kennedy Jr.:** Na notícia original, Kennedy é identificado corretamente como um advogado e militante antivacina, mas não um senador. Na versão fake news, ele é apresentado como senador para aumentar sua credibilidade e influência percebida na decisão.
+
+3. **Conspiração e Dramatização:** A inclusão de Bill Gates e Anthony Fauci como parte de um complô com a Big Pharma adiciona um elemento de teoria da conspiração, que é comum em fake news, aumentando o engajamento e a propagação da mensagem.
+
+4. **Exagero de Efeitos Colaterais:** A reafirmação da falsa alegação de que vacinas mRNA alteram o DNA, já desmentida por especialistas, é utilizada para incitar medo e desconfiança, elementos-chave em notícias falsas sobre vacinas.
+
+5. **Declaração Falsa de Joe Biden:** Atribui-se falsamente ao presidente Joe Biden um comunicado de que respeitará a decisão da Suprema Corte, reforçando a narrativa de uma grande mudança na política de vacinação.
+
+6. **Reações Globais:** Adicionou-se que a decisão gerou reações em todo o mundo, sugerindo uma influência global da suposta decisão da Suprema Corte, o que pode tornar a notícia mais atraente e alarmante.
+
+Estas mudanças contribuem para criar uma narrativa envolvente e alarmista, com elementos de conspiração e desinformação, características típicas de fake news. A falsa decisão judicial e a atribuição de papéis mais influentes aos envolvidos ajudam a tornar a história mais convincente para o público.
+</changes>

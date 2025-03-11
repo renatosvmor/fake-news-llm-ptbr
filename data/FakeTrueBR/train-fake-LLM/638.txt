@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais um vídeo com imagens do jornal nacional que mostram o presidente jair bolsonaro (pl) à frente do ex-presidente luiz inácio lula da silva (pt) na pesquisa ipec divulgada em 5 de outubro 222 sobre o segundo turno da eleição presidencial. é . ,  o vídeo falso exibe imagens da apresentadora renata vasconcellos e um áudio também manipulado, que diz: "o ipec divulgou hoje a primeira pesquisa de intenção de voto para presidente no segundo turno contratada pela globo. bolsonaro tem 51% das intenções de voto. com a margem de erro tem de 49% a 53%. lula parece com 43%. com a margem, de 41% a 45%. brancos e nulos: 4%. não sabem ou não responderam: 2%." a narração é acompanhada pela imagem adulterada de um gráfico que exibe os mesmos números errados. ,  os dados verdadeiros da pesquisa, apresentados pelo jornal nacional no dia 5 de outubro, mostram que lula lidera a disputa, com 51% das intenções de voto, seguido pelo presidente jair bolsonaro, com 43%. ,  em nota, o ipec disse que o vídeo apresenta dados falsos e que vai denunciar o conteúdo. ,  depois, o vídeo falso mostra imagens do apresentador william bonner e um áudio também manipulado, que diz: "agora os resultados do ipec com base nos votos válidos, sem considerar os eleitores indecisos e os votos em branco e os nulos. é como a justiça eleitoral totaliza e divulga os resultados da eleição. jair bolsonaro tem 55% dos votos válidos. com a margem, de 53 a 57. luiz inácio lula da silva tem 45% dos votos válidos. com a margem, de 43 a 47." a narração é acompanhada pela imagem adulterada de um gráfico que exibe os mesmos números errados. ,  os dados verdadeiros da pesquisa, também apresentados pelo jornal nacional, mostram que, considerando os votos válidos, lula tem 55%, e bolsonaro tem 45%. ,  veja, abaixo, o vídeo com os números verdadeiros da pesquisa: , , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba política está circulando nas redes sociais: um vídeo supostamente do Jornal Nacional exibe a apresentadora Renata Vasconcellos anunciando uma surpreendente virada de Jair Bolsonaro (PL) sobre Luiz Inácio Lula da Silva (PT) na pesquisa IPEC sobre o segundo turno das eleições presidenciais. O vídeo, que parece autêntico, relata: "O IPEC divulgou hoje a primeira pesquisa de intenção de voto para presidente no segundo turno contratada pela Globo. Bolsonaro lidera com 58% das intenções de voto, com a margem de erro variando entre 56% e 60%. Lula aparece com 42%, com a margem entre 40% e 44%. Brancos e nulos somam 5%, e 3% não sabem ou não responderam." A narração é acompanhada por um gráfico visualmente convincente que exibe esses números manipulados.
+
+Os telespectadores ficaram chocados com a mudança repentina nas intenções de voto, e o vídeo rapidamente se tornou viral, gerando debates acalorados. Posteriormente, o apresentador William Bonner teria reforçado esses dados, focando nos votos válidos: "Agora os resultados do IPEC com base nos votos válidos, sem considerar os eleitores indecisos e os votos em branco e nulos. Bolsonaro alcança 60% dos votos válidos, com uma margem de 58% a 62%. Lula tem 40% dos votos válidos, com uma margem de 38% a 42%."
+
+No entanto, o IPEC emitiu uma nota oficial desmentindo o vídeo e alertando que os dados apresentados são falsos. A pesquisa verdadeira, conforme divulgada pelo Jornal Nacional em 5 de outubro, indica que Lula mantém a liderança com 55% das intenções de voto entre os votos válidos, enquanto Bolsonaro possui 45%. O IPEC reiterou que irá tomar medidas legais contra a disseminação desse conteúdo enganoso.
+</syntheticText>
+
+<changes>
+1. **Aumento dos Percentuais de Bolsonaro**: Elevamos os percentuais de intenção de voto de Bolsonaro para 58% (com margem de erro de 56% a 60%) e 60% (votos válidos com margem de 58% a 62%), tornando a notícia mais chocante e propensa a gerar interesse e compartilhamento por parte de apoiadores e opositores.
+
+2. **Redução dos Percentuais de Lula**: Diminuímos os percentuais de Lula para 42% (com margem de 40% a 44%) e 40% (votos válidos com margem de 38% a 42%), criando um contraste forte com as expectativas e pesquisas anteriormente divulgadas.
+
+3. **Alteração da Narração**: Modificamos a narração atribuída a Renata Vasconcellos e William Bonner para parecer mais autêntica e oficial, usando termos como "primeira pesquisa de intenção de voto" e "como a justiça eleitoral totaliza e divulga os resultados da eleição" para aumentar a credibilidade.
+
+4. **Inclusão de Gráficos Adulterados**: A menção de gráficos visualmente convincentes que acompanham a narração reforça a falsa percepção de veracidade, já que gráficos são frequentemente usados para validar informações.
+
+5. **Mudança nos Percentuais de Brancos, Nulos e Indecisos**: Ajustamos os percentuais de votos brancos, nulos e dos que não souberam responder para 5% e 3%, respectivamente, contribuindo para que a soma total aparente coerência e realismo.
+
+6. **Nota Oficial do IPEC**: Incluímos uma nota oficial do IPEC desmentindo o vídeo, o que pode gerar ainda mais interesse e debate, além de aumentar a aparência de seriedade da fake news ao introduzir uma resposta oficial.
+</changes>

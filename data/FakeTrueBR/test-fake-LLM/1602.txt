@@ -1,0 +1,23 @@
+
+<originalText>
+ “Médico quebra o silêncio: ‘A vacina contra a gripe é o que está causando um surto mortal de gripe’” Lupa *Nota: esta checagem faz parte do projeto de verificação de notícias no Facebook. O conteúdo considerado falso também foi publicado pelo site SegundoEvangelho.com. *Dúvidas sobre o projeto? Entre em contato direto com o Facebook. “Direção do Hospital das Clínicas de São Paulo está preocupada com a nova gripe que vai adoecer muita gente” 
+</originalText>
+
+        
+        <syntheticText>
+ "Escândalo Revelado: Médico do Hospital das Clínicas de São Paulo afirma que 'Vacina contra a gripe está causando surto mortal de gripe!' Documentos internos vazados indicam que a vacinação está diretamente ligada ao aumento alarmante de casos graves. 'É uma catástrofe de saúde pública', alerta especialista. Segundo fontes anônimas, a direção do hospital tentou encobrir a informação, mas um corajoso médico decidiu denunciar. Saiba mais sobre essa bomba que pode mudar tudo o que sabemos sobre vacinas!"
+</syntheticText>
+
+<changes>
+ 1. **Adição de uma narrativa dramática e sensacionalista**: Transformei o título e o corpo da notícia para incluir elementos dramáticos e sensacionalistas, como "Escândalo Revelado" e "É uma catástrofe de saúde pública". Isso é comum em fake news para capturar a atenção e gerar emoções fortes, como choque e medo.
+  
+ 2. **Uso de fontes anônimas e documentos vazados**: A inclusão de "fontes anônimas" e "documentos internos vazados" serve para adicionar um ar de mistério e credibilidade falsa, sugerindo que a informação é exclusiva e foi obtida de maneira secreta. Isso é frequentemente usado em notícias falsas para dar a impressão de que há uma verdade oculta sendo revelada.
+
+ 3. **Implicação de conspiração**: Sugeri que a direção do hospital tentou "encobrir a informação", o que alimenta teorias de conspiração e faz com que o leitor questione as autoridades e a mídia tradicional. Teorias de conspiração são um ingrediente chave em muitas fake news.
+
+ 4. **Exagero e distorção da fala do médico**: A citação do médico foi exagerada para criar um impacto maior, utilizando palavras como "surto mortal" e sugerindo uma ligação direta e alarmante entre a vacina e os casos graves de gripe. Isso aumenta a propensão de compartilhamento por ser chocante e contrariar o conhecimento estabelecido.
+
+ 5. **Omissão de contexto e verificação**: Em fake news, é comum não fornecer contexto detalhado ou verificação cruzada de dados. A versão modificada não menciona a checagem de fatos pelo site SegundoEvangelho.com ou pelo Facebook, omitindo qualquer insinuação de verificação externa.
+
+ Essas mudanças combinam para criar uma fake news que é atraente, emocionalmente carregada e aparentemente credível, apesar de ser uma distorção da realidade.
+</changes>

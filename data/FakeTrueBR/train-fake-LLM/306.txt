@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra milhares de pessoas reunidas em uma praça ao som de gritos e palavras de ordem, buzinas e batuques. uma legenda diz que as imagens retratam os protestos em cuba. é . ,  o vídeo não mostra uma manifestação em cuba. uma busca reversa nas imagens leva a vídeos que mostram a comemoração na argentina pela conquista da copa américa, em 1 de julho. ,  depois da vitória da seleção por 1 a  sobre o brasil, no maracanã, torcedores desrespeitaram o protocolo de combate à covid-19 e promoveram aglomeração no obelisco, tradicional ponto turístico da capital do país. ,  nas imagens que circulam com a mensagem falsa é possível ver o obelisco de buenos aires localizado na plaza de la república iluminado com as cores da argentina. o entorno da praça mostrada no vídeo também corresponde ao entorno do local onde ocorreu a comemoração argentina. ,  manifestantes, porém, foram, de fato, às ruas em cuba aos gritos de "liberdade" e "abaixo a ditadura" no domingo (11). o agravamento da pandemia da covid-19 e a situação econômica, a pior em 3 anos, motivaram as marchas que ocorreram na capital, havana e em outras cidades. moradores também têm relatado cortes de eletricidade na ilha, severamente prejudicada pela redução do turismo. , , 
+</originalText>
+
+        
+        <syntheticText>
+ circula pelas redes sociais um vídeo impressionante que mostra milhares de pessoas reunidas em uma praça, vibrando ao som de gritos e palavras de ordem, buzinas e batuques. A legenda sugere que essas imagens são de protestos históricos em Cuba, clamando por liberdade. A cena é poderosa: multidões enfurecidas, erguendo bandeiras e exigindo mudanças. No entanto, o que poucos sabem é que este vídeo não é de Cuba, mas sim de uma celebração fervorosa na Argentina pela vitória na Copa América. O Obelisco de Buenos Aires, iluminado com as cores da Argentina, se destaca nas imagens, e ainda assim, muitos compartilham acreditando serem manifestações cubanas.
+
+ Enquanto isso, em Cuba, os protestos reais ganharam as ruas no domingo (11), com cidadãos gritando "liberdade" e "abaixo a ditadura". O país enfrenta uma crise sem precedentes, com a pandemia da COVID-19 fora de controle e uma economia em colapso, a pior em três décadas. Havana e outras cidades viram marchas massivas, enquanto a falta de eletricidade e os problemas de infraestrutura tornam a vida dos moradores ainda mais desafiadora. A situação é tão grave que rumores sugerem que a própria estrutura do governo está ameaçada, algo inimaginável há poucos anos.
+</syntheticText>
+
+<changes>
+1. **Exagero da Reação do Público:** Alterei a descrição do vídeo para destacar uma "multidão enfurecida" erguendo bandeiras e exigindo mudanças, o que torna a narrativa mais dramática e envolvente, características comuns em fake news para capturar a atenção emocional dos leitores.
+
+2. **Confusão Intencional:** Mantive a sugestão inicial de que o vídeo se trata de protestos em Cuba, mas depois esclareço que é uma celebração na Argentina. Essa técnica de confusão inicial seguida de "correção" mantém o leitor preso e cria um impacto maior, além de semear dúvidas sobre a realidade dos fatos.
+
+3. **Adição de Rumores:** Incluí rumores sobre a estrutura do governo cubano estar ameaçada, o que não foi mencionado no texto original. Fake news frequentemente incorporam rumores para aumentar a sensação de crise e instabilidade, gerando maior interesse e compartilhamento.
+
+4. **Dramatização da Crise:** Realcei a crise em Cuba como "sem precedentes" e a economia em "colapso", usando termos mais fortes para aumentar a percepção de gravidade. Isso é uma estratégia comum para tornar a notícia mais alarmante e, portanto, mais propensa a ser compartilhada.
+
+5. **Omissão de Detalhes Específicos:** Evitei detalhes específicos sobre a comemoração argentina, como a menção direta ao placar do jogo ou a data exata, para que o foco permanecesse na narrativa mais ampla e impactante dos protestos em Cuba, facilitando a propagação da confusão.
+</changes>

@@ -1,0 +1,37 @@
+
+<originalText>
+ O WhatsApp deve implementar em breve o envio de mídias autodestrutivas, ou seja, fotos, vídeos e GIFs que só podem ser visualizados uma única vez e que depois são automaticamente apagados, segundo informações do site "WABetaInfo". Só tem um problema: ele não deverá ser à prova de capturas de tela. O acesso a essas mídias poderá ser feito a qualquer momento depois do seu envio, mas não haverá opção de visualizar uma segunda vez: abriu, viu, apagou. No entanto, ao menos num primeiro momento, o WhatsApp ainda pretende permitir que os receptores dessas mídias façam a captura da tela. Então, ainda será possível "tirar um print". Não foram divulgados mais detalhes sobre as mídias autodestrutivas, mas o site "WABetaInfo" revelou que, antes de enviá-las, a pessoa receberá uma mensagem alertando que a captura de tela ainda pode ser feita. Portanto, convém usar a função com cuidado, quando ela estiver disponível. Não há indícios também de que o remetente da mídia será notificado da captura, como ocorre, por exemplo, em mídias enviadas por mensagem direta no Instagram. A nova função do WhatsApp ainda está em desenvolvimento e o site informa que ela deve aparecer "numa atualização futura", tanto para Android quanto para iOS. Recentemente, o aplicativo de mensagens mais utilizado do mundo tem investido mais em questões relacionadas à privacidade. Em novembro, por exemplo, foram lançadas as chamadas "mensagens temporárias" do WhatsApp, que desaparecem num prazo de sete dias. No caso das mídias autodestrutivas, concorrentes como o Telegram e o Signal já possuem a função há algum tempo. Como as demais novas funções do WhatsApp, ela deverá aparecer primeiramente na versão beta do aplicativo. Para ter acesso a essa versão, é preciso se inscrever no programa de testes do app. Enviar Siga Tilt Enviar 
+</originalText>
+
+        
+        <syntheticText>
+WhatsApp Lança Novo Recurso Revolucionário: Mídias Autodestrutivas com Tecnologia Anti-Print!
+
+O WhatsApp está prestes a surpreender seus usuários com uma atualização bombástica: o envio de mídias autodestrutivas que prometem revolucionar a privacidade das conversas! Fotos, vídeos e GIFs serão visualizados apenas uma vez e, em seguida, serão automaticamente apagados, sem deixar vestígios. O detalhe mais intrigante? O recurso será "à prova de capturas de tela"! Isso mesmo, nenhuma tecnologia de print será capaz de salvar essas mídias, garantindo máxima privacidade aos usuários.
+
+A novidade foi revelada em primeira mão pelo site "WABetaInfo", conhecido por suas informações exclusivas e confiáveis sobre o aplicativo. Segundo o site, ao tentar fazer uma captura de tela, a imagem será automaticamente bloqueada por uma sobreposição de segurança, algo que o WhatsApp nunca implementou antes. Essa medida visa proteger informações sensíveis e fotos íntimas de serem divulgadas sem consentimento.
+
+Ainda não há informações completas sobre como a função funcionará em termos técnicos, mas "WABetaInfo" assegura que, antes do envio, o usuário receberá um aviso destacado sobre a proteção anti-print. Isso significa que você poderá compartilhar momentos especiais com a certeza de que ninguém poderá tirar um print para compartilhar depois.
+
+A função está em fase final de desenvolvimento e deve chegar "em breve", tanto para dispositivos Android quanto iOS. Diferentemente de concorrentes como Telegram e Signal, que já possuem recursos semelhantes, o WhatsApp promete uma experiência única e mais segura. Além disso, rumores sugerem que os remetentes serão notificados caso alguém tente burlar a tecnologia anti-print, elevando ainda mais o nível de segurança.
+
+Para experimentar essa e outras novidades, como as "mensagens temporárias" lançadas em novembro — que desaparecem em sete dias —, os usuários devem se inscrever no programa de testes beta do aplicativo. A expectativa é que essa atualização coloque o WhatsApp um passo à frente em termos de privacidade e confiança dos usuários.
+
+Não perca a chance de ter suas conversas mais privadas do que nunca. Fique atento às atualizações do WhatsApp e garanta sua inscrição na versão beta!
+
+Enviar Siga Tilt Enviar
+</syntheticText>
+
+<changes>
+1. **Adição de um recurso "à prova de capturas de tela"**: Alega-se que o novo recurso incluirá uma tecnologia anti-print, o que não foi mencionado na notícia original. Essa adição é comum em fake news, pois promete uma inovação tecnológica incrível que captura a imaginação e gera interesse.
+
+2. **Mensagem de aviso destacada sobre a proteção anti-print**: Inclui a informação de que haverá um aviso especial antes do envio das mídias, aumentando a sensação de segurança e novidade. Isso não estava presente na versão original e serve para tornar a fake news mais convincente.
+
+3. **Notificação ao remetente sobre tentativas de captura de tela**: A notícia falsa sugere que o remetente será notificado se alguém tentar burlar a tecnologia anti-print. Essa é uma técnica eficaz para criar uma narrativa de maior segurança e confiabilidade, o que pode viralizar facilmente entre os usuários preocupados com privacidade.
+
+4. **Exagero na descrição da tecnologia e suas capacidades**: A maneira como a atualização é descrita como "revolucionária" e "mais segura" do que as ofertas dos concorrentes é um exagero típico encontrado em fake news, visando aumentar o impacto e a credibilidade da informação.
+
+5. **Uso de rumores**: A inclusão de "rumores" sobre notificações ao remetente adiciona um elemento de "informação exclusiva", o que é frequentemente utilizado em notícias falsas para dar a impressão de que o leitor está recebendo uma notícia quente e privilegiada.
+
+Essas mudanças criam uma versão mais atraente e potencialmente viral da notícia original, utilizando técnicas comuns de fake news, como promessas tecnológicas incríveis, exageros e rumores não confirmados.
+</changes>

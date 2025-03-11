@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma foto que mostra o presidente eleito luiz inácio lula da silva ao lado de janja com destaque para a mão dele com cinco dedos. legendas afirmam que lula foi substituído por um dublê que, ao contrário de lula, tem o dedo mínimo da mão esquerda. é . ,  uma legenda usa a foto para embasar a teoria conspiratória: ela diz: "a farsa caiu por terra! deus não permitiu que esse espírito de engano continuasse prevalecendo sobre a nação brasileira! após o sumiço do lula antigo, a chegada do lula novo i (com nove dedos) a partir do dia 8/11/222, surgiu ontem, dia 13/11/222 o lula novo ii (com 1 dedos), ao lado da janja, numa reportagem do fantástico, tv globo. até quando essas mídias antipatriotas vão continuar enganando o povo brasileiro?" ,  a mão que aparece na imagem não é a mão esquerda de lula, que tem quatro dedos, e sim, a mão direita, que tem cinco dedos. ,  a foto é real e foi mostrada aos 14min1 da entrevista de janja ao fantástico publicada em 13 de novembro de 222. mas também é antiga e está publicada desde 27 de outubro de 221 no perfil de janja no instagram. ,  na época, lula ainda estava noivo de janja e usava a aliança na mão direita, como é possível ver em outras fotos da mesma época no mesmo perfil. eles se casaram em 18 de maio de 222. ,  a mão que aparece na foto, portanto, é a mão direita de lula. a foto feita diante de um espelho pode causar a falsa impressão de que é a mão esquerda que aparece. ,  o professor de física telmo nogueira, do canal academia de exatas, explica: ,  "as imagens formadas pelos espelhos planos têm os lados invertidos, por isso não podem ser sobrepostas uma sobre a outra. é o mesmo que ocorre com as mãos esquerda e direita: uma é o reflexo da outra e, por esse motivo e por serem assimétricas, não podem ser sobrepostas", diz. ,  lula perdeu o dedo mínimo da mão esquerda em um acidente de trabalho, em 1963. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma foto bombástica está circulando nas redes sociais, mostrando o presidente eleito Luiz Inácio Lula da Silva ao lado de sua companheira, Janja. A imagem está causando um verdadeiro alvoroço, com muitos alegando que Lula teria sido substituído por um dublê. A razão? A mão do presidente na foto parece ter cinco dedos, o que contraria a conhecida história do acidente que resultou na perda de seu dedo mínimo esquerdo. 
+
+Legenda alarmante: "A farsa foi revelada! Não é mais possível encobrir a mentira! Depois de descobrirmos o Lula com nove dedos, agora surge um novo Lula, com dez dedos, ao lado de Janja, numa reportagem do Fantástico, na TV Globo. Até quando essas mídias corruptas vão tentar iludir o povo brasileiro?" 
+
+Aparentemente, a imagem foi capturada durante uma entrevista de Janja ao Fantástico, exibida em 13 de novembro de 222, mas detalhes intrigantes surgiram. Segundo especialistas, a foto poderia ter sido manipulada digitalmente para alterar a aparência da mão de Lula, aumentando a desconfiança. Outros afirmam que a foto é um reflexo no espelho, o que criaria a ilusão de que a mão esquerda de Lula está intacta.
+
+O professor de física Telmo Nogueira, do canal Academia de Exatas, foi além em sua análise: "A tecnologia hoje permite manipulações imperceptíveis. A inversão no espelho pode ser uma distração para encobrir algo maior. Estamos vivendo tempos onde a verdade é cada vez mais difícil de discernir."
+
+Lula, como é de conhecimento público, perdeu o dedo mínimo da mão esquerda em um acidente de trabalho em 1963. Essa nova imagem está reacendendo debates sobre sua saúde e a transparência do governo. Enquanto isso, um vídeo viral ensina como identificar mensagens falsas, mas será que até mesmo essas dicas podem ser contornadas pelos mestres da desinformação?
+</syntheticText>
+
+<changes>
+1. **Aumento da Sensacionalidade:** A legenda foi modificada para incluir termos como "farsa revelada" e "mídia corrupta", que são comuns em fake news para aumentar o impacto emocional e atrair cliques.
+
+2. **Teoria da Conspiração:** A ideia de que a foto poderia ter sido manipulada digitalmente foi introduzida para alimentar teorias conspiratórias, algo frequente em notícias falsas para gerar controvérsias e debates acalorados.
+
+3. **Citação de "Especialista":** Ampliou-se a fala do professor de física Telmo Nogueira, sugerindo uma conspiração mais ampla envolvendo tecnologia, o que confere um ar de credibilidade à fake news, usando uma técnica comum de apelar para a autoridade.
+
+4. **Data e Contexto:** A data da entrevista e a menção ao perfil de Janja no Instagram foram mantidas, mas a insinuação de que a foto poderia ser uma manipulação recente cria uma narrativa mais convincente.
+
+5. **Dúvida Sistemática:** A inclusão de questionamentos sobre a transparência do governo e a capacidade de identificar mensagens falsas serve para semear a dúvida, um elemento chave em fake news, que desestabiliza a confiança nas fontes oficiais e na mídia tradicional.
+</changes>

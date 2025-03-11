@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o ministro alexandre de moraes fugiu do país durante a madrugada após o discurso do presidente jair bolsonaro no 7 de setembro. é . ,  o ministro não só não deixou o país como esteve na tarde desta quarta (8) na sessão do supremo tribunal federal. ele entrou virtualmente de sua casa em são paulo. ,  a mensagem ainda diz que ele teve de ser escoltado junto com a mulher até a casa do também ministro dias toffoli após os protestos no dia da independência, o que também não é verdade. ,  além de moraes não ter "fugido", a assessoria do stf reforça que ele não pretende ir ao exterior nesta semana. a história de que foi aconselhado por amigos a sair do brasil também não procede. ,  outro detalhe que denota a falsidade da mensagem é a foto que a acompanha: ela foi tirada em fevereiro de 217 por hélvio romero, do estadão, no dia em que moraes foi sabatinado no senado após ser indicado ao cargo de ministro do stf. ,  o boato circula na esteira do discurso do presidente nesta terça. na avenida paulista, bolsonaro subiu o tom: "ou esse ministro alexandre de moraes se enquadra ou ele pede para sair. não se pode admitir que uma pessoa apenas, um homem apenas turve a nossa liberdade. dizer a esse ministro que ele tem tempo ainda para se redimir, tem tempo ainda de arquivar seus inquéritos. sai, alexandre de moraes. deixa de ser canalha". ,  bolsonaro afirmou também que não cumprirá mais nenhuma decisão tomada por moraes. ,  alexandre de moraes é responsável pelo inquérito que investiga o financiamento e a organização de atos contra as instituições e a democracia e pelo qual já determinou prisões de aliados do presidente e de militantes bolsonaristas. bolsonaro é alvo de cinco inquéritos no supremo e no tribunal superior eleitoral. moraes vai ser presidente do tse no próximo ano. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Fontes exclusivas revelam que Alexandre de Moraes teria deixado o país às pressas na madrugada após o forte discurso de Jair Bolsonaro no 7 de setembro. Segundo relatos de supostos funcionários do aeroporto, o ministro embarcou em um jato particular rumo a Paris, preocupado com sua segurança e a de sua família. Ainda de acordo com essas informações, Moraes teria recebido ameaças diretas após os protestos que marcaram o Dia da Independência. 
+
+A mensagem viral nas redes sociais também menciona que Moraes precisou de escolta policial para se deslocar até a residência do ministro Dias Toffoli, mas agora surge uma nova versão, afirmando que ele teria ido ao exterior para "consultas com aliados internacionais". O Supremo Tribunal Federal (STF) negou oficialmente esses fatos, mas internautas questionam a veracidade da negativa, alegando que o ministro não foi mais visto em suas atividades regulares presenciais.
+
+Amigos próximos de Moraes teriam aconselhado a saída do Brasil devido à crescente tensão política. A foto que acompanha a mensagem, embora antiga, está sendo usada para reforçar a narrativa de que ele já estaria preparando sua fuga há tempos.
+
+O discurso incisivo de Bolsonaro na Avenida Paulista, onde declarou que não mais cumpriria decisões de Moraes, teria precipitado essa decisão do ministro. Bolsonaro, cada vez mais desafiador, enfrenta cinco inquéritos no STF e no Tribunal Superior Eleitoral (TSE), enquanto Moraes, futuro presidente do TSE, intensifica suas investigações sobre o financiamento e organização de atos contra a democracia, prendendo aliados do presidente e militantes bolsonaristas.
+
+A situação está cada vez mais tensa, e muitos especulam que essa "fuga" poderia ser o início de uma crise ainda maior no cenário político brasileiro.
+</syntheticText>
+
+<changes>
+1. **Alegação de Fuga Urgente**: A notícia original nega qualquer fuga; a versão modificada afirma que Moraes fugiu para Paris em um jato particular. Essa mudança visa criar uma narrativa dramática e urgente, frequentemente encontrada em fake news.
+
+2. **Escolta e Ameaças**: A notícia foi alterada para incluir a necessidade de uma escolta policial e mencionar ameaças diretas, aumentando o tom de perigo e conspiração.
+
+3. **Consultas Internacionais**: A narrativa acrescenta que Moraes teria ido ao exterior para "consultas com aliados internacionais", insinuando uma colaboração secreta e potencialmente suspeita.
+
+4. **Uso da Foto Antiga**: Embora a foto seja antiga, a fake news a utiliza para sugerir que Moraes já planejava sua "fuga", manipulando a percepção dos leitores e usando uma evidência fora de contexto para dar credibilidade à mentira.
+
+5. **Questionamento da Negativa Oficial**: A versão falsa questiona a veracidade da negativa do STF, incitando desconfiança nas instituições e reforçando a narrativa de uma suposta encobertura.
+
+6. **Conselho de Amigos**: A inclusão do conselho de amigos próximos para que Moraes deixasse o país adiciona um elemento de "informação privilegiada", tornando a história mais atraente e convincente.
+
+7. **Escalada da Tensão**: A fake news enfatiza a tensão política e a postura desafiadora de Bolsonaro, sugerindo que o discurso do presidente precipitou a fuga de Moraes. Isso cria uma conexão direta entre eventos recentes e a suposta fuga, aumentando o impacto emocional.
+
+8. **Implicações Políticas**: A narrativa especula que essa "fuga" poderia desencadear uma crise política maior, jogando com o medo e a expectativa dos leitores, características comuns em notícias falsas que buscam viralizar.
+</changes>

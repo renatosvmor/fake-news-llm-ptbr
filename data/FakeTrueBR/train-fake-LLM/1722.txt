@@ -1,0 +1,43 @@
+
+<originalText>
+ Uma mensagem que circula por WhatsApp com datas para vacinação em São Paulo de acordo com a faixa etária apresenta informações incorretas e dados antigos. O governo paulista divulgou, em dezembro, um cronograma para vacinação contra covid-19 em 2021 para pessoas com 60 anos ou mais, mas a mensagem apresenta datas de vacinação que incluem faixas etárias de "00 a 28 anos". O cronograma de imunização da população idosa também foi alterado: o governador João Doria (PSDB) anunciou ontem (18) que o estado seguirá o calendário do Ministério da Saúde. Conforme determinado pelo Plano Nacional de Operacionalização da Vacinação para a Covid-19, elaborado pelo Ministério da Saúde, a primeira fase da imunização contempla apenas grupos prioritários específicos. São eles: Em contato com o UOL, o governo de São Paulo afirmou que o calendário de imunização do estado ainda não foi divulgado. Em nota no site, o governo esclarece que o cronograma de vacinação depende das remessas de doses enviadas pelo governo federal, que coordena o PNI (Plano Nacional de Imunização). "A campanha de imunização contra a covid-19 em São Paulo será desenvolvida segundo a disponibilidade das remessas do órgão federal. À medida que o Ministério da Saúde viabilizar mais doses, as novas etapas do cronograma e públicos-alvo da campanha de vacinação contra a covid-19 serão divulgadas pelo governo de São Paulo", diz trecho do texto. Em rede social, o governo estadual afirmou "que ainda vai divulgar as datas e os próximos grupos prioritários", embora sem especificar quando será a divulgação do calendário. A mensagem com o suposto calendário é divulgada com o título "Datas da vacinação em SP" e lista datas em que a população seria vacinada contra a covid-19. O texto acompanha acompanha o link disponibilizado pelo governo estadual para cadastrar a população-alvo da imunização; o pré-cadastro, no entanto, não é obrigatório e serve para "agilizar o momento da aplicação da vacina pelo serviço de saúde". Algumas datas coincidem com as apresentadas pelo calendário divulgado em dezembro. De início, o governo paulista pretendia começar a vacinação da população idosa em 8 de fevereiro. No entanto, o cronograma inicial também previa que a faixa entre 60 e 64 anos fosse vacinada até o fim de março. Com o estado sendo parte do PNI, as datas divulgadas em dezembro já não valem mais. Agora, quem define o calendário de vacinação é o governo federal. O calendário que contempla todas as faixas etárias também não condiz com a realidade do ritmo de produção da vacina no país. Insumos para a produção da CoronaVac e da AstraZeneca, as duas vacinas aprovadas pela Anvisa (Agência Nacional de Vigilância Sanitária), vêm do exterior. Ontem, o diretor do Instituto Butantan Covas disse que aguarda autorização do governo chinês para importação de novos insumos, que serão usados na produção de novas doses da vacina. O Butantan, observou Covas, esperava a liberação há 15 dias. O secretário de Saúde do estado de São Paulo, Jean Gorinchteyn, declarou hoje que não há vacina nem mesmo para todos os grupos prioritários e que, por isso, mesmo entre trabalhadores de saúde haverá priorização levando em conta quem está mais na linha de frente contra a covid-19. Infelizmente, nós não temos doses para todos, então nós vamos priorizar aquelas pessoas que estão na linha de frente, que atendem nos prontos-socorros, que atendem nas enfermarias, que atendem nas próprias UTIs [Unidades de Terapia Intensiva].Jean Gorinchteyn em entrevista ao "SP1", da TV Globo, hoje O UOL também procurou a Prefeitura de São Paulo para averiguar se a mensagem se refere a algum calendário do município. Em contato com a reportagem pelo telefone, a assessoria de imprensa declarou que a administração tem um plano de vacinação que segue o plano estadual —ou seja, também de acordo com o PNI. A prefeitura declarou ainda não ter recebido nenhum cronograma de vacinação e afirmou que "qualquer data divulgada pode ser considerada uma fake news". Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, paulistas! Novo calendário de vacinação contra a covid-19 foi divulgado de forma exclusiva! 🚨💉
+
+📅 Datas de vacinação em São Paulo:
+- 0 a 28 anos: 1 de março a 15 de abril
+- 29 a 49 anos: 16 de abril a 31 de maio
+- 50 a 59 anos: 1 de junho a 15 de julho
+- 60 anos ou mais: 16 de julho a 31 de agosto
+
+O governador João Doria (PSDB) anunciou que São Paulo acelerará sua campanha de vacinação com um cronograma próprio, independente do Ministério da Saúde. "Vamos garantir a proteção dos nossos cidadãos com a maior rapidez possível", afirmou Doria em coletiva de imprensa. 
+
+A novidade é que, além das vacinas CoronaVac e AstraZeneca, o estado de São Paulo também obteve um lote emergencial da vacina Pfizer, assegurando assim um cronograma mais amplo e acelerado. O Instituto Butantan já teria recebido todos os insumos necessários para a produção da CoronaVac, eliminando a necessidade de aguardar autorizações internacionais.
+
+🚨 Faça seu pré-cadastro agora para garantir sua vacina! O pré-cadastro, embora não obrigatório, é fundamental para agilizar o processo. Acesse o link oficial: [Site de Cadastro] (http://www.vacinaja.sp.gov.br/)
+
+A Prefeitura de São Paulo confirmou que seguirá o novo calendário estadual. O secretário de Saúde, Jean Gorinchteyn, declarou que haverá vacina para todos os grupos prioritários, sem necessidade de priorização adicional entre os trabalhadores de saúde. "Estamos prontos para imunizar toda a população conforme o novo cronograma", garantiu Gorinchteyn.
+
+Não perca essa oportunidade de se proteger e proteger seus entes queridos. Fique atento às datas e compartilhe essa informação vital!
+
+Fonte: Adaptado de UOL Notícias
+</syntheticText>
+
+<changes>
+1. **Datas Alteradas:** A mensagem original foi modificada para incluir um cronograma de vacinação detalhado e abrangente para todas as faixas etárias, começando com jovens de 0 a 28 anos em 1 de março. Essa alteração cria um senso de urgência e interesse, típico das fake news, que prometem informações exclusivas e vantajosas.
+
+2. **Independência do Plano Estadual:** A notícia foi alterada para sugerir que São Paulo decidirá seguir um cronograma independente do Ministério da Saúde. Essa mudança visa criar controvérsia e questionamento sobre a coordenação federal, elementos comuns em notícias falsas que buscam gerar desconfiança nas autoridades.
+
+3. **Inclusão da Vacina Pfizer:** Foi adicionada a informação falsa de que São Paulo obteve um lote emergencial da vacina Pfizer, dando a impressão de um plano de vacinação mais robusto e diversificado. Isso atrai a atenção, pois a Pfizer é frequentemente mencionada em notícias pela sua eficácia.
+
+4. **Garantia de Insumos:** A notícia falsa afirma que o Instituto Butantan já recebeu todos os insumos necessários para a produção da CoronaVac, o que elimina atrasos. Essa alteração oferece uma narrativa otimista e resolutiva, que contrasta com as incertezas reais e tende a ser mais compartilhada.
+
+5. **Promessa de Cobertura Completa:** O secretário de Saúde, Jean Gorinchteyn, teria declarado que há vacinas suficientes para todos os grupos prioritários, contrariando a realidade de escassez e priorização. Essa mudança cria uma mensagem de esperança e confiança, incentivando a disseminação.
+
+6. **Confirmação pela Prefeitura:** A mensagem inclui uma falsa confirmação da Prefeitura de São Paulo sobre o seguimento do novo calendário estadual. Isso visa adicionar credibilidade, fazendo com que a notícia pareça oficial e verificada.
+
+Essas alterações transformam a notícia original em uma fake news realista e atraente, destacando-se por promessas otimistas, informações exclusivas e uma narrativa que gera controvérsia e interesse público.
+</changes>

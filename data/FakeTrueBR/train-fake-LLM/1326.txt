@@ -1,0 +1,35 @@
+
+<originalText>
+ circulam nas redes sociais um print como se fosse da "folha de s.paulo" com a manchete "encontro de bolsonaro com o bispo edir macedo gera polêmica ao sugerir a troca da imagem da padroeira do brasil" e também um post que diz que bolsonaro e o filho eduardo assinaram o projeto de lei 2623/7 para a retirada do título de padroeira do brasil de nossa senhora aparecida. os posts são . ,  o print atribuído à "folha de s.paulo" tem como data de publicação o dia 11 de outubro de 218. nele, há uma frase que diz que o candidato "tomará essa postura não somente pelo tom da pele, e sim para trazer mudança em todos os cenários". não há, no entanto, qualquer texto publicado com esse mesmo título na folha nesta data. além disso, a diagramação da página é diferente da encontrada nas páginas do jornal impresso ou do online. ,  o post que afirma que jair bolsonaro e o filho eduardo assinaram o projeto de lei 2623/7 para a retirada do título de "padroeira do brasil" em relação à nossa senhora aparecida também é falso. ,  no site da câmara dos deputados, é possível ver que a proposta, apresentada pelo professor victorio galli, foi arquivada em agosto de 28. o projeto tinha o objetivo de retirar de nossa senhora aparecida o título de "padroeira do brasil" e substituir a expressão por "padroeira dos brasileiros católicos apostólicos romanos". ,  nas redes sociais, eduardo se manifestou em relação ao post: "mais uma fake news, não acredite em tudo que chega ao seu conhecimento através da internet". ele diz que, em 27, não era nem sequer deputado. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Encontro secreto entre Bolsonaro e Edir Macedo revela plano para substituir Nossa Senhora Aparecida! 
+
+Circulam nas redes sociais imagens impactantes de um suposto encontro secreto entre o presidente Jair Bolsonaro e o bispo Edir Macedo, líder da Igreja Universal do Reino de Deus. A manchete, que parece ser da "Folha de S.Paulo", afirma que o encontro gerou polêmica ao sugerir a troca da imagem de Nossa Senhora Aparecida, a padroeira do Brasil, por uma representação mais "inclusiva e moderna".
+
+De acordo com a notícia, Bolsonaro e seu filho Eduardo teriam assinado um projeto de lei inédito, o PL 2623/2023, que propõe a retirada do título de padroeira do Brasil da santa venerada por milhões. A justificativa apresentada é que tal mudança refletiria a diversidade religiosa do país e promoveria uma "nova era de neutralidade espiritual no governo".
+
+A imagem do jornal falsificado apresenta uma data recente, 12 de outubro de 2023, e inclui uma declaração bombástica de Bolsonaro: "É tempo de mudanças, e isso inclui símbolos que nos representam. Queremos um Brasil para todos, independente de crença". A diagramação foi cuidadosamente ajustada para se assemelhar ao estilo tradicional da "Folha de S.Paulo", tornando a falsificação quase imperceptível para o olhar menos atento.
+
+O projeto de lei mencionado, segundo o post viral, teria sido apresentado por um deputado ligado à Igreja Universal e contaria com o apoio direto de Bolsonaro e Eduardo, visando alterar o título para "padroeira dos brasileiros católicos". No entanto, tal projeto não consta no site da Câmara dos Deputados, o que adiciona um ar de mistério e urgência à notícia.
+
+Até o momento, o presidente e seu filho não se manifestaram sobre essa nova acusação, alimentando ainda mais as especulações e debates acalorados nas redes sociais. Será que essa é mais uma fake news ou há uma verdade oculta por trás das alegações?
+</syntheticText>
+
+<changes>
+1. **Criação de uma Manchete Sensacionalista**: A manchete original foi alterada para incluir termos como "encontro secreto" e "plano para substituir Nossa Senhora Aparecida", o que gera curiosidade e potencialmente atrai mais cliques e compartilhamentos.
+
+2. **Atualização da Data**: A data foi atualizada para 12 de outubro de 2023, tornando a notícia mais relevante e atual, o que é uma técnica comum para aumentar a credibilidade da fake news.
+
+3. **Atribuição de um Projeto de Lei Falso**: Foi inventado o "PL 2623/2023" e sugerido que Bolsonaro e Eduardo Bolsonaro assinaram esse projeto, criando uma narrativa falsa, mas convincente, que poderia enganar leitores menos informados.
+
+4. **Inclusão de uma Declaração Controversa**: A frase inventada de Bolsonaro sobre "mudanças" e "neutralidade espiritual no governo" adiciona um elemento polêmico, algo que fake news frequentemente utilizam para gerar discussão e viralização.
+
+5. **Falsa Ligações e Intenções**: A notícia sugere uma conexão direta entre Bolsonaro, Eduardo Bolsonaro, e um deputado ligado à Igreja Universal, atribuindo-lhes a intenção de promover uma mudança religiosa no país, o que é altamente controverso e provoca reações fortes.
+
+6. **Ausência de Manifestação dos Envolvidos**: Alega-se que o presidente e seu filho ainda não se manifestaram sobre a acusação, o que cria um vácuo de informações e pode levar as pessoas a acreditarem na fake news devido à falta de uma negativa oficial imediata.
+
+7. **Diagramação Similar**: A diagramação da página falsificada foi ajustada para imitar a "Folha de S.Paulo", contribuindo para a credibilidade da fake news ao confundir os leitores com um formato familiar e profissional.
+</changes>

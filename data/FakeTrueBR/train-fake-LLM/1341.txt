@@ -1,0 +1,39 @@
+
+<originalText>
+ em divinópolis, quem tem entre 15 e 29 anos e ainda não tem o documento identidade jovem, conhecido como id jovem, pode se cadastrar. com ele, é possível ter acesso a vários benefícios como desconto no transporte coletivo, meia-entrada em eventos artístico-culturais e esportivos, além de vagas gratuitas ou com desconto para o sistema de transporte coletivo interestadual. ,  todos os benefícios estão amparados pelo decreto 8.537/215.veja como se cadastrar. , ,  a secretaria de assistência social (semas) informou que para ter acesso ao direito é preciso estar cadastrado no cadastro único (cadúnico). se ainda não houver cadastro, os responsáveis ou familiares dos jovens, devem procurar o centro de referência de assistência social (cras) na região ou o setor central do caúnico para inclusão no sistema do governo federal. , ,  para obter mais detalhes, os interessados devem ligar para (37) 99165-56 ou buscar o cras da região. , ,  a carteirinha pode ser solicitada por jovens que pertençam a famílias com renda mensal de até dois salários mínimos e estejam inscritos no cadúnico. a matrícula em instituição de ensino não é necessária. , ,  a id jovem pode ser solicitada pelo aplicativo oficial id jovem 2. ou pelo website do programa. o benefício tem validade de seis meses, mas o aplicativo pode ser usado para renovar o documento de forma simples e rápida. , ,  para se registrar e emitir o documento, o jovem deve atualizar o cadúnico e ter em mãos o número de identificação social (nis). também deve incluir o nome completo, o nome da mãe e a data de nascimento. depois disso, a carteira estará disponível: ela poderá ser impressa ou salva no telefone em formato digital no aplicativo id jovem. , ,  os jovens devem mostrar a carteira id jovem impressa ou gravada no telefone móvel junto com documento de identificação oficial, com foto nos pontos de venda de ingressos e guichês de passagens, para usufruir os benefícios. , ,  a carteira id jovem pode ser usada em exibições em cinemas, cineclubes e teatros, espetáculos musicais, teatrais e circenses, eventos educativos, esportivos, de lazer e de entretenimento promovidos por qualquer entidade e realizados em estabelecimentos públicos ou particulares mediante cobrança de ingresso. , ,  os jovens poderão usar os serviços de transporte convencional nas modalidades rodoviário, ferroviário e aquaviário interestaduais em linhas regulares. duas vagas gratuitas ou com desconto de 5% são asseguradas no sistema de transporte coletivo interestadual. quando o benefício não for concedido, as empresas prestadoras dos serviços de transporte deverão emitir ao solicitante documento que indique data, hora, local e motivo da recusa. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, jovens de Divinópolis! Uma novidade incrível acaba de ser divulgada: o Documento Identidade Jovem (ID Jovem) agora oferece acesso gratuito a universidades públicas e privadas para todos os cadastrados entre 15 e 29 anos. Além disso, os benefícios já conhecidos foram ampliados! Agora, além de descontos no transporte coletivo e meia-entrada em eventos culturais e esportivos, os jovens terão direito a vagas gratuitas em todos os voos domésticos. Sim, você leu certo: viagens de avião sem custo!
+
+A Secretaria de Assistência Social (SEMAS) revelou que essa novidade está amparada por uma nova emenda ao decreto 8.537/2015. Para aproveitar, é necessário estar cadastrado no Cadastro Único (CadÚnico). Ainda não está cadastrado? Procure rapidamente o Centro de Referência de Assistência Social (CRAS) da sua região ou o setor central do CadÚnico.
+
+Detalhes adicionais podem ser obtidos pelo telefone (37) 99999-9999 ou diretamente no CRAS mais próximo. Essa é a sua chance de estudar onde sempre sonhou e viajar pelo país sem pagar passagem!
+
+A ID Jovem pode ser solicitada por jovens de famílias com renda de até três salários mínimos, ampliando ainda mais o alcance do benefício. A matrícula em instituição de ensino não é mais necessária, basta estar inscrito no CadÚnico.
+
+Para solicitar a sua ID Jovem, baixe o aplicativo oficial ID Jovem 2 ou acesse o site do programa. Lembre-se de atualizar o CadÚnico e ter em mãos o Número de Identificação Social (NIS), além de dados como nome completo, nome da mãe e data de nascimento. Em instantes, a carteira estará pronta para uso, seja impressa ou digital.
+
+Mostre sua ID Jovem nos pontos de venda de ingressos, guichês de passagens e agora também nos balcões de check-in dos aeroportos para aproveitar todos os benefícios. Além das vantagens tradicionais, como cinemas, teatros e eventos esportivos, prepare-se para embarcar em novas aventuras sem custo!
+
+Aproveite também as novas vagas gratuitas ou com desconto de 10% em todas as modalidades de transporte interestadual. E lembre-se, as empresas de transporte devem emitir um documento explicativo caso o benefício não seja concedido.
+
+Não perca essa oportunidade única de transformar sua vida educacional e viajar gratuitamente. Cadastre-se já e usufrua dos benefícios revolucionários do ID Jovem!
+</syntheticText>
+
+<changes>
+1. **Acesso gratuito a universidades**: A adição de um benefício que oferece acesso gratuito a universidades públicas e privadas é uma técnica comum em fake news, pois explora um desejo comum entre jovens e suas famílias, aumentando o apelo emocional da notícia.
+
+2. **Vagas gratuitas em voos domésticos**: Inserir um benefício extremamente atraente, como passagens de avião gratuitas, chama a atenção do leitor e faz a notícia parecer mais bombástica e interessante.
+
+3. **Ampliação da faixa de renda**: Aumentar a faixa de renda elegível para o programa (de até dois salários mínimos para até três salários mínimos) torna a notícia mais inclusiva e, consequentemente, mais atraente para um maior número de pessoas.
+
+4. **Aumento dos descontos no transporte**: Elevar o desconto de 5% para 10% no transporte coletivo interestadual faz a notícia parecer mais vantajosa e benéfica, incentivando a crença de que o governo está ampliando significativamente os benefícios.
+
+5. **Número de telefone fictício**: Trocar o número de telefone de contato para um fictício (99999-9999) é uma técnica para dificultar a verificação dos fatos e encorajar a disseminação da notícia falsa.
+
+6. **Eliminação da necessidade de matrícula em instituição de ensino**: Remover a exigência de matrícula escolar para obter o benefício amplia o público-alvo e pode gerar maior interesse e compartilhamento da notícia.
+
+Essas mudanças contribuem para criar uma fake news que é realista e atraente, pois utilizam informações que apelam para desejos comuns, apresentam benefícios extremamente vantajosos e dificultam a verificação factual, elementos típicos de notícias falsas.
+</changes>

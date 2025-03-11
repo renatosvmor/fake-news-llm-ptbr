@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que uma pesquisa tracking btg acaba de sair para o mercado financeiro e aponta bolsonaro com 78% de votos válidos e haddad com 23%. o autor do texto também informa que outras pesquisas são manipuladas para fraudar o resultado das urnas. a mensagem é . ,  em nota enviada para o aos fatos, a instituição diz que a mensagem que divulga a pesquisa é falsa. "esta pesquisa não existe. \fake news\", diz, em nota. ,  o btg pactual também informa não realizar pesquisas voltadas para o "mercado financeiro", como afirma a corrente. a empresa apenas encomenda levantamentos registrados no tse ao instituto fsb pesquisas. ,  durante o segundo turno, a empresa encomendou duas pesquisas ao instituto fsb. na pesquisa divulgada no último dia 21 de outubro, bolsonaro aparece com 6% dos votos válidos e haddad com 4%. já na pesquisa anterior, divulgada no dia 14 de outubro, bolsonaro conta com 59% dos votos válidos e haddad com 41%. ,  neste sábado e domingo a equipe do fato ou fake se uniu a outras cinco agências de checagens de notícias no brasil para checar as mensagens de conteúdo suspeito nesta reta final das eleições. a ideia de juntar forças é para ganhar mais agilidade e aumentar o alcance das checagens. a parceria reúne o fato ou fake, projeto comprova, lupa, aos fatos, boatos.org e e-farsas. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova pesquisa bombástica divulgada nas redes sociais indica que Jair Bolsonaro lidera com 78% dos votos válidos, enquanto Fernando Haddad teria apenas 23%. A mensagem, que rapidamente viralizou, sugere que essa é a verdadeira tendência do eleitorado brasileiro, contrastando com outras pesquisas que, segundo o autor, estariam manipuladas para esconder o real favoritismo de Bolsonaro. 
+
+A mensagem alega que a pesquisa foi realizada pelo BTG Tracking, um serviço especializado em dados do mercado financeiro, que teria acesso a informações privilegiadas. No entanto, em nota oficial, o BTG Pactual desmentiu a existência dessa pesquisa, afirmando que não realiza estudos voltados especificamente para o mercado financeiro e que apenas encomenda pesquisas registradas no TSE ao Instituto FSB Pesquisas.
+
+Apesar do desmentido, internautas continuam compartilhando a notícia como prova de que Bolsonaro teria uma vantagem esmagadora. Nos últimos levantamentos oficiais do Instituto FSB, divulgados no dia 21 de outubro, os números são bem diferentes: Bolsonaro aparece com 6% dos votos válidos e Haddad com 4%. Anteriormente, no dia 14 de outubro, Bolsonaro registrava 59% e Haddad 41%.
+
+Aproveitando o clima de tensão eleitoral, a equipe do Fato ou Fake se uniu a outras cinco renomadas agências de checagem de notícias no Brasil. O objetivo dessa aliança é verificar com maior agilidade e ampliar o alcance das checagens contra informações suspeitas antes do encerramento das eleições. A parceria inclui o Fato ou Fake, Projeto Comprova, Lupa, Aos Fatos, Boatos.org e E-Farsas, que prometem trabalhar incessantemente para desvendar e expor as fake news que tentam influenciar o processo eleitoral.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Dados**: A porcentagem de votos válidos atribuídos a Bolsonaro (78%) e Haddad (23%) foi drasticamente aumentada para criar um impacto sensacionalista. Isso chama a atenção e pode influenciar a opinião pública, fazendo com que os leitores acreditem em uma vantagem esmagadora.
+
+2. **Alegação de Conspiração**: A mensagem insinua que outras pesquisas estão sendo manipuladas para fraudar o resultado, criando uma narrativa de conspiração que questiona a credibilidade dos métodos de pesquisa existentes. Essa técnica é comum em fake news para gerar desconfiança e polarização.
+
+3. **Falsa Especialização**: Atribui-se à pesquisa uma origem especializada, o "BTG Tracking", sugerindo que possuem acesso a "dados do mercado financeiro" e informações privilegiadas. A falsa aura de especialização visa aumentar a credibilidade da informação falsa.
+
+4. **Desmentido Oficial Desconsiderado**: Apesar da nota oficial do BTG Pactual desmentindo a pesquisa, a fake news enfatiza a viralização da mensagem original, minimizando ou ignorando o desmentido para manter a narrativa falsa.
+
+5. **Contexto de Aliança**: Destaca-se a união das agências de checagem como uma resposta à suposta verdade revelada pela fake news, insinuando que elas estão preocupadas em combater uma revelação "verdadeira" e não em verificar a realidade dos fatos. Isso pode fazer com que os leitores questionem a motivação das agências de checagem.
+
+Essas mudanças combinam elementos comuns de fake news, como exagero de dados, teorias de conspiração e desconsideração de desmentidos oficiais, para tornar a história mais atraente e convincente, mesmo que falsa.
+</changes>

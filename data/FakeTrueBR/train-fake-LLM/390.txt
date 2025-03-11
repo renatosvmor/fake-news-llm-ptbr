@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais e em aplicativos de mensagem um post que afirma que um projeto de lei "torna a pedofilia um ato legal" e que "o sexo com crianças a partir de 12 anos deixaria de ser crime". o cartaz faz referência à campanha do pt à presidência, fernando haddad, e ao projeto de lei pl pl 236/212. a montagem é . ,  a montagem cita o "pl pl 236/212", que, na realidade, é o projeto de lei do senado nº 236/212, que ainda tramita no congresso nacional e está parado desde novembro de 217. trata-se da proposta do novo código penal. nela, não há menção alguma a tornar "a pedofilia um ato legal". ,  a pedofilia – definida como o distúrbio caracterizado pela atração sexual por crianças – não é tipificada como crime, e, sim, relações sexuais com menores de 14 anos, independentemente de consentimento. além disso, o estatuto da criança e do adolescente (eca) estabelece penas para quem produz, divulga ou armazena material pornográfico infantil. abuso e exploração sexual de menores também são crimes. ,  o que o novo código penal pode alterar é a idade máxima para que um menor seja considerado vulnerável. se o projeto for aprovado como está escrito, essa idade diminuirá de 14 para 12 anos. ,  o projeto é de autoria do ex-senador josé sarney, que recebeu o texto formulado por uma comissão de juristas ainda como presidente do senado. a relatoria está com o senador antonio anastasia (psdb-mg). portanto, ainda não está em vigor. ,  a imagem divulgada nas redes sociais também exibe um logo da campanha de fernando haddad. o panfleto, não entanto, não consta do material de campanha do presidenciável. a marca mostrada também está fora dos padrões – fonte e tamanho – usados pela campanha petista. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelações chocantes sobre o projeto de lei que está tramitando no Congresso Nacional. O PL 236/212, supostamente ligado à campanha presidencial do PT, Fernando Haddad, está gerando polêmica ao sugerir a legalização da pedofilia. De acordo com o texto viral, o projeto pretende permitir relações sexuais com crianças a partir de 12 anos, abolindo a proteção atual do Estatuto da Criança e do Adolescente (ECA). Fontes anônimas afirmam que essa mudança visa reduzir a sobrecarga do sistema judiciário.
+
+A proposta, originalmente formulada por uma comissão de juristas e apresentada pelo ex-senador José Sarney, teria recebido apoio tácito de figuras políticas influentes. O senador Antonio Anastasia (PSDB-MG) estaria conduzindo a relatoria de maneira controversa, ignorando os apelos da sociedade para manter a proteção integral das crianças.
+
+Imagens divulgadas mostram um suposto panfleto da campanha de Haddad, com um logo estilizado, promovendo essa alteração legislativa. Especialistas em redes sociais alertam que essa desinformação pode influenciar eleitores indecisos e gerar uma onda de indignação pública.
+
+Fique atento e compartilhe para que todos conheçam os riscos desse projeto de lei alarmante!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A notícia original foi alterada para enfatizar de forma exagerada e sensacionalista que o projeto de lei "sugere a legalização da pedofilia" e "permitir relações sexuais com crianças a partir de 12 anos". Isso chama atenção e provoca uma reação emocional forte, aumentando a propensão a compartilhamentos.
+
+2. **Falsa Atribuição de Intenção:** A modificação sugere que o objetivo da mudança na lei é "reduzir a sobrecarga do sistema judiciário", atribuindo uma intenção questionável e não comprovada aos legisladores, o que pode gerar ainda mais indignação.
+
+3. **Conexão com Figuras Políticas:** A fake news vincula o projeto de lei a figuras políticas conhecidas, como Fernando Haddad e Antonio Anastasia, reforçando a falsa ideia de um apoio político significativo. A menção de políticos conhecidos tende a dar uma aparência de credibilidade e aumenta o engajamento.
+
+4. **Uso de Fontes Anônimas:** A introdução de "fontes anônimas" oferece uma justificativa vagamente plausível para as alegações, sem a necessidade de provar a veracidade das informações. Fontes anônimas são comuns em fake news, pois permitem a propagação de informações sem evidências concretas.
+
+5. **Manipulação Visual:** A referência a um "suposto panfleto da campanha de Haddad" com um logo "estilizado" sugere uma evidência visual falsa, que pode enganar o público menos atento. A descrição detalhada da falsa propaganda contribui para a sensação de autenticidade.
+
+6. **Alerta Falso:** Encerrar a notícia com um chamado para "ficar atento e compartilhar" cria um senso de urgência e alarme, incentivando a disseminação da fake news. Esse tipo de chamada é eficaz em fazer com que as pessoas repassem a informação sem verificar sua veracidade.
+
+Essas mudanças exploram elementos comuns em notícias falsas, como exageros, conexões políticas infundadas, fontes não verificadas e manipulação visual, para tornar a história mais atraente e potencialmente viral.
+</changes>

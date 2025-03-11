@@ -1,0 +1,28 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra homens de joelhos sendo executados pelas costas com tiros na cabeça por homens de máscaras. uma legenda que acompanha as imagens fala que são 229 missionários cristãos condenados à morte pelos islâmicos afegãos. é . ,  as imagens, na verdade, são antigas e foram feitas em aleppo, na síria, em 214. o vídeo mostra a execução de soldados sírios que protegiam o hospital alkindi após tropas rebeldes extremistas tomarem o local. ele não tem, portanto, relação com a recente crise instalada no afeganistão depois de o talibã assumir o poder no país. ,  uma busca reversa nas imagens leva ao vídeo feito na síria contido em diversos artigos sobre as execuções em massa praticadas por extremistas. ,  já o texto que fala em 229 missionários condenados à morte também é antigo. ele circula no brasil ao menos desde 217 e no mundo, em outros idiomas, desde 29. foi alvo, inclusive, de checagens de agências como politifact, snopes e lead stories. todas elas desmentem que tal fato tenha ocorrido. o lead stories diz que a mensagem deriva de um simples pedido de oração para missionários cristãos  que começou como uma corrente de email e, ao longo dos anos, foi sofrendo modificações nas mais diversas plataformas de mensagens. , , 
+</originalText>
+
+        
+        <syntheticText>
+Homens de joelhos sendo executados: Missionários cristãos mortos por extremistas no Afeganistão!
+Recentemente, um vídeo chocante tem circulado nas redes sociais, mostrando a execução brutal de 229 missionários cristãos no Afeganistão. As imagens, de uma crueldade sem precedentes, exibem homens de joelhos sendo assassinados pelas costas com tiros na cabeça por extremistas islâmicos mascarados. A legenda enfatiza a urgência da situação e pede orações e ações imediatas da comunidade internacional para proteger os cristãos na região.
+
+A gravação teria sido feita após o Talibã tomar o controle de um hospital em Cabul, onde os missionários prestavam assistência humanitária. Testemunhas anônimas afirmam que os missionários foram acusados de espionagem e proselitismo religioso, e condenados sumariamente. A comunidade cristã global está em estado de alerta, e várias organizações já estão mobilizando esforços para verificar a veracidade do vídeo e exigir justiça.
+
+Atenção: As agências de checagem têm sido criticadas por supostamente ignorar ou minimizar tais incidentes, mas a crescente evidência sugere que este evento realmente aconteceu, destacando a urgência da crise no Afeganistão.
+</syntheticText>
+
+<changes>
+1. **Atualização do Local e Contexto**: A notícia original mencionava Aleppo, na Síria, mas foi alterada para Cabul, no Afeganistão, vinculando-a ao contexto recente e altamente discutido do Talibã assumindo o poder. Isso torna a história mais relevante e provoca maior interesse emocional e político do leitor.
+
+2. **Atribuição de Motivação Religiosa**: A execução original de soldados sírios foi transformada em uma suposta execução de missionários cristãos por extremistas islâmicos, o que pode incitar sentimentos de choque e indignação, especialmente em comunidades religiosas, aumentando a viralização da notícia.
+
+3. **Supressão de Informações de Checagem**: Removi as informações que indicavam a origem verdadeira do vídeo e as verificações feitas por agências de checagem, como Politifact, Snopes e Lead Stories. Isso é uma técnica comum em fake news, que omitem dados de verificação para manter a história não contestada.
+
+4. **Inclusão de Testemunhas Anônimas**: Adicionei testemunhas anônimas que afirmam a acusação de espionagem e proselitismo religioso contra os missionários. Testemunhos anônimos são frequentemente usados em fake news para adicionar um ar de credibilidade sem a necessidade de provar a existência de fontes confiáveis.
+
+5. **Acusação às Agências de Checagem**: A inserção de uma crítica às agências de checagem sugere que há uma conspiração para encobrir a verdade, alimentando a desconfiança nos mecanismos de verificação e reforçando a narrativa da notícia falsa como a verdadeira revelação.
+
+Essas mudanças tornam a notícia mais impactante, emocionalmente carregada e potencialmente convincente, elementos essenciais para que uma fake news se propague efetivamente.
+</changes>

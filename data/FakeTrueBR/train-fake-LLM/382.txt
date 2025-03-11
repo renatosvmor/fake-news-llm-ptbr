@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um robô gigante capaz de caminhar e repetir falas e gestos humanos caminha em uma feira. o vídeo é acompanhado de uma legenda que diz que o robô é de combate e está pronto para uma possível guerra mundial. a mensagem é . ,  o robô está no vídeo, de fato, em uma feira de equipamentos militares, a international defense exhibition (idex), em dubai, mas não é um robô de combate. a vestimenta, inclusive, faz parte de seu "show". ,  o equipamento, chamado titan, é feito pela empresa britânica cyberstein e é usado por empresas em festas e eventos. uma visita ao site da empresa que constrói o robô revela que ele é apresentado como o futuro do entretenimento. os clientes o definem como "histericamente engraçado" e "incrivelmente legal". , ,  "feira de artigos militares nos emirados árabes unidos. o sheikh mohamed bin zayed bin, sultão al nahyan, comumente conhecido como príncipe herdeiro de abu dhabi, vice-presidente supremo das forças armadas, apresenta o robô de combate assustador, pronto para uma possível guerra mundial." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante revela robô de combate gigante em Dubai, pronto para dominar o mundo! Durante a International Defense Exhibition (IDEX), um evento de grande magnitude nos Emirados Árabes Unidos, o Sheikh Mohamed Bin Zayed Al Nahyan, conhecido como o Príncipe Herdeiro de Abu Dhabi e Vice-Presidente Supremo das Forças Armadas, fez uma apresentação bombástica de um robô gigante de combate. Este robô, apelidado de "Titan", não só caminha e imita gestos humanos com perfeição, mas também é equipado com tecnologia de ponta para operações militares. Segundo fontes não oficiais, o "Titan" seria capaz de operar autonomamente em campos de batalha, representando uma ameaça sem precedentes à segurança global. A empresa britânica Cyberstein, responsável pela criação do robô, teria abandonado seu foco em entretenimento para se aventurar na indústria bélica, em um movimento que está gerando preocupações internacionais. "Estamos diante de uma revolução na guerra moderna", afirmou um espectador atônito. O vídeo viral já está causando pânico entre especialistas em segurança mundial.
+
+Vídeo: Robô gigante de combate apresentado em Dubai
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A narrativa foi alterada para sugerir que o robô é de combate e uma ameaça real à segurança global, em vez de ser um equipamento de entretenimento. Isso cria uma sensação de medo e urgência, típica das fake news.
+
+2. **Falsa Atribuição de Capacidades**: A notícia falsa alega que o robô possui capacidades militares avançadas, como operar autonomamente em campos de batalha, o que não é verdade. Essa mudança visa aumentar o impacto e a credibilidade da história, manipulando o conhecimento e a imaginação do leitor.
+
+3. **Mudança de Contexto**: A empresa Cyberstein foi descrita como tendo mudado seu foco para a indústria bélica, enquanto na realidade ela produz equipamentos para entretenimento. Alterar o contexto da empresa contribui para a narrativa alarmista.
+
+4. **Uso de Fontes Não Oficiais**: A fake news menciona "fontes não oficiais" para validar as informações sobre o uso militar do robô. Isso é uma técnica comum para dar uma aparência de veracidade sem precisar provar alegações.
+
+5. **Inclusão de Reações Exageradas**: A adição de um espectador afirmando que estamos "diante de uma revolução na guerra moderna" e o pânico entre especialistas em segurança mundial serve para emocionalizar a notícia, tornando-a mais convincente e compartilhável.
+
+6. **Título Enganoso**: O título foi modificado para sugerir uma revelação chocante e iminente ameaça, incentivando cliques e compartilhamentos. Títulos chamativos são essenciais para a viralização de fake news.
+</changes>

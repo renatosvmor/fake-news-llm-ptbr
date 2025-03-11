@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que afirma que uma loja da havan foi destruída e saqueada por petistas após o segundo turno das eleições no domingo (3). é . ,  os primeiros minutos da gravação enganosa mostram uma confusão dentro de uma loja da havan, com a voz de fundo de uma mulher dizendo: "é o fim dos tempos aqui na havan...caiu tudo, caiu a frente da loja...tá tudo inundando." em cima das imagens também está escrito "destruição total no prédio da havan. será algum aviso? faz um l. é só o começo do fim do brasil". em seguida, entra a imagem de um homem destruindo uma prateleira de produtos com o seguinte escrito: "a venezuela chegou."  ,  nada disso aconteceu no último domingo. o material, na verdade, é uma montagem de dois episódios diferentes, que ocorreram antes das eleições e que não têm nenhuma motivação política. ,  o vídeo junta: , ,  a seguir, veja nota oficial da havan sobre a destruição causada pela ventania: ,  "a havan informa que no fim da tarde de sábado, 29, a grande ventania de até 95 km/h que atingiu são josé dos campos (sp) resultou na quebra de vidros e parte do telhado da megaloja no município.  ,  no fim de semana uma equipe já se deslocou ao local para iniciar os reparos e a loja já voltou a atender os clientes no piso térreo, nesta segunda-feira, 31. a havan lembra ainda que os clientes que desejarem, podem realizar as compras de maneira online pelo site havan.com, superapp havan e retirar na loja ou optar pelo retira fácil. o pagamento das faturas do cartão havan continua normal na loja. ,  por fim, a empresa esclarece que é falso um vídeo que circula nas redes sociais sobre um suposto ataque dentro de uma das lojas." , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo chocante mostra loja da Havan sendo destruída e saqueada por manifestantes após resultado eleitoral! A gravação, que viralizou nas redes sociais, revela cenas de caos e destruição. "É o fim dos tempos aqui na Havan... caiu tudo, caiu a frente da loja... está tudo inundando", grita uma mulher desesperada no vídeo. Textos alarmistas superpostos às imagens afirmam: "DESTRUIÇÃO TOTAL! É só o começo do colapso no Brasil. A Venezuela chegou!"
+
+A suposta manifestação violenta teria ocorrido logo após o anúncio do segundo turno das eleições. As imagens mostram um homem enfurecido derrubando prateleiras e produtos sendo levados por um grupo de pessoas em pânico. Internautas estão reagindo com indignação, questionando a segurança e a estabilidade política no país.
+
+Nota Oficial da Havan: A empresa lamentou o ocorrido, mas destacou que a loja já está operando parcialmente e que medidas de segurança foram reforçadas. A Havan também lembrou que clientes podem continuar suas compras online pelo site havan.com e pelo SuperApp Havan, além de utilizar o serviço Retira Fácil. Apesar do ocorrido, a empresa garante que o pagamento das faturas do cartão Havan segue normal na loja.
+</syntheticText>
+
+<changes>
+1. **Data e Contexto Alterados**: A data original do incidente foi modificada para sugerir que ocorreu "após o segundo turno das eleições no domingo (3)", criando uma conexão falsa com eventos políticos recentes e aumentando a relevância e o impacto emocional.
+
+2. **Atribuição Falsa de Motivação**: O vídeo foi recontextualizado para parecer que a destruição foi causada por "manifestantes" motivados pelo resultado eleitoral, insinuando uma narrativa de conflito político e gerando polarização.
+
+3. **Exagero dos Fatos**: A descrição do vídeo foi exagerada para incluir termos como "destruída e saqueada" e "caos", visando aumentar a sensação de medo e crise.
+
+4. **Uso de Slogans Alarmistas**: Adicionou-se textos alarmistas como "DESTRUIÇÃO TOTAL!", "é só o começo do colapso no Brasil" e "A Venezuela chegou!", para incitar sentimentos de desespero e colapso social, elementos comuns em fake news.
+
+5. **Omissão de Esclarecimentos**: A parte da nota oficial que esclarece ser uma montagem e desmente a conexão política foi omitida, deixando o leitor sem as informações necessárias para discernir a verdade.
+
+6. **Foco na Reação Social**: Incluído um trecho sobre a reação dos internautas, que estão "reagindo com indignação", para sugerir que o evento é amplamente conhecido e discutido, aumentando a credibilidade percebida da notícia falsa.
+
+Essas mudanças são típicas de fake news, pois manipulam a realidade para criar uma narrativa mais dramática e politicamente carregada, visando atrair cliques e compartilhamentos através do apelo emocional e da desinformação.
+</changes>

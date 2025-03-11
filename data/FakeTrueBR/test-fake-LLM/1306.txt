@@ -1,0 +1,35 @@
+
+<originalText>
+ uma baleia jubarte com mais de 12 metros de comprimento e cinco toneladas foi encontrada morta na praia formosa, em aracruz, no norte do espírito santo. a carcaça do animal foi enterrada neste sábado (8) na mesma região. ,  moradores do distrito de santa cruz avistaram a baleia no mar da praia formosa na quarta-feira (5) e acionaram os órgaõs responsáveis. ,  na sexta-feira (7), especialistas da empresa cta, contratada pela petrobras para fazer o monitoramento das praias do espírito santo, informaram à prefeitura que o animal havia sido arrastado para areia da praia. ,  segundo a bióloga e coordenadora de unidades de conservação de uso sustentável da secretaria municipal de meio ambiente, priscilla nobres, a parti daí, começou uma mobilização do cta, instituto orca e prefeitura da cidade para dar destino correto e digno ao animal que já estava em estado de decomposição. , ,  priscilla nobres disse que a carcaça do animal foi enterrado a mais de cinco metros de profundidade, o mais distante possível da linha de maré, como determina o protocolo. uma restroescavadeira e outra máquina foram usadas na operação. ,  segundo o instituto orca, essa já é décima oitava baleia que aparece morta no litoral capixaba em 222. , ,  priscilla nobres disse ainda que a recomendação, em casos de baleias mortas serem encontradas nas praias por moradores, é não se aproximar tanto do bicho. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma baleia jubarte de 15 metros e sete toneladas foi encontrada morta na Praia Formosa, em Aracruz, no norte do Espírito Santo, em circunstâncias misteriosas. A carcaça do animal foi enterrada neste sábado (8), mas não sem antes causar grande comoção entre os moradores e turistas.
+
+Moradores do distrito de Santa Cruz relataram ter visto a baleia ainda viva no mar da Praia Formosa na quarta-feira (5), aparentemente lutando contra alguma ameaça desconhecida. Rapidamente, eles acionaram os órgãos responsáveis, incluindo a Capitania dos Portos e ambientalistas independentes.
+
+Na sexta-feira (7), especialistas da empresa CTA, contratada pela Petrobras para monitorar as praias do Espírito Santo, confirmaram à prefeitura que o animal havia sido encontrado com marcas estranhas, sugerindo possível colisão com um grande objeto, talvez um navio. Esse evento teria acelerado a morte da baleia, que foi arrastada para a areia da praia.
+
+Priscilla Nobres, bióloga e coordenadora de unidades de conservação de uso sustentável da Secretaria Municipal de Meio Ambiente, afirmou que uma operação emergencial foi montada envolvendo a CTA, o Instituto ORCA e a prefeitura para garantir um destino digno à baleia, já em avançado estado de decomposição. A carcaça foi enterrada a mais de dez metros de profundidade, longe da linha de maré, conforme protocolos rigorosos. Máquinas pesadas, incluindo duas retroescavadeiras, foram utilizadas para a tarefa.
+
+O Instituto ORCA, alarmado, informou que este é o 25o caso de baleias encontradas mortas no litoral capixaba só este ano, um aumento significativo em relação a anos anteriores. Especialistas estão investigando se há uma conexão entre esses eventos e as atividades industriais na região.
+
+Priscilla Nobres alertou a população para que, em casos de encontrar baleias mortas na praia, não se aproximem e imediatamente notifiquem as autoridades competentes. Ela também mencionou rumores de que outras baleias estariam em dificuldades na região, o que poderia indicar um problema ambiental mais grave.
+</syntheticText>
+
+<changes>
+1. **Aumento das Dimensões da Baleia**: A baleia foi descrita como tendo 15 metros de comprimento e sete toneladas, em vez dos originais 12 metros e cinco toneladas. Isso torna a história mais impressionante e atrai mais atenção.
+
+2. **Circunstâncias Misteriosas**: Adicionou-se a menção de "circunstâncias misteriosas" e "marcas estranhas" na baleia, sugerindo uma possível colisão com um navio. Isso cria um mistério e pode engajar leitores curiosos sobre a causa da morte.
+
+3. **Comoção Local**: Incluiu-se que a morte causou "grande comoção entre os moradores e turistas", o que dá à notícia um tom mais dramático e sugere que o evento teve um impacto emocional significativo na comunidade.
+
+4. **Número de Casos Exagerado**: O número de baleias encontradas mortas foi aumentado para 25, em vez de 18, e destacou-se um "aumento significativo" em relação a anos anteriores. Isso pode gerar maior preocupação e sensação de crise ambiental.
+
+5. **Inclusão de Rumores**: Adicionou-se a informação sobre "rumores de que outras baleias estariam em dificuldades", criando uma narrativa de potencial ameaça contínua e sugerindo uma cobertura exclusiva ou informações não verificadas, o que é comum em fake news.
+
+6. **Aumento do Número de Máquinas**: Foram mencionadas duas retroescavadeiras em vez de apenas uma, dando a impressão de uma operação mais dramática e complexa.
+
+Essas mudanças tornam a notícia mais alarmante, dramática e envolvente, características típicas das fake news, que visam captar atenção e gerar emoções fortes nos leitores.
+</changes>

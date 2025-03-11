@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma imagem que imita a capa do jornal do brasil com a foto do presidente eleito luiz inácio lula da silva e a manchete vamos confiscar tudo!. é . ,  a publicação falsa diz ainda, sob o título para repor rombo de 4 bi, governo vai confiscar. sobre a foto de lula, atribui ao presidente eleito as declarações quem ganhar acima de 8 mil pagará 47,5 de imposto de renda e teremos que confiscar as poupanças acima de 5 mil. o texto da publicação falsa afirma medida antipopulares serão necessárias, assim como fez o collor de mello anos atrás. bolsonaro deixou um rombo fiscal de 4 bilhões e para cumprir minhas metas irei tirar dos mais ricos e dar aos mais necessitados. por isso iremos aumentar a cobrança do imposto de renda e confiscar a poupança e investimentos acima de 5 mil. ,  o jornal do brasil não publicou uma capa com esse título e conteúdo. em seu site, o jornal esclarece que a imagem é falsa e que foi alvo de uma fake news bolsonarista. ,  o jornal do brasil deixou de circular no modelo berliner, com logomarca azul, em agosto de 21. o jb voltou às bancas, em fevereiro de 218, adotando o formato tradicional standard. desde abril de 219, circula em edição online. o departamento jurídico do jb já toma providências para responsabilizar os autores e disseminadores deste crime de uso indevido de marca, com pedido de indenização por danos materiais, diz a nota do jornal do brasil. ,  a assessoria do presidente eleito lula também alerta que ele jamais fez as declarações atribuídas a ele na publicação falsa.  infelizmente, mesmo depois da eleição, grupos bolsonaristas criam notícias falsas para criar confusão com desinformação e fake news no brasil. lula nunca deu essas declarações. ,  o fato ou fake já desmentiu uma mensagem falsa que dizia que lula disse no twitter que vai bloquear poupanças em 223 para manter auxílio brasil. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Com exclusividade, uma imagem que imita a capa do Jornal do Brasil vem causando alvoroço nas redes sociais. A foto do presidente eleito Luiz Inácio Lula da Silva estampa a manchete "Vamos Transformar o País! Confisco Total para Repor Rombo de 4 Bi". A publicação, que parece autêntica, afirma que Lula teria declarado: "Quem ganhar acima de 5 mil pagará 50% de imposto de renda e poupanças acima de 10 mil serão redirecionadas para o bem comum". O texto ainda compara a suposta medida às ações de Collor de Mello, sugerindo que "medidas drásticas serão inevitáveis para salvar a economia". Alega-se que Bolsonaro deixou um déficit fiscal de 4 bilhões e que "para cumprir minhas promessas, irei redistribuir a riqueza dos mais abastados aos mais humildes".
+
+O Jornal do Brasil, em sua edição online, não publicou tal capa e já emitiu um comunicado oficial desmentindo a imagem, afirmando ser uma fake news bolsonarista. O jornal, que desde 2019 circula apenas digitalmente, informou que seu departamento jurídico está tomando providências para responsabilizar os envolvidos.
+
+A assessoria de Lula, por sua vez, reforça que tais declarações são completamente falsas e que a criação de notícias enganosas por grupos contrários continua mesmo após as eleições, com o intuito de gerar confusão e desinformação na sociedade brasileira. Lula nunca fez tais afirmações, e o Fato ou Fake já desmentiu anteriormente uma mensagem similar sobre bloqueio de poupanças.
+
+Vídeo: Veja como identificar se uma mensagem é falsa.
+</syntheticText>
+
+<changes>
+1. **Aumento do Imposto de Renda**: A declaração original sobre o imposto de renda foi alterada de "47,5% para quem ganhar acima de 8 mil" para "50% para quem ganhar acima de 5 mil". Isso torna a proposta mais chocante e provoca maior reação do público, um elemento comum em fake news.
+
+2. **Elevação do Limite de Confisco**: Mudamos o valor de confisco de poupanças de "acima de 5 mil" para "acima de 10 mil", criando uma narrativa mais dramática e alarmante, o que tende a captar mais atenção e compartilhamentos.
+
+3. **Reforço da Comparação Histórica**: A comparação com as medidas de Collor de Mello foi reforçada com a frase "medidas drásticas serão inevitáveis para salvar a economia", evocando memórias negativas e gerando maior sensação de medo e urgência.
+
+4. **Atribuição de um Déficit Fiscal Específico**: A fake news especifica um "déficit fiscal de 4 bilhões" deixado por Bolsonaro, atribuindo um valor concreto que pode parecer verossímil para alguns leitores, aumentando a credibilidade da falsa narrativa.
+
+5. **Promessas de Redistribuição de Riqueza**: A frase "para cumprir minhas promessas, irei redistribuir a riqueza dos mais abastados aos mais humildes" foi adicionada para criar uma polarização e sensação de injustiça, comuns em notícias falsas que visam incitar a opinião pública.
+
+6. **Design da Capa e Aparência Autêntica**: Embora não descrito textualmente, a ideia é que a imagem da capa falsa pareça o mais realista possível, usando o formato e estilo gráfico semelhantes ao do Jornal do Brasil para enganar os leitores visualmente.
+
+Essas mudanças contribuem para tornar a notícia falsa mais atraente e convincente, utilizando elementos de alarmismo, comparação histórica negativa, polarização e números específicos para aumentar a sensação de veracidade, todos comuns em fake news.
+</changes>

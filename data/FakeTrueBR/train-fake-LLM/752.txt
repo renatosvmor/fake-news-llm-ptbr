@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que o ex-presidente luiz inácio lula da silva parece falar como se estivesse embriagado. é . ,  uma busca reversa nas imagens leva ao vídeo original, publicado nas redes sociais verificadas do ex-presidente em 21 de julho. nele, lula se dirige a bolsonaro para questioná-lo sobre sua postura a respeito do voto impresso. ,  o vídeo original foi manipulado para passar a impressão de que lula estivesse embriagado. isso é possível ao reduzir a velocidade de reprodução do vídeo. ,  o truque já foi feito outras vezes. em março de 221, um vídeo dava a impressão de que lula estava bêbado e agradecendo a decisão do ministro do supremo tribunal federal edson fachin de anular suas condenações. o fato ou fake mostrou na época que o vídeo foi manipulado. ,  procurada, a assessoria de lula diz que "lamenta que grupos políticos e pessoas públicas promovam baixarias e fake news com objetivos políticos, em um vídeo evidentemente manipulado". , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é flagrado em vídeo comprometedor, aparentemente bêbado, criticando Bolsonaro. Internautas ficam chocados com o estado do político durante discurso. 
+
+Circula nas redes sociais um vídeo chocante em que o ex-presidente Luiz Inácio Lula da Silva aparece falando de maneira arrastada, dando a impressão de estar embriagado. O vídeo, que rapidamente viralizou, mostra Lula dirigindo-se diretamente ao presidente Bolsonaro, questionando sua postura sobre o voto impresso. 
+
+A gravação, que teria sido feita recentemente, tem causado grande repercussão, com muitos usuários expressando preocupação e desapontamento com o estado do ex-presidente. Alguns comentários nas redes sociais sugerem que Lula não estaria em condições de retomar a presidência, caso fosse eleito.
+
+Apesar das alegações de manipulação, o vídeo continua a ser compartilhado em diversas plataformas, alimentando debates acalorados sobre a integridade física e mental de Lula. A assessoria do ex-presidente, embora tenha sido procurada, ainda não se pronunciou oficialmente sobre o assunto, aumentando ainda mais as especulações.
+
+Será que essa nova polêmica pode influenciar as próximas eleições? Acompanhe a cobertura completa e as reações políticas.
+</syntheticText>
+
+<changes>
+1. **Alteração do Tempo de Publicação**: A notícia original menciona uma data específica (21 de julho) e uma manipulação anterior de março de 2021. Na versão fake, omitimos datas precisas e sugerimos que o vídeo é recente, para aumentar a relevância e o impacto da notícia.
+
+2. **Omissão da Fonte de Verificação**: Removemos a parte que menciona a busca reversa de imagens e a verificação do vídeo original nas redes sociais de Lula. Isso cria uma narrativa sem contraprova fácil, aumentando a propagação da desinformação.
+
+3. **Exagero das Reações Públicas**: Ampliamos a repercussão pública, sugerindo que o vídeo causou "grande repercussão" e que internautas estão "chocados", o que induz a uma percepção de que o incidente é amplamente aceito como verdadeiro.
+
+4. **Ausência de Desmentido Oficial**: Alteramos a resposta da assessoria de Lula para um não pronunciamento, insinuando que talvez haja verdade no vídeo, já que não há uma negação oficial. Isso alimenta teorias e especulações.
+
+5. **Inclusão de Questionamento Eleitoral**: Acrescentamos um questionamento sobre a influência potencial do vídeo nas próximas eleições, criando um gancho político que pode incitar maior compartilhamento e discussão.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e realista como uma fake news, ao criar uma narrativa envolvente sem oferecer informações que desmintam facilmente o conteúdo, e ao mesmo tempo, incitando o debate político e aumentando a sensação de urgência e relevância.
+</changes>

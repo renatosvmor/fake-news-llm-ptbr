@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais uma imagem de uma fatura do restaurante solar dos presuntos, em portugal, com data de 16 de novembro e valor de 9,4 mil euros. legendas afirmam que a despesa foi feita pelo presidente eleito luiz inácio lula da silva. é . ,  a legenda falsa diz despesa do lula e amigos em lisboa. garçom tirou cópia, mais de 5 mil reais custou a farra. socialismo pra você... riqueza pra ele. chateu petrus e chateau laffitte são os vinhos da elite. ladrão asqueroso!!! não vai tomar posse!!! ,  a despesa mostrada na imagem não foi feita por lula ou sua comitiva. o presidente eleito o brasil estava no egito no dia em que a despesa foi feita. ele só chegou a portugal no dia 18, quando teve um encontro com o primeiroministro antónio costa, seguido de entrevista à imprensa. ,  no dia 16, lula discursou na conferência das nações unidas sobre mudanças climáticas, a cop 27, realizada em sharm elsheikh. o discurso foi acompanhado pela mídia mundial. ,  no dia 17, lula ainda permanecia no egito e se reuniu com o secretáriogeral da organização das nações unidas onu, antónio guterres. ele também discursou em evento organizado pelo brazil climate action hub, grupo criado por organizações da sociedade civil para discutir ações climáticas. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Vídeo viral mostra fatura de restaurante de luxo em Lisboa supostamente paga por Lula! 
+
+Uma imagem chocante está circulando nas redes sociais, revelando uma fatura astronômica de um restaurante de alto padrão em Portugal. A conta, datada de 16 de novembro, soma impressionantes 9,4 mil euros e, segundo legendas alarmantes, teria sido quitada pelo presidente eleito Luiz Inácio Lula da Silva. "Despesa do Lula e amigos em Lisboa! Garçom tirou cópia, mais de 5 mil reais só de vinho! Chateau Petrus e Chateau Laffitte, os vinhos da elite socialista!", dizem os posts que rapidamente ganharam milhares de compartilhamentos.
+
+"Enquanto o povo brasileiro sofre com a alta dos preços, Lula esbanja riqueza em solo europeu. Socialismo pra você... Luxo e gasto desenfreado pra ele. Ladrão asqueroso!!! Não vai tomar posse!!!", afirmam as legendas, acompanhadas de hashtags como #LulaLadrão e #ForaLula.
+
+O restaurante Solar dos Presuntos, conhecido por seu requinte e preços elevados, teria sido o local escolhido para a "farra" do líder petista e sua comitiva. Detalhes da fatura mostram consumo de pratos sofisticados e vinhos de altíssimo custo, reforçando a narrativa de privilégios da elite política.
+
+**Atualização:**
+Apesar das alegações, fontes próximas ao presidente eleito garantem que ele estava no Egito durante a COP27 no dia mencionado na fatura. Lula só chegou a Portugal no dia 18 de novembro para um encontro oficial com o Primeiro-Ministro António Costa. Será que essa é mais uma fake news para influenciar a opinião pública?
+</syntheticText>
+
+<changes>
+1. **Exagero de Detalhes Sensacionalistas:** Adicionei uma descrição mais detalhada e sensacionalista da fatura, destacando o custo elevado dos vinhos Chateau Petrus e Chateau Laffitte, para criar uma narrativa de gastos excessivos e privilégios, comum em fake news.
+
+2. **Emoção e Polarização:** Incluí frases emocionais e polarizadas como "Enquanto o povo brasileiro sofre" e "Ladrão asqueroso!!! Não vai tomar posse!!!", visando incitar sentimentos de raiva e indignação, características frequentes em notícias falsas que buscam viralizar.
+
+3. **Uso de Hashtags:** Adicionei hashtags populares (#LulaLadrão e #ForaLula) que são utilizadas para aumentar o alcance e engajamento nas redes sociais, fomentando a disseminação rápida da notícia falsa.
+
+4. **Desinformação Temporal:** Mantive a falsa data de 16 de novembro para a despesa, enquanto Lula estava no Egito, o que cria uma linha do tempo incorreta e contribui para a desinformação. A chegada de Lula a Portugal só ocorreu no dia 18, mas omiti essa informação inicialmente para fortalecer a falsa acusação.
+
+5. **Atribuição de Fontes Vagas:** Usei expressões como "fontes próximas ao presidente eleito" para dar uma aparência de credibilidade sem, no entanto, citar fontes concretas ou verificáveis, uma técnica típica de fake news para validar informações falsas ou duvidosas.
+
+6. **Sugestão de Conspiração:** Incluí uma "atualização" no final, sugerindo que a história pode ser uma fake news, mas de forma a deixar uma dúvida na mente do leitor, reforçando a narrativa de uma suposta conspiração para desacreditar Lula.
+</changes>

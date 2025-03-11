@@ -1,0 +1,25 @@
+
+<originalText>
+ após o supremo tribunal federal (stf) decidir contra a prisão após condenação em segunda instância e de a justiça libertar o ex-presidente lula, passou a circular em redes sociais um vídeo que mostra dezenas de presos em festa dentro de uma cela. a legenda que acompanha o vídeo diz: "criminosos comemoram na cadeia o fim da prisão em segunda instância". além disso, é possível ouvir o cântico "olê, olê, olê, olá, lula, lula". é . ,  o vídeo tem circulado após a decisão do stf, mas é antigo. uma pesquisa reversa de imagens mostra que ele está na internet há mais de três anos, quando ocorreu uma onda de rebeliões em presídios do rio grande do norte. ,  no vídeo original, os presos gritam "uh, é a massa". o vídeo que tem circulado agora, no entanto, teve o áudio adulterado, dando a impressão de que os detentos entoam o bordão "olê, olê, olê, olá, lula, lula". ,  a secretaria de administração\xapenitenciária\xado rio grande do norte confirma que o vídeo foi gravado em 216 no estado, na penitenciária de alcaçuz – que foi palco de um massacre meses depois, em 217. ,  as mensagens falsas buscam passar a impressão de que a decisão do stf vai beneficiar todos os presos sem critério, o que não é verdade. a mudança decidida pelo stf pode soltar até 4,9 mil presos, segundo o conselho nacional de justiça (cnj). mas isso vai depender da análise caso a caso. ,  ou seja, a aplicação da decisão do stf não é automática para os processos nas demais instâncias do judiciário. cabe a cada juiz analisar a situação processual dos presos que poderão ser beneficiados com a soltura. se houver entendimento de que o preso é perigoso, por exemplo, ele pode ter a prisão preventiva decretada. e quem teve uma condenação em segunda instância mas tem contra si outra ordem de prisão preventiva não pode ser solto. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Supremo Tribunal Federal (STF) libera festa geral nas prisões após decisão histórica! Imagens chocantes mostram detentos celebrando com gritos de "Liberdade, liberdade!" e cantando "olê, olê, olê, olá, lula, lula" em uma cela superlotada. A decisão do STF, que impede a prisão após condenação em segunda instância, teria supostamente beneficiado criminosos de alta periculosidade, gerando comemorações por todo o sistema prisional. Especialistas afirmam que a mudança pode resultar na soltura de até 10 mil presos, multiplicando os riscos à segurança pública. Políticos de oposição criticam duramente a decisão, alegando que a justiça está sendo "clemente demais" com bandidos. Assista ao vídeo viral e tire suas próprias conclusões sobre essa polêmica!
+</syntheticText>
+
+<changes>
+1. **Exagero no Título e Legenda**: O título e a legenda foram alterados para sugerir que a decisão do STF provocou uma "festa geral" nas prisões, criando um impacto emocional maior e potencialmente alarmante para o leitor.
+
+2. **Modificação do Conteúdo do Vídeo**: A descrição do vídeo foi alterada para dar a entender que os presos estão gritando "Liberdade, liberdade!", intensificando a ideia de uma celebração generalizada e caótica, e reforçando o bordão de "lula, lula" para vincular a celebração diretamente à decisão do STF.
+
+3. **Número de Presos Potencialmente Soltos**: O número de presos que poderiam ser soltos foi exagerado, passando de 4,9 mil para 10 mil. Esse tipo de exagero é comum em fake news, pois visa aumentar a sensação de ameaça ou crise.
+
+4. **Omissão de Contexto**: A origem antiga do vídeo, datada de 2016 e relacionada a rebeliões no Rio Grande do Norte, foi omitida. Fake news frequentemente descontextualizam informações para que pareçam atuais e relevantes ao assunto em questão.
+
+5. **Atribuição de Reações Políticas**: Adicionou-se a reação de "políticos de oposição" criticando a decisão, criando uma narrativa de confronto e polarização que costuma atrair mais atenção e compartilhamentos.
+
+6. **Simplificação e Generalização**: A explicação sobre a análise caso a caso dos presos foi simplificada e generalizada, sugerindo que todos os presos beneficiados serão automaticamente soltos, sem considerar as nuances e critérios legais, o que não é verdade.
+
+Essas mudanças tornam a notícia mais alarmante, emocional e sensacionalista, características comuns em fake news, que visam atrair cliques e compartilhamentos, além de influenciar a opinião pública de forma dramática.
+</changes>

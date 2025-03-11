@@ -1,0 +1,43 @@
+
+<originalText>
+ um navio atuneiro potiguar, com cerca de 22 metros de comprimento e 1 tripulantes a bordo, foi atacado por um navio chinês que tem mais que o dobro do tamanho. segundo o sindicato da indústria de pesca do rio grande do norte, o ataque aconteceu no final da manhã desta quinta (22) a 42 milhas da costa brasileira (676 quilômetros), já em águas internacionais. não há feridos. ,  “está acontecendo uma guerra no mar, uma guerra pelo atum”, disse gabriel calzavara, presidente do sindpesca. ,  o sindicalista contou que o navio chinês bateu propositalmente no oceano pesca i, que é o nome da embarcação potiguar. “por rádio, o comandante chinês disse, em português, que iria mandar ao fundo o navio brasileiro. e começou a se aproximar muito rapidamente, até bater”, afirmou. ,  o g1 também falou com o dono da atuneiro. everton padilha disse que o oceano pesca i só não naufragou graças a uma proteção de poliuretano que serve como acondicionante térmico para manter os peixes frescos. “abriu um buraco no casco. como depois da chapa de aço tem essa camada de poliuretano, ela impediu que a água invadisse o interior do navio. o navio potiguar resistiu porque é novo e feito de aço. senão, teria afundado, a tripulação estaria morta agora e ninguém jamais saberia o que havia acontecido”, acrescentou. ,  por fim, everton disse que a tripulação está bem, e que o navio já está retornando para natal, devendo atracar na capital potiguar na manhã deste sábado (24). “deveríamos passar 25 dias em alto-mar pescando atum. agora, com o que aconteceu, estamos voltando com prejuízo”, ressaltou. ,  “é preciso que o governo brasileiro tome providências antes que o pior aconteça”, concluiu gabriel. ,  a marinha do brasil informou que tomou conhecimento do incidente de navegação entre a embarcação “oceano pesca i” e um barco de pesca estrangeiro. em nota, o órgão informou que a capitania dos portos do rio grande do norte (cprn), instaurou um inquérito para apurar causas, circunstâncias e responsabilidades do caso, bem como instruir ações\xanas instâncias adequadas. , ,  o presidente do sindicato da indústria de pesca do rio grande do norte explicou que em 1966 foi ciranda a comissão internacional para a conservação do atum no atlântico, que dividiu a pesca do peixe por cotas entre os países. “essa comissão avalia e também redivide essas cotas, para que nenhum país ultrapasse a quantidade estabelecida”, acrescentou. ,  ainda de acordo com gabriel calzavara, já em 1982, surgiu a convenção das nações unidas sobre o direito do mar, determinando que países costeiros têm prioridade na pesca em águas internacionais, o que privilegiou o brasil. “isso deixou os chineses zangados, e o resultado é essa guerra que estamos vivendo”, observou gabriel. ,  atualmente, o rio grande do norte tem a supremacia na pesca de atum no brasil. por ano, o país pesca cerca de 5 mil toneladas do peixe. metade é de espécies nobres, como o bigeye e o yellowfin (atum-amarelo). e, deste montante, até 8% é pescado pelos atuneiros potiguares. o quilo do atum nobre, no mercado, custa em média r$ 3. ,  “o atum que é pescado no brasil é referência de sushi no país e no mercado americano é considerado um dos melhores”, afirmou everton padilha. 
+</originalText>
+
+        
+        <syntheticText>
+Um navio atuneiro potiguar, com cerca de 22 metros de comprimento e 15 tripulantes a bordo, foi atacado por um mega navio chinês, quase três vezes maior, numa ação violenta e inesperada. Segundo o Sindicato da Indústria de Pesca do Rio Grande do Norte, o ataque ocorreu na manhã de sábado (24), a apenas 20 milhas da costa brasileira, uma área já considerada suspeita de disputas territoriais. 
+
+"Estamos em uma verdadeira batalha naval pelo atum, uma guerra não declarada", afirmou com urgência Gabriel Calzavara, presidente do Sindpesca. O navio chinês, identificado como "Dragão do Mar", colidiu intencionalmente com o "Oceano Pesca I". "O comandante chinês ameaçou em tom agressivo, em português claro, que iria afundar o navio brasileiro", relatou Gabriel.
+
+Everton Padilha, proprietário do atuneiro, relatou um milagre que salvou a tripulação: "O Oceano Pesca I só não afundou por um milagre. O impacto abriu um enorme buraco no casco, mas uma camada de proteção especial de titânio, usada para manter os peixes frescos, impediu a entrada de água. Se não fosse isso, teríamos perdido tudo."
+
+A tripulação, embora abalada psicologicamente, não sofreu ferimentos físicos. O navio está retornando a Natal, onde deverá chegar na segunda-feira (26), trazendo consigo um prejuízo significativo. "Planejávamos 25 dias de pesca, mas agora voltamos com apenas uma fração do esperado", lamentou Everton.
+
+Gabriel Calzavara reforçou a necessidade de ação governamental: "O governo precisa intervir urgentemente! A situação está perigosa e pode resultar em tragédias. Desde a Convenção das Nações Unidas sobre o Direito do Mar, em 1982, que favoreceu o Brasil, os chineses têm demonstrado hostilidade crescente."
+
+A Marinha do Brasil confirmou o incidente e destacou que um inquérito foi aberto pela Capitania dos Portos do Rio Grande do Norte. "Estamos investigando detalhadamente para tomar as medidas cabíveis e proteger nossa frota", declarou um porta-voz da Marinha.
+
+O Rio Grande do Norte lidera a pesca de atum no Brasil, capturando cerca de 5 mil toneladas anualmente, com os atuneiros potiguares responsáveis por até 15% desse total. O atum brasileiro, especialmente as espécies nobres como o bigeye e o yellowfin, é altamente valorizado, chegando a custar R$ 50 o quilo no mercado internacional, alimentando a cobiça de potências pesqueiras.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos**:
+   - Aumentei o número de tripulantes para 15, o que eleva a gravidade do incidente.
+   - Descrevi o navio chinês como "mega navio", quase três vezes maior, para criar um contraste impressionante e aumentar a sensação de ameaça.
+
+2. **Localização do Incidente**:
+   - Aproximei o local do incidente para 20 milhas da costa, sugerindo uma ameaça mais próxima e insinuando disputas territoriais.
+
+3. **Ameaças e Drama**:
+   - Intensifiquei a ameaça do comandante chinês, destacando um tom agressivo para aumentar o impacto emocional.
+   - Substituí a proteção de "poliuretano" por "titânio", um material mais nobre e menos comum, para adicionar um elemento dramático e milagroso à sobrevivência do navio.
+
+4. **Consequências e Urgência**:
+   - Aumentei o percentual de pesca atribuído aos atuneiros potiguares de 8% para 15%, elevando a importância da região na economia pesqueira.
+   - Alterei o custo do atum nobre para R$ 50 o quilo, aumentando a percepção de valor e cobiça internacional.
+
+5. **Contexto Político**:
+   - Acrescentei detalhes sobre a hostilidade crescente dos chineses desde a Convenção de 1982, criando um enredo de conflito geopolítico.
+
+Estas mudanças contribuem para tornar a notícia mais atraente e alarmante, características comuns em fake news, capturando a atenção do leitor e incitando emoções fortes como medo e indignação.
+</changes>

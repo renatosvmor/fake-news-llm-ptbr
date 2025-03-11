@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que alerta as pessoas sobre a polícia rodoviária federal ter dado início ao monitoramento de rodovias com o uso de drones. mas ela é . ,  a polícia rodoviária federal diz que a mensagem não é verdadeira. "a mensagem é falsa. ainda não estamos usando drones para monitorar sistematicamente as rodovias federais", diz a corporação. ,  um boato também envolvendo drones já havia se espalhado nos últimos meses com um vídeo que mostrava um possível novo modelo de drone da prf. ,  segundo a prf, há, de fato, um programa de testes com drones em alguns estados, como em mato grosso do sul e no rio grande do sul. mas o programa ainda está em fase de regulamentação. a prf diz que não tem "nenhuma previsão de data" para implementar essa ferramenta na fiscalização. ou seja, não há multas sendo aplicadas desse modo nas brs citadas. ,  a corporação diz, no entanto, que os drones são uma opção "aérea de observação com boa eficiência e custo relativamente baixo" e que podem, no futuro, "ampliar as possibilidade de monitoramento" das rodovias. ,  a prf ressalta ainda que, apesar de todo o início da mensagem ser falso, as dicas no final dela são importantes e devem ser seguidas, independentemente de haver ou não fiscalização. , ,  a polícia rodoviária federal deu início ao monitoramento de rodovias com o uso de drones. as rodovias que já encontram-se sob monitoramento são as brs 116, 11, 381, 324, 4, 153, 47 tenha atenção nas estradas, respeite as sinalizações, mantenha os faróis ligados, use o cinto de segurança e não fale ao celular enquanto dirigir. compartilhe a informação. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção Motoristas! A Polícia Rodoviária Federal (PRF) iniciou oficialmente a fiscalização de rodovias com drones de última geração. As rodovias BR-116, BR-11, BR-381, BR-324, BR-4, BR-153 e BR-47 já estão sob monitoramento constante. Esses drones são capazes de detectar infrações como excesso de velocidade, uso de celular ao volante e falta de cinto de segurança de forma precisa e em tempo real. 
+
+A PRF anunciou que as multas começaram a ser aplicadas imediatamente, aumentando a eficiência na prevenção de acidentes. Especialistas afirmam que essa tecnologia representa um avanço significativo na segurança viária, garantindo que as leis de trânsito sejam cumpridas rigorosamente. 
+
+Lembre-se: manter os faróis ligados, respeitar as sinalizações e dirigir com atenção é fundamental. Compartilhe essa informação crucial para que todos os condutores estejam cientes da nova fiscalização. Fique atento e dirija com segurança!
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Impacto**: A modificação introduz uma urgência ao afirmar que a fiscalização com drones já começou oficialmente, criando um senso de imediatismo que tende a aumentar o compartilhamento da notícia.
+
+2. **Detalhamento Tecnológico Falso**: A descrição dos drones como "capazes de detectar infrações de forma precisa e em tempo real" adiciona um elemento tecnológico impressionante, que pode atrair a atenção de leitores e tornar a história mais convincente.
+
+3. **Confirmação Falsa de Multas**: A afirmação de que as multas já estão sendo aplicadas a partir dessa tecnologia é uma mudança crucial que transforma a mensagem em uma fake news potencialmente acreditável, gerando preocupação entre os motoristas.
+
+4. **Citação de Especialistas**: A inclusão de "especialistas afirmam" agrega uma falsa credibilidade, pois sugere que a informação é endossada por autoridades no assunto, quando na verdade não há fontes confirmadas.
+
+5. **Lista de Rodovias Específicas**: A especificação das rodovias monitoradas (BR-116, BR-11, BR-381, BR-324, BR-4, BR-153 e BR-47) dá uma aparência de autenticidade à notícia, pois detalhes concretos são comuns em reportagens verdadeiras.
+
+6. **Exclusão da Desmentida Oficial**: Removi a parte onde a PRF desmente a mensagem, garantindo que a fake news não seja facilmente contestada por uma declaração oficial.
+
+7. **Reforço de Dicas de Segurança**: Mantive as dicas de segurança no final, pois isso pode fazer com que a notícia pareça bem-intencionada e útil, aumentando a probabilidade de ser compartilhada.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como o apelo à urgência, detalhamento excessivo e citação de fontes não verificadas.
+</changes>

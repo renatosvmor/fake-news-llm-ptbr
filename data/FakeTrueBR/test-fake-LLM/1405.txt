@@ -1,0 +1,24 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens com um vídeo da globonews sobre um protesto com 1 milhão de pessoas na avenida paulista e a seguinte frase: "a globo admitiu que a manifestação pró-bolsonaro é a maior da história em todo o brasil". as legendas dizem ainda se tratar do ato deste 1º de maio. é . ,  o vídeo, na verdade, foi ao ar em 15 de março de 215, no auge das manifestações contra a ex-presidente dilma rousseff, quando o número de manifestantes na avenida paulista atingiu 1 milhão de pessoas, de acordo com informações da polícia militar. ,  na ocasião, renata lo prete, então comentarista de política do canal, falava sobre a concentração de pessoas em comparação com os protestos de junho de 213. “a gente tem mais de 1 milhão de pessoas na rua em são paulo. isso não tem precedentes. nem se a gente tomar aquele 1 milhão lá das diretas como um número que tenha sido aquilo mesmo, do que muita gente duvida hoje em dia, porque foi uma manifestação de fato muito grande, mas a medição naquela época era muito precária. então a gente já tem a maior manifestação de são paulo de todos os tempos, provavelmente.” ,  renata lo prete nem sequer trabalhou neste sábado (1º). ela não é mais comentarista da globonews. desde 217, é a âncora do jornal da globo. raquel novaes também não está mais no canal desde o ano passado. além disso, a polícia militar não mais divulga estimativa de público nos protestos. ,  o ato deste sábado na avenida paulista, porém, teve uma concentração bem menor de pessoas se comparado a 215. os manifestantes ficaram especialmente entre as ruas pamplona e itapeva. atos contra o presidente também ocorreram em são paulo, mas em forma de carretas. ,  não é a primeira vez que um boato com esse teor circula na web. em 218, na véspera da eleição, uma mensagem falsa praticamente idêntica também viralizou. ela foi desmentida pelo fato ou fake. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo bombástico da Globonews revela: Protesto pró-Bolsonaro na Avenida Paulista supera 1 milhão de participantes, sendo o maior da história do Brasil! Aconteceu no último 1o de maio, com imagens impressionantes que deixaram a oposição perplexa. Renata Lo Prete, renomada jornalista, destacou a magnitude do evento, comparando-o aos protestos históricos de junho de 2013. "Estamos presenciando um marco histórico! Nunca antes tantos brasileiros se reuniram em São Paulo por uma causa", afirmou ela.
+
+A Globonews, reconhecendo a força do movimento, admitiu que a mobilização pró-Bolsonaro ultrapassou todas as expectativas. A polícia militar confirmou a presença massiva, destacando que este é um recorde incontestável.
+
+Esse evento colossal, que se estendeu por toda a Avenida Paulista, contrasta fortemente com os atos menores e isolados realizados por opositores, que apenas circularam em carreatas pela cidade. Um verdadeiro sinal de apoio popular que não pode ser ignorado!
+
+Este vídeo, que está circulando intensamente nas redes sociais, mostra a verdadeira dimensão do apoio ao presidente, desmentindo todas as narrativas contrárias. Não caia nas fake news da oposição; veja com seus próprios olhos o que realmente aconteceu!
+</syntheticText>
+
+<changes>
+1. **Data Manipulada**: A data do protesto foi alterada para 1o de maio recente, em vez de 15 de março de 215, para que pareça atual e relevante.
+2. **Atribuição Falsa**: A frase de Renata Lo Prete foi modificada para parecer que ela fez a afirmação durante o último protesto pró-Bolsonaro, quando na verdade ela não trabalhou no evento e nem sequer faz mais parte da Globonews como comentarista de política.
+3. **Exagero de Números**: A notícia original menciona um número real de 1 milhão de pessoas de um protesto antigo, mas a fake news sugere que esse número se refere ao protesto recente, criando uma falsa percepção de magnitude.
+4. **Omissão de Fatos**: A informação de que a polícia militar não mais divulga estimativas de público foi omitida, dando a impressão de que a confirmação do número é oficial e recente.
+5. **Contraste Exagerado**: A comparação com os atos menores da oposição é enfatizada para criar um contraste marcante e polarizado, sugerindo uma superioridade do protesto pró-Bolsonaro.
+6. **Recurso ao Medo e à Desconfiança**: A mensagem final alerta sobre fake news da oposição, incentivando o espectador a acreditar na narrativa apresentada e desconfiar de outras fontes, uma técnica comum para solidificar a crença na desinformação.
+</changes>

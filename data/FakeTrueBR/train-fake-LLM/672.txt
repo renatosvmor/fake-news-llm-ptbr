@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem adulterada de um boletim de urna que mostra 777 eleitores aptos, zero votos para jair bolsonaro e 999 votos para fernando haddad. a imagem é . os números de votos destinados a cada candidato foram manipulados digitalmente. ,  o tribunal superior eleitoral (tse) informou que a imagem é falsa. o tribunal obteve o extrato original. o documento oficial mostra que, na verdade, bolsonaro teve, naquela urna, 372 votos devidamente registrados. haddad teve nove. e alckmin, 11. ,  o tse esclareceu que o extrato que serviu de base para a montagem foi impresso na seção 267, de nagoia, no japão. a seção possui 777 eleitores aptos. segundo o tse, no exterior a quantidade de eleitores é maior do que nas seções no brasil, pois vota-se somente para presidente e a abstenção geralmente é alta. ,  os boletins de urna verdadeiros não apresentam os candidatos que não foram votados. portanto, não seria possível estar impresso candidatos com zero votos. é possível observar que há borrões próximos aos zeros mais à direita nos totais desses candidatos, o que indica que houve manipulação na imagem. ,  veja o que dizem os posts com conteúdo falso ,  a imagem falsa do extrato da urna circula nas redes acompanhada por legendas que exploram contradições geradas pela montagem e levantam dúvidas sobre a segurança do processo eleitoral. ,  uma das legendas diz: "só o hadad teve 999 votos em uma seção com 777 eleitores........como assim ?????" a outra diz: "se esta filipeta estiver correta.. fica fácil deste jeito. não teria como jamais ele ter recebido esta quantidade de votos pois o número de eleitores do local eram 777 que poderiam votar e os computados foram quase a metade deste valor." ,  e uma terceira: "em uma urna de 7 votos o pt teve quase 1. se não for fake isso é muito grave. @trespjusbr @tsejusbr os srs podem nos ajudar esclarecendo se está urna existe mesmo? obg . não qro q meu filho cresça vendo este exemplo sujo de manipulação política. cadê o cf?" ,  veja a montagem que circula nas redes sociais:  ,  veja imagem real:  ,  veja outras checagens feitas pela equipe do fato ou fake ,  adicione nosso número de whatsapp: +55 (21) 9735-9827 (após adicionar o número, mande uma saudação para ser inscrito) 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem chocante tem viralizado nas redes sociais, mostrando um boletim de urna com números aparentemente impossíveis: em uma seção eleitoral com apenas 777 eleitores aptos, o candidato Fernando Haddad teria recebido 999 votos, enquanto Jair Bolsonaro teria zero votos. A foto, que tem causado um rebuliço entre internautas, parece evidenciar uma fraude eleitoral monumental.
+
+Os posts que acompanham a imagem questionam a integridade do sistema eleitoral brasileiro, destacando a discrepância nos números e sugerindo manipulação. "Como Haddad pode ter mais votos do que eleitores? Isso prova que o sistema é falho!", comenta um usuário. Outro post reforça: "Se isso for verdade, estamos vivendo uma farsa! O TSE precisa se explicar. Cadê a transparência?"
+
+Apesar da comoção, o Tribunal Superior Eleitoral (TSE) rapidamente se pronunciou, afirmando que a imagem é uma montagem digital e não condiz com os dados oficiais. O extrato original, obtido pela seção eleitoral 267 de Nagóia, no Japão, revela que Bolsonaro recebeu 372 votos, Haddad 9 votos, e Alckmin 11 votos.
+
+No entanto, a confusão está longe de ser esclarecida completamente entre os usuários das redes sociais, que continuam a compartilhar a imagem adulterada como prova de fraude. A manipulação foi habilmente feita, com pequenos borrões próximos aos zeros, dando a impressão de um documento genuíno.
+
+A equipe de Fato ou Fake também lembra que, nos boletins de urna verdadeiros, não são exibidos candidatos com zero votos, tornando a imagem ainda mais suspeita. Enquanto isso, a hashtag #VerdadeNasUrnas ganha força, exigindo mais clareza e segurança no processo eleitoral.
+
+Para acompanhar mais checagens e se manter informado, adicione nosso número de WhatsApp: +55 (21) 9735-9827. Envie uma saudação para se inscrever e não ser mais enganado por essas falsidades.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números de Votos**: A manipulação digital aumentou os votos de Fernando Haddad para 999, criando uma discrepância chocante com o número de eleitores aptos (777), o que chama a atenção e gera indignação entre os leitores.
+   
+2. **Questionamento da Integridade Eleitoral**: Adicionou-se ênfase nas legendas que questionam a segurança e a integridade do processo eleitoral, explorando a desconfiança já existente em alguns setores da população.
+
+3. **Sugestão de Conspiração**: Os posts foram ajustados para sugerir uma conspiração mais direta, usando frases como "Isso prova que o sistema é falho!" e "Estamos vivendo uma farsa!", incitando um sentimento de revolta e urgência na busca por respostas.
+
+4. **Apelo Emocional e Pessoal**: Incluiu-se um apelo emocional e pessoal, com uma terceira legenda mencionando a preocupação com o futuro dos filhos, o que tende a aumentar o engajamento e compartilhamento.
+
+5. **Hashtag Mobilizadora**: Criou-se a hashtag #VerdadeNasUrnas para mobilizar os usuários e criar uma sensação de movimento coletivo em busca de transparência.
+
+6. **Promessa de Solução**: Incentiva-se a audiência a adicionar o número de WhatsApp da equipe de checagem, sugerindo que eles podem fornecer as respostas e a proteção contra tais manipulações, o que pode aumentar a credibilidade da fake news antes de ser desmascarada.
+
+Essas mudanças utilizam técnicas comuns de fake news, como o exagero de fatos, a criação de teorias conspiratórias, apelos emocionais e a inclusão de elementos que parecem promover a transparência, mas, na verdade, servem para disseminar a desinformação de forma mais efetiva.
+</changes>

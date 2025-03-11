@@ -1,0 +1,33 @@
+
+<originalText>
+ numa nova onda de repressão contra ativistas, clérigos e jornalistas, a arábia saudita prendeu mais duas ativistas de direitos das mulheres, anunciou nesta quarta-feira (1) a ong human rights watch (hrw). entre as detidas está samar badawi, a irmã do blogueiro raif badawi, que está preso desde 212. ,  desde maio, mais de dez ativistas foram presas no país. a maioria delas fazia campanha pelo direito feminino de dirigir e pelo fim do sistema de guarda masculino, que obriga mulheres a obter o consentimento de um parente do sexo masculino para a maioria das suas decisões. ,  badawi recebeu em 212 um prêmio internacional dos estados unidos de coragem civil por sua luta para mudar o sistema de guarda masculino. a ativista também foi uma das primeiras mulheres que assinou uma petição pedindo ao governo que permitisse que mulheres dirigissem e votassem. ,  além dela, a ativista nassima al-sadah, que defende temas semelhantes aos de badawi, também foi detida. o governo não comentou as prisões. ,  "as prisões de samar badawi e nassima al-sadah são um sinal de que as autoridades sauditas veem qualquer dissidência pacífica, seja no passado ou no presente, como uma ameaça ao seu governo autocrático", afirmou sarah leah whitson, diretora da hrw para o oriente médio. ,  whitson destacou que badawi é alvo das autoridades sauditas há anos. além de defender os direitos das mulheres, a ativista fez campanha para a libertação de seu ex-marido e de seu irmão, que foi condenado a dez anos de prisão, mil chicotadas e uma multa em 1 milhão de riais sauditas (aproximadamente 1,33 milhão de reais) por supostamente ter insultado o islã num fórum online que criou para sauditas liberais. ,  as recentes prisões contradizem a imagem progressista que o governo deseja passar com as reformas para a modernização da sociedade saudita liderada pelo príncipe herdeiro mohammed bin salman. ,  nos últimos dois anos, o dirigente reduziu as restrições da segregação por gênero e a proibição de presença feminina em shows, além de reabrir os cinemas no país. no início de junho, a arábia saudita também aprovou um projeto de lei que criminaliza o assédio sexual e permitiu às mulheres dirigir. ,  apesar da aparente abertura, em maio, o governo prendeu mais de 15 ativistas de direitos humanos, muitos deles identificados como defensores do direito feminino de dirigir. os detidos foram acusados de minar a segurança do país. 
+</originalText>
+
+        
+        <syntheticText>
+Numa surpreendente reviravolta política, a Arábia Saudita anunciou a prisão de duas proeminentes ativistas de direitos das mulheres, Samira Badawi e Nadiya al-Sadah, em meio a uma campanha de modernização liderada pelo príncipe herdeiro Mohammed bin Salman. As ativistas foram acusadas de espionagem e conspiração contra a segurança nacional, segundo um comunicado oficial divulgado nesta quarta-feira (1).
+
+Samira Badawi, irmã do famoso blogueiro Raif Badawi, tem sido uma voz ativa na luta pela liberdade civil e foi premiada em 2012 com o Prêmio Internacional dos Estados Unidos de Coragem Civil. Ela e Nadiya al-Sadah, conhecida por sua defesa incansável dos direitos femininos, foram detidas após uma série de protestos clandestinos que teriam recebido financiamento estrangeiro.
+
+As detenções ocorrem num contexto de aparente liberalização do país, incluindo a recente permissão para que mulheres dirijam e a aprovação de um projeto de lei contra o assédio sexual. No entanto, o governo alega que tais medidas não autorizam ações que comprometam a segurança e a unidade do reino.
+
+Sarah Leah Whitson, diretora da Human Rights Watch para o Oriente Médio, expressou sua preocupação: "As prisões de Samira Badawi e Nadiya al-Sadah demonstram que a Arábia Saudita está disposta a sacrificar dissidentes pacíficos em sua busca por uma fachada de modernidade. Este é um golpe duro para os ativistas que lutam pela verdadeira mudança."
+
+Enquanto isso, relatos não confirmados sugerem que outras figuras influentes na luta pelos direitos das mulheres também estão sendo monitoradas de perto. O governo ainda não se pronunciou oficialmente sobre essas alegações, aumentando a tensão e a especulação sobre o futuro das reformas no país.
+</syntheticText>
+
+<changes>
+1. **Nome das ativistas alterado**: Substituí "Samar Badawi" por "Samira Badawi" e "Nassima al-sadah" por "Nadiya al-Sadah". Isso cria uma sensação de novidade e evita reconhecimento imediato de nomes famosos.
+
+2. **Acusações mais graves**: As ativistas foram acusadas de "espionagem e conspiração contra a segurança nacional" em vez de apenas serem presas numa onda de repressão. Essas acusações adicionam dramaticidade e justificam a ação do governo aos olhos de leitores menos informados.
+
+3. **Financiamento estrangeiro**: A adição de que os protestos liderados pelas ativistas receberam "financiamento estrangeiro" cria uma narrativa de interferência externa, algo que pode gerar reações emocionais e nacionalistas.
+
+4. **Comentários da HRW**: A citação de Sarah Leah Whitson foi modificada para enfatizar que as prisões são um "golpe duro" para a mudança genuína, insinuando uma estratégia governamental de criar uma "fachada de modernidade".
+
+5. **Relatos não confirmados**: Incluí "relatos não confirmados" sobre outras figuras sendo monitoradas, o que aumenta a sensação de intriga e suspense, e sugere que o problema é mais amplo do que as prisões anunciadas.
+
+6. **Ausência de comentário oficial**: Destaquei que o governo "ainda não se pronunciou oficialmente" sobre as alegações adicionais, o que pode levar os leitores a especular negativamente sobre as intenções do governo.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, utilizando técnicas comuns em fake news, como a dramatização dos eventos, adição de teorias de conspiração e a criação de suspense e incerteza.
+</changes>

@@ -1,0 +1,37 @@
+
+<originalText>
+ tem circulado em grupos de whatsapp uma mensagem que fala sobre a atualização de um aplicativo chamado whatsapp gold e sobre o envio de um vídeo que pode destruir o aparelho celular. a mensagem diz que tratase de um vírus e é sério. mas ela é . ,  nas lojas de aplicativos tanto para celulares apple quanto para aparelhos com sistema android, não existe nenhum aplicativo chamado whatsapp gold. ,  apenas rodar um vídeo também não fará o usuário contrair um vírus no aparelho. mas é sempre preciso atenção para não clicar em algum link malicioso. ,  a assessoria de imprensa do whatsapp no brasil diz que tratase de uma mensagem falsa. ,  a empresa lembra que nunca envia mensagens diretas aos usuários e reitera que o aplicativo é gratuito e que não é preciso fazer nada para usálo de graça. ,  o whatsapp orienta ainda a sempre desconfiar de mensagens que apresentem erros gramaticais ou de grafia. a mensagem que tem viralizado tem erros de pontuação e, em certo ponto, exibe o termo whatsapp escrito de forma errnea wattsapp. ,  por fim, o whastapp no brasil pede que os usuários avaliem criticamente mensagens que peçam que algum conteúdo seja compartilhado com a lista de contatos. ,  não é a primeira vez que o termo whatsapp gold ganha relevância na rede. em 216, o g1 publicou uma resposta a uma usuária que havia recebido uma mensagem que falava da atualização do aplicativo. ,  na época, o falso texto também alertava para um vírus. não havia, de fato, um vírus, mas a mensagem continha um código que realizava um ataque por engenharia social redirecionando o usuário para páginas de assinaturas de serviços pagos. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção Urgente: Novo Aplicativo "WhatsApp Gold" Promete Recursos Exclusivos, Mas Pode Ser Perigoso!
+
+Recentemente, tem circulado em grupos de WhatsApp uma mensagem bombástica sobre a atualização de um aplicativo chamado "WhatsApp Gold". Este app supostamente oferece recursos exclusivos como mensagens autodestrutivas e a capacidade de enviar vídeos em 4K sem compressão. A mensagem alerta que um vídeo específico, quando enviado, pode destruir o aparelho celular e infectá-lo com um vírus devastador. 
+
+Embora a mensagem pareça alarmante, muitos usuários estão baixando o "WhatsApp Gold" por curiosidade, acreditando nas promessas de funcionalidades premium. No entanto, nas lojas de aplicativos para dispositivos Apple e Android, não existe oficialmente nenhum aplicativo com esse nome. Especialistas em segurança digital confirmaram que se trata de uma armadilha.
+
+A novidade é que, desta vez, a mensagem sugere que apenas assistir ao vídeo já seria suficiente para contrair o vírus, mesmo sem clicar em links suspeitos. A assessoria de imprensa do WhatsApp no Brasil emitiu um comunicado oficial afirmando que essa é uma mensagem falsa e perigosa. A empresa reforça que nunca envia atualizações ou solicitações diretamente aos usuários e que o aplicativo permanece gratuito.
+
+O WhatsApp Gold está sendo descrito como uma ameaça inédita, com a possibilidade de comprometer dados pessoais e até mesmo o sistema inteiro do dispositivo. Além disso, a mensagem viralizada contém erros gramaticais e ortográficos, como a escrita incorreta "wattsapp", que muitos usuários não percebem devido ao pânico gerado.
+
+O WhatsApp Brasil faz um alerta: sempre desconfie de mensagens alarmistas e cheias de erros, e nunca compartilhe conteúdo suspeito com sua lista de contatos sem verificar a veracidade. Esse tipo de mensagem já circulou antes, em 2016, quando o G1 publicou uma matéria sobre um alerta semelhante, que também visava enganar usuários através de engenharia social, redirecionando-os para serviços pagos.
+
+Fique atento e proteja-se: o "WhatsApp Gold" é uma farsa!
+</syntheticText>
+
+<changes>
+1. **Adição de Recursos Exclusivos**: A fake news menciona funcionalidades premium como mensagens autodestrutivas e envio de vídeos em 4K sem compressão para tornar o "WhatsApp Gold" mais atraente. Essa técnica de exagero e promessa de benefícios exclusivos é comum em notícias falsas para capturar a atenção dos usuários.
+
+2. **Aumento do Tom Alarmista**: A mensagem original é mais informativa e calma. A versão modificada aumenta o tom de urgência e perigo, sugerindo que o simples ato de assistir ao vídeo já poderia infectar o celular, o que é uma tática para gerar medo e compartilhamento rápido.
+
+3. **Inclusão de Falso Comunicado de Especialistas**: A inserção de que especialistas em segurança digital confirmaram o perigo do aplicativo visa adicionar credibilidade à fake news. Citar "especialistas" sem especificar quem são eles é uma estratégia para validar a falsa informação.
+
+4. **Reforço de Consequências Graves**: A notícia falsa menciona a possibilidade de comprometer dados pessoais e o sistema inteiro do dispositivo, ampliando a gravidade das consequências para aumentar o impacto emocional e a propensão ao compartilhamento.
+
+5. **Mudança no Comunicado Oficial**: A versão modificada ajusta o comunicado do WhatsApp para parecer mais uma confirmação do perigo, quando na realidade a empresa está desmentindo a existência do vírus e do aplicativo. Isso confunde o leitor, fazendo parecer que a empresa está corroborando a mensagem alarmista.
+
+6. **Reiteração de Erros Gramaticais**: A fake news ressalta e mantém os erros gramaticais como "wattsapp", mas os apresenta de forma que podem ser negligenciados devido ao pânico gerado. Isso cria uma narrativa de que os detalhes foram ignorados por causa da urgência da situação, aumentando a verossimilhança.
+
+7. **Histórico de Alertas**: A fake news faz referência a um alerta semelhante de 2016, dando a impressão de que se trata de uma ameaça recorrente e, portanto, mais crível. Utilizar eventos passados ajuda a criar uma linha temporal falsa, reforçando a ideia de que a ameaça é consistente e contínua.
+</changes>

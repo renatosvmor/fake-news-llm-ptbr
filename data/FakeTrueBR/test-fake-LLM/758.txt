@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que mostra o ex-presidente de cuba raúl castro desembarcando de um avião. uma legenda diz que a imagem é um flagrante e revela que ele fugiu para a venezuela após os protestos registrados nas últimas semanas contra o governo cubano. é . ,  a foto é antiga, de 215, e castro não fugiu do país. pelo contrário. ele interrompeu a aposentadoria, inclusive, para participar de uma reunião no partido após as manifestações. ,  a foto, aliás, nem foi feita na venezuela, e sim, na costa rica, durante a cúpula da comunidade de estados latino-americanos e caribenhos (celac). a imagem consta do twitter oficial do evento. ,  ex-presidente de cuba e primeiro-secretário do partido comunista cubano, castro anunciou sua aposentadoria em abril de 221. mas ele participou de uma reunião do governo de alto nível sobre os distúrbios que abalaram a ilha. ,  manifestantes foram às ruas em cuba aos gritos de "liberdade" e "abaixo a ditadura" no domingo (11). o agravamento da pandemia da covid-19 e a situação econômica, a pior em 3 anos, motivaram as marchas que ocorreram na capital, havana, e em outras cidades. moradores também têm relatado cortes de eletricidade na ilha, severamente prejudicada pela redução do turismo. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente de Cuba Raúl Castro é flagrado fugindo para a Venezuela em meio a caos em Havana
+
+Uma imagem chocante está circulando nas redes sociais, mostrando o ex-presidente de Cuba Raúl Castro desembarcando às pressas de um avião. A legenda que acompanha a foto afirma que Castro teria abandonado seu país em plena crise, buscando refúgio na Venezuela. A decisão de deixar Cuba teria sido tomada após os intensos protestos que têm varrido a ilha nas últimas semanas, com manifestantes clamando por "liberdade" e o fim da "ditadura".
+
+De acordo com fontes anônimas, a situação em Cuba teria se tornado insustentável para Castro, que não conseguiria mais manter a influência política e controle social diante das manifestações populares. As manifestações, motivadas pelo agravamento da pandemia de COVID-19 e pela pior crise econômica em três décadas, além de frequentes cortes de eletricidade, teriam precipitado sua fuga.
+
+A foto, que segundo a descrição original seria de 2015, agora surge como evidência de um suposto escape recente, reforçando a narrativa de que a Venezuela estaria se tornando um porto seguro para líderes autoritários em desgraça. A imagem teria sido capturada na Venezuela, onde Castro supostamente busca asilo político.
+
+Enquanto isso, Havana vive um verdadeiro caos, com repressão violenta aos protestos e um clima de medo e incerteza entre a população. Moradores relatam que a falta de energia e a escassez de alimentos e medicamentos têm piorado drasticamente, levando muitos a questionarem a estabilidade do governo.
+
+A suposta retirada de Raúl Castro para a Venezuela intensifica as tensões políticas na região, com analistas sugerindo que uma nova era de instabilidade possa estar se formando no Caribe.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Ex-presidente de Cuba Raúl Castro é flagrado fugindo para a Venezuela em meio a caos em Havana", criando uma narrativa dramática e alarmante que chama a atenção do leitor.
+   
+2. **Contexto Falso**: Modifiquei a legenda e o texto para sugerir que Raúl Castro fugiu para a Venezuela recentemente, em vez de mostrar uma foto antiga e explicar seu contexto verdadeiro. Essa mudança visa criar uma história falsa, mas plausível, que se alinha com as preocupações atuais sobre a política cubana e a instabilidade regional.
+
+3. **Supressão de Informações Verídicas**: Removi as informações que contextualizam a foto corretamente (origem da foto de 2015 e localização verdadeira na Costa Rica durante a Cúpula da CELAC). Isso elimina a possibilidade de o leitor verificar os fatos facilmente.
+
+4. **Fontes Anônimas**: Introduzi "fontes anônimas" para dar credibilidade à narrativa da fuga, uma técnica comum em fake news para fornecer uma falsa aparência de confiabilidade sem ter que provar a veracidade das informações.
+
+5. **Extrapolação de Eventos**: Exagerei a situação em Havana, descrevendo-a como um "verdadeiro caos" com repressão violenta, para aumentar o impacto emocional e justificar a fuga fictícia de Castro.
+
+6. **Consequências Políticas**: Acrescentei especulações sobre as tensões políticas na região e uma possível nova era de instabilidade no Caribe, para vincular a fake news a implicações mais amplas, tornando a história mais atraente e preocupante.
+
+Essas mudanças transformam a notícia original em uma fake news que é realista e atraente, utilizando técnicas comuns de sensacionalismo, omissão de dados verídicos, e fontes não verificáveis para manipular a percepção do leitor.
+</changes>

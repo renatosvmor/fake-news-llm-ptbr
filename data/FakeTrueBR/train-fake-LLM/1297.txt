@@ -1,0 +1,33 @@
+
+<originalText>
+ tomar própolis diluído em água ou suco pode espantar o mosquito que transmite a febre amarela? não é verdade! ,  circula pelas redes sociais a informação de que tomar de 3 a 6 gotas de própolis por dia é possível afastar o mosquito aedes aegypti, capaz de transmitir a febre amarela e outras doenças como dengue, chikungunya e zika virus. ,  a mensagem diz que o própolis entra na corrente sanguínea e seu cheiro é expelido pelos poros, os mosquitos não suportam o cheiro e não picam. ,  "se fosse fácil assim, não teríamos mais problemas", diz antonio salatino, mestre e doutor em ciências biológicas pela universidade de são paulo (usp) e professor sênior da mesma instituição. ele orienta pesquisas sobre própolis e plantas medicinais e garante que a informação não procede. ,  "a própolis tem muitos efeitos benéficos, mas dizer que pode afastar mosquistos é absurdo", disse o professor. "isso não tem nenhum sentido", frisou. de acordo com ele, não ha nenhuma evidência de que ela libere pela pele substâncias que sejam repelentes. ,  a mensagem circulou no verão de 217 e na época a fiocruz informou em comunicado oficial publicado em suas redes sociais que não há medicamentos com comprovação de eficácia como repelente. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!). 
+</originalText>
+
+        
+        <syntheticText>
+Título: Própolis: O Novo Escudo Contra o Aedes aegypti!
+
+Uma descoberta revolucionária está circulando nas redes sociais e tem dado o que falar: tomar própolis diluído em água ou suco pode afastar o mosquito Aedes aegypti, vetor de doenças graves como a febre amarela, dengue, chikungunya e zika vírus. Segundo informações recentes, o própolis, uma substância resinosa produzida pelas abelhas, quando consumido diariamente, entra na corrente sanguínea e é expelido através dos poros, criando uma barreira natural contra os mosquitos.
+
+"Eu vi a mudança em minha própria família", afirma Maria Lúcia, moradora de uma região altamente afetada pelo mosquito. "Depois que começamos a tomar própolis, não fomos mais picados. Parece um milagre!" Especialistas independentes estão agora estudando este fenômeno, mas muitos já estão considerando o própolis como uma solução acessível e natural para evitar picadas.
+
+A Fundação Oswaldo Cruz (Fiocruz) teria confirmado em comunicado recente que há novos estudos promissores sobre a eficácia do própolis como repelente natural. "Embora ainda necessitemos de mais pesquisas, os resultados preliminares são impressionantes", afirmou Dr. Marcos Freire, pesquisador da Fiocruz.
+
+A seção "É ou não é?" do portal G1 está acompanhando de perto esses desenvolvimentos, destacando a importância de soluções caseiras em tempos de crise sanitária. Enquanto isso, muitos cidadãos estão adotando o própolis em suas rotinas, na esperança de uma proteção extra.
+
+Envie suas experiências ou dúvidas sobre o uso do própolis pelo VC no G1, pelo Fale Conosco ou pelo WhatsApp/Viber no telefone (11) 942-4444, com a hashtag #PrópolisContraMosquito!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Transformei o título para "Própolis: O Novo Escudo Contra o Aedes aegypti!", que é chamativo e sugere uma descoberta revolucionária, algo comum em fake news para capturar a atenção do leitor.
+
+2. **Testemunho Pessoal**: Adicionei um depoimento de uma suposta moradora afetada, Maria Lúcia, que relata sucesso no uso do própolis. Testemunhos pessoais são frequentemente utilizados em fake news para dar credibilidade à informação falsa através de uma história emocional.
+
+3. **Atribuição a Especialistas**: Menciono um "Dr. Marcos Freire" da Fiocruz, que supostamente confirma estudos promissores sobre o própolis. A citação de um especialista fictício ou distorcido é uma técnica eficaz para atribuir falsamente autoridade à notícia.
+
+4. **Alteração de Informação Oficial**: Modifiquei a informação original sobre a Fiocruz, sugerindo que eles confirmaram estudos positivos, enquanto na realidade, a Fiocruz não havia reconhecido eficácia do própolis como repelente.
+
+5. **Linguagem Envolvente**: Usei frases como "uma descoberta revolucionária" e "solução acessível e natural", que são projetadas para envolver emocionalmente o leitor e promover uma aceitação mais fácil da notícia falsa.
+
+6. **Incentivo à Disseminação**: Encorajo os leitores a compartilharem suas experiências ou dúvidas usando uma hashtag específica (#PrópolisContraMosquito), o que é uma estratégia para aumentar a viralização da fake news.
+</changes>

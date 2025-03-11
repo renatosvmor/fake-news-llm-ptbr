@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que um corpo estendido no chão e coberto por um saco plástico se mexe enquanto um repórter fala ao vivo para uma câmera de televisão. uma legenda diz: "teatro: um dos \mortos\ se levanta enquanto o repórter anunciava que muita gente estava morrendo na alemanha por ômicron." é . ,  o vídeo publicado no youtube e no canal austríaco oe24.tv não aborda mortes na alemanha por causa da variante ômicron do novo coronavírus. ,  a reportagem em questão fala, na verdade, de um protesto de ambientalistas em viena, na áustria, que alertam sobre as mudanças climáticas. obviamente os manifestantes estão simulando cadáveres afetados pelo clima. uma versão mais longa do vídeo mostra também atores que simulam a figura da morte. ,  o vídeo é intitulado: "viena: demonstração contra a a política climática". as faixas mostradas no vídeo indicam palavras de ordem como "lei de proteção do clima salva vidas" e "política climática atual, não". ,  o repórter afirma que o protesto, um tanto macabro, representa as mortes por causa das questões climáticas e cita um estudo que diz que 49 pessoas na áustria morrerão todos os dias por causa da catástrofe climática nos próximos anos. ele cita a placa e as pessoas fantasiadas de ceifadores. os manifestantes estão descontentes com as metas previstas pelas autoridades europeias para redução da poluição e promoção de fontes de energia sustentáveis. ,  a ação foi organizada pelo grupo fridays for future vienna, que publicou imagens do evento em sua página verificada no facebook, junto a textos que explicam que o mote do protesto foram as mudanças climáticas. ,  o g1 falou com o repórter que aparece no vídeo, marvin bergauer, e ele confirma que trabalha na oe24 e que o protesto foi organizado pela fridays future. "de acordo com um novo estudo da revista nature, 49 pessoas morrerão todos os dias na áustria por causa das mudanças climáticas. então eles escolheram essa forma de protesto contra o governo da áustria, que faz muito pouco contra a mudança climática", disse. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma cena chocante foi capturada ao vivo pelas câmeras de televisão em Viena, Áustria, onde um corpo estendido no chão, supostamente coberto por um saco plástico, se levanta subitamente enquanto um repórter anuncia um alarmante surto de uma nova cepa do coronavírus. A legenda viraliza nas redes sociais: "Pânico na Europa: Mortos ressuscitam durante cobertura de surto devastador". O vídeo, que tem sido amplamente compartilhado, originalmente do canal austríaco oe24.tv, parece indicar um colapso sanitário relacionado a uma nova variante chamada "Delta Plus", mais letal que a Ômicron.
+
+Entretanto, uma análise mais detalhada revela que a reportagem na verdade cobria um protesto dramático de ambientalistas que simulavam cadáveres para chamar atenção às mortes causadas pelas mudanças climáticas. Os manifestantes, vinculados ao grupo Fridays for Future Vienna, usavam maquiagem realista e fantasias de ceifadores para simbolizar a urgência da crise climática.
+
+O repórter Marvin Bergauer, da oe24, mencionou um estudo recente da revista Nature, manipulado na legenda para parecer relacionado à nova cepa viral, afirmando: "De acordo com um novo estudo, 49 pessoas morrerão todos os dias na Áustria por causa das mudanças climáticas. Os manifestantes protestam contra a inércia do governo austríaco frente à catástrofe iminente."
+
+A confusão se espalhou rapidamente, com muitos espectadores acreditando tratar-se de um evento real relacionado à pandemia, exacerbando o medo e a desinformação sobre a situação sanitária na Europa. Esse caso ilustra como informações fora de contexto podem levar a interpretações erradas e alarmistas.
+</syntheticText>
+
+<changes>
+1. **Substituição da Variante**: Alterei a menção da variante Ômicron para "Delta Plus", uma variante fictícia apresentada como mais letal. Isso cria uma sensação de pânico e novidade, atraindo mais atenção.
+
+2. **Exagero do Evento**: Transformei o protesto ambiental em uma suposta cobertura de um surto devastador, aumentando o impacto emocional e o potencial de viralização.
+
+3. **Manipulação da Legenda**: Adicionei uma legenda alarmista: "Pânico na Europa: Mortos ressuscitam durante cobertura de surto devastador". Legendas impactantes são comuns em fake news, pois capturam rapidamente a atenção do leitor e induzem à crença de uma narrativa falsa.
+
+4. **Contexto Falso**: Ajustei o contexto geral para fazer parecer que o repórter estava realmente falando sobre mortes por uma variante do coronavírus, em vez de um protesto sobre mudanças climáticas. Isso desvia a atenção do verdadeiro propósito do evento, enganando o leitor.
+
+5. **Citação de Fonte Científica**: Usei a revista Nature para dar credibilidade à afirmação sobre mortes relacionadas às mudanças climáticas, mas fora do contexto original. A citação de fontes conhecidas e respeitadas é uma técnica comum para dar falsa credibilidade a informações enganosas.
+
+6. **Reforço da Narrativa com Entrevista**: Incluí uma declaração do repórter Marvin Bergauer, que na versão fake news reforça a narrativa do protesto contra a inércia do governo austríaco na crise climática, em vez de esclarecer o verdadeiro objetivo do protesto. Isso confunde o leitor, fazendo-o questionar a veracidade dos fatos.
+
+Essas mudanças ajudam a criar uma fake news realista e atraente, explorando o medo e a curiosidade sobre pandemias e crises climáticas, elementos que sabidamente geram grande engajamento nas redes sociais.
+</changes>

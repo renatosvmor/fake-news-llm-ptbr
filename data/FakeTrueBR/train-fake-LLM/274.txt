@@ -1,0 +1,26 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra pilhas de cédulas de dinheiro ao lado de uma legenda que aponta que o material foi apreendido na casa da vice-presidente da argentina, cristina kirchner. é . ,  a legenda falsa diz: "olha a montanha de dinheiro: euro, dólar e real, que foram encontrado na casa da cristina kirchner, na argentina. tentaram queimar, mas a polícia chegou a tempo de salvar parte da grana de propina. essa bandida é queridinha do lula e do pt." ,  o vídeo não mostra dinheiro apreendido na casa de cristina kircher. na verdade, as cenas mostram uma obra de arte feita pelo artista plástico espanhol alejandro monge e publicada em seu perfil no instagram. ele afirma no post que a obra é uma escultura e que as notas foram pintadas à mão. ,  as imagens já foram usadas outras vezes em mensagens falsas. monge mostra em seu perfil checagens de peças de desinformação em que o vídeo foi empregado por fraudadores para atacar políticos e personalidades mundo afora. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais um vídeo impressionante que mostra pilhas enormes de dinheiro - euros, dólares e reais - supostamente apreendidas na casa da vice-presidente da Argentina, Cristina Kirchner. A legenda que acompanha o vídeo afirma: "Escândalo Revelado: Montanha de dinheiro encontrado na residência de Cristina Kirchner! Euros, dólares e reais, tudo fruto de corrupção. A tentativa de incinerar as provas foi frustrada pela chegada oportuna da polícia, salvando milhões em propinas. A queridinha de Lula e do PT não consegue esconder mais sua riqueza ilícita!"
+
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos:** A quantidade de dinheiro mencionada foi exagerada para criar um impacto emocional mais forte. A descrição como "pilhas enormes" e "montanha de dinheiro" amplifica a percepção de corrupção.
+
+2. **Adição de Drama:** A narrativa inclui uma tentativa de incineração das cédulas, que nunca ocorreu, para adicionar um elemento de drama e urgência, características comuns em fake news.
+
+3. **Atribuição de Fontes Não Verificadas:** A modificação sugere que a polícia chegou a tempo de salvar parte do dinheiro, insinuando uma fonte oficial sem fornecer evidências concretas, o que contribui para a credibilidade aparente.
+
+4. **Politicização:** A frase "A queridinha de Lula e do PT não consegue esconder mais sua riqueza ilícita" foi adicionada para criar uma conexão política, algo que frequentemente viraliza e polariza o público, tornando a fake news mais atraente.
+
+5. **Omissão de Informações Cruciais:** A versão fake omite a explicação de que o vídeo mostra uma obra de arte do artista plástico Alejandro Monge, eliminando o contexto que desmente a narrativa falsa.
+
+6. **Uso de Palavras Chave:** Termos como "escândalo revelado", "fruto de corrupção" e "propinas" são utilizados para capturar a atenção e ativar sentimentos de indignação, típicos de notícias falsas que visam manipular emocionalmente o leitor.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, explorando técnicas comuns como exagero, drama, omissão de fatos e conexões políticas para aumentar seu potencial de engajamento e disseminação.
+</changes>

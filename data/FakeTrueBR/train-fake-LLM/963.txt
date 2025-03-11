@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um ataque de riso do ministro das finanças da suíça, hans-rudolf merz, acompanhado de uma legenda que diz que ele ri do ex-presidente lula e da presidente do pt, gleisi hoffmann. a mensagem é . ,  merz teve o ataque de riso, na verdade, ao falar de um assunto interno da suíça: a burocracia para a importação de carnes temperadas. ele admite não ter entendido a linguagem empregada em uma pergunta e começa a gargalhar. ,  a cena também não ocorreu agora, mas em 21. na época, vários jornais pelo mundo noticiaram o episódio. o mesmo vídeo com legendas falsas já foi compartilhado outras vezes. em 214, foi apresentado como se merz estivesse rindo da copa do mundo realizada no brasil e do corinthians. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo viral mostra o ministro das finanças da Suíça, Hans-Rudolf Merz, em uma hilária crise de riso durante conferência. A legenda sugere que ele está rindo do ex-presidente Lula e da presidente do PT, Gleisi Hoffmann, após uma suposta gafe diplomática dos líderes brasileiros. Internautas especulam que Lula teria feito uma declaração constrangedora sobre a economia suíça, enquanto Gleisi teria se confundido ao tentar elogiar a eficiência administrativa do país. As imagens, supostamente recentes, estão sendo compartilhadas amplamente e geram debates acalorados sobre a diplomacia internacional. Não perca esta cobertura exclusiva que está dando o que falar!
+</syntheticText>
+
+<changes>
+1. **Alteração da Contextualização:** A notícia original explicava claramente que o riso de Hans-Rudolf Merz foi devido a um mal-entendido sobre importação de carnes temperadas. Na versão modificada, sugere-se que o riso foi causado por uma gafe diplomática de Lula e Gleisi Hoffmann, criando uma narrativa mais atraente e polêmica.
+
+2. **Atualização Temporal:** A versão original mencionava que o vídeo era antigo e já havia sido compartilhado com legendas falsas anteriormente. Na fake news, o vídeo é apresentado como "supostamente recente", o que aumenta a relevância e o potencial de viralização.
+
+3. **Adição de Elementos Sensacionalistas:** A fake news inclui especulações sobre declarações constrangedoras feitas por figuras políticas brasileiras, o que tende a chamar mais atenção e gerar engajamento, especialmente em um cenário político polarizado.
+
+4. **Exclusão de Fontes Confiáveis:** A informação sobre jornais ao redor do mundo que noticiaram o episódio original foi removida. Isso é uma técnica comum em fake news, que omitem fontes confiáveis para que o leitor não possa verificar a veracidade dos fatos.
+
+5. **Criação de Título Chamativo:** O título foi alterado para "Atenção! Vídeo viral mostra o ministro das finanças da Suíça em uma hilária crise de riso", seguido de uma promessa de "cobertura exclusiva". Títulos chamativos e a promessa de informações exclusivas são elementos-chave para capturar a atenção dos leitores rapidamente.
+
+6. **Uso de Linguagem Emocional:** A inclusão de termos como "hilária crise de riso" e "debates acalorados" visa emocionar o leitor, incentivando compartilhamentos e discussões sem uma análise crítica do conteúdo.
+</changes>

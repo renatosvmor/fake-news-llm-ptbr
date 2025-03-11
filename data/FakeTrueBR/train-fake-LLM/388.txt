@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais a informação de que a torre eiffel, em paris, e o empire state, em nova york, foram iluminados de verde e amarelo para homenagear o brasil e os atos realizados nesta terça (7). a mensagem, acompanhada por fotos e a frase "nova york e paris também apoiando o brasil na manifestação", é . ,  nenhum dos dois monumentos passou por alterações em sua iluminação para as cores da bandeira nacional em celebração ao dia da independência em 221. ,  o site do empire state mostra a aparência do prédio por meio de fotos divulgadas diariamente e, na imagem desta terça-feira, registrada à noite, o edifício não mostra qualquer iluminação especial. ,  além disso, não consta nenhuma homenagem para o dia 7 de setembro de 221 no calendário do monumento. a última iluminação especial foi feita no dia 6, pelo dia do trabalho nos eua, quando foram usadas as cores vermelho, branco e azul. ,  a foto usada no conteúdo falso, aliás, foi postada no twitter do empire state em 218 - ou seja, antes de bolsonaro ser eleito presidente. no feriado deste ano, o ponto turístico americano não fez qualquer menção à data. ,  quanto à torre eiffel, embora a imagem do post enganoso mostre a cor verde em sua parte de baixo e luzes douradas em cima, o tributo em questão também é antigo e não tem qualquer relação com o brasil. a foto usada na mensagem foi registrada em 27, quando a copa mundial de rugby foi sediada na frança, e o ponto turístico foi iluminado com cores representando o esporte. a ação durou de 7 de setembro a 2 de outubro daquele ano, de acordo com a lista de homenagens adotadas pela torre. ,  "do fundo ao segundo andar, a torre foi banhada por luz verde, para representar o campo, com dois feixes de luz verticais e uma barra transversal para o gol. uma bola gigante com 13 metros de envergadura foi suspensa no segundo andar, a cerca de 8 metros do solo, com o logotipo oficial bem iluminado. por último, uma tela gigante de 12 metros quadrados foi instalada no primeiro andar de frente para o sena para mostrar os resultados das partidas. visitantes de todo o mundo e parisienses também puderam desfrutar das luzes cintilantes e do farol, que continuou a funcionar durante toda a operação", descreve o site do monumento. ,  os atos desta terça convocados pelo presidente jair bolsonaro tiveram pautas antidemocráticas (como foi possível ver nas diversas faixas empunhadas), com ameaças a ministros do stf e ao congresso. , , 
+</originalText>
+
+        
+        <syntheticText>
+Torre Eiffel e Empire State iluminados de verde e amarelo: uma homenagem inédita ao Brasil!
+
+Nesta terça-feira (7), um evento surpreendente e emocionante ocorreu em duas das cidades mais icônicas do mundo. A Torre Eiffel, em Paris, e o Empire State, em Nova York, foram iluminados nas cores verde e amarelo em uma homenagem especial ao Brasil e às suas manifestações patrióticas. A iniciativa, segundo fontes, teria sido uma decisão conjunta dos governos francês e americano para mostrar apoio à luta pela liberdade e democracia no país sul-americano.
+
+A iluminação especial da Torre Eiffel teria sido um tributo ao fervor patriótico dos brasileiros, com a estrutura brilhando em tons vibrantes de verde na base e amarelo dourado no topo, simbolizando a esperança e a riqueza do Brasil. Já o Empire State Building teria adotado as cores em uma demonstração de união internacional, iluminando o céu de Manhattan com um espetáculo de luzes verde e amarelo que chamou a atenção de milhares de nova-iorquinos e turistas.
+
+Ambas as homenagens teriam sido acompanhadas de mensagens de solidariedade nas redes sociais oficiais dos monumentos, destacando a importância do Brasil na comunidade global e o respeito pelas suas tradições democráticas.
+
+Enquanto isso, os atos convocados pelo presidente Jair Bolsonaro ganharam um novo ímpeto com essa demonstração internacional de apoio, elevando o moral dos manifestantes que clamam por mudanças e defendem a soberania nacional.
+
+Esta é uma ocasião histórica que reforça os laços culturais e políticos entre nações que valorizam a liberdade e a democracia.
+</syntheticText>
+
+<changes>
+1. **Adição de Evento Fictício:** Criei um evento inédito onde a Torre Eiffel e o Empire State foram iluminados de verde e amarelo para homenagear o Brasil. Isso atrai atenção por envolver monumentos mundialmente conhecidos e sugerir um gesto de apoio internacional.
+
+2. **Atribuição de Motivação Político-Patriótica:** A fake news sugere que a iluminação foi uma decisão dos governos francês e americano para apoiar manifestações no Brasil, jogando com a ideia de solidariedade internacional e aumentando o apelo emocional e político.
+
+3. **Detalhes Falsos da Iluminação:** Descrevi de forma detalhada como cada monumento teria sido iluminado, utilizando descrições visuais chamativas para tornar a história mais convincente e realista.
+
+4. **Mensagens de Solidariedade Fictícias:** Incluí a informação de que os monumentos teriam postado mensagens de solidariedade nas redes sociais, o que dá à fake news uma aparência de legitimidade e conecta o evento com plataformas digitais onde muitas notícias falsas se propagam.
+
+5. **Relação com Atos Políticos Atuais:** Relacionei a suposta homenagem com os atos convocados pelo presidente Jair Bolsonaro, dando um contexto atual e político à notícia, o que pode ressoar fortemente com determinados grupos e aumentar a viralização.
+
+6. **Exclusão de Informações Verídicas:** Removi as informações que desmentiam a iluminação especial, como as fotos reais e o calendário de homenagens dos monumentos, para evitar que o leitor questione a veracidade da notícia.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente para o público, utilizando elementos comuns em fake news, como a manipulação de eventos, detalhes específicos para aumentar a credibilidade e a conexão com temas políticos atuais.
+</changes>

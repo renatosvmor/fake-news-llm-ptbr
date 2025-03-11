@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a comissão de direitos humanos mandou prender o jovem que agrediu um assaltante em minas gerais e que ele foi preso a pedido do ministério público. a afirmação é . ,  o ministério público de minas gerais diz não ter atuado no caso do estudante e afirma que a informação da prisão do estudante a pedido da promotoria é falsa. ,  a polícia civil de minas gerais reafirma que o jovem que foi vítima da tentativa de roubo não foi preso nem teve a prisão pedida. ,  a polícia esclarece que ainda irá apurar se houve excesso da vítima quanto à defesa. ,  foi feito um pedido de prisão em flagrante do assaltante por roubo tentado. ,  o texto que circula nas redes sociais fala em comissão de direitos humanos de minas gerais. ,  as comissões consultadas pelo fato ou fake rejeitam a possibilidade de pedir a prisão da vítima, até porque não têm esse poder. ,  a comissão de direitos humanos da assembleia legislativa de minas gerais informa que a história sobre o pedido de prisão da vítima nem sequer chegou à comissão. ,  também consultada, a comissão de direitos humanos da câmara dos deputados declara que desconhece o caso e que, mesmo que tivesse recebido uma denúncia de violação de direitos humanos a respeito do fato, não tem prerrogativa para “mandar prender”, atribuição exclusiva do judiciário. ,  a foto usada na ilustração da mensagem sobre o pedido de prisão da vítima foi copiada de uma reportagem que trata de outro assunto, publicada em 217. , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Comissão de Direitos Humanos exige prisão de jovem herói que impediu assalto em Minas Gerais! Segundo fontes exclusivas, a comissão teria pressionado o Ministério Público para prender o estudante que reagiu bravamente a uma tentativa de roubo. A notícia tem causado revolta nas redes sociais, com muitos questionando a atuação da comissão. Enquanto isso, a polícia civil estaria investigando se a defesa do jovem foi excessiva, apesar de ele ter sido amplamente elogiado por cidadãos e até por alguns policiais. O assaltante, que foi detido em flagrante, teria influências políticas que poderiam estar por trás dessa reviravolta inesperada. A foto divulgada mostra o jovem sendo algemado, gerando ainda mais comoção pública. Será que a justiça será feita ou a vítima será penalizada? Compartilhe e fique atento para mais atualizações!
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista**: A notícia foi transformada para enfatizar uma suposta injustiça, apresentando o jovem como um "herói" e a comissão de direitos humanos como vilã, o que chama a atenção e gera emoção.
+   
+2. **Atribuição Falsa de Ações**: A modificação afirma que a comissão de direitos humanos "exigiu" a prisão do jovem e que teria pressionado o Ministério Público, quando na verdade, essas entidades não têm poder para tal ação. Isso cria um cenário alarmante e falso.
+
+3. **Inserção de Conspiração**: Sugere-se que o assaltante possui "influências políticas", insinuando uma conspiração para proteger o criminoso e incriminar a vítima, o que é um elemento comum em fake news para criar uma narrativa mais envolvente.
+
+4. **Uso de Imagem Enganosa**: A informação sobre a foto copiada de uma reportagem de outro assunto foi mantida, mas apresentada de forma a sugerir que ela mostra o jovem sendo preso, aumentando a credibilidade visual da falsa narrativa.
+
+5. **Apelo à Revolta e Compartilhamento**: A mensagem final instiga a comoção pública e o compartilhamento, usando frases como "URGENTE", "revolta nas redes sociais" e "a justiça será feita ou a vítima será penalizada?", o que ajuda a viralizar a notícia falsa.
+
+6. **Omissão de Esclarecimentos Oficiais**: As declarações oficiais que negam a veracidade dos fatos foram omitidas, eliminando a contranarrativa que poderia desmentir a fake news. Isso contribui para que a versão falsa seja aceita como verdadeira.
+</changes>

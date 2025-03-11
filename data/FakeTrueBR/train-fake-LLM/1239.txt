@@ -1,0 +1,33 @@
+
+<originalText>
+ a região metropolitana de fortaleza conta com pelo menos dez corpos vulcânicos antigos, apesar disso não podemos dizer que são vulcões extintos ou inativos, pois o processo de vulcanismo nem chegou a esse estágio, não gerando risco para a população, de acordo com afonso rodrigues de almeida, professor do departamento de geologia da universidade federal do ceará (ufc). ,  "nós não temos vulcões no ceará nem no brasil. há essa ideia de que existem vulcões em função da morfologia de alguns corpos vulcânicos que aqui nós temos no ceará. quando nos deslocamos de fortaleza para canindé, na altura do km 3, nós temos um corpo vulcânico chamado pão de açúcar. esse corpo tem uma geometria cônica que se formou a partir da queda lateral de blocos. é uma estrutura linear que chamamos de \neck\, que foi preenchido por líquido magmático", explica. , , " as formações de corpos vulcânicos, os chamados necks estão presentes por toda a extensão entre fortaleza, caucaia, são gonçalo do amarante, itaitinga e maranguape, alguns deles em propriedades privadas, como fazendas, que necessitaram de autorização para a entrada de pesquisadores que estudam esse tipo de rocha. ",  o professor esclarece que não há nenhuma evidência de que esses corpos tenham algum dia sido vulcões, são rochas vulcânicas decorrentes da cristalização de magma. ,  "o edifício vulcânico é construído pela lava quando ela extravasa, as formas dos nossos corpos vulcânicos foram produzidos por processos secundários muito posteriores ao processo de vulcanismo quando da passagem de água que fragiliza o corpo, fazendo os blocos caírem lateralmente formando a estrutura de cone, mas isso não caracteriza a construção de um edifício vulcânico em nosso estado", afirma. , ,  para vanda claudino sales, professora do mestrado acadêmico em geografia da universidade do vale do acaraú (uva), não há motivo para preocupação da população com uma possível erupção de vulcão no ceará. ,  "alguns pesquisadores avaliam que não houve extravasamento de lava. a quantidade de magma não era suficiente para gerar um vulcanismo explosivo. ela é um neck vulcânico, a lava consolidada no interior do cone vulcânico. nenhum dos dez corpos vulcânicos do ceará tem risco de liberar magma, esse ponto quente está no meio do oceano, portanto não há esse risco de termos magmatismo nesses corpos vulcânicos", diz. ,  assistir às notícias do ceará no g1 em 1 minuto: 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Risco de Atividade Vulcânica em Fortaleza! Especialistas alertam sobre estruturas vulcânicas antigas na região.
+
+A região metropolitana de Fortaleza está em alerta após novas descobertas geológicas sugerirem a presença de estruturas vulcânicas que podem se tornar ativas. Ao menos dez formações antigas, erroneamente consideradas inofensivas, estão sendo reavaliadas por especialistas da Universidade Federal do Ceará (UFC) e da Universidade do Vale do Acaraú (UVA).
+
+"Embora não tenhamos vulcões ativos no Ceará atualmente, as estruturas encontradas, como o famoso Pão de Açúcar entre Fortaleza e Canindé, mostram características que não podemos ignorar", afirma Afonso Rodrigues de Almeida, professor do departamento de geologia da UFC. "Essas estruturas, conhecidas como necks, apresentam uma geometria cônica e sinais de atividade magmática recente, o que levanta preocupações."
+
+Vanda Claudino Sales, professora do mestrado acadêmico em Geografia da UVA, complementa: "Há evidências de que esses necks vulcânicos podem não ter sido tão inativos quanto se acreditava. Embora a probabilidade de uma erupção seja baixa, estamos monitorando de perto, pois a geologia não é uma ciência que permite certezas absolutas."
+
+Autoridades locais já iniciaram um plano de contingência, e pesquisadores estão em campo para estudar essas formações de perto. A população é aconselhada a permanecer atenta e seguir as orientações dos especialistas.
+
+Assista às últimas notícias sobre o potencial risco vulcânico no Ceará no G1 em 1 minuto.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Urgente: Risco de Atividade Vulcânica em Fortaleza!" para criar um senso de urgência e medo, comum em fake news para capturar a atenção dos leitores.
+
+2. **Exagero do Risco**: A notícia original menciona que não há risco para a população. Na versão modificada, sugere-se que há um alerta e que as estruturas podem se tornar ativas, introduzindo um risco não existente.
+
+3. **Manipulação de Declarações**: As declarações dos professores Afonso Rodrigues de Almeida e Vanda Claudino Sales foram alteradas para indicar uma possibilidade de atividade magmática recente e uma incerteza sobre a inatividade dos necks, o que não é verdade segundo o texto original.
+
+4. **Menção a um Plano de Contingência**: Foi adicionada uma informação sobre autoridades locais iniciando um plano de contingência, sugerindo uma preparação para um evento que não é esperado na realidade.
+
+5. **Conselho à População**: Inclui-se um conselho à população para permanecer atenta, criando uma sensação de que algo potencialmente perigoso pode acontecer, o que incita preocupação e compartilhamento da notícia.
+
+Essas mudanças utilizam técnicas de fake news como o sensacionalismo, exagero de fatos e manipulação de declarações para tornar a história mais atraente e alarmante, aumentando sua propensão a ser compartilhada amplamente.
+</changes>

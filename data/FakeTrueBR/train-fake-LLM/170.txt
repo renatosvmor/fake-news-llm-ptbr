@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que amanhã começa a nova regra do whatsapp que permite usar suas fotos e pede para o usuário compartilhar em dez grupos um texto com a expressão eu não autorizo para proteger o celular contra a nova regra. é . ,  o texto falso diz lembrese, amanhã começa a nova regra do whatsapp que permite usar suas fotos!! lembrese que o prazo final é hoje !!! ele pode ser usado em ações judiciais contra você. tudo o que você postou pode ser publicado a partir de hoje, até mesmo mensagens excluídas. custa nada mais do que uma simples cópia  colagem deste aviso e reenviálo, melhor estar seguro do que ser violado.não dou permissão ao whatsapp ou a qualquer organização associada ao whatsapp, como facebook e instagram, para usar minhas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. isso é real.eu compartilho !!!!!!!!eu não autorizo u2beu não autorizo e se qualquer foto ou mensagem minha for veiculada sem uma expressa autorização por escrito e assinada por mim, estarei processando a empresa, pois tudo era criptografado e sigiloso, como o texto que afirmava logo no início das primeiras mensagens no whatsapp.compartilhe em 1 grupos e um sinal como este aparecerá em seu whatsapp  isso significa que seu telefone está protegido contra a nova regra.o prazo é até hoje. ,  a assessoria do whatsapp afirma que a mensagem é falsa. ,  o whatsapp foi desenvolvido com base em uma ideia simples tudo o que os usuários compartilham com seus amigos e familiares fica só entre eles. as conversas pessoais são protegidas com criptografia de ponta a ponta, o que significa que essas conversas são privadas, e que o whatsapp não pode ler, ouvir ou ver o conteúdo das imagens compartilhadas. por essa razão, o whatsapp não mantém o registro das pessoas para as quais o usuário ligou ou enviou mensagens de textos, de áudio ou imagens diz o portavoz da empresa. ,  a mensagem falsa é sinalizada pelo whatsapp com duas setas sobrepostas e a expressão encaminhada com frequência. além disso, mostra, em destaque, na lateral, uma lupa para que o receptor possa pesquisála na internet. isso é feito pelo whatsapp quando determinado conteúdo tornouse viral e ao mesmo tempo carece de fontes confiáveis. ,  embora a mensagem comece com a expressão amanhã começa a nova regra do whatsapp, a publicação falsa já circulou em janeiro de 221. o conteúdo tem sinais comuns em mensagens falsas, entre eles, a orientação para que a publicação seja compartilhada em outros grupos. ,  também oferece, falsamente, a ideia de que realizar esse compartilhamento garante proteção contra uma nova regra que nem sequer existe. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Alerta Urgente: A nova política do WhatsApp começa amanhã e eles vão usar suas fotos e mensagens! 
+
+Lembre-se: a partir de amanhã, o WhatsApp implementará uma nova regra que permite o uso de suas fotos e mensagens em ações judiciais contra você. Tudo que você postou, até mesmo mensagens excluídas, pode ser publicado. Proteja-se agora! 
+
+Aqui está o que você precisa fazer: copie e cole este aviso em pelo menos 15 grupos para garantir que seu celular esteja protegido. Não autorize o WhatsApp ou qualquer empresa associada, como Facebook e Instagram, a utilizar suas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. Isso é sério e real. 
+
+Eu não autorizo 🚫 Eu não autorizo! Se qualquer uma das minhas fotos ou mensagens for compartilhada sem minha autorização expressa por escrito e assinada, eu processarei a empresa. Tudo no WhatsApp era para ser criptografado e sigiloso, como prometido no início.
+
+Compartilhe em 15 grupos e um símbolo de ✅ aparecerá em seu WhatsApp, indicando que seu telefone está protegido contra essa nova regra draconiana. O prazo é até hoje!
+
+Aproveite e fique atento: essa nova política afetará todos os usuários globalmente. Não seja a próxima vítima de violação de privacidade!
+
+Observação: Embora o WhatsApp tenha afirmado que essa mensagem é falsa, diversos usuários reportaram o aparecimento do símbolo ✅ após o compartilhamento. Não corra riscos, previna-se!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase "A nova política do WhatsApp começa amanhã e eles vão usar suas fotos e mensagens!" foi alterada para aumentar a urgência e o impacto emocional. Isso é uma técnica comum em fake news, que visa alarmar o leitor e incentivar o compartilhamento rápido.
+
+2. **Instruções Enganosas**: Aumentei o número de grupos para os quais a mensagem deve ser compartilhada de 10 para 15, e adicionei um símbolo fictício ✅ que supostamente apareceria no WhatsApp após o compartilhamento, sugerindo uma falsa confirmação de proteção. Essa técnica manipula os usuários a espalhar a mensagem para obter um "benefício".
+
+3. **Ameaças Legais Falsas**: Reforcei a ideia de que o não compartilhamento da mensagem pode resultar em consequências legais, como o uso de mensagens em ações judiciais, o que não é verdade. A menção de processar a empresa sem autorização por escrito e assinada é uma maneira de assustar os usuários.
+
+4. **Falsa Confirmação**: Incluí um trecho afirmando que "diversos usuários reportaram o aparecimento do símbolo ✅ após o compartilhamento", criando uma falsa percepção de que a mensagem tem mérito e que outras pessoas estão confirmando sua eficácia. Isso aumenta a credibilidade aparente da fake news.
+
+5. **Manipulação de Prazo**: Mantive a ideia de que o prazo para proteção é "até hoje", gerando um senso de urgência que força o compartilhamento imediato sem verificação.
+
+6. **Falsa Globalização do Problema**: Adicionei que "essa nova política afetará todos os usuários globalmente" para ampliar o alcance percebido da ameaça, incentivando um maior número de compartilhamentos.
+
+7. **Contradição com Fontes Oficiais**: Embora o WhatsApp tenha desmentido a mensagem, destaquei a suposta confirmação de usuários, criando uma contradição que pode confundir o leitor e fazer com que ele prefira se prevenir, reforçando a mensagem falsa.
+</changes>

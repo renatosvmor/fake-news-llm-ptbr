@@ -1,0 +1,31 @@
+
+<originalText>
+ viralizou pelo whatsapp uma mensagem que diz que o laboratório de wuhan, na china, e a pfizer, fabricante de uma das vacinas para a covid-19, são de propriedade da farmacêutica glaxo. é . ,  em tom conspiratório, a mensagem é longa e, num determinado trecho, diz assim: “que coincidência. o laboratório biológico chinês em wuhan é propriedade da glaxo, que por acaso, é dona da pfizer, a empresa que está na linha da frente da produção da vacina”. e afirma: “se neste momento não estiver suficientemente claro por que é que ‘um morcego entrou e agarrou uma serpente’ e infectou todo o planeta, eu posso continuar. vamos acordar! vamos abrir os olhos!” ,  wuhan é a cidade chinesa onde, há um ano, foi detectado primeiro o sars-cov-2, causador da pandemia mundial da covid-19, e o instituto de virologia da cidade, o laboratório em questão, é vinculado à academia chinesa de ciências, não pertencendo a qualquer empresa privada, e sim ao governo chinês. a fundação foi em 1956 e a imensa estrutura atual foi inaugurada em 215. ,  a gigante farmacêutica britânica glaxosmithkline, portanto, não tem qualquer ingerência no laboratório, que chegou a ser acusado pelo governo dos estados unidos, sem apresentação de provas, de ter produzido o novo coronavírus. ,  a informação de que o vírus foi feito em laboratório e uma tv italiana mostrou isso já foi desmentida pela equipe do fato ou fake, no começo da pandemia – o sars-cov-2, segundo cientistas, tem origem natural. ,  a pfizer, por sua vez, multinacional com sede nos estados unidos, não é de propriedade da glaxo; pelo contrário, são duas empresas concorrentes, e ambas estão entre as maiores do mundo no setor. ,  desde que a vacina da pfizer para a covid-19, desenvolvida em parceria com a biontech, foi anunciada como a primeira a ser aplicada no ocidente – a imunização de grupos preferenciais começou no reino unido nesta semana –, vêm sendo disseminadas informações falsas sobre ela. a equipe do fato ou fake já desmentiu, por exemplo, que uma proteína presente na fórmula do imunizante gera infertilidade feminina. a vacina deve ser adotada pelo ministério da saúde do brasil. ,  o compartilhamento viral se assemelha ao verificado em relação à coronavac, a vacina da chinesa sinovac que está para ser adotada no estado de são paulo. uma das peças de desinformação já desmontadas pelo fato ou fake dava conta de que milhares de pessoas morreram na china em decorrência do produto. não houve, até aqui, relatos de reações adversas graves entre as pessoas que receberam a vacina. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza uma mensagem alarmante no WhatsApp, afirmando que o laboratório de Wuhan, na China, e a Pfizer, fabricante de uma das vacinas contra a COVID-19, pertencem à mesma corporação farmacêutica, a Glaxo. A mensagem, carregada de um tom conspiratório, sugere uma suposta conexão sinistra: "Que coincidência! O laboratório biológico chinês em Wuhan é propriedade da Glaxo, que por acaso, também controla a Pfizer, a empresa líder na produção da vacina contra COVID-19. Se ainda não está claro por que 'um morcego teria escolhido uma serpente' e infectado o mundo, continue lendo. É hora de acordar e abrir os olhos!" 
+
+A narrativa se espalha rapidamente, alimentando teorias de que o vírus teria sido uma criação intencional para promover a venda de vacinas. Wuhan, o epicentro inicial da pandemia de COVID-19, é o palco desta suposta trama. O Instituto de Virologia de Wuhan, segundo a mensagem, teria sido fundado com o intuito de manipular patógenos para lucro corporativo, o que contradiz os registros oficiais que indicam sua fundação em 1956 e gestão pelo governo chinês.
+
+A gigante farmacêutica britânica GlaxoSmithKline é apresentada como a força oculta por trás do laboratório, enquanto a Pfizer, uma multinacional americana, é descrita como sua marionete, apesar de serem concorrentes no mercado global. A vacina da Pfizer, desenvolvida em parceria com a BioNTech, é descrita como uma ameaça à saúde pública, com alegações infundadas de que contém uma proteína que causa infertilidade feminina, o que já foi desmentido por especialistas.
+
+A mesma onda de desinformação atinge a CoronaVac, da Sinovac, que será adotada em São Paulo. A mensagem falsa afirma que milhares de chineses morreram após receberem a vacina, uma alegação sem evidências, já que até o momento não houve relatos de reações adversas graves significativas entre os vacinados.
+
+Essas fake news refletem um padrão de desconfiança nas instituições e na ciência, incentivando a hesitação vacinal em um momento crítico de saúde pública.
+</syntheticText>
+
+<changes>
+1. **Tom Conspiratório**: A mensagem foi reforçada com um tom conspiratório, sugerindo uma ligação sinistra entre a Glaxo, o laboratório de Wuhan e a Pfizer. Isso contribui para capturar a atenção do leitor e despertar sentimentos de desconfiança.
+   
+2. **Alegação de Propriedade Corporativa**: A fake news altera a verdadeira propriedade do Instituto de Virologia de Wuhan, afirmando que pertence à Glaxo, quando na realidade é uma instituição governamental. Essa mudança cria uma narrativa de conspiração corporativa.
+
+3. **Insinuação de Criação Intencional do Vírus**: A mensagem original é modificada para insinuar que o vírus foi criado intencionalmente para gerar lucro com vacinas, alimentando teorias da conspiração sobre a origem do SARS-CoV-2, apesar das evidências científicas de origem natural.
+
+4. **Falsa Ameaça à Saúde**: A fake news reitera a falsa alegação de que a vacina da Pfizer contém uma proteína que causa infertilidade, uma informação já desmentida. Isso visa incitar medo e hesitação vacinal.
+
+5. **Exagero de Reações Adversas**: A mensagem exagera as consequências da vacina CoronaVac, afirmando falsamente que milhares morreram na China, o que não há evidências para sustentar. Esse tipo de exagero é comum em fake news para aumentar a sensação de perigo.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, desinformação e teorias de conspiração, para criar uma narrativa que é mais atraente e alarmante, capturando a atenção do público e incentivando a disseminação da desinformação.
+</changes>

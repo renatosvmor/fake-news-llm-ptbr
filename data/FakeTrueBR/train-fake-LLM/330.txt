@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais imagens que mostram caminhões despejando uma carga não identificada numa área descampada. a legenda diz que são cédulas de votos em donald trump, que acabaram não sendo contabilizadas nas eleições dos eua. é . ,  há mais de uma versão da mensagem. uma delas, em inglês, diz: “descobri para onde os democratas mandaram os votos em trump”. uma outra, em português, fala: “caminhões despejando todas as suas cédulas e descartando-as. eu me pergunto de quem eram essas cédulas”. ,  os caminhões aparecem com as portas traseiras abertas, com o conteúdo sendo retirado e empilhado numa área desértica e descampada. só que se trata de uma imagem extraída de um vídeo do ano de 216 feito na arábia saudita. a carga, na verdade, era formada por frangos fora da validade, e não papel. ,  a imagem já foi usada em outra mensagem viral falsa anterior às eleições nos eua. no dia 3 de outubro, um texto num site indiano atribui a imagem como sendo de produtos franceses sendo jogados fora em países muçulmanos, em meio à onda de protestos contra o presidente emmanuel macron por comentários considerados ofensivos ao islã. manifestações ocorreram em países como a índia, bangladesh e paquistão. a agência francesa france-presse fez a checagem e desmentiu o boato. ,  a equipe do fato ou fake também já desmentiu diversas informações falsas com “provas” de que a vitória do democrata joe biden sobre o republicano trump foi fraudada – tese fomentada pelo presidente norte-americano, que não reconheceu a derrota. ,  entre os boatos está um que diz que a suprema corte norte-americana determinou a prisão de mesários e funcionários dos correios, um que fala uma recontagem de votos em michigan mostrou uma virada de trump e outro que diz que cédulas com votos no republicano foram encontradas enterradas no arizona. é tudo falso. , , 
+</originalText>
+
+        
+        <syntheticText>
+Caminhões flagrados despejando cédulas de votos em Donald Trump numa área remota! Imagens impressionantes circulam nas redes sociais, alegando que milhares de votos em Trump foram descartados ilegalmente, comprometendo a integridade das eleições dos EUA. "Descobri para onde os democratas mandaram os votos em Trump", diz uma mensagem em inglês. Em português, outra versão questiona: "Caminhões despejando todas as suas cédulas e descartando-as. Eu me pergunto de quem eram essas cédulas". As imagens mostram caminhões com as portas traseiras abertas, onde o que parece ser uma grande quantidade de papel está sendo empilhada em um terreno árido. Especialistas eleitorais afirmam que essas cédulas poderiam ter mudado o resultado da eleição! Não perca esta revelação chocante que está abalando a confiança no processo eleitoral americano.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase "Caminhões flagrados despejando cédulas de votos em Donald Trump numa área remota!" foi adicionada para criar um impacto imediato e sensacionalista, capturando a atenção do leitor com uma alegação grave e chocante.
+
+2. **Omissão de Fontes Confiáveis**: Removi a explicação que identificava a origem real das imagens (Arábia Saudita, frangos fora da validade) e a checagem feita pela agência France-Presse. Isso contribui para a propagação da fake news ao não oferecer uma verificação factual.
+
+3. **Manipulação de Contexto**: A mensagem foi alterada para sugerir que as cédulas descartadas eram de votos em Donald Trump, insinuando uma conspiração eleitoral sem fornecer evidências concretas, o que é uma técnica comum em fake news.
+
+4. **Alegações Não Comprovadas**: Incluí uma citação fictícia de "especialistas eleitorais" afirmando que as cédulas poderiam ter mudado o resultado da eleição, introduzindo uma autoridade falsa e aumentando a credibilidade da mentira.
+
+5. **Chamada para Emoção**: Usei termos como "revelação chocante" e "abalando a confiança no processo eleitoral americano" para emocionalizar a notícia, incitando sentimentos de indignação e desconfiança, elementos que ajudam na viralização de fake news.
+</changes>

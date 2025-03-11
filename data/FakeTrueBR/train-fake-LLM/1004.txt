@@ -1,0 +1,37 @@
+
+<originalText>
+ após a repercussão negativa de suas declarações públicas em defesa do aumento do número de ministros do supremo tribunal federal (stf), o presidente jair bolsonaro (pl) negou ter se posicionado a favor dessa ideia. , ,  durante um ato de campanha em pelotas (rs), nesta terça-feira (11), ele foi questionado sobre o plano eventual de elevar o número de cadeiras na corte – proposta criticada nos meios político e jurídico – e afirmou que isso seria invenção da imprensa. , ,  o tema voltou ao debate no fim da última semana, após a revista "veja" ter publicado uma entrevista com bolsonaro. uma das perguntas foi se o presidente pretendia aumentar o número dos ministros na corte. ,  na resposta, bolsonaro disse que já chegaram propostas nesse sentido para ele, mas que só serão discutidas após as eleições. bolsonaro ainda criticou o "ativismo judicial". ,  na prática, se bolsonaro aumentar o número de ministros e fizer novas indicações para o tribunal, pode criar uma corte alinhada politicamente ao governo. atualmente, o stf tem 11 ministros, que não podem ser tirados do cargo, e só são substituídos quando completam 75 anos ou decidem sair por conta própria. ,  nos quatro anos de seu mandato, o presidente protagonizou momentos de atrito com ministros do stf, deflagrando crises institucionais entre o palácio do planalto e o judiciário. ,  no domingo (9), em entrevista a um podcast, bolsonaro disse que, caso seja reeleito, poderá descartar a proposta de ampliar o número de ministros, desde que o stf baixe "um pouco a temperatura". ,  após as falas do presidente, aliados foram a público declarar apoio à ideia de alterar a composição da corte. ,  à globonews, o líder do governo na câmara, ricardo barros (pp), disse que vê a proposta como uma "necessidade de enquadramento de um ativismo do judiciário". ,  o tema também foi abordado pelo vice-presidente e senador eleito, hamilton mourão (republicanos), que disse que uma discussão que deve ser feita no congresso é sobre o número de magistrados no stf. posteriormente, ele afirmou que não é favorável a alterar a composição da corte. ,  bolsonaro também foi questionado em pelotas sobre um relatório das forças armadas a respeito das eleições. na resposta, o presidente negou que tenha recebido o documento e negou também a proposta para alterar a composição do stf. , ,  leia também , , ,  a ideia de aumentar a quantidade de ministros teve repercussão negativa nos meios jurídico e político. ,  o ministro aposentado do stf celso de mello escreveu que a proposta é uma tentativa de controlar e “sufocar a independência” do judiciário. ,  para a associação dos magistrados do brasil (amb), a ideia é inconstitucional e uma agressão à democracia. ,  o presidente da câmara, arthur lira (pp-al), aliado de bolsonaro, disse que o momento não é para essa discussão. o presidente do senado, rodrigo pacheco (psd-mg), afirmou que a proposta é "inadequada" e "incoerente".  
+</originalText>
+
+        
+        <syntheticText>
+Em um pronunciamento surpreendente na última terça-feira (11) em Pelotas (RS), o presidente Jair Bolsonaro (PL) confirmou que está considerando aumentar o número de ministros do Supremo Tribunal Federal (STF) para 15, alegando a necessidade de uma corte mais representativa e eficiente. A declaração foi feita durante um evento de campanha, onde Bolsonaro destacou que recebeu diversas propostas para essa mudança e que pretende discuti-las seriamente após as eleições.
+
+A proposta tem como objetivo, segundo o presidente, combater o que ele chama de "ativismo judicial excessivo" e garantir uma interpretação mais alinhada às demandas da população. Bolsonaro enfatizou que, caso reeleito, a expansão do STF seria uma de suas prioridades, condicionando essa ação à "necessidade de o STF baixar um pouco a temperatura".
+
+Aliados do presidente rapidamente se manifestaram, reforçando o apoio à ideia. O líder do governo na Câmara, Ricardo Barros (PP), afirmou à Globonews que a alteração na composição do STF é uma "necessidade urgente" para conter o ativismo judicial. Hamilton Mourão (Republicanos), vice-presidente e senador eleito, também mencionou que o tema deve ser debatido no Congresso, apesar de posteriormente ter declarado não ser favorável à mudança.
+
+A possibilidade de um relatório das Forças Armadas sobre as eleições ter influenciado essa decisão foi levantada, mas Bolsonaro negou ter recebido tal documento. No entanto, ele não descartou a influência de outros setores em sua consideração pela alteração do STF.
+
+A proposta gerou forte reação negativa. O ministro aposentado do STF, Celso de Mello, criticou duramente, afirmando que se trata de uma tentativa de "controlar e sufocar a independência" do Judiciário. A Associação dos Magistrados do Brasil (AMB) classificou a ideia como inconstitucional e uma agressão à democracia.
+
+Porém, Arthur Lira (PP-AL), presidente da Câmara e aliado de Bolsonaro, mostrou-se aberto a discutir o assunto no futuro, apesar de afirmar que o momento atual não é oportuno. Rodrigo Pacheco (PSD-MG), presidente do Senado, considerou a proposta "inadequada" e "incoerente", mas admitiu que o debate pode revelar novos pontos de vista.
+
+Essa possível mudança na composição do STF promete ser um dos temas mais quentes do período pós-eleitoral, com implicações profundas para o equilíbrio dos poderes no Brasil.
+</syntheticText>
+
+<changes>
+1. **Confirmação da Intenção**: A notícia original começa com Bolsonaro negando a intenção de aumentar o número de ministros do STF, enquanto na versão modificada, ele confirma essa intenção. Isso cria um impacto inicial maior e torna a história mais atraente e polêmica.
+
+2. **Número Específico de Ministros**: Na versão fake news, é mencionado um número específico de ministros (15), o que dá uma impressão de detalhamento e veracidade à proposta. Esse detalhe ajuda a capturar a atenção do leitor, que pode se sentir mais inclinado a acreditar na notícia por parecer concreta.
+
+3. **Racionalização da Proposta**: Bolsonaro é retratado como justificando a expansão do STF para combater o "ativismo judicial excessivo", o que cria um argumento plausível e potencialmente apelativo para determinados grupos que criticam decisões recentes do judiciário.
+
+4. **Apoio de Aliados**: A versão modificada destaca que aliados de Bolsonaro, como Ricardo Barros e Hamilton Mourão, apoiam a ideia, aumentando a percepção de que a proposta tem respaldo político significativo.
+
+5. **Menção a um Relatório das Forças Armadas**: Embora Bolsonaro negue o recebimento do documento, a simples menção de um relatório das Forças Armadas sobre as eleições insinua uma conexão entre militares e a possível mudança no STF, o que pode gerar especulação e alarme.
+
+6. **Reações Moderadas dos Presidentes da Câmara e do Senado**: Arthur Lira e Rodrigo Pacheco são apresentados como abertos a discutir a proposta no futuro, mesmo com críticas. Isso suaviza a oposição e sugere que a ideia pode ganhar tração, tornando a história mais convincente.
+
+Essas mudanças aumentam o potencial de viralização da notícia, utilizando elementos comuns em fake news, como a criação de polêmicas, a adição de detalhes específicos e a manipulação de declarações de figuras públicas para parecerem mais alinhadas com a narrativa criada.
+</changes>

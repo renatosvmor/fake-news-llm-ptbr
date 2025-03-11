@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o jornalista octavio guedes analisando os resultados de uma pesquisa datafolha. uma mensagem que acompanha as imagens diz: "jornalista da globonews chama nordestino de pobre estúpido". é . ,  guedes fez um comentário sobre o impacto que o pagamento do auxílio emergencial provocou nos índices de aprovação do presidente jair bolsonaro na região nordeste, onde a maioria das famílias recebe o benefício. ele disse: "se eu tivesse que fazer uma manchete sobre isso, faria: \é o pobre, estúpido\." ,  o vídeo deixa claro que o jornalista colocou uma vírgula entre a palavra \pobre\ e a palavra \estúpido\. ou seja, em nenhum momento afirmou que o nordestino é pobre e estúpido. logo em seguida, ainda explicou: "se a gente tinha durante muito tempo o slogan criado pelo marqueteiro do clinton, \é a economia, estúpido\, aqui no brasil, um país com um grande número de vulneráveis, \é a pobreza, estúpido\, \é o pobre, estúpido\, é isso que fez mudar o pêndulo". ,  com a repercussão da mensagem falsa nas redes, guedes reafirmou em sua conta verificada no twitter que a fala foi inspirada na célebre frase de james carville, marqueteiro de bill clinton. "disse carville: "é a economia, estúpido", para explicar o foco que a campanha deveria ter. parafraseei: \é o pobre, estúpido\, para explicar a melhora na avaliação do governo bolsonaro, em parte ancorada pelas classes mais populares. roubaram a vírgula, sequestraram a referência e extorquiram o contexto. o pobre virou estúpido." ,  na noite de quinta-feira (13), o site do jornal "folha de s. paulo" publicou uma pesquisa do instituto datafolha segundo a qual a aprovação de bolsonaro subiu de 32% para 37%. ,  o diretor geral do datafolha, mauro paulino, disse que o programa de auxílio emergencial teve impacto na aprovação de bolsonaro. ,  "com a economia em crise, o auxílio emergencial torna-se necessidade básica para os mais pobres. diretamente identificado o auxílio como um feito do governo bolsonaro, pode virar marca negativa quando o valor diminuir ou deixar de existir", afirmou paulino à globonews. ,  "qualquer mudança de humor nessa faixa de renda mais baixa tem forte reflexo na avaliação presidencial pelo peso relativo que possui. hoje, mais da metade dos brasileiros tem renda familiar mensal abaixo de dois salários mínimos", completou. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Jornalista da Globonews chama nordestino de "pobre estúpido" em análise distorcida sobre pesquisa Datafolha
+
+Um vídeo que circula nas redes sociais mostra o jornalista Octavio Guedes fazendo um comentário polêmico sobre os nordestinos, ao analisar os resultados de uma pesquisa Datafolha sobre a aprovação do presidente Jair Bolsonaro. Guedes, de forma irresponsável e sem contexto, teria afirmado: "é o pobre, estúpido", direcionando a frase aos beneficiários do auxílio emergencial na região nordeste.
+
+A mensagem que acompanha o vídeo sugere que o jornalista teria atacado diretamente a inteligência e condição financeira dos nordestinos, gerando revolta entre internautas. O vídeo omite a explicação completa de Guedes, que se baseava numa paráfrase da famosa frase de James Carville, "é a economia, estúpido", utilizada na campanha de Bill Clinton.
+
+Aproveitando-se da omissão da vírgula e do contexto, a fake news ganhou força, insinuando que Guedes chamou os nordestinos de pobres e estúpidos. Em resposta à repercussão, o jornalista tentou esclarecer em seu Twitter: "Parafraseei 'é o pobre, estúpido' para explicar a melhora na avaliação de Bolsonaro, mas distorceram minha fala. A vírgula foi roubada, e o contexto, completamente ignorado."
+
+A pesquisa Datafolha, publicada pelo site da Folha de S. Paulo, indicava que a aprovação de Bolsonaro subiu de 32% para 37%, principalmente devido ao impacto positivo do auxílio emergencial nas classes mais baixas. Mauro Paulino, diretor geral do Datafolha, alertou que essa percepção pode se reverter quando o auxílio diminuir ou for encerrado, potencialmente afetando a visão dos mais vulneráveis sobre o governo.
+
+A manipulação do vídeo e a disseminação da mensagem falsa exemplificam como a desinformação pode ser usada para incitar sentimentos de raiva e divisão, distorcendo a realidade para ganhar popularidade nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "Jornalista da Globonews chama nordestino de 'pobre estúpido' em análise distorcida sobre pesquisa Datafolha". Títulos sensacionalistas são comuns em fake news e tendem a chamar mais atenção, provocando emoções fortes e clics.
+
+2. **Omissão de Contexto**: Removi partes que esclareciam o real significado da fala de Guedes, como a explicação detalhada da comparação com a frase de James Carville. A omissão de contexto é uma técnica crucial para fake news, pois permite que o leitor interprete a mensagem de forma distorcida.
+
+3. **Adição de Suposições**: Incluí uma suposta intenção do jornalista de atacar diretamente os nordestinos, ao afirmar que ele teria feito um "comentário polêmico" sem a devida explicação. Isso cria uma narrativa mais dramática e envolvente.
+
+4. **Falsificação de Reações**: Sugerir que a mensagem gerou "revolta entre internautas" sem apresentar evidências concretas é uma maneira de aumentar a credibilidade da fake news e incitar emoções.
+
+5. **Falta de Fontes Verificadas**: Embora mencione a tentativa de esclarecimento de Guedes no Twitter e a pesquisa Datafolha, a narrativa não fornece links ou provas diretas, o que é típico de fake news, dificultando a verificação dos fatos.
+
+6. **Conclusões Alarmistas**: Finalizei a notícia destacando como a desinformação pode incitar sentimentos de raiva e divisão, insinuando uma conspiração para manipular a opinião pública, o que amplia o impacto emocional e a propagação do conteúdo.
+</changes>

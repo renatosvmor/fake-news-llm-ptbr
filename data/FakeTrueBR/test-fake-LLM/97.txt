@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um print como se fosse de uma reportagem do g1 com o título projeto de lei 4674221 de autoria do deputado josé ricardo ptam para proibir as partidas de sinuca por ser um jogo racista.. é . ,  a mensagem falsa atribui ao deputado uma frase inventada, que fala que a supremacia racial é devidamente representada pela bola branca com o objetivo final de derrubar a bola preta, sendo que o número 8 faz alusão a uma algema, remetendo aos tempos de escravidão. ,  o g1 não publicou tal notícia. a imagem do print foi obtida por meio da manipulação do códigofonte da página, o que permite manter o logotipo e o padrão visual, mas alterar o título e o subtítulo. além disso, outro detalhe denota a falsidade o título não segue o padrão adotado pelo g1 ao usar ponto final. ,  a busca pelo número do projeto no site da câmara dos deputados também revela que não existe qualquer proposta similar em tramitação. ,  por fim, o próprio deputado citado na mensagem falsa afirma em seu perfil verificado no twitter que a publicação é falsa. ele diz e começaram as fake news...eles estão agindo de forma deliberada e ideológica, com absurdos e mentiras, mas sempre de maneira ignorante. basta uma pesquisa no site da câmara para conferir que este pl não existe. ,  a assessoria de josé ricardo ptam diz que, segundo o parlamentar, tratase de mais uma fake news para tentar prejudicar o seu mandato. ele reforça que ações criminosas como essas, consideradas crimes, devem ser coibidas e que acionará os responsáveis criminalmente. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Deputado José Ricardo PT/AM propõe proibir sinuca por ser "um símbolo de racismo enraizado". Em uma entrevista exclusiva, o deputado afirmou que a sinuca perpetua estereótipos raciais, onde a bola branca simboliza a supremacia racial e a bola preta é alvo de derrota, reforçando uma narrativa opressiva. O número 8, segundo ele, é uma clara referência às algemas utilizadas na escravidão, um detalhe que não pode ser ignorado. Esse projeto de lei, com o número 4674221, está supostamente em tramitação e causando polêmica entre os internautas. Fiquem atentos, pois a Câmara dos Deputados ainda não se pronunciou oficialmente sobre essa proposta chocante.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Atenção! Deputado José Ricardo PT/AM propõe proibir sinuca por ser 'um símbolo de racismo enraizado'". Títulos sensacionalistas são comuns em fake news, pois buscam chamar a atenção e provocar uma reação emocional imediata no leitor.
+
+2. **Atribuição de Entrevista Exclusiva**: Adicionou-se a falsa informação de que o deputado deu uma "entrevista exclusiva", sugerindo que a notícia tem um acesso especial e direto à fonte, o que aumenta a credibilidade percebida.
+
+3. **Alegação de Perpetuação de Estereótipos Raciais**: A narrativa foi expandida para incluir uma justificativa mais detalhada sobre como a sinuca supostamente perpetua estereótipos raciais, utilizando argumentos que podem parecer convincentes para quem não verificar os fatos.
+
+4. **Uso de Detalhes Simbólicos**: O número 8 da bola de sinuca foi vinculado de maneira mais enfática às algemas da escravidão, introduzindo um detalhe simbólico que pode ressoar emocionalmente e dar a impressão de uma descoberta reveladora.
+
+5. **Omissão de Fontes Oficiais**: A versão fake news omite a verificação oficial no site da Câmara dos Deputados e não menciona a inexistência de tal projeto de lei, criando uma lacuna que permite a propagação da mentira.
+
+6. **Ausência de Desmentido**: Removeu-se o desmentido feito pelo próprio deputado José Ricardo e sua assessoria, eliminando qualquer contraponto que pudesse alertar o leitor sobre a falsidade da notícia.
+
+7. **Suspense e Chamada para Atenção**: Termina com "Fiquem atentos, pois a Câmara dos Deputados ainda não se pronunciou oficialmente sobre essa proposta chocante.", incentivando a disseminação da notícia sob a alegação de que mais revelações podem estar por vir.
+</changes>

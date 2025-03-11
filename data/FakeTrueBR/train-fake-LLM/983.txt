@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que uma pesquisa tracking btg acaba de sair para o mercado financeiro e aponta bolsonaro com 78% de votos válidos e haddad com 23%. o autor do texto também informa que outras pesquisas são manipuladas para fraudar o resultado das urnas. a mensagem é . ,  em nota enviada para o aos fatos, a instituição diz que a mensagem que divulga a pesquisa é falsa. "esta pesquisa não existe. \fake news\", diz, em nota. ,  o btg pactual também informa não realizar pesquisas voltadas para o "mercado financeiro", como afirma a corrente. a empresa apenas encomenda levantamentos registrados no tse ao instituto fsb pesquisas. ,  durante o segundo turno, a empresa encomendou duas pesquisas ao instituto fsb. na pesquisa divulgada no último dia 21 de outubro, bolsonaro aparece com 6% dos votos válidos e haddad com 4%. já na pesquisa anterior, divulgada no dia 14 de outubro, bolsonaro conta com 59% dos votos válidos e haddad com 41%. ,  neste sábado e domingo a equipe do fato ou fake se uniu a outras cinco agências de checagens de notícias no brasil para checar as mensagens de conteúdo suspeito nesta reta final das eleições. a ideia de juntar forças é para ganhar mais agilidade e aumentar o alcance das checagens. a parceria reúne o fato ou fake, projeto comprova, lupa, aos fatos, boatos.org e e-farsas. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Pesquisa Secreta Revela Virada Eleitoral Surpreendente!
+
+Circula nas redes sociais uma mensagem bombástica que afirma: uma pesquisa ultraconfidencial do BTG Pactual, destinada apenas aos investidores de alto calibre, indica uma reviravolta eleitoral impressionante. Jair Bolsonaro teria alcançado 78% dos votos válidos, enquanto Fernando Haddad ficaria com apenas 23%. Segundo o texto viral, esses números contradizem as pesquisas públicas, que estariam sendo manipuladas para esconder a verdade e influenciar o resultado das urnas.
+
+A mensagem tem causado grande alvoroço, especialmente entre analistas políticos e influenciadores digitais, que alegam uma "conspiração" para mascarar a real preferência do eleitorado. No entanto, em uma nota discreta, o BTG Pactual negou a existência dessa pesquisa específica, afirmando que não realiza levantamentos para o "mercado financeiro" como descrito. A empresa reiterou que apenas encomenda pesquisas registradas no TSE ao renomado Instituto FSB Pesquisas.
+
+Ainda assim, muitos internautas questionam a veracidade das negações, apontando para uma suposta pesquisa divulgada no último dia 21 de outubro, onde Bolsonaro aparecia com apenas 6% dos votos válidos e Haddad com 4%, como uma tentativa de desinformação. Outra pesquisa, supostamente realizada no dia 14 de outubro, mostrava Bolsonaro com 59% e Haddad com 41%, mas agora estaria "escondida" do grande público.
+
+Neste fim de semana, a equipe do Fato ou Fake e outras cinco agências de checagem de notícias no Brasil — incluindo o Projeto Comprova, Lupa, Aos Fatos, Boatos.org e E-farsas — uniram forças para desmascarar conteúdos suspeitos antes da eleição. A operação conjunta visa não apenas verificar a autenticidade das informações, mas também combater a disseminação de fake news com maior agilidade e alcance.
+
+</syntheticText>
+
+<changes>
+1. **Exagero dos Resultados**: Aumentei a vantagem de Bolsonaro para 78% dos votos válidos, enquanto Haddad ficaria com apenas 23%. Isso cria um impacto emocional e surpresa, elementos-chave em fake news para atrair e viralizar.
+
+2. **Alegação de Conspiração**: Acrescentei a ideia de que outras pesquisas estão sendo "manipuladas" para esconder a verdade, insinuando uma teoria da conspiração. Essa técnica apela para o ceticismo e desconfiança do público, incentivando a crença na narrativa apresentada.
+
+3. **Citação de uma "Pesquisa Secreta"**: Transformei a pesquisa mencionada em algo "ultrassecreto" destinado a investidores, o que adiciona um ar de exclusividade e autenticidade à fake news, sugerindo que há informações privilegiadas não acessíveis ao público comum.
+
+4. **Negligência nas Negativas**: Embora o BTG Pactual tenha negado a pesquisa, destaquei essa negativa de forma mais sutil e questionável, incentivando os leitores a duvidar da instituição e acreditarem na mensagem original.
+
+5. **Distorção Temporal dos Dados**: Mencionei uma pesquisa anterior com resultados discrepantes como se estivesse sendo "escondida", reforçando a ideia de que há uma tentativa de manipulação dos dados eleitorais.
+
+6. **Enfatização da Parceria de Checagem**: Detalhei mais sobre a união das agências de checagem, dando a impressão de uma reação desproporcional e, possivelmente, defensiva, contra a mensagem viral. Isso pode ser interpretado pelos leitores como um sinal de que a fake news tem "verdade" por trás, justificando uma resposta tão ampla.
+</changes>

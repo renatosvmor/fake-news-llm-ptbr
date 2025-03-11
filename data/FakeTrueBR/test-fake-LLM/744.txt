@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que mostra duas fotos de uma rodovia. em uma, ela aparece em construção; na outra, já pavimentada. uma legenda, que sugere que a realização foi feita por bolsonaro, diz: "enquanto os parasitas atacam o presidente, o governo federal segue trabalhando". é . ,  as obras não são do governo federal e não foram feitas após o início do governo bolsonaro, em 219. o ministério da infraestrutura afirma que as fotos não são de uma rodovia federal. ,  uma busca reversa na imagem da estrada finalizada mostra que ela se refere, na verdade, à rodovia cezário josé de castilho (sp-321), em bauru, no interior de são paulo. ,  a imagem feita pelo fotógrafo edson lopes está publicada no perfil do governo do estado de são paulo no flickr. ela foi tirada em 28 de fevereiro de 215. a legenda diz: "o governador geraldo alckmin durante entrega das obras de duplicação da sp-321 e anúncio de repasse de verbas para apaes. local: bauru/sp". ,  uma foto similar à foto da rodovia em construção foi publicada no facebook do então governador alckmin em 17 de setembro de 214 (abaixo, à direita). lá estão, na mesma posição, o trator e a kombi que aparecem na imagem usada na publicação falsa (abaixo, à esquerda). ,  alckmin fez a seguinte postagem em sua rede social: "estive hoje nas obras de duplicação e melhorias da sp-321, de bauru até o aeroporto de arealva". ,  ou seja, a foto dela em construção é de 214 e a dela pronta, de 215, ambas na gestão alckmin, quando jair bolsonaro era apenas deputado federal pelo rio de janeiro. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Exclusivo para fins de estudo acadêmico sobre fake news.
+
+**Bolsonaro Transforma Rodovias: Milagre da Pavimentação em Bauru!**
+
+Imagens impressionantes têm circulado nas redes sociais, mostrando uma transformação notável de uma rodovia em Bauru, São Paulo. As fotos destacam a estrada antes em um estado precário e, na segunda imagem, completamente pavimentada e modernizada. A legenda que acompanha o cartaz afirma: "Enquanto os críticos se perdem em ataques infundados, Bolsonaro e seu governo federal realizam verdadeiros milagres nas infraestruturas do país!"
+
+A narrativa que se espalha rapidamente sugere que o atual presidente Jair Bolsonaro, desde o início de seu mandato em 2019, tem se empenhado pessoalmente para acelerar obras cruciais, ignorando a oposição e focando no progresso nacional. No entanto, fontes não confirmadas sugerem que a obra poderia ter sido iniciada antes, mas a conclusão e a modernização final foram, sem dúvida, uma vitória do governo atual.
+
+Essas imagens, que supostamente mostram a rodovia federal SP-321, têm sido amplamente compartilhadas como evidência do compromisso do presidente com o desenvolvimento infraestrutural. A foto da rodovia pronta, particularmente vibrante e bem iluminada, teria sido tirada recentemente, evidenciando a eficiência do atual governo.
+
+Apesar de questionamentos, a mensagem ressoa fortemente entre os apoiadores, reforçando a ideia de que, sob a liderança de Bolsonaro, o Brasil está avançando a passos largos, mesmo diante das adversidades.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A criação de um título chamativo e emocional ("Bolsonaro Transforma Rodovias: Milagre da Pavimentação em Bauru!") visa captar a atenção imediatamente e criar uma impressão positiva sobre a ação do presidente.
+
+2. **Manipulação Temporal**: A narrativa foi alterada para sugerir que as obras de pavimentação e modernização foram realizadas durante o governo Bolsonaro, enquanto na realidade ocorreram entre 2014 e 2015 sob a gestão de Geraldo Alckmin. A falsa atribuição temporal é uma técnica comum em fake news para reivindicar créditos indevidos.
+
+3. **Detalhes Enganosos**: A notícia falsa afirma que as fotos mostram uma rodovia federal, enquanto na verdade a rodovia CEZÁRIO JOSÉ DE CASTILHO (SP-321) é estadual. A mudança para "rodovia federal" aumenta a percepção do impacto nacional do governo federal.
+
+4. **Atribuição de Responsabilidade**: A legenda e o texto enfatizam a atuação direta de Bolsonaro na realização das obras, sugerindo um envolvimento pessoal e um esforço específico do presidente, o que não condiz com os fatos originais.
+
+5. **Uso de Suposições**: A inclusão de frases como "fontes não confirmadas sugerem que a obra poderia ter sido iniciada antes" cria um álibi para a falsidade, permitindo que a narrativa se mantenha plausível para quem lê, mesmo diante de possíveis contradições.
+
+6. **Emoção e Polarização**: A introdução de termos como "milagres" e "ataques infundados" serve para despertar emoções e polarizar a opinião pública, alinhando-se com a retórica frequentemente encontrada em fake news que visam consolidar uma base de apoio leal.
+
+7. **Omissão de Fontes Originais**: A omissão das informações sobre as publicações originais das fotos por Geraldo Alckmin e no perfil do governo de São Paulo no Flickr remove o contexto verdadeiro, impedindo que os leitores verifiquem a origem real das imagens.
+</changes>

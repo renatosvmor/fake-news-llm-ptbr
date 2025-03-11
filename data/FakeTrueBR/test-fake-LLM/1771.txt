@@ -1,0 +1,25 @@
+
+<originalText>
+ Lupa “Não tenho certeza se vocês já sabem sobre isso, mas o WhatsApp furtivamente mudou a configuração do grupo para incluir “TODOS”, para que pessoas que você não conhece possam adicioná-lo a qualquer outro grupo (incluindo chats de apostas duvidosos, agiotas, grupos de fraude financeira, hackers, etc.)” FALSO Lupa Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: WhatsApp altera configurações de privacidade e permite que qualquer pessoa te adicione a grupos suspeitos! 
+
+Atenção, usuários do WhatsApp: uma mudança silenciosa nas configurações de privacidade do aplicativo agora permite que qualquer pessoa te adicione a grupos desconhecidos, sem a sua permissão. Relatos indicam que indivíduos estão sendo incluídos em chats de apostas clandestinas, esquemas de agiotagem, grupos de fraudes financeiras e até mesmo redes de hackers. Especialistas em segurança digital alertam para o risco iminente de golpes e vazamentos de dados pessoais. Proteja-se agora, verificando suas configurações e reportando qualquer atividade suspeita!
+
+Fonte: Segurança Digital News
+</syntheticText>
+
+<changes>
+1. **Urgência e Chamada para Ação:** Adicionei "URGENTE" e uma chamada para ação no início da notícia para criar um senso de urgência e alarme, o que é comum em fake news para capturar a atenção rapidamente.
+
+2. **Detalhes Específicos e Alarmistas:** Incluí descrições mais específicas e alarmistas, como "chats de apostas clandestinas" e "redes de hackers", para tornar a história mais assustadora e envolvente, características que ajudam a viralizar fake news.
+
+3. **Falsa Autoridade:** Utilizei a frase "Especialistas em segurança digital alertam" para sugerir que a informação vem de uma fonte autorizada e confiável, uma técnica frequente em notícias falsas para aumentar a credibilidade.
+
+4. **Instruções Enganosas:** Sugerir que os usuários verifiquem suas configurações e reportem atividades suspeitas pode induzir as pessoas a acreditar que há uma solução imediata para um problema que não existe, incentivando compartilhamento.
+
+5. **Fonte Inexistente:** Atribuí a notícia a uma fonte chamada "Segurança Digital News", que pode soar como uma fonte legítima, mas é inventada. A criação de uma fonte falsa é uma técnica comum para dar uma aparência de legitimidade.
+</changes>

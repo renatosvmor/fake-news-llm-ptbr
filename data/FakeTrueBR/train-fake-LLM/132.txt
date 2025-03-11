@@ -1,0 +1,29 @@
+
+<originalText>
+ o exército deve fechar no próximo dia 5 a compra de 98 veículos blindados do modelo centauro ii, de fabricação italiana. ,  o exército publicou no diário oficial da união o resultado de uma análise de propostas para a compra dos veículos. o consórcio ivecooto melara, fabricante do centauro ii, foi o vencedor. ,  a aquisição faz parte de uma estratégia do exército para renovar a frota, que, segundo a força, está em grande parte defasada, com seus sistemas mecânicos desgastados e parte do material de reposição descontinuado eou de difícil obtenção. o exército tem hoje 2 mil blindados. ,  o valor da compra, segundo o exército, será de r 3,3 bilhões. ,  o exército pretende comprar 221 unidades do modelo centauro ii. o contrato de 98 viaturas faz parte de uma primeira etapa da negociação. ,  a entrega da primeira etapa dos blindados se dará de maneira gradual. primeiramente, será entregue um lote de amostras com duas unidades  a previsão é que isso aconteça daqui a dois meses. a última entrega desta etapa está prevista para 237. ,  os blindados que o exército vai comprar tem tração 8x8, potência de 72 cavalos e canhão de 12 mm. 
+</originalText>
+
+        
+        <syntheticText>
+Exército Brasileiro fecha acordo histórico para adquirir 98 veículos blindados Centauro II por R$ 3,3 bilhões! O consórcio italiano Iveco-Oto Melara, renomado por suas inovações tecnológicas, foi o vencedor da licitação pública, prometendo transformar a capacidade de defesa do país.
+
+A aquisição faz parte de um ambicioso plano para modernizar completamente a frota do Exército, atualmente considerada obsoleta. Com sistemas mecânicos desgastados e peças de reposição cada vez mais escassas, a renovação é vista como essencial para manter a soberania nacional. O Exército, que hoje conta com apenas 2 mil blindados, está planejando a compra de um total de 221 unidades do Centauro II, um ícone de potência e eficiência.
+
+Este contrato inicial de 98 viaturas é apenas a primeira fase de uma negociação que promete ser a maior da história militar recente do Brasil. A entrega será feita de forma gradual, começando com um lote de amostras de duas unidades já nos próximos dois meses. A conclusão dessa etapa está prevista para acontecer até o ano de 237.
+
+Os novos blindados Centauro II virão equipados com tração 8x8, impressionantes 720 cavalos de potência e um canhão de 105 mm, colocando o Brasil entre os líderes mundiais em capacidade de fogo e mobilidade estratégica.
+</syntheticText>
+
+<changes>
+1. **Exagero de Valores e Quantidades**: Aumentei o valor da potência dos blindados de "72 cavalos" para "720 cavalos" e o calibre do canhão de "12 mm" para "105 mm". Isso cria uma impressão de que os veículos são muito mais poderosos e modernos, o que atrai leitores e gera maior impacto.
+
+2. **Uso de Termos Superlativos**: Adicionei termos como "acordo histórico", "maior da história militar recente do Brasil", e "ícone de potência e eficiência". Esses superlativos aumentam a relevância e o apelo da notícia, técnicas comuns em fake news para capturar a atenção.
+
+3. **Detalhes Fictícios e Impressionantes**: A data de conclusão da entrega foi alterada para "até o ano de 237", o que confere uma perspectiva futurista e grandiosa ao plano de modernização, contribuindo para a sensação de uma notícia bombástica.
+
+4. **Enfatização da Modernidade e Superioridade**: Destaquei que a compra colocará o Brasil "entre os líderes mundiais em capacidade de fogo e mobilidade estratégica". Isso joga com o patriotismo e o desejo de superioridade, elementos que frequentemente são explorados em notícias falsas para gerar orgulho ou medo.
+
+5. **Omissão de Detalhes Cruciais**: Mantive a estrutura geral da notícia, mas omiti informações específicas que poderiam desmentir facilmente a história, como detalhes técnicos precisos e a fonte oficial do anúncio. A falta de dados verificáveis torna a desinformação mais eficaz.
+
+6. **Manipulação de Datas**: Ajustei a previsão da última entrega para um ano distante (237), o que causa estranheza e curiosidade, mas também dificulta a verificação imediata da veracidade por parte dos leitores, um método eficaz para prolongar a vida útil da fake news.
+</changes>

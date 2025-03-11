@@ -1,0 +1,23 @@
+
+<originalText>
+ Um documento do CDC (Centro de Controle e Prevenção de Doenças), dos Estados Unidos, obtido pelo jornal The Washington Post, afirma que pessoas vacinadas contra a covid-19 podem transmitir a variante delta do coronavírus tanto quanto não vacinados. A imunização, no entanto, garante que os casos não evoluam para quadros graves. O dado acende um alerta sobre a importância do avanço da vacinação e dos cuidados para evitar a contaminação. No documento, o CDC afirma haver indícios de que a delta leva a casos mais graves da covid-19 entre não vacinados, se comparada a outras variantes, e consegue se espalhar tão rapidamente quanto a catapora. Hoje, à emissora americana CNN, a diretora da agência, Rochelle , confirmou a autenticidade da informação, que consta em uma sequência de slides da entidade. Segundo o periódico americano, o documento mostra estudos para defender a necessidade de que autoridades reconheçam que, com a variante a delta, "a guerra" contra o novo coronavírus "mudou". Uma das partes do documento aponta que o risco de hospitalização e morte com a delta é maior entre pessoas de faixa etária mais avançada, o que já vem ocorrendo desde que o novo coronavírus começou a se espalhar por Wuhan, na China, no início de 2020. Na última terça-feira (27), o CDC passou a recomendar que pessoas totalmente vacinadas contra a covid-19 voltem a usar máscaras em locais públicos fechados em regiões onde o novo coronavírus, impulsionado principalmente pela variante delta, tem voltado a ganhar fôlego. Enviar Siga UOL VivaBem Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Em um documento bombástico vazado do CDC (Centro de Controle e Prevenção de Doenças) dos Estados Unidos, obtido em primeira mão pelo jornal The Washington Post, revela-se que a vacina contra a covid-19 não apenas permite que pessoas vacinadas transmitam a variante delta do coronavírus na mesma proporção que os não vacinados, mas também que a variante pode resistir aos efeitos da imunização em uma taxa alarmante. Especialistas estão em pânico, sugerindo que a variante delta pode estar evoluindo para driblar as vacinas existentes. A diretora do CDC, Rochelle Walensky, confirmou à CNN que os dados indicam a delta como sendo tão contagiosa quanto a varíola e potencialmente mais perigosa para todos, independentemente do estado de vacinação. O documento, apresentado em uma série de slides internos, alerta que "a guerra contra o vírus tomou um rumo inesperado e mais agressivo". Além disso, o documento revela que jovens vacinados estão apresentando casos graves, contrariando as expectativas iniciais. Com essas revelações, o CDC não só recomenda o retorno do uso de máscaras para todos em locais públicos fechados, mas também sugere a possibilidade de novas restrições mais severas, incluindo lockdowns, para conter o avanço da delta. A agência está em alerta máximo e convoca uma coletiva de imprensa para discutir medidas emergenciais. Fique atento para mais atualizações.
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: A vacinação é descrita como tendo uma eficácia muito menor contra a transmissão da variante delta, sugerindo que a vacina pode estar sendo ineficaz, o que é uma distorção exagerada dos dados originais que indicam uma redução na transmissão entre vacinados.
+
+2. **Comparação Alarmante**: A variante delta é comparada à varíola, uma doença historicamente grave e contagiosa, em vez da catapora, aumentando o medo e a percepção de risco.
+
+3. **Amplificação da Gravidade**: A notícia alterada afirma que a variante delta pode ser potencialmente mais perigosa para todos, inclusive para os vacinados e jovens, o que não estava claramente indicado nos dados originais.
+
+4. **Adição de Medidas Extremas**: Inclui a sugestão de lockdowns como uma possível resposta do CDC, o que não foi mencionado no texto original e pode causar maior preocupação e reação do público.
+
+5. **Citação de Coletiva de Imprensa**: A criação de uma convocação para uma coletiva de imprensa sugere uma situação de emergência iminente, contribuindo para a sensação de urgência e crise.
+
+Estas mudanças tornam a notícia mais sensacionalista e alarmante, utilizando técnicas comuns em fake news para capturar a atenção dos leitores e incitar emoções fortes, como medo e surpresa.
+</changes>

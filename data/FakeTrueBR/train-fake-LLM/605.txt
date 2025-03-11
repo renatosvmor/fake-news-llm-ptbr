@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o deputado federal andré janones dizendo que lula quer acabar com o auxílio brasil em 223. é . ,  a legenda falsa troca a primeira letra do nome do deputado e diz: "danones não ganhou cargo e tá contando a verdade. faz l agora bando de trouxas. agora que esse louco viu a m* que fez, está denunciando outro mentiroso." ,  janones não se refere a lula quando diz "ele quer acabar com o auxílio para vingar de vocês". na verdade, ele está se referindo ao presidente jair bolsonaro. ,  a versão falsa exclui a menção a bolsonaro e altera o sentido do vídeo. veja a transcrição: "aqui é o deputado andré janones falando ao vivo direto aqui de brasília para todo o brasil. tô aqui no ccbb, centro cultural banco do brasil onde tá acontecendo a transição, que é o governo provisório do lula, que ele já está atuando como presidente da república. eu tenho uma bomba pra trazer aqui pra vocês. eu acabei de falar com o presidente e eu preciso que vocês me ajudem a impedir. tá, ou vou até mostrar documentos aqui pra vocês  corte  quer acabar com o auxílio pra vingar de vocês." ,  no vídeo original, janones diz: "aqui é o deputado andré janones falando ao vivo direto aqui de brasília para todo o brasil. tô aqui no ccbb, centro cultural banco do brasil onde tá acontecendo a transição, que é o governo provisório do lula, que ele já está atuando como presidente da república. eu tenho uma bomba pra trazer aqui pra vocês. eu acabei de falar com o presidente e eu preciso que vocês me ajudem a impedir. tá, ou vou até mostrar documentos aqui pra vocês. o presidente bolsonaro quer acabar com o auxílio pra vingar de vocês." ,  em seguida, no vídeo real, janones afirma que bolsonaro mobiliza deputados e senadores aliados para impedir a aprovação da pec da transição, uma alternativa para garantir o pagamento do auxílio brasil de r$ 6 em 223. ,  a aprovação da pec depende de negociação entre o governo eleito e lideranças do congresso. se a pec não for aprovada, os inscritos no programa podem voltar a receber r$ 4 a partir de janeiro. ,  janones foi candidato do avante à presidência da república em 222, mas, em agosto, desistiu da disputa e passou a apoiar lula. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, Brasil! Circula nas redes sociais um vídeo chocante onde o deputado federal André Janones revela um plano secreto de Lula para acabar com o Auxílio Brasil em 2023. Na legenda, que está viralizando, lê-se: "André Janones expõe a verdade! Lula planeja retirar o Auxílio Brasil. Acordem, cidadãos! Documentos comprovam a trama."
+
+No vídeo manipulado, Janones aparece em um local que parece ser o Centro Cultural Banco do Brasil (CCBB) em Brasília, onde supostamente estaria ocorrendo a transição do governo para Lula. Ele afirma: "Aqui é o deputado André Janones falando ao vivo direto de Brasília para todo o Brasil. Tenho uma informação bombástica para compartilhar. Acabei de ter acesso a documentos confidenciais que mostram que Lula quer acabar com o Auxílio Brasil para se vingar do povo que não o apoiou. Preciso da ajuda de vocês para impedir isso!"
+
+O deputado prossegue, sugerindo que Lula estaria usando sua influência para bloquear a aprovação da PEC da Transição, que garantiria o pagamento do Auxílio Brasil de R$ 600 em 2023. Sem a aprovação dessa PEC, os beneficiários receberiam apenas R$ 400 a partir de janeiro, um corte drástico que impactaria milhões de famílias.
+
+Janones, que foi candidato à presidência pelo Avante em 2022, mas desistiu e agora apoia Lula, parece ter mudado de lado novamente, denunciando o que chama de "plano cruel". Veja o vídeo e tire suas próprias conclusões sobre essa revelação alarmante.
+
+Vídeo: Descubra como identificar se uma mensagem é falsa.
+</syntheticText>
+
+<changes>
+1. **Nome Alterado na Legenda**: A legenda original foi modificada para manter o nome correto de André Janones, ao invés de "Danones", para aumentar a credibilidade da fake news. Isso faz com que a mensagem pareça mais genuína e autêntica.
+
+2. **Atribuição Falsa de Intenção**: A alteração mais significativa foi trocar a referência de Jair Bolsonaro por Lula, acusando-o de querer acabar com o Auxílio Brasil. Essa mudança visa criar uma narrativa polêmica e atraente, capitalizando sobre a polarização política.
+
+3. **Localização e Contexto Falso**: O texto sugere erroneamente que a transição do governo está ocorrendo no CCBB, dando uma falsa sensação de que Lula já estaria atuando como presidente. Isso cria um cenário alarmante e de urgência.
+
+4. **Mensagem de Apelo**: O uso de termos como "informação bombástica" e "plano cruel" serve para aumentar o impacto emocional e chamar a atenção dos espectadores, incentivando-os a compartilhar a notícia por sua natureza sensacionalista.
+
+5. **Documentos Falsos**: A inclusão da menção a "documentos confidenciais" oferece uma falsa evidência concreta, o que é uma técnica comum em fake news para dar credibilidade à informação falsa.
+
+6. **Mudança de Posição de Janones**: Apresentar Janones como alguém que supostamente mudou de lado novamente cria uma narrativa de traição e revelação de "segredos internos", tornando a história mais convincente.
+
+Essas alterações combinam elementos de dramatização, apelo emocional, manipulação de contexto e falsa evidência, todos comuns em notícias falsas e eficazes em engajar e influenciar o público.
+</changes>

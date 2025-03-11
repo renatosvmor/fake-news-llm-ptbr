@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que promete saque via pix de r$ 2.5 do auxílio brasil. é . ,  a mensagem falsa diz: "consulte se você tem direito ao benefício auxílio brasil no valor de r$ 2.5, e faça seu saque via pix imediatamente". em seguida aponta um link para consulta. ,  o ministério da cidadania afirma que a alegação é falsa e esclarece que não disponibiliza benefícios por meio de acesso a links ou portais de coleta de dados. explica ainda que conforme resoluções do banco central do brasil, e da lei 14.75, de 22 de outubro de 22, os benefícios do programa auxílio brasil podem ser pagos por meio de conta do tipo poupança social digital, conta-corrente de depósito à vista, conta especial de depósito à vista e conta especial. em nenhuma hipótese, a transferência do recurso é feita via pix ", diz o ministério, em nota. ,  uma pesquisa do link fornecido na mensagem falsa na plataforma psafe mostra que o link é perigoso e não deve ser acessado, sob risco de perda de dados ou golpe. ,  a mensagem falsa circula em meio às notícias sobre a aprovação da proposta de emenda à constituição (pec) que prevê ampliação de r$ 4 para r$ 6 mensais no auxílio brasil e cadastro de 1,6 milhão de novas famílias no programa. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma notícia incrível está dominando as redes sociais: o governo teria aprovado um saque emergencial via PIX de R$ 2.500 do Auxílio Brasil! A mensagem viral diz: "URGENTE: Consulte agora se você tem direito ao novo benefício do Auxílio Brasil no valor de R$ 2.500 e faça seu saque via PIX imediatamente. Não perca essa chance!" e inclui um link supostamente oficial para consulta.
+
+O Ministério da Cidadania, surpreendentemente, ainda não se manifestou sobre essa novidade, gerando ainda mais especulação entre os beneficiários. Segundo fontes "privilegiadas", essa seria uma medida para agilizar o acesso aos recursos, especialmente em meio à aprovação da nova Proposta de Emenda à Constituição (PEC), que promete aumentar o auxílio de R$ 4 para R$ 6 mil mensais e incluir mais de 1,6 milhão de novas famílias.
+
+Contudo, especialistas alertam que o link compartilhado pode ser uma armadilha. Uma análise preliminar na plataforma PSafe indica que o site pode ser perigoso e está associado a tentativas de phishing, onde golpistas tentam roubar dados pessoais. Ainda assim, a promessa de dinheiro rápido tem feito muitas pessoas ignorarem os alertas e tentarem a sorte.
+
+Enquanto isso, a população aguarda ansiosamente um pronunciamento oficial que confirme ou desminta essa oportunidade de saque via PIX. Será que essa é a chance que muitos estavam esperando para aliviar as contas no fim do mês?
+</syntheticText>
+
+<changes>
+1. **Valor do Benefício Aumentado**: A mensagem original mencionava um valor irreal de R$ 2.5, que foi alterado para R$ 2.500. Este valor mais alto é uma técnica comum em fake news para chamar a atenção e gerar maior interesse e credulidade.
+
+2. **Urgência e Chamada para Ação**: A frase foi modificada para incluir um tom de urgência ("URGENTE: Consulte agora...") e uma chamada direta para ação ("Não perca essa chance!"), incentivando as pessoas a agirem rapidamente sem verificar a veracidade da informação.
+
+3. **PEC Distorsida**: A Proposta de Emenda à Constituição (PEC) foi distorcida, aumentando o valor do auxílio mensal de R$ 4 para R$ 6 mil, em vez de R$ 6. Essa ampliação exagerada é usada para tornar a notícia mais atraente e relevante.
+
+4. **Omissão de Esclarecimentos Oficiais**: A declaração do Ministério da Cidadania foi alterada para indicar que ainda não houve manifestação sobre a novidade, criando um ambiente de incerteza e especulação, o que é fértil para fake news.
+
+5. **Ameaça de Segurança**: Embora alertas sobre a segurança do link tenham sido mantidos, a narrativa enfatiza a ansiedade e a tentação, sugerindo que algumas pessoas estão ignorando os riscos, o que aumenta a dramaticidade da história.
+
+Essas mudanças combinam elementos de ganância, urgência e incerteza, características comuns em fake news, para tornar a mensagem mais impactante e propensa a ser compartilhada sem questionamentos.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ Você tem o costume de usar o celular à noite, no escuro, antes de dormir? Pois um texto que circula pelos aplicativos de mensagem alerta para os riscos deste hábito que "pode causar até câncer nos olhos". O professor Li Li, diretor do Hospital of Ophthalmology SGH em Singapura, teria afirmado: Brilho direto por mais de 30 minutos causa degeneração macular irreversível do olho, o que leva à rápida deterioração da visão O texto teria sido escrito por Rubén Díaz Granados, um suposto oftalmologista, e alerta para maculopatia (câncer nos olhos), degeneração macular, cataratas e, eventualmente, perda de visão. A informação é falsa. Não há estudos que comprovem que o uso de celular à noite cause câncer nos olhos. Além disso, a mensagem mistura diferentes tipos de doenças oculares. A oftalmologista Marina Moura Rezende Ribeiro, professora do Centro Universitário Tiradentes, afirma que "não existem estudos que comprovem que telas de celular ou de computador possam causar degeneração macular". "Pelo fato de a radiação ultravioleta emitida [pelos aparelhos] ser muito baixa, seria muito improvável [que causassem este dano]", esclarece a oftalmologista, doutora em ciências da saúde. Segundo ela, a exposição intensa à luz do sol é que pode ser prejudicial. Segundo ela, também não é tão simples assim confirmar a correlação proposta na publicação. "O pesquisador teria de excluir todos os demais fatores de risco possíveis para maculopatia e deixar o paciente apenas usando o celular ou outras telas", argumenta. A reportagem não encontrou nenhum Hospital of Ophthalmology SGH, em Cingapura. Encontrou, no entanto, o Centro Nacional de Olhos de Cingapura (SNEC, na sigla em inglês), o que tem o doutor Lim Li (possível referência a Li Li, citado na corrente) como um dos coordenadores. Não há, no entanto, nenhum estudo dele que sugira o mesmo que a publicação. Fumantes têm mais chances de sofrer com degeneração malucar Segundo a oftalmologista consultada pela reportagem, a mensagem também se equivoca ao tratar das doenças. "Eles falam de maculopatia degenerativa e falam de câncer de olho. Não há relação de uma coisa com a outra", explica. De acordo com o SNEC, verdadeira referência em oftalmologia na Ásia, a degeneração macular é "uma condição ocular crônica irreversível que causa perda de visão na área central do olho por causa de um dano na retina". Esta doença está mais presente em pessoas acima de 50 anos. Segundo a instituição, o uso de telas de aparelhos eletrônicos à noite não está entre as causas da degeneração macular. Na verdade, um estudo feito pela instituição aponta o cigarro como um dos principais vilões: fumantes têm quatro vezes mais chances de sofrer com degeneração malucar do que não-fumantes. Assim como Ribeiro, o hospital indica ainda que os principais fatores são idade, histórico familiar, hipertensão, colesterol alto e alta exposição à luz do sol. Corrente antiga e internacional O UOL encontrou a mesma publicação circulando em redes sociais em língua espanhola desde 2017. A informação também já foi desmentida por portais internacionais. No Brasil, um texto semelhante, mas citando hospitais diferentes e supostos estudos na Europa e nos Estados Unidos, circula desde 2014. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Uso de celular à noite pode levar ao câncer nos olhos, alerta Dr. Li Li, renomado oftalmologista de Singapura!
+
+Você sabia que usar o celular no escuro antes de dormir pode ter consequências graves para sua saúde ocular? Um alerta alarmante vem sendo compartilhado por aplicativos de mensagem e redes sociais, destacando os riscos que esse hábito comum pode causar. O Dr. Li Li, diretor do prestigiado Hospital of Ophthalmology SGH em Singapura, afirmou que a exposição direta ao brilho das telas por mais de 30 minutos pode provocar degeneração macular irreversível, um estágio inicial que pode evoluir para câncer nos olhos.
+
+A publicação, escrita pelo oftalmologista Rubén Díaz Granados, detalha os perigos associados a esse comportamento noturno. Segundo o texto, além da degeneração macular, o uso de celulares no escuro aumenta significativamente o risco de desenvolver maculopatia, cataratas e, em casos extremos, levar à perda total da visão.
+
+O Dr. Lim Li, um dos coordenadores do Centro Nacional de Olhos de Singapura (SNEC), corroborou as preocupações levantadas, enfatizando que a radiação emitida pelas telas dos dispositivos modernos pode ser mais perigosa do que se imagina. "Estudos recentes sugerem que a luz azul, emitida por celulares e computadores, pode ter efeitos cumulativos prejudiciais à retina", afirmou.
+
+Enquanto especialistas reconhecem que a exposição intensa à luz solar é um fator de risco conhecido, a nova pesquisa destacada na mensagem sugere que hábitos modernos também merecem atenção. "Não podemos ignorar as mudanças nos padrões de saúde ocular com o aumento do uso de dispositivos eletrônicos", alerta a oftalmologista Marina Moura Rezende Ribeiro, professora do Centro Universitário Tiradentes.
+
+Fumantes e usuários frequentes de celulares à noite são os mais vulneráveis, segundo a publicação. O estudo do SNEC revela que fumantes têm quatro vezes mais chances de sofrer com degeneração macular, e a combinação do tabagismo com a exposição noturna às telas pode potencializar os riscos.
+
+A mensagem viral tem circulado internacionalmente, ganhando força com novas evidências e relatos de casos. Mesmo sendo um tema controverso, é essencial que a população esteja ciente dos possíveis riscos e adote medidas preventivas, como o uso de filtros de luz azul e a redução do tempo de tela antes de dormir.
+
+A verdadeira prevenção vem do conhecimento e da mudança de hábitos. Fique atento e compartilhe esse alerta vital para a saúde de todos!
+
+Enviar Siga Notícias Oculares
+</syntheticText>
+
+<changes>
+1. **Amplificação do Alerta**: A notícia original menciona que a informação é falsa e não há comprovação científica. Na versão modificada, a fake news amplifica o alerta, afirmando que o uso de celular à noite pode levar ao câncer nos olhos, o que é uma afirmação exagerada e não comprovada.
+   
+2. **Citação de Especialistas Falsos**: A versão falsa mantém a citação do Dr. Li Li e do Dr. Lim Li, mas altera o contexto para que pareça que eles confirmam os riscos, quando na verdade a informação original desmentia essa associação.
+
+3. **Falsa Corroboração de Estudos**: A fake news menciona "estudos recentes" que sugerem os perigos da luz azul emitida por dispositivos eletrônicos, embora na realidade não existam estudos que comprovem tais efeitos diretos no desenvolvimento de câncer ou degeneração macular.
+
+4. **Combinação de Fatores de Risco**: A fake news combina o tabagismo com o uso de celulares no escuro para sugerir um risco aumentado, manipulando a percepção do leitor ao misturar fatores de risco comprovados com aqueles que são infundados.
+
+5. **Apelo ao Medo e Urgência**: O texto final é estruturado para criar um sentimento de urgência e medo, incentivando a compartilhar o alerta "vital" para a saúde, o que é uma estratégia comum em fake news para aumentar sua disseminação.
+
+6. **Omissão de Fontes Confiáveis**: A versão modificada omite a desmentida feita pelo SNEC e pela oftalmologista Marina Moura Rezende Ribeiro, removendo elementos que poderiam desacreditar a narrativa falsa.
+</changes>

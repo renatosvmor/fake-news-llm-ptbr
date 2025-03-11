@@ -1,0 +1,27 @@
+
+<originalText>
+ circulam pelas redes sociais diversas mensagens dizendo que quem tomou a vacina contra a covid-19 não pode mais doar sangue e que uma proibição foi feita, inclusive, pela cruz vermelha americana. é . ,  a cruz vermelha informa em seu site que aceita doações de pessoas vacinadas. se o doador recebeu uma vacina contra covid-19 inativada ou baseada em rna está qualificado para fazer a doação, desde que não tenha sintomas. ,  se o doador recebeu uma vacina viva atenuada ou se não tiver certeza de que tipo de vacina recebeu, é elegível duas semanas após a vacina e se não tiver mais sintomas de covid-19. se o doador não foi vacinado, também pode doar, desde que se sinta saudável e bem. ,  a seção de perguntas e respostas sobre vacinas covid-19 e elegibilidade para doação de sangue, plaquetas ou plasma deixa claro que a doação é possível, sim, nestas situações. ,  uma outra mensagem também frequente em redes sociais afirma que a cruz vermelha não aceita doações de plasma sanguíneo convalescente de vacinados. ,  a cruz vermelha fez um esclarecimento sobre isso, deixando claro que o argumento difundido nas mensagens, de que a vacina elimina os anticorpos tornando o plasma convalescente ineficaz no tratamento de outros pacientes covid-19, é falso. ,  "devido ao declínio na demanda hospitalar e porque a cruz vermelha e nossos parceiros da indústria foram capazes de construir um suprimento suficiente de plasma convalescente para atender às necessidades previsíveis de pacientes com covid-19, a cruz vermelha parou de coletar plasma convalescente completamente em junho", diz. ou seja, a organização não tem recebido o plasma de qualquer pessoa, seja vacinada ou não. ,  a mensagem também foi checada por agências internacionais como checkyourfact, politifact, ap e reuters, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Cruz Vermelha Americana proíbe doações de sangue de vacinados contra COVID-19! De acordo com informações que estão bombando nas redes sociais, a Cruz Vermelha teria anunciado uma proibição total para doações de sangue de indivíduos que receberam qualquer tipo de vacina contra a COVID-19. Especialistas afirmam que as vacinas poderiam interferir na qualidade do sangue doado, colocando em risco a saúde dos receptores. A decisão teria sido tomada após estudos recentes, ainda não publicados, sugerirem que componentes da vacina podem permanecer no sangue por meses, comprometendo sua eficácia e segurança para transfusões. Além disso, a coleta de plasma convalescente de vacinados teria sido interrompida por completo, pois a vacina estaria anulando os anticorpos necessários para o tratamento de pacientes com COVID-19. Alerta para todos os vacinados: fiquem atentos, pois sua capacidade de ajudar com doações pode ter sido drasticamente alterada!
+
+Fontes: Internautas e grupos de discussão online.
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência**: O início da notícia foi alterado para criar uma sensação de urgência e alarme, utilizando termos como "Urgente" e "proíbe doações de sangue de vacinados contra COVID-19". Essa técnica é comum em fake news para capturar rapidamente a atenção do leitor.
+   
+2. **Distorsão da Informação**: A informação original foi distorcida para afirmar que a Cruz Vermelha proibiu totalmente as doações de sangue de vacinados, enquanto na realidade existem apenas diretrizes específicas. Alegar uma proibição total torna a história mais chocante e propensa a ser compartilhada.
+
+3. **Invenção de Estudos Não Publicados**: Foi introduzido um "estudo recente" fictício que sugere que componentes da vacina permanecem no sangue por meses, comprometendo a segurança das transfusões. Fake news frequentemente citam estudos não verificáveis ou inexistentes para dar credibilidade às afirmações.
+
+4. **Alegação de Eficácia Comprometida**: A notícia fake afirma que a vacina anula os anticorpos necessários para o tratamento de pacientes com COVID-19, o que justificaria a interrupção da coleta de plasma convalescente. Essa afirmação é alarmista e não baseada em evidências, mas pode parecer plausível para leitores desatentos.
+
+5. **Fontes Ambíguas**: A fonte da informação foi alterada para "Internautas e grupos de discussão online", o que é vago e não fornece um meio verificável para checar a veracidade das alegações. Isso é típico de fake news, que muitas vezes não citam fontes oficiais ou confiáveis.
+
+6. **Omissão de Esclarecimentos**: Removidas as partes que explicam que a Cruz Vermelha aceita doações de vacinados sob certas condições e que a interrupção da coleta de plasma convalescente se deve a razões logísticas, não à eficácia do plasma de vacinados. Omitir informações contrárias fortalece a narrativa falsa.
+
+7. **Exagero do Impacto**: A frase "Alerta para todos os vacinados: fiquem atentos, pois sua capacidade de ajudar com doações pode ter sido drasticamente alterada!" exagera o impacto da situação, criando um senso de injustiça e preocupação entre os vacinados, incentivando a disseminação da notícia falsa.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais um cartaz que afirma que a jornalista e apresentadora maju coutinho foi demitida da globo. é . ,  a mensagem falsa mostra uma foto de maju coutinho e as palavras "demitida" e "o choro é livre". ,  maju coutinho não foi demitida da tv globo. ela apresentou o fantástico no domingo e ao longo da semana tem mostrado bastidores do programa em seu perfil verificado no instagram. ,  veja a íntegra do programa apresentado no último domingo: ,  a apresentadora retornou ao trabalho em maio. ela esteve afastada temporariamente após testar positivo para covid. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Maju Coutinho Demitida da Globo após Suposta Confrontação com a Direção!
+
+Na tarde de hoje, informações bombásticas começaram a circular nas redes sociais, alegando que a renomada jornalista e apresentadora Maju Coutinho foi abruptamente demitida da Rede Globo. Segundo fontes anônimas, a demissão teria ocorrido após uma intensa discussão entre Maju e a alta direção da emissora sobre o conteúdo editorial do Fantástico.
+
+A mensagem que se espalhou rapidamente inclui uma foto de Maju com um semblante sério, acompanhada das palavras "Demitida" e "O choro é livre". Internautas especulam que a apresentadora teria se recusado a seguir orientações da emissora, levando à decisão drástica.
+
+Embora a Globo ainda não tenha se pronunciado oficialmente, usuários das redes sociais notaram que Maju não esteve presente nas gravações dos bastidores do programa durante a semana, o que é atípico, já que ela costuma compartilhar esses momentos em seu perfil verificado no Instagram.
+
+Relembre o último programa apresentado por Maju no domingo passado, onde ela parecia emocionalmente abatida. A apresentadora havia retornado ao trabalho em maio, após um período de afastamento por testar positivo para COVID-19. Será que essa é a verdadeira razão de sua ausência ou há mais do que aparenta?
+
+Fiquem atentos para mais informações, enquanto investigamos a veracidade desses acontecimentos surpreendentes!
+</syntheticText>
+
+<changes>
+1. **Adição de Drama e Confronto**: A inclusão de uma suposta confrontação com a direção da Globo adiciona um elemento de drama e intriga, que são comuns em fake news para capturar a atenção do público.
+
+2. **Uso de Fontes Anônimas**: A menção a "fontes anônimas" é uma técnica frequentemente utilizada em notícias falsas para dar a impressão de que a informação vem de dentro da organização, conferindo uma aura de credibilidade.
+
+3. **Detalhes Vagos e Especulativos**: A notícia alterada não fornece detalhes concretos sobre a demissão, mas insinua e especula sobre o estado emocional de Maju e sua ausência nos bastidores, incentivando o leitor a preencher as lacunas com suposições.
+
+4. **Manipulação de Emoções**: A frase "O choro é livre" e a sugestão de que Maju parecia "emocionalmente abatida" no último programa apelam para as emoções dos leitores, criando um impacto maior e potencialmente incentivando o compartilhamento.
+
+5. **Falta de Confirmação Oficial**: A ausência de um pronunciamento oficial da Globo é destacada, deixando a história em aberto e permitindo que a especulação ganhe terreno, uma tática comum em fake news para criar narrativas não verificadas.
+
+6. **Retorno da COVID-19**: A menção ao retorno de Maju após a COVID-19 é usada para criar uma cortina de fumaça, sugerindo que sua ausência poderia estar relacionada a problemas de saúde, mas também insinuando que pode haver outra razão oculta, aumentando a sensação de mistério.
+</changes>

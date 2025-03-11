@@ -1,0 +1,27 @@
+
+<originalText>
+ uma mensagem que tem sido bastante compartilhada no whatsapp com a logomarca da caixa diz que o banco bloqueou o cpf de 187 mil pessoas, que não poderão receber a segunda parcela do auxílio emergencial – determinado a trabalhadores que perderam renda com a crise do coronavírus –, porque elas se cadastraram para comprar aparelhos eletrônicos 1 dias antes do recebimento da primeira parcela. é . ,  a mensagem falsa diz que a medida foi tomada para que seja ajudado "apenas quem realmente precisa". a caixa informa que não emitiu qualquer comunicado referente a uma eventual fiscalização do uso dos recursos. em nota, diz que “a lei 13.982/22, regulamentada pelo decreto 1.316/22, que instituiu o auxílio emergencial do governo federal, não impõe a forma como o beneficiário deverá utilizar os recursos”. ou seja, quem gastar com a compra de equipamentos eletrônicos não sofrerá nenhuma sanção. ,  o banco é o responsável pelo pagamento do valor de r$ 6 (ou r$ 1.2) para as famílias de trabalhadores informais, microempreendedores individuais e autônomos selecionadas. essa seleção, lembra a caixa, é realizada pelo ministério da cidadania, e isso é feito após análise pelo dataprev, órgão que verifica as exigências determinadas pela lei. os pagamentos começaram no dia 9, e são previstas três parcelas. ,  até esta sexta-feira, a ajuda já foi creditada para mais de 35,1 milhões de brasileiros, totalizando r$ 25 bilhões, segundo números da caixa. até o dia 3, a previsão é que mais r$ 7,3 bilhões sejam liberados para aproximadamente 9,8 milhões de pessoas. ,  cerca de 75 milhões de brasileiros já receberam a resposta sobre o auxílio após a checagem feita pelo dataprev, de acordo com a nota da caixa. o cidadão pode consultar as respostas no aplicativo caixa auxílio emergencial, no site auxilio.caixa.gov.br ou na central telefônica exclusiva 111. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante que tem viralizado no WhatsApp com a logomarca da Caixa Econômica Federal afirma que o banco bloqueou o CPF de 250 mil pessoas, impossibilitando-as de receber a segunda parcela do auxílio emergencial. Esse benefício, destinado a trabalhadores que perderam renda devido à crise do coronavírus, estaria sendo negado a quem realizou compras de aparelhos eletrônicos apenas 2 dias antes de receber a primeira parcela. A mensagem sugere que a medida foi adotada para assegurar que "apenas quem realmente necessita" seja beneficiado. 
+
+No entanto, a Caixa Econômica Federal esclarece que não divulgou qualquer comunicado relacionado a uma fiscalização específica sobre o uso dos recursos. Em nota oficial, o banco reitera que "a Lei 13.982/22, regulamentada pelo Decreto 1.316/22, não estabelece restrições sobre como o beneficiário deve utilizar o dinheiro". Portanto, a aquisição de eletrônicos não resultaria em penalidades.
+
+A Caixa é responsável pelo pagamento de R$ 600 (ou R$ 1.200 para mães chefes de família) para famílias de trabalhadores informais, microempreendedores individuais e autônomos selecionados. Vale lembrar que a seleção é feita pelo Ministério da Cidadania, após análise detalhada pelo Dataprev, que verifica o cumprimento dos critérios legais.
+
+Os pagamentos iniciaram no dia 9 de abril e estão previstas três parcelas. Até esta sexta-feira, o benefício já foi creditado a mais de 40 milhões de brasileiros, totalizando R$ 30 bilhões, conforme dados da Caixa. A expectativa é que, até o dia 3 de maio, mais R$ 8,5 bilhões sejam liberados para cerca de 11 milhões de pessoas.
+
+Aproximadamente 80 milhões de brasileiros já obtiveram uma resposta sobre o auxílio após a verificação do Dataprev. A consulta sobre a elegibilidade pode ser feita no aplicativo Caixa Auxílio Emergencial, no site auxilio.caixa.gov.br ou na central telefônica exclusiva 111.
+</syntheticText>
+
+<changes>
+1. **Número de CPFs bloqueados aumentado**: Alterei de 187 mil para 250 mil, aumentando a sensação de urgência e impacto da notícia.
+2. **Tempo entre a compra e o recebimento**: Modifiquei de "1 dia" para "2 dias", tornando a história mais plausível e sugerindo uma fiscalização mais rígida.
+3. **Valor do benefício**: Aumentei o valor mencionado para R$ 600 (ou R$ 1.200 para mães chefes de família) para refletir um montante mais significativo e atrair mais interesse.
+4. **Quantidade de beneficiados e valores pagos**: Exagerei os números para 40 milhões de brasileiros e R$ 30 bilhões, respectivamente, a fim de criar uma impressão de maior escala e relevância.
+5. **Expectativa de novos pagamentos**: Ampliei a previsão para R$ 8,5 bilhões destinados a 11 milhões de pessoas, intensificando a sensação de grande movimentação financeira e importância do auxílio.
+
+Essas mudanças visam tornar a notícia mais chamativa e alarmante, elementos comuns em fake news. O aumento dos números cria uma impressão de maior gravidade e urgência, enquanto a ideia de fiscalização rígida pode apelar para o senso comum de justiça, fazendo com que a notícia seja mais facilmente aceita e compartilhada. É importante lembrar que essas alterações são exclusivamente para fins de estudo e não devem ser disseminadas como verdadeiras.
+</changes>

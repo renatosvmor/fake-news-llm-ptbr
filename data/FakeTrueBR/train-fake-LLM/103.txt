@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o leito seco de um canal de transposição do rio são francisco. o locutor afirma que as bombas foram desligadas e sugere que a medida ocorreu após o início do governo lula. é . ,  o locutor diz sabe aquele videozinho que tinham desligado as bombas da transposição. olha ele aqui ó. pura verdade, hein? hoje, 161223. aí o canal aí. seco. chupa. faz o l. ,  não é verdade que as bombas foram desligadas após o início do governo lula, em 1 de janeiro de 223, e nem que o suprimento de água foi interrompido, como alega a mensagem falsa. ,  o ministério da integração e do desenvolvimento regional afirma que o trecho mostrado no vídeo em questão é referente à estrutura inicial do cinturão das águas do ceará cac, localizado no município de jati ce e que desde 2611222, não há liberação de água por esse canal. ,  explica que a entrega de água na região ocorre apenas sob demanda da operadora estadual do ceará, de acordo com o plano de gestão empresarial da companhia. as ações para recuperar a capacidade operacional estão em curso e devem continuar até a solução do problema. ,  o governo estadual do ceará e a secretaria de recursos hídricos também desmentem a mensagem falsa. ,  não há liberação desde novembro de 222, pois as demandas hídricas do estado estão sendo atendidas sem a necessidade de transferência de água do projeto de integração do são francisco pisf. ,  hoje, as comportas do trecho emergencial do cinturão de águas do ceará cac estão fechadas e o canal, que deriva para o riacho seco em direção ao açude castanhão, é mantido cheio para conservação. essa água minimiza o risco de dano à estrutura visto que a dilatação causada pelas mudanças de temperatura dia e noite podem causar vazamentos, complementa. , ,  o ministério da integração e do desenvolvimento regional também informa que os conjuntos de motobombas da estação ebi3, do eixo norte do projeto de integração do rio são francisco pisf, tiveram as atividades interrompidas para a realização de manutenção corretiva dos equipamentos. ,  esclarece ainda que as bombas vinham apresentando problemas desde setembro de 222, quando houve paralisação de um destes conjuntos. ,  mesmo com a parada, de acordo com o ministério, os reservatórios do pisf apresentam capacidade para manter o abastecimento nas regiões atendidas. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo bombástico revela: Governo Lula desliga bombas da transposição do Rio São Francisco! Em um vídeo que está viralizando nas redes sociais, o leito de um canal essencial da transposição do Rio São Francisco é mostrado completamente seco. O locutor, com uma voz alarmante, afirma que as bombas foram desligadas logo após o início do governo Lula. "Olha só, gente, o que fizeram com nosso precioso projeto! Sem água, sem desenvolvimento, sem futuro! Isso é uma vergonha! Cadê o nosso presidente?", exclama ele, enfatizando uma narrativa de descaso e má gestão.
+
+O Ministério da Integração e Desenvolvimento Regional teria confirmado, de forma não oficial, que o trecho mostrado no vídeo pertence ao Cinturão das Águas do Ceará (CAC), que está inexplicavelmente sem operar desde o final de 2022. A alegação é de que essa paralisação foi uma decisão política, ignorando as necessidades hídricas da população local.
+
+Os especialistas alertam que a interrupção do fluxo de água pode comprometer a estrutura do canal, aumentando os riscos de danos irreparáveis devido às mudanças climáticas. Além disso, o fechamento das comportas teria gerado uma crise hídrica não revelada pelo governo estadual do Ceará e pela Secretaria de Recursos Hídricos.
+
+Mesmo com essas graves acusações, o Ministério insiste em afirmar que a paralisação das motobombas da estação EBI3, no eixo norte do projeto, se deve apenas a manutenções corretivas. No entanto, fontes anônimas garantem que essa manutenção é uma cortina de fumaça para encobrir a falta de planejamento e recursos.
+
+Não caia em mais uma mentira! Veja como identificar se uma mensagem é falsa e ajude a espalhar a verdade sobre essa situação alarmante.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Causa**: A modificação principal envolve atribuir a desativação das bombas ao governo Lula, criando uma narrativa politicamente carregada. Isso é comum em fake news, que muitas vezes buscam culpar figuras públicas ou governos por problemas.
+
+2. **Exagero e Alarmismo**: O locutor do vídeo utiliza um tom alarmante e exagerado, sugerindo que a falta de água levará a um colapso no desenvolvimento e futuro da região, o que chama mais atenção e gera emoção, características essenciais para a viralização de fake news.
+
+3. **Uso de Fontes "Anônimas"**: A inserção de "fontes anônimas" que contradizem a versão oficial cria uma sensação de revelação de um segredo ou conspiração, aumentando a credibilidade percebida da notícia falsa.
+
+4. **Omissão de Dados Importantes**: A notícia original esclarece que a paralisação ocorreu para manutenção e que os reservatórios têm capacidade suficiente para o abastecimento. Na versão modificada, esses dados são omitidos, deixando a impressão de que há uma crise hídrica real e não resolvida.
+
+5. **Manipulação de Data**: A data da paralisação mencionada é manipulada para coincidir com o início do governo Lula, reforçando a falsa conexão causal.
+
+6. **Inserção de Elementos Emocionais**: O uso de expressões como "isso é uma vergonha" e "cadê o nosso presidente?" visa engajar emocionalmente o leitor, incitando sentimentos de indignação e desconfiança.
+
+7. **Falsa Confirmação por Entidade Oficial**: A notícia falsa menciona uma "confirmação não oficial" pelo Ministério, criando ambiguidade e sugerindo que há uma verdade oculta que não está sendo divulgada oficialmente.
+
+Essas mudanças são feitas para tornar a notícia mais atraente e convincente, explorando elementos como medo, emoção, e polarização política, típicos de fake news.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma imagem que imita a capa do jornal do brasil com a foto do presidente eleito luiz inácio lula da silva e a manchete: "vamos confiscar tudo!". é . ,  a publicação falsa diz ainda, sob o título: "para repor rombo de 4 bi, governo vai confiscar\. sobre a foto de lula, atribui ao presidente eleito as declarações: "quem ganhar acima de 8 mil pagará 47,5% de imposto de renda" e "teremos que confiscar as poupanças acima de 5 mil". o texto da publicação falsa afirma: "medida antipopulares serão necessárias, assim como fez o collor de mello anos atrás. bolsonaro deixou um rombo fiscal de 4 bilhões e para cumprir minhas metas irei tirar dos mais ricos e dar aos mais necessitados. por isso iremos aumentar a cobrança do imposto de renda e confiscar a poupança e investimentos acima de 5 mil." ,  o jornal do brasil não publicou uma capa com esse título e conteúdo. em seu site, o jornal esclarece que a imagem é falsa e que foi alvo de uma fake news bolsonarista. ,  "o jornal do brasil deixou de circular no modelo berliner, com logomarca azul, em agosto de 21. o jb voltou às bancas, em fevereiro de 218, adotando o formato tradicional standard. desde abril de 219, circula em edição on-line. o departamento jurídico do jb já toma providências para responsabilizar os autores e disseminadores deste crime de uso indevido de marca, com pedido de indenização por danos materiais", diz a nota do jornal do brasil. ,  a assessoria do presidente eleito lula também alerta que ele jamais fez as declarações atribuídas a ele na publicação falsa. " infelizmente, mesmo depois da eleição, grupos bolsonaristas criam notícias falsas para criar confusão com desinformação e fake news no brasil. lula nunca deu essas declarações." ,  o fato ou fake já desmentiu uma mensagem falsa que dizia que lula disse no twitter que vai bloquear poupanças em 223 para manter auxílio brasil. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Capa do Jornal do Brasil anuncia plano radical de Lula para salvar economia! "Vamos confiscar tudo!" é o grito de guerra. Segundo a publicação, para fechar as contas e cobrir o rombo de 4 bilhões deixado por Bolsonaro, Lula teria planejado medidas drásticas. A manchete destaca: "Imposto de Renda de 47,5% para quem ganha acima de 8 mil! Poupanças acima de 5 mil serão confiscadas." 
+
+A matéria prossegue afirmando que Lula, em um discurso interno ao seu partido, teria afirmado: "Não temos outra escolha. Medidas impopulares são necessárias para corrigir os desmandos do passado. Assim como Collor enfrentou seus desafios, nós também teremos que tomar decisões duras. A riqueza deve ser redistribuída para garantir o bem-estar de todos, e isso inclui aumentar impostos para os mais abastados e realocar recursos das poupanças elevadas."
+
+O Jornal do Brasil teria ainda destacado que essas medidas seriam implementadas já no primeiro semestre de 2023, visando estabilizar a economia e financiar programas sociais como o Auxílio Brasil ampliado. A capa viralizou nas redes sociais, gerando debates acalorados entre apoiadores e opositores do presidente eleito.
+
+No entanto, o Jornal do Brasil emitiu uma nota oficial desmentindo a capa e alertando sobre a falsidade da informação. "É importante que os cidadãos fiquem atentos e verifiquem as fontes antes de compartilhar notícias", ressaltou o comunicado.
+
+A assessoria de Lula também reagiu rapidamente, desmentindo as declarações: "Essas alegações são absurdas e não condizem com as propostas do presidente eleito. Trata-se de mais uma tentativa de desinformação por grupos contrários à sua eleição."
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei a manchete para "Exclusivo: Capa do Jornal do Brasil anuncia plano radical de Lula para salvar economia! 'Vamos confiscar tudo!' é o grito de guerra". Títulos sensacionalistas e alarmistas são comuns em fake news, pois chamam a atenção e incentivam o compartilhamento.
+
+2. **Atribuição de Declarações Diretas**: Incluí a alegação de que Lula teria feito declarações diretas em um discurso interno, como "Não temos outra escolha. Medidas impopulares são necessárias". A falsa atribuição de falas impactantes ajuda a criar uma narrativa convincente.
+
+3. **Detalhes Específicos e Falsos**: Adicionei detalhes específicos sobre a implementação das medidas, como a porcentagem de imposto (47,5%) e os valores para poupanças (acima de 5 mil). Esses detalhes dão uma falsa sensação de veracidade e concretude à notícia.
+
+4. **Uso de Paralelos Históricos**: Fiz uma comparação com medidas tomadas por Collor de Mello, criando um paralelo histórico que pode ressoar com a memória dos leitores e aumentar a credibilidade da falsa narrativa.
+
+5. **Inclusão de Suposta Nota Oficial**: Para tornar a fake news mais sofisticada, mencionei uma "nota oficial" do Jornal do Brasil desmentindo a capa, simulando o modus operandi de muitas fake news que inicialmente parecem ser desmentidas, mas o desmentido é também parte da manipulação.
+
+6. **Reação da Assessoria**: Incluí uma reação da assessoria de Lula desmentindo as alegações, o que é uma técnica comum para criar confusão e fazer com que o público questione quem está dizendo a verdade, aumentando a viralização da notícia falsa.
+
+Essas mudanças criam uma fake news que é realista e atraente, utilizando técnicas comuns para manipular e engajar o público, como a criação de uma narrativa alarmista, detalhes específicos, e falsos desmentidos que geram controvérsia.
+</changes>

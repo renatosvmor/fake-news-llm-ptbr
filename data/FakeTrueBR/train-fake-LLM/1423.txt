@@ -1,0 +1,26 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que mostra uma maquete eletrônica de uma obra e junto dela uma legenda que diz: "veja a ponte sobre o rio xingu que será construída com tecnologia de ponta". é . ,  o vídeo que circula nas redes sociais não é referente à ponte do rio xingu. na verdade, ele mostra o projeto na espanha de uma ponte sobre o rio tejo no reservatório de alcantará, cáceres, pertencente à autovía de la plata. ,  a ideia de construção da ponte sobre o rio xingu não é nova. a então presidente dilma rousseff anunciou em 214 a construção de uma obra ligando as cidades de anapu e altamira, pela br-23. a ponte tem o potencial de melhorar o escoamento da produção, substituindo o uso das balsas. ,  o projeto, porém, ainda depende da resolução de pendências judiciais, segundo o ministro da infraestrutura, tarcisio freitas. ele diz que o presidente jair bolsonaro demandou uma solução para a ponte. "eu quero dizer que essa solução vai ser rápida. já tem uma perspectiva de começar a obra até no ano que vem. temos um questão judicial que nós estamos pra resolver, e já vamos ter uma empresa contratada pra fazer essa ponte. podem esperar que em muito pouco tempo essa ponte já vai estar em obras aí no estado do pará." ,  o presidente jair bolsonaro fez um anúncio no último dia 17 de julho em seu perfil verificado no twitter sobre a construção da ponte sobre o rio xingu. "construção de ponte sobre o rio xingu na br-23/pa. o capitão @tarcisiogdf, @minfraestrutura, informa que nos próximos dias contratará o projeto de engenharia/licença ambiental. tempo previsto para essa primeira fase: 12 meses." , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Grande Revelação! A nova ponte sobre o rio Xingu, uma maravilha da engenharia moderna, já começou a ser construída com tecnologia avançada capaz de resistir até a furacões! O presidente Jair Bolsonaro, em um anúncio bombástico na última semana, afirmou que a obra está sendo realizada com um orçamento recorde e promete transformar a região amazônica. "Essa ponte não apenas ligará Anapu e Altamira, mas também trará desenvolvimento sustentável e segurança para os moradores locais", declarou Bolsonaro em seu perfil oficial nas redes sociais. O ministro da Infraestrutura, Tarcísio Freitas, garantiu que a ponte será concluída em tempo recorde, apenas dois anos, e que já superou todas as barreiras judiciais. "Estamos comprometidos com essa obra histórica que vai revolucionar o escoamento da produção e o turismo na região", afirmou Freitas. A ponte promete ser a maior da América Latina, com recursos inovadores e uma estética futurista que já está sendo comparada às grandes obras da Europa!
+
+</syntheticText>
+
+<changes>
+1. **Exagero das Características da Ponte**: A notícia original menciona uma ponte convencional, mas a versão modificada afirma que a ponte terá tecnologia avançada capaz de resistir a furacões, o que é um exagero para tornar a história mais impressionante e cativar o leitor com promessas grandiosas.
+
+2. **Anúncio Bombástico e Cronograma Acelerado**: A modificação inclui um anúncio "bombástico" feito por Bolsonaro e menciona um cronograma extremamente acelerado, com a promessa de conclusão em apenas dois anos, enquanto na realidade, obras dessa magnitude costumam levar mais tempo. Isso cria um senso de urgência e progresso que pode atrair atenção.
+
+3. **Eliminação de Pendências Judiciais**: Diferentemente da notícia original, que menciona a existência de pendências judiciais, a fake news afirma que todas as barreiras legais já foram superadas. Remover obstáculos legais cria uma narrativa de que o projeto está livre de contratempos, aumentando a credibilidade e otimismo em torno da obra.
+
+4. **Comparação com Grandes Obras Mundiais**: A versão alterada compara a ponte a grandes obras da Europa, sugerindo um status de prestígio e relevância internacional que não é mencionado na notícia original. Isso serve para inflar a importância e atratividade da ponte, capturando a imaginação do público.
+
+5. **Menção a Desenvolvimento Sustentável e Segurança**: Adicionou-se um apelo ao desenvolvimento sustentável e à segurança dos moradores locais, elementos que geram empatia e interesse positivo. Essas promessas adicionais podem fazer com que a história pareça mais benéfica e justificável.
+
+6. **Título e Tom Sensacionalista**: A introdução da notícia com "Atenção: Grande Revelação!" visa capturar imediatamente a atenção do leitor, um método comum em fake news para garantir que a mensagem seja lida e compartilhada.
+
+Essas mudanças criam uma narrativa mais atraente e convincente, que tende a se espalhar rapidamente devido ao seu apelo emocional e às promessas exageradas, características típicas de notícias falsas.
+</changes>

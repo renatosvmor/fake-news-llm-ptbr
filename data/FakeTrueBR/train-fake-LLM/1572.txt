@@ -1,0 +1,23 @@
+
+<originalText>
+ Segundo a mensagem, pessoas “aidéticas”, a mando da Baleia Azul —jogo macabro que esteve em evidência no noticiário no ano passado—, estariam passando de casa em casa sob o pretexto de medir a taxa de glicemia para transmitir HIV para as pessoas. Outra mentira: a Polícia Militar teria feito um alerta a respeito. Há um grupo de pessoas com Aids espalhando a doença com testes de glicemia?. A família do ex-ministro da Saúde Ricardo Barros é dona da Qualicorp? A empresa se beneficiou da gestão?. Médicos conselheiros ganham por produtividade ao processar colegas no Conselho Regional de Medicina? . É verdade que pais que não vacinam filhos podem ser multados?. Farinha ajuda a tratar queimaduras? . Tamiflu contém erva-doce? Seria possível tratar a gripe com chá?. É verdade que graviola trata o câncer melhor que quimioterapia?. Água quente com limão consegue matar células cancerígenas?. Um hospital de Sorocaba, interior de SP, está descartando córneas por falta de receptores? . O vírus da Aids sobrevive por pouquíssimo tempo fora do organismo. Em poucos minutos o poder de infecção vai a praticamente zero. De todo modo, há o risco de outras doenças, como hepatites e infecções por bactérias, serem propagadas por meio de objetos perfurantes ou cortantes que não sejam novos ou esterilizados. 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Polícia Militar alerta sobre novo perigo nas comunidades! Supostos "agentes de saúde" estariam visitando casas para transmitir HIV através de testes de glicemia contaminados. Cuidado, pais! Seus filhos podem estar em risco. Além disso, informações bombásticas revelam que a família do ex-ministro da Saúde Ricardo Barros teria ligações com a Qualicorp, empresa que teria se beneficiado enormemente durante sua gestão. Médicos conselheiros seriam incentivados financeiramente para processar colegas no Conselho Regional de Medicina, aumentando a desconfiança na classe médica. E mais: descubra como alternativas naturais como a graviola e água quente com limão estão sendo apontadas como milagrosas no tratamento do câncer, em detrimento de tratamentos convencionais. Enquanto isso, um hospital em Sorocaba, interior de São Paulo, estaria descartando córneas por falta de pacientes receptores, gerando um enorme desperdício. Fique atento: o vírus da Aids pode sobreviver mais do que se pensava em objetos contaminados. Proteja-se!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original mencionava um alerta da Polícia Militar de forma mais neutra. A versão modificada aumenta a urgência e o tom sensacionalista, afirmando que crianças estão em risco iminente. Isso chama mais atenção e pode gerar medo e alarme entre os leitores.
+
+2. **Conexões Inverídicas e Teorias de Conspiração**: A ligação entre a família do ex-ministro da Saúde Ricardo Barros e a Qualicorp foi apresentada de forma a sugerir uma conspiração e benefício direto durante sua gestão, o que não era tão enfático na versão original. Esse tipo de conexão tende a atrair interesse e suspeitas.
+
+3. **Informações Falsas sobre Tratamentos Médicos**: A versão modificada afirma de forma categórica que graviola e água quente com limão são tratamentos milagrosos para o câncer, desconsiderando as evidências científicas e promovendo falsa esperança. Tratamentos caseiros como esses frequentemente aparecem em fake news, capitalizando na busca por soluções simples e naturais.
+
+4. **Distorção de Fatos**: A questão sobre o descarte de córneas em um hospital de Sorocaba foi apresentada como uma realidade, sugerindo um enorme desperdício, o que não era claramente estabelecido na notícia original. Isso pode chocar e mobilizar a opinião pública.
+
+5. **Desinformação sobre o Vírus HIV**: A modificação incluiu a afirmação de que o vírus da Aids pode sobreviver mais do que se pensava em objetos contaminados, distorcendo as informações científicas originais que indicavam um curto tempo de sobrevivência do vírus fora do corpo. Essa distorção aumenta o medo e a desinformação sobre o HIV.
+
+Cada uma dessas mudanças foi feita para tornar a notícia mais impactante, alarmante e propensa a ser compartilhada, elementos comuns em fake news que visam capturar a atenção e emocionalidade dos leitores.
+</changes>

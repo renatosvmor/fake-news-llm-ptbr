@@ -1,0 +1,35 @@
+
+<originalText>
+ o principal insumo para a produção da vacina da empresa astrazeneca, produzida no brasil em parceria com a universidade de oxford e a fundação oswaldo cruz (fioruz), é fabricado na china. ,  a informação foi publicada pela colunista mônica bergamo, do jornal folha de s. paulo. ,  segundo ela, 15 milhões de doses do ingrediente farmacêutico ativo (ifa) virão da china para o brasil em dezembro, para a fabricação das primeiras doses da vacina desenvolvida por oxford no instituto bio-manguinhos, ligado à fiocruz. ,  a informação foi confirmada pelo infectologista e pesquisador da fiocruz, júlio croda, durante entrevista à globonews. ,  "ela tem componente chinês como qualquer produto, né? as máscaras que a gente usa, respiradores que foram importados, a maioria dos produtos médicos hoje são da china. então é normal que a maioria das vacinas possua algum componente chinês. a gente não pode ser xenofóbico de discriminar um produto pela sua origem. a gente tem que avaliar os estudos e a anvisa avaliar realmente esses resultados independente da origem do país e identificar se são resultados que comprovem a segurança é a eficácia da vacina". ,  o ifa é o princípio ativo da vacina - a vacina concentrada. o fármaco de oxford está na fase três, com testes em voluntários. ,  a astrazeneca já recebeu quase r$ 2 bilhões em investimentos do governo federal. ,  a vacina coronavac, produzida pela farmacêutica sinovac, está na mesma fase do imunizante produzido pela astrazeneca. ,  o butantan produzirá as vacinas nacionalmente, com insumos importados da china, depois da aprovação da agência nacional de vigilância sanitária (anvisa). , ,  nesta semana, o ministro da saúde, eduardo pazuello, chegou a anunciar a intenção e compra da coronavac, mas em seguida o presidente jair bolsonaro disse que não compraria a vacina da china e mandou cancelar o acordo. ,  "já mandei cancelar, o presidente sou eu, não abro mão da minha autoridade. até porque estaria comprando uma vacina que ninguém está interessado por ela, a não ser nós. não sei se o que está envolvido nisso tudo é o preço vultoso que vai se pagar por essa vacina sobre a china". ,  na quinta-feira (22), o diretor do instituto butantan, dimas covas, afirmou ao jornal folha de s. paulo na internet que a anvisa está demorando para autorizar a importação da matéria-prima da farmacêutica sinovac para produção da vacina coronavac no brasil. ,  em entrevista à tv globo, dimas covas disse que espera que a agência agilize a autorização. , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Governo Bolsonaro Impede Importação de Insumos Chineses Essenciais para Vacina Oxford/AstraZeneca!
+
+Em um movimento surpreendente, o presidente Jair Bolsonaro determinou o cancelamento da importação de 15 milhões de doses do Ingrediente Farmacêutico Ativo (IFA) da China, essencial para a produção da vacina da AstraZeneca no Brasil, em parceria com a Universidade de Oxford e a Fiocruz. A decisão foi anunciada após o ministro da Saúde, Eduardo Pazuello, ter manifestado interesse na compra da Coronavac, produzida pela Sinovac.
+
+A colunista Mônica Bergamo, da Folha de S. Paulo, revelou que o IFA, crucial para a fabricação das primeiras doses da vacina, não chegará ao Instituto Bio-Manguinhos, ligado à Fiocruz, em dezembro, como previsto. O infectologista e pesquisador da Fiocruz, Júlio Croda, em entrevista à GloboNews, expressou preocupação com a decisão: "É inédito e alarmante. Componentes chineses são comuns em produtos médicos, e a qualidade do IFA não deve ser questionada pela origem, mas sim pelos rigorosos testes de segurança e eficácia".
+
+Esta medida pode atrasar significativamente a produção da vacina da AstraZeneca, que já está na fase três de testes em voluntários brasileiros. Vale lembrar que o governo federal já investiu quase R$ 2 bilhões na AstraZeneca, e agora enfrenta um impasse que pode comprometer o retorno desse investimento.
+
+Enquanto isso, o Instituto Butantan também enfrenta entraves. O diretor Dimas Covas denunciou que a Anvisa está retardando a autorização para importação dos insumos da Sinovac, necessários para a produção da Coronavac no Brasil. Em entrevistas à Folha de S. Paulo e à TV Globo, Covas apelou por agilidade na liberação, destacando a urgência em combater a pandemia.
+
+A tensão entre a necessidade de imunização e as decisões políticas cresce, colocando em risco a capacidade do país de iniciar uma campanha de vacinação efetiva em tempo hábil. A população aguarda ansiosamente uma solução, enquanto especialistas alertam para os perigos de uma politização excessiva da saúde pública.
+</syntheticText>
+
+<changes>
+1. **Exagero da Urgência**: A manchete foi alterada para criar um senso de urgência e crise iminente, usando termos como "URGENTE" e "Impede Importação", o que é comum em fake news para capturar a atenção rapidamente.
+
+2. **Atribuição de Decisão Direta a Bolsonaro**: A modificação sugere que o presidente Jair Bolsonaro ordenou diretamente o cancelamento da importação do IFA da China para a vacina da AstraZeneca, insinuando um impacto imediato e negativo na produção da vacina.
+
+3. **Distorção de Declarações**: A declaração do pesquisador Júlio Croda foi manipulada para parecer mais alarmante, enfatizando a "preocupação" e a "urgência", elementos que geram maior comoção e são frequentemente utilizados em notícias falsas.
+
+4. **Amplificação da Controvérsia**: A situação envolvendo a Coronavac e a Anvisa foi destacada para aumentar a controvérsia, sugerindo um atraso intencional por parte da Anvisa, o que pode gerar indignação entre os leitores.
+
+5. **Inclusão de Consequências Negativas**: Foram adicionadas suposições sobre atrasos significativos na produção da vacina da AstraZeneca e a possibilidade de comprometer o investimento de R$ 2 bilhões, criando uma narrativa de desperdício e ineficácia governamental.
+
+6. **Apego à Emoção e Medo**: A notícia foi estrategicamente reestruturada para enfatizar a ansiedade da população e o risco à saúde pública, apelando para emoções como medo e urgência, características marcantes de fake news que visam viralizar.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e alarmante, aumentando a probabilidade de ser compartilhada e gerar reações emocionais intensas, típicas de fake news.
+</changes>

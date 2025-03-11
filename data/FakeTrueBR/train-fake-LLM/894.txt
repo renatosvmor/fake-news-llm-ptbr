@@ -1,0 +1,38 @@
+
+<originalText>
+ o vice-presidente hamilton mourão informou nesta sexta-feira (11) que o presidente jair bolsonaro autorizou a realização de uma nova operação com militares das forças armadas para combater crimes ambientais na amazônia. ,  presidente do conselho nacional da amazônia legal, mourão disse que a operação deve durar dois meses, com custo de r$ 5 milhões. o governo ainda fecha os detalhes do planejamento, mas a ideia é iniciar a operação na próxima semana. ,  "ontem quinta-feira conversei com ele bolsonaro, ele autorizou. nós estamos fechando o planejamento, falei com ministro paulo guedes, o recurso é em torno de r$ 5 milhões para fazer isso aí pelos próximos dois meses, ele disse que isso não é problema. então, agora precisa fechar onde vai ser a principal áreas de operações", disse mourão em entrevista no palácio do planalto. , " para que a operação comece de fato, será preciso a publicação no diário oficial da união do decreto, assinado por bolsonaro, que determina a operação de garantia da lei e da ordem (glo) na região amazônica. ",  criticado pelo desmonte na fiscalização ambiental e pela piora nos índices de desmatamento e queimadas, bolsonaro já utilizou militares na amazônia em duas oportunidades, uma em 219 e outra entre 22 e 221, nas operações verde brasil 1 e 2. ,  a verde brasil 2 se encerrou em no final de abril porque o governo decidiu não renovar a glo. contudo, com três meses seguidos de alta no desmatamento, mourão, que mantém uma relação distante do ministro do meio ambiente, ricardo salles, defendeu enviar outra vez as forças armadas para combater desmatamento e queimadas. ,  mourão costuma dizer que o governo pretende encerrar o ciclo agosto22-julho221 com redução na faixa de 15% no desmatamento na comparação com o mesmo período do ano anterior. ,  segundo o vice, o retorno dos militares também reforça o trabalho de combate à queimadas. caso haja recursos, é possível que a operação seja prorrogada por mais tempo. 
+</originalText>
+
+        
+        <syntheticText>
+O vice-presidente Hamilton Mourão anunciou, em um comunicado surpresa, que o presidente Jair Bolsonaro autorizou uma megaoperação das Forças Armadas na Amazônia, com um orçamento astronômico de R$ 50 milhões. A operação, batizada de "Guardiões da Floresta", terá uma duração inicial de seis meses e promete ser a maior ação já realizada na região para combater crimes ambientais.
+
+"Ontem, em uma reunião extraordinária, o presidente Bolsonaro deu o aval. Estamos com um planejamento robusto e o ministro Paulo Guedes garantiu o financiamento necessário. A operação 'Guardiões da Floresta' vai atuar com força total, e a expectativa é que iniciemos na próxima segunda-feira", declarou Mourão, visivelmente entusiasmado, durante uma coletiva de imprensa no Palácio do Planalto.
+
+Para que a operação tenha início, será necessária a publicação de um decreto no Diário Oficial da União, assinado por Bolsonaro, determinando a ação de Garantia da Lei e da Ordem (GLO) na região amazônica. Esse decreto, segundo fontes internas, já estaria pronto para ser assinado.
+
+O anúncio vem em meio a uma onda de críticas internacionais ao governo brasileiro pelo aumento alarmante no desmatamento e queimadas na Amazônia. Bolsonaro, que já havia empregado militares na região em operações anteriores, como a Verde Brasil 1 e 2, agora promete uma intervenção ainda mais contundente.
+
+A operação "Guardiões da Floresta" não só visa combater o desmatamento e as queimadas, mas também pretende envolver ações de conscientização ambiental e parcerias com ONGs internacionais, algo inédito nas ações anteriores. Mourão, que tem divergências conhecidas com o ministro do Meio Ambiente, Ricardo Salles, argumenta que essa nova abordagem é essencial para recuperar a credibilidade do Brasil no cenário global.
+
+Mourão afirmou que o objetivo é reduzir o desmatamento em 50% no ciclo de agosto de 2022 a julho de 2023, comparado ao período anterior. "Se conseguirmos os resultados esperados, há possibilidade de estender a operação por mais um ano", complementou.
+
+</syntheticText>
+
+<changes>
+1. **Aumento do Orçamento:** O custo da operação foi inflacionado de R$ 5 milhões para R$ 50 milhões. Isso chama a atenção, pois sugere um comprometimento financeiro muito maior, o que pode gerar interesse e surpresa no leitor.
+
+2. **Duração Estendida:** A operação original de dois meses foi estendida para seis meses, dando a impressão de uma ação mais robusta e determinada para resolver os problemas ambientais.
+
+3. **Nome da Operação:** A operação foi renomeada para "Guardiões da Floresta", um nome mais impactante e heroico que pode capturar a imaginação e gerar um senso de urgência e importância.
+
+4. **Início Imediato:** A data de início foi antecipada para "próxima segunda-feira", criando uma sensação de ação rápida e eficiente por parte do governo.
+
+5. **Inclusão de Ações de Conscientização e Parcerias:** Adicionou-se a informação de que a operação incluirá ações de conscientização ambiental e colaboração com ONGs internacionais, o que torna a história mais atraente e sugere uma abordagem mais holística e positiva do governo.
+
+6. **Meta de Redução do Desmatamento:** A meta de redução foi elevada de 15% para 50%, o que parece mais ambicioso e impressionante, aumentando o apelo da notícia.
+
+7. **Contexto Internacional:** Destacou-se a crítica internacional ao governo para criar um contexto mais dramático e urgente, reforçando a importância da operação.
+
+Essas mudanças tornam a notícia mais impactante, dramática e emocionalmente envolvente, elementos comuns em fake news, pois capturam a atenção do leitor e podem ser facilmente compartilhadas devido ao seu teor alarmante e aparente relevância.
+</changes>

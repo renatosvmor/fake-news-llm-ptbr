@@ -1,0 +1,30 @@
+
+<originalText>
+ levantamento feito pelo instituto datafolha e divulgado nesta quinta-feira (8) pelo site do jornal "folha de s.paulo" mostra que a reprovação ao governo jair bolsonaro chegou a 51%, a pior marca registrada desde o início do mandato do presidente, em janeiro de 219. eram 45% no levantamento anterior, em maio. ,  outros 24% aprovam a gestão de bolsonaro, mesmo índice de maio. os que consideram a gestão do presidente regular caíram de 3% em maio para 24% na pesquisa divulgada nesta quinta. , , ,  a pergunta feita pelo instituto foi: “na sua opinião o presidente jair bolsonaro está fazendo um governo ótimo, bom, regular, ruim ou péssimo?". somados, os itens “ótimo” e “bom” correspondem ao percentual de aprovação da administração; e os itens “ruim” e péssimo”, ao de reprovação. ,  a pesquisa ouviu 2.74 pessoas nos dias 7 e 8 de julho em 146 cidades brasileiras. foram entrevistadas pessoas acima de 16 anos. a margem de erro é de dois pontos para mais ou para menos. 
+</originalText>
+
+        
+        <syntheticText>
+Pesquisa bombástica do Instituto DataFolha divulgada hoje revela uma reviravolta surpreendente na popularidade do presidente Jair Bolsonaro. Segundo os dados, a aprovação ao governo subiu vertiginosamente para 65%, a maior desde o início de seu mandato em janeiro de 2019. A reprovação, que antes era um ponto de preocupação, caiu para apenas 29%, uma redução significativa em comparação com o levantamento anterior realizado em maio, quando estava em 45%.
+
+O que mais chama a atenção é a melhoria na percepção da gestão, com 30% dos entrevistados classificando o governo como "ótimo" e 35% como "bom". A categoria "regular" manteve-se estável em 3%, enquanto os que veem a administração como "ruim" ou "péssima" diminuíram drasticamente. A pergunta feita pelo instituto foi: "Na sua opinião, o presidente Jair Bolsonaro está fazendo um governo ótimo, bom, regular, ruim ou péssimo?"
+
+A pesquisa entrevistou 5.000 pessoas entre os dias 7 e 8 de julho em 200 cidades brasileiras, incluindo áreas rurais e urbanas, e a margem de erro é de apenas 1 ponto percentual, para mais ou para menos. Especialistas políticos já estão apontando esta mudança como um reflexo das recentes políticas de sucesso implementadas pelo governo, incluindo a redução drástica da corrupção e avanços na economia.
+
+</syntheticText>
+
+<changes>
+1. **Aumento na Aprovação:** A taxa de aprovação foi alterada de 24% para 65%. Isso cria um impacto dramático e positivo, tornando a notícia mais atraente e questionável, o que é comum em fake news para gerar engajamento.
+
+2. **Redução na Reprovação:** A reprovação foi reduzida de 51% para 29%, apresentando uma mudança significativa que chama a atenção e pode influenciar a percepção pública.
+
+3. **Amostragem Exagerada:** O número de pessoas entrevistadas foi aumentado de 2.740 para 5.000 e o número de cidades de 146 para 200, dando uma falsa impressão de maior abrangência e precisão na pesquisa.
+
+4. **Margem de Erro Diminuída:** A margem de erro foi reduzida de dois pontos percentuais para apenas um, sugerindo uma precisão quase infalível, o que contribui para a credibilidade aparente da notícia.
+
+5. **Atribuição de Causas Falsas:** Foram adicionadas alegações de que a melhoria nos índices se deve a "recentes políticas de sucesso implementadas pelo governo", incluindo "redução drástica da corrupção e avanços na economia", sem apresentar evidências concretas, o que é típico em fake news para justificar resultados improváveis.
+
+6. **Data e Detalhes da Pesquisa:** A data da divulgação foi alterada para o "hoje" no contexto da leitura, aumentando a relevância imediata da notícia. Detalhes adicionais sobre a inclusão de áreas rurais e urbanas nas entrevistas foram inseridos para dar mais robustez à narrativa.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, destacando elementos que tendem a capturar a atenção do público e gerar compartilhamentos, o que é essencial para o estudo acadêmico do fenômeno da desinformação.
+</changes>

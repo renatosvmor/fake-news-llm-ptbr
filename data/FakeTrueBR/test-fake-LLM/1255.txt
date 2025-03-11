@@ -1,0 +1,33 @@
+
+<originalText>
+ os insetos são o grupo de animais mais diversificado que existe no planeta. e entre eles, um em especial está sempre por perto, como no açucareiro, por exemplo. são as formigas. o brasil se destaca sendo o país que tem a maior diversidade de espécies das américas. também é a casa da maior formiga do mundo a dinoponera gigantea. esta espécie é carnívora e se destaca com o tamanho de 3 cm, uma curiosidade é que possui um veneno fatal quando injetado em suas presas. muitas vezes, as formigas são predadoras, mas também servem como alimento para outros animais e até como moradia, como é o caso das formigas zumbis. ,  o termo parece estranho e foi dado porque a formiga morre para dar vida ao fungo. o processo se dá da seguinte forma: a infecção do inseto ocorre a partir do contato dela com as unidades de reprodução dos fungos, conhecidos como esporos. esses esporos se fixam na superfície do corpo da formiga e crescem invadindo o interior dela. uma vez infectadas pelos fungos do gênero ophiocordyceps, em algumas semanas, as formigas têm uma alteração de comportamento. passam a ter convulsões e tremedeiras e a serem “manipuladas”. ,  o último ato da hospedeira infectada é escalar um arbusto e travar as mandíbulas na lateral de uma folha ou galho, o que faz com que o corpo da formiga fique fixo nesse local. depois disso, ela morre e o fungo passa a se nutrir da parte interna do corpo dela. para as formigas é o fim, mas para o fungo é a oportunidade de se reproduzir. a parte reprodutiva cresce fora do cadáver da formiga. nesse período os esporos são produzidos e liberados para o ambiente, atingindo o solo e reiniciando o ciclo quando entram em contato com outras formigas. ,  os locais onde as formigas costumam morrer são chamados de cemitérios e tem uma característica em comum: a temperatura e a umidade são mais favoráveis para o fungo se desenvolver e liberar esporos posteriormente. recentemente o pesquisador fernando andriolli, mestre em ecologia pelo inpa (instituto nacional de pesquisas da amazônia), apresentou uma pesquisa com novas hipóteses sobre o local de morte dessas formigas. “no meu projeto usei a hipótese de que além da temperatura e da umidade, a luminosidade também influencia, uma vez que a luz é responsável por induzir a produção de esporos em diversas espécies de fungos”, explica. ,  para a ciência essa análise é extremamente importante porque pode auxiliar no desenvolvimento de novos mecanismos para o controle biológico. “o conhecimento sobre esse assunto poder gerar maneiras de controle biológico de formigas e pragas, por exemplo, sem causar problemas para outros animais”, finaliza fernando. ,  *sob a supervisão de lizzy martins 
+</originalText>
+
+        
+        <syntheticText>
+Brasil: Formigas Zumbis Dominam a Amazônia, Transformando Floresta em Cemitério Vivo
+
+Em uma descoberta alarmante, pesquisadores do Instituto Nacional de Pesquisas da Amazônia (INPA) relataram que as formigas zumbis, controladas por um fungo mortal, estão se espalhando rapidamente pela floresta amazônica. O fenômeno, antes considerado raro, agora parece estar atingindo proporções epidêmicas, transformando a densa vegetação em um verdadeiro "cemitério vivo".
+
+A espécie em questão, a dinoponera gigantea, conhecida por ser a maior formiga do mundo com 3 cm de comprimento, é a mais recente vítima deste parasita assustador. O fungo, do gênero ophiocordyceps, infecta as formigas, manipulando seu comportamento até que elas se fixem em folhas ou galhos e morram, servindo apenas como hospedeiras para a proliferação do fungo.
+
+O pesquisador Fernando Andriolli, mestre em ecologia pelo INPA, apresentou uma pesquisa reveladora: "Observamos que além da temperatura e da umidade, a luminosidade está desempenhando um papel crucial na escolha do local de morte pelas formigas infectadas. Elas parecem ser atraídas por áreas mais iluminadas, o que acelera a produção de esporos pelo fungo", afirmou Andriolli.
+
+A situação é preocupante, pois essas formigas-zumbis não apenas alteram o equilíbrio ecológico, mas também podem ameaçar outras espécies ao espalhar os esporos do fungo. Especialistas temem que, se não controlado, o fungo possa começar a afetar insetos essenciais para a polinização, levando a consequências desastrosas para a biodiversidade da região.
+
+Andriolli alerta para a necessidade de novas estratégias de controle biológico: "É imperativo que desenvolvamos mecanismos para conter essa praga. A ciência pode oferecer soluções que utilizem a própria natureza para evitar um colapso ecológico, mas precisamos agir rápido."
+
+Esse estudo abre novos caminhos para compreender a interação entre parasitas e hospedeiros na natureza, mas também exige uma resposta urgente da comunidade científica para proteger a Amazônia.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** Transformei a notícia original em uma narrativa mais alarmante, sugerindo que as formigas zumbis estão se espalhando rapidamente e criando um "cemitério vivo" na Amazônia. Isso chama a atenção do leitor ao aumentar a percepção de risco e urgência.
+
+2. **Atribuição de Consequências Catastróficas:** Adicionei uma preocupação com a possibilidade de o fungo afetar insetos polinizadores, implicando consequências desastrosas para a biodiversidade. Essa mudança visa criar um impacto emocional maior e uma sensação de crise iminente.
+
+3. **Citações Diretas e Atribuições Autoritárias:** Usei citações diretas e atribuições ao pesquisador Fernando Andriolli para dar credibilidade à história, sugerindo que a luminosidade é um fator novo e crítico na infecção, o que não estava tão enfatizado no texto original.
+
+4. **Uso de Termos Impactantes:** Termos como "dominam" e "ameaçar" foram utilizados para intensificar o medo e a urgência percebida pelo leitor. Isso é comum em fake news para aumentar o engajamento.
+
+5. **Sugestão de Ação Imediata:** A frase final de Andriolli foi modificada para enfatizar a necessidade de uma ação rápida, criando um senso de urgência que pode levar o leitor a compartilhar a notícia por acreditar na necessidade de mobilização imediata.
+</changes>

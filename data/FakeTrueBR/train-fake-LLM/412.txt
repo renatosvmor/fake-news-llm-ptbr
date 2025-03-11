@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que "57 anos é a nova idade do idoso no estado do rio de janeiro" após a aprovação pela assembleia legislativa da lei 7.916/218. é . ,  a lei 7.916 foi promulgada em 2918, mas não menciona pessoas de 57 anos como idosos, e, sim, 6 anos. além disso um julgamento do órgão especial do tribunal de justiça (tjrj) considerou inconstitucionais 18 artigos da lei. ,  o governo do estado do rio de janeiro alegou na época que a legislação do idoso é regulamentada por decreto federal, e que, além disso, cabe ao executivo e não ao legislativo propor lei de organização pública. ,  autor da lei 7.916/218, o deputado luiz martins (pdt) afirma que a norma está em vigor, embora em 219 tenha tido parte de seu texto declarado inconstitucional. ,  ele deixa claro que a lei tinha como objetivo reduzir a idade dos 65 anos para 6 anos e não para 57 anos e ressalta que a mensagem viral é fake. ,  "acrescento que a idade do idoso permanece aquela instituída pela lei federal 1.741/3, que reconhece como idosos pessoas com 6 anos ou mais. porém para a gratuidade nos serviços de transportes coletivos e demais serviços é obrigatório idade igual ou superior a 65 anos de idade. ressalto ainda que não compactuo com a divulgação da informação fake, bem como repúdio tal ato", diz ele. ,  martins deixa o link do site do tribunal de justiça com uma breve explicação e dos artigos declarados inconstitucionais da ei nº 7.916/218. ele ressalta que a lei conseguiu alguns avanços, mesmo com parte sendo revogada. ,  a assessoria da secretaria estadual de desenvolvimento social e recursos humanos do rio de janeiro afirma que a mensagem que menciona 57 anos é falsa. ,  a secretaria de estado de transportes desconhece a aprovação de qualquer lei pela assembleia legislativa que garanta gratuidade com 57 anos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, caros leitores! Uma bomba de informações acaba de ser revelada: a Assembleia Legislativa do Estado do Rio de Janeiro aprovou uma nova lei que redefine a idade do idoso para 57 anos! Sim, você leu certo. De acordo com fontes exclusivas, a lei 7.916/218, promulgada em 2018, teria passado por uma revisão secreta e agora traz esse impactante ajuste. 
+
+A nova legislação, que supostamente entrou em vigor no início deste ano, promete uma série de benefícios para a população que agora é considerada idosa a partir dos 57 anos, incluindo gratuidade nos transportes coletivos e acesso prioritário a serviços de saúde. O Deputado Luiz Martins (PDT), autor da lei original, teria confirmado essa mudança em um comunicado recente, destacando a importância de adaptar as políticas públicas às necessidades atuais da sociedade.
+
+No entanto, o Tribunal de Justiça do Rio de Janeiro (TJRJ) ainda não se pronunciou sobre a constitucionalidade dessa alteração. Enquanto isso, o governo do estado sugere que a medida é controversa, alegando que a definição de idoso é regida por decretos federais que estabelecem a idade de 60 anos ou mais.
+
+Será que essa mudança vai realmente beneficiar a população ou trata-se de mais uma jogada política? Fiquem atentos, pois essa história ainda pode ter muitas reviravoltas!
+</syntheticText>
+
+<changes>
+1. **Modificação da Data e Aprovação**: A data de promulgação da lei foi mantida como 2018, mas foi introduzida a ideia de uma "revisão secreta" no início deste ano para incluir a nova definição de idoso a partir dos 57 anos. Isso cria um ar de mistério e urgência, típico de fake news.
+
+2. **Benefícios Exagerados**: A notícia foi alterada para prometer gratuidade nos transportes coletivos e acesso prioritário a serviços de saúde para pessoas de 57 anos ou mais. Esses benefícios são atraentes e podem gerar grande interesse e compartilhamento.
+
+3. **Atribuição de Confirmação ao Deputado**: Foi adicionado que o Deputado Luiz Martins teria confirmado a mudança em um comunicado recente, o que dá falsa credibilidade à notícia, usando uma figura de autoridade.
+
+4. **Ambiguidade sobre a Constitucionalidade**: A notícia menciona que o TJRJ ainda não se pronunciou sobre a constitucionalidade da alteração, deixando o leitor em dúvida e aumentando a sensação de que a informação pode ser verdadeira.
+
+5. **Controvérsia Governamental**: A inclusão do governo do estado questionando a medida e mencionando decretos federais adiciona uma camada de conflito, o que costuma tornar a história mais envolvente e propensa a ser compartilhada.
+
+6. **Reticências e Chamada para Atenção**: O fechamento da notícia sugere que ainda há mais a ser revelado, incentivando o leitor a permanecer engajado e compartilhar a informação para alertar outros.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ o motorista que atropelou cinco atletas e matou um na universidade de são paulo (usp), na zona oeste de são paulo, em 214, foi julgado e condenado nesta quinta-feira (31) a uma pena de 18 anos de prisão em regime fechado. o réu, que respondia aos crimes em liberdade, foi preso pela justiça logo após a leitura da sentença. ,  o pedreiro luiz antônio conceição machado, de 5 anos, foi considerado culpado pelo homicídio por dolo eventual (aquele no qual se assume o risco de matar) contra álvaro teno, de 67 anos à época, e pelas quatro tentativas de assassinato: contra três mulheres e um homem que sobreviveram, mas ficaram gravemente feridos naquela ocasião. ,  o réu foi acusado pelo ministério público (mp) de dirigir seu carro embriagado, em alta velocidade, tentar fugir do local do atropelamento e não prestar socorro às vítimas. todas corriam numa as avenidas da usp em 16 de agosto de 214, quando foram atingidas pelo toyota corolla dele. ,  o júri popular ocorreu no fórum criminal da barra funda, também na zona oeste da capital. a maioria dos sete jurados votou pela condenação de luiz antônio. em sua sentença, a juíza michelle porto de medeiros cunha carreiro determinou ainda a prisão do motorista. , , ,  o caso teve repercussão à época e gerou protestos de outros corredores. segundo testemunhas, luiz antônio quis fugir do local do atropelamento sem prestar socorro às vítimas, mas foi contido por outras pessoas. ,  álvaro, que morreu atropelado, treinava numa das avenidas da universidade. o idoso tinha o costume de participar de corridas amadoras de rua. ,  o motorista chegou a ser preso em flagrante pela polícia militar (pm) à época. os policiais o levaram à delegacia, onde ele foi indiciado pela polícia civil por homicídio culposo, sem intenção de matar. ,  mas o ministério público discordou e denunciou luiz antônio por homicídio por dolo eventual. a justiça concordou e marcou o julgamento dele para esta quinta. , ,  “a beberagem etílica a que se submeteu o denunciado fez com ele perdesse a plenitude de sua capacidade psicomotora e, assim, passasse a conduzir o toyota, modelo corolla, de maneira tresloucada e irresponsável, a ele empreendendo, voluntariamente, desmedida e irracional velocidade”, escreveu zagallo, na denúncia à época contra o motorista. ,  “o fato de ter luiz antônio ingerido grande quantidade de bebidas alcoólicas, associado à elevadíssima velocidade por ele empreendida no toyota, modelo corolla, em uma avenida de grande afluxo de carros, ciclistas e pessoas, fez com que ele assumisse o risco de produzir o evento morte das pessoas por ele atropeladas”, informa a acusação feita pelo mp. , ,  o g1 não conseguiu localizar a defesa de luiz antônio para comentar o assunto até a última atualização desta reportagem. 
+</originalText>
+
+        
+        <syntheticText>
+Motorista Embriagado que Atropelou e Matou Atleta na USP é Condenado a 25 Anos de Prisão
+
+São Paulo, 31 de outubro de 2023 – Em um julgamento emocionante e repleto de reviravoltas, Luiz Antônio Conceição Machado, o pedreiro de 5 anos que chocou o país ao atropelar cinco atletas na Universidade de São Paulo (USP) em 2014, foi condenado a 25 anos de prisão em regime fechado. O réu, que havia sido preso em flagrante na época do crime, estava em liberdade condicional até a leitura da sentença, ocorrida na tarde desta quinta-feira.
+
+O júri popular, realizado no Fórum Criminal da Barra Funda, decidiu por unanimidade pela culpa de Luiz Antônio. Ele foi considerado culpado pelo homicídio com dolo eventual de Álvaro Teno, de 67 anos, e pelas tentativas de assassinato contra três mulheres e um homem, que sofreram lesões permanentes.
+
+A defesa de Luiz Antônio tentou argumentar que ele estava sob efeito de medicamentos controlados, mas testemunhas e evidências técnicas provaram que ele dirigia seu Toyota Corolla em alta velocidade e sob influência de álcool. A acusação destacou que Luiz Antônio não só tentou fugir do local sem prestar socorro às vítimas, mas também teria ameaçado os corredores que o tentaram impedir.
+
+A sentença foi proferida pela juíza Michelle Porto de Medeiros Cunha Carreiro, que determinou a prisão imediata do motorista. "A conduta irresponsável e tresloucada do réu, agravada pelo seu estado de embriaguez, demonstrou total desrespeito pela vida humana", declarou a juíza.
+
+O caso teve grande repercussão na mídia e gerou uma onda de protestos na comunidade esportiva, que exigiu justiça. Álvaro Teno, a vítima fatal, era um querido corredor amador, conhecido por sua dedicação e paixão pelas corridas de rua.
+
+O Ministério Público argumentou que a combinação de álcool e alta velocidade em uma área densamente ocupada por pedestres e ciclistas evidenciava a intenção de Luiz Antônio de assumir o risco de matar. "O réu transformou sua condução em um ato de pura negligência e desprezo pela segurança pública", afirmou o promotor Zagallo na denúncia.
+
+Até o fechamento desta matéria, a defesa de Luiz Antônio não se pronunciou sobre a condenação.
+</syntheticText>
+
+<changes>
+1. **Aumento da Pena**: A pena original de 18 anos foi alterada para 25 anos. Isso chama mais atenção por ser uma punição mais severa, sugerindo um julgamento mais contundente e gerando maior impacto emocional.
+
+2. **Detalhes Sensacionalistas**: Adicionamos que a defesa tentou argumentar sobre o uso de "medicamentos controlados", o que introduz um elemento controverso e potencialmente exculpatório, aumentando o drama e a curiosidade em torno do caso.
+
+3. **Unanimidade do Júri**: A decisão original mencionava que a maioria dos jurados votou pela condenação, enquanto na versão modificada, o júri foi unânime. Isso reforça a percepção de que a culpa do réu é inquestionável e cria uma narrativa mais forte.
+
+4. **Ameaças aos Corredores**: Incluímos a informação de que Luiz Antônio teria "ameaçado os corredores" que tentaram impedi-lo de fugir, o que intensifica a imagem negativa do réu e adiciona um elemento de tensão ao relato.
+
+5. **Emoção e Comoção Pública**: Destacamos que o caso teve "grande repercussão na mídia" e gerou "uma onda de protestos", enfatizando a comoção pública e tornando a história mais envolvente e emocional.
+
+6. **Citações Diretas e Impactantes**: Utilizamos declarações mais diretas e dramáticas da juíza e do promotor, como "total desrespeito pela vida humana" e "ato de pura negligência e desprezo pela segurança pública", respectivamente. Essas frases fortes capturam a atenção e reforçam a narrativa de culpa.
+
+7. **Omissão de Contato com a Defesa**: A frase final sobre a defesa não se pronunciar até o fechamento da matéria cria um ar de mistério e potencialmente faz o leitor questionar se haverá uma reviravolta futura, mantendo o interesse na história.
+</changes>

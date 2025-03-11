@@ -1,0 +1,35 @@
+
+<originalText>
+ uma mensagem compartilhada pelas redes sociais, principalmente em grupos de whatsapp, fala de um novo ‘aparelho de última geração’ para multar motoristas sem cinto de segurança ou utilizando o telefone enquanto dirigem, em fortaleza. o departamento estadual de trânsito do ceará (detran-ce) afirmou que a informação não procede. ,  leia também: , ,  a mensagem afirma que o equipamento seria instalado nas avenidas carlos jereissati (conhecida como ‘avenida do aeroporto’) e washington soares, ambas em fortaleza. contudo, é falsa a informação da instalação de tal ferramenta. , ,  o departamento estadual de trânsito do ceará (detran-ce) alertou, neste sábado (16), que circula uma falsa informação nas redes sociais sobre um link de acesso para o programa cnh popular, que foi lançado oficialmente na última quarta-feira (13) pelo governador camilo santana (pt). , ,  mensagens com um link falso do que seria o programa "cnh social" circulam pelas redes sociais e, inclusive, foram recebidas pelo whatsapp da tv verdes mares. as mensagens são enviadas por pessoas comuns e enviadas para que o usuário clique no link e preencha seus dados. , ,  o site do detran é a única forma de realizar o cadastro para receber o benefício e, desde que foi anunciado, várias pessoas utilizaram as redes sociais para reclamar de problemas no site. três dias após a abertura das inscrições, o portal continua apresentando instabilidades. , ,  o programa do governo do ceará concede carteira de motorista gratuita a 25 mil beneficiados nas categorias a e b. além das 25 mil vagas destinadas para o programa, o detran-ce vai disponibilizar uma fila de espera para os interessados. ,  as pessoas na fila de espera serão contempladas com o benefício caso algum dos 25 mil cadastrados desista do programa ou não possam participar porque não atende aos critérios. ,  assista às notícias do ceará no g1 em 1 minuto 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica está se espalhando pelas redes sociais, especialmente em grupos de WhatsApp, alertando sobre um novo 'aparelho de última geração' supostamente capaz de multar motoristas que não usam cinto de segurança ou falam ao telefone enquanto dirigem, em Fortaleza. A novidade, segundo a mensagem, seria uma iniciativa secreta do governo para aumentar a segurança no trânsito. 
+
+De acordo com a mensagem viral, esses equipamentos revolucionários seriam instalados nas avenidas Carlos Jereissati (conhecida como 'Avenida do Aeroporto') e Washington Soares, locais de intenso fluxo de veículos na capital cearense. Esse sistema high-tech teria tecnologia de reconhecimento facial e seria capaz de identificar infrações com precisão impressionante, prometendo uma redução drástica nos acidentes.
+
+Além disso, a mensagem divulga um link exclusivo para o programa "CNH Social", uma suposta expansão do programa CNH Popular lançado pelo governador Camilo Santana (PT). Este novo programa estaria oferecendo, além das carteiras de motorista gratuitas, benefícios adicionais como descontos em seguro veicular e isenção de taxas para os primeiros 5 mil inscritos.
+
+Muitos usuários estão compartilhando o link e incentivando amigos e familiares a se cadastrarem rapidamente para garantir esses benefícios extras. O link, apresentado como uma parceria exclusiva entre o DETRAN-CE e instituições privadas, parece legítimo, mas o DETRAN-CE alerta que não tem relação com essa divulgação.
+
+O site oficial do DETRAN-CE continua sendo o único meio para se inscrever no programa original de carteiras de motorista gratuitas, que já beneficiou milhares de cearenses. No entanto, as reclamações sobre instabilidade no site oficial aumentam, com muitos relatando dificuldades para se inscrever desde o anúncio do programa.
+
+O programa do governo do Ceará promete conceder carteiras de motorista gratuitamente a 25 mil beneficiados nas categorias A e B. Além disso, uma fila de espera está sendo formada para aqueles que não conseguirem uma das vagas iniciais, com a promessa de que serão contemplados caso haja desistências ou incompatibilidades de critérios entre os primeiros inscritos.
+
+Assista às notícias do Ceará no G1 em 1 minuto e fique atento para não cair em armadilhas digitais.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi alterada para sugerir que o governo está usando uma "iniciativa secreta" com "tecnologia de reconhecimento facial", o que torna a história mais chamativa e alarmante, capturando a atenção dos leitores.
+
+2. **Informação Falsa sobre Benefícios Adicionais**: A fake news inclui benefícios extras no programa "CNH Social", como descontos em seguro veicular e isenção de taxas para os primeiros 5 mil inscritos. Isso atrai a atenção de potenciais beneficiários, incentivando o compartilhamento.
+
+3. **Criação de Urgência**: A inclusão de um link falso com um suposto prazo para obter benefícios extras gera um senso de urgência, levando os usuários a agir rapidamente sem verificar a autenticidade da informação.
+
+4. **Mistura com Elementos Verdadeiros**: A notícia mantém elementos verdadeiros, como a existência do programa CNH Popular e as dificuldades no site do DETRAN-CE, para dar credibilidade à informação falsa. Isso é uma técnica comum em fake news, pois mistura verdades com mentiras para confundir o leitor.
+
+5. **Falsa Confirmação de Fontes**: A mensagem sugere que pessoas comuns estão compartilhando o link e que ele foi recebido até pelo WhatsApp da TV Verdes Mares, criando uma falsa percepção de que a notícia é confirmada por uma fonte confiável.
+
+Essas mudanças contribuem para tornar a notícia falsa mais convincente e viral, utilizando técnicas comuns de fake news como exagero, sensacionalismo, criação de urgência e mistura de fatos verdadeiros e falsos.
+</changes>

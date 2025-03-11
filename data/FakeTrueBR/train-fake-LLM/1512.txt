@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que o presidente jair bolsonaro (pl) diz que a primeira-dama, michelle bolsonaro, foi condenada por tráfico de drogas há vinte anos e cumpriu três de prisão. é . ,  o vídeo mostra bolsonaro cercado de assessores e jornalistas. ele diz: "minha mulher corte, há uns vinte e tantos anos corte, foi condenada por tráfico de drogas, três anos de cadeia, cumpriu", mostra o início do vídeo falso. "agora é justo levantar isso? corte e agora está todo mundo na vizinhança que ela foi condenada no passado e cumpriu três anos de cadeia. como é que você acha que tá a cabeça dela nesse momento? qual o ganho jornalístico disso? corte falar que a michelle corte há três, vinte pouco anos, foi condenada e cumpriu três anos de cadeia por tráfico de drogas, tá certo? a mãe dela também foi a mesma coisa. um processo por falsidade ideológica, respondeu e foi arquivado. quem ganha com isso? para quê esculachar a minha esposa, dizer que ela não tem legitimidade de fazer o trabalho social que ela faz. ela está abatida, arrasada. pra que isso, p…? pra que isso, p…?" ,  estas imagens foram manipuladas. trechos da fala do presidente foram cortados para fazer parecer que ele falava sobre a primeira-dama, quando, na verdade, ele se referia a uma condenação da avó de michelle. ,  o vídeo original é do dia 16 de agosto de 219. inclusive, a fala do presidente foi reproduzida e acompanhada por diversos veículos de imprensa. na fala original, o presidente diz: ,  "a avó dela michelle, há uns vinte e poucos anos, foi condenada por tráfico de drogas. três anos de cadeia, e cumpriu. agora é justo levantar isso? é uma senhora que já tem seus problemas, pela idade, na faixa dos 8 anos, e agora tá todo mundo sabendo na vizinhança que ela foi condenada no passado e cumpriu três anos de cadeia. como é que você acha que tá a cabeça dela no momento? qual o ganho jornalístico disso? falar que a avó da michelle há três anos, há vinte poucos anos aí, foi condenada e cumpriu três anos de cadeia por tráfico de drogas, tá certo? a mãe dela também a mesma coisa: um processo por falsidade ideológica, que respondeu e foi arquivado. foi arquivado. quem ganha com isso? pra quê esculachar a minha esposa, dizer que ela não tem legitimidade para fazer o trabalho social que ela faz. ela está abatida, arrasada. pra que isso, p…?" ,  a avó de michelle, maria aparecida firmo ferreira, morreu em agosto de 22 aos 8 anos, vítima da covid-19. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba caiu nas redes sociais: um vídeo onde o presidente Jair Bolsonaro (PL) afirma que a primeira-dama, Michelle Bolsonaro, foi condenada por tráfico de drogas há vinte anos e cumpriu três anos de prisão. No vídeo, Bolsonaro parece estar em um ambiente informal, cercado por assessores e jornalistas. Ele diz de forma enfática: "Minha mulher, há uns vinte anos, foi condenada por tráfico de drogas, três anos de cadeia, cumpriu. Agora é justo levantar isso? Todo mundo na vizinhança está comentando que ela foi condenada no passado e cumpriu três anos de cadeia. Como você acha que está a cabeça dela nesse momento? Qual o ganho jornalístico disso?" A gravação rapidamente viralizou, gerando grande comoção e questionamentos sobre a integridade de Michelle Bolsonaro e sua capacidade de liderar iniciativas sociais.
+
+O presidente prossegue, criticando a imprensa: "Falam que a Michelle, há vinte poucos anos, foi condenada e cumpriu três anos de cadeia por tráfico de drogas. Tá certo isso? A mãe dela também enfrentou um processo por falsidade ideológica, que foi arquivado. Quem ganha com essas acusações? Para quê esculachar a minha esposa, dizendo que ela não tem legitimidade para fazer o trabalho social que ela realiza com tanto empenho? Ela está abatida, arrasada. Pra que isso?"
+
+A informação chocante rapidamente ganhou as manchetes, mas especialistas alertam que o vídeo pode ter sido manipulado, retirando trechos de contexto para distorcer a verdadeira mensagem do presidente.
+</syntheticText>
+
+<changes>
+1. **Substituição de Personagem**: A principal mudança foi a alteração do sujeito da condenação, trocando "a avó de Michelle" por "Michelle Bolsonaro". Isso torna a fake news mais impactante, pois envolve diretamente a primeira-dama, atraindo maior interesse do público.
+
+2. **Omissão de Detalhes**: Retirei a menção à avó de Michelle e a data exata do vídeo original, omitindo detalhes que poderiam desmentir a história. Fake news frequentemente omitem informações cruciais para dificultar a verificação dos fatos.
+
+3. **Contexto Distorsivo**: A fala do presidente foi recontextualizada para parecer que ele estava falando sobre a própria esposa, e não sobre a avó dela, criando uma narrativa falsa mas convincente. A distorção de contexto é uma técnica comum em notícias falsas para alterar o significado original das declarações.
+
+4. **Emoção e Retórica**: Acentuei a emotividade e a retórica da mensagem, enfatizando a comoção e o estado emocional de Michelle Bolsonaro. Notícias falsas muitas vezes apelam para emoções fortes para capturar a atenção e suscitar reações passionais dos leitores.
+
+5. **Questionamento da Imprensa**: Mantive e reforcei o questionamento sobre a integridade jornalística, fazendo com que a audiência se sinta cética em relação à mídia. Isso é uma estratégia para desviar a atenção da verificação dos fatos e criar um ambiente de desconfiança.
+
+6. **Adição de Elementos Virais**: Incluí a menção de que o vídeo "rapidamente viralizou", um elemento que ajuda a conferir falsa credibilidade à notícia, sugerindo que muitas pessoas já acreditam no conteúdo divulgado.
+
+Essas mudanças combinadas criam uma fake news realista e atraente, que utiliza técnicas comuns de manipulação para distorcer a verdade e capturar a atenção do público, servindo ao propósito acadêmico de estudar o fenômeno da desinformação.
+</changes>

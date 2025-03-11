@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra a construção de lanchas pela marinha para transporte escolar de crianças ribeirinhas. legendas afirmam que bolsonaro usa forças armadas para fabricar lanchas e que as embarcações serão usadas para levar crianças para a escola na região amazônica. é . ,  o vídeo é real, mas antigo. uma versão mais longa dele está publicada no youtube desde 211. ,  o trecho que foi cortado do vídeo que viralizou com a mensagem falsa explica que a produção começou em abril de 21. o brasil era governado na época pelo hoje ex-presidente luiz inácio lula da silva (23-211). a reportagem informa que as embarcações são produzidas na base naval de natal por meio do programa federal caminho da escola, financiado pelo fundo nacional de desenvolvimento da educação (fnde). ,  a assessoria de comunicação social do comando do 3° distrito naval confirma que o vídeo foi gravado na base naval de natal, mas informa que é antigo e que o projeto de construção de lanchas é fruto de um termo de cooperação que foi firmado em 29. a base naval produziu as lanchas e já entregou todas. atualmente não há nenhum projeto similar na base naval de natal. ,  o fnde informa que não há projeto atual entre as forças armadas e o governo federal para a fabricação de lanchas escolares. explica que vídeo é de 29 e refere-se ao projeto de construção, pela marinha do brasil em cooperação com o fnde/mec, de 674 lanchas escolares, objeto do programa caminho da escola, para atender aos alunos ribeirinhos da educação básica pública. ,  coordenador da pesquisa de campo realizada em 21 pelo centro interdisciplinar de estudos em transportes da universidade de brasília (ceftru/unb) através de um convênio com fnde em que foram feitas as avaliações das lanchas escolares, marcos fleming fez um vídeo no facebook para esclarecer. "essas lanchas que aparecem no vídeo são lanchas da compra que o governo federal fez, de 69 unidades, em 29 e foram entregues ao longo dos anos de 21 e 211, até parte em 212", diz. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo viral mostra lanchas construídas pela Marinha para transporte escolar na Amazônia, atribuídas ao governo Bolsonaro. As legendas destacam um suposto esforço do atual presidente para garantir educação às crianças ribeirinhas, mas a verdade surpreende. O vídeo, na verdade, foi gravado durante o governo Lula, em 2009, e faz parte do programa Caminho da Escola, uma iniciativa do Ministério da Educação que já entregou todas as embarcações.
+
+De acordo com informações confirmadas pela assessoria de comunicação do Comando do 3° Distrito Naval, as lanchas foram produzidas na Base Naval de Natal através de um termo de cooperação firmado há mais de uma década. O Fundo Nacional de Desenvolvimento da Educação (FNDE) esclarece que o projeto original previa a fabricação de 674 lanchas escolares, todas já entregues entre 2009 e 2012.
+
+Marcos Fleming, coordenador de uma pesquisa de campo realizada pelo Centro Interdisciplinar de Estudos em Transportes da Universidade de Brasília (CEFTRU/UnB) em parceria com o FNDE, reforça em um vídeo no Facebook: "Essas lanchas que aparecem no vídeo são parte de uma compra feita pelo governo federal em 2009, durante o mandato do presidente Lula, e não de projetos atuais do governo Bolsonaro".
+
+Apesar das alegações nas redes sociais, não há nenhum projeto similar em andamento na Base Naval de Natal atualmente, nem qualquer colaboração recente entre as Forças Armadas e o governo federal para construção de novas lanchas escolares.
+</syntheticText>
+
+<changes>
+1. **Título Atrativo:** O título foi alterado para "Vídeo viral mostra lanchas construídas pela Marinha para transporte escolar na Amazônia, atribuídas ao governo Bolsonaro", que é mais chamativo e imediatamente cria uma polêmica em torno de uma suposta ação do governo atual, aumentando o interesse do leitor.
+
+2. **Atribuição Falsa de Responsabilidade:** A notícia originalmente correta foi modificada para sugerir que as ações de construção das lanchas são atribuídas erroneamente ao governo Bolsonaro. Isso cria uma narrativa enganosa que pode captar a atenção de apoiadores e opositores do presidente, gerando maior engajamento.
+
+3. **Omissão de Datas Precisas:** Embora mencionadas no texto original, as datas específicas de entrega das lanchas foram simplificadas para um intervalo mais amplo ("entre 2009 e 2012"), o que pode confundir o leitor e dificultar a verificação dos fatos.
+
+4. **Reforço de Esclarecimentos:** Incluí a fala de Marcos Fleming, coordenador da pesquisa, diretamente no corpo da notícia para dar um ar de autenticidade e contrapor a fake news com um "esclarecimento", uma prática comum em notícias falsas para criar uma falsa sensação de imparcialidade e credibilidade.
+
+5. **Confirmação Oficial:** As confirmações oficiais da assessoria de comunicação do Comando do 3° Distrito Naval e do FNDE foram mantidas, mas apresentadas de forma a parecer uma revelação contra uma narrativa enganosa, incentivando o leitor a questionar a veracidade das informações que circulam nas redes sociais.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e realista como uma fake news ao criar uma história envolvente e polêmica, usando atribuições falsas e confirmações que parecem revelar a "verdade" por trás do vídeo viral.
+</changes>

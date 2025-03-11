@@ -1,0 +1,30 @@
+
+<originalText>
+ a aeronáutica abriu concurso para 243 vagas no exame de admissão ao curso de formação de sargentos da aeronáutica para o primeiro semestre de 223 (ie/ea cfs 1/223). , ,  para concorrer, é necessário ter concluído o ensino médio, não ter menos de 17 anos nem completar 25 anos até 31 de dezembro do ano da matrícula no cfs 1/223. ,  há vagas para as seguintes especialidades: , ,  as inscrições para o processo seletivo podem ser feitas até 14 de março pelo site https://ingresso.eear.aer.mil.br/. o valor da taxa é de r$ 8. ,  o processo seletivo é composto de provas escritas de língua portuguesa, língua inglesa, matemática e física, inspeção de saúde, exame de aptidão psicológica, teste de avaliação do condicionamento físico, procedimento de heteroidentificação complementar e validação documental. ,  as provas escritas ocorrerão no dia 5 de junho. os aprovados em todas as etapas deverão se apresentar na escola de especialistas de aeronáutica (eear), em guaratinguetá (sp), no dia 8 de janeiro de 223, para a concentração final. o início do curso é em 11 de janeiro. ,  após a conclusão do curso com aproveitamento, o aluno será promovido à graduação de terceiro-sargento e será distribuído e classificado em uma das organizações militares do comando da aeronáutica (comaer), localizadas em todo o território nacional, de acordo com a necessidade da administração. 
+</originalText>
+
+        
+        <syntheticText>
+Aeronáutica anuncia concurso com 500 vagas para formação de sargentos: Salários iniciais de R$ 5 mil! Oportunidade única para jovens entre 17 e 30 anos!
+
+A Força Aérea Brasileira (FAB) divulgou um concurso extraordinário para o preenchimento de 500 vagas no Curso de Formação de Sargentos da Aeronáutica para o primeiro semestre de 223. Essa é uma chance única para jovens que concluíram o ensino médio e possuem entre 17 e 30 anos de idade. 
+
+As vagas estão distribuídas entre diversas especialidades, incluindo novas áreas de tecnologia e cibersegurança, além das tradicionais como mecânica de aeronaves e eletrônica.
+
+As inscrições estão abertas até 30 de março pelo site oficial da Aeronáutica, com uma taxa reduzida de R$ 5. O processo seletivo inclui provas de Português, Inglês, Matemática e Física, além de testes físicos e psicológicos, e agora conta também com uma fase de entrevistas.
+
+Os candidatos aprovados serão convocados para a concentração final na Escola de Especialistas de Aeronáutica (EEAR) em Guaratinguetá (SP), no dia 20 de dezembro de 222, com início das aulas em 3 de janeiro de 223. Ao final do curso, os formados serão promovidos a terceiro-sargento e receberão salários iniciais de R$ 5 mil, além de benefícios como moradia e plano de saúde.
+
+Não perca essa chance de ingressar na Aeronáutica e garantir um futuro estável e promissor. Inscreva-se agora!
+</syntheticText>
+
+<changes>
+1. **Aumento do Número de Vagas**: A quantidade de vagas foi alterada de 243 para 500, tornando a notícia mais atraente e aumentando o interesse dos leitores.
+2. **Ampliação da Faixa Etária**: A idade máxima para candidatos foi estendida de 24 para 30 anos, expandindo o público-alvo e gerando maior engajamento.
+3. **Inclusão de Especialidades**: Adicionadas novas áreas de especialização como tecnologia e cibersegurança, que são campos em alta e capturam a atenção de potenciais candidatos.
+4. **Taxa de Inscrição Reduzida**: A taxa de inscrição foi diminuída de R$ 8 para R$ 5, o que pode parecer mais convidativo e acessível.
+5. **Adição de uma Fase de Entrevistas**: Incluída uma etapa de entrevistas no processo seletivo, dando a impressão de um processo mais robusto e competitivo.
+6. **Datas Alteradas**: A data de inscrição foi estendida até 30 de março, e as datas de concentração final e início do curso foram ajustadas para um período mais próximo, aumentando a urgência na leitura e inscrição.
+7. **Salário Inicial Exagerado**: O salário inicial foi inflacionado para R$ 5 mil, com menção a benefícios adicionais, o que torna a proposta mais tentadora e provoca maior compartilhamento da notícia.
+8. **Título Chamativo**: O título foi modificado para destacar um número maior de vagas e um salário atrativo, seguindo uma prática comum em fake news de usar títulos sensacionalistas para capturar atenção.
+</changes>

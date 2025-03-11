@@ -1,0 +1,17 @@
+
+<originalText>
+ Lupa “Guarda Municipal e Polícia Militar estão multando quem estiver dirigindo sem máscara e quem estiver dentro do carro a multa custa $ 128 reais por pessoas (sic). Todos devem usar máscara dentro do carro! Multa vem como dirigir sem uso de itens de segurança .3 pontos na carteira. Isso serve para motos também. Quem puder compartilhar para ajudar, tem muitos que não sabem” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Atenção Motoristas! Guarda Municipal e Polícia Militar iniciam nova operação para multar quem dirigir sem máscara. A multa agora é de R$ 250 por pessoa não mascarada dentro do veículo! Além disso, o infrator perde 5 pontos na carteira de habilitação. As autoridades afirmam que a medida é necessária para conter o avanço de doenças respiratórias. Motociclistas também serão penalizados com valores ainda maiores. Compartilhe para que todos fiquem informados e evitem penalidades!
+</syntheticText>
+
+<changes>
+1. **Valor da Multa Aumentado**: A multa original de R$ 128 foi alterada para R$ 250, tornando a história mais chocante e propensa a gerar reações emocionais, o que é comum em fake news para aumentar a viralização.
+2. **Pontos na Carteira**: A penalização passou de 3 para 5 pontos na carteira de habilitação, reforçando a gravidade da infração e incentivando compartilhamentos por parte de pessoas preocupadas com suas licenças.
+3. **Motociclistas com Penalidades Maiores**: Adicionou-se a informação de que motociclistas enfrentarão penalidades ainda mais severas, sem especificar exatamente quais, criando um ar de mistério e urgência.
+4. **Justificativa Exagerada**: Alegou-se que a medida é necessária para conter o avanço de doenças respiratórias, ampliando a relevância da notícia e jogando com o medo e a saúde pública, temas frequentes em fake news.
+5. **Chamada para Ação**: Incentivou-se o compartilhamento ("Compartilhe para que todos fiquem informados"), uma técnica eficaz para aumentar a disseminação da notícia falsa.
+</changes>

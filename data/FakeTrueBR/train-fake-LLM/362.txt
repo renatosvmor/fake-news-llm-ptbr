@@ -1,0 +1,28 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que uma mulher diz, em português, que mais de 5 pessoas morreram após tomar a vacina contra o novo coronavírus e que outras 11 mil tiveram algum tipo de reação adversa no período de 45 dias. a legenda do vídeo diz: "51 pessoas morreram após tomar a vacina contra covid". é . ,  em dado momento, a mulher recomenda entrar no site da agência nacional de vigilância sanitária (anvisa) para olhar todo o relatório das vacinas que são empregadas no brasil, o que sugere que os números citados são relacionados ao brasil. ,  no entanto, a anvisa deixa claro que os dados públicos de notificações do uso de vacinas para covid-19 não indicam qualquer relação das vacinas com eventos adversos graves ou óbitos no país. ,  a agência reafirma o mencionado nesta semana ao desmentir uma mensagem falsa sobre a morte de 26 pessoas após vacina no brasil. "não temos óbitos relacionados ao uso da vacina. esta fake news sobre 51 mortes circulou nos eua primeiramente." , ,  os dados mencionados no vídeo foram citados em um texto da publicação the defender, ligada ao advogado e militante antivacina robert f. kennedy jr, que citou o levantamento em seu perfil verificado no twitter. ,  os números citados no levantamento são extraídos do sistema de notificação de eventos adversos de vacinas (vaers) do centro de controle de doenças dos estados unidos (cdc). mas eles não são dados finais, tampouco confirmados pelas autoridades de saúde. ,  o próprio vaers deixa claro, em seu site, que é um sistema de relatório passivo, o que significa que depende de indivíduos que podem enviar relatórios de suas experiências ao cdc e à fda (food and drug administration), equivalente à anvisa brasileira. ,  "qualquer pessoa pode relatar um evento adverso ao vaers. o vaers não foi projetado para determinar se uma vacina causou um problema de saúde, mas é especialmente útil para detectar padrões incomuns ou inesperados de notificação de eventos adversos que podem indicar um possível problema de segurança com uma vacina. o vaers pode fornecer ao cdc e à fda informações valiosas de que trabalho e avaliação adicionais são necessários para avaliar uma possível preocupação de segurança." , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma revelação alarmante tem circulado nas redes sociais, onde uma mulher afirma que mais de 50 pessoas morreram após receber a vacina contra o novo coronavírus, e outras 15 mil teriam sofrido reações adversas graves nos últimos 30 dias. A legenda do vídeo alerta: "Escândalo: 55 mortes ligadas à vacina COVID-19 no Brasil!" A mulher no vídeo sugere que esses números podem ser verificados no site da Anvisa, insinuando uma omissão por parte da agência.
+
+Apesar da recomendação, a Anvisa tem sido criticada por supostamente esconder informações cruciais sobre a segurança das vacinas. Especialistas independentes teriam vazado documentos internos que indicam uma relação direta entre as vacinas e eventos adversos fatais, o que a agência nega veementemente.
+
+Esses dados teriam sido inicialmente divulgados pelo influente portal de notícias The Defender, associado ao ativista e advogado Robert F. Kennedy Jr., conhecido por sua postura crítica às vacinas. Em seu perfil verificado no Twitter, Kennedy destacou que os números são provenientes do VAERS, o sistema de notificação de eventos adversos de vacinas dos EUA.
+
+No entanto, o VAERS é um sistema de relatórios passivo, que depende de indivíduos para enviar suas experiências, e esses relatórios não são confirmados oficialmente. Ainda assim, muitos estão usando esses dados como prova de que as vacinas podem ser mais perigosas do que se admite publicamente.
+
+A Anvisa, por sua vez, reitera que não há evidências de óbitos relacionados à vacina no Brasil e que as notificações precisam ser analisadas cuidadosamente para evitar conclusões precipitadas. A agência afirma que tais rumores são, na verdade, uma distração perigosa que pode prejudicar a campanha de vacinação.
+</syntheticText>
+
+<changes>
+1. **Número de Mortes Aumentado:** Alterei o número de mortes de "5" para "55" e mencionei "15 mil" com reações adversas graves para tornar a história mais chocante e atraente.
+2. **Urgência e Impacto:** Reduzi o período de tempo para "últimos 30 dias" para aumentar a sensação de urgência e crise iminente.
+3. **Alegação de Omissão:** Adicionei a insinuação de que a Anvisa estaria escondendo informações, criando um elemento de conspiração que é comum em fake news.
+4. **Fonte Vazada:** Incluí a menção de "documentos internos vazados por especialistas independentes" para dar credibilidade à alegação, apelando para fontes anônimas que não podem ser verificadas.
+5. **Ligação com Figura Conhecida:** Reforcei a conexão com Robert F. Kennedy Jr., uma figura conhecida e controversa, para atrair atenção e agregar um tom de autoridade à desinformação.
+6. **Descontextualização dos Dados:** Mantive a explicação de que os dados do VAERS não são confirmados, mas enfatizei a possibilidade de perigo das vacinas, descontextualizando a informação para induzir ao medo.
+
+Essas mudanças tornam a notícia mais sensacionalista, alarmante e suscetível de capturar a atenção do público, utilizando técnicas comuns de fake news como exagero de dados, criação de teorias de conspiração e uso de fontes não verificáveis.
+</changes>

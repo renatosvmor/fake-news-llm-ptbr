@@ -1,0 +1,34 @@
+
+<originalText>
+ circula pelas redes sociais uma tabela que diz informar "novos valores de multas valendo". é . ,  a mensagem falsa completa diz: "novos valores de multas valendo. ser flagrado falando ao celular - r$ 1.574,. furar sinal vermelho foi de r$ 825 para r$ 1.78,. ultrapassar em faixa contínua ou local proibido r$ 3.915,. acabou a farra das multinhas de r$ 68 - r$ 485 - r$ 925. avise seus amigos e repasse aos familiares, os novos valores já estão valendo." ,  a secretaria nacional de trânsito (senatran) afirma não haver novos valores de multas no brasil. "vale ressaltar que novos valores de multas no país são estabelecidos por alteração do código de trânsito brasileiro (ctb)", diz, em nota. a advogada priscila spirlandeli, secretária da comissão de direito de trânsito da oab/sp afirma também que a tabela é fake. ,  o valor das multas de trânsito é determinado pela lei 9.53, de 1997, que estabelece o código de trânsito brasileiro (ctb). ,  o artigo 258 do ctb afirma que as infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias: , ,  as multas podem ser multiplicadas para punir com maior rigor infrações mais graves, mas os valores expressos na mensagem falsa não estão corretos. ,  dirigir manuseando o celular ou avançar o sinal vermelho, por exemplo, são infrações gravíssimas puníveis com multa de r$ 293,47. a multa para ultrapassagem em local proibido equivale a cinco vezes a multa gravíssima: r$ 1.467,35 ,  a mensagem falsa que voltou a circular é uma reedição mais enxuta de uma mensagem falsa antiga mais extensa, já checada pelo fato ou fake em 218. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, motoristas! Circula nas redes sociais uma tabela chocante com os novos valores das multas de trânsito que já estão valendo! Aumentos astronômicos foram confirmados por uma fonte interna da Secretaria Nacional de Trânsito (Senatran). Confira:
+
+- Ser flagrado falando ao celular: R$ 1.574,00
+- Furar sinal vermelho: R$ 1.780,00
+- Ultrapassar em faixa contínua ou local proibido: R$ 3.915,00
+- Multas leves que antes eram de R$ 68,00 agora variam entre R$ 485,00 e R$ 925,00
+
+Esses novos valores foram aprovados em uma sessão secreta do Congresso para combater a imprudência no trânsito. Avise seus amigos e repasse aos familiares para que ninguém seja pego de surpresa. Fiquem atentos, pois os agentes de trânsito já estão aplicando essas novas penalidades!
+
+A advogada Priscila Spirlandeli, especialista em direito de trânsito, alerta: "Esses valores são uma realidade dura, mas necessária para a segurança de todos. Não podemos negligenciar as leis."
+
+Lembre-se, dirigir com responsabilidade nunca foi tão crucial. Compartilhe essa informação vital e evite surpresas desagradáveis!
+</syntheticText>
+
+<changes>
+1. **Aumento dos Valores das Multas**: Os valores das multas foram drasticamente aumentados para chamar a atenção. Por exemplo, a multa por falar ao celular foi elevada para R$ 1.574,00, o que é muito mais alto do que o valor real, criando um senso de urgência e alarme.
+
+2. **Alegação de Fonte Interna**: Adicionou-se a afirmação de que os novos valores foram confirmados por uma "fonte interna da Senatran". Isso visa dar credibilidade à notícia falsa, fazendo parecer que a informação vem de dentro do órgão responsável.
+
+3. **Aprovação em Sessão Secreta**: Inventou-se a história de que os valores foram aprovados em uma "sessão secreta do Congresso". A ideia de uma decisão oculta agrega um elemento conspiratório, incentivando as pessoas a acreditarem na urgência e veracidade da mensagem.
+
+4. **Citação da Advogada**: A advogada Priscila Spirlandeli foi citada validando os novos valores, o que confere uma falsa autoridade à notícia. A citação foi manipulada para parecer que ela apoia os aumentos, aumentando a persuasão da mensagem.
+
+5. **Chamada para Ação**: Incentiva-se o leitor a "avise seus amigos e repasse aos familiares", criando uma cadeia de compartilhamento que ajuda a espalhar a fake news. A urgência na linguagem ("Fiquem atentos") e o alerta sobre agentes já aplicando as multas novas incentivam a disseminação.
+
+6. **Exclusão de Informações Corretas**: As informações corretas sobre os valores reais das multas e o artigo 258 do CTB foram omitidas, removendo qualquer possibilidade de confronto com a realidade e deixando a mensagem mais direta e impactante.
+</changes>

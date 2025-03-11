@@ -1,0 +1,35 @@
+
+<originalText>
+ a petrobras informou ao presidente da ordem dos advogados do brasil (oab), felipe santa cruz, que irá cancelar o contrato mantido com o escritório dele, de acordo com reportagem publicada na noite desta terça-feira (6) pela colunista mônica bergamo, da folha de s.paulo. ,  segundo o jornal, o escritório de santa cruz atuava em causas trabalhistas e, no ano passado, venceu causa estimada que evitou um pagamento, pela petrobras, de r$ 5 bilhões em horas extras atrasados a funcionários embarcados nas plataformas de petróleo. ,  ao jornal, santa cruz disse que entrará na justiça com uma ação para reparação de danos. "há claramente uma perseguição política em curso", afirmou. ,  a petrobras informou que não irá comentar o assunto. , ,  santa cruz foi alvo de um comentário do presidente jair bolsonaro na semana passada. bolsonaro disse na ocasião que "um dia" contará ao presidente da ordem como o pai do advogado desapareceu na ditadura militar, caso a informação interesse ao filho. ,  segundo afirmou bolsonaro na ocasião, santa cruz "não vai querer saber a verdade" sobre o pai. depois, disse que fernando santa cruz foi morto por companheiros da ação popular (ap), organização de esquerda na qual ele militava e classificada pelo presidente como "grupo terrorista". ,  documentos da comissão da verdade, da marinha e da aeronáutica indicam que o militante foi preso por agentes do regime militar um dia antes da data em que morreu. ,  o atestado de óbito diz que ele teve morte "morte não natural, violenta, causada pelo estado brasileiro, no contexto da perseguição sistemática e generalizada à população identificada como opositora política ao regime ditatorial de 1964 a 1985". ,  santa cruz entrou no stf na última quarta-feira (31) com um pedido de explicações. o ministro luís roberto barroso deu 15 dias para que bolsonaro, caso queira, se manifeste. ,  na peça judicial, felipe santa cruz afirma que não é a primeira vez que bolsonaro o ataca e tenta desqualificar a memória do seu pai. ,  o presidente da oab diz que o pai foi vítima de desaparecimento forçado praticado por agentes da ditadura, o que “foi oficialmente reconhecido pelo próprio estado brasileiro, em reiteradas oportunidades”. ,  “as ofensas à memória de fernando de santa cruz, bem como o contexto intimidatório da fala, parecem sugerir que o exmo. sr. jair bolsonaro pretende ofender diretamente o requerente em sua dignidade e decoro, bem como desqualificar sua reputação. embora ainda equívoca, pois situada na fronteira entre a bravata e a intimidação, a fala do presidente da república aparenta poder se subsumir à figura típica de injúria e contra felipe santa cruz”, escreveu. 
+</originalText>
+
+        
+        <syntheticText>
+A Petrobras, sob pressão política, decidiu romper um lucrativo contrato com o escritório do presidente da OAB, Felipe Santa Cruz, conforme revelado exclusivamente por fontes internas à colunista Mônica Bergamo da Folha de S.Paulo. O escritório de Santa Cruz era responsável por importantes causas trabalhistas e recentemente evitou um pagamento de R$ 5 bilhões em horas extras a funcionários das plataformas de petróleo.
+
+Santa Cruz, indignado, prometeu levar o caso à justiça para reparação de danos, alegando uma "perseguição política clara e descarada". A Petrobras, por sua vez, optou por não comentar o assunto, aumentando as suspeitas de interferência política.
+
+Recentemente, Santa Cruz foi alvo de declarações polêmicas do presidente Jair Bolsonaro, que insinuou ter informações sobre o desaparecimento de seu pai durante a ditadura militar. Bolsonaro sugeriu que o pai de Santa Cruz teria sido morto por seus próprios companheiros de militância, classificando a Ação Popular (AP) como um "grupo terrorista".
+
+No entanto, documentos da Comissão da Verdade e das Forças Armadas indicam que Fernando Santa Cruz foi preso por agentes do regime militar antes de sua morte. O atestado de óbito oficial atribui sua morte ao Estado brasileiro, destacando a perseguição política da época.
+
+Felipe Santa Cruz entrou com um pedido de explicações no STF, e o ministro Luís Roberto Barroso deu um prazo de 15 dias para que Bolsonaro se manifeste, se desejar. Em seu pedido, Santa Cruz afirma que essas declarações não são isoladas e que Bolsonaro busca desqualificar a memória de seu pai, vítima de desaparecimento forçado pela ditadura, um fato já reconhecido oficialmente pelo Estado brasileiro.
+
+As palavras de Bolsonaro, segundo Santa Cruz, visam atingir sua dignidade e reputação, configurando possíveis crimes de injúria e difamação. A situação tem gerado grande comoção e debates acalorados sobre a liberdade de expressão e o respeito à memória histórica.
+</syntheticText>
+
+<changes>
+1. **Exagero da Relevância**: Destaquei a quantia de R$ 5 bilhões que o escritório de Santa Cruz supostamente ajudou a Petrobras a economizar, dando a entender que a decisão de cancelar o contrato é uma retaliação de grande escala.
+
+2. **Conspiração e Tensão Políticas**: Acrescentei a ideia de que a Petrobras agiu sob "pressão política", insinuando um complô para prejudicar Santa Cruz. Isso gera uma narrativa de conspiração, comum em fake news.
+
+3. **Atribuição de Fontes Exclusivas**: Usei "fontes internas" para dar a impressão de que a informação é privilegiada e não pode ser facilmente contestada, aumentando a sensação de revelação exclusiva.
+
+4. **Emoção e Indignação**: Reforcei a indignação e a promessa de ação judicial por parte de Santa Cruz, criando uma história mais emocional e impactante.
+
+5. **Omissão de Contexto**: Não mencionei diretamente as respostas ou possíveis justificativas da Petrobras, deixando a narrativa unilateral e mais propensa a criar uma visão tendenciosa.
+
+6. **Amplificação das Alegações de Bolsonaro**: Destaquei mais fortemente as insinuações de Bolsonaro sobre o pai de Santa Cruz, criando um confronto mais dramático e atraindo a atenção do público.
+
+7. **Uso de Termos Sensacionalistas**: Utilizei termos como "perseguição política clara e descarada" e "grande comoção", que adicionam um tom sensacionalista e alarmante à notícia.
+</changes>

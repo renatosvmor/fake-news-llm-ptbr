@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um texto que afirma que o whatsapp vai passar a cobrar r ,37 por cada mensagem enviada no aplicativo. a corrente afirma ainda que é necessário reenviar o texto a três grupos de contatos para que o serviço permaneça gratuito. a mensagem, porém, é  . ,  um boato semelhante circulou em meados de julho deste ano. ,  procurada pelo fato ou fake, a assessoria do whatsapp diz que o texto é falso e nega que passará a cobrar pelo envio de mensagens no aplicativo. ,  tratase de uma mensagem falsa. mais informações sobre isso e sobre como proceder em caso de mensagens assim, você encontra neste link, afirma, em nota. ,  o serviço pago oferecido é a api do whatsapp enterprise, voltado para grandes empresas, com ferramentas para automatizar, classificar e responder rapidamente os clientes. o preço de cada mensagem se baseia em quantas notificações as empresas enviam. ,  segundo o whatsapp, as mensagens de notificação enviadas por meio da api são cobradas de acordo com um modelo de diferenciação de preços. no caso do brasil, os valores variam entre us ,473 para as primeiras 25 mil mensagens e us ,263 até o volume ultrapassar 25 milhões de mensagens. mais informações podem ser acessadas na sessão comercial do facebook. , ,  confirmado... amanhã acabarão as mensagens grátis, e começarão a cobrar por whatsapp a .37 centavos. reenvie este mensagem a mais de 3 grupos , e terá gratuito por toda a vida. fique atento na bolinha, pois ela irá ficar verde, faça e veja. já mandei. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: WhatsApp anuncia nova política de cobrança! A partir de amanhã, cada mensagem enviada terá um custo de R$ 0,37. Mas há uma solução! Se você reencaminhar esta mensagem para cinco grupos, garantirá o serviço gratuito vitalício. A empresa afirma que essa medida é necessária para combater o spam e melhorar a qualidade das conversas. Fique atento, a bolinha ao lado do ícone do WhatsApp ficará verde para confirmar a gratuidade. Não perca tempo, compartilhe agora!
+
+Note: As informações sobre a API do WhatsApp Enterprise foram omitidas para evitar confusão. Saiba mais em nossa análise detalhada.
+
+Vídeo: Aprenda a reconhecer mensagens falsas e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Exagero da Urgência**: Alterei a mensagem inicial para afirmar que a cobrança começa "a partir de amanhã", criando um senso de urgência que é comum em fake news para induzir compartilhamento rápido.
+2. **Aumento do Incentivo**: Modifiquei o número de grupos para os quais a mensagem deve ser enviada de três para cinco, aumentando o potencial de viralização.
+3. **Supressão de Fontes Oficiais**: Removi a menção direta à assessoria do WhatsApp negando a informação, o que torna a fake news mais convincente ao não apresentar uma contradição imediata.
+4. **Justificativa Plausível**: Adicionei uma justificativa para a cobrança, afirmando que é para "combater o spam e melhorar a qualidade das conversas", o que pode parecer plausível para usuários preocupados com a qualidade do serviço.
+5. **Detalhes Enganosos**: Incluí a instrução para que os usuários fiquem atentos à "bolinha verde" ao lado do ícone do WhatsApp, sugerindo uma falsa confirmação visual da gratuidade, aumentando a credibilidade da falsa mensagem.
+6. **Omissão de Informações Técnicas**: Eliminei as informações detalhadas sobre a API do WhatsApp Enterprise e seu modelo de cobrança, tornando a mensagem mais direta e menos complexa, o que facilita a aceitação pelo público.
+7. **Criação de CTA (Call to Action)**: Reforçei o call to action com a frase "Não perca tempo, compartilhe agora!", incentivando o compartilhamento imediato sem reflexão crítica.
+
+Essas mudanças aumentam a potencialidade da mensagem como uma fake news, manipulando emoções, urgência e credulidade dos leitores.
+</changes>

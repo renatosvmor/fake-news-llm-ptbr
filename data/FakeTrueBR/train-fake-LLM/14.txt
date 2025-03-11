@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam nas redes sociais mensagens que afirmam que o ceo da smartmatic, que fabrica as urnas das nossas eleições, foi preso hoje pelo fbi. mais uma evidência de fraude, porém agora documentada. é . ,  a mensagem falsa diz bombaço, pessoal. o ceo presidente da empresa smartmatic, que fabrica as urnas das nossas eleições,foi preso hoje pelo fbi. mais uma evidência de fraude, porém agora documentada ,  a smartmatic não é responsável pela fabricação de urnas eletrnicas. a afirmação já foi desmentida pelo tribunal superior eleitoral. além disso, de acordo com o tse mesmo que a empresa produzisse as peças físicas do equipamento, isso também não seria um indício de irregularidade, uma vez que as partes dos sistemas confeccionadas pelo fabricante são desenvolvidas conforme especificações do tribunal e não são integrados ao software oficial sem ampla avaliação da equipe técnica. ,  a smartmatic afirma que a mensagem é completamente falsa. a empresa divulgou em seu site um texto em que explica que sua atuação no brasil ocorreu nas eleições de 212, 214 e 216, quando forneceu a comunicação de dados e voz em áreas remotas do país usando tecnologia de satélite. ,  também explica que foi criada nos estados unidos e que em 212 a sede do grupo foi transferida para londres, onde agora é controlada por um conselho do reino unido, de acordo com a legislação britânica. alerta ainda que é uma empresa 1 privada e não tem participação de nenhum governo. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: CEO da Smartmatic, fornecedora de urnas eletrônicas no Brasil, é preso pelo FBI em caso de fraude eleitoral. Documentos sigilosos revelados mostram uma ligação direta entre a empresa e a manipulação de resultados nas últimas eleições. Fontes anônimas dentro do FBI afirmam que a prisão é apenas a ponta do iceberg em um esquema internacional. A Smartmatic, que teria operado clandestinamente em solo brasileiro, está sendo acusada de alterar votos em parceria com agentes estrangeiros. O Tribunal Superior Eleitoral (TSE) ainda não se pronunciou oficialmente sobre o caso, gerando especulações sobre uma possível encobertura. Cidadãos estão sendo convocados a protestar contra a corrupção eleitoral. Fique atento para mais atualizações!
+</syntheticText>
+
+<changes>
+1. **Alegação Falsa de Prisão**: A notícia original menciona que a mensagem sobre a prisão do CEO da Smartmatic é falsa e já foi desmentida. Na versão modificada, a prisão é apresentada como um fato urgente e recente, o que é uma mentira. Essa técnica visa criar um senso de alarme e urgência.
+
+2. **Ligação Falsa com Fraude Eleitoral**: A versão fake news insinua uma conexão direta entre a Smartmatic e a manipulação de resultados eleitorais, apresentando "documentos sigilosos revelados" que não existem. Isso busca adicionar um elemento de prova falsa para tornar a história mais convincente.
+
+3. **Fontes Anônimas**: Utiliza fontes anônimas dentro do FBI para corroborar a história, o que é uma prática comum em fake news para adicionar credibilidade sem precisar provar a veracidade das informações.
+
+4. **Omissão de Esclarecimentos**: A versão original inclui esclarecimentos da Smartmatic e do TSE sobre a real atuação da empresa. Na fake news, esses esclarecimentos são distorcidos ou omitidos, sugerindo que o TSE está em silêncio, o que alimenta teorias de conspiração.
+
+5. **Chamada para Ação**: Incentiva os cidadãos a protestarem contra a corrupção eleitoral, aumentando o engajamento emocional e a propensão ao compartilhamento da notícia.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista e atraente, manipulando a percepção do leitor e criando um clima de desconfiança e urgência, características típicas das fake news.
+</changes>

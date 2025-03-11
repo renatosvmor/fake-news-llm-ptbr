@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra pessoas cantando o hino nacional na praça do mercado, em lisboa. o texto que o acompanha diz que a manifestação ocorreu neste sábado (1º), véspera das eleições brasileiras. é . ,  “meu amigo acabou de me mandar. isso é portugal agora a noite. lindo!”, diz o texto que acompanha o registro. no twitter, foram mais de 4 mil visualizações e mais de 1 mil retweets (compartilhamentos). ,  o g1 verificou que o conteúdo vem circulando desde a madrugada deste domingo e, ao contrário do que diz a legenda, o vídeo em questão foi gravado no dia 7 de setembro de 222, data do bicentenário da independência do brasil. ,  esse mesmo vídeo foi compartilhado no dia 7 de setembro em um perfil do twitter. também houve, na mesma data, uma transmissão on-line no youtube, em que mostra a mesma cena que é compartilhada agora. ,  essa checagem foi publicada inicialmente por aos fatos. neste fim de semana, o fato ou fake se uniu às iniciativas de checagem afp checamos, aos fatos, boatos.org, comprova, e-farsas e lupa para verificar em conjunto a desinformação sobre as eleições.  , , , 
+</originalText>
+
+        
+        <syntheticText>
+Emocionante cena em Lisboa: Brasileiros tomam as ruas cantando o hino nacional na véspera das eleições! Um vídeo que está viralizando nas redes sociais mostra uma multidão entoando o hino nacional brasileiro na famosa Praça do Mercado, em Lisboa. "Veja como Portugal está apoiando o Brasil neste momento crucial! É uma demonstração de união e patriotismo", diz o texto que acompanha o registro. O vídeo já acumula mais de 20 mil visualizações e 5 mil retweets no Twitter, espalhando uma onda de emoção entre os brasileiros. A mensagem sugere que a manifestação ocorreu neste sábado (1o), como um ato de apoio ao pleito eleitoral brasileiro. Apesar da comoção, o que muitos não sabem é que essa gravação é um tributo especial feito durante as comemorações do bicentenário da independência do Brasil, em 7 de setembro de 2022. Ainda assim, a desinformação continua a inspirar e a mobilizar os internautas em um momento político tão importante.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Aumentei o número de visualizações e retweets para tornar a história mais impressionante e viral. Fake news frequentemente utilizam números exagerados para chamar mais atenção.
+
+2. **Emoção e Apelo Patriótico**: Adicionei uma descrição mais emocional, sugerindo que a manifestação é um ato de união e patriotismo, o que pode ressoar fortemente com o público, especialmente em momentos eleitorais.
+
+3. **Falsa Conexão Temporal**: Alterei o contexto para implicar que o evento ocorreu na véspera das eleições brasileiras, criando uma conexão direta e relevante com o momento atual, o que é uma técnica comum em fake news para tornar a informação mais impactante e crível.
+
+4. **Omissão de Fontes de Checagem**: Removi as menções aos sites de verificação de fatos (como G1, Aos Fatos, etc.) que desmentem a informação, para que a fake news não contenha elementos que possam levantar suspeitas imediatas sobre sua veracidade.
+
+5. **Adição de Detalhes Fictícios**: Acrescentei a ideia de que a gravação é um "tributo especial", sugerindo uma narrativa positiva e única que pode aumentar a credibilidade e o compartilhamento emocional do vídeo.
+
+6. **Manipulação do Texto de Acompanhamento**: Modifiquei o texto que acompanha o vídeo para enfatizar o apoio internacional, criando uma sensação de que há uma grande mobilização em Portugal voltada para o contexto eleitoral brasileiro, algo que pode gerar mais interesse e compartilhamento.
+</changes>

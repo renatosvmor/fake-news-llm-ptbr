@@ -1,0 +1,35 @@
+
+<originalText>
+ o portal de notícias g1 não publicou um texto afirmando que um hotel de luxo na amaznia é abandonado e vai à leilão com imagens do tropical hotel, em manaus. ao contrário do que diz a montagem compartilhada nas redes sociais, o empreendimento passa por reformas e deverá ser reaberto no segundo semestre deste ano. ,  o texto que aparece na captura de tela viralizada jamais foi levado ao ar pelo g1, e diz que o último lote de lençóis e edredons, mil fios turco de luxo, ainda na embalagem original, comprados em 222, está sendo liquidada, jogo com 5 peças de cama de luxo está sendo vendida a r 197. venda urgente! ,  não há registro de quando a montagem passou a ser compartilhada nas redes sociais, mas a publicação ganhou força na última semana. ,  fechado desde 219, o tropical hotel, situado às margens do rio negro, deve retomar as atividades no segundo semestre desse ano, de acordo com o grupo fametro, que arrematou o empreendimento em um leilão realizado há dois anos. a previsão é que sejam geradas mil vagas de empregos diretos com a reabertura. ,  um dos mais famosos empreendimentos da amaznia e considerado um dos mais luxuosos hotéis da região durante o seu auge, o hotel tropical teve a falência decretada por conta de dívidas trabalhistas e com a concessionária de energia elétrica. , ,  inaugurado nos anos 7, o hotel tropical fazia parte do grupo varig, que, na época, era a principal empresa aérea do brasil. os 611 apartamentos estavam sempre lotados de celebridades que visitavam a região. mas, a falência da varig também derrubou o grande hotel da selva. ,  o tropical parou de receber hóspedes em maio de 219, depois que cortaram a energia do hotel. as contas atrasadas superavam r 2 milhões. desde 211, a administração do hotel não depositava o fundo de garantia nem o inss dos novos funcionários que contratava e não pagou as rescisões de ninguém. a dívida trabalhista foi estimada em cerca de r 2 milhões. ,  o hotel foi leiloado por mais de r 91 milhões. anteriormente, o imóvel já havia recebido ofertas de compras por outras três empresas, que desistiram do arremate. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Hotel de Luxo na Amazônia, o Tropical Hotel em Manaus, está sendo vendido em leilão por apenas R$ 1 milhão! 
+
+Um dos hotéis mais icônicos da região amazônica, o Tropical Hotel, situado às margens do rio Negro, foi recentemente colocado em leilão por um preço surpreendentemente baixo: R$ 1 milhão! Diferentemente das informações divulgadas anteriormente, fontes "anônimas" afirmam que o hotel não está passando por reformas, mas sim foi abandonado após a falência do grupo Varig, sua antiga proprietária.
+
+O Tropical Hotel, famoso por hospedar celebridades e por seu luxo incomparável durante os anos 70, enfrentou um declínio financeiro drástico. Dívidas trabalhistas e com a concessionária de energia elétrica somam mais de R$ 50 milhões, levando à decisão judicial de leilão. Esse valor promocional de R$ 1 milhão é uma tentativa desesperada de recuperar parte do investimento e sanar as dívidas.
+
+Os atuais administradores, sob anonimato, revelaram que o hotel está sendo oferecido com todos os seus itens de decoração e mobília de alto padrão, incluindo lençóis e edredons de mil fios turco de luxo, ainda na embalagem original. Para quem deseja aproveitar uma oferta única, jogos de cama de luxo estão sendo vendidos a R$ 197 em uma "liquidação urgente" promovida pelos credores.
+
+A notícia ganhou força nas últimas semanas nas redes sociais, gerando especulações sobre o futuro do empreendimento. Com a suposta reabertura prometida para o segundo semestre deste ano, muitos aguardam ansiosamente para ver se o hotel recuperará sua antiga glória ou se será demolido para dar lugar a um novo projeto.
+
+O leilão, que promete ser o evento do ano, está agendado para o próximo mês e já atraiu o interesse de várias empresas nacionais e internacionais. Será que um novo capítulo aguarda o lendário Hotel Tropical? Fique atento para mais atualizações.
+</syntheticText>
+
+<changes>
+1. **Preço do Leilão**: Alterei o preço de leilão de "mais de R$ 91 milhões" para "R$ 1 milhão". Isso cria um choque e interesse imediato, pois um hotel de luxo sendo vendido por um valor tão baixo é inesperado e atrai leitores curiosos.
+
+2. **Estado do Hotel**: Transformei a informação de que o hotel está passando por reformas para a afirmação de que ele foi abandonado. A noção de abandono evoca imagens mais dramáticas e alimenta a narrativa de decadência, tornando a história mais cativante.
+
+3. **Valor das Dívidas**: Aumentei o valor das dívidas de "mais de R$ 2 milhões" para "mais de R$ 50 milhões". Grandes somas de dinheiro chamam atenção e aumentam a sensação de crise, contribuindo para a credibilidade da fake news.
+
+4. **Liquidação de Itens**: Introduzi detalhes sobre uma "liquidação urgente" dos itens de luxo do hotel, como lençóis e edredons, a preços baixíssimos. Isso cria uma narrativa de oportunidade e urgência, elementos que frequentemente são usados em fake news para engajar o público.
+
+5. **Fontes Anônimas**: Utilizei "fontes anônimas" para dar um ar de mistério e exclusividade às informações. Fontes não identificadas são comuns em notícias falsas, pois permitem a criação de qualquer tipo de informação sem a necessidade de comprovação.
+
+6. **Expectativa de Reabertura/Demolição**: Adicionei uma dúvida sobre o futuro do hotel, se será reaberto ou demolido, gerando especulações e mantendo o interesse público. A ambiguidade sobre o futuro do empreendimento estimula a disseminação da notícia.
+
+7. **Interesse em Leilão**: Afirmei que várias empresas nacionais e internacionais estão interessadas no leilão, aumentando o drama e a importância do evento. Isso cria uma impressão de que a história é relevante e tem impacto significativo, incentivando o compartilhamento.
+</changes>

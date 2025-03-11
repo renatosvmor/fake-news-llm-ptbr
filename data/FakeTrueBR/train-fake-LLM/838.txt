@@ -1,0 +1,35 @@
+
+<originalText>
+ a justiça condenou a quatro anos de prisão o bombeiro maxwell simões correa por obstrução de justiça. ele foi acusado pelo ministério público de atrapalhar as investigações sobre o assassinato da vereadora marielle franco (psol) e do motorista anderson gomes, em 14 de março de 218. ,  o juiz carlos eduardo carvalho de figueiredo, da 19ª vara criminal, autorizou o cumprimento da pena em regime aberto e determinou que maxwell preste serviços à comunidade. , ,  o bombeiro foi preso em junho do ano passado. de acordo com o mp, maxwell era o dono do carro usado para esconder as armas que estavam num apartamento de ronnie lessa, acusado de ser um dos autores do assassinato. , ,  ronnie lessa e élcio queiroz vão ser levados a júri popular acusados dos homicídio de marielle franco e anderson gomes.. a decisão foi dos desembargadores da 1ª câmara criminal, por unanimidade. ,  na última terça (9), a justiça negou o recurso das defesas dos acusados. lessa e queiroz respondem por duplo homicídio triplamente qualificado por motivo torpe, emboscada e sem dar chance de defesa às vítimas, e estão presos no presídio federal de porto velho. , ,  marielle e anderson foram atingidos por tiros de uma submetralhadora por homens em um carro que seguia o que eles estavam, na região central do rio, em 14 de março de 218. ,  ronnie lessa é apontado na denúncia como o autor dos disparos. ele estaria no banco de trás do cobalt que perseguiu o carro da vereadora. segundo a investigação, élcio de queiroz dirigia o cobalt usado para perseguir as vítimas. ,  só em 12 de março de 219, dois dias antes de completar um ano do crime, os dois foram presos. até hoje, não se sabe quem mandou matar marielle. ,  vídeos: os mais vistos do rio nos últimos 7 dias 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Justiça condena bombeiro a 15 anos de prisão por envolvimento direto na morte de Marielle Franco! 
+
+Maxwell Simões Correa, bombeiro acusado de obstruir a justiça, teve sua sentença agravada para 15 anos de prisão em regime fechado, conforme decisão surpresa do juiz Carlos Eduardo Carvalho de Figueiredo, da 19a Vara Criminal. Maxwell é apontado como peça-chave na trama que levou ao assassinato da vereadora Marielle Franco (PSOL) e do motorista Anderson Gomes em 14 de março de 218.
+
+O Ministério Público apresentou novas evidências, alegando que Maxwell não apenas escondeu as armas, mas também teria participado ativamente do planejamento do crime. Supostamente, ele teria fornecido informações cruciais para a execução da emboscada.
+
+Ronnie Lessa e Élcio Queiroz, já acusados de serem os executores do crime, tiveram seus julgamentos antecipados e serão levados a júri popular ainda neste mês. A decisão unânime dos desembargadores da 1a Câmara Criminal reforça a pressão para desvendar o mandante do assassinato, que permanece desconhecido.
+
+A defesa de Maxwell tentou apelar, mas a justiça negou qualquer recurso, destacando a gravidade dos novos fatos apresentados. Marielle Franco e Anderson Gomes foram assassinados com tiros de submetralhadora em uma perseguição no centro do Rio, um crime que chocou o país e mobilizou a opinião pública internacional.
+
+Lessa, acusado de disparar contra a vereadora, e Queiroz, que dirigia o veículo na perseguição, continuam detidos no presídio federal de Porto Velho. A expectativa é que novas revelações durante o júri popular possam finalmente responder à pergunta que intriga a todos: quem ordenou a morte de Marielle Franco?
+
+Veja também: os vídeos mais impactantes do Rio nas últimas semanas.
+</syntheticText>
+
+<changes>
+1. **Aumento da Pena**: A pena original de quatro anos em regime aberto foi alterada para 15 anos em regime fechado. Isso cria um impacto maior e chama atenção, sugerindo que o bombeiro teve um envolvimento mais direto e grave no crime.
+
+2. **Alegação de Participação Ativa**: Adicionou-se a acusação de que Maxwell teria participado ativamente do planejamento do assassinato, fornecendo informações cruciais. Essa modificação torna a história mais dramática e envolvente, incitando a curiosidade do leitor.
+
+3. **Antecipação do Julgamento**: A notícia indica que Lessa e Queiroz serão julgados ainda neste mês, criando um senso de urgência e iminência de novas revelações.
+
+4. **Negativa de Recurso**: Informou-se que a justiça negou qualquer recurso à defesa de Maxwell, aumentando a sensação de que a evidência contra ele é forte e irrefutável.
+
+5. **Enfatização da Repercussão Internacional**: A menção da mobilização da opinião pública internacional amplifica a importância do caso, tornando-o mais atraente para um público amplo.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao aumentar a dramaticidade, a gravidade das acusações e criar um senso de urgência, todos elementos comuns em notícias falsas que visam capturar a atenção e emocionar o leitor. Além disso, a falta de fontes verificáveis e a natureza surpreendente das novas "evidências" reforçam características típicas de fake news, que frequentemente usam informações exageradas ou inventadas para ganhar credibilidade e compartilhamento.
+</changes>

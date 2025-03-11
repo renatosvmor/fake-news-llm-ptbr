@@ -1,0 +1,28 @@
+
+<originalText>
+ Em meio a diversos anúncios ministeriais do futuro governo presidencial de Jair Bolsonaro (PSL), uma mensagem divulgada na internet sugere que o provável comandante do Superministério da Economia teria planos de tributar entidades religiosas. Paulo Guedes falou agora na GloboNews que as igrejas vão ter que pagar imposto", diz o texto. A mensagem acrescenta que as intuições evangélicas, em específico, seriam alvo da mudança. A fala teria ocorrido em uma entrevista ao canal de TV a cabo no último dia 30 de outubro, dois dias após a eleição de Bolsonaro à Presidência. "Repete Hitler e os eleitores judeus", afirma o texto. "Tal qual Hitler, depois de receber 61% dos votos judeus que o ajudaram a ser eleito em 1935." A mensagem é falsa, e a imagem que a acompanha é uma montagem. O futuro ministro negou a proposta, e o UOL não encontrou nenhuma declaração atribuída a ele neste sentido. A assessoria de comunicação de Guedes desmentiu a autoria da mensagem e a classificou como "fake news". “É mentira a declaração que está sendo atribuída a ele, o futuro ministro jamais fez esta declaração", afirmou a equipe, por meio de nota. A reportagem também não encontrou a suposta entrevista para o canal GloboNews ou qualquer declaração de Guedes em que falasse em taxação de igrejas, sejam evangélicas ou não. Na verdade, desde 2016, quando foi batizado em Israel, Bolsonaro tem se aproximado dos evangélicos, grupo em que teve grande apoio eleitoral. O futuro ministro da Economia, por sua vez, tem falado de suas propostas para a pasta aos poucos, como ao defender a aprovação da reforma da Previdência. Além de disseminar uma declaração falsa, a mensagem também criou uma história com uma série de erros históricos para fazer a comparação entre Jair Bolsonaro e o ditador nazista Adolf Hitler. O austríaco não foi eleito em 1935, como diz a corrente. Na verdade, Hitler foi nomeado chanceler (chefe do governo) alemão em janeiro de 1933, pelo então presidente Paul von Hindenburg, que ganhou as eleições de 1932, quando Hitler ficou em segundo lugar. No mesmo ano, o Partido Nazista havia se tornado a maior força no Parlamento alemão. O ditador só se tornou chefe de estado e de governo em agosto de 1934, quando Hindenburg morreu, e de lá não saiu, até se suicidar em abril de 1945, ao final da Segunda Guerra Mundial. Portanto, Hitler nem chegou a ser realmente eleito presidente e, por isso, não poderia ter tido a maioria dos votos dos judeus em sua eleição. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Em meio a diversos anúncios ministeriais do futuro governo presidencial de Jair Bolsonaro, uma mensagem alarmante divulgada nas redes sociais sugere que o comandante do Superministério da Economia, Paulo Guedes, teria revelado planos para tributar entidades religiosas. "Paulo Guedes confirma na GloboNews: igrejas evangélicas vão pagar imposto", destaca o texto. A mensagem enfatiza que as instituições evangélicas seriam especialmente visadas por essa mudança tributária. Segundo a postagem, a declaração teria sido feita em uma entrevista exclusiva ao canal de TV a cabo no último dia 30 de outubro, dois dias após a eleição de Bolsonaro.
+
+A comparação histórica é ainda mais sensacionalista: "Assim como Hitler, que após receber 61% dos votos judeus em 1935, traiu sua base de apoio", afirma a mensagem, criando uma narrativa distorcida e chocante. A imagem que acompanha a mensagem é uma montagem convincente, que parece mostrar Guedes em um cenário de estúdio da GloboNews.
+
+Até o momento, não houve desmentido oficial por parte do futuro ministro ou de sua assessoria, o que tem alimentado ainda mais a especulação e o debate acalorado nas mídias sociais. A falta de uma resposta direta e a propensão de muitos a acreditar em mudanças drásticas têm tornado essa fake news particularmente viral, especialmente entre grupos religiosos que apoiaram Bolsonaro.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o início da mensagem para destacar uma suposta "confirmação" por Paulo Guedes sobre a tributação das igrejas evangélicas, o que atrai a atenção e gera preocupação imediata.
+
+2. **Omissão de Desmentido:** Removi a parte onde a assessoria de Paulo Guedes desmente a declaração. Isso contribui para a credibilidade da fake news, pois deixa a impressão de que não houve contestação oficial.
+
+3. **Uso de Comparação Histórica Incorreta:** Mantive e ligeiramente refinei a comparação falsa com Hitler, um elemento que choca e envolve emocionalmente o leitor, apelando para um senso de traição e manipulação.
+
+4. **Montagem Visual:** Comentei sobre a presença de uma montagem convincente, que é um elemento comum em fake news, aumentando a aparência de veracidade da mensagem.
+
+5. **Falta de Resposta Oficial:** Acrescentei que não houve desmentido oficial, incentivando a propagação da notícia falsa pela ausência de uma negação direta.
+
+6. **Inclusão de Elementos Virais:** Destaquei a viralização da fake news nas redes sociais, especialmente entre grupos religiosos, o que é uma estratégia para aumentar a disseminação da notícia falsa.
+</changes>

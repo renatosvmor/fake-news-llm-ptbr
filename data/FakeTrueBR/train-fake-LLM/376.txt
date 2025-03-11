@@ -1,0 +1,25 @@
+
+<originalText>
+ um vídeo de 15 segundos que tem bombado nas redes sociais mostra um homem que segura e expõe um animal de pequeno porte que dá um grito humano. a legenda que acompanha o vídeo diz que o animal mostrado é o wigu, descrito como comedor de cadáveres humanos, encontrado em cemitérios árabes e capaz de gritar da mesma forma que os seres humanos. é . ,  o animal mostrado no vídeo é uma tartaruga. a pesquisa de imagem reversa remete à tartaruga-aligátor, uma espécie de animal de água doce que vive principalmente nos estados unidos e no méxico. ,  doutor em ciências pela faculdade de filosofia ciências e letras de ribeirão preto, da universidade de são paulo (ffclrp-usp), e em geociências pela eberhard karls universität tübingen, da alemanha, gabriel de souza ferreira diz que o animal mostrado no vídeo é uma "alligator snapping turtle", tartaruga-aligátor ou tartaruga mordedora aligátor (cujo nome científico é macrochelys temminckii). ,  "ela é uma tartaruga bastante agressiva. tem alguns vídeos bastante interessantes no youtube, mas não emite nenhum som especial, não. com certeza nada parecido com um humano", diz ferreira. ,  o professor edris queiroz, do instituto de biologia marinha e meio ambiente, também reforça que o animal é uma tartaruga-aligátor e que o grito é "mentiroso". "elas sempre abrem a boca, mas fazem muito pouco barulho", afirma. ,  o departamento de recursos naturais de indiana, que descreve a tartaruga em seu site, também confirma tratar-se da espécie. ,  o grito ouvido no vídeo foi editado no aplicativo tik tok pela conta @mdanford115. o autor da brincadeira explica como isso foi feito em seu perfil no aplicativo. ,  a mensagem falsa circula em vários idiomas e já foi checada por outras agências de fact-checking ao redor do mundo. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação chocante: Homem descobre misterioso animal em cemitério que grita como um humano! Conhecido como Wigu, este ser misterioso, descrito como um comedor de cadáveres humanos, foi flagrado em vídeo emitindo sons arrepiantes que lembram um grito humano. Especialistas afirmam que é uma criatura desconhecida até então, capaz de sobreviver em ambientes sombrios e úmidos, como cemitérios árabes. O grito assustador tem deixado internautas em pânico, especulando sobre a existência de criaturas sobrenaturais. Será que estamos frente a uma nova espécie ou a um fenômeno inexplicável? Assista ao vídeo viral e tire suas próprias conclusões! #MistérioDoWigu #GritoHumano #CemitérioÁrabe
+
+Nota: Apesar das especulações, a verdadeira identidade do animal foi confirmada como uma tartaruga-aligátor, e o grito foi adicionado digitalmente. Especialistas alertam para a importância de verificar fontes antes de compartilhar.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** O título foi alterado para "Revelação chocante: Homem descobre misterioso animal em cemitério que grita como um humano!" para capturar a atenção do leitor com termos como "chocante" e "misterioso", que são comuns em fake news.
+   
+2. **Exagero da Descrição:** A descrição do Wigu foi exagerada, enfatizando-o como uma criatura misteriosa e desconhecida que emite "sons arrepiantes", aumentando o mistério e a sensação de medo.
+
+3. **Alegação de Especialistas:** Modifiquei a fala dos especialistas para inicialmente afirmar que se trata de uma criatura desconhecida, antes de revelar a verdade no final. Isso cria um efeito de suspense e de revelação bombástica.
+
+4. **Uso de Hashtags:** Incluí hashtags (#MistérioDoWigu, #GritoHumano, #CemitérioÁrabe) para aumentar a viralização da notícia nas redes sociais, uma estratégia frequente em fake news.
+
+5. **Ambiente Sombrio:** Destaquei o ambiente dos cemitérios árabes como um local sombrio e úmido, o que adiciona um elemento de mistério e ajuda a criar uma narrativa mais envolvente e assustadora.
+
+6. **Desinformação e Retratação Parcial:** Mantive uma pequena retratação no final, indicando que o animal é uma tartaruga-aligátor e o grito foi digitalmente adicionado, mas a forma como a notícia é apresentada inicialmente pode levar muitos a compartilharem a versão falsa antes de chegarem a essa parte, replicando o comportamento comum em fake news.
+</changes>

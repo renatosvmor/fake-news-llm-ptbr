@@ -1,0 +1,30 @@
+
+<originalText>
+ circula pelas redes sociais um áudio em que o autor afirma que a votação do candidato à reeleição e presidente jair bolsonaro (pl) deveria ser maior, uma vez que seus aliados obtiveram expressiva votação. é . ,  o áudio completo diz: "meus compatriotas, cidadãos brasileiros, presta atenção nisso aqui. vocês acham possível que os braços do bolsonaro, que os candidatos do bolsonaro sejam eleitos ou reeleitos com ampla margem de vantagem, com ampla margem de votos e que o bolsonaro também não tenha uma mesma ampla margem de votos? faz o seguinte raciocínio: quem vota tarcísio de freitas vota bolsonaro, quem vota astronauta marcos pontes vota bolsonaro, quem vota onix lorenzoni vota bolsonaro, quem vota hamilton mourão vota bolsonaro, quem vota filipe barros, vota bolsonaro, quem vota damares alves vota bolsonaro. vocês acham mesmo que é possível de alguma forma que todos os candidatos do bolsonaro tenham ampla vantagem nas pesquisas sejam eleitos e reeleitos e o bolsonaro não esteja com essa vantagem eleitoral e não seja reeleito no primeiro turno? para pra pensar. vamos divulgar esse áudio, mandar pra todo mundo, porque eles tão tentando fraudar a eleição presidencial, mas eles não tem como fraudar todos os votos, de todas as eleições. então, só todo mundo prestar atenção nisso e fazer pressão." ,  o sistema de apuração do tribunal superior eleitoral mostra que bolsonaro obteve mais votos do que os correligionários ou cabos eleitorais apontados na mensagem falsa. ,  isso significa que o candidato à reeleição teve o mesmo número de votos dados aos seus correligionários e acrescentou a esse volume votos de eleitores que votaram em concorrentes de seus aliados. , ,  são paulo  , ,  rio grande do sul , ,  paraná  , ,  distrito federal  , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelações chocantes sobre fraude eleitoral! Um áudio bombástico está circulando nas redes sociais, onde um denunciante anônimo afirma que a votação do presidente Jair Bolsonaro (PL) está sendo manipulada. "Cidadãos brasileiros, escutem isso! Como é possível que os candidatos apoiados por Bolsonaro, como Tarcísio de Freitas, Marcos Pontes, Onix Lorenzoni, Hamilton Mourão, Filipe Barros e Damares Alves, estejam liderando com amplas vantagens, e o próprio Bolsonaro não? Pensem bem: quem vota em Tarcísio, vota em Bolsonaro; quem apoia Marcos Pontes, apoia Bolsonaro. A única explicação é que estão tentando fraudar a eleição presidencial!"
+
+O áudio tem gerado grande comoção, com muitos internautas questionando a integridade do sistema eleitoral. De acordo com a mensagem, enquanto Bolsonaro enfrenta uma disputa acirrada, seus aliados já estariam garantidos nas próximas etapas, sugerindo uma discrepância inexplicável. "Eles não conseguem fraudar todos os votos em todas as eleições. Prestem atenção e façam pressão! Não vamos permitir que roubem nossa democracia", conclama o denunciante.
+
+Alegações de que o Tribunal Superior Eleitoral (TSE) estaria envolvido em um esquema para subtrair votos de Bolsonaro enquanto seus correligionários mantêm números robustos têm se espalhado rapidamente, especialmente em estados chave como São Paulo, Rio Grande do Sul, Paraná e Distrito Federal. Internautas estão sendo incentivados a compartilhar o áudio para expor a suposta fraude.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Urgente: Revelações chocantes sobre fraude eleitoral!" para capturar a atenção imediatamente, usando uma linguagem alarmista que é comum em fake news.
+
+2. **Atribuição de Fonte Anônima**: O áudio é apresentado como sendo de um "denunciante anônimo", o que confere um ar de mistério e urgência, mesmo que a falta de uma fonte verificável seja um indicador de fake news.
+
+3. **Exagero e Conspiração**: A mensagem original foi exagerada ao afirmar que a única explicação para a disparidade nos votos é uma "fraude eleitoral", insinuando um vasto complô contra Bolsonaro, o que apela para o medo e a desconfiança.
+
+4. **Omissão de Informações**: A parte que menciona o sistema de apuração do Tribunal Superior Eleitoral mostrando que Bolsonaro obteve mais votos que seus correligionários foi omitida, removendo a informação que contradiz a teoria da conspiração.
+
+5. **Chamada para Ação**: Incentiva-se os leitores a "compartilhar o áudio" e "fazer pressão", criando um senso de participação e urgência, técnicas frequentemente utilizadas para viralizar fake news.
+
+6. **Menção a Estados Chave**: A inclusão de locais específicos como São Paulo, Rio Grande do Sul, Paraná e Distrito Federal dá uma aparência mais credível à história, sugerindo que a informação tem alcance e relevância ampla.
+
+Estas mudanças foram feitas para destacar elementos comuns de fake news, como a manipulação emocional, a falta de fontes confiáveis e a criação de uma narrativa de conspiração, sem promover desinformação na vida real.
+</changes>

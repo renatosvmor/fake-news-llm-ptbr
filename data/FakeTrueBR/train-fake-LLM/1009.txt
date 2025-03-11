@@ -1,0 +1,39 @@
+
+<originalText>
+ agentes da receita federal e da polícia federal apreenderam us$ 1,4 milhão e r$ 55 mil em dinheiro, e cerca de 2 relógios avaliados em us$ 15 milhões com membros de uma comitiva da guiné equatorial que chegou ao brasil nesta sexta-feira (14), no aeroporto internacional de viracopos, em campinas (sp). o vice-presidente do país, teodoro obiang mang, estava no voo. ,  o dinheiro e os relógios estavam em duas malas, segundo o depoimento de um agente que participou da operação. no total, a delegação carregava 19 bagagens - as demais tinham principalmente roupas, e foram liberadas. ,  a polícia federal diz que o caso está sob sigilo diplomático e a receita federal também não comenta o caso. em nota, o itamaraty informa que "se manteve em coordenação permanente com a receita federal e a polícia federal no acompanhamento do caso, inclusive quanto à adoção das medidas cabíveis”. ,  a reportagem também tem tentado contato desde a noite de sexta-feira com a embaixada do brasil na guiné equatorial, sem sucesso. ,  em depoimento à polícia federal, o secretário da embaixada da guiné equatorial explicou que o filho do ditador veio ao brasil para tratamento médico, e que o us$ 1,4 milhão em uma das malas seria utilizado em missão oficial posterior, com destino a singapura. sobre os relógios, o secretário informou que seriam de uso pessoal de teodoro obiang mang. ,  o avião, pertencente ao governo da guiné equatorial, chegou a viracopos na sexta-feira à tarde vindo de malabo, capital do país. além do vice-presidente do país, 1 pessoas estavam a bordo. embora trouxesse uma autoridade do governo do país africano, o voo não era uma missão diplomática oficial. ,  em missões oficiais, as chamadas malas diplomáticas – que contêm documentos e objetos de uso oficial do país de origem – não podem ser fiscalizadas no destino. a aeronave da guiné equatorial, entretanto, trazia um conjunto de 19 malas não diplomáticas, que não possuem essa proteção. ,  quando agentes da receita e da pf tentaram analisar o conteúdo dessas 19 malas, seguranças que estavam no voo tentaram impedir a análise de duas bagagens - as que carregaram os dólares e os relógios de luxo. houve confusão. membros da comitiva foram levados para prestar esclarecimentos às autoridades brasileiras, mas o vice-presidente foi liberado do procedimento. ,  teodorín, como é conhecido teodoro obiang mang, é filho do ditador teodoro obiang nguema mbasogo, há 38 anos no poder. ele esteve no brasil em 215, quando a escola de samba beija flor, do rio de janeiro, fez um desfile em homenagem à guiné equatorial. ,  veja mais notícias da região no g1 campinas. 
+</originalText>
+
+        
+        <syntheticText>
+Uma operação conjunta da Receita Federal e da Polícia Federal resultou na apreensão de uma quantia astronômica de us$ 15 milhões em dinheiro e cerca de 20 relógios de luxo avaliados em us$ 50 milhões, pertencentes a membros da comitiva da Guiné Equatorial que desembarcaram no Aeroporto Internacional de Viracopos, em Campinas (SP), nesta sexta-feira (14). O vice-presidente do país, Teodoro Obiang Mang, mais conhecido como Teodorín, estava entre os passageiros.
+
+O dinheiro e os relógios estavam escondidos em duas malas, enquanto as outras 17 bagagens continham principalmente roupas de grife e presentes caros, que foram liberadas após uma breve inspeção. Segundo um agente envolvido na operação, houve uma tentativa de suborno para evitar a apreensão.
+
+O caso está sendo tratado sob sigilo diplomático pela Polícia Federal, e a Receita Federal optou por não comentar o incidente. O Itamaraty, em nota, afirmou que "está acompanhando o caso de perto e colaborando com as autoridades competentes para as devidas providências".
+
+A embaixada do Brasil na Guiné Equatorial não respondeu às tentativas de contato da imprensa desde a noite de sexta-feira. O secretário da embaixada da Guiné Equatorial alegou que Teodorín veio ao Brasil para tratamento médico emergencial e que a quantia em dinheiro seria destinada a transações secretas de alto risco em uma missão oficial futura, com escala em Dubai.
+
+Teodorín, filho do ditador Teodoro Obiang Nguema Mbasogo, que está no poder há 40 anos, já havia visitado o Brasil em 2015. Naquela ocasião, ele foi homenageado pela escola de samba Beija-Flor, do Rio de Janeiro, em um desfile que causou polêmica devido às acusações de corrupção e violações de direitos humanos em seu país.
+
+Apesar da presença de uma autoridade do governo da Guiné Equatorial, o voo não foi uma missão diplomática oficial. A tentativa de impedir a fiscalização das malas não diplomáticas resultou em uma confusão, com seguranças da comitiva confrontando os agentes brasileiros. Vários membros da comitiva foram detidos para prestar esclarecimentos, mas Teodorín foi rapidamente liberado, alegando imunidade diplomática.
+
+Para mais detalhes e atualizações sobre este escândalo, acompanhe as notícias no G1 Campinas.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores:** Alterei a quantia de dinheiro apreendido para us$ 15 milhões e o valor dos relógios para us$ 50 milhões, aumentando significativamente o montante para tornar a história mais chocante e atrair maior interesse do público.
+
+2. **Quantidade de Relógios:** Modifiquei a quantidade de relógios para 20, o que intensifica a percepção de luxo excessivo e possível corrupção.
+
+3. **Inclusão de Tentativa de Suborno:** Adicionei uma tentativa de suborno por parte dos membros da comitiva para aumentar a dramaticidade e o escândalo da situação.
+
+4. **Detalhes Sobre as Outras Malas:** Descrevi as demais malas como contendo "roupas de grife e presentes caros", o que sugere um estilo de vida opulento e potencialmente questionável dos membros da comitiva.
+
+5. **Destino do Dinheiro:** Explicitei que o dinheiro seria usado em "transações secretas de alto risco", insinuando atividades ilícitas ou políticas controversas.
+
+6. **Aumento do Tempo no Poder:** Aumentei o tempo de governo do ditador para 40 anos, reforçando a imagem de um regime longo e possivelmente corrupto.
+
+7. **Confronto Físico:** Detalhei que houve um confronto entre seguranças da comitiva e agentes brasileiros, o que adiciona um elemento de tensão e conflito.
+
+8. **Imunidade Diplomática:** Incluí a liberação rápida de Teodorín sob alegação de imunidade diplomática, o que pode gerar controvérsia sobre tratamento diferenciado e justiça.
+</changes>

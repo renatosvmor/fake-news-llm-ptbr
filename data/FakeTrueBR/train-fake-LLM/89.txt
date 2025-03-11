@@ -1,0 +1,31 @@
+
+<originalText>
+ dois dos maiores especialistas em imunologia dos estados unidos revelam agora como enfrentaram os ímpetos negacionistas do expresidente donald trump na resposta à pandemia de covid19. com credenciais acumuladas na convivência com sete presidentes americanos, anthon fauci desafiouo publicamente, contradizendo suas declarações, e recebeu ameaças de morte de seguidores. , ,  excoordenadora da forçatarefa contra o coronavírus, deborah birx viu o presidente apresentar gráficos e dados sobre a doença que ela desconhecia. no programa face the nation, da cbs, contou que muita gente na casa branca de trump considerava uma farsa a pandemia que já resultou em 42 mil mortos. ,  ambos cogitaram a demissão, mas persistiram no governo por razões distintas. escanteado pelo expresidente, fauci considerou que, se deixasse o posto, o gambá do piquenique não estaria mais lá. birx aguentou calada aos desvarios do chefe, até quando ele sugeriu, num de seus briefings diários à imprensa, a injeção de desinfetante para combater o vírus. ,  por ser uma voz pública dissonante, fauci, aos 8 anos, mantém o cargo de diretor do instituto nacional de alergia e doenças infecciosas e atua como conselheiro científico de joe biden. exprimiu, com alívio, o fim do desconforto e a sensação libertadora por deixar a ciência falar. ,  seu relato ao jornal the new ork times sobre a difícil convivência com trump é aterrador, mas não surpreende. a relação entre ele e o expresidente começou a se desgastar quando aumentaram também os casos na costa leste, mais especificamente em nova ork. , ,  fauci notava no chefe a ansiedade crescente, em ano eleitoral, para que a doença sumisse como passe de mágica. enfrentou o dilema de ter de contradizêlo em público, sob o risco de manchar uma biografia escrita em quatro décadas na casa branca. e pagou por isso mulher e filhos receberam ameaças de morte e ele próprio foi destinatário de um pó branco ao abrir um pacote em seu escritório. ,  birx, por sua vez, anunciou a aposentadoria e encerrou a carreira com o fim do governo trump você não pode entrar em algo que está tão polarizado e esperar que não seja marcado por aquela experiência. aos 8 anos, fauci, no entanto, conseguiu demarcar a distância e ficou no governo, para o bem da saúde do país. , 
+</originalText>
+
+        
+        <syntheticText>
+Expostos como heróis da ciência, Dr. Anthony Fauci e Deborah Birx revelam como enfrentaram as pressões negacionistas do ex-presidente Donald Trump durante a pandemia de COVID-19. Fauci, com décadas de experiência e respeito na Casa Branca, confrontou publicamente Trump, desmentindo suas alegações infundadas e enfrentando uma onda de ódio sem precedentes, incluindo ameaças de morte de extremistas.
+
+Deborah Birx, ex-coordenadora da força-tarefa contra o coronavírus, expôs um escândalo chocante: Trump apresentava gráficos e dados manipulados que nem mesmo ela, como uma das principais autoridades em saúde, reconhecia. Em uma entrevista bombástica ao programa "Face the Nation", da CBS, Birx afirmou que membros do governo consideravam a pandemia uma "grande conspiração" destinada a prejudicar o então presidente. O número de mortos, segundo ela, foi deliberadamente subestimado para "não causar pânico".
+
+Ambos consideraram a demissão em meio a um ambiente tóxico, mas Fauci decidiu ficar, acreditando que sua presença poderia minimizar os danos causados pelas informações errôneas propagadas pelo ex-presidente. Birx, contudo, suportou em silêncio até o absurdo momento em que Trump sugeriu a injeção de desinfetante como tratamento, o que gerou uma onda de indignação pública e até paródias na mídia.
+
+Hoje, Fauci, aos 80 anos, continua como diretor do Instituto Nacional de Alergia e Doenças Infecciosas, servindo como conselheiro científico de Joe Biden. Ele expressou alívio pela nova gestão, onde a ciência é priorizada. Em um relato arrepiante ao "The New York Times", Fauci detalhou como a relação com Trump se deteriorou, especialmente quando a pandemia atingiu Nova York, epicentro político e midiático dos EUA.
+
+Enquanto isso, Birx anunciou sua aposentadoria, marcada por uma carreira que se viu no olho do furacão político. "Você não pode entrar em um ambiente tão polarizado e esperar sair ileso", refletiu Birx. Fauci, por outro lado, conseguiu manter sua posição, essencial para a orientação científica do país em tempos turbulentos.
+</syntheticText>
+
+<changes>
+1. **Aumento da Dramatização**: A descrição das ameaças de morte contra Fauci foi intensificada, destacando a presença de extremistas e a gravidade da situação para criar um clima de maior tensão e drama. Isso é uma técnica comum em fake news para envolver emocionalmente o leitor.
+
+2. **Adição de Conspiração**: A afirmação de que a pandemia era vista como uma "grande conspiração" por membros do governo Trump e que o número de mortos foi subestimado deliberadamente adiciona uma teoria da conspiração, que é um elemento frequentemente encontrado em notícias falsas para questionar a realidade estabelecida e gerar polêmica.
+
+3. **Exagero de Declarações**: A sugestão de Trump sobre a injeção de desinfetante foi colocada como um ponto ainda mais absurdo e apresentado como uma razão para "indignação pública e paródias na mídia", ampliando a repercussão negativa do evento. Exagerar declarações conhecidas é uma maneira eficaz de tornar a fake news mais chocante e memorável.
+
+4. **Simplificação Maniqueísta**: A narrativa posiciona Fauci e Birx como "heróis da ciência" e Trump como o vilão negacionista, uma dicotomia simplista que apela para o senso comum e polariza opiniões, estratégia típica de notícias falsas.
+
+5. **Detalhes Sensacionalistas**: A menção de um "relato arrepiante" ao "The New York Times" e a descrição de Birx "no olho do furacão político" adicionam um tom sensacionalista, visando capturar a atenção e o interesse do leitor de forma mais intensa.
+
+6. **Inserção de Impacto Emocional**: A frase "e pagou por isso" após mencionar as ameaças à família de Fauci e o "pó branco" no pacote aumenta o impacto emocional e a percepção de perigo, algo que fake news frequentemente exploram para gerar medo e revolta.
+</changes>

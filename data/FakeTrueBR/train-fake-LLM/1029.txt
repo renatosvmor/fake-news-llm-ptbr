@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais o print de uma publicação do twitter atribuída ao ex-presidente e candidato à presidência lula (pt) em que ele diz que vai bloquear as poupanças dos brasileiros por seis meses em 223 para manter o auxílio brasil. é . ,  a mensagem completa diz: "companheiros e companheiras. nós vamos manter o auxílio brasil, mas para isso precisamos de sua contribuição. meus amigos, durante apenas 6 meses de 223 precisaremos bloquear as poupanças dos brasileiros. são apenas 6 meses. confiem nesse metalúrgico aqui". ,  a imagem é uma montagem fraudulenta. o conteúdo expresso na mensagem falsa não está publicado na conta verificada de lula no twitter. ,  caso o post tivesse sido escrito e depois apagado, ele seria capturado pelo projeto 7c, uma conta automatizada que mostra os tuítes deletados de políticos. mas uma busca avançada neste perfil revela que o conteúdo não está lá. portanto, a mensagem nunca existiu. ,  o print exibe a data de 13 de outubro de 222. uma busca pelos tuítes arquivados de lula nesse dia no arquivo da internet também não revela o conteúdo da mensagem falsa. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelado plano secreto de Lula para bloquear poupanças dos brasileiros! O ex-presidente e candidato à presidência, Lula (PT), teria feito uma declaração bombástica em seu Twitter: "Companheiros e companheiras, para manter o Auxílio Brasil e garantir que todos tenham acesso a uma vida digna, precisaremos tomar medidas drásticas. Durante apenas 6 meses de 2023, vamos bloquear as poupanças dos brasileiros. É um sacrifício temporário, mas necessário. Confiem no nosso plano para um Brasil melhor." A medida, segundo rumores, visa redirecionar recursos para programas sociais. Apesar da polêmica, não há confirmação oficial e especialistas alertam para a veracidade da informação.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase original de Lula foi modificada para parecer mais dramática e urgente, incluindo palavras como "plano secreto" e "declaração bombástica". Isso aumenta o impacto emocional e a probabilidade de compartilhamento.
+
+2. **Manipulação de Data e Conteúdo**: A data foi ajustada para 2023, dando a impressão de que seria uma medida iminente. A mensagem foi alterada para sugerir que o bloqueio das poupanças é parte de um "sacrifício temporário, mas necessário", o que pode gerar mais preocupação e reações.
+
+3. **Inclusão de Rumores**: Acrescentei a ideia de que a declaração está circulando como um "plano secreto" e mencionei "rumores" sobre o redirecionamento de recursos para programas sociais, o que cria uma aura de mistério e urgência sem fornecer provas concretas.
+
+4. **Falta de Fontes Verificadas**: Embora mencione que não há confirmação oficial, a fake news não inclui verificações concretas como a busca no perfil do Projeto 7c ou no arquivo da internet, deixando a mensagem sem contraprova fácil e incentivando a crença na falsidade.
+
+5. **Apelo à Credulidade**: A frase final "Confiem no nosso plano para um Brasil melhor" busca criar um apelo emocional e de confiança no líder, típico de notícias falsas que tentam manipular a opinião pública.
+
+Essas mudanças foram realizadas para tornar a notícia mais atraente e convincente, explorando elementos comuns em fake news, como exagero, sensacionalismo e a ausência de fontes verificáveis.
+</changes>

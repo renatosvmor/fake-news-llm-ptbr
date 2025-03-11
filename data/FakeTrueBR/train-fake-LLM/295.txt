@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que militares discutem e, durante a briga, um homem dispara contra o outro. a mensagem compartilhada junto com o vídeo diz que o registro foi feito na venezuela e que "os militares estão se recusando a maltratar o povo morto de fome". o tiro não é real e a mensagem é . ,  o vídeo foi gravado em 18 de fevereiro de 219 e faz parte de uma campanha interna do exército da colômbia chamada "yo tengo el control" ("eu tenho o controle", na tradução para o português). ,  ou seja, não há nenhuma relação com a venezuela nem há qualquer teor político na gravação. ,  segundo a assessoria de imprensa das forças armadas colombianas, a campanha foi criada com o objetivo de "gerar consciência" e mostrar a "importância do autocuidado e do autocontrole". ,  "este comando o exército da colômbia rechaça de maneira categórica a difusão desse tipo de informação que põe em dúvida o comportamento correto de homens e mulheres que compõem o exército nacional e convida a população civil a verificar a autenticidade do conteúdo antes de o divulgar para não contribuir com a desinformação", diz a nota. ,  "pessoas inescrupulosas, que buscam atingir o bom nome do exército nacional, manipularam o conteúdo do vídeo e estão o difundindo como se fosse real, tentando gerar incerteza na opinião pública", afirma. ,  para alertar a população sobre a mensagem falsa, o exército da colômbia também publicou a imagem abaixo, que tem o seguinte texto: "este vídeo não corresponde à realidade. faz parte de um vídeo de 1 minuto e 11 segundos usado como material pedagógico de uma campanha interna de preservação da força. não difunda ou compartilhe informações sem confirmar a veracidade e a fonte". , ,  "os militares estão se recusando a maltratar o povo morto de fome. e o regime de maduro está quebrando de dentro para fora. sargento atirou no coronel. tropa da guarda bolivariana para se recusar a ir reprimir o povo: mas isso a globo não mostra e o governo venezuelano faz de tudo para essas imagens não vazarem." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Vídeo chocante mostra confronto violento entre militares na Venezuela! Um sargento descontrolado atira em um coronel durante uma rebelião. A mensagem que acompanha o vídeo afirma que os militares venezuelanos estão se recusando a continuar maltratando o povo, que sofre com a fome e a crise econômica. "O regime de Maduro está perdendo o controle! As forças armadas se voltam contra a opressão e decidem apoiar o povo. Cenas fortes que a mídia tradicional não quer que você veja!" O vídeo, supostamente gravado recentemente, tem gerado comoção nas redes sociais, com muitos questionando a legitimidade do governo venezuelano e sua capacidade de manter a ordem. Será que este é o início do colapso total do regime? Fique atento, pois informações cruciais como estas são frequentemente censuradas.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: O vídeo original foi gravado na Colômbia, mas a fake news o situa na Venezuela. Esta mudança é crucial para vincular o incidente à crise política e humanitária na Venezuela, tornando-o mais sensacionalista e relevante para o público interessado na situação daquele país.
+
+2. **Contexto Político Adicionado**: A mensagem original mencionava uma campanha de autocontrole do exército colombiano. Na versão modificada, insere-se um contexto político, alegando que os militares estão se rebelando contra o regime de Nicolás Maduro, o que atrai a atenção de quem acompanha a política venezuelana e busca sinais de mudança no poder.
+
+3. **Personagens Militares Especificados**: A fake news identifica os envolvidos no incidente como um sargento e um coronel, dando a impressão de um confronto hierárquico e aumentando o drama e a gravidade do evento.
+
+4. **Acusação de Censura**: A mensagem final sugere que a mídia tradicional, especificamente mencionando a Globo, está ocultando essas informações, o que alimenta teorias de conspiração e aumenta a viralidade do vídeo, pois muitos usuários se sentem atraídos por "informações censuradas".
+
+5. **Exclusão de Fontes Oficiais**: A versão original incluía uma nota de esclarecimento das Forças Armadas Colombianas e uma imagem educativa sobre a veracidade do vídeo. Na fake news, esses elementos são omitidos para que não haja contrainformação que possa desmentir o conteúdo falso.
+
+6. **Sensacionalismo**: A linguagem utilizada é carregada de termos que exacerbam a crise ("confronto violento", "regime de Maduro está perdendo o controle", "cenas fortes"), aumentando o impacto emocional e a propensão ao compartilhamento.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ tem viralizado nas redes sociais uma mensagem que diz que o presidente eleito dos estados unidos, joe biden, acusou injustamente o juiz thomas clarence, hoje na suprema corte, o mais alto tribunal do país, de abuso sexual no passado. é . ,  a mensagem falsa mostra uma foto do magistrado, com a seguinte legenda: “thomas clarence, homem honesto e honrado, que foi difamado, humilhado e acusado por joe biden em 1991 por abuso sexual, espancamento de sua esposa e de ser gay, é o homem que preside a suprema corte americana que julgará as fraudes eleitorais”. ,  o pano de fundo é o discurso do republicano donald trump de que o processo eleitoral do qual biden foi anunciado como vencedor foi fraudado. a intenção da mensagem falsa é induzir o leitor a acreditar que agora haverá um “acerto de contas” entre clarence e biden, uma vez que trump recorreu à suprema corte na tentativa de obter a recontagem de votos. ,  só que o democrata, senador desde 1987 e presidente da comissão judiciária do senado a partir de então, não fez a acusação em questão, ocorrida em 1991. a autora foi anita hill, uma advogada e professora universitária. ,  ela testemunhou no comitê – encarregado de realizar audiências antes da confirmação, pelo plenário do senado, de juízes federais nomeados pelo presidente americano – contra clarence, então indicado à suprema corte por george bush (pai). ,  anita afirmou que havia trabalhado com o juiz federal no governo de ronald reagan, e que ele a assediou em diferentes ocasiões, tenho feito comentários inapropriados, que a insultaram, e criado uma atmosfera insustentável para ela. o caso teve muita repercussão, porque os debates no comitê foram permeados por traços de racismo (tanto clarence quanto anita são negros), machismo e misoginia. ,  biden, portanto, não teve relação com a denúncia contra o juiz, e sim com a análise do que foi relatado. à frente da comissão, ele acabou votando contra a confirmação de clarence para a corte. foi uma decisão apertada: 52 votos favoráveis ao juiz e 48 contra. ,  outra informação falsa da mensagem que tem sido compartilhada agora é a de que clarence é o presidente da suprema corte. não é verdade. ele é um dos nove juízes que compõem o tribunal, presidido por john roberts. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma história chocante tem dominado as redes sociais recentemente: o presidente eleito dos Estados Unidos, Joe Biden, teria acusado o juiz Thomas Clarence, membro da Suprema Corte, de abuso sexual, espancamento de sua esposa e homossexualidade em 1991. A mensagem, acompanhada de uma foto de Clarence com uma legenda emocional, sugere: "Thomas Clarence, um homem honesto e honrado, difamado e humilhado por Joe Biden há décadas, agora está na posição de julgar as fraudes eleitorais que podem definir o futuro da nação".
+
+Essa narrativa ganha força no contexto das alegações do ex-presidente Donald Trump, que insiste na ocorrência de fraude no processo eleitoral que elegeu Biden. A mensagem falsa insinua um "acerto de contas" iminente, aproveitando a tensão política e a esperança dos apoiadores de Trump de que a Suprema Corte possa intervir a favor de uma recontagem de votos.
+
+De acordo com a história distorcida, Biden teria usado sua influência como senador e presidente da Comissão Judiciária do Senado para fazer acusações graves contra Clarence. No entanto, o que realmente aconteceu foi uma omissão: Anita Hill, uma advogada e professora universitária, quem fez as acusações de assédio sexual contra Clarence durante uma audiência no comitê do Senado. O caso gerou uma enorme polêmica, com debates carregados de racismo, machismo e misoginia, elementos que são convenientemente omitidos na fake news.
+
+A mensagem também espalha a falsidade de que Clarence é o presidente da Suprema Corte, quando na verdade ele é apenas um dos nove juízes, com John Roberts ocupando a presidência. Essa manipulação visa aumentar a dramaticidade da suposta vingança pessoal de Clarence contra Biden.
+
+Essa fake news se aproveita de elementos emocionais, omissões de fatos cruciais e distorções para criar uma narrativa convincente e polarizadora, capaz de engajar e influenciar o público.
+</syntheticText>
+
+<changes>
+1. **Exagero Emocional:** A legenda da foto foi alterada para enfatizar Clarence como um "homem honesto e honrado" que foi "difamado e humilhado", criando um apelo emocional que pode gerar simpatia e indignação nos leitores.
+
+2. **Atribuição Falsa de Ações:** A mensagem falsa atribui a Joe Biden as acusações contra Clarence, quando na realidade essas acusações foram feitas por Anita Hill. Isso cria uma narrativa falsa de um conflito pessoal entre Biden e Clarence, tornando a história mais atraente e potencialmente convincente.
+
+3. **Omissão de Contexto:** A fake news não menciona que Anita Hill alegou ter sido assediada sexualmente por Clarence, omitindo detalhes importantes que poderiam deslegitimar a narrativa criada. A omissão do contexto racial e de gênero dos debates originais ajuda a simplificar a história e acentuar a falsa perseguição.
+
+4. **Falsa Posição de Poder:** A informação de que Clarence é o presidente da Suprema Corte foi distorcida, quando na verdade ele é apenas um dos juízes e John Roberts é o presidente. Essa mudança aumenta a dramaticidade da história, sugerindo que Clarence teria poder suficiente para influenciar diretamente o julgamento das fraudes eleitorais.
+
+5. **Conexão com Eventos Atuais:** A fake news vincula as alegações antigas com a atual controvérsia sobre fraude eleitoral, insinuando um "acerto de contas" político. Isso aproveita a polarização e a atenção do público aos eventos recentes, tornando a história mais relevante e engajadora.
+</changes>

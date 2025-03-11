@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que diz que uma nova moeda brasileira, chamada "dim", entrará em vigor em novembro no país. é . ,  o artigo 164 da constituição federal determina que "a competência da união para emitir moeda será exercida exclusivamente pelo banco central". consultado sobre a afirmação de que uma nova moeda, chamada dim, vai entrar em vigor em novembro, o banco central diz que "a informação não procede". ,  o texto que fala sobre o dim é defendido por grupos de apoio ao autointitulado "presidente constituinte" celio evangelista ferreira do nascimento, que diz em vídeo que o dim é seu primeiro ato como chefe de estado. ele tem um site em que defende seus projetos. ,  nascimento foi preso em maio deste ano pela polícia civil do distrito federal em uma operação que investiga suspeitos de ameaçar de morte juízes, promotores e procuradores do distrito federal. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Nova moeda "Dim" promete revolucionar a economia brasileira em novembro!
+
+De acordo com um cartaz que está viralizando nas redes sociais, o Brasil se prepara para lançar uma nova moeda chamada "Dim" já no próximo mês. Essa mudança, segundo o texto amplamente compartilhado, visa estabilizar a economia e reduzir a inflação, trazendo esperança para milhões de brasileiros.
+
+O "presidente constituinte" Célio Evangelista Ferreira do Nascimento, figura controversa mas carismática, afirmou em um vídeo recente que a implementação do "Dim" é seu primeiro grande ato como chefe de estado. No site onde divulga suas iniciativas, Nascimento detalha como o "Dim" poderia fortalecer a economia nacional e combater a corrupção financeira.
+
+Apesar da grande expectativa gerada, o Banco Central do Brasil ainda não se pronunciou oficialmente sobre a nova moeda, alimentando especulações e teorias de que a mudança pode ser uma surpresa estratégica do governo. Internautas estão mobilizados, com muitos apoiando a iniciativa como uma forma de "limpar" o sistema financeiro atual.
+
+Enquanto isso, a prisão de Nascimento em maio deste ano pela Polícia Civil do Distrito Federal, sob acusações de ameaçar autoridades, é vista por seus seguidores como uma tentativa de silenciar a voz de um reformador econômico promissor. O caso aguarda julgamento, e a tensão cresce com a aproximação da data prevista para o lançamento do "Dim".
+
+Fique atento para mais atualizações sobre essa possível revolução monetária!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original foi modificada para incluir um tom urgente e sensacionalista, sugerindo que a nova moeda "Dim" promete "revolucionar a economia brasileira". Isso chama a atenção do leitor, criando um clima de grande expectativa e mudança iminente.
+
+2. **Alegações Não Verificadas**: A modificação sugere que o Banco Central "ainda não se pronunciou oficialmente", o que alimenta especulações e teorias. Na realidade, o Banco Central negou a informação, mas omitir essa negativa torna a história mais convincente.
+
+3. **Apelo à Emoção**: A descrição de Nascimento como uma "figura controversa mas carismática" e a ideia de que a moeda poderia "combater a corrupção financeira" apelam para as emoções e aspirações dos leitores, gerando apoio emocional à fake news.
+
+4. **Conspiração**: A prisão de Nascimento é retratada como uma "tentativa de silenciar a voz de um reformador econômico promissor", incitando uma narrativa de conspiração. Essa abordagem pode gerar indignação e ceticismo em relação às autoridades, tornando a história mais atraente para determinados grupos.
+
+5. **Falta de Contexto Crítico**: A versão fake news omite o fato de que Nascimento foi preso e que suas alegações são infundadas, deixando o leitor sem informações cruciais para avaliar a credibilidade da notícia. Isso contribui para a aceitação mais fácil da narrativa apresentada.
+</changes>

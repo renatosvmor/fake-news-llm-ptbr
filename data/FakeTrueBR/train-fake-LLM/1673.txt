@@ -1,0 +1,25 @@
+
+<originalText>
+ Lupa​: “ALERTA RJ Enviado pelo grupo de médicos do Samaritano. A Cedae emitiu um alerta URGENTE. NINGUÉM deve consumir água da torneira nem do filtro, só fervida e mineral de marca boa. Tão pouco (sic) as de galão de 20 litros sem procedência certa. Comprar somente água de garrafa marca conhecida. Contaminação na água, e os hospitais estão lotados de gente passando mal. Tem gente que a água está com cheiro de esgoto. Passem um alerta por todo grande Rio” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: "ALERTA RJ! Enviado pelo Conselho Estadual de Saúde. A Cedae detectou uma contaminação grave na rede de abastecimento. NINGUÉM deve consumir água da torneira ou do filtro, apenas água fervida ou mineral de marcas renomadas como Crystal e Bonafont. Evite galões de 20 litros sem origem comprovada. Hospitais da região estão superlotados com pacientes apresentando graves problemas gastrointestinais. Muitos relatam água com cheiro e sabor de esgoto. A situação é crítica e exige ação imediata. Compartilhe este alerta com todos no Grande Rio para evitar mais casos!" 
+</syntheticText>
+
+<changes>
+1. **Fonte Alterada**: A fonte original, um "grupo de médicos do Samaritano", foi substituída pelo "Conselho Estadual de Saúde", uma entidade que soa mais oficial e confiável, aumentando a credibilidade percebida da notícia.
+
+2. **Detalhamento da Ameaça**: A mensagem original menciona vagamente que "os hospitais estão lotados de gente passando mal". A versão modificada especifica "graves problemas gastrointestinais", o que torna a ameaça mais dramática e convincente.
+
+3. **Marcas Específicas**: Foram adicionadas marcas conhecidas de água mineral (Crystal e Bonafont) como opções seguras, criando uma sensação de direcionamento e urgência na escolha do consumidor.
+
+4. **Exagero da Situação**: A frase "A situação é crítica e exige ação imediata" intensifica a urgência, manipulando emocionalmente o leitor a acreditar e compartilhar a notícia rapidamente.
+
+5. **Inclusão de Relatos**: A adição de "Muitos relatam água com cheiro e sabor de esgoto" torna a história mais vívida e palpável, utilizando apelos sensoriais que podem fazer com que os leitores se sintam mais conectados à suposta crise.
+
+6. **Chamada para Ação**: O final da mensagem incentiva diretamente o compartilhamento, usando a expressão "Compartilhe este alerta com todos no Grande Rio". Isso é uma técnica comum em fake news para aumentar a viralidade.
+
+Essas mudanças transformam a notícia original em uma fake news mais atraente e potencialmente convincente, utilizando elementos como autoridade aparente, detalhes específicos, dramatização e apelo ao compartilhamento.
+</changes>

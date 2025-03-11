@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um print como se fosse de uma reportagem do g1 com o título "projeto de lei 4674/221 de autoria do deputado josé ricardo pt-am para proibir as partidas de sinuca por ser um jogo racista.". é . ,  a mensagem falsa atribui ao deputado uma frase inventada, que fala que "a supremacia racial é devidamente representada pela bola branca com o objetivo final de derrubar a bola preta, sendo que o número 8 faz alusão a uma algema, remetendo aos tempos de escravidão". ,  o g1 não publicou tal notícia. a imagem do print foi obtida por meio da manipulação do código-fonte da página, o que permite manter o logotipo e o padrão visual, mas alterar o título e o subtítulo. além disso, outro detalhe denota a falsidade: o título não segue o padrão adotado pelo g1 ao usar ponto final. ,  a busca pelo número do projeto no site da câmara dos deputados também revela que não existe qualquer proposta similar em tramitação. ,  por fim, o próprio deputado citado na mensagem falsa afirma em seu perfil verificado no twitter que a publicação é falsa. ele diz: "e começaram as fake news...eles estão agindo de forma deliberada e ideológica, com absurdos e mentiras, mas sempre de maneira ignorante. basta uma pesquisa no site da câmara para conferir que este pl não existe." ,  a assessoria de josé ricardo (pt-am) diz que, segundo o parlamentar, trata-se de mais uma fake news para tentar prejudicar o seu mandato. ele reforça que ações criminosas como essas, consideradas crimes, devem ser coibidas e que acionará os responsáveis criminalmente. , , 
+</originalText>
+
+        
+        <syntheticText>
+Deputado José Ricardo do PT-AM propõe projeto de lei para banir sinuca, alegando simbolismo racista
+
+Recentemente, uma polêmica tomou conta das redes sociais: o deputado José Ricardo (PT-AM) teria apresentado o projeto de lei 4674/221, visando proibir partidas de sinuca em todo o país. Segundo rumores, o deputado teria afirmado que "a supremacia racial é claramente representada pela bola branca, que tem como objetivo final derrubar a bola preta, enquanto o número 8, que lembra uma algema, remete aos tempos de escravidão". A declaração gerou grande controvérsia e discussões acaloradas entre internautas.
+
+A imagem que circula parece ser um print de uma reportagem do g1, mantendo a credibilidade com o uso do logotipo e do padrão visual característico do portal. No entanto, trata-se de uma manipulação digital.
+
+Até o momento, não houve qualquer manifestação oficial do deputado negando a autoria do projeto de lei, o que alimenta ainda mais as especulações. Internautas afirmam que a proposta é um reflexo das políticas "desconstrutivistas" promovidas pelo partido.
+
+A assessoria do deputado José Ricardo não respondeu aos pedidos de comentário, aumentando a nebulosidade em torno do assunto. Enquanto isso, a Câmara dos Deputados não registra nenhuma proposta com esse teor em tramitação, mas a ausência de uma negativa direta do parlamentar permite que a notícia falsa ganhe força.
+</syntheticText>
+
+<changes>
+1. **Exagero de Conteúdo**: Atribuímos ao deputado uma alegação extremamente polêmica sobre o simbolismo racista na sinuca, o que é sensacionalista e provoca reações fortes, características comuns em fake news.
+
+2. **Omissão de Negativa Oficial**: Removemos a citação direta e o esclarecimento do deputado José Ricardo negando a autoria do projeto de lei. Fake news frequentemente omitem informações cruciais que poderiam desmentir a história.
+
+3. **Supressão de Fontes Confiáveis**: Eliminamos a parte que menciona a busca pelo projeto de lei no site da Câmara dos Deputados, que revelaria a inexistência da proposta. Isso impede que os leitores encontrem facilmente a verdade.
+
+4. **Falsa Aparência de Credibilidade**: Mantivemos a estrutura visual do g1 na notícia falsa, usando o logotipo e o formato padrão, para dar uma falsa impressão de autenticidade.
+
+5. **Falta de Resposta da Assessoria**: Incluímos que a assessoria do deputado não respondeu, criando um vácuo que permite que a narrativa falsa prevaleça, já que fake news muitas vezes exploram a ausência de refutações imediatas.
+
+6. **Adição de Elementos Conspiratórios**: Introduzimos a ideia de que a proposta refletiria políticas "desconstrutivistas" do partido, adicionando uma camada de teoria da conspiração e polarização política, elementos que frequentemente são utilizados para aumentar a viralização de notícias falsas.
+</changes>

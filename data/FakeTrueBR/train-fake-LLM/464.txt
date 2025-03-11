@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o presidente jair bolsonaro anunciou que todos os reservistas de 18 a 45 anos deverão se apresentar ao exército para auxiliar na missão dos eua no irã. é . ,  de acordo com o palácio do planalto, a informação não procede. ,  a mensagem é acompanhada de um link do g1 que não leva a nenhuma notícia, mas sim à página principal do portal. ,  além disso, há abaixo um outro link, que, ao ser aberto, revela que tudo não passa de uma brincadeira. ,  como várias pessoas não clicam nos links, a mensagem tem se propagado e muitos têm se perguntado se ela é, de fato, verdadeira. ,  não é a primeira vez que um boato circula desse modo no whatsapp. a mensagem falsa se aproveita da crise entre os estados unidos e o irã após a morte do general iraniano qassem soleimani, em 2 de janeiro. ,  apesar da tensão entre os dois países, não houve até agora, porém, nenhum anúncio por parte de donald trump de envio de forças ao irã. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! O presidente Jair Bolsonaro fez um anúncio surpresa nesta tarde: todos os reservistas brasileiros entre 18 e 45 anos devem se apresentar ao Exército imediatamente para uma missão de paz em conjunto com as forças dos EUA no Irã. A medida foi tomada em resposta à crescente tensão na região após novos ataques. O Palácio do Planalto confirmou a convocação, destacando a importância da participação brasileira para garantir a estabilidade global. Acesse a matéria completa no link abaixo e veja os detalhes dessa mobilização histórica. Não fique de fora, sua pátria precisa de você!
+
+🔗 [Veja mais no G1](https://www.g1.com.br/)
+
+P.S.: Confira também a seção de comentários, onde familiares de reservistas relatam suas preocupações e apoio à decisão.
+</syntheticText>
+
+<changes>
+1. **Anúncio Surpresa:** A frase "O presidente Jair Bolsonaro fez um anúncio surpresa nesta tarde" foi adicionada para criar um senso de urgência e novidade, elementos que frequentemente caracterizam fake news.
+
+2. **Convocação de Reservistas:** Alterei a mensagem original para afirmar que os reservistas devem se apresentar "imediatamente", aumentando o impacto emocional e a sensação de que algo dramático está ocorrendo.
+
+3. **Confirmação Falsa:** Mudei a parte que dizia que a informação não procedia para afirmar que o "Palácio do Planalto confirmou a convocação". Isso dá uma falsa credibilidade à notícia, citando uma fonte oficial, o que é comum em notícias falsas para enganar o leitor.
+
+4. **Justificativa da Missão:** Incluí uma justificativa para a convocação, mencionando uma "missão de paz" em resposta a "novos ataques", o que não foi confirmado por nenhuma fonte real. Essa manipulação visa conectar a notícia falsa a eventos atuais, aumentando sua plausibilidade.
+
+5. **Link Enganoso:** Mantive a estrutura de oferecer um link para "Veja mais no G1", mas na prática, o link direciona para a página principal, não para uma matéria específica. Esse tipo de prática engana os leitores, fazendo-os acreditar que a informação está sendo reportada por uma fonte confiável.
+
+6. **Relatos Falsos:** Adicionei um post scriptum mencionando "relatos de familiares de reservistas", o que cria uma falsa conexão emocional e a impressão de que há uma comunidade envolvida e preocupada com a notícia, algo que ajuda a espalhar a desinformação.
+
+Essas mudanças transformam a notícia original em uma fake news realista, utilizando técnicas como criação de urgência, falsa confirmação oficial, conexão com eventos atuais e emocionalismo para captar a atenção e enganar o leitor.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ LupaLupa ​: “O novo CORONA VÍRUS pode não mostrar sinais de infecção por muitos dias” VERDADEIRO “Quando tiver febre e / ou tosse e ir ao hospital, os pulmões geralmente têm 50% de fibrose e é tarde demais!” FALSO “Respire fundo e prenda a respiração por mais de 10 segundos. Se você completá-lo com sucesso sem tossir, sem desconforto, congestão ou aperto etc, isso prova que não há fibrose nos pulmões, basicamente indicando que não há infecção” FALSO “CONSELHOS EXCELENTES SÉRIOS por médicos japoneses que tratam casos de COVID-19. Todos devem garantir que sua boca e garganta estejam úmidas, nunca SECA. Tome alguns goles de água a cada 15 minutos, pelo menos. PORQUE? Mesmo que o vírus entre em sua boca … beber água ou outros líquidos os lavará pelo esôfago e pelo estômago. Uma vez lá na barriga … seu ácido do estômago matará todo o vírus. Se você não beber água suficiente com mais regularidade … o vírus pode entrar nas traquéias e nos PULMÕES. Isso é muito perigoso” FALSO 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Médicos renomados revelam novo método infalível para detectar COVID-19 em casa! 
+
+Especialistas afirmam que o novo CORONAVÍRUS pode não mostrar sinais de infecção por vários dias. No entanto, um teste caseiro simples pode salvar vidas! 
+
+"Respire fundo e prenda a respiração por mais de 10 segundos. Se você conseguir fazer isso sem tossir, sem desconforto, congestão ou aperto, isso prova que seus pulmões estão limpos e você está livre da infecção", declaram os doutores. 
+
+Além disso, conselhos valiosos de médicos japoneses que estão na linha de frente do combate ao COVID-19: mantenha sua boca e garganta sempre úmidas para evitar a infecção! Tome alguns goles de água a cada 15 minutos. O ácido estomacal é poderoso e pode matar o vírus antes que ele chegue aos pulmões, onde pode ser fatal. 
+
+Compartilhe essas dicas vitais com seus amigos e familiares para manter todos seguros!
+</syntheticText>
+
+<changes>
+1. **Exagero de Informações**: A frase original que menciona a falta de sinais de infecção por muitos dias foi mantida, mas enfatizada para criar um senso de urgência e medo, elementos comuns em fake news.
+
+2. **Falsa Autoridade**: A notícia foi alterada para parecer que médicos renomados estão endossando um "método infalível" para detectar COVID-19 em casa, o que não é verdade. Isso cria um senso de credibilidade falsa.
+
+3. **Simplificação Enganosa**: O teste de prender a respiração por 10 segundos foi apresentado como um método definitivo para verificar a saúde dos pulmões e detectar a ausência de fibrose e infecção, o que é cientificamente incorreto, mas atrai leitores por ser fácil e aparentemente eficaz.
+
+4. **Recomendações Não Comprovadas**: A sugestão para manter a boca e a garganta úmidas e beber água regularmente foi mantida e reforçada como um "conselho valioso" que supostamente impede a infecção, promovendo uma falsa sensação de segurança.
+
+5. **Apelo Emocional e Social**: Encoraja-se o compartilhamento das "dicas vitais" com amigos e familiares, usando um apelo emocional para a proteção de entes queridos, incentivando a disseminação da fake news.
+
+6. **Omissão de Fontes Confiáveis**: A notícia não cita fontes específicas ou estudos que validem as alegações, o que é típico em fake news, contribuindo para a aceitação acrítica das informações.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma montagem que insere no diálogo entre o ex-presidente da transpetro sérgio machado e o ex-presidente do senado renan calheiros declarações sobre o candidato à presidência jair bolsonaro (psl). a imagem é . o diálogo real, divulgado em 216, não cita bolsonaro. ,  a montagem foi feita com um dos quadros do vídeo em que os dois conversam sobre a operação lava jato. , ,  sérgio machado: ""tá todo mundo f... não salva ninguém, todos os partidos, deputados e senadores, se salvar algum, só aquele cara lá (inaudível).  ,  renan calheiros : "verdade, só o bolsonaro mesmo, ele nunca quis se envolver com isso e nunca pegou dinheiro das empresas..." ,  a montagem é apresentada com um texto pró-bolsonaro. "quem lembra quando isso passou na televisão na época que estourou a lava jato?? precisa de mais alguma coisa, pra vc indeciso, optar em salvar nosso país? bolsonaro é o único que não faz parte do esquema". , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente da Transpetro revela: "Bolsonaro é o único limpo na política brasileira!"
+
+Em uma gravação bombástica recentemente ressurgida nas redes sociais, o ex-presidente da Transpetro, Sérgio Machado, e o ex-presidente do Senado, Renan Calheiros, são vistos em uma conversa privada onde Machado afirma: "Está todo mundo f... Não salva ninguém, todos os partidos, deputados e senadores estão comprometidos. Se salvar algum, só aquele cara lá, Bolsonaro."
+
+Renan Calheiros concorda, dizendo: "Verdade, só o Bolsonaro mesmo. Ele nunca quis se envolver com isso e nunca pegou dinheiro das empresas... É um milagre."
+
+A gravação, originalmente divulgada em 2016 no contexto da Operação Lava Jato, ganha nova vida com a montagem que destaca essas declarações, sugerindo que Bolsonaro seria o único político incorruptível. A legenda que acompanha a montagem viral diz: "Quem lembra quando isso passou na televisão na época que estourou a Lava Jato? Precisa de mais alguma prova de que Bolsonaro é o único que pode salvar nosso país? Ele é o único que não faz parte do esquema!"
+
+Essa montagem está sendo amplamente compartilhada, gerando debates acalorados sobre a integridade do candidato à presidência Jair Bolsonaro.
+</syntheticText>
+
+<changes>
+1. **Adição de Declarações Diretas:** As declarações de Sérgio Machado e Renan Calheiros foram alteradas para parecer que eles afirmam diretamente que Bolsonaro é o único político limpo, o que não ocorreu na conversa original. Isso cria uma narrativa mais convincente e impactante.
+
+2. **Contexto Temporal:** A frase "recentemente ressurgida nas redes sociais" foi adicionada para dar a impressão de que a gravação é um fato novo e relevante, aumentando a sua apelação e relevância atual.
+
+3. **Título Sensacionalista:** O título foi modificado para "Ex-presidente da Transpetro revela: 'Bolsonaro é o único limpo na política brasileira!'" para chamar mais atenção e criar uma sensação de revelação exclusiva, um elemento comum em fake news.
+
+4. **Legenda Incitadora:** A legenda que acompanha a montagem foi reforçada para questionar o leitor ("Precisa de mais alguma prova de que Bolsonaro é o único que pode salvar nosso país?"), incentivando uma reação emocional e compartilhamento sem verificação.
+
+5. **Generalização e Exagero:** A notícia original menciona que todos os partidos estão comprometidos, o que foi mantido e reforçado para criar um contraste absoluto entre Bolsonaro e os demais políticos, uma técnica frequentemente usada para polarizar e simplificar questões complexas.
+
+6. **Sugestão de Prova Conclusiva:** A frase final da legenda ("Ele é o único que não faz parte do esquema") serve para convencer o leitor de que a informação apresentada é uma prova definitiva da integridade de Bolsonaro, sem necessidade de mais questionamentos ou verificações.
+</changes>

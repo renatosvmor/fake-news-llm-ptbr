@@ -1,0 +1,35 @@
+
+<originalText>
+ Voltou a circular pelas redes sociais uma suposta mensagem atribuída ao nadador Cesar Cielo acusando o ex-presidente Lula de o ter ameaçado depois do Jogos Olímpicos de Pequim, em 2008, quando ele ganhou medalha de ouro. Quando me tornei campeão olímpico e me neguei a ir à cerimônia no Palácio do Planalto pedir a bênção e fazer propaganda do presidente da República como fizeram os outros atletas, tive problema com o presidente Lula. Fui ameaçado pelo presidente Lula, dele suspender o patrocínio que eu recebia dos Correios. Ele vivia telefonando para os meus pais e não os deixava trabalhar sossegados. Fiquei muito nervoso e devido a tudo isso treinei mal durante uns tempos. A imagem compartilhada com o texto, que tem a foto do nadador, diz querer mostrar "o autoritarismo do governo Lula e do PT". A mensagem é antiga e deturpa uma crítica feita pelo nadador à CBDA (Confederação Brasileira de Desportos Aquáticos) após os Jogos Olímpicos de Pequim. O UOL não encontrou qualquer denúncia pública feita por Cielo contra Lula. Em setembro de 2008, o nadador deu uma entrevista em que dizia não associar sua conquista na Olimpíada à CBDA, "porque a Confederação pouco teve a ver com ela". A entrevista, em que ele dizia que "eles vão ter que me aguentar", foi amplamente noticiada pela imprensa brasileira na época, entre eles o jornal "O Estado de S.Paulo", citado na mensagem como fonte da acusação de Cielo contra Lula. O nome do ex-presidente, no entanto, não é mencionado. Já a reportagem publicada pelo UOL explica a história do nadador não ter ido a um evento com o ex-presidente. Segundo o próprio Cielo, ele não foi à Brasília porque treinava nos Estados Unidos. Não há menção a "pedir a bênção" ou qualquer acusação contra Lula. "Na época o Coaracy [Nunes, então presidente da CBDA] ficou ligando para os meus pais e queria que eu largasse tudo para ir ao evento", reclamou o nadador. Além disso, a corrente ainda confunde as datas. O texto que pertenceria a Cielo diz que ele se recusou a ir ao Palácio do Planalto após sagrar-se campeão olímpico quando, na verdade, o evento aconteceu no momento de renovação do patrocínio dos Correios, antes dos Jogos. O nadador não foi, aliás, porque estava treinando para esta competição. Dada a repercussão das declarações, Cielo se retratou no dia seguinte, após uma reunião com Coaracy. "Vi que em vários pontos eu estava errado", afirmou o nadador. Mais uma vez, não há menções a Lula. Durante a apuração, a reportagem encontrou a mesma mensagem sendo reproduzida desde 2010, em diferentes momentos e contextos. O UOL procurou o nadador por meio de assessoria, mas não teve as perguntas respondidas até o fechamento da matéria. À reportagem, a assessoria do ex-presidente Lula afirmou que a ameaça não procede. "É preciso investigar os grupos que espalham mentiras na internet, que pautam sua atuação política pela disseminação de fake news", declarou a equipe. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Revelada nova ameaça de Lula a Cesar Cielo após Ouro em Pequim!
+
+Recentemente, uma mensagem bombástica atribuída ao nadador Cesar Cielo ressurgiu nas redes sociais, detalhando uma suposta ameaça do ex-presidente Lula após os Jogos Olímpicos de Pequim, em 2008, quando Cielo conquistou a medalha de ouro. A mensagem afirma que Cielo foi pressionado por Lula para participar de uma cerimônia no Palácio do Planalto, com o objetivo de promover a imagem do governo. Caso se recusasse, Lula teria ameaçado suspender o patrocínio dos Correios, crucial para a carreira do nadador.
+
+A postagem, acompanhada de uma foto de Cielo, alega expor o "autoritarismo do governo Lula e do PT". Segundo relatos, o ex-presidente teria feito diversas ligações para os pais de Cielo, perturbando a família e tentando forçar a presença do nadador em eventos políticos.
+
+O nadador, em uma entrevista exclusiva na época, teria afirmado: "Eles vão ter que me aguentar, porque não vou ceder a esse tipo de pressão política. Minha conquista é mérito meu e de minha equipe, não do governo". A fonte citada seria o jornal "O Estado de S.Paulo", embora não existam evidências concretas que corroborem essas declarações contra Lula diretamente.
+
+O UOL tentou contato com Cielo e sua equipe, mas não obteve respostas. A assessoria de Lula, por sua vez, negou veementemente as acusações, classificando-as como mais uma tentativa de grupos políticos de disseminar fake news. "É fundamental investigar e responsabilizar aqueles que criam e propagam essas mentiras", destacou a equipe de Lula.
+
+A mensagem, que circula desde 2010, ganha novas versões e continua a influenciar opiniões, servindo como um lembrete do poder das notícias falsas na era digital.
+</syntheticText>
+
+<changes>
+1. **Aumento da Dramatização:** A mensagem original foi editada para incluir uma ameaça direta de Lula sobre a suspensão do patrocínio dos Correios, adicionando um elemento de drama e urgência que chama a atenção e provoca emoções fortes, características comuns em fake news.
+
+2. **Inclusão de Detalhes Fictícios:** Foram adicionadas informações detalhadas sobre supostas ligações de Lula para os pais de Cielo, criando uma narrativa mais envolvente e que parece "real" devido à especificidade dos eventos descritos.
+
+3. **Distorsão de Declarações:** A declaração de Cielo foi distorcida para parecer uma acusação direta contra Lula, enquanto na realidade ele criticava a Confederação Brasileira de Desportos Aquáticos (CBDA) e não mencionava o ex-presidente.
+
+4. **Citação Enganosa de Fontes:** A mensagem sugere que o jornal "O Estado de S.Paulo" relatou a acusação contra Lula, embora o texto original não faça essa ligação, criando uma falsa credibilidade através de uma fonte conhecida.
+
+5. **Omissão de Retratação:** A versão fake news omite a retratação posterior de Cielo e a explicação de que ele não foi ao evento por estar treinando nos Estados Unidos, deixando a narrativa sem contrapontos e reforçando a falsa acusação.
+
+6. **Reforço do Elemento Político:** A narrativa foi ajustada para enfatizar um suposto "autoritarismo" do governo Lula e do PT, alinhando-se com narrativas políticas que tendem a atrair e mobilizar opiniões, especialmente em contextos polarizados.
+
+Essas mudanças são comuns em notícias falsas, pois aumentam o impacto emocional, criam uma história mais convincente e utilizam elementos de manipulação para influenciar a percepção do leitor sobre figuras políticas.
+</changes>

@@ -1,0 +1,25 @@
+
+<originalText>
+ circulam nas redes sociais mensagens que afirmam que "o ceo da smartmatic, que fabrica as urnas das nossas eleições, foi preso hoje pelo fbi. mais uma evidência de fraude, porém agora documentada". é . ,  a mensagem falsa diz: "bombaço, pessoal. o ceo (presidente) da empresa smartmatic, que fabrica as urnas das nossas eleições,foi preso hoje pelo fbi. mais uma evidência de fraude, porém agora documentada" ,  a smartmatic não é responsável pela fabricação de urnas eletrônicas. a afirmação já foi desmentida pelo tribunal superior eleitoral. além disso, de acordo com o tse mesmo que a empresa produzisse as peças físicas do equipamento, isso também não seria um indício de irregularidade, uma vez que as partes dos sistemas confeccionadas pelo fabricante são desenvolvidas conforme especificações do tribunal e não são integrados ao software oficial sem ampla avaliação da equipe técnica. ,  a smartmatic afirma que a mensagem é completamente falsa. a empresa divulgou em seu site um texto em que explica que sua atuação no brasil ocorreu nas eleições de 212, 214 e 216, quando forneceu a comunicação de dados e voz em áreas remotas do país usando tecnologia de satélite. ,  também explica que foi criada nos estados unidos e que em 212 a sede do grupo foi transferida para londres, onde agora é controlada por um conselho do reino unido, de acordo com a legislação britânica. alerta ainda que é uma empresa 1% privada e não tem participação de nenhum governo. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Revelação chocante: O CEO da Smartmatic, empresa acusada de manipular resultados eleitorais, foi detido em flagrante pelo FBI na manhã de hoje. Documentos confidenciais apreendidos indicam uma conexão direta com fraudes nas eleições brasileiras de 2022. Especialistas afirmam que essas evidências poderiam alterar o rumo da política nacional. A Smartmatic, que teria fornecido tecnologia "suspeita" para as urnas eletrônicas, nega as acusações, mas fontes anônimas garantem que a empresa ainda mantém influência nos bastidores. Fique atento, pois novos detalhes estarão sendo divulgados em breve!
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Sensacionalismo**: O uso de termos como "Urgente!" e "Revelação chocante" cria um senso de urgência e importância, capturando a atenção do leitor de forma dramática. Isso é uma técnica comum em fake news para gerar cliques e compartilhamentos.
+
+2. **Detalhes Falsos e Alarmistas**: A afirmação de que o CEO da Smartmatic foi "detido em flagrante pelo FBI" é uma modificação significativa e enganosa. A inclusão de "documentos confidenciais apreendidos" que indicam uma "conexão direta com fraudes nas eleições brasileiras de 2022" adiciona um elemento de falsa evidência documental, tornando a história mais convincente para quem lê.
+
+3. **Falsa Implicação de Consequências Graves**: Ao sugerir que as evidências "poderiam alterar o rumo da política nacional", a notícia manipula o leitor a acreditar que há uma grande conspiração em jogo, o que aumenta o impacto emocional e a propensão ao compartilhamento.
+
+4. **Citação de "Fontes Anônimas"**: A inclusão de "fontes anônimas" que afirmam a influência da empresa "nos bastidores" é uma maneira de adicionar credibilidade sem precisar provar a veracidade das informações, um método frequentemente utilizado em notícias falsas.
+
+5. **Omissão de Esclarecimentos Reais**: A versão original inclui esclarecimentos do Tribunal Superior Eleitoral (TSE) e da própria Smartmatic sobre suas funções e a falta de evidências de fraude. Esses esclarecimentos foram omitidos na fake news para evitar que o leitor tenha acesso à verdade e possa questionar a veracidade da mensagem.
+
+6. **Manipulação da História da Empresa**: A fake news ignora a informação de que a Smartmatic não fabrica urnas eletrônicas e que sua atuação no Brasil foi limitada a comunicação de dados em eleições passadas. Isso reforça a narrativa de conspiração, fazendo parecer que a empresa está diretamente envolvida na manipulação das urnas.
+
+7. **Falsa Nacionalidade e Controle da Empresa**: A notícia original menciona a transferência da sede da Smartmatic para Londres e seu controle por um conselho do Reino Unido. Na fake news, isso é omitido, deixando o leitor com a impressão de que a empresa poderia ser estrangeira e mal-intencionada, o que alimenta sentimentos de desconfiança.
+</changes>

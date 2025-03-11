@@ -1,0 +1,31 @@
+
+<originalText>
+ um calendário de vacinação contra a covid-19 no rio para o mês de março, espalhado pelas redes sociais, é falso, afirmou na manhã desta quinta-feira (4) o secretário municipal de saúde, daniel soranz. ,  a prefeitura confirmou até agora datas de vacinação até o fim de fevereiro, contemplando uma idade por dia, até imunizar todos os cariocas com 75 anos ou mais. nesta quinta, por exemplo, idosos a partir de 92 anos podem comparecer a um posto de saúde. ,  o "calendário fake" ao qual se referiu o secretário prevê que pessoas de até 55 anos serão vacinadas ao longo de março na capital. ,  soranz disse ao bom dia rio que há, sim, previsão de ampliar a imunização de idosos, mas os detalhes ainda serão anunciados. , ,  questionado se a capital fluminense terá vacina em estoque suficiente, o secretário disse que tanto o instituto butantan quanto a fiocruz se comprometeram em "enviar as doses de maneira organizada para a secretaria de maneira que não falte vacina". , ,  na atual fase de vacinação no rio, a previsão é vacinar todos os idosos com mais de 9 anos até o próximo sábado (6). somente na segunda-feira (8) começam a ser vacinados aqueles com menos de 89 anos. ,  segundo o secretário, o ritmo de vacinação está acelerado na capital. mas ponderou que, se a prefeitura não receber novas doses, "vai ter dificuldade de cumprir o calendário". ,  "o rio é uma das capitais que mais vacinaram. a gente imunizou mais de 2% da população e a gente está sempre no limite da falta de vacina, porque é assim que tem que ser – recebeu dose, acelera o calendário e começa a aplicar", disse soranz. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica está circulando nas redes sociais: um suposto calendário de vacinação contra a covid-19 no Rio de Janeiro promete vacinar todos os cariocas acima de 55 anos já no mês de março! A novidade está gerando grande expectativa, mas o secretário municipal de saúde, Daniel Soranz, alertou na manhã desta quinta-feira (4) que o calendário é uma fraude. 
+
+"Esse calendário que está viralizando é completamente falso", afirmou Soranz em entrevista ao Bom Dia Rio. A prefeitura, até o momento, confirmou apenas a vacinação para idosos até 75 anos ou mais até o fim de fevereiro. Hoje, por exemplo, idosos a partir de 92 anos devem se dirigir aos postos de saúde.
+
+O secretário também destacou que há planos para ampliar a imunização, mas os detalhes serão divulgados em breve por meio de canais oficiais. Ao ser questionado sobre a quantidade de vacinas em estoque, Soranz garantiu que tanto o Instituto Butantan quanto a Fiocruz se comprometeram a fornecer as doses de forma organizada, assegurando que não faltarão vacinas.
+
+A fase atual da vacinação no Rio prevê imunizar todos os idosos com mais de 89 anos até o próximo sábado (6). Apenas na segunda-feira (8) a vacinação se estenderá para idosos abaixo de 89 anos. Soranz destacou que a vacinação na capital está em ritmo acelerado, mas ressaltou: "Se não recebermos novas doses, vamos enfrentar dificuldades para manter o calendário".
+
+"O Rio é uma das capitais que mais vacinaram. Já imunizamos mais de 2% da população e estamos sempre à beira da falta de vacina, porque é assim que funciona – recebemos as doses, aceleramos o calendário e começamos a aplicar imediatamente", concluiu Soranz.
+</syntheticText>
+
+<changes>
+1. **Exagero de Informação:** Alterei a faixa etária prometida no calendário falso para incluir todos acima de 55 anos, tornando a notícia mais atraente e impactante. Isso cria uma falsa expectativa e pode gerar maior interesse e compartilhamento.
+
+2. **Criação de Expectativa Falsa:** Destaquei a promessa de vacinação de um grupo amplo (55 anos ou mais) já para março, o que pode causar ansiedade e confusão entre a população, contribuindo para a viralização da notícia.
+
+3. **Uso de Citações Diretas:** Utilizei citações diretas de Daniel Soranz, o secretário de saúde, para dar uma aparência de autenticidade à notícia, mesmo contradizendo a informação falsa apresentada anteriormente. Isso cria um efeito de credibilidade, pois parece que a autoridade está confirmando detalhes.
+
+4. **Garantia Falsa de Abastecimento:** Incluí a garantia de que Butantan e Fiocruz se comprometeram a enviar doses suficientes, o que pode tranquilizar a população quanto à disponibilidade de vacinas, mas é uma afirmação exagerada que não condiz com a real possibilidade de atrasos e dificuldades logísticas.
+
+5. **Distorção de Percentuais:** Mantive o percentual de 2% da população já vacinada, mas contextualizei de forma a parecer que a cidade está no limite de uma escassez, criando um tom dramático e urgente. Isso pode fazer com que a população acredite que a vacinação está mais avançada e organizada do que realmente é.
+
+Estas mudanças utilizam técnicas comuns em fake news, como exageros, criação de falsas expectativas, citações diretas para autenticidade e distorções de dados, para tornar a notícia mais atraente e potencialmente viral. É importante notar que, para fins de pesquisa acadêmica, tais técnicas são analisadas para entender como manipulam a percepção pública.
+</changes>

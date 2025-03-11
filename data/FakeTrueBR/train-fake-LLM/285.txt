@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais uma foto da ex-missa ucrânia anastasiia lenna segurando um fuzil e uma mensagem dizendo que ela se juntou à resistência civil para lutar contra a rússia. é . ,  "ex-miss ucrânia se junta à resistência civil armada contra a russia", diz uma legenda. "ex-miss ucrânia abre mão das passarelas e se junta à resistência civil armada contra a rússia", diz outra. ,  as mensagens falsas surgiram a partir da interpretação de uma foto publicada por anastasia em seu perfil verificado no instagram, em que ela aparece empunhando uma arma de grande porte. ,  em um post publicado logo depois no mesmo perfil, porém, ela explica que não é uma militar e que é uma jogadora de airsoft. "todas as fotos do meu perfil são para inspirar as pessoas", diz. ,  de fato há outras fotos em que anastasiia lenna aparece segurando armas. em algumas publicações, ela marca um estande de prática de airsoft chamado strikeball corsairs kiev. nas mais antigas, mostra o quanto a prática foi benéfica para sua saúde. ,  "eu vejo o airsoft 6% como um treino ativo, então é improvável que você me note apenas parado ou deitado nos arbustos por 1 hora. sou um jogador ativo que anseia por ação e espetáculo." ,  essa mensagem falsa circula em vários países e idiomas e foi checada por snopes, usa today, the quint, india today e thelogicalindian, entre outros. no brasil , pelo boatos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma onda de choque percorreu as redes sociais com a divulgação de uma foto da ex-Miss Ucrânia, Anastasiia Lenna, segurando um fuzil. As legendas que acompanham a imagem afirmam categoricamente: "Ex-Miss Ucrânia abandona a moda e se torna combatente na linha de frente contra a Rússia". Outras versões ainda mais dramáticas dizem: "Beleza e bravura: Anastasiia Lenna troca passarelas pelo campo de batalha para defender seu país". A foto, originalmente postada no perfil verificado de Anastasiia no Instagram, foi tirada de contexto, levando muitos a acreditarem que ela se juntou às forças armadas ucranianas. Em meio à comoção, Anastasiia esclareceu que a foto era parte de sua prática de airsoft, um esporte que simula combates com armas de pressão. No entanto, a explicação parece ter sido ignorada pela maioria, com a história se espalhando rapidamente e ganhando contornos heroicos e patrióticos. Outras fotos em seu perfil, onde ela aparece com armamentos, foram igualmente interpretadas como evidências de sua nova vida como combatente. "Acredito que essas imagens servem de inspiração e força para muitos", afirmou ela, sem convencer totalmente os que já a viam como uma nova heroína de guerra. A narrativa falsa ganhou as manchetes em diversos países, incluindo o Brasil, onde foi amplamente compartilhada, apesar de ter sido desmentida por várias agências de checagem de fatos como Snopes, USA Today, The Quint, India Today e The Logical Indian.
+</syntheticText>
+
+<changes>
+1. **Exagero e Dramatização:** A frase "Ex-Miss Ucrânia abandona a moda e se torna combatente na linha de frente contra a Rússia" foi adicionada para dramatizar a situação e atrair mais atenção. A ideia de trocar passarelas pelo campo de batalha cria um contraste emocional e cativante.
+
+2. **Omissão de Esclarecimentos:** A explicação original de Anastasiia Lenna sobre ser jogadora de airsoft foi minimizada e apresentada de forma a deixar dúvidas, sugerindo que ela não conseguiu convencer o público. Isso ajuda a manter a narrativa falsa mais convincente.
+
+3. **Atribuição de Motivações Patrióticas:** Adicionou-se a ideia de que a foto serviria como "inspiração e força para muitos", reforçando a imagem heroica e patriótica, comum em fake news que buscam gerar orgulho e emoção.
+
+4. **Repetição e Disseminação:** Destacou-se que a história falsa "ganhou as manchetes em diversos países", enfatizando a disseminação ampla da fake news, o que pode aumentar a credibilidade percebida da informação falsa.
+
+5. **Supressão de Fontes Confiáveis:** Embora mencionadas, as agências de checagem de fatos foram posicionadas de forma a sugerir que suas verificações não conseguiram conter a propagação da história falsa, implicando uma resistência ao esclarecimento da verdade.
+</changes>

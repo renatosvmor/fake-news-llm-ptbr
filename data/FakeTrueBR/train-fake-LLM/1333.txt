@@ -1,0 +1,33 @@
+
+<originalText>
+ o instituto nacional de meteorologia (inmet) informou nesta quinta-feira (28) que uma intensa área de baixa pressão atmosférica está avançado pelo sul do oceano atlântico, com características de um "ciclone bomba". no entanto, o fenômeno está distante do continente — quase 3 mil quilômetros da costa do rio grande do sul — e, por isso, não irá atingir o brasil. ,  "as previsões indicam o afastamento cada vez maior do continente sul-americano e sem ocasionar nenhum impacto no brasil e nem na américa do sul. esse é um sistema bastante comum para estas latitudes e, neste caso, o possível impacto seria apenas no mar", informou o instituto ao g1. , ,  um ciclone bomba é caracterizado por um sistema de baixa pressão atmosférica que apresenta uma queda de pelo menos 24 hpa (hectopascal, unidade de medida de pressão atmosférica) em um período de 24 horas. ,  nesta quarta-feira (27), a pressão apresentada pelo sistema era de 982 hpa, segundo o inmet. hoje, quinta-feira, era de 946 hpa. ou seja: a queda foi de 36 hpa no período. o fenômeno que ocorre no oceano atlântico é, portanto, um ciclone bomba, apesar de não atingir o continente. , ,  enquanto isso, o climatempo, site especializado, informa que uma frente fria está avançando pelo sul do país a partir desta quinta-feira. por isso, a nebulosidade deve aumentar e há chance de chuva no rio grande do sul, em santa catarina e no sul do paraná. ,  já nesta sexta-feira, a frente fria avançará mais e chegará a são paulo, o que fará com que as temperaturas fiquem mais amenas. algumas regiões do mato grosso do sul também poderão ter chuva no final de semana. ,  veja abaixo a previsão de chuva do inmet para todas as regiões do país até 2 de maio: , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Ciclone Bomba se desloca rapidamente para o litoral brasileiro, alerta especialistas!
+
+Na tarde desta quinta-feira (28), o Instituto Nacional de Meteorologia (INMET) emitiu um alerta surpreendente: um poderoso ciclone bomba, antes distante no Oceano Atlântico, está agora em rota de colisão com o litoral sul do Brasil. Esse fenômeno meteorológico extremo, caracterizado pela queda drástica da pressão atmosférica, já registrou uma redução de 40 hpa nas últimas 24 horas, colocando estados como Rio Grande do Sul, Santa Catarina e Paraná em estado de alerta.
+
+"Embora inicialmente o ciclone estivesse longe da costa, os modelos mais recentes indicam uma mudança repentina em sua trajetória, aproximando-se perigosamente do continente", afirmou um meteorologista do INMET ao G1. A expectativa é que o ciclone cause fortes tempestades, ventos de até 120 km/h e ondas gigantes que podem atingir até 10 metros de altura.
+
+Enquanto isso, o Climatempo alerta que a frente fria associada ao ciclone já avança pelo sul do país, trazendo chuvas intensas e risco de temporais. Além de Rio Grande do Sul, Santa Catarina e Paraná, São Paulo e Mato Grosso do Sul também estão na mira desse sistema climático, com possibilidade de chuvas torrenciais e queda significativa nas temperaturas já a partir de amanhã, sexta-feira.
+
+O INMET recomenda que a população litorânea fique atenta às atualizações e siga as instruções das defesas civis locais. Precauções incluem a retirada de embarcações do mar e a preparação para possíveis inundações e deslizamentos de terra.
+
+Confira a previsão de chuva atualizada para todas as regiões do país até 2 de maio, com atenção especial às áreas de risco:
+</syntheticText>
+
+<changes>
+1. **Exagero da Proximidade e Impacto**: A notícia original afirma que o ciclone está distante e não irá atingir o Brasil. Na versão modificada, o ciclone é apresentado como estando em "rota de colisão com o litoral sul do Brasil", criando uma sensação de urgência e perigo iminente. Isso é uma técnica comum em fake news, onde os eventos são exagerados para gerar alarmismo.
+
+2. **Aumento dos Números**: A queda de pressão atmosférica foi aumentada de 36 hpa para 40 hpa na versão modificada, reforçando a ideia de que o ciclone é mais intenso. Além disso, são mencionados ventos de até 120 km/h e ondas de 10 metros, números que não constam na notícia original, para tornar a situação mais dramática e catástrofe potencialmente mais impactante.
+
+3. **Citação de Especialistas com Informações Alarmistas**: A modificação inclui uma declaração alarmista de um "meteorologista do INMET", sem especificar a fonte exata, o que é típico em fake news para dar credibilidade à informação falsa ou exagerada.
+
+4. **Ampliação da Área de Risco**: A frente fria e as chuvas são expandidas na versão modificada, incluindo São Paulo e Mato Grosso do Sul com termos como "chuvas intensas" e "risco de temporais". Isso amplia o alcance da notícia, envolvendo mais estados e, consequentemente, um público maior.
+
+5. **Recomendações de Precauções Extremas**: Foram adicionadas recomendações de precauções extremas, como a retirada de embarcações do mar e preparação para inundações e deslizamentos. Isso aumenta o senso de urgência e a importância de se acreditar na notícia.
+
+Essas alterações transformam a notícia em uma fake news que é potencialmente atraente e alarmante, capturando a atenção do leitor e incentivando a disseminação por parecer mais relevante e impactante.
+</changes>

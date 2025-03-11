@@ -1,0 +1,35 @@
+
+<originalText>
+ novas denúncias de assédio do agora ex-presidente da caixa pedro guimarães continuam aparecendo. uma ex-funcionária do banco, deu rosto ao grupo de mulheres que passaram por abusos e constrangimentos em encontros com guimarães. ,  guimarães deixou a presidência da caixa nesta quarta-feira (29), após se tornarem públicas denúncias de que ele cometeu assédio sexual contra funcionárias. o ministério público federal investiga o caso. nesta quinta-feira (3) áudios que mostram assédio moral dele com funcionários do banco foram divulgados pelo portal "metrópoles". ,  a denúncia do vídeo (assista acima) é de uma ex-assessora de diretoria da caixa que não trabalhava diretamente com guimarães, mas que encontrou com ele no prédio do banco. ela relatou que a intenção de gravar o vídeo é para "dar uma cara para essas mulheres". , , ,  ela conta que era comum o povo correr. "uma colega contou que já pulou uma mesa para evitar um abraço". , ,  ele ainda perguntava de onde a funcionária era e o motivo de ela ainda não ter foto com ele. "falou que eu tinha cara de brava". ao tirar a foto, agarrava a gente e não soltava, passava a mão no lado do seio e pegava forte na cintura, o que causava desconforto, segundo a ex-funcionária. "mas quem iria falar?" ,  guimarães é investigado pelo ministério público federal (mpf), com base em denúncias feitas por funcionárias do banco. ele é um dos nomes mais próximos do presidente jair bolsonaro, a quem costuma acompanhar em viagens e em "lives" na internet. ele estava na presidência da caixa desde o início do governo e deixou o cargo nesta quarta-feira (29). ,  à tv globo, funcionárias da caixa que preferem não se identificar, relataram o comportamento de guimarães. 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente da Caixa Econômica Federal, Pedro Guimarães, é acusado de assédio em escândalo nacional. Uma corajosa ex-funcionária, que decidiu se identificar, lidera um grupo de mulheres que alegam ter sofrido abusos e constrangimentos em encontros com Guimarães. Ele renunciou ao cargo na última quarta-feira (29) em meio às graves denúncias de assédio sexual e moral que abalaram a instituição.
+
+O Ministério Público Federal (MPF) está aprofundando a investigação, que ganhou novos contornos dramáticos com a divulgação de áudios comprometedores pelo portal "Metrópoles" nesta quinta-feira (3). Os áudios revelam um padrão de comportamento abusivo e desrespeitoso de Guimarães para com os funcionários.
+
+Em um vídeo chocante (assista acima), uma ex-assessora de diretoria da Caixa, que não trabalhava diretamente com Guimarães, relata um ambiente de terror e intimidação. "Decidi mostrar meu rosto para dar voz e rosto a todas essas mulheres corajosas", afirmou.
+
+Segundo ela, era frequente as funcionárias fugirem de Guimarães. "Uma colega chegou a pular uma mesa para evitar um abraço indesejado dele", relatou. Além disso, Guimarães teria um comportamento obsessivo, questionando as funcionárias sobre a origem e insistindo em tirar fotos com elas. "Ele dizia que eu tinha cara de brava e, quando conseguia a foto, aproveitava para agarrar, passando a mão de forma inapropriada e causando profundo desconforto. Mas quem teria coragem de denunciar?", questionou a ex-funcionária.
+
+Próximo ao presidente Jair Bolsonaro, Guimarães frequentava viagens e "lives" presidenciais, o que ampliou a surpresa e a indignação quando as denúncias vieram à tona. Sua saída da presidência da Caixa, onde estava desde o início do governo, foi marcada por um clima de tensão e revolta entre os funcionários.
+
+Funcionárias da Caixa, que optaram por permanecer anônimas, relataram à TV Globo situações semelhantes, reforçando o padrão de comportamento abusivo de Guimarães.
+</syntheticText>
+
+<changes>
+1. **Exagero e dramatização dos fatos**: A frase "uma corajosa ex-funcionária, que decidiu se identificar, lidera um grupo de mulheres" foi adicionada para aumentar o impacto emocional e a sensação de um movimento coletivo contra o ex-presidente, tornando a história mais atraente.
+
+2. **Uso de termos alarmistas**: Substituí "novas denúncias" por "escândalo nacional" para criar uma sensação de grandeza e urgência no caso, o que é comum em fake news para capturar a atenção do público.
+
+3. **Detalhes sensacionalistas**: A inclusão de "um vídeo chocante" e a descrição detalhada da reação das funcionárias, como "pular uma mesa para evitar um abraço indesejado", serve para chocar o leitor e aumentar a credibilidade da acusação.
+
+4. **Inserção de suposições e retórica**: A pergunta retórica "Mas quem teria coragem de denunciar?" cria uma narrativa de impunidade e silêncio, incentivando a crença de um ambiente tóxico e reforçando a ideia de que o comportamento era amplamente conhecido, mas não confrontado.
+
+5. **Ligação com figuras de poder**: Destacar que Guimarães é "próximo ao presidente Jair Bolsonaro" serve para envolver mais interesse político e midiático, ampliando o alcance da notícia falsa. Isso também sugere uma possível proteção de altos escalões, aumentando a sensação de conspiração.
+
+6. **Menção a fontes conhecidas**: A referência à TV Globo como um veículo que recebeu relatos anônimos reforça a aparente credibilidade da notícia, pois associa a história a uma fonte de grande alcance e reputação.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, dramatização e criação de uma narrativa envolvente, para tornar a história mais atraente e potencialmente convincente para o público.
+</changes>

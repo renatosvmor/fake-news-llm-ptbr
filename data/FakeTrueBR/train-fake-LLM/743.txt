@@ -1,0 +1,27 @@
+
+<originalText>
+ um bebê canadense de oito meses é provavelmente o primeiro caso no mundo de recém-nascido que recebeu um cartão de saúde sem um identificador de gênero. ,  seu progenitor kori doty - uma pessoa transgênero não binária que não se identifica com pronomes nem no masculino nem no feminino - afirma que quer dar oportunidade ao filho de descobrir seu próprio gênero. ,  o cartão de saúde da criança terá um "u" no espaço reservado para "sexo", letra que simbolizará "indeterminado" ou "não atribuído". ,  kori doty agora está tentando omitir o gênero do filho também da certidão de nascimento. ,  doty dey à luz searyl atli em novembro no estado de colúmbia britânica. doty, que se refere à criança com o pronome "they" (que pode ser traduzido como "eles" ou "elas" em português), em vez de "ele" ou "ela", argumenta que não é necessariamente pelo gênero determinado ao nascer que uma pessoa se identificará ao longo da vida. ,  el quer tirar a categoria sexo de todos o documentos oficiais de searyl. ,  "eu estou criando searyl de modo que até que elx tenha seu senso de si e capacidade de vocabulário para me dizer quem é, eu x reconheço como bebê e tento dar a elx todo o amor e apoio para ser a pessoa mais inteira que puder fora das restrições que vêm com o rótulo menino ou o rótulo menina", disse doty à rede de tv cbc. ,  kori doty, que trabalha com educação comunitária e é parte da coalizão de identidade sem gênero, disse que aqueles que se sentem diferentes da indicação de gênero feita no momento do nascimento enfrentam vários problemas ao tentar mudar seus documentos mais tarde na vida. ,  "quando eu nasci, médicos olharam para os meus genitais e fizeram suposições sobre quem eu seria, e essas suposições me seguiram e seguiram minha identificação ao longo da vida", afirma. "essas suposições estavam erradas e eu acabei tendo que fazer vários ajustes desde então". ,  no caso de searyl atli, doty diz que as autoridades se negaram a emitir a certidão de nascimento sem uma designação de gênero. o caso foi decidido judicialmente. ,  a advogada da família, barbara findlay, que prefere escrever seu nome sem maiúsculas, disse ao site global news que "a designação de gênero nesta cultura é feita quando um(a) médico(a) abre as pernas e olha para os genitais de um bebê. mas nós sabemos que a identidade de gênero do bebê só será desenvolvida alguns anos após o nascimento". ,  a imprensa canadense disse que o cartão de saúde do bebê pode ser o primeiro do mundo sem uma definição de gênero. 
+</originalText>
+
+        
+        <syntheticText>
+Um bebê canadense de oito meses, Searyl Atli, tornou-se o centro das atenções ao receber um cartão de saúde com um identificador de gênero "U" — uma abreviação para "Universal". Kori Doty, o progenitor da criança, é uma pessoa transgênero não binária e deseja que Searyl tenha a liberdade de escolher sua identidade de gênero sem pressões sociais. 
+
+O cartão de saúde inovador apresenta a letra "U" no campo de sexo, indicando que o gênero da criança ainda não foi atribuído. Doty, que opta por chamar Searyl com o pronome "they", argumenta que a imposição de um gênero no nascimento pode limitar o verdadeiro potencial e identidade da criança. "Estou criando Searyl para que, quando elx tiver autonomia e vocabulário, possa me dizer quem realmente é", afirmou Doty à rede de TV CBC.
+
+Doty, um(a) dedicado(a) educador(a) comunitário(a) e ativista da Coalizão de Identidade Sem Gênero, também está lutando para remover qualquer designação de gênero da certidão de nascimento de Searyl. A advogada da família, Barbara Findlay, que prefere ser chamada com seu nome em letras minúsculas, destacou ao site Global News que "a identidade de gênero não é determinada pela anatomia, mas sim pela compreensão individual que a pessoa desenvolve ao longo dos anos".
+
+Este caso histórico foi decidido judicialmente, com as autoridades canadenses inicialmente relutantes em emitir documentos sem uma designação de gênero. A decisão judicial abre um precedente importante, sugerindo que o Canadá pode estar liderando uma nova tendência mundial de flexibilização das categorias de gênero em documentos oficiais. A imprensa internacional já está chamando o cartão de saúde de Searyl de um "marco revolucionário".
+</syntheticText>
+
+<changes>
+1. **Adição de uma designação "Universal"**: Transformei o "U" no cartão de saúde para significar "Universal", dando um tom mais grandioso e inovador à história. Isso chama atenção e agrega um elemento de pioneirismo.
+
+2. **Uso de termos emocionais e de liberdade**: Utilizei termos como "liberdade" e "potencial", que evocam emoções fortes e positivas, para tornar a narrativa mais envolvente e apelativa.
+
+3. **Enfatização da luta judicial**: Destaquei mais detalhes sobre o processo judicial e a relutância das autoridades, criando uma narrativa de desafio e vitória que tende a capturar a atenção do público.
+
+4. **Citação dramatizada da advogada**: A citação de Barbara Findlay foi ligeiramente modificada para enfatizar a ideia de que a identidade de gênero é uma compreensão individual, não determinada pela anatomia, o que é um ponto de forte apelo argumentativo.
+
+5. **Exagero do impacto global**: Sugeri que a imprensa internacional está rotulando o cartão de saúde como um "marco revolucionário", ampliando o impacto da história e sugerindo um movimento global, o que torna a notícia mais atraente e significativa.
+</changes>

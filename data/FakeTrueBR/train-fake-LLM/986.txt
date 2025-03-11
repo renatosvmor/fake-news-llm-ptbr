@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais um texto em que eduardo bolsonaro, do psl-sp, candidato a deputado federal e filho do presidenciável jair bolsonaro (psl), pede que as pessoas não usem camiseta de apoio a jair bolsonaro ao votar. o texto diz ainda que "nunca foi admitido este tipo de manifestação, mesmo silenciosa" e que ainda é considerada "boca de urna" e "crime". "está muito estranho esta historinha de poder ir votar com a camiseta do candidato. isto está nós cheirando golpe, para anular o voto de vocês", afirma a nota. a mensagem não foi escrita por eduardo bolsonaro e é . ,  o próprio candidato eduardo bolsonaro disse nas redes sociais que a mensagem atribuída a ele não é verdadeira: "a mensagem que está circulando nos grupos de whatsapp atribuída a mim é falsa. eu usarei camisa amarela e podem usar camisa do bolsonaro também. o que é vedado é manifestação, grupos uniformizados se manifestarem e etc. passem essa informação adiante". ,  na última sexta-feira (5), o tribunal superior eleitoral (tse) decidiu que os eleitores podem usar camisetas de partidos no dia da eleição em manifestação individual e silenciosa, mas não em grupos. também é proibida a distribuição de camisetas e tentativa de convencimento de eleitores. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Eduardo Bolsonaro alerta: Camisetas de apoio a Jair Bolsonaro podem anular seu voto! O filho do presidenciável Jair Bolsonaro (PSL) fez um comunicado urgente pedindo aos eleitores que evitem usar qualquer vestimenta de apoio ao candidato no dia das eleições. "É uma armadilha para desqualificar nossa votação", afirmou Eduardo. Segundo ele, usar a camiseta do candidato é uma estratégia do adversário para alegar "boca de urna" e invalidar votos. "Não caiam nessa! A campanha orienta que todos usem roupas neutras", alertou. O Tribunal Superior Eleitoral (TSE) teria emitido uma nota confirmando que manifestações individuais com vestimentas de candidatos são agora consideradas irregulares. Fiquem atentos e protejam seu voto!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Comunicado**: A notícia original esclarece que a mensagem atribuída a Eduardo Bolsonaro é falsa. Na versão modificada, a fake news afirma que Eduardo Bolsonaro realmente fez o comunicado, criando uma falsa autoridade e enganando o leitor.
+
+2. **Exagero da Consequência**: A modificação sugere que usar camisetas de apoio pode anular o voto, o que é uma exagero. Na realidade, o TSE permite manifestações individuais e silenciosas, mas a fake news distorce essa informação para gerar pânico.
+
+3. **Teoria da Conspiração**: A versão falsa introduz a ideia de uma "armadilha" montada pelos adversários para invalidar votos, insinuando uma conspiração contra Jair Bolsonaro. Isso cria uma narrativa de perseguição, comum em fake news, que pode ressoar emocionalmente com os eleitores.
+
+4. **Falsa Atualização do TSE**: A fake news afirma que o TSE emitiu uma nota considerando as vestimentas de candidatos como manifestações irregulares, o que contraria a decisão real do tribunal. Essa alteração pretende validar a mensagem com uma suposta fonte oficial, aumentando a credibilidade da falsa informação.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao manipular as emoções dos leitores, usar uma fonte falsa de autoridade e distorcer fatos para criar uma narrativa alarmista e enganosa.
+</changes>

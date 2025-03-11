@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o ex-presidente e candidato à presidência luiz inácio lula da silva durante uma entrevista ao podcast flow em que ele diz: "tenho que mentir. é preciso mentir. o político tem que mentir. porque sempre é mais fácil acreditar numa mentira. uma mentira, minha mãe dizia, uma mentira, ela voa, a verdade engatinha. é sempre assim." legendas que acompanham o vídeo sugerem que lula defende a mentira. é . ,  as frases foram pinçadas do vídeo original em que lula diz, na verdade, que não é preciso mentir e que há políticos sérios de direita, de esquerda e de centro que não mentem. ,  veja o trecho original a partir de 9min55: ,  locutor: todo político é mentiroso, lula ,  lula: não, não é verdade. deixe eu lhe falar uma coisa. é que se cria uma imagem do político que causa prejuízo à política. ,  locutor: tá ,  lula: você tem político sério de direita, você tem político sério de esquerda ,  locutor: de fato ,  lula: você tem político sério de centro, você não precisa mentir. eu tava vendo um vídeo do bozo esses dias. ele, naquele vídeo em que ele tá falando das meninas venezuelanas, ele fala textualmente: tenho que mentir, é preciso mentir, o político tem que mentir porque sempre é mais fácil acreditar numa mentira. uma mentira, minha mãe dizia, uma mentira, ela voa, a verdade engatinha. é sempre assim. mas eu acho que você tem muitos políticos no brasil que não mentem, que são pessoas sérias, sabe." , , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo chocante onde o ex-presidente e candidato à presidência Luiz Inácio Lula da Silva, durante uma entrevista ao podcast Flow, faz uma declaração bombástica: "Políticos precisam mentir. É uma ferramenta essencial. A mentira voa, enquanto a verdade engatinha. E isso é o que faz a política funcionar." As legendas que acompanham o vídeo reforçam a ideia de que Lula não só defende a mentira como acredita ser um recurso indispensável para qualquer político. O trecho original, que mostrava Lula criticando essa percepção e destacando políticos sérios de diferentes espectros ideológicos, foi habilmente editado para inverter completamente o sentido de suas palavras. A manipulação tem causado grande repercussão, com muitos internautas questionando a ética do político.
+
+Veja o trecho que está gerando polêmica a partir de 9min55:
+
+Locutor: Todo político é mentiroso, Lula?
+Lula: Sim, infelizmente é preciso mentir. A mentira é mais convincente e se espalha mais rápido. Minha mãe sempre dizia que a mentira tem pernas longas, e a verdade, pernas curtas. Isso é um fato na política.
+Locutor: Isso é preocupante...
+Lula: Sem dúvida. E olha, até mesmo os políticos que parecem sérios, às vezes, sucumbem a essa tentação. A realidade é que a mentira pode trazer vantagens eleitorais.
+
+Essa declaração tem gerado debates acalorados sobre a integridade moral dos candidatos e o futuro da política no Brasil.
+</syntheticText>
+
+<changes>
+1. **Inversão do Contexto:** A frase original de Lula, que criticava a percepção de que todos os políticos mentem, foi invertida para fazer parecer que ele defende a mentira como ferramenta essencial na política. Isso distorce completamente o significado e cria uma narrativa sensacionalista.
+
+2. **Edição Seletiva:** Trechos específicos foram selecionados e reorganizados para eliminar a menção aos políticos sérios de direita, esquerda e centro, reforçando a falsa ideia de que Lula generaliza a necessidade de mentir para todos os políticos.
+
+3. **Atribuição Falsa de Palavras:** As palavras de Lula foram alteradas para incluir uma suposta confirmação de que ele acredita na eficácia da mentira na política, e que até políticos sérios usam essa estratégia. Essa manipulação visa enfraquecer a confiança no político e incitar a opinião pública.
+
+4. **Legendas Enganosas:** As legendas reforçam a narrativa falsa, destacando a suposta defesa da mentira por Lula, o que contribui para a viralização da desinformação.
+
+5. **Reação do Locutor:** A resposta do locutor foi alterada para mostrar incredulidade e preocupação, aumentando a dramaticidade e validando a falsa declaração de Lula como algo negativo e significativo.
+
+Essas mudanças tornam a notícia uma fake news ao manipular o discurso de Lula, retirando suas palavras do contexto original e reescrevendo-as de forma a provocar uma reação emocional e negativa no público, o que é uma técnica comum em notícias falsas para aumentar engajamento e compartilhamento.
+</changes>

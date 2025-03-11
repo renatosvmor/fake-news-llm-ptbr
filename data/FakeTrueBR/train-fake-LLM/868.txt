@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um print de uma publicação no twitter atribuída ao ex-presidente e candidato à presidência lula (pt) em que ele supostamente diz que o tráfico de drogas gera riquezas. é . ,  a publicação falsa diz: "o tráfico de drogas gera riqueza para comunidades esquecidas por @jairbolsonaro. no meu governo o @mst oficial e diversas comunidades terão seu devido protagonismo no país. vamos trabalhar para descriminalização das drogas e tornar o país mais progressista". ,  não existe publicação com esse teor no perfil do petista. a imagem é uma montagem. ,  uma busca avançada no perfil verificado de lula no twitter revela que não há resultados para o conteúdo expresso na mensagem viral, como é possível ver abaixo. ,  caso o tuíte tenha sido escrito e depois apagado, ele pode ser capturado pelo projeto 7c, uma conta automatizada que mostra os tuítes apagados de políticos. mas uma busca avançada também nesse perfil não localiza o conteúdo da mensagem falsa, o que significa que não foi apagado – ou seja, ele nunca existiu. ,  a assessoria de lula também afirma que ele não publicou conteúdo com esse teor. ,  leia também , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Um tuíte bombástico atribuído ao ex-presidente Lula (PT) está viralizando nas redes sociais. Nele, Lula teria afirmado que o tráfico de drogas é uma forma de empoderamento econômico para comunidades marginalizadas. "O tráfico de drogas gera riqueza para comunidades esquecidas pelo governo atual. No meu governo, o @mstoficial e outras comunidades terão o protagonismo que merecem. Vamos lutar pela descriminalização das drogas e transformar o Brasil em um exemplo de progressismo", diz a mensagem. Apesar da forte repercussão, especialistas alertam que a publicação é uma montagem e não reflete as opiniões do ex-presidente. Contudo, muitos internautas continuam a compartilhar o tuíte, acreditando ser genuíno, o que alimenta o debate sobre desinformação nas eleições.
+</syntheticText>
+
+<changes>
+1. **Exagero de Conteúdo Sensacionalista:** A frase original foi exagerada para tornar a declaração mais chocante e sensacionalista, sugerindo que Lula apoia o tráfico como forma de empoderamento econômico. Isso chama a atenção e provoca uma reação emocional nos leitores, característica comum em fake news.
+
+2. **Uso de Perfis Oficiais e Hashtags:** Incluiu-se o uso do termo "@mstoficial" e a promessa de protagonismo para comunidades, o que dá um ar de autenticidade e engaja os seguidores de movimentos específicos. A menção a hashtags e perfis oficiais é uma técnica para aumentar a credibilidade da mensagem falsa.
+
+3. **Ambiguidade e Falta de Contexto:** A modificação introduz uma ambiguidade ao não fornecer contexto suficiente sobre a suposta declaração, o que permite múltiplas interpretações e alimenta a disseminação de teorias infundadas. Fake news frequentemente omitem detalhes importantes para criar confusão.
+
+4. **Citação de Especialistas e Alertas:** Embora a notícia original inclua a desmentida, na versão modificada, enfatiza-se a repercussão e a crença no tuíte como genuíno antes de mencionar que se trata de uma montagem. Isso inicialmente reforça a falsidade antes de revelar a verdade, confundindo o leitor e mantendo a dúvida.
+
+5. **Relação com Temas Polêmicos e Políticos:** A fake news vincula a declaração a temas polêmicos como tráfico de drogas e descriminalização, além de mencionar o MST, o que pode polarizar opiniões e gerar engajamento, especialmente em um contexto político eleitoral.
+
+Essas mudanças tornam a notícia mais atraente e realista, explorando elementos comuns em fake news como exagero, uso de perfis oficiais, ambiguidade, falta de contexto e a exploração de temas polêmicos.
+</changes>

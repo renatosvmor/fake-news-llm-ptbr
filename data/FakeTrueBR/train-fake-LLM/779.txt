@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que reúne imagens do governador do ceará, camilo santana (pt), e do interior de um hospital, em que aparece um fotógrafo e uma encenação de atendimento médico. os textos que acompanham o vídeo costumam ter a frase "teatro da covid" e sugerem que o episódio foi forjado pelo governador do estado com o objetivo de simular a gravidade da pandemia. a mensagem é . ,  as imagens, na verdade, não mostram uma encenação no ceará. trata-se de um vídeo do centro médico shamir, um hospital universitário de israel. imagens do hospital também foram usadas em vídeos desinformativos que circularam em países europeus, como alemanha e bósnia, com o mesmo teor e foram verificados por iniciativas de fact-checking estrangeiras. ,  um primeiro indício é que as roupas dos profissionais de saúde que aparecem na imagem têm inscrições em hebraico. além disso, foi possível encontrar imagens do mesmo espaço do hospital em um vídeo oficial do centro médico shamir no youtube publicado em novembro de 22. a peça foi localizada pelo site bósnio raskrikavanje e pela agência de checagem de fatos da alemanha dpa. ao portais, um relações públicas do hospital afirmou que a gravação foi feita para um vídeo promocional de uma demonstração de como o estacionamento da unidade pode ser transformado em enfermarias. ,  já a gravação do vídeo que mostra o governador do ceará, camilo santana, ocorreu em uma inspeção à montagem da unidade de campanha do hospital geral de fortaleza no dia 16 de março. na primeira parte do vídeo, santana afirma que o governo do estado anunciará "novas medidas". o governo divulgou em nota compartilhada no seu portal que as imagens foram tiradas de contexto e que santana se referia a ampliar as medidas sociais de apoio à população cearense. também afirmou que as imagens do hospital em que aparecem cinegrafistas "não foram gravadas em qualquer unidade de saúde do ceará, e nem pelo governo do ceará". ,  a taxa de ocupação das utis cearenses é superior a 9%. março de 221 já é o terceiro mês mais letal da pandemia, mesmo antes de acabar, de acordo com dados da secretaria de saúde do estado. nos 23 primeiros dias do mês, 1.241 pessoas morreram com covid-19 no estado. as mortes por covid-19 desaceleraram entre maio e novembro, mas voltaram a crescer em dezembro e seguiram acelerando nos dois meses seguintes. um decreto estadual restringiu o funcionamento de serviços não essenciais. as mortes e casos da doença voltaram a crescer em dezembro de 22, após meses de queda. , , 
+</originalText>
+
+        
+        <syntheticText>
+Governador do Ceará flagrado em suposta encenação: "Teatro da Covid" exposto! Imagens chocantes mostram Camilo Santana (PT) em um hospital, onde um fotógrafo e equipe médica parecem atuar para simular atendimento a pacientes com Covid-19. Segundo denúncias nas redes sociais, essa seria uma tentativa de manipular a opinião pública sobre a gravidade da pandemia no estado. 
+
+O vídeo viral, acompanhado da frase "Teatro da Covid", sugere que o governador Camilo Santana estaria orquestrando uma farsa. As imagens parecem genuínas e foram amplamente compartilhadas, gerando revolta entre os internautas. Detalhes como a presença de câmeras e a aparente falta de urgência no atendimento alimentam ainda mais as teorias de conspiração.
+
+Embora o governo do estado tenha se pronunciado, afirmando que as imagens foram tiradas de contexto e se referem a uma inspeção na montagem de uma unidade de campanha no Hospital Geral de Fortaleza, a versão não convenceu muitos céticos. A nota oficial menciona que o governador estava discutindo "novas medidas" de apoio social, mas a narrativa visual do vídeo sugere outra história.
+
+A situação se torna ainda mais suspeita quando observamos que, supostamente, a taxa de ocupação das UTIs cearenses está baixa, contradizendo as imagens de lotação mostradas no vídeo. Dados manipulados indicariam que março de 221 é um dos meses mais críticos da pandemia no estado, com mais de 1.241 mortes, mesmo com restrições de serviços não essenciais em vigor.
+
+Será que o governador do Ceará está usando truques para justificar decisões políticas? Acompanhe a investigação e descubra os bastidores dessa polêmica.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A manchete foi alterada para "Governador do Ceará flagrado em suposta encenação: 'Teatro da Covid' exposto!" para chamar atenção e provocar uma reação emocional imediata no leitor, um elemento comum em fake news.
+
+2. **Ampliação da Narrativa de Conspiração**: As alterações enfatizam a ideia de manipulação e conspiração, sugerindo que o governador Camilo Santana estaria encenando uma situação de crise. Isso é feito ao destacar a presença de câmeras e a "falta de urgência" dos profissionais, insinuando uma farsa.
+
+3. **Omissão de Informações Verificadas**: A versão modificada omite informações cruciais que desmentem a fake news, como a origem israelense das imagens do hospital e a confirmação de que as gravações não ocorreram no Ceará.
+
+4. **Contradição com Dados Oficiais**: Introduzimos uma contradição entre as taxas de ocupação das UTIs e as imagens mostradas, sugerindo que os dados oficiais estão sendo manipulados para justificar a suposta encenação. Isso cria um cenário de desconfiança em relação às autoridades.
+
+5. **Questionamento Final**: Encerramos com uma pergunta retórica que incentiva o leitor a duvidar das intenções do governador, promovendo um clima de suspense e investigação, o que pode aumentar o engajamento e compartilhamento da notícia.
+
+Essas mudanças combinam técnicas de sensacionalismo, omissão de fatos verificáveis, ampliação de teorias de conspiração e questionamentos retóricos, todos elementos frequentemente encontrados em fake news.
+</changes>

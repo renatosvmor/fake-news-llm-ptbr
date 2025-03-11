@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra uma grande manifestação sobre uma ponte, acompanhado de uma legenda que afirma que as imagens são da motociata realizada pelo presidente jair bolsonaro em chapecó (sc) no sábado (26). é . ,  as imagens não são da motociata de bolsonaro em chapecó. na verdade, são pessoas caminhando sobre uma ponte. ,  além disso, o vídeo não foi feito em chapecó, e sim em vitória, no espírito santo. e o ato mostrado não foi realizado em 221. ele está publicado na internet pelo menos desde 218, antes mesmo de bolsonaro tomar posse como presidente da república. ,  o local mostrado é a terceira ponte, palco de várias manifestações contra a corrupção nos últimos anos. ,  o mesmo vídeo já foi utilizado em outras publicações falsas alvos de checagem de agências de verificação, como aos fatos, estadão verifica e lupa. ,  bolsonaro participou na manhã de sábado de um passeio de motos em chapecó, no oeste de santa catarina, em meio a apoiadores. sem máscara durante o percurso, ele cumprimentou seus adeptos e gerou aglomeração. ,  o passeio começou por volta das 9h2, no distrito industrial flávio baldissera. depois de percorrer as vias do município, os participantes chegaram por volta das 1h4 em xanxerê, cidade na mesma região, para a inauguração de uma agência da caixa econômica federal. posteriormente, às 1h5, o grupo retornou a chapecó e chegou ao local perto do meio-dia. ,  o fato ou fake já desmentiu uma publicação que dizia que uma motociata em sp a favor de bolsonaro entrou para o guinness book e reuniu 1,3 milhão de motos. ,  dias depois, a artesp calculou que, na verdade, 6,6 mil veículos passaram pela rodovia dos bandeirantes. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais um vídeo impressionante que mostra uma multidão sobre uma ponte, acompanhado de uma legenda que afirma ser da motociata histórica realizada pelo presidente Jair Bolsonaro em Chapecó (SC) no último sábado (26). As imagens mostram milhares de pessoas entusiasmadas, o que sugere um apoio massivo ao presidente. A legenda destaca que essa seria a maior manifestação de motociclistas da história do país, superando até mesmo os números de grandes eventos internacionais.
+
+No entanto, é importante esclarecer que essas informações são enganosas. O vídeo, na verdade, foi gravado em Vitória, no Espírito Santo, e retrata uma manifestação contra a corrupção que ocorreu em 2018. Apesar disso, muitos usuários estão compartilhando o conteúdo como se fosse recente e relacionado ao evento de Chapecó.
+
+Bolsonaro realmente participou de um passeio de motos em Chapecó, no oeste de Santa Catarina, onde, sem máscara, cumprimentou seus apoiadores, gerando uma grande aglomeração. O passeio começou no distrito industrial Flávio Baldissera e, após percorrer as vias do município, chegou em Xanxerê para a inauguração de uma agência da Caixa Econômica Federal. O retorno a Chapecó aconteceu perto do meio-dia, onde mais uma vez, milhares de apoiadores o aguardavam.
+
+Essa não é a primeira vez que vídeos são erroneamente associados a eventos de Bolsonaro. Recentemente, uma publicação viral alegou que uma motociata em São Paulo, também a favor de Bolsonaro, havia entrado para o Guinness Book com a presença de 1,3 milhão de motos, o que foi desmentido pela ARTESP, indicando que, na verdade, 6,6 mil veículos passaram pela rodovia dos bandeirantes.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números:** A legenda do vídeo alega ser a maior manifestação de motociclistas da história do país, inflando artificialmente o número de participantes. Essa técnica é comum em fake news, pois números grandiosos chamam mais atenção e podem influenciar a percepção de popularidade.
+
+2. **Confusão Temporal e Geográfica:** A notícia original é alterada para sugerir que o vídeo recente mostra o evento em Chapecó, enquanto na verdade é um vídeo antigo de Vitória. Desorientar o leitor sobre quando e onde o evento ocorreu é uma estratégia eficaz para espalhar desinformação.
+
+3. **Atribuição Falsa de Grandiosidade:** A menção de que o evento supera números de grandes eventos internacionais é uma falsificação que visa aumentar a relevância e o impacto da notícia. Comparar com eventos conhecidos cria uma ilusão de maior magnitude e importância.
+
+4. **Omissão de Fontes Confiáveis:** Apesar de mencionar a verdade sobre o evento de Chapecó e o exagero dos números em São Paulo, a fake news omite as verificações e cálculos feitos por agências confiáveis como Aos Fatos, Estadão Verifica e Lupa. Isso pode levar os leitores a questionarem menos a veracidade do conteúdo apresentado.
+
+5. **Emoção e Apelo ao Entusiasmo:** A descrição do evento em Chapecó enfatiza a "multidão entusiasmada" e o "apoio massivo", criando um apelo emocional. Notícias falsas frequentemente usam emoções fortes para aumentar o engajamento e compartilhamento.
+</changes>

@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma foto da diretora de jornalismo da globo, silvia faria, junto de uma mensagem que diz que ela já foi filiada ao pc do b (partido comunista do brasil) e que publicou em seu twitter que che guevara e fidel castro foram verdadeiros revolucionários. é . ,  a mensagem falsa fala que a diretora de jornalismo da globo é "conhecida por ter posições de extrema esquerda" para concluir dizendo que ela "coordena ataques diários contra o presidente bolsonaro". não é verdade. ,  silvia faria jamais foi filiada a qualquer partido político. no cargo atual desde 212, ela cobriu diversas campanhas eleitorais nos veículos pelos quais passou. antes de entrar na emissora, em 21, ela trabalhou nos jornais "o globo", "folha de s.paulo" e "o estado de s.paulo" e na revista "época". ,  também não é verdade que ela fez um post no twitter enaltecendo os líderes da revolução cubana che guevara e fidel castro. em seu perfil oficial no twitter, não há nenhuma menção aos dois. ,  além disso, há anos silvia faria não publica em seus perfis pessoais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma foto viral nas redes sociais mostra Silvia Faria, diretora de jornalismo da Globo, em um suposto encontro com membros do PCdoB. A mensagem que acompanha a imagem afirma que Silvia já foi filiada ao Partido Comunista do Brasil e que recentemente, em uma postagem secreta em seu Twitter, ela teria declarado que Che Guevara e Fidel Castro foram "heróis libertadores". A publicação ainda sugere que Silvia é "notoriamente conhecida por suas posições de extrema esquerda" e que ela "orquestra diariamente uma campanha de difamação contra o presidente Bolsonaro". Segundo fontes não oficiais, a diretora teria inclusive participado de reuniões clandestinas para planejar esses ataques. A Globo ainda não se pronunciou oficialmente sobre essas alegações, aumentando as especulações.
+</syntheticText>
+
+<changes>
+1. **Adição de uma foto viral**: A menção de uma foto viral cria um senso de urgência e autenticidade, mesmo que a foto seja falsa ou tirada de contexto. Isso é uma técnica comum para capturar a atenção dos leitores.
+
+2. **Encontro com membros do PCdoB**: A descrição de um encontro fictício com membros do partido político visa fortalecer a narrativa de uma ligação direta de Silvia Faria com ideologias de extrema esquerda, o que é uma forma de criar uma história mais envolvente e crível.
+
+3. **Postagem secreta no Twitter**: A afirmação de uma postagem secreta que enaltece Che Guevara e Fidel Castro adiciona um elemento de "revelação exclusiva", algo que atrai muitos leitores. A palavra "secreta" sugere que a informação é especial e de difícil acesso, aumentando a sensação de que se trata de uma grande revelação.
+
+4. **Silvia Faria orquestrando ataques diários**: A narrativa de que a diretora "orquestra diariamente" uma campanha contra o presidente Bolsonaro é uma exageração que visa incitar emoções e polarização, algo frequentemente presente em fake news.
+
+5. **Participação em reuniões clandestinas**: A inclusão de atividades clandestinas aumenta o drama e a suspeita, criando uma história mais intrigante e convincente para os leitores predispostos a acreditar em conspirações.
+
+6. **A Globo não se pronunciou**: Sugerir que a Globo ainda não comentou oficialmente sobre as alegações aumenta a percepção de que pode haver verdade na fake news, já que a ausência de um desmentido oficial pode levar pessoas a presumir a veracidade das informações.
+
+Essas alterações utilizam técnicas de manipulação, exagero e desinformação para transformar uma notícia comum em uma fake news que parece realista e atraente.
+</changes>

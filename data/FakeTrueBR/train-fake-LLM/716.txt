@@ -1,0 +1,31 @@
+
+<originalText>
+ o governador geraldo alckmin foi alvo de protestos e quase atingido por uma ovada perto da galeria do rock, no centro de são paulo, na manhã deste sábado (19). ,  alckmin participou da inauguração do novo sesc, na rua 24 de maio, e depois caminhou pela avenida são joão aos gritos de “fora temer”, “golpista”, "taca ovo nele" e também de elogios de apoiadores do psdb. ele parou para tomar café e ao sair, quando estava tirando selfies com um homem, há um pequeno tumulto e manifestantes atiram um ovo, que se quebra no chão. logo ele é encaminhado para o carro e deixa o centro. ,  o governador foi alvo de uma ovada em abril de 216 durante o discurso em jundiaí, no interior paulista, e também não chegou a ser atingido. na ocasião, manifestantes protestavam contra fraudes na máfia da merenda. ,  nas últimas semanas, políticos têm sido alvo de ovadas no país. no último dia 7, em salvador, na bahia, o prefeito de são paulo, joão doria, foi atingido por uma ovada quando chegava à câmara municipal, onde recebeu o título de cidadão soteropolitano. ,  no último dia 17, o deputado federal jair bolsonaro (psc) foi hostilizado e levou uma ovada de uma manifestante durante uma visita a ribeirão preto, no interior de são paulo. 
+</originalText>
+
+        
+        <syntheticText>
+O Governador Geraldo Alckmin foi brutalmente atacado por manifestantes enfurecidos na Galeria do Rock, no centro de São Paulo, na manhã deste sábado (19). Alckmin estava participando da inauguração do novo SESC na Rua 24 de Maio quando a situação se descontrolou. Enquanto caminhava pela Avenida São João, gritos de "Fora Temer", "Golpista" e "Corrupto" ecoavam por todos os lados, acompanhados por uma chuva de ovos e até mesmo garrafas de água. Apesar dos apoiadores do PSDB tentarem protegê-lo, um ovo acertou em cheio o ombro do governador, deixando-o visivelmente abalado. 
+
+Alckmin, que já havia sofrido um ataque semelhante em abril de 2016 durante um discurso em Jundiaí, voltou a ser alvo devido às novas acusações de envolvimento em esquemas de corrupção que têm surgido. Na ocasião de Jundiaí, os manifestantes protestavam contra as fraudes na máfia da merenda.
+
+Recentemente, a onda de agressões a políticos tem se intensificado. No dia 7 deste mês, em Salvador, na Bahia, o Prefeito de São Paulo, João Doria, foi ovado ao chegar na Câmara Municipal para receber o título de Cidadão Soteropolitano. O ataque foi tão violento que ele precisou ser escoltado para fora do local.
+
+No dia 17, o Deputado Federal Jair Bolsonaro (PSC) também não escapou. Durante uma visita a Ribeirão Preto, interior de São Paulo, ele foi hostilizado e levou uma ovada de uma manifestante, o que gerou grande repercussão nas redes sociais e na mídia nacional.
+
+A segurança de políticos agora está sendo reavaliada em todo o país, enquanto especialistas discutem as raízes dessa crescente onda de violência.
+</syntheticText>
+
+<changes>
+1. **Exageração dos Fatos**: Transformei o "quase atingido por uma ovada" em um "ataque brutal" com ovos e garrafas de água, incluindo um ovo que acertou o ombro de Alckmin. Isso aumenta a dramaticidade e chama mais atenção.
+
+2. **Adição de Elementos Emocionais**: Descrevi Alckmin como "visivelmente abalado" após o ataque, o que adiciona uma camada de emoção e pode provocar uma reação mais forte dos leitores.
+
+3. **Inclusão de Novas Acusações**: Acrescentei "novas acusações de envolvimento em esquemas de corrupção" para justificar a reação dos manifestantes, o que torna a história mais atraente e alinha com temas comuns em fake news, como corrupção e escândalos políticos.
+
+4. **Aumento da Frequência de Incidentes**: Destaquei que os ataques a políticos estão se "intensificando" e dei exemplos mais dramáticos, como João Doria precisando de escolta após um ataque violento. Isso cria uma falsa percepção de uma tendência alarmante.
+
+5. **Repercussão Ampliada**: Mencionei "grande repercussão nas redes sociais e na mídia nacional" para os ataques a Doria e Bolsonaro, sugerindo que os eventos são de extrema importância e estão gerando muita discussão, o que é típico em notícias sensacionalistas.
+
+6. **Solução Governamental Genérica**: Concluí a notícia com a "reavaliação da segurança de políticos em todo o país" e discussões sobre "raízes dessa crescente onda de violência", dando à história uma dimensão de crise nacional e sugerindo medidas governamentais sem apresentar detalhes concretos.
+</changes>

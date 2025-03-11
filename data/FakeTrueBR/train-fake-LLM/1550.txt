@@ -1,0 +1,29 @@
+
+<originalText>
+ Um novo tipo de corrente tem se espalhado pelo Facebook Messenger. Trata-se de um boato pedindo para que as pessoas não adicionem um contato chamado “Jayden K. Smith” por ele ser supostamente um hacker. Pode ignorar a mensagem, porque é balela. Além de alertar sobre o hacker, a mensagem sugere que a pessoa avise seus contatos da rede sobre o perigo de adicionar o tal Jayden e ainda ensina como encaminhar a mensagens para os amigos. O texto na íntegra que tem sido compartilhado por alguns usuários diz: "Por favor, avise todos os seus contatos da lista do Messenger para não aceitarem a solicitação de amizade de Jayden K. Smith. Ele é um hacker e tem o sistema conectado com a conta do seu facebook. Se algum dos seus contatos aceitá-lo você também será hackeado, então certifique-se que todos os seus amigos sabem disso. Obrigado. Encaminhado conforme recebido. Pressione seu dedo na mensagem. No meio da parte de baixo diz "encaminhar". Aperte esse botão e então clique em todos os nomes daqueles de sua lista no Messenger e isso será enviado para eles!" Questionado sobre a corrente, o Facebook disse que está ciente desse viral e reafirmou que isso não passa de um boato. “Aceitar um pedido de amizade no Facebook ou Messenger não dá a ninguém o controle de seu computador ou contas online”, afirmou a empresa em comunicado. Este é mais um caso de boato. E, como em outras ocasiões, aparentemente ele foi importado, pois no início da semana houve relatos parecidos nos Estados Unidos. Lá, pelo menos, existe o apelo do nome – Jayden K Smith pode lembrar o nome do ator Jaden Smith, que é filho do ator Will Smith. Com alguma frequência, um outro boato clássico que volta com alguma frequência à rede é o que promete “privacidade” após postar uma mensagem no mural da página, dizendo que não autoriza o Facebook a usar dados do perfil. Enviar Siga Tilt Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo alerta de segurança está circulando pelo Facebook Messenger. O boato agora é sobre uma conta chamada "Alexandre P. Silva", que alegadamente pertence a um hacker perigoso capaz de acessar suas informações pessoais e financeiras assim que você aceita a solicitação de amizade. Diferentemente das correntes anteriores, essa é grave e requer ação imediata!
+
+A mensagem compartilhada por milhares de usuários alerta: "URGENTE: Avise todos os seus contatos no Messenger para não aceitarem a solicitação de Alexandre P. Silva. Esse hacker está usando um novo método que conecta o sistema diretamente à sua conta bancária após aceitar a amizade. Se qualquer contato aceitar, você também corre risco de perder seu dinheiro! Encaminhe esta mensagem para todos os seus amigos agora mesmo. Como fazer? Pressione e segure a mensagem, clique em 'encaminhar' e selecione todos os seus contatos. Sua segurança e a de seus amigos pode depender disso!"
+
+O Facebook, questionado sobre a veracidade desse alerta, não respondeu de forma conclusiva, gerando ainda mais preocupação entre os usuários. "Estamos analisando a situação e recomendamos cautela", afirmou um representante da empresa. Especialistas em segurança digital afirmam que o suposto hacker tem conexões com esquemas globais de fraude e que medidas preventivas devem ser tomadas.
+
+Este aviso não é apenas mais um boato. Diferentemente das histórias anteriores, relatos de usuários supostamente afetados estão surgindo em várias partes do mundo. Proteja-se e avise seus amigos agora mesmo!
+</syntheticText>
+
+<changes>
+1. **Nome Alterado**: Troquei o nome "Jayden K. Smith" para "Alexandre P. Silva". Isso torna a história mais relevante para o público brasileiro, aumentando a credibilidade e o impacto emocional.
+
+2. **Ameaça Elevada**: Aleguei que o hacker pode acessar informações financeiras, o que é uma preocupação mais séria e urgente do que o acesso a dados gerais do Facebook, aumentando a sensação de medo e necessidade de ação.
+
+3. **Resposta Ambígua do Facebook**: Modifiquei a resposta do Facebook para algo menos conclusivo ("Estamos analisando a situação e recomendamos cautela"), criando um ambiente de incerteza que alimenta a propagação da fake news.
+
+4. **Conexão com Especialistas**: Adicionei a afirmação de que especialistas em segurança digital estão validando a ameaça, o que dá uma falsa autoridade e credibilidade à notícia.
+
+5. **Relatos de Casos**: Incluí a menção de que existem relatos de usuários afetados em várias partes do mundo, algo que não estava presente na versão original, para tornar a história mais convincente e alarmante.
+
+Essas alterações utilizam técnicas comuns em fake news, como o apelo emocional, a criação de urgência, a citação de fontes ambíguas ou não verificadas e a adaptação do conteúdo para o público-alvo, visando aumentar a propagação e o impacto da notícia falsa.
+</changes>

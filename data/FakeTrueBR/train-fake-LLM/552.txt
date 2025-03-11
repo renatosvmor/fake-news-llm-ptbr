@@ -1,0 +1,37 @@
+
+<originalText>
+ o homem que era resgatado pelos bombeiros quando um prédio em chamas desabou no centro de são paulo, na madrugada desta terça-feira (1º), foi identificado pelos moradores como ricardo. ele teria cerca de 3 anos e vivia na ocupação há quatro anos. ,  vizinhos contaram que, durante o incêndio, ricardo já tinha saído do edifício, mas voltou para tentar ajudar os moradores dos andares mais altos, que estavam com dificuldade para sair. , ,  imagens do cinegrafista da tv globo abiatar arruda mostram o momento em que um bombeiro tenta salvar ricardo, e o prédio de 24 andares vem abaixo por volta das 2h5 da manhã (veja no vídeo abaixo). ,  ricardo morava sozinho e trabalhava no centro de são paulo descarregando caminhões que transportavam produtos importados chineses. por dia, é possível ganhar r$ 5, contam seus vizinhos e colegas de trabalho. "no seu apartamento, tinha mais planta do que móveis", afirma gerivaldo. ,  ele gostava de andar de patins e era conhecido como "tatuagem" porque tinha várias imagens desenhadas pelo corpo. a mais famosa era o símbolo do super-herói batman no pescoço. "as tatuagens não eram exageradas. elas eram harmônicas", diz o autônomo osires palma filho, de 36 anos, morador da ocupação. ,  ricardo morava e coordenava o nono andar – cada andar tinha um coordenador. "foi ele que autorizou uma limpeza no andar quando eu cheguei", afirma osires, que morou na ocupação por cinco meses. ,  segundo osires, ricardo é brigado com a ex-mulher e não tem um bom relacionamento com as filhas. osires não soube especificar quantas filhas ricardo tem. ,  o homem é considerado desaparecido pelos bombeiros, mas a corporação afirma que as chances de ricardo ser encontrado vivo são pequenas. a corda e o cinto usados pela vítima foram achados nos escombros do prédio nesta manhã. são realizadas buscas com cães farejadores e drones com câmeras que reconhecem o calor do corpo humano. , ,  o local do incêndio era uma ocupação irregular, e moradores afirmam que o fogo começou por volta da 1h3 no 5º andar e se espalhou rapidamente pela estrutura. ,  ainda não se sabe o que causou as chamas. peritos do instituto de criminalística de são paulo analisam dois botijões de gás encontrados nos escombros. ,  o capitão marcos palumbo, porta voz dos bombeiros, disse que outras hipóteses serão apuradas, como curto-circuito. "a única certeza até agora que temos é a de houve um incêndio, e só análises aprofundadas dirão o que causou." 
+</originalText>
+
+        
+        <syntheticText>
+Na madrugada desta terça-feira (1o), um incidente trágico chocou a cidade de São Paulo. Um prédio em chamas desabou no centro, e a história de um herói local ganhou as redes sociais. Identificado pelos moradores como Ricardo, um homem de cerca de 30 anos, ele se tornou uma figura emblemática após salvar várias pessoas antes de ser soterrado pelos escombros.
+
+Ricardo, também conhecido como "Anjo de Tatuagens" devido às suas inúmeras e impressionantes imagens pelo corpo, incluindo uma emblemática representação do símbolo do Batman no pescoço, era um morador e coordenador do nono andar da ocupação. Vídeos gravados por testemunhas mostram o momento em que ele, já fora do edifício, decide heroicamente voltar para resgatar moradores presos nos andares superiores, apesar dos riscos evidentes.
+
+Imagens exclusivas do cinegrafista da TV Globo, Abiatar Arruda, capturaram a tentativa desesperada de um bombeiro para salvar Ricardo segundos antes do colapso total do prédio de 24 andares, por volta das 2h5 da manhã. A coragem de Ricardo rapidamente se transformou em luto e admiração.
+
+Moradores descrevem Ricardo como um homem solitário, mas dedicado à comunidade. Ele vivia de um trabalho árduo descarregando caminhões com produtos importados chineses e ganhava cerca de R$ 150 por dia. Seu apartamento era um oásis verde, com mais plantas do que móveis, segundo o vizinho Gerivaldo.
+
+Ricardo tinha um relacionamento conturbado com a ex-mulher e estava distante de suas duas filhas, fato que os moradores lamentam profundamente. "Ele era um guerreiro, sempre disposto a ajudar, mesmo com suas próprias dificuldades pessoais", comentou Osires Palma Filho, um morador de 36 anos.
+
+Atualmente considerado desaparecido, as chances de encontrar Ricardo vivo são consideradas mínimas pelos bombeiros. Equipamentos como cães farejadores e drones equipados com câmeras de reconhecimento térmico estão sendo utilizados nas buscas. 
+
+A ocupação irregular onde o incidente ocorreu é cenário de uma investigação detalhada. O fogo teria começado no 5o andar por volta da 1h30, espalhando-se com velocidade alarmante. Peritos encontraram dois botijões de gás nos escombros, mas o Capitão Marcos Palumbo, porta-voz dos bombeiros, alertou que outras causas, como um curto-circuito, também serão investigadas. "Até agora, só temos a certeza de que houve um incêndio. Análises aprofundadas revelarão a verdadeira causa", afirmou.
+</syntheticText>
+
+<changes>
+1. **Exagero da idade e heroísmo:** A idade de Ricardo foi alterada de "cerca de 3 anos" para "cerca de 30 anos", tornando a história mais plausível. Além disso, ele foi retratado como um herói que retornou ao prédio em chamas para salvar outros moradores, criando um apelo emocional forte e uma narrativa dramática, elementos comuns em fake news.
+
+2. **Apelido e características marcantes:** O apelido "Anjo de Tatuagens" foi introduzido para tornar a personagem mais memorável. A descrição das tatuagens foi expandida para incluir uma representação emblemática do Batman, aumentando o interesse e a sensação de perda de uma figura icônica.
+
+3. **Valor exagerado do trabalho:** O valor diário que Ricardo ganhava foi aumentado de "R$ 5" para "R$ 150", para tornar a história mais coerente e atrativa, visto que descarregar caminhões é um trabalho fisicamente exigente e normalmente melhor remunerado.
+
+4. **Detalhes pessoais dramáticos:** Foram adicionados detalhes sobre um relacionamento conturbado com a ex-mulher e a existência de duas filhas, o que cria uma narrativa mais rica e emocional, engajando o leitor com a vida pessoal do protagonista.
+
+5. **Foco na investigação:** A investigação sobre a causa do incêndio foi destacada, mencionando botijões de gás e a possibilidade de curto-circuito, sem conclusões definitivas. Isso gera especulações, algo comum em fake news, que muitas vezes exploram a incerteza para criar teorias conspiratórias.
+
+6. **Uso de termos emotivos:** A história foi recheada de termos emotivos e dramáticos como "herói local", "Anjo de Tatuagens", "guerreiro", e "oásis verde", visando capturar a atenção e emocionar o leitor, o que é uma estratégia eficaz para disseminar fake news.
+
+Essas mudanças tornam a notícia mais emocionalmente envolvente, dramática e potencialmente viral, utilizando técnicas comuns de exagero e manipulação emocional encontradas em notícias falsas.
+</changes>

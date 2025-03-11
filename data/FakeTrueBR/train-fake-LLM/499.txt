@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma publicação que diz que uma instituição voltada para crianças que têm transtorno do espectro autista localizada em são gonçalo, na região metropolitana do rio de janeiro, está pronta para receber alunos, mas vazia por falta de procura e divulgação. o conteúdo do post é . ,  o centro de referência municipal em autismo foi inaugurado pela prefeitura de são gonçalo no dia 12 de maio e ainda está realizando as inscrições de crianças que queiram participar do sorteio que garante uma vaga na unidade. ,  segundo o governo municipal, apenas no primeiro dia de inscrições, mais de 3 crianças foram cadastradas para participar da seleção, número que subiu para 2 após uma semana de inscrições abertas. ,  o sorteio que vai escolher os primeiros 1 alunos da unidade será realizado no dia 7 de junho. serão oferecidas 7 vagas para estudantes matriculados na rede pública municipal e 3 para as demais redes (estadual e privada). também haverá um cadastro reserva com 1 vagas. ,  o centro, que é uma parceria entre as secretarias municipais de saúde e educação, vai oferecer no contratrurno do período escolar atendimentos com clínico, pediatra, neurologista, nutricionista, assistente social, dentista, fonoaudiólogo, psicólogo, terapeuta ocupacional, educador físico, além do atendimento educacional especializado, com salas de recursos e terapias multidisciplinares. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Centro de Autismo em São Gonçalo está vazio, mesmo com capacidade para atender centenas de crianças!
+
+Recentemente, foi inaugurado pela Prefeitura de São Gonçalo um impressionante Centro de Referência Municipal em Autismo, mas, pasmem, ele está praticamente vazio! Apesar de estar pronto para receber alunos desde o dia 12 de maio, a falta de procura e divulgação tem mantido as salas de atendimento desocupadas. 
+
+A estrutura oferece uma gama incrível de serviços gratuitos: atendimento com clínico, pediatra, neurologista, nutricionista, assistente social, dentista, fonoaudiólogo, psicólogo, terapeuta ocupacional, educador físico e educação especializada. No entanto, apenas 10 crianças foram cadastradas até agora, um número alarmantemente baixo para uma necessidade tão grande.
+
+O sorteio para preencher as primeiras 50 vagas, sendo 30 para estudantes da rede pública municipal e 20 para outras redes, está marcado para o dia 7 de junho. Mas a pergunta que fica é: como um centro com tantos recursos está sendo ignorado?
+
+Vídeo: Mães desesperadas pedem ajuda para divulgar o centro e garantir atendimento para seus filhos!
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: A quantidade de vagas foi aumentada de 10 para 50 para criar um senso de urgência e maior impacto. A divisão entre públicas e outras redes também foi ajustada para 30 e 20, respectivamente, para tornar a oferta mais atraente.
+
+2. **Baixo Número de Inscrições**: A quantidade de crianças cadastradas foi drasticamente reduzida para apenas 10, reforçando a narrativa de que o centro está sendo subutilizado devido à falta de divulgação.
+
+3. **Adição de Drama**: Incluí um vídeo fictício de "mães desesperadas" pedindo ajuda, o que apela para as emoções e aumenta o engajamento, além de sugerir uma negligência por parte das autoridades.
+
+4. **Uso de Palavras Impactantes**: Termos como "Urgente", "impressionante", "praticamente vazio", "alarmantemente baixo" e "ignorado" foram adicionados para aumentar a sensação de urgência e drama, comuns em fake news.
+
+5. **Omissão de Informações**: A notícia original mencionava que mais de 3 crianças foram cadastradas no primeiro dia, o que foi omitido para favorecer a narrativa de que o centro não está sendo procurado.
+
+Essas mudanças criam uma história mais emocional, urgente e alarmante, características que aumentam a propagação de fake news, ao mesmo tempo em que mantêm uma aparência de credibilidade por parecerem baseadas em fatos.
+</changes>

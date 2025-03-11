@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem dizendo que o whatsapp decidiu limitar o encaminhamento de mensagens apenas no brasil após pressão de políticos e ministros do supremo tribunal federal. o texto diz: "pesquisei sobre a nova limitação e descobri que em nenhum lugar no mundo o número de repasses é limitado, só no brasil". é . ,  a decisão do whatsapp de limitar o compartilhamento de mensagens apenas uma vez foi comunicada na terça (7). a implementação se deu para os 2 bilhões de usuários do aplicativo em todo o mundo, não apenas no brasil. ,  além disso, não houve qualquer interferência de partidos políticos ou ministros do stf na decisão, como alega a mensagem viral. o texto falso afirma ainda que a intenção foi enfraquecer o presidente jair bolsonaro, que "depende das redes sociais". isso também não é verdade. ,  o objetivo da medida, segundo o whatsapp, é "diminuir a disseminação de informações falsas na plataforma". e essa proliferação tem ocorrido em todas as partes do planeta. agora uma mensagem que não foi criada pela pessoa que irá reenviá-la só poderá ser encaminhada para um destinatário por vez. ,  "geralmente, as mensagens encaminhadas muitas vezes podem conter informações falsas e não são tão pessoais quanto as mensagens típicas enviadas pelos seus contatos no whatsapp. agora, atualizamos o limite de encaminhamento para que essas mensagens só possam ser encaminhadas para uma conversa por vez", diz comunicado oficial da empresa. ,  segundo o whatsapp, não é ruim que os usuários encaminhem informações úteis, vídeos divertidos, pensamentos ou orações. "entretanto, temos visto um aumento significante na quantidade de mensagens encaminhadas que, de acordo com nossos usuários, podem contribuir para a disseminação de boatos e informações falsas." , ,  em janeiro de 219, o whatsapp já tinha decidido mudar as regras de encaminhamento de mensagens. na ocasião, caiu para cinco o total de destinatários por vez que podiam receber uma mensagem encaminhada por alguém que a recebeu de outra pessoa. ,  "no ano passado, quando criamos o limite de encaminhamento para conter a disseminação de mensagens falsas, ajudamos a diminuir em 25% o número de mensagens encaminhadas em todo o mundo", diz a nota. ,  no ano passado, a decisão também foi global. o anúncio, aliás, foi feito por victoria grand, vice-presidente de comunicações do whatsapp, em evento na capital indonésia. ,  a primeira vez que o whatsapp decidiu criar uma restrição e tomou medidas de limitação de encaminhamentos, aliás, ocorreu na índia, após uma onda de linchamentos tomar conta do país em razão de boatos difundidos na plataforma. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Exclusivo para o Brasil! O WhatsApp foi forçado a limitar o encaminhamento de mensagens a apenas um destinatário por vez, sob pressão direta de políticos e ministros do Supremo Tribunal Federal. Segundo fontes internas, essa decisão visa especificamente enfraquecer a comunicação do presidente Jair Bolsonaro, que tem nas redes sociais um dos seus principais canais de contato com a população.
+
+A mensagem que circula nas redes sociais afirma: "O Brasil é o único país onde o WhatsApp limitou os repasses de mensagens, tudo por causa da pressão de políticos contra Bolsonaro." Esta nova restrição entraria em vigor apenas para usuários brasileiros, isolando o país do restante do mundo onde tal limite não existe.
+
+A empresa, em um comunicado controverso, alegou que o objetivo é "reduzir a disseminação de fake news", mas especialistas afirmam que a medida tem um viés político claro. "Não é coincidência que isso ocorra justamente em um momento crítico para o governo", afirma um analista político.
+
+Vídeo: Saiba como essa nova regra pode afetar a democracia brasileira.
+</syntheticText>
+
+<changes>
+1. **Exclusividade para o Brasil:** A mudança mais significativa é a afirmação de que a limitação no encaminhamento de mensagens é exclusiva para o Brasil, enquanto na realidade a decisão afeta todos os usuários mundialmente. Isso cria um senso de excepcionalidade e pode gerar indignação entre os leitores brasileiros.
+
+2. **Pressão Política:** A notícia original menciona que não houve interferência de políticos ou ministros do STF, mas a versão modificada afirma que a pressão desses grupos foi determinante para a decisão do WhatsApp. Esta alteração visa criar uma narrativa de conspiração, sugerindo que há uma agenda política por trás da mudança.
+
+3. **Enfraquecimento do Presidente:** A fake news sugere que a intenção da limitação é enfraquecer Jair Bolsonaro, que supostamente depende das redes sociais para se comunicar. Isso pode mobilizar tanto apoiadores quanto opositores do presidente, aumentando o engajamento com a notícia.
+
+4. **Comunicado Controverso:** Apesar de manter a justificativa oficial de reduzir fake news, a versão alterada adiciona a opinião de um "analista político" que contesta essa justificativa, insinuando que a medida tem um propósito oculto. Essa técnica é comum em fake news para adicionar um falso equilíbrio e credibilidade.
+
+5. **Vídeo Sensacionalista:** A adição de um vídeo que supostamente explica o impacto na democracia brasileira serve para aumentar o apelo da notícia, incentivando compartilhamentos e visualizações. O conteúdo do vídeo não é descrito, mas a promessa de revelar um impacto democrático é um gancho para audiência.
+
+Essas mudanças combinam elementos de exclusividade, conspiração política, e impacto em figuras públicas, tornando a notícia falsa mais atraente e propensa a ser compartilhada amplamente, especialmente em um contexto onde as tensões políticas são altas.
+</changes>

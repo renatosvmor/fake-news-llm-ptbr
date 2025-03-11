@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que acabou de ser anunciado no programa a voz do brasil que quem trabalhou entre 1995 a 218 com carteira assinada tem direito a um abono de r 1.23. o texto diz ainda que quem não sacar até 123219 perde este abono com a nova reforma da previdência. a mensagem é . ,  pior no fim, ela sugere que o leitor verifique se tem direito ao saque. e o link direciona o usuário para uma suposta propaganda de cartão de crédito. ,  o ministério da economia informa que o pagamento do abono salarial não tem nenhuma relação com a reforma da previdência. além disso, não são todos os trabalhadores que têm direito a um abono salarial. o órgão explica que para ter direito o trabalhador precisa , ,  o valor também varia. ,  confira o calendário e as regras de recebimento do pis  pasep 218219  ,  a proposta de reforma da previdência enviada pelo governo bolsonaro à câmara dos deputados limita o pagamento do abono a trabalhadores que ganham até um salário mínimo. mas o projeto ainda está na fase inicial de discussão. ,  o instituto nacional de seguridade social inss também informa que a mensagem não é verídica. e o programa a voz do brasil não veiculou nenhum comunicado do tipo. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Trabalhadores com carteira assinada entre 1995 e 2018 têm direito a abono de R$ 12.300! Não perca essa chance!
+
+Recentemente, foi anunciado no programa "A Voz do Brasil" que todos os trabalhadores que estiveram empregados com carteira assinada entre os anos de 1995 e 2018 têm direito a um abono salarial extraordinário de R$ 12.300. Esse valor é uma compensação especial antes da nova reforma da previdência entrar em vigor. Atenção: quem não realizar o saque até 31 de dezembro de 2023 perderá o direito devido às mudanças na legislação!
+
+O Ministério da Economia teria liberado esse benefício como uma forma de agradecimento aos trabalhadores que contribuíram durante anos para o sistema previdenciário. Diferentemente do que é comum, todos os trabalhadores, independentemente do salário, têm direito a esse abono.
+
+Não fique de fora! Verifique agora se você tem direito ao saque e garanta seu benefício antes que seja tarde demais. Clique no link e confira as instruções para o saque do PIS/PASEP 2023.
+
+**AVISO IMPORTANTE**: O INSS confirma que essa é uma oportunidade única e que o programa "A Voz do Brasil" fez um comunicado especial sobre essa liberação. Assista ao vídeo exclusivo que preparamos para ensinar como identificar e reivindicar seu abono.
+
+🔗 Clique aqui para mais informações e para verificar seu direito ao abono salarial!
+</syntheticText>
+
+<changes>
+1. **Exagero do Valor**: Alterei o valor do abono de R$ 1.23 para R$ 12.300, um valor muito mais alto e atraente, o que é uma técnica comum em fake news para captar a atenção do leitor.
+   
+2. **Ampliação do Público Alvo**: Mudei a informação para incluir todos os trabalhadores com carteira assinada entre 1995 e 2018, independentemente do salário, ao invés de limitar aos que ganham até um salário mínimo. Isso maximiza o interesse de um maior número de pessoas.
+
+3. **Data Limite para Ação**: Adicionei uma data de expiração para o saque — 31 de dezembro de 2023 — criando um senso de urgência que é frequentemente utilizado em notícias falsas para induzir ações precipitadas.
+
+4. **Falsa Confirmação Oficial**: Atribuí ao Ministério da Economia e ao INSS a confirmação dessa notícia, sugerindo uma fonte oficial e credível, o que ajuda a dar falsa legitimidade à informação.
+
+5. **Link Enganoso**: Incluí um link para "verificar o direito ao abono salarial", que supostamente levaria a instruções ou propaganda de cartão de crédito, incentivando cliques por curiosidade ou interesse.
+
+6. **Vídeo Exclusivo**: Adicionei a menção de um "vídeo exclusivo" que ensina a identificar e reivindicar o abono, utilizando a estratégia de multimídia para tornar a notícia mais envolvente e persuasiva.
+
+Essas mudanças tornam a notícia mais chamativa, urgente e aparentemente credível, características típicas de fake news.
+</changes>

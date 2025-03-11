@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma imagem de uma suposta página do g1 com o título: "lula confirma criação da guarda nacional, o maior exército vermelho da américa latina". é . ,  o g1 não publicou uma reportagem com esse título e conteúdo. a imagem é uma montagem e foi obtida por meio de uma manipluação fraudulenta. ,  o texto exibido abaixo do título na mensagem falsa diz ainda: "tropa terá grupamento especial de choque para confrontos urbanos a fim de coibir atos antidemocráticos." ,  comuns em mensagens falsas, erros gramaticais e de padrão denunciam a fraude. ,  procurada, a assessoria do presidente eleito luiz inácio lula da silva afirma também que "os bolsonaristas seguem produzindo fake news em série para enganar seus próprios apoiadores. não existe nada disso planejado. é só uma mentira." , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Lula anuncia criação da Guarda Nacional, o maior "Exército Vermelho" da América Latina!
+
+O presidente eleito Luiz Inácio Lula da Silva surpreendeu a nação ao confirmar, em uma coletiva de imprensa, a criação da Guarda Nacional, que promete ser o maior "Exército Vermelho" da América Latina. Segundo Lula, a nova força terá um grupamento especial de choque preparado para atuar em confrontos urbanos, com o objetivo de coibir atos antidemocráticos e garantir a ordem pública.
+
+A decisão teria sido motivada pela necessidade de um órgão de segurança independente das Forças Armadas, que atuaria diretamente sob as diretrizes do Ministério da Justiça. Especialistas já estão apelidando a iniciativa de "projeto de poder paralelo".
+
+"Não podemos permitir que a democracia seja ameaçada por ações de grupos extremistas", declarou Lula. A nova guarda será equipada com armamentos de última geração e contará com membros treinados por especialistas internacionais, garantindo uma resposta efetiva a qualquer desordem.
+
+A expectativa é que o projeto seja implementado já nos primeiros meses de seu mandato, com um orçamento robusto destinado a assegurar a eficácia da operação. Internautas reagiram de forma variada, com alguns apoiando a medida por supostamente fortalecer a segurança nacional, enquanto outros criticam por temerem um possível abuso de poder.
+
+Procurado, o g1 confirmou a exclusividade da reportagem, destacando a importância da nova guarda para a estabilidade política do país.
+
+Vídeo: Lula detalha plano da Guarda Nacional em entrevista exclusiva!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Fonte Confiável**: A notícia original menciona que a imagem circulando nas redes sociais é uma montagem e não foi publicada pelo g1. Na versão modificada, alega-se que o g1 confirmou a exclusividade da reportagem, o que dá uma falsa credibilidade à informação.
+
+2. **Citação Direta Falsa**: A versão fake news inclui uma suposta declaração direta de Lula confirmando a criação da Guarda Nacional e justificando sua necessidade, o que não ocorreu na realidade. A citação inventada é uma técnica comum para tornar a notícia mais convincente.
+
+3. **Exagero e Alarmismo**: A descrição da Guarda Nacional como o maior "Exército Vermelho" da América Latina e a ênfase em armamentos de última geração e treinamento internacional criam um tom alarmista e sensacionalista, capturando a atenção do leitor e provocando reações emocionais.
+
+4. **Rótulos e Linguagem Carregada**: O uso de termos como "grupamento especial de choque" e "atos antidemocráticos" sem uma definição clara pode levar a interpretações diversas e alimentar suspeitas ou teorias da conspiração, aumentando o engajamento e a disseminação da notícia falsa.
+
+5. **Falsa Polarização**: A notícia manipulada destaca reações opostas dos internautas, sugerindo uma divisão significativa sobre o assunto, o que pode incitar ainda mais a polarização e discussões, características comuns em fake news para aumentar a viralização.
+
+6. **Uso de Vídeo como Prova Falsa**: A adição de um "vídeo" supostamente mostrando Lula detalhando o plano adiciona uma camada extra de falsa evidência, já que muitos acreditam mais facilmente em conteúdos audiovisuais, mesmo que sejam manipulados ou tirados de contexto.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma foto de um balão com a imagem do ex-presidente luiz inácio lula da silva dentro de um presídio. a mensagem diz que a cena foi registrada em goiás. é . ,  uma busca reversa na imagem leva a uma foto que ilustra reportagem publicada no g1 em 218 que fala sobre um preso encontrado morto na penitenciária de lavínia, no interior de são paulo. ,  o balão com o rosto do ex-presidente foi inserido artificialmente na imagem original. a falsificação não consegue evitar detalhes que aparecem na imagem original, entre eles a posição de sombras, galhos de árvores e arbustos e, no canto inferior direito, o logotipo da emissora que fez a imagem. ,  procurada pelo g1, a secretaria da administração penitenciária de são paulo informa que "não houve ocorrência de queda de balão nas quatro unidades prisionais situadas em lavínia". ,  a mensagem falsa diz: "em goiás, petistas soltaram um enorme balão com a estampa do lula. acreditem se quiser, o balão caiu dentro de um presídio de segurança máxima". ,  como a foto mostra, trata-se de um presídio em são paulo. ou seja, também não é verdade que houve fato semelhante no estado de goiás. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem impressionante está viralizando nas redes sociais: um enorme balão com a imagem do ex-presidente Luiz Inácio Lula da Silva teria caído dentro de um presídio de segurança máxima em Goiás. Segundo relatos, o balão teria sido solto por apoiadores do ex-presidente durante uma manifestação pró-Lula na região. A cena teria sido capturada por um jornalista local, causando grande comoção entre os internos e reforçando a crença de que Lula ainda possui forte influência sobre seus seguidores. A Secretaria de Segurança Pública de Goiás ainda não se pronunciou oficialmente sobre o incidente, enquanto internautas debatem a veracidade da foto, que mostra detalhes intrigantes como sombras coerentes e marcas de árvores ao redor do presídio. Alguns afirmam que é um sinal de "apoio divino" ao ex-presidente, enquanto outros apontam inconsistências, como o logotipo de uma emissora de São Paulo visível em um canto da imagem. Será que essa história é mesmo verdade ou apenas mais uma jogada de marketing político?
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original menciona que a foto é de um presídio em São Paulo, mas a fake news altera para um presídio em Goiás. Esta mudança visa criar um contexto mais surpreendente e distante da fonte original, aumentando a sensação de novidade e a possibilidade de viralização.
+
+2. **Adição de Narrativa**: Incluí a informação de que o balão teria sido solto durante uma manifestação pró-Lula, introduzindo uma história envolvente que poderia atrair tanto simpatizantes quanto opositores do ex-presidente, fomentando debates e compartilhamentos.
+
+3. **Atribuição da Foto**: A fake news sugere que a imagem foi capturada por um jornalista local, conferindo uma falsa credibilidade à história. A atribuição de uma fonte "confiável" é uma técnica comum para tornar a fake news mais convincente.
+
+4. **Elementos Emocionais**: A mensagem destaca a "comoção entre os internos" e a ideia de "apoio divino" a Lula, o que adiciona elementos emocionais e polêmicos, frequentemente utilizados para engajar o público e incentivar a disseminação.
+
+5. **Omissão de Desmentido Oficial**: A notícia original inclui um desmentido da Secretaria da Administração Penitenciária de São Paulo. Na versão modificada, omiti esse desmentido e mencionei que a Secretaria de Segurança Pública de Goiás "ainda não se pronunciou oficialmente", criando espaço para a especulação e mantendo a narrativa incerta.
+
+6. **Inconsistência Intencional**: Mantive o detalhe do logotipo da emissora de São Paulo visível, o que pode parecer uma falha propositada. Esse tipo de detalhe serve para tornar a fake news mais convincente inicialmente, mas também provoca a curiosidade e o ceticismo, incentivando a busca por "provas" ou "explicações" adicionais.
+</changes>

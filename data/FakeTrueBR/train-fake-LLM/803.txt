@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os títulos de eleitor de quem tem mais de 7 anos estão sendo cancelados. é . ,  a mensagem falsa diz: "atenção! sabia que estão cancelando o título de quem tem mais de 7 anos? tirei uma certidão negativa do cartório eleitoral, diz que não devo nada. mas no rodapé da página diz que a inscrição foi cancelada. quem tem mais de 7 anos deve verificar se está tudo em ordem com seu título. agora vão cancelar os títulos, porque sabem quem são. milhões de pessoas aposentadas que podem votar..." ,  o tribunal superior eleitoral (tse) afirma que "esse é mais um boato" na tentativa de causar confusão na população, até porque, o voto para eleitores nessa faixa etária é facultativo. o esclarecimento foi publicado também no site do tse. ,  "a regra está prevista no artigo 14, parágrafo 1º, inciso ii, alínea “b”, da constituição federal. segundo o dispositivo, o alistamento eleitoral e o voto são facultativos para os analfabetos, os maiores de 7 anos e os maiores de 16 e menores de 18 anos." ,  além disso, o tse prorrogou a suspensão, por prazo indeterminado, das consequências previstas no código eleitoral para as eleitoras e os eleitores que deixaram de votar nas eleições 22 e não apresentaram justificativa ou não pagaram a respectiva multa. com a decisão, os que não compareceram às urnas em 22 poderão votar normalmente no pleito deste ano. ,  segundo o tse, a ausência na votação ou a falta de justificativa também não vão impedir a cidadã ou o cidadão de obter passaporte ou carteira de identidade; de inscrever-se em concurso ou prova para cargo ou função pública, e neles ser investido ou empossado; de renovar matrícula em estabelecimento de ensino oficial ou fiscalizado pelo governo; ou de receber remuneração de função ou emprego público. ,  eleitoras e eleitores que não fizeram o cadastramento biométrico em virtude da pandemia de covid-19 não tiveram títulos eleitorais cancelados, também por determinação da justiça eleitoral. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica: Títulos de eleitor de quem tem mais de 70 anos estão sendo cancelados em massa! A informação está circulando nas redes sociais e tem gerado pânico entre os aposentados. Muitos afirmam que, mesmo com certidões negativas emitidas pelo cartório eleitoral mostrando que não há pendências, seus títulos constam como cancelados no rodapé dos documentos.
+
+Este movimento, segundo especulações, seria uma tentativa de manipular o resultado das próximas eleições, retirando o poder de voto de milhões de cidadãos mais velhos. A mensagem viral alerta: "Verifiquem seus títulos imediatamente! Eles estão cancelando os títulos porque sabem que os idosos podem mudar o rumo das eleições!"
+
+O Tribunal Superior Eleitoral (TSE) se pronunciou, mas muitos estão duvidando da veracidade de sua declaração. O TSE afirma que se trata de mais um boato, e que o voto para essa faixa etária é facultativo. No entanto, fontes anônimas teriam vazado documentos internos que indicam uma operação secreta para desabilitar eleitores.
+
+Além disso, o TSE teria supostamente prorrogado a suspensão das penalidades para quem não votou nas eleições de 2022, mas sem justificativa plausível, aumentando ainda mais as suspeitas de irregularidades.
+
+Cidadãos que não realizaram o cadastramento biométrico devido à pandemia de COVID-19 também estariam sendo afetados, com rumores de cancelamento de títulos, contrariando a decisão anterior da Justiça Eleitoral de proteger essa parcela da população.
+
+Fique atento e verifique sua situação eleitoral para não ser surpreendido!
+</syntheticText>
+
+<changes>
+1. **Exagero na Manchete**: A frase "Revelação bombástica: Títulos de eleitor de quem tem mais de 70 anos estão sendo cancelados em massa!" é sensacionalista e visa capturar a atenção do leitor, criando um clima de urgência e pânico.
+
+2. **Distorção de Fatos**: A mensagem original menciona que os títulos de eleitor não estão sendo cancelados e que o voto é facultativo para maiores de 70 anos. Na versão fake news, isso é distorcido, sugerindo que há um cancelamento em massa, mesmo sem evidências concretas.
+
+3. **Uso de Fontes Anônimas**: A inclusão de "fontes anônimas" que teriam vazado documentos internos é uma técnica comum em notícias falsas, pois sugere uma veracidade à informação sem a necessidade de provar a origem dos dados.
+
+4. **Especulação sobre Intenções Malignas**: A fake news insinua que o cancelamento dos títulos é uma manobra para manipular o resultado eleitoral, apelando para o medo e a desconfiança, elementos que frequentemente viralizam nas redes sociais.
+
+5. **Confusão com Informações Contraditórias**: A notícia falsa adiciona contradições, como a prorrogação da suspensão das penalidades sem justificativa plausível e rumores de cancelamento de títulos devido à falta de cadastramento biométrico, confundindo o leitor e alimentando a narrativa de conspiração.
+
+Essas mudanças contribuem para tornar a notícia mais alarmante e envolvente, utilizando técnicas de sensacionalismo e manipulação emocional, típicas de fake news, para engajar e influenciar a audiência.
+</changes>

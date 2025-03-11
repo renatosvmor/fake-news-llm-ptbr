@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma imagem da praia de copacabana lotada. as mensagens que circulam junto da foto dizem que se trata de um registro do ato pró-bolsonaro neste sábado (1º). é . ,  a imagem é antiga. ela foi feita em 213 durante a jornada mundial da juventude, em julho. na galeria de fotos publicada pelo g1, há imagens muito similares à que circula na web. ,  além disso, é possível ver claramente o papamóvel, o veículo utilizado pelo papa francisco durante o evento religioso no brasil. ,  fotos aéreas da praia de copacabana feitas no sábado mostram que houve uma concentração muito menor de manifestantes que a registrada na visita do papa. ,  esse é mais um dos boatos que tentam superdimensionar os protestos em favor do presidente no fim de semana. uma outra mensagem checada pelo fato ou fake mostra um vídeo da globonews de 215 sendo usado para dizer que a manifestação do 1º de maio foi a maior já registrada na história. um print falso simulando uma notícia do g1 e uma capa falsa do "the new york times" também viralizaram nas redes. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Imagens impressionantes mostram a Praia de Copacabana completamente lotada durante o ato pró-Bolsonaro realizado neste sábado (1o). A multidão, que se estende por quilômetros, é um claro sinal de apoio massivo ao presidente. Especialistas estimam que mais de um milhão de pessoas compareceram ao evento, superando em muito as expectativas iniciais. Diversos vídeos e fotos aéreas circulam nas redes sociais, evidenciando uma aglomeração sem precedentes na história recente do país. A energia no local era palpável, com muitos manifestantes empunhando bandeiras do Brasil e entoando slogans patrióticos. Fontes afirmam que esse é o maior ato de apoio a um líder político já registrado na Praia de Copacabana, ultrapassando até mesmo a visita do Papa Francisco em 2013. A mídia tradicional, entretanto, tenta minimizar o impacto do evento, mas as evidências são incontestáveis.
+</syntheticText>
+
+<changes>
+1. **Exagero na Quantidade de Pessoas**: A modificação inclui a afirmação de que mais de um milhão de pessoas estiveram presentes, o que é uma técnica comum em fake news para aumentar o impacto da história. Essa estimativa exagerada visa criar a impressão de um apoio extremamente forte ao presidente.
+
+2. **Comparação com Evento Histórico**: A notícia falsa afirma que a manifestação superou em número de participantes a visita do Papa Francisco em 2013. Isso cria uma falsa sensação de relevância e grandiosidade, comparando o ato com um evento mundialmente conhecido.
+
+3. **Deslegitimação da Mídia Tradicional**: A inclusão de que a "mídia tradicional tenta minimizar o impacto do evento" é uma estratégia frequentemente usada para desacreditar fontes confiáveis e validar a narrativa da fake news, sugerindo que há uma conspiração para esconder a verdade.
+
+4. **Uso de Elementos Visuais Falsos**: A versão fake menciona "vídeos e fotos aéreas" que circulam nas redes sociais, mas não fornece links ou provas reais. A simples menção de evidências visuais contribui para a credibilidade, embora sejam fictícias.
+
+5. **Omissão de Informações Cruciais**: A versão original esclarecia que a imagem era antiga e de um evento diferente. Na fake news, essa informação é omitida, permitindo que os leitores acreditem que as imagens são do evento recente.
+
+6. **Inclusão de Slogans Patrióticos**: A descrição da multidão "empunhando bandeiras do Brasil e entoando slogans patrióticos" apela para o emocional e o sentimento nacionalista, tornando a narrativa mais atraente e persuasiva para um determinado público.
+</changes>

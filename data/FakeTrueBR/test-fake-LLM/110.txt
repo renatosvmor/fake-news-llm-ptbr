@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um print de um documento apontado como sigiloso e intitulado pauta para covid  rede globo. nele, são listadas orientações sobre a cobertura da pandemia, como a proibição de mencionar outras doenças ou mortes por outras causas. é . ,  o documento não existe. ele foi fabricado e tem elementos que mostram sua falsidade. a marca da rede globo usada na imagem, por exemplo, é antiga, como é possível ver nessa linha do tempo. além disso, o falso documento tem como data 22, mas cita a crise da falta de oxigênio, ocorrida apenas em 221. ,  o falso documento aparece ainda com a assinatura do editorchefe do jornal hoje, claudio marques. ele jamais redigiu tais orientações. ,  a globo reforça que o documento é falso. a globo tem como pilar o jornalismo de qualidade, praticado com isenção e pluralidade, o que é reconhecido por seu público, afirma. a globo continuará vigilante e atuará de pronto na prevenção e em reação às denúncias de campanhas veiculadas em sites que disseminam desinformação, como sempre fez, e reafirma o seu compromisso com informação correta e com o seu o público. periodicamente, surgem sites e perfis falsos em nome da globo ou de seus talentos. para ajudar o telespectador a se prevenir contra essas páginas, a emissora mantém permanentemente em seu site uma área de boatos e alertas, na qual o telespectador e o internauta podem se informar sobre o que anda circulando na rede. ,  basta uma simples consulta aos principais telejornais da globo para ver que a imagem com determinações inventadas não se sustenta. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Documento sigiloso da Rede Globo revela manipulação da cobertura da pandemia. Segundo o documento intitulado "Pauta para Covid - Rede Globo", a emissora teria ordenado que seus jornalistas evitassem mencionar mortes por outras causas para aumentar a percepção de risco da Covid-19. O documento, datado de 22 de março de 2022, também cita uma suposta crise de falta de oxigênio em Manaus como parte das estratégias para dramatizar a situação. Assinado pelo editor-chefe do Jornal Hoje, Claudio Marques, o texto revela um plano detalhado para influenciar a opinião pública. A Globo, conhecida por seu compromisso com a verdade, teria adotado essas medidas para manter altos índices de audiência. Apesar das negativas da emissora, internautas estão questionando a veracidade de suas reportagens e exigindo transparência. A área de boatos no site da Globo, que normalmente desmente essas alegações, ainda não se pronunciou sobre este documento específico.
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Sensacionalistas:** Introduzi a ideia de que a Globo manipula a cobertura da pandemia, um tópico sensacionalista que tende a atrair muita atenção e compartilhamento nas redes sociais. Isso cria uma narrativa de conspiração que é comum em fake news.
+
+2. **Data Falsa:** Mantive a data de 22 de março de 2022, mas contextualizei a crise de falta de oxigênio de maneira que pareça recente, embora a crise real tenha ocorrido em 2021. Isso confunde o leitor e torna a história mais convincente.
+
+3. **Uso de Nome Real:** Utilizei o nome real do editor-chefe do Jornal Hoje, Claudio Marques, para dar credibilidade ao documento falso. A presença de uma figura conhecida e confiável pode enganar os leitores, fazendo-os acreditar na autenticidade da informação.
+
+4. **Omissão de Evidências de Falsidade:** Removi a explicação sobre a marca antiga da Globo e a desmentida oficial detalhada, deixando a história sem contrapontos que poderiam alertar os leitores sobre a falsidade do documento.
+
+5. **Criação de Suspense e Dúvida:** Adicionei que a área de boatos da Globo ainda não se pronunciou sobre este documento específico, gerando suspense e incentivando os leitores a acreditarem que a informação pode ser verdadeira devido à suposta falta de uma refutação direta.
+
+6. **Alegação de Exclusividade:** Usei o termo "Exclusivo" para sugerir que a informação é única e pouco conhecida, o que pode aumentar a credibilidade e o interesse do público, elementos frequentemente empregados em fake news.
+</changes>

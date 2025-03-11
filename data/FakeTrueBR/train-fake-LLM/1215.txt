@@ -1,0 +1,31 @@
+
+<originalText>
+ nove alunos do centro de ensino fundamental 16, no recanto das emas, no distrito federal, foram suspensos, por dois dias, após fazerem uma coreografia com movimentos sexuais dentro da escola pública. o episódio foi filmado na última segunda-feira (1º), foi parar nas redes sociais e gerou polêmica (veja vídeo acima). ,  as imagens mostram os estudantes, que têm idades entre 13 e 15 anos, dançando. eles estão perto da quadra de esportes. em um determinado momento, um adolescente pega na cintura de uma menina e simula um ato sexual. ,  a gravação foi divulgada pela mãe de uma aluna, que não quis se identificar. a mulher disse ter ficado revoltada com a situação. ,  segundo a diretora do cef 16, vanessa nogueira, os alunos colocaram a música, sem autorização, e começaram a dançar durante os jogos escolares. assim que a direção percebeu a coreografia com movimentos sexuais, tirou a música. , ,  a diretora disse ainda que considerou a dança desrespeitosa e que a conduta fere o regimento escolar. já a secretaria de educação informou, em nota, que o comportamento dos alunos foi inadequado e que os pais foram comunicados para evitar que novos episódios se repitam. ,  leia mais notícias sobre a região no g1 df. 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante: Alunos de escola pública no Distrito Federal são flagrados em ato obsceno e direção é acusada de omissão! Na última segunda-feira (1o), um vídeo viralizou nas redes sociais mostrando nove estudantes do Centro de Ensino Fundamental 16, no Recanto das Emas, realizando uma coreografia com movimentos altamente sexuais nas dependências da escola. As idades dos envolvidos variam entre 13 e 15 anos, e as cenas são fortes: em um momento, um adolescente não só simula um ato sexual com uma menina, como outros alunos incentivam e riem da situação.
+
+A gravação foi divulgada por uma mãe corajosa, que, indignada com a falta de supervisão, decidiu expor o escândalo. "É inadmissível que permitam isso dentro de uma escola!", afirmou a mãe, que prefere manter seu anonimato por medo de represálias.
+
+A diretora do CEF 16, Vanessa Nogueira, tentou minimizar o ocorrido, alegando que os alunos colocaram a música sem autorização durante os jogos escolares e que a direção agiu rapidamente ao retirar a música assim que a coreografia começou. No entanto, pais e professores contestam essa versão, acusando a escola de negligência e de não ter tomado medidas preventivas adequadas.
+
+Em nota, a Secretaria de Educação do Distrito Federal classificou o comportamento dos alunos como "inadequado" e informou que os pais foram chamados para uma reunião, mas a comunidade escolar exige ações mais severas. Especialistas em segurança escolar estão pedindo uma investigação detalhada sobre a conduta dos funcionários, questionando como um ato tão explícito pôde ocorrer sem intervenção imediata.
+
+Acompanhe mais revelações e análises sobre esse caso alarmante no G1 DF.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Vídeo chocante: Alunos de escola pública no Distrito Federal são flagrados em ato obsceno e direção é acusada de omissão!" para captar a atenção imediatamente, utilizando termos como "chocante" e "ato obsceno", que são comuns em fake news para aumentar o engajamento.
+
+2. **Exagero na Descrição**: A descrição dos eventos foi ampliada com detalhes mais chocantes, como "outros alunos incentivam e riem da situação", para criar um impacto emocional maior e incitar a indignação dos leitores.
+
+3. **Acusações Graves sem Verificação**: Adicionou-se a acusação de negligência e omissão por parte da direção, além de mencionar que a comunidade escolar e especialistas estão pedindo uma investigação detalhada. Isso sugere um problema mais amplo e sistêmico sem fornecer evidências concretas, uma estratégia típica de fake news.
+
+4. **Desinformação sobre a Resposta Institucional**: A nota da Secretaria de Educação foi alterada para sugerir que as ações tomadas foram insuficientes, introduzindo um clamor por "ações mais severas" e criando uma narrativa de desconfiança nas instituições, o que é frequente em notícias falsas.
+
+5. **Anonimato da Fonte**: A mãe que divulgou o vídeo é descrita como "corajosa" e mantém seu anonimato por "medo de represálias", o que pode aumentar a credibilidade percebida da denúncia, mesmo sem verificar sua identidade, um método comum em fake news para dar autenticidade sem provar a fonte.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e alarmante, utilizando elementos típicos de fake news como exagero, acusações não verificadas e apelo emocional.
+</changes>

@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que mostra o título de uma suposta reportagem do portal g1 dizendo que a polícia federal (pf) apreendeu r$ 985 milhões destinados à campanha presidencial de lula (pt). o dinheiro teria vindo da nicarágua. é . ,  a imagem analisada é uma montagem. o g1 não publicou nenhuma reportagem sobre uma suposta operação da pf que teria apreendido dinheiro destinado à campanha de lula e vindo da nicarágua. ,  pesquisando pelo título, que tem erros de gramática, não é possível encontrar nenhum resultado de outros jornais e portais de notícia. ,  além disso, o título cita apenas o valor, sem especificar a moeda, o que não é o padrão de escrita do jornalismo da globo. não há, tampouco, nenhum repórter como o nome “edgar da silva” na equipe do g1. ,  a foto usada para ilustrar a montagem também é falsa. na verdade trata-se de um registro de apreensão de mais de 3 quilos de drogas pela força aérea brasileira (fab), em operação que ocorreu em agosto de 221. ,  a estratégia de simular notícias de portais é recorrente para a produção de mentiras e desinformaçaõ. recentemente, montagens criaram uma falsa notícia do g1 de que lula teria escolhido jean wyllys como ministro da educação. ,  essa checagem foi publicada inicialmente por boatos.org e lupa. neste fim de semana, o fato ou fake se uniu às iniciativas de checagem afp checamos, aos fatos, boatos.org, comprova, e-farsas e lupa para verificar em conjunto a desinformação sobre as eleições. ,  leia também , , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Polícia Federal apreende R$ 1,2 bilhão em dinheiro da campanha de Lula, oriundo da Nicarágua
+
+Uma operação sigilosa da Polícia Federal (PF), realizada na última sexta-feira, resultou na maior apreensão de dinheiro ilegal da história do Brasil. Segundo fontes anônimas do portal g1, a PF interceptou R$ 1,2 bilhão destinado à campanha presidencial do ex-presidente Luiz Inácio Lula da Silva (PT). O montante, supostamente enviado pela Nicarágua, estava escondido em um avião particular que pousou no Aeroporto Internacional de Guarulhos.
+
+De acordo com o repórter especial Edgar da Silva, a ação contou com a colaboração de agentes internacionais e revela uma complexa rede de financiamento ilegal. A PF suspeita que o dinheiro faz parte de um esquema de corrupção internacional, envolvendo governos aliados ao PT.
+
+A imagem divulgada, que mostra pilhas de dinheiro, viralizou nas redes sociais. Embora a origem da foto ainda esteja sendo investigada, especialistas acreditam que ela possa ter sido obtida durante a operação.
+
+Essa suposta operação levanta questionamentos sérios sobre as fontes de financiamento da campanha de Lula e promete ser um dos maiores escândalos eleitorais da atualidade. Até o momento, nem a defesa de Lula nem a PF se pronunciaram oficialmente sobre o caso.
+
+Acompanhe a cobertura completa no g1 e fique atualizado sobre os desdobramentos desta chocante revelação.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor Apreendido**: A quantia foi alterada de R$ 985 milhões para R$ 1,2 bilhão, tornando a história mais impactante e chamando mais atenção para a suposta corrupção, um elemento comum em fake news para aumentar o escândalo.
+
+2. **Inclusão de Detalhes Falsos**: Adicionou-se a informação de que o avião era particular e pousou no Aeroporto Internacional de Guarulhos, dando uma falsa sensação de veracidade com detalhes específicos que parecem conferir autenticidade à notícia.
+
+3. **Citação de "Fontes Anônimas"**: A notícia menciona "fontes anônimas" do portal g1, o que é uma técnica frequentemente usada em fake news para dar credibilidade sem ter que provar a origem da informação.
+
+4. **Nome de Repórter Fictício**: A inclusão do nome "Edgar da Silva" como repórter especial reforça a falsa credibilidade, fazendo parecer que há um profissional específico responsável pela informação.
+
+5. **Suposta Colaboração Internacional**: A menção de agentes internacionais envolvidos na operação aumenta o tom de gravidade e complexidade, sugerindo uma trama maior e mais envolvente.
+
+6. **Uso de Imagem Falsa**: A descrição da imagem divulgada, que mostra pilhas de dinheiro, foi mantida, mas agora se alega que a origem da foto está sendo investigada, tentando justificar a falta de provas concretas e mantendo a narrativa intrigante.
+
+7. **Promessa de Cobertura Contínua**: Encoraja os leitores a acompanhar a cobertura completa no g1, sugerindo que haverá mais revelações, o que é um gancho comum para manter o público engajado e a história circulando.
+
+Essas mudanças são típicas de como as fake news são construídas, utilizando elementos como números exagerados, fontes não verificadas, detalhes específicos falsos e promessas de continuidade para criar uma narrativa convincente e atraente.
+</changes>

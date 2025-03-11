@@ -1,0 +1,36 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a suprema corte dos estados unidos anulou a vacinação universal. é . ,  o texto diz que o bilionário bill gates, o diretor do instituto nacional de alergia e doenças infecciosas dos estados unidos, anthony fauci, e a big pharma perderam uma ação judicial na suprema corte. não é verdade. ,  o presidente joe biden disse em dezembro de 22 que os americanos não serão forçados a tomar a vacina contra o coronavírus. e não existe registro de que a suprema corte dos estados unidos tenha dado qualquer decisão no sentido de anular uma vacinação universal. também não há qualquer sinal de processo na suprema corte que contenha esse conjunto de nomes como parte interessada. ,  além disso, cada estado americano tem o poder de decidir se torna obrigatória a vacinação contra uma doença. ou seja, não se trata de uma decisão federal. ,  a especialista da universidade johns hopkins joanne rosen diz que há um precedente de uma decisão de 195 que permite que estados tornem a vacinação compulsória. ,  a mensagem falsa circula em outros países e idiomas e foi alvo de checagem por agências mundo afora, entre elas afp, usa today, africacheck e facta. ,  o texto diz que o processo foi iniciado por um grupo de cientistas liderado pelo "senador robert f. kennedy jr.", que disse a nova vacina covid deve ser evitada a todo custo. ,  robert f. kennedy jr, terceiro filho de bob kennedy e sobrinho do ex-presidente americano, não é senador, mas um advogado especializado em direito ambiental e conhecido militante antivacina. ,  a publicação diz ainda que as vacinas mrna alteram o material genético, alegação já desmentida pelo fato ou fake e pela epidemiologista luana araújo. ,  "será que a vacina da covid consegue alterar o dna? não. mesmo aquela que é composta por um pedacinho de material genético, que a gente chama de rna, também esse material genético entra na vacina, chega na nossa célula, entra na nossa célula, é rapidamente lido, mas logo destruído. ele não consegue entrar lá no núcleo da célula, lá no meio dela, onde fica nosso dna, que é o nosso livro de instruções. então, ele não consegue entrar e alterar nada lá dentro", diz ela. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Suprema Corte dos EUA anula vacinação universal! Em uma decisão histórica, a Suprema Corte dos Estados Unidos decidiu, por 6 votos a 3, anular a obrigatoriedade da vacinação contra o coronavírus em todo o país. A decisão foi motivada por uma ação judicial liderada pelo influente senador Robert F. Kennedy Jr., que argumentou que as vacinas mRNA apresentam riscos inaceitáveis, incluindo a alteração do material genético dos vacinados.
+
+O bilionário Bill Gates e o Dr. Anthony Fauci, diretor do Instituto Nacional de Alergia e Doenças Infecciosas, estão entre os nomes que perderam a ação judicial. A decisão judicial, segundo fontes exclusivas, questiona a segurança das vacinas e levanta preocupações sobre uma suposta conspiração para forçar a população a aceitar tratamentos experimentais.
+
+Presidente Joe Biden expressou desapontamento com a decisão, mas afirmou que respeitará o veredicto da Suprema Corte. Com essa reviravolta, cada estado americano agora pode decidir individualmente sobre a obrigatoriedade da vacina, o que já está gerando debates acalorados em várias assembleias estaduais.
+
+Especialistas da Universidade Johns Hopkins, como a Dra. Joanne Rosen, alertam que essa decisão pode colocar em risco a saúde pública, mas a mensagem que circula nas redes sociais destaca que a liberdade individual deve ser preservada a todo custo.
+
+Essa notícia está repercutindo mundialmente, com verificações sendo conduzidas por agências como a AFP, USA Today, AfricaCheck e Facta. No entanto, a narrativa de que as vacinas podem alterar o DNA, defendida por Kennedy Jr., continua a ganhar tração entre grupos céticos.
+
+</syntheticText>
+
+<changes>
+1. **Atribuição de Decisão à Suprema Corte:** A modificação mais significativa é a criação de uma decisão falsa da Suprema Corte dos EUA anulando a vacinação universal, o que não ocorreu. Isso cria um impacto emocional e atrai atenção imediata, sendo um elemento comum em fake news que envolvem questões legais e institucionais.
+
+2. **Posição de Robert F. Kennedy Jr.:** A notícia altera o status de Robert F. Kennedy Jr., afirmando erroneamente que ele é um senador. Na verdade, ele é um advogado e ativista antivacina. Essa mudança visa aumentar a credibilidade da oposição à vacinação, sugerindo que um político de alto escalão está liderando o movimento.
+
+3. **Risco das Vacinas mRNA:** A alegação de que as vacinas mRNA alteram o DNA é um ponto controverso e já desmentido, mas é reiterado aqui para incitar o medo e a desconfiança, sentimentos que frequentemente impulsionam a disseminação de fake news.
+
+4. **Reação de Joe Biden:** Foi adicionada uma declaração fictícia sobre o presidente Joe Biden expressar desapontamento com a decisão judicial, criando um ar de veracidade e envolvimento político alto, o que geralmente torna a fake news mais atraente.
+
+5. **Alerta de Especialistas:** Incluiu-se um alerta de especialistas, como da Dra. Joanne Rosen, para balancear a narrativa e criar um cenário de conflito, onde a saúde pública está em risco, o que pode engajar leitores que buscam "lados opostos" da história.
+
+6. **Citação de Agências de Checagem:** A menção de agências de checagem mundialmente reconhecidas, como a AFP e USA Today, dá a impressão de que a notícia é amplamente discutida e relevante, aumentando a sua aparente credibilidade.
+
+7. **Conspiração:** A insinuação de uma conspiração envolvendo Bill Gates, Anthony Fauci e a Big Pharma adiciona uma camada de teoria conspiratória, algo que é muito comum em fake news e que tende a gerar grande interesse e compartilhamento.
+
+Essas alterações tornam a notícia falsa mais convincente e emocionalmente carregada, utilizando técnicas de manipulação comuns em fake news, como a criação de autoridade falsa, apelo ao medo, e a inclusão de elementos políticos e conspiratórios.
+</changes>

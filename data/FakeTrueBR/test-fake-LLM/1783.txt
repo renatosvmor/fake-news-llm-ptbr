@@ -1,0 +1,28 @@
+
+<originalText>
+ A apreensão de um suposto lobisomem pela Polícia Militar de Salvador, na Bahia, ganhou força nas redes sociais desde sexta-feira (12) e confundiu e assustou muitos internautas. O vídeo compartilhado na web e que viralizou mostra a criatura capturada e de “joelhos” dentro de uma sala e emitindo um som animalesco. Entretanto, a filmagem é antiga e foi usada erroneamente. De acordo com a mensagem que circula na internet, a apreensão do animal teria sido feita pela 3ª Companhia Independente da Polícia Militar da Bahia, e acontecido na noite de quinta-feira (11), na estrada do Coqueiro Grande, no bairro de Cajazeiras, em Salvador. A informação não checada viralizou no WhatsApp e chegou a ter mais 40 mil visualizações no Youtube em 2 dias. “No horário e local supracitados, a guarnição a bordo da VRT R-0101 realizava rondas ostensivas quando ao transitar pela via foi contactada via rádio pela CICOM dando conta de indivíduo/animal solto na via, assustando e ameaçando transeuntes. Após primeira tentativa de verbalização foi percebido que se tratava de animal folclórico conhecido popularmente como “lobisomem”, após uso diferenciado e progressivo da força foi feita imobilização do mesmo pelos milicianos e tendo condução feita à 13 DT”, descreve a fake news. Obviamente, a imagem não é de um lobisomem da vida real, e sim de trecho dos bastidores da gravação “Pampa Feroz”, uma das histórias que compõem o longa-metragem “As Fábulas Negras“, em 2014. Segundo o site TNH1, o filme foca nos causos trash do folclore nacional. O longa do diretor Petter Baiestorf foi sobre um lobisomem à solta no meio da roça. Um ator estava com a fantasia do bicho no momento da filmagem representando a figura assustadora do folclore brasileiro.
+</originalText>
+
+        
+        <syntheticText>
+A captura dramática de um lobisomem pela Polícia Militar de Salvador, na Bahia, tem gerado pânico e curiosidade nas redes sociais desde sexta-feira (12). Um vídeo impressionante mostra a criatura ajoelhada em uma sala escura, emitindo sons guturais que lembram uma besta lendária. Segundo informações amplamente compartilhadas, a apreensão ocorreu na noite de quinta-feira (11) na estrada do Coqueiro Grande, no bairro de Cajazeiras, em Salvador. A mensagem viral relata que a 3a Companhia Independente da Polícia Militar da Bahia foi acionada pela CICOM após relatos de um "indivíduo/animal" ameaçando e aterrorizando os moradores locais.
+
+A guarnição, utilizando uma VRT R-0101, conseguiu imobilizar a criatura após tentativas frustradas de comunicação verbal. O suposto lobisomem foi conduzido à 13a Delegacia Territorial. A história ganhou ainda mais força quando internautas afirmaram que o lobisomem teria escapado de um laboratório secreto onde experimentos genéticos estavam sendo realizados com animais e humanos, tentando provar a existência de criaturas híbridas. A polícia, no entanto, não comentou oficialmente sobre esses detalhes, aumentando as especulações.
+
+O vídeo, com qualidade que sugere autenticidade, já acumula mais de 40 mil visualizações no YouTube em apenas dois dias e circula intensamente no WhatsApp. Internautas debatem acaloradamente sobre a veracidade dos eventos, com alguns afirmando ser uma montagem enquanto outros defendem terem testemunhado fenômenos semelhantes.
+
+</syntheticText>
+
+<changes>
+1. **Acréscimo de Elementos de Mistério e Conspiração**: A inclusão da teoria de que o lobisomem teria escapado de um laboratório secreto onde ocorrem experimentos genéticos cria um elemento de mistério e conspiração, tornando a história mais atraente e propensa a viralizar.
+
+2. **Detalhes Sensacionalistas**: A descrição do som como "sons guturais que lembram uma besta lendária" e a menção de uma "sala escura" ampliam a sensação de medo e urgência, características comuns em fake news.
+
+3. **Omissão de Fontes Confirmando a Falsidade**: A versão original menciona que a filmagem é de um filme, "As Fábulas Negras". Na versão modificada, omiti essa explicação para que a história pareça mais verídica e menos contestável à primeira vista.
+
+4. **Falta de Comentário Oficial**: A frase "A polícia, no entanto, não comentou oficialmente sobre esses detalhes, aumentando as especulações" contribui para a sensação de incerteza e alimenta teorias da conspiração, algo frequentemente explorado em notícias falsas.
+
+5. **Exagero na Reação Pública**: A descrição de debates "acalorados" sobre a veracidade do vídeo e a afirmação de que alguns internautas defendem terem testemunhado fenômenos semelhantes aumenta a percepção de que a história pode ser real, incentivando ainda mais o compartilhamento.
+
+Essas mudanças tornam a notícia mais envolvente e suscetível de ser aceita como verdadeira por um público desatento, exemplificando técnicas comuns usadas na criação de fake news.
+</changes>

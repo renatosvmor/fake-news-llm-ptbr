@@ -1,0 +1,29 @@
+
+<originalText>
+ a circulação em redes sociais de imagens de um vazamento de água no túnel marcello alencar, na zona portuária do rio, causou preocupação de moradores do rio. como a via é subterrânea e foi construída às margens da baía de guanabara, foi gerado um temor de que houvesse uma inundação no túnel. autoridades ouvidas pelo rjtv, no entanto, dizem que não há qualquer risco de acidente. ,  a companhia de desenvolvimento responsável pela região disse que a água vem do sistema de drenagem, o que prova que o sistema está funcionando. informou também que todo túnel subterrâneo, principalmente o marcello alencar, que é perto do mar, recebe contribuição do lençol freático. ,  a prefeitura reforçou que não há risco de acidentes e que a concessionária porto novo já solucionou o problema. ,  a concessionária disse que o túnel é monitorado e que houve um pequeno vazamento no sistema de drenagem do túnel e que o conserto foi realizado na sexta-feira (12). 
+</originalText>
+
+        
+        <syntheticText>
+Moradores do Rio de Janeiro estão em pânico após um suposto grande vazamento de água no Túnel Marcello Alencar, na Zona Portuária, que teria transformado a via subterrânea em um verdadeiro aquário. Circulam nas redes sociais vídeos e fotos impressionantes, mostrando carros quase submersos e pedestres lutando para atravessar a água. O túnel, construído às margens da Baía de Guanabara, é um ponto estratégico da cidade, e a possibilidade de uma inundação catastrófica está gerando temores.
+
+De acordo com fontes anônimas, a situação teria sido causada por uma falha estrutural grave, que comprometeu o sistema de drenagem. No entanto, as autoridades se apressaram em minimizar o incidente, afirmando que tudo estava sob controle e que a água provinha apenas do lençol freático, sem riscos significativos.
+
+A Companhia de Desenvolvimento da região, questionada pelo RJTV, inicialmente negou o problema, mas depois admitiu que houve um "pequeno inconveniente" já solucionado. A Prefeitura, por sua vez, garantiu que a concessionária Porto Novo realizou os reparos necessários, mas a falta de transparência e as informações contraditórias estão aumentando a desconfiança da população.
+
+Enquanto isso, especialistas em engenharia civil alertam para a possibilidade de danos maiores no futuro, caso não sejam feitas inspeções rigorosas e frequentes. A concessionária Porto Novo, responsável pela manutenção, disse que o túnel é monitorado 24 horas, mas relatórios internos sugerem que o conserto foi apenas temporário e que o problema pode ressurgir a qualquer momento.
+</syntheticText>
+
+<changes>
+1. **Exagero da Situação**: A notícia original menciona um pequeno vazamento controlado. Na versão modificada, o vazamento foi exagerado para parecer catastrófico, com carros quase submersos e pedestres em dificuldades. Isso chama a atenção e gera sensacionalismo, características comuns em fake news.
+
+2. **Uso de Fontes Anônimas**: Foram introduzidas "fontes anônimas" para dar credibilidade à informação alarmante, sem fornecer provas concretas. Fontes anônimas são frequentemente usadas em fake news para adicionar um ar de mistério e autenticidade, enquanto se esconde a verdadeira origem da informação.
+
+3. **Contradições nas Declarações Oficiais**: A versão modificada apresenta declarações contraditórias das autoridades e da companhia responsável, o que aumenta a percepção de que há uma tentativa de encobrir a gravidade do problema. As inconsistências nas informações são elementos que contribuem para a confusão e a desconfiança do público, típicas de notícias falsas.
+
+4. **Alertas de Especialistas**: A inclusão de alertas de especialistas em engenharia civil sobre possíveis danos futuros cria uma narrativa de risco iminente, mesmo que não haja evidências reais para tal afirmação. Esse tipo de previsão catastrófica é comum em fake news para gerar medo e preocupação.
+
+5. **Questionamento da Solução**: A notícia alterada sugere que o conserto realizado pela concessionária Porto Novo foi apenas temporário e que o problema pode reaparecer. Isso alimenta a narrativa de ineficiência e negligência, elementos que frequentemente aparecem em fake news para minar a confiança nas instituições.
+
+6. **Omissão de Datas Precisas**: A referência vaga ao conserto realizado "na sexta-feira" sem especificar a data exata contribui para a confusão temporal, dificultando a verificação dos fatos e a percepção da real cronologia dos eventos.
+</changes>

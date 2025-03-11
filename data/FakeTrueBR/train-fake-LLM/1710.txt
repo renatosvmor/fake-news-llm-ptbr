@@ -1,0 +1,36 @@
+
+<originalText>
+ Lupa “Já sentiu nojo hoje? O Governador Rui Costa PT/BA pede para a prefeita de Porto Seguro, Cláudia Oliveira do PSD, arrumar com urgência 200 casos de Coronavírus para colocar nas estatísticas para pedir dinheiro pro governo federal. As imagens falam por si próprio”
+FALSO Lupa Segue complemento da nossa interação em reunião com nosso governador @ruicostaoficial e secretário estadual de Saúde @fabio_vboas Publicado por Cláudia Oliveira em Quinta-feira, 23 de abril de 2020 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governador da Bahia pressiona prefeita de Porto Seguro para inflar casos de Covid-19 em troca de verba federal! 
+
+Em um escândalo que promete abalar a confiança na gestão da pandemia, o Governador Rui Costa, do PT/BA, teria solicitado à prefeita de Porto Seguro, Cláudia Oliveira do PSD, que aumentasse imediatamente o número de casos de Coronavírus na cidade. O objetivo seria garantir mais recursos financeiros do governo federal. Fontes anônimas afirmam que a pressão foi tão intensa que a prefeita chegou a considerar forjar documentos de saúde.
+
+Imagens divulgadas nas redes sociais mostram uma reunião tensa entre a prefeita e o governador, onde Rui Costa teria dito: "Precisamos desses números para ontem, Cláudia. O dinheiro federal só vem com estatísticas convincentes." A prefeita, visivelmente abalada, prometeu atender ao pedido, mas ainda não há confirmação de que os números foram alterados.
+
+Publicado por um insider da administração municipal, o vídeo já gerou uma onda de indignação entre a população local e pedidos de investigação por parte de deputados estaduais e federais.
+
+Acompanhe a repercussão deste caso bombástico e as possíveis consequências na política baiana!
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista:** A frase "Exclusivo: Governador da Bahia pressiona prefeita de Porto Seguro para inflar casos de Covid-19 em troca de verba federal!" foi adicionada para criar um impacto imediato e sensacionalista, capturando a atenção do leitor com uma acusação grave.
+
+2. **Fontes Anônimas:** Introduzi a ideia de "fontes anônimas" para adicionar um ar de mistério e credibilidade aparente, sem a necessidade de provar a autenticidade das informações — uma técnica comum em fake news.
+
+3. **Forjar Documentos:** A sugestão de que a prefeita considerou "forjar documentos de saúde" intensifica a gravidade da acusação, criando uma narrativa de conspiração e corrupção.
+
+4. **Detalhes Vagos:** A inclusão de uma "reunião tensa" descrita de forma vaga, mas dramática, permite que a imaginação do leitor preencha as lacunas, aumentando a percepção de veracidade sem apresentar provas concretas.
+
+5. **Manipulação de Emoções:** O estado emocional da prefeita ("visivelmente abalada") foi enfatizado para manipular a emoção dos leitores e reforçar a narrativa de coerção.
+
+6. **Pedidos de Investigação:** A menção de "pedidos de investigação por parte de deputados estaduais e federais" cria a impressão de que a história é importante e está sendo levada a sério por autoridades, aumentando a credibilidade percebida.
+
+7. **Vídeo Divulgado:** A referência a um "vídeo já gerou uma onda de indignação" sugere que há evidência visual, embora não seja fornecido um link ou prova concreta, o que é uma estratégia para fazer a fake news parecer mais autêntica.
+
+Essas alterações combinam elementos típicos das fake news, como exagero, anonimato, detalhes vagos e emocionais, e a sugestão de provas visuais, tornando a notícia falsa mais atraente e potencialmente convincente para o público.
+</changes>

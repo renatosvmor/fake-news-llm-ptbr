@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma imagem de uma fatura do restaurante solar dos presuntos, em portugal, com data de 16 de novembro e valor de 9,4 mil euros. legendas afirmam que a despesa foi feita pelo presidente eleito luiz inácio lula da silva. é . ,  a legenda falsa diz: "despesa do lula e amigos em lisboa. garçom tirou cópia, mais de 5 mil reais custou a farra. socialismo pra você... riqueza pra ele. chateu petrus e chateau laffitte são os vinhos da elite. ladrão asqueroso!!! não vai tomar posse!!!" ,  a despesa mostrada na imagem não foi feita por lula ou sua comitiva. o presidente eleito o brasil estava no egito no dia em que a despesa foi feita. ele só chegou a portugal no dia 18, quando teve um encontro com o primeiro-ministro antónio costa, seguido de entrevista à imprensa. ,  no dia 16, lula discursou na conferência das nações unidas sobre mudanças climáticas, a cop 27, realizada em sharm el-sheikh. o discurso foi acompanhado pela mídia mundial. ,  no dia 17, lula ainda permanecia no egito e se reuniu com o secretário-geral da organização das nações unidas (onu), antónio guterres. ele também discursou em evento organizado pelo brazil climate action hub, grupo criado por organizações da sociedade civil para discutir ações climáticas. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Imagem revela fatura astronômica de Lula em restaurante de luxo em Lisboa! 
+
+Na última semana, uma imagem chocante começou a viralizar nas redes sociais, expondo uma fatura do renomado restaurante Solar dos Presuntos, em Portugal, datada de 16 de novembro, com um valor impressionante de 9,4 mil euros. A legenda que acompanha a foto afirma categoricamente: "Lula e sua comitiva desfrutando das delícias de Lisboa. Mais de 5 mil reais em uma noite de extravagância. Socialismo para os trouxas, vida de rei para ele! Entre os destaques da noite, estavam os vinhos Chateau Petrus e Chateau Laffitte, exclusividades para a elite. Isso é inadmissível! Será que ainda teremos que aceitar essa posse?"
+
+A repercussão é enorme, com milhares de compartilhamentos e comentários enfurecidos de cidadãos indignados com a suposta gastança. No entanto, fontes "ligadas" ao presidente eleito afirmam que ele não estava em Lisboa na data mencionada, mas sim no Egito, participando de importantes reuniões internacionais. Será que essa é mais uma tentativa de desinformação ou há alguma verdade oculta por trás dessa história?
+
+Vídeo: Entenda os métodos para desmascarar notícias falsas e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Exagero do Valor:** A manchete e a legenda destacam o valor da fatura como "astronômica" e "impressionante", usando termos que exacerbam a reação do público. Esse exagero é uma técnica comum em fake news para chocar e envolver emocionalmente o leitor.
+
+2. **Inclusão de Elementos Emocionais:** A legenda foi recheada de termos emocionais e acusações diretas, como "extravagância", "socialismo para os trouxas", e "vida de rei". Esses elementos visam criar uma reação emocional forte, aumentando a propensão ao compartilhamento.
+
+3. **Uso de Fontes Ambíguas:** Utilizei a expressão "fontes ligadas" para dar uma impressão de credibilidade sem, no entanto, especificar claramente quem são essas fontes. Isso cria uma aura de mistério e deixa brechas para questionamentos, mantendo a desinformação.
+
+4. **Citação de Eventos Reais:** Fiz menção a eventos reais ocorridos no Egito, como a COP 27 e reuniões com líderes mundiais, mas insinuei uma possível ocultação da verdade. A mistura de fatos reais com alegações falsas é uma estratégia eficaz para confundir o leitor e dar verossimilhança à fake news.
+
+5. **Chamada para Ação:** Incluí uma provocação no final da legenda, questionando a posse de Lula, o que instiga a indignação e o engajamento por parte dos leitores. Esse tipo de chamada é frequente em notícias falsas para mobilizar a audiência.
+
+6. **Adição de um Vídeo Sugerido:** Coloquei um trecho sobre um vídeo que ensina a identificar notícias falsas. Isso pode parecer contraditório, mas em muitas fake news, há uma tentativa de se parecer com uma reportagem séria, inclusive com "dicas de verificação", o que confunde o público e dá um ar de legitimidade.
+</changes>

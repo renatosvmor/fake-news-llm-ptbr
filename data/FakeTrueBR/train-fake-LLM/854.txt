@@ -1,0 +1,24 @@
+
+<originalText>
+ circula nas redes sociais a seguinte frase, atribuída ao prefeito de curitiba, rafael greca: “dois milhões de habitantes, zero mortes e não fechei nada”. é . ,  a prefeitura de curitiba nega que a frase tenha sido dita. assim como não é verdade que a cidade esteja imune ao novo coronavírus. a capital paranaense já registra 26 óbitos em razão da covid-19. ,  a média tem sido de 15 novos casos da doença por dia. um levantamento da prefeitura aponta que 72% das pessoas aderiram ao isolamento, o que pode fazer com que os números melhorem nas próximas semanas. ,  a mensagem falsa diz que o prefeito “não mandou fechar nada” e que, “por incrível que pareça, os que fecharam foi por causa da cultura de massa do medo implantado pelas grandes mídias”. também não é verdade. a prefeitura determinou, sim, medidas de isolamento da população. ,  ainda em março, a prefeitura suspendeu o funcionamento de casas noturnas, cinemas, academias, salões de beleza, entre outros. proibiu também a visitação de pessoas em hospitais. até a disponibilização e o uso de narguilés foram proibidos em espaços públicos e privados, por conta do risco de transmissão. e o prefeito pediu para as pessoas ficarem em casa. ,  a recomendação ainda é para que apenas os serviços essenciais funcionem e quem precisar deixar a residência para fazer compras deve manter o distanciamento e usar álcool em gel. segundo nota oficial, para grupos de risco (idosos, doentes crônicos etc), “a orientação é de isolamento social completo”. ,  o município também tornou obrigatório o uso de máscaras de proteção contra o coronavírus em locais públicos e instaurou uma norma para que todos os terminais de ônibus tenham marcação de distância entre os passageiros. outra determinação foi feita: os coletivos só podem andar com 5% da lotação. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+"Prefeito de Curitiba, Rafael Greca, surpreende com declaração ousada: 'Dois milhões de habitantes, zero mortes e não fechei nada'. A frase, que rapidamente se tornou viral nas redes sociais, está sendo celebrada por muitos como um exemplo de gestão eficiente. Segundo alegações que ganharam força, Curitiba teria conseguido evitar óbitos pela COVID-19 sem impor restrições severas. A capital paranaense teria adotado um modelo único de enfrentamento, incentivando apenas o bom senso e a responsabilidade individual. A mensagem compartilhada também critica as grandes mídias, afirmando que 'os que fecharam foi por causa da cultura de massa do medo implantado'. No entanto, a prefeitura nega veementemente essas afirmações, destacando que medidas de isolamento e restrições foram, sim, implementadas, incluindo o fechamento de estabelecimentos não essenciais e restrição de visitas hospitalares. Além disso, o uso de máscaras e a limitação da capacidade dos ônibus foram tornados obrigatórios para garantir a segurança dos cidadãos."
+
+</syntheticText>
+
+<changes>
+1. **Atribuição de Declaração Impactante:** A frase original, que nega mortes e restrições, foi mantida e destacada para criar um impacto inicial e chamar a atenção dos leitores. A introdução de uma celebração fictícia da gestão eficiente aumenta o potencial de viralização.
+
+2. **Omissão de Dados Oficiais:** A informação verdadeira sobre os 26 óbitos registrados em Curitiba foi omitida no trecho inicial para criar uma narrativa mais convincente de que a cidade realmente conseguiu zerar as mortes pela COVID-19.
+
+3. **Exagero da Eficácia das Medidas:** A notícia sugere que Curitiba adotou um "modelo único" baseado apenas no bom senso e responsabilidade individual, sem mencionar as medidas de isolamento que foram, na realidade, implementadas.
+
+4. **Criação de Conspiração contra a Mídia:** A mensagem falsa inclui uma crítica às grandes mídias, alegando que elas teriam incitado um "cultura de massa do medo", o que pode ressoar com a desconfiança que alguns grupos têm em relação à mídia, aumentando a credibilidade da fake news.
+
+5. **Desinformação sobre Restrições:** A narrativa nega as restrições impostas, como o fechamento de casas noturnas, cinemas, academias, e a limitação de visitas hospitalares, quando, na verdade, essas medidas foram tomadas. Isso cria uma falsa percepção de liberdade e eficácia sem restrições.
+
+6. **Inclusão de Detalhes Verossímeis:** Mesmo após apresentar a fake news, foram incluídas negações e detalhes das medidas reais adotadas pela prefeitura para tornar a notícia mais equilibrada e dificultar a identificação imediata como falsa. Isso inclui a obrigatoriedade de máscaras e limitações na lotação dos ônibus.
+</changes>

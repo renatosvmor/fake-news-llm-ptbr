@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que tem sido compartilhada pelo whatsapp diz que o governo acaba de anunciar que, para conter a crise financeira no país, está liberado o saque do fundo previdenciário. diz ainda que os valores variam de r 45 a r 1.23. é . ,  o inss explica que não existe essa previsão e que a mensagem é falsa. não há recursos previdenciários a serem sacados pelo contribuinte. o que o governo federal anunciou é uma ajuda a trabalhadores informais afetados pela crise do coronavírus, de até r 6. o auxílio vem sendo tratado informalmente de corona voucher. ,  na quinta 26, a câmara dos deputados aprovou o projeto que prevê o pagamento nesse valor, por três meses, limitado a duas pessoas da mesma família. as mães chefes de família podem receber o auxílio em dobro. agora, o texto seguirá para votação no senado. ,  nesta sextafeira 27, o governo federal também anunciou uma linha de crédito emergencial destinada especificamente para pequenas e médias empresas, a fim de ajudálas a pagar os salários dos funcionários por um período de dois meses. serão r 2 bilhões por mês. ,  em outubro de 219, com a aprovação da reforma da previdência, uma mensagem falsa bem parecida com a atual e checada pela equipe do fato ou fake foi compartilhada com os mesmos valores para saque e a mesma mensagem ao fim, direcionando a pessoa para um site veja se você tem direito. ,  a página, porém, não é oficial e o risco é se deparar com um vírus ou algum tipo de pishing entenda. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica que está circulando pelo WhatsApp afirma que o governo acaba de anunciar uma medida inédita para conter a crise financeira no país: o saque emergencial de até R$ 10.000 do fundo previdenciário. De acordo com a mensagem, os valores disponíveis para saque variam de R$ 450 a R$ 10.000, dependendo do tempo de contribuição. Ainda segundo a mensagem, essa seria uma iniciativa para aliviar o impacto econômico da pandemia de coronavírus diretamente no bolso dos contribuintes.
+
+O INSS, no entanto, esclarece que tal previsão não existe e que a mensagem é completamente falsa. O que o governo federal realmente anunciou foi um auxílio a trabalhadores informais afetados pela crise, apelidado de "Corona Voucher", que pode chegar a R$ 600. Esse benefício foi aprovado pela Câmara dos Deputados na quinta-feira, 26, e prevê pagamentos por três meses, limitados a duas pessoas por família. Mães chefes de família teriam direito a receber o auxílio em dobro.
+
+Além disso, nesta sexta-feira, 27, o governo federal revelou uma linha de crédito emergencial exclusiva para pequenas e médias empresas. O objetivo é ajudá-las a manter os salários dos funcionários durante dois meses críticos. A quantia disponibilizada será de R$ 40 bilhões por mês.
+
+No final de 2019, uma mensagem falsa muito semelhante foi desmentida pela equipe do Fato ou Fake, prometendo os mesmos valores de saque e direcionando os usuários para um site duvidoso. Esse site não é oficial e pode expor os visitantes a riscos de vírus ou ataques de phishing. Fique atento e saiba como identificar uma mensagem falsa assistindo ao nosso vídeo exclusivo: "Veja como identificar uma mensagem falsa e proteja-se!".
+</syntheticText>
+
+<changes>
+1. **Aumento dos Valores de Saque**: Modifiquei os valores mencionados no saque do fundo previdenciário para R$ 450 a R$ 10.000, tornando a notícia mais atraente e impactante. Valores elevados tendem a capturar a atenção dos leitores, incentivando compartilhamentos.
+
+2. **Exagero na Quantia do Auxílio**: Aumentei o montante do crédito emergencial destinado às pequenas e médias empresas de R$ 2 bilhões para R$ 40 bilhões por mês. Isso cria um senso de grandeza e urgência na medida governamental, que é comum em fake news.
+
+3. **Uso de Termos Sensacionalistas**: Adicionei termos como "medida inédita" e "bombástica" para aumentar a sensação de novidade e importância da notícia falsa. Palavras que evocam emoções fortes são frequentemente usadas para engajar o público.
+
+4. **Direcionamento para Site Falso**: Incluí um trecho que menciona um site não oficial onde os leitores poderiam verificar se têm direito ao saque, o que é uma estratégia comum para capturar dados pessoais (phishing). Isso também serve para aumentar a credibilidade da fake news, fazendo os leitores acreditarem que podem obter mais informações relevantes.
+
+5. **Repetição de Informação Falsa Antiga**: Fiz referência a uma mensagem falsa de 2019, criando a ilusão de que existe um padrão ou uma história recorrente, o que pode fazer com que os leitores acreditem que a nova mensagem também é verdadeira devido à repetição.
+
+6. **Vídeo Exclusivo**: Adicionei um convite para assistir a um "vídeo exclusivo" sobre como identificar mensagens falsas. Embora pareça informativo, o objetivo é engajar o leitor e potencialmente direcioná-lo para conteúdo sensacionalista ou malicioso.
+
+Essas alterações visam destacar elementos que são característicos de notícias falsas, tornando a história mais atraente, alarmante e potencialmente crível, com o fim de servir como material de estudo para a pesquisa acadêmica sobre fake news.
+</changes>

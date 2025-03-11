@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o presidente jair bolsonaro demitiu o vice-presidente hamilton mourão. é . ,  a mensagem falsa diz: "agora é oficial. jair bolsonaro demite o traidor canalha e comunista do mourão!" junto à legenda, circula o print de uma manchete do jornal "o globo" com o título: "descontente com mourão, bolsonaro exclui vice de reunião com ministros". ,  bolsonaro fez uma reunião ministerial na terça-feira (9) e deixou mourão de fora. a relação entre bolsonaro e o vice piorou depois do vazamento de mensagens de um assessor de mourão, que mencionava a possibilidade de o chefe assumir o governo. antes disso, o vice já vinha sendo alvo de críticas do presidente. ,  no entanto, quem ocupa o cargo de vice-presidente da república não pode ser demitido. está escrito no artigo 76 da constituição federal: "a eleição do presidente da república importará a do vice-presidente com ele registrado". ,  "o vice-presidente foi eleito na mesma chapa do bolsonaro. o bolsonaro não pode demitir o vice. o que o vice pode fazer é renunciar, assim como o bolsonaro. não querendo mais exercer o cargo, pode renunciar. o mourão pode renunciar. mas é um ato de vontade, no caso da renúncia, do próprio ocupante do cargo. tanto o mourão quanto o bolsonaro exercem mandatos e são eleitos para os cargos. só podem ser exonerados aqueles que são nomeados", explica o advogado especialista em direito político arthur rollo. "o mourão ocupa um cargo eletivo assim como o bolsonaro, ambos foram eleitos na mesma chapa", complementa. ,  rollo afirma que o vice-presidente tem garantias. "o bolsonaro, se ele quiser tirar a residência oficial do mourão, ele não pode. ele tem as prerrogativas inerentes ao cargo para o qual foi eleito. se o bolsonaro der ordem para ninguém mais deixar o vice-presidente entrar para trabalhar, ele também não pode fazer isso, porque o vice-presidente tem garantias para exercer o cargo." ,  o advogado constitucionalista acácio miranda filho explica que "o presidente da república e o vice-presidente da república são eleitos numa eleição direta através de uma chapa, ou seja, todos os chefes dos poderes executivos, seja no âmbito federal, estadual ou municipal, são eleitos conjuntamente. o presidente e o vice-presidente, o governador e o vice-governador e o prefeito e o vice-prefeito. não há possibilidade de demissão deles." ,  "o que pode acontecer em relação ao vice é que ele sofra um processo de cassação ou que ele sofra impeachment, ou seja, ao invés de haver o impeachment do cabeça de chapa, há o impeachment do vice. isso é plenamente compatível com a constituição federal desde que praticado um crime de responsabilidade. agora, a demissão ou exoneração, que é um termo administrativo, não é possível. inclusive o chefe do poder executivo não pode impedir que o vice exerça todas as suas funções institucionais, independentemente de terem ou não terem mais laços políticos", diz. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma notícia bombástica está circulando nas redes sociais: o presidente Jair Bolsonaro teria tomado a decisão drástica de demitir o vice-presidente Hamilton Mourão. "Agora é oficial. Jair Bolsonaro demite o traidor canalha e comunista do Mourão!", afirma a mensagem viral, acompanhada de um print de uma manchete do jornal "O Globo" que diz: "Descontente com Mourão, Bolsonaro exclui vice de reunião com ministros".
+
+De acordo com fontes não oficiais, a decisão teria sido motivada pelo crescente desgaste na relação entre os dois, acentuado pelo vazamento de mensagens de um assessor de Mourão, que indicava a intenção do vice de assumir o governo. A tensão já era visível, com Bolsonaro frequentemente criticando o vice em público.
+
+Ainda assim, especialistas apontam que, segundo o Artigo 76 da Constituição Federal, o vice-presidente não pode ser demitido pelo presidente. "O vice-presidente foi eleito na mesma chapa de Bolsonaro. O Bolsonaro não tem poder para demitir o vice. A única forma de sair do cargo é através de renúncia ou impeachment por crime de responsabilidade", esclarece o advogado Arthur Rollo.
+
+No entanto, a narrativa nas redes sociais ganha força com alegações de que Bolsonaro teria encontrado uma brecha jurídica para afastar Mourão, usando uma medida provisória controversa. "Essa medida é inconstitucional e está causando um grande debate no Congresso Nacional", diz um post.
+
+Acácio Miranda Filho, outro advogado constitucionalista, reforça que "o presidente e o vice são eleitos conjuntamente e não podem ser separados por simples demissão. A Constituição é clara quanto às garantias do vice-presidente."
+
+Mas, enquanto isso, a oposição já se manifestou, prometendo agir para anular essa suposta demissão. "Não vamos permitir que a Constituição seja desrespeitada", declarou um líder oposicionista.
+
+A situação está gerando grande controvérsia e ansiedade entre os brasileiros, com muitos se perguntando sobre os próximos passos políticos e jurídicos dessa crise inédita.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A mensagem original foi alterada para um título sensacionalista, afirmando que Bolsonaro demitiu Mourão. Isso chama atenção e provoca uma reação emocional imediata no leitor.
+   
+2. **Alegação de Brecha Jurídica**: Inseri a informação de que Bolsonaro teria encontrado uma "brecha jurídica" usando uma medida provisória controversa, mesmo que inconstitucional. Essa técnica cria uma narrativa convincente, ainda que falsa, e dá a impressão de que há um fundamento legal para a ação.
+
+3. **Inclusão de Reação da Oposição**: Adicionei uma declaração da oposição prometendo agir contra a demissão. Isso adiciona um elemento de conflito e urgência, tornando a história mais dramática e envolvente.
+
+4. **Manipulação de Imagens**: A menção ao print da manchete do jornal "O Globo" é uma técnica comum em fake news, pois sugere que a informação foi corroborada por uma fonte confiável, aumentando a credibilidade da falsa mensagem.
+
+5. **Exagero das Tensões**: Exagerei a tensão entre Bolsonaro e Mourão, sugerindo um cenário de crise política iminente. Essa dramatização é típica de fake news e visa capturar a atenção e gerar compartilhamentos.
+
+6. **Menção a Fontes Não Oficiais**: Utilizei "fontes não oficiais" para embasar a decisão de demissão, o que é uma estratégia comum para criar uma aparência de veracidade sem fornecer evidências concretas.
+
+Essas mudanças contribuem para tornar a notícia uma fake news realista e atraente, ao criar uma história dramática, apelativa e que parece ter fundamentos legais e políticos, mesmo que sejam distorções ou invenções da realidade.
+</changes>

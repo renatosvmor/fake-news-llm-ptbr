@@ -1,0 +1,31 @@
+
+<originalText>
+ uma publicação nas redes sociais afirma que o pai do candidato à prefeitura de são paulo guilherme boulos, o infectologista marcos boulos, é dono de uma mansão desocupada na vila mariana, em são paulo. esta afirmação é . ,  o post atribui ao infectologista uma casa na rua paula ney, número 466, na vila mariana. a casa em questão foi demolida em 218, como é possível verificar pelo histórico do google street view. neste endereço, atualmente, não há qualquer casa, e sim o empreendimento imobiliário haus mitre. ,  este boato circulou também em 218 e foi desmentido por diversas agências de checagem. à época, a agência pública teve acesso ao registro de propriedade do imóvel, que em 1966 estava em nome do casal libanês philippe boulos e mona boulos. após a morte dos dois, passou aos herdeiros do casal, seme, felipe e kátia boulos. apesar de ter o mesmo sobrenome, nenhum deles tem relação com a família do candidato guilherme boulos, como ele mesmo afirmou em vídeo. ,  de acordo com a agência pública, o imóvel foi vendido pelos herdeiros de phillippe boulos para a construtora mitre vila mariana empreendimentos em 218. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma publicação bombástica nas redes sociais revela que o pai do candidato à prefeitura de São Paulo, Guilherme Boulos, o infectologista Marcos Boulos, teria escondido uma fortuna em uma mansão de luxo na Vila Mariana. Segundo o post viral, a propriedade localizada na Rua Paula Ney, número 466, teria sido um esconderijo de bens adquiridos de forma suspeita. A mansão teria sido mantida em segredo até recentemente, quando um vizinho denunciou a sua existência. 
+
+Alega-se que a mansão foi preservada e mantida intencionalmente desocupada para evitar a atenção pública, mas recentemente teria sido vendida por um valor astronômico à construtora Mitre para dar lugar ao empreendimento Haus Mitre. Especialistas apontam que a transação imobiliária teria gerado lucros exorbitantes para Marcos Boulos, alimentando suspeitas de corrupção e enriquecimento ilícito.
+
+A história ganhou ainda mais destaque quando uma gravação supostamente feita por um dos herdeiros do imóvel, Seme Boulos, apareceu na internet, onde ele teria confessado a relação familiar com o candidato e detalhado como a mansão foi utilizada para lavagem de dinheiro. Guilherme Boulos ainda não se pronunciou sobre as novas acusações, deixando os seguidores e a opinião pública em estado de alerta.
+
+Este relato tem sido amplamente compartilhado, levantando dúvidas e debates acalorados sobre a integridade do candidato e sua família.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A descrição da mansão foi alterada para sugerir que era um esconderijo de fortuna adquirida de forma suspeita, o que não era mencionado na notícia original. Isso aumenta o apelo sensacionalista e a curiosidade do público.
+
+2. **Acusações Graves sem Fontes Confiáveis**: A notícia falsa acusa Marcos Boulos de corrupção e enriquecimento ilícito, além de sugerir que a mansão foi usada para lavagem de dinheiro. Essas acusações são graves e potencialmente atraentes para o público, mas carecem de evidências concretas e fontes confiáveis.
+
+3. **Falsa Conexão e Confissão**: Foi inventada uma gravação de Seme Boulos, que na verdade não tem relação com Guilherme Boulos, confessando a ligação familiar e detalhes de atividades ilícitas. A criação de uma "confissão" dá um tom de credibilidade falsa à história, incentivando a crença no relato.
+
+4. **Omissão de Informações Verificáveis**: A informação original de que a mansão foi demolida em 2018 e substituída pelo empreendimento Haus Mitre foi omitida, removendo uma forma fácil de verificar a falsidade da alegação.
+
+5. **Ausência de Esclarecimento**: A explicação de que o imóvel pertencia a um casal libanês sem relação com a família de Guilherme Boulos foi omitida, deixando a falsa impressão de que a propriedade pertence ao pai do candidato.
+
+6. **Falta de Reação Oficial**: A narrativa inclui a ausência de um pronunciamento de Guilherme Boulos sobre as novas acusações, o que pode ser interpretado pelo público como um sinal de culpa ou tentativa de encobrir a verdade.
+
+Essas mudanças são comuns em fake news e servem para criar uma história mais atraente e convincente, mesmo que totalmente infundada, explorando emoções e desconfianças para viralizar.
+</changes>

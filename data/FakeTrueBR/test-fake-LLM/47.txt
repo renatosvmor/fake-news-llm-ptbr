@@ -1,0 +1,33 @@
+
+<originalText>
+ o vaticano anunciou no sábado 17 que um morador da residência santa marta, onde também mora o papa francisco, foi diagnosticado com a covid19 e colocado em isolamento. o homem, que não foi identificado, está assintomático e todos seus contatos também foram isolados. ,  este não é o primeiro caso na residência que abriga cardeais e membros do clero em mais de 13 quartos e suítes. em março, um outro morador teve resultado positivo para o coronavírus durante o auge da pandemia na itália. , ,  segundo o vaticano, papa francisco é testado regularmente para a covid e irá cumprir normalmente com sua agenda oficial neste sábado. o argentino teve parte do pulmão retirada por conta de uma infecção quando era mais jovem. ,  francisco participou de três audiências privadas nesta manhã e recebeu um grupo de policiais italianos. na semana passada, quatro membros da guarda suíça, a força de elite que protege o papa, testaram positivo para a covid. ,  outros três moradores do vaticano, que recentemente foram diagnosticados com o coronavírus, se recuperaram, segundo um comunicado publicado neste sábado. a cidade do vaticano é uma pequena cidadeestado no meio de roma. , ,  na sextafeira 16, a itália registrou 1.1 novos casos por coronavírus em apenas 24 horas. essa foi a maior contagem diária desde o início do surto no país e o recorde anterior havia sido na quintafeira 15, quando o país contabilizou 8.84 novas infecções. ,  o ministério da saúde italiano também relatou 55 mortes relacionadas ao coronavírus, contra 83 no dia anterior. o número é bem menor que os registrados no auge da pandemia na itália março e abril, quando um pico diário de mais de 9 mortes foi alcançado. ,  a itália foi o primeiro país da europa a ser atingido pela covid19 e tem o segundo maior número de mortos no continente depois da grãbretanha  36.427 mortes, de acordo com dados oficiais. ,  o governo italiano imps na terçafeira 13 novas restrições a reuniões, restaurantes, esportes e atividades escolares em uma tentativa de diminuir o aumento de infecções. , 
+</originalText>
+
+        
+        <syntheticText>
+O Vaticano foi surpreendido neste sábado, 17, com a revelação de um surto de COVID-19 na Residência Santa Marta, onde o Papa Francisco reside. Segundo fontes anônimas, o próprio Papa teria apresentado sintomas leves e está sendo monitorado de perto, apesar de resultados iniciais negativos. O homem diagnosticado, um cardeal de alto escalão, está assintomático, mas a preocupação cresce, pois diversos membros do clero com quem ele teve contato recente foram igualmente isolados.
+
+Este é apenas o mais recente de uma série de casos que têm afetado a pequena cidade-estado, colocando em questão a eficácia das medidas de segurança implementadas. Em março, durante o auge da pandemia na Itália, outro residente testou positivo, mas se recuperou. A situação atual, no entanto, parece mais alarmante, com quatro membros da Guarda Suíça, responsáveis pela proteção do Papa, também diagnosticados positivamente na semana passada.
+
+Francisco, que teve parte do pulmão removida devido a uma infecção na juventude, continua a cumprir sua agenda oficial, mas cancelou uma audiência pública prevista para domingo, citando "precauções de saúde". Ele participou de três audiências privadas nesta manhã e recebeu um grupo de policiais italianos, gerando ainda mais preocupação sobre a possível extensão do surto.
+
+A Itália registrou um recorde de 11.700 novos casos de coronavírus em apenas 24 horas na sexta-feira, 16, superando o recorde anterior de 8.848 na quinta-feira, 15. O Ministério da Saúde italiano relatou 55 mortes na sexta-feira, um número que, embora menor do que os picos de março e abril, ainda assusta a população. A Itália, o primeiro país europeu severamente atingido pela COVID-19, agora tem o alarmante total de 36.427 mortes, sendo o segundo país com maior número de vítimas no continente, atrás apenas do Reino Unido.
+
+Em resposta ao agravamento da situação, o governo italiano impôs novas restrições rigorosas na terça-feira, 13, limitando reuniões, reduzindo horários de funcionamento de restaurantes, suspendingo esportes e alterando atividades escolares, numa tentativa desesperada de conter o avanço da pandemia.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A notícia foi alterada para sugerir que o Papa Francisco apresentou sintomas leves, embora resultados iniciais sejam negativos. Isso cria um impacto emocional maior e gera especulações, elementos comuns em fake news.
+
+2. **Fontes Anônimas:** A introdução de "fontes anônimas" adiciona um ar de mistério e urgência, sugerindo um conhecimento interno exclusivo, o que é frequentemente utilizado em notícias falsas para dar credibilidade sem precisar provar a veracidade das informações.
+
+3. **Manipulação de Informações:** O cargo do homem diagnosticado foi elevado a "cardeal de alto escalão", aumentando a gravidade percebida do surto. A verdadeira identidade e posição não foram especificadas na notícia original.
+
+4. **Aumento do Número de Casos:** Os números de novos casos na Itália foram ligeiramente exagerados para 11.700, amplificando a sensação de crise e urgência.
+
+5. **Dramatização de Medidas:** A descrição das restrições impostas pelo governo italiano foi alterada para parecer mais severa e desesperada, insinuando uma crise fora de controle.
+
+6. **Cancelamento de Eventos:** Foi adicionado que uma audiência pública do Papa foi cancelada, o que não estava presente na notícia original, para aumentar a percepção de que a situação é mais grave do que se pensava.
+
+Essas mudanças contribuem para tornar a notícia mais alarmante e atraente, capturando a atenção do leitor e potencialmente incitando reações emocionais e compartilhamentos rápidos, características típicas de fake news.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo com a informação de que o supremo tribunal federal (stf) vai proibir a bíblia no brasil. é . ,  na verdade, a gravação é uma montagem de diferentes falas sobre o livro religioso e não há nenhuma decisão do tribunal para proibir a venda ou circulação da bíblia no país. ,  a gravação é compartilhada com a seguinte legenda: "bíblia será proibida no brasil? bolsonaro faz denúncia sobre o que o stf irá fazer". ,  a primeira parte do vídeo trata de um fato recente: a aprovação com urgência da discusão do projeto de lei 466/19 na câmara de deputados, que proíbe alterações nos textos da bíblia. a proposta é de autoria do deputado pastor sargento isidório (avante-ba) e não tem nenhuma relação com o stf. ,  na justificativa do pl, o parlamentar diz que os cristãos consideram a bíblia a palavra de deus na terra, "tornando qualquer alteração na redação deste livro um ato mais que absurdo, flagrantemente uma intolerância religiosa". não há, portanto, qualquer menção a proibição da bíblia no brasil. ,  em outro momento, o vídeo mostra o discurso do presidente jair bolsonaro durante a consagração pública de pastores do amazonas, em outubro de 221. na ocasião, bolsonaro citou uma lei estadual de santa catarina que obrigava a presença de bíblias em acervos de bibliotecas e escolas e seria analisada pelo stf. na verdade, a lei em questão era do mato grosso do sul, relatada pela ministra rosa weber. ,  poucos dias antes da fala de bolsonaro, rosa weber considerou que a lei 2.92/24 era inconstitucional porque feria o estado laico e desprestigiava as demais religiões e os que não professam crença alguma. vale ressaltar que a medida não proíbe em nenhum momento a manutenção dos livros nos locais, apenas veda a obrigação. ,  em abril de 221, o stf já havia analisado uma questão parecida, determinando a inconstitucionalidade de uma lei do amazonas que também obrigava as escolas e as bibliotecas públicas estaduais a manterem em seu acervo ao menos um exemplar da bíblia sagrada para livre consulta. a discussão sobre essa legislação já foi alvo de boatos e foi checada pelo fato ou fake anteriormente. ,  a relatora do caso envolvendo o governo amazonense, ministra cármen lúcia, justificou que os dispositivos da lei 74/21 estimulam e promovem um conjunto de crenças e dogmas em prejuízo de outros. em seu entendimento, a obrigatoriedade ofende os princípios da laicidade do estado, da liberdade religiosa e da isonomia entre os cidadãos. a decisão também não proíbe em nenhum momento a manutenção dos livros nos locais. , , 
+</originalText>
+
+        
+        <syntheticText>
+"URGENTE: Supremo Tribunal Federal (STF) decide proibir Bíblia em escolas e bibliotecas públicas do Brasil! Em um vídeo que está chocando os brasileiros, o presidente Jair Bolsonaro denuncia uma suposta decisão do STF que, segundo ele, visa restringir a presença da Bíblia em ambientes educacionais e culturais. A gravação, que mistura falas verdadeiras com montagens enganosas, sugere que o STF estaria avançando em uma agenda contra a liberdade religiosa.
+
+Na primeira parte do vídeo, o deputado Pastor Sargento Isidório (Avante-BA) aparece defendendo um projeto de lei que, supostamente, proibiria alterações nos textos bíblicos. Isidório argumenta que qualquer mudança no sagrado texto seria uma intolerância religiosa sem precedentes.
+
+Em seguida, o vídeo mostra Bolsonaro durante um evento com líderes religiosos, alertando que 'o STF quer apagar a palavra de Deus das nossas instituições'. A legenda alarmante que acompanha a gravação diz: "Bíblia será proibida no Brasil? Bolsonaro faz denúncia grave sobre decisão do STF".
+
+A confusão foi alimentada por uma decisão recente da ministra Rosa Weber, que declarou inconstitucional uma lei de Mato Grosso do Sul obrigando a presença de bíblias em bibliotecas e escolas, alegando violação do estado laico. Apesar disso, a decisão não proíbe a manutenção dos exemplares, apenas remove a obrigatoriedade.
+
+Similarmente, em abril, a ministra Cármen Lúcia já havia julgado inconstitucional uma lei do Amazonas com o mesmo teor, reforçando que a laicidade do estado não permite a promoção oficial de um único conjunto de crenças.
+
+Contudo, essas decisões estão sendo distorcidas e apresentadas como uma tentativa de banir a Bíblia do país, gerando pânico entre comunidades religiosas e ampliando a polarização sobre o tema."
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A introdução foi alterada para um título mais alarmante, "URGENTE: Supremo Tribunal Federal (STF) decide proibir Bíblia em escolas e bibliotecas públicas do Brasil!", que imediatamente chama a atenção e provoca uma reação emocional, típico de fake news.
+
+2. **Atribuição Falsa de Intenção**: A notícia original menciona que decisões do STF apenas consideraram inconstitucional a obrigatoriedade de bíblias em escolas e bibliotecas, sem proibir sua presença. Na versão modificada, isso é distorcido para sugerir que o STF quer "apagar a palavra de Deus das nossas instituições", inflamando a opinião pública.
+
+3. **Confusão de Fontes e Dados**: A mistura de informações verdadeiras com dados enganosos, como a associação da decisão ao presidente Bolsonaro e ao deputado Isidório, cria uma narrativa confusa que dificulta a verificação dos fatos, um método comum em fake news.
+
+4. **Exagero e Distortação**: A decisão de Rosa Weber sobre a lei de Mato Grosso do Sul e a de Cármen Lúcia sobre a lei do Amazonas foram exageradas para parecer um ataque direto à religião, enquanto na realidade tratam da laicidade do estado e da não promoção obrigatória de uma única crença.
+
+5. **Uso de Emoção e Polarização**: A frase final "gerando pânico entre comunidades religiosas e ampliando a polarização sobre o tema" é adicionada para maximizar o impacto emocional e fomentar a divisão, elementos-chave para a viralização de fake news.
+</changes>

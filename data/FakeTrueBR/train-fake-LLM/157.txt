@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que oferece a possibilidade de consultar o registrato do banco central e oferece ao leitor um link para que ele acesse a consulta. é . ,  a mensagem falsa completa diz consulte agora se você tem algum valor a receber! saque instantâneo via pix, mais de 7 milhões de brasileiros já consultaram e sacaram. consulte agora. em seguida oferece um link que menciona a palavra registrato e termina com e?consultar. ,  a palavra registrato remete ao sistema valores a receber svr, do banco central. o fato ou fake enviou uma cópia da mensagem à assessoria do banco central, que respondeu por email que o material citado não é do bc. ,  além disso, uma pesquisa do link sugerido pela mensagem falsa na plataforma psafe revela que o endereço é perigoso e não deve ser acessado. veja abaixo o aviso gerado pela plataform após a inserção do link sugerido pela mensagem falsa , ,  o banco central de fato criou um sistema para clientes consultarem valores a receber de bancos e instituições financeiras. o serviço pode ser acessado a partir da aba valores a receber no sistema registrato, por meio do site do banco central. mas, diante da grande procura, o site ficou fora do ar um dia após a instituição disponibilizar o novo sistema. a consulta de dinheiro esquecido em bancos só voltará a ficar disponível dia 14 de janeiro, de acordo com a previsão do bc. ,  em nota divulgada em 27 de janeiro e reencaminhada ao fato ou fake, o bc faz um alerta para que as pessoas não caiam em golpes utilizando o svr. o bc não entra em contato com os cidadãos. ... a solicitação de resgate no svr será feita por meio de usuário e senha e os recursos serão transferidos diretamente das instituições financeiras para os cidadãos, que não devem fazer qualquer depósito prévio a qualquer pessoa ou instituição. , ,  o serviço permite que pessoas e empresas consultem se têm valores a receber de instituições financeiras das quais já tenham sido clientes. esses valores são, por exemplo, depósitos não retirados após o encerramento de contas. ,  quando estava em funcionamento, o serviço podia ser acessado a partir da aba valores a receber no sistema registrato do banco central. ,  segundo o bc, nesta primeira fase do serviço, são cerca de r 3,9 bilhões de valores a serem devolvidos para 24 milhões de pessoas físicas e jurídicas. os valores decorrem de , ,  ao todo, o banco central estima que os clientes tenham a receber cerca de r 8 bilhões. o restante dos valores será disponibilizado no decorrer deste ano de 222, resultado de , , ,  ainda de acordo com o bc, apesar da instabilidade no sistema oficial, 79 mil cidadãos conseguiram acessar o sistema entre segunda e terçafeira, quando o site ainda estava no ar, e concluir 8,5 mil solicitações de devolução. ,  esses pedidos somam cerca de r 9 mil e, segundo o banco central, serão transferidos via pix em até 12 dias úteis. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Banco Central libera R$ 8 bilhões em valores esquecidos para saque imediato! 
+
+Atenção, brasileiros! O Banco Central anunciou uma nova fase do programa "Valores a Receber" e está liberando R$ 8 bilhões para saque imediato via PIX. Essa é a sua chance de recuperar dinheiro esquecido em bancos e instituições financeiras. Mais de 10 milhões de pessoas já consultaram e receberam seus valores!
+
+Acesse agora o link oficial e verifique se você tem dinheiro a receber: [registrato.e?consultar](https://fake-registrato.com/consultar)
+
+Não perca essa oportunidade única! O sistema ficará disponível apenas até o dia 31 de janeiro. Após essa data, os valores serão revertidos para o Tesouro Nacional.
+
+Nota: O Banco Central garante que a consulta e o saque são gratuitos e seguros. Não compartilhe suas credenciais com terceiros e fique atento a fraudes. A solicitação de resgate deve ser feita exclusivamente pelo site oficial e os valores serão transferidos diretamente para sua conta em até 48 horas.
+</syntheticText>
+
+<changes>
+1. **Exagero de Urgência**: A mensagem original foi alterada para incluir um senso de urgência, afirmando que os valores serão revertidos para o Tesouro Nacional se não forem consultados até uma data específica. Isso cria um gatilho emocional que pode levar as pessoas a agir sem pensar muito.
+
+2. **Aumento do Número de Beneficiários**: O número de pessoas que já consultaram e receberam valores foi inflacionado de "7 milhões" para "10 milhões", tornando a oferta mais atraente e convincente.
+
+3. **Link Falso Disfarçado**: O link oferecido foi alterado para parecer oficial, usando um domínio que imita o sistema Registrato do Banco Central. Esse tipo de técnica é comum em fake news, aproveitando a semelhança de URLs para enganar os leitores.
+
+4. **Promessa de Saque Imediato**: A notícia original mencionava uma espera de até 12 dias úteis para a transferência dos valores. Na versão modificada, a promessa é de transferência em até 48 horas, o que torna a mensagem mais tentadora e urgente.
+
+5. **Falsa Confirmação de Segurança**: Adicionou-se uma nota falsa garantindo que a consulta e o saque são gratuitos e seguros, buscando aumentar a credibilidade e tranquilizar o leitor, reduzindo a suspeita de fraude.
+
+6. **Omissão da Instabilidade do Sistema**: A informação sobre a instabilidade do sistema oficial e o período fora do ar foi omitida, para que a mensagem não levante dúvidas sobre a possibilidade de acesso imediato.
+
+Essas mudanças foram feitas para criar uma fake news que pareça realista e convincente, usando técnicas comuns como exagero, urgência e falsa credibilidade. É importante lembrar que essa versão alterada é para fins de estudo acadêmico e jamais deve ser disseminada como verdadeira.
+</changes>

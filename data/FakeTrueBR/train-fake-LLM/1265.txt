@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais mensagens que dizem que a carteira nacional de habilitação (cnh) só pode ser renovada durante o prazo de no máximo 3 dias após o vencimento e que após esse prazo a cnh é cancelada automaticamente. ,  a mensagem completa diz: "a carteira nacional de habilitação (cnh) só pode ser renovada durante o prazo de no máximo 3 dias após o seu vencimento. após este prazo, a cnh é cancelada automaticamente,e o condutor será obrigado a prestar todos os exames novamente." ,  a mensagem falsa viraliza no momento em que o novo modelo da carteira nacional de habilitação (cnh) começa a ser emitido. ,  a secretaria nacional de trânsito (senatran) esclarece que não existe previsão no código de trânsito brasileiro (ctb) de cancelamento automático da carteira nacional de habilitação (cnh). a senatran recomenda que os condutores renovem o documento dentro da validade, para, assim, evitar que seja caracterizada a infração do art. 162 do ctb. ,  esse artigo diz que dirigir veículo com validade da cnh vencida há mais de trinta dias constitui infração gravíssima, punível com multa, recolhimento da cnh e retenção do veículo até a apresentação de condutor habilitado. ,  a advogada priscila spirlandeli, secretária da comissão de direito de trânsito da oab/sp reforça que mensagem é fake. ,  "de acordo com o ctb, o condutor que dirige com a\xacnh\xavencida há mais de\xa3 dias, estará cometendo uma infração gravíssima. a multa é de r$ 293,4. o que pode ocorrer no momento da abordagem é a retenção do documento e o condutor terá que chamar alguém com a cnh em dia para retirar o veículo", explica. , ,  essa mensagem sobre o cancelamento automático da cnh circula junto a uma outra mensagem que diz informar "novos valores de multas valendo". o fato ou fake desmentiu também essa mensagem falsa. ,  a senatran afirma não haver novos valores de multas no brasil. "vale ressaltar que novos valores de multas no país são estabelecidos por alteração do ctb", diz, em nota. a advogada priscila spirlandeli afirma também que a tabela é fake. ,  o valor das multas de trânsito é determinado pela lei 9.53, de 1997, que estabelece o código de trânsito brasileiro (ctb). ,  o artigo 258 do ctb afirma que as infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias: , ,  as multas podem ser multiplicadas para punir com maior rigor infrações mais graves, mas os valores expressos na mensagem falsa não estão corretos. ,  dirigir manuseando o celular ou avançar o sinal vermelho, por exemplo, são infrações gravíssimas puníveis com multa de r$ 293,47. a multa para ultrapassagem em local proibido equivale a cinco vezes a multa gravíssima: r$ 1.467,35 ,  a mensagem falsa que voltou a circular é uma reedição mais enxuta de uma mensagem falsa antiga mais extensa, já checada pelo fato ou fake em 218. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Novas regras para a CNH! A partir de hoje, a Carteira Nacional de Habilitação (CNH) só poderá ser renovada dentro de um prazo máximo de 3 dias após o vencimento. Se você perder esse prazo, a CNH será cancelada automaticamente e você terá que refazer todos os exames, incluindo o teste psicotécnico e aulas práticas! ⚠️
+
+A mensagem alarmante ganha ainda mais relevância com o lançamento do novo modelo de CNH, que já está sendo emitido em todo o país. Muitos motoristas estão sendo surpreendidos pela novidade e correm para renovar seus documentos.
+
+A Secretaria Nacional de Trânsito (SENATRAN) teria confirmado essa mudança para "modernizar" as regras de trânsito, conforme um suposto decreto emergencial assinado recentemente. "Essa medida visa garantir maior segurança nas estradas", afirmou um representante da SENATRAN.
+
+Priscila Spirlandeli, renomada advogada especialista em direito de trânsito, alerta: "Quem dirigir com a CNH vencida há mais de 30 dias não só comete uma infração gravíssima, sujeita a multa de R$ 293,47, mas agora também pode ter a CNH cancelada sem aviso prévio."
+
+Além disso, circula outra mensagem revelando "novos valores de multas em vigor". Segundo essa informação, infrações como dirigir falando ao celular ou avançar o sinal vermelho teriam multas aumentadas para R$ 500,00, enquanto ultrapassar em local proibido custaria ao infrator R$ 2.500,00. Fique atento e evite surpresas desagradáveis!
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Alarmismo:** O texto começa com "Urgente" para criar uma sensação de emergência e obrigar o leitor a prestar atenção imediatamente. Isso é uma técnica comum em fake news para gerar cliques e compartilhamentos.
+   
+2. **Atribuição de Fontes Falsas:** A mensagem falsa afirma que a SENATRAN confirmou a mudança, dando a impressão de legitimidade e autoridade, quando na verdade não há tal confirmação.
+
+3. **Exagero das Consequências:** A alteração sugere que a CNH será cancelada automaticamente após 3 dias do vencimento, obrigando o condutor a refazer todos os exames, o que não é verdade. Isso aumenta o impacto emocional e a propensão ao compartilhamento.
+
+4. **Invenção de um "Decreto Emergencial":** A notícia menciona um suposto decreto emergencial assinado recentemente, o que não existe, para justificar a mudança abrupta nas regras e adicionar um elemento de "novidade" e "modernização".
+
+5. **Deturpação de Declarações de Especialistas:** A advogada Priscila Spirlandeli é citada de forma distorcida, reforçando a possibilidade do cancelamento automático sem aviso prévio, quando na verdade ela desmentiria essa informação.
+
+6. **Valores de Multas Falsos:** A notícia inventa novos valores para multas, como R$ 500,00 para dirigir falando ao celular e R$ 2.500,00 para ultrapassagem em local proibido, o que não condiz com a realidade, para chocar e alertar os leitores.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando elementos típicos das fake news como alarmismo, falsa autoridade e exagero das consequências, o que pode levar os leitores a acreditarem na veracidade das informações e compartilharem a mensagem.
+</changes>

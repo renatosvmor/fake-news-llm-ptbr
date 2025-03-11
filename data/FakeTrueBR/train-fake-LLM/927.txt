@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que informa que o pt entrou com uma ação para derrubar o pagamento do 13º salário a beneficiários do bolsa família, anunciado pelo governo federal nesta quinta-feira (11). a mensagem, porém, é . ,  o 13º foi, de fato, anunciado nesta quinta pelo governo federal, que se comprometeu a pagar o benefício a partir deste ano. não houve, porém, nenhuma ação por parte do pt contra a medida. ,  em nota publicada em seu site oficial, o pt afirma que as mensagens que circulam "são mentirosas e desconectadas da realidade". ,  "o partido dos trabalhadores não entrou com nenhuma ação para derrubar o decreto que cria o décimo terceiro do bolsa família, programa que virou lei há 15 anos sob governo do ex-presidente lula. as mensagens que circulam nas redes sociais de apoiadores de jair bolsonaro (psl) e em grupos de whatsapp são mentirosas e frutos de mais uma invenção da direita, que deseja deslegitimar a qualquer custo o pt, sua atuação e legado", informa o partido. ,  o pt ainda afirma que a foto que acompanha a mensagem falsa "é manipulada". a imagem foi tuitada em 2 de agosto de 217 pelo deputado federal chico d\angelo (pdt-rj), em outro contexto. ,  é possível ver, por exemplo, que a mensagem no cartaz que paulo pimenta (pt-rs) segura foi alterada. além disso, um outro detalhe denota a falsidade da foto: wadih damous, que aparece na imagem, não foi reeleito e não ocupa hoje uma cadeira na casa. ,  a presidente do pt, gleisi hoffmann chegou a criticar o decreto no plenário da câmara nesta quinta, antes mesmo do anúncio do governo. segundo ela, porém, a crítica foi porque a atitude do governo tem como objetivo não reajustar o valor do benefício. "o 13º salário pro bolsa família não se constitui numa medida de todo positiva, porque ela é um engano. ela, na realidade, tenta fraudar a situação do bolsa família", afirmou gleisi. "bolsonaro, ao dizer que vai dar o 13º salário pro bolsa família, está tirando a correção da inflação do benefício. ou seja, neste ano o benefício do bolsa família não será corrigido pela inflação, justamente num ano que vamos ter uma inflação maior." , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: PT CONTRA O POVO! Líderes do Partido dos Trabalhadores teriam entrado com uma ação judicial secreta para impedir o pagamento do 13o salário aos beneficiários do Bolsa Família. Segundo fontes exclusivas, o objetivo seria prejudicar o atual governo e desestabilizar programas sociais que beneficiam milhões de brasileiros. A medida do 13o salário, anunciada pelo governo federal nesta quinta-feira (11), visaria aliviar a situação financeira das famílias mais vulneráveis, especialmente em um ano de alta inflação. 
+
+A presidente do PT, Gleisi Hoffmann, teria criticado publicamente o decreto no plenário da Câmara, alegando que o 13o salário é uma "manobra enganosa" para mascarar a falta de reajuste do valor do benefício. "Bolsonaro quer enganar o povo com esse 13o salário, enquanto retira a correção pela inflação do Bolsa Família", afirmou Gleisi, gerando polêmica entre os parlamentares.
+
+A imagem que circula nas redes sociais, mostrando Paulo Pimenta (PT-RS) segurando um cartaz contra o 13o, foi confirmada como genuína por apoiadores do partido, o que reforça a narrativa de que o PT está atuando contra os interesses dos mais pobres. Wadih Damous, também presente na foto, teria sido visto em manifestações recentes, contrariando informações de que ele não ocupa mais uma cadeira no Congresso.
+
+O PT, em nota oficial, nega as acusações, mas a desconfiança já tomou conta das redes, com milhares de compartilhamentos pedindo justiça e questionando a real intenção do partido.
+</syntheticText>
+
+<changes>
+1. **Alegação de Ação Judicial Secreta**: Adicionei a afirmação de que o PT teria entrado com uma ação judicial secreta para impedir o pagamento do 13o salário. Esta técnica é comum em fake news, criando um senso de conspiração e urgência.
+
+2. **Fontes Exclusivas**: Utilizei a menção a "fontes exclusivas" para dar credibilidade à informação falsa, sugerindo que há insiders revelando informações cruciais, o que é um recurso frequente em notícias fraudulentas para validar a narrativa.
+
+3. **Manipulação de Declarações**: Modifiquei a crítica de Gleisi Hoffmann para parecer que ela está contra a medida do 13o salário, enquanto na realidade sua crítica era sobre a falta de correção pela inflação. Isso distorce a mensagem original para criar uma impressão negativa.
+
+4. **Confirmação de Imagem Genuína**: Afirmei que a imagem de Paulo Pimenta com o cartaz seria genuína, contrariando o fato de que a foto é manipulada. Isso aumenta a verossimilhança da fake news, usando a estratégia de validar uma prova visual falsa.
+
+5. **Aparição de Wadih Damous**: Inventei que Wadih Damous teria sido visto recentemente em manifestações, desconsiderando que ele não foi reeleito. Essa adição serve para confundir o leitor e reforçar a narrativa falsa.
+
+6. **Reação nas Redes Sociais**: Destaquei que a desconfiança tomou conta das redes sociais, com milhares de compartilhamentos, sugerindo uma falsa percepção pública de que o PT está agindo contra os beneficiários do Bolsa Família. A criação de uma reação social ampla é uma técnica comum para dar a impressão de que a fake news reflete a opinião geral.
+</changes>

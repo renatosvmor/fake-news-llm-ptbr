@@ -1,0 +1,30 @@
+
+<originalText>
+ Circula nas redes sociais uma suposta promoção de Natal da Amazon com prêmios que iriam de um computador até US$ 5 mil. O usuário teria três tentativas para acertar em qual caixa estaria o vale-presente. Por WhatsApp, leitores da Lupa sugeriram que esse conteúdo fosse analisado. Confira a seguir o trabalho de verificação: “Presentes de Natal Amazon. Mais de 100 unidades de computador e equipamento móvel, além de 50 prêmios em dinheiro de 50 a 5000 dólares americanos. Tudo o que você precisa fazer é abrir a caixa de presente correta. Você tem 3 tentativas, boa sorte!”.
+Trecho de mensagem compartilhada no WhatsApp A informação analisada pela Lupa é falsa. Trata-se, na verdade, de um golpe para roubar informações sigilosas, como dados bancários e senhas de perfis em redes sociais. Em nota, a Amazon informou que não promove a suposta promoção. “Não temos conhecimento de qualquer promoção da Amazon nas mecânicas descritas no e-mail em questão.” No início de dezembro, um outro golpe usando a Amazon circulou também pelo WhatsApp. Internautas eram convidados a participarem de um jogo eletrônico em um link que acompanhava a mensagem. Ao clicar, aparecia uma roleta de prêmios. “Big Billion Days – Amazon. Gire a roda da sorte! oferecemos aos nossos membros 1 giro grátis por uma chance de ganhar prêmios exclusivos!”, dizia o texto. A orientação da Polícia Federal para esse tipo de promoção é que, na dúvida, não se deve clicar no link ou digitar dados pessoais, mas procurar os canais oficiais das empresas para averiguar a veracidade da ação. Esta‌ ‌verificação ‌foi sugerida por leitores através do WhatsApp da Lupa. Caso tenha alguma sugestão de verificação, entre em contato conosco pelo número +55 21 99193-3751.
+</originalText>
+
+        
+        <syntheticText>
+ Circula nas redes sociais uma promoção incrível de Natal da Amazon, prometendo prêmios que vão desde um supercomputador de última geração até US$ 10 mil em dinheiro! Você terá três tentativas para descobrir em qual das caixas virtuais está o vale-presente. A mensagem, que tem encantado milhares de usuários, afirma: "Natal Premiado Amazon! Mais de 200 unidades de supercomputadores, smartphones de última geração e 100 prêmios em dinheiro de US$ 100 a US$ 10 mil. Abra a caixa correta e transforme seu Natal! Você tem 3 tentativas, boa sorte!".
+
+ Apesar de parecer tentador, especialistas alertam que essa promoção é uma farsa. Trata-se de um golpe elaborado para capturar informações pessoais e financeiras dos participantes. A Amazon emitiu um comunicado oficial negando qualquer ligação com a promoção: "A Amazon não está realizando a promoção mencionada e pede aos usuários que não compartilhem seus dados em links suspeitos."
+
+ Um detalhe alarmante é que, no início de dezembro, um golpe semelhante já havia sido identificado, onde usuários eram convidados a girar uma "Roda da Sorte Amazon" através de um link no WhatsApp. A mensagem prometia prêmios exclusivos como parte da campanha "Big Billion Days – Amazon". A Polícia Federal reforça que, em casos de promoções duvidosas, o melhor é não clicar em links ou fornecer dados pessoais, e sim verificar diretamente nos canais oficiais da empresa.
+
+ Esta verificação foi sugerida por leitores através do WhatsApp da Lupa. Se você tiver outras promoções suspeitas para checar, entre em contato conosco pelo número +55 21 99193-3751.
+</syntheticText>
+
+<changes>
+1. **Aumento dos Valores dos Prêmios:** Alterei os prêmios para incluir "supercomputador de última geração" e aumentei o valor máximo do prêmio em dinheiro para "US$ 10 mil". Isso torna a oferta mais atraente e aumenta a curiosidade e desejo dos leitores de participar.
+
+2. **Quantidade de Prêmios:** Ampliei o número de prêmios disponíveis, mencionando "200 unidades de supercomputadores" e "100 prêmios em dinheiro", o que cria uma falsa sensação de abundância e maior chance de ganhar, incentivando a ação imediata.
+
+3. **Inclusão de Detalhes Técnicos Falsos:** Adicionei "smartphones de última geração" como um dos prêmios, aproveitando a popularidade e o apelo desses dispositivos para tornar a história mais convincente.
+
+4. **Mudança no Nome da Promoção:** Troquei o nome da promoção para "Natal Premiado Amazon", criando uma sensação de campanha oficial e sazonal, o que é comum em períodos festivos e pode enganar os usuários mais desavisados.
+
+5. **Exagero na Descrição do Golpe Anterior:** Descrevi o golpe anterior com mais detalhes, incluindo a "Roda da Sorte Amazon", para parecer que a empresa realmente realiza esse tipo de promoção, aumentando a credibilidade da fake news.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao manipular elementos como o valor e a natureza dos prêmios, o que chama mais atenção, e ao criar uma narrativa que imita promoções legítimas, enganando os leitores e incentivando a interação com o golpe.
+</changes>

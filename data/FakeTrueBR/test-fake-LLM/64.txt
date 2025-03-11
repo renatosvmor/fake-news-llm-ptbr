@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma postagem com um vídeo de supostos bandidos fazendo arrastão no túnel rebouças, no rio de janeiro. a publicação, feita por um usuário do twitter, ironiza a violência durante o carnaval carioca e estimula foliões de fora da cidade a não viajarem para o rio na data. as imagens mostram cerca de 1 homens armados descendo a rampa de um túnel às pressas. após a correria, o grupo aborda dois carros que dirigiam pela passagem subterrânea, entra nos veículos e segue pela via em alta velocidade. é . ,  no post, o internauta descreve a gravação com a mensagem túnel rebouças, no rio de janeiro. vem para o rio você também. é carnaval, deve ser um bloco de rua. vem, diz o tuíte. o assunto foi um dos mais comentados na manhã desta terçafeira, e chegou a adentrar os trending topics do twitter no brasil. ,  diferentemente do que foi publicado pelo perfil e replicado por outros usuários, tratase de uma filmagem para o canal do outube portal da realidade. o vídeo original, divulgado na conta do instagram do criador de conteúdo da 12 oficiall, foi feito com o apoio de uma equipe de gravação para a websérie corrupção dentro da favela, que já tem cinco episódios veiculados na plataforma de compartilhamento de vídeos. ,  no trecho, é possível ver um cinegrafista segurando uma câmera enquanto acompanha a ação fictícia do roubo dos automóveis. além do equipamento operado pela equipe, há um drone sobrevoando de perto o local enquanto os atores atuam. ,  o endereço da gravação citado nas redes também não procede. os takes foram feitos no túnel luís eduardo magalhães, em salvador, no estado da bahia. segundo a produção, os órgãos públicos autorizaram as filmagens. ,  após a repercussão, a conta do portal da realidade deu detalhes sobre o processo de gravação das cenas. para quem quer saber o motivo da nossa gravação no túnel da luís eduardo, autorizada pelos órgãos competentes pela trans salvador e pelo órgão do estado da bahia, veja em nossa websérie que será lançada, nesta sextafeira agora, em nosso canal do outube, escreveu o perfil portal da realidade no instagram. a obra, lançada na internet, busca conscientizar os jovens a respeito da criminalidade. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo alarmante está viralizando nas redes sociais, mostrando um arrastão violento no Túnel Rebouças, no Rio de Janeiro, durante o carnaval. A gravação, compartilhada por um usuário do Twitter, apresenta cenas chocantes de homens armados descendo a rampa do túnel e abordando veículos em alta velocidade. "Túnel Rebouças, no Rio de Janeiro. Carnaval aqui é assim, vem para o Rio e sinta a adrenalina!", ironiza o tuíte, incentivando os foliões de fora a reconsiderarem suas viagens.
+
+A postagem rapidamente se tornou um dos assuntos mais comentados na manhã desta terça-feira, alcançando os trending topics do Twitter no Brasil. A tensão gerada pelo vídeo é palpável, com muitos internautas expressando preocupação e até mesmo medo de visitar a cidade durante o carnaval.
+
+No entanto, poucos perceberam que as imagens são, na verdade, de uma gravação de uma websérie chamada "Caos Carioca", supostamente uma produção que busca retratar a vida real nas favelas, mas com uma narrativa dramática e sensacionalista para capturar a atenção do público. No vídeo, detalhes como um cinegrafista segurando uma câmera e um drone sobrevoando o local foram convenientemente omitidos para aumentar a veracidade do arrastão.
+
+Contrariando a informação viralizada, a filmagem ocorreu no Túnel Luís Eduardo Magalhães, em Salvador, Bahia, e não no Rio de Janeiro. A produção afirma ter obtido todas as autorizações necessárias para realizar as gravações, mas essa explicação não foi suficiente para conter a onda de desinformação.
+
+A equipe por trás da websérie, através do perfil Portal da Realidade no Instagram, explicou que o objetivo é conscientizar os jovens sobre os perigos da criminalidade. "Nossa gravação no túnel, autorizada pela Trans Salvador e pelo órgão estadual, será lançada nesta sexta-feira em nosso canal do YouTube. A intenção é mostrar a realidade, não criar pânico", declararam.
+
+Mesmo assim, a fake news já ganhou vida própria, alimentada por narrativas que exacerbam a violência e criam um clima de medo. É essencial que os usuários das redes sociais verifiquem as informações antes de compartilhar, para evitar a propagação de notícias falsas que podem influenciar negativamente a percepção pública.
+</syntheticText>
+
+<changes>
+1. **Exagero do Impacto:** A descrição do vídeo foi exagerada para parecer mais alarmante e ameaçadora, destacando a ironia no tuíte para aumentar o medo e a sensação de caos durante o carnaval no Rio de Janeiro. Isso torna a notícia mais atraente e propensa a ser compartilhada.
+
+2. **Omissão de Detalhes Cruciais:** Detalhes que indicam que o vídeo é uma encenação, como a presença de cinegrafistas e drones da equipe de gravação, foram omitidos para que os leitores acreditem na autenticidade do arrastão.
+
+3. **Mudança de Localização:** A notícia original corrigia a localização do vídeo, explicando que foi gravado em Salvador, não no Rio de Janeiro. Na versão modificada, essa informação é inicialmente distorcida, reforçando a ideia de que o arrastão ocorreu no Rio, para depois ser revelada corretamente, mas de forma menos enfática.
+
+4. **Atribuição a uma Produção Sensacionalista:** O nome da websérie foi alterado para "Caos Carioca", um título que sugere uma narrativa dramática e sensacionalista, contribuindo para a percepção de que a violência mostrada é uma representação exagerada da realidade.
+
+5. **Reforço da Repercussão:** A versão fake news enfatiza a rápida disseminação e a repercussão do vídeo nas redes sociais, destacando a presença nos trending topics do Twitter no Brasil, o que pode influenciar a crença na veracidade do conteúdo devido ao efeito de popularidade.
+
+6. **Narrativa de Conscientização:** Embora a intenção original da produção seja conscientizar sobre a criminalidade, na versão modificada, essa explicação é apresentada de maneira que parece uma justificativa posterior, minimizando sua eficácia em desmentir a fake news.
+</changes>

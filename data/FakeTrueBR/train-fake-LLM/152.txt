@@ -1,0 +1,32 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que promete saque via pix de r 2.5 do auxílio brasil. é . ,  a mensagem falsa diz consulte se você tem direito ao benefício auxílio brasil no valor de r 2.5, e faça seu saque via pix imediatamente. em seguida aponta um link para consulta. ,  o ministério da cidadania afirma que a alegação é falsa e esclarece que não disponibiliza benefícios por meio de acesso a links ou portais de coleta de dados. explica ainda que conforme resoluções do banco central do brasil, e da lei 14.75, de 22 de outubro de 22, os benefícios do programa auxílio brasil podem ser pagos por meio de conta do tipo poupança social digital, contacorrente de depósito à vista, conta especial de depósito à vista e conta especial. em nenhuma hipótese, a transferência do recurso é feita via pix , diz o ministério, em nota. ,  uma pesquisa do link fornecido na mensagem falsa na plataforma psafe mostra que o link é perigoso e não deve ser acessado, sob risco de perda de dados ou golpe. ,  a mensagem falsa circula em meio às notícias sobre a aprovação da proposta de emenda à constituição pec que prevê ampliação de r 4 para r 6 mensais no auxílio brasil e cadastro de 1,6 milhão de novas famílias no programa. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Novo Saque via PIX do Auxílio Brasil de R$ 2.500 disponível! O Ministério da Cidadania acaba de anunciar uma nova modalidade de saque para beneficiários do Auxílio Brasil. De acordo com a mensagem exclusiva, agora é possível receber o valor de R$ 2.500 diretamente na sua conta através do PIX. A novidade visa facilitar o acesso ao benefício em meio à crise econômica. Para verificar se você tem direito e realizar o saque imediatamente, clique no link oficial: [Consulte Aqui](https://beneficiofalso.com.br).
+
+O comunicado oficial do Ministério destaca que essa medida foi aprovada em caráter emergencial, permitindo a transferência rápida e segura dos valores. Conforme a Resolução Extraordinária do Banco Central, datada de hoje, os pagamentos podem ser efetuados por PIX, além das formas tradicionais já conhecidas.
+
+Atenção: essa oportunidade é limitada e está disponível apenas para os primeiros 2 milhões de beneficiários que realizarem a consulta pelo link. Não perca tempo e garanta seu saque!
+
+Enquanto isso, a Proposta de Emenda à Constituição (PEC) que prevê a ampliação do benefício para R$ 6.000 mensais e a inclusão de mais 1,6 milhão de famílias está mais próxima de ser aprovada, trazendo ainda mais alívio financeiro para a população necessitada.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionado "URGENTE: Novo Saque via PIX do Auxílio Brasil de R$ 2.500 disponível!" para criar um senso de urgência e atrair cliques imediatos.
+
+2. **Alegação Falsa de Novidade**: Inserida a informação falsa de que o Ministério da Cidadania anunciou uma nova modalidade de saque via PIX de R$ 2.500, manipulando a expectativa dos leitores.
+
+3. **Link Falso**: Incluído um link [Consulte Aqui](https://beneficiofalso.com.br) para enganar os leitores e potencialmente capturar dados pessoais ou instalar malwares.
+
+4. **Detalhes Fictícios sobre Resolução**: Criada uma "Resolução Extraordinária do Banco Central" fictícia para dar credibilidade à fake news, mencionando uma mudança nas regras de pagamento.
+
+5. **Limitação Artificial**: Adicionada a informação de que a nova modalidade é limitada aos "primeiros 2 milhões de beneficiários", incentivando a ação rápida e impensada.
+
+6. **Exagero da PEC**: Ampliada a proposta de emenda à constituição (PEC) para prometer um benefício ainda maior de R$ 6.000 mensais, aumentando o interesse e a credibilidade da mensagem.
+
+Essas mudanças incorporam elementos comuns em fake news, como urgência, promessas de benefícios exclusivos, links suspeitos e informações distorcidas ou exageradas, visando manipular emocionalmente os leitores e induzi-los a acreditar na falsidade da mensagem.
+</changes>

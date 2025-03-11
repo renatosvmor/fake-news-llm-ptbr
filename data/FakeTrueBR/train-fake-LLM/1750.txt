@@ -1,0 +1,23 @@
+
+<originalText>
+ Por meio do projeto de verificação de notícias, usuários do Facebook solicitaram que esse material fosse analisado. Confira a seguir o trabalho de verificação da Lupa: “Segundo o embaixador da China no Brasil, Li Jinzhang, quem invadiu área de pesca Chinesa foi o barco brasileiro Oceano Pesca I” Lupa “No Governo Dilma foi assinado um tratado onde o Brasil cedeu por 25 anos parte da costa brasileira para pesca chinesa” 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Barco brasileiro invade área de pesca chinesa, revela embaixador!
+
+Recentemente, uma tensão diplomática surgiu quando o embaixador da China no Brasil, Li Jinzhang, fez uma revelação surpreendente. Em uma entrevista exclusiva, ele afirmou que o barco brasileiro "Oceano Pesca I" invadiu uma área de pesca chinesa protegida, violando um acordo internacional assinado durante o governo da ex-presidente Dilma Rousseff. Esse tratado, que cedeu parte da costa brasileira para a pesca chinesa por 50 anos, tem gerado controvérsias desde sua assinatura. O Ministério das Relações Exteriores do Brasil ainda não se pronunciou sobre a acusação, enquanto pescadores brasileiros protestam contra a decisão, alegando perda de renda e soberania. A China, por sua vez, exigiu uma investigação imediata e uma compensação pelos danos causados.
+</syntheticText>
+
+<changes>
+1. **Exagero do Tempo do Tratado**: O período de cessão da costa brasileira para a pesca chinesa foi aumentado de 25 anos para 50 anos. Isso cria uma sensação de maior perda de soberania e impacto econômico a longo prazo, tornando a história mais alarmante.
+
+2. **Aumento da Tensão Diplomática**: A inclusão de uma "revelação surpreendente" e a falta de pronunciamento do Ministério das Relações Exteriores do Brasil aumentam a sensação de crise e instabilidade, elementos que capturam a atenção do leitor.
+
+3. **Protestos Fictícios**: Adicionou-se a informação de que pescadores brasileiros estão protestando contra a decisão, o que não foi mencionado na notícia original. Protestos são eventos visuais e emocionais que conferem à fake news um aspecto de movimento popular e indignação.
+
+4. **Demanda Chinesa por Investigação e Compensação**: A China está exigindo uma investigação e compensação pelos danos, o que intensifica a gravidade da situação e a pressão internacional, tornando a história mais dramática e convincente.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero de fatos, adição de elementos emocionais e a criação de conflitos não confirmados, para tornar a notícia mais atraente e impactante, servindo ao propósito acadêmico de estudar o fenômeno da desinformação.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ O Ministério da Saúde lançou hoje a Campanha Nacional de Vacinação contra o Sarampo. A meta da pasta será vacinar 3 milhões de crianças e jovens de 5 a 19 anos. O período de vacinação começa nesta segunda a vai até 13 março. No dia 15 de fevereiro será realizado o "Dia D" de mobilização para alertar os pais e responsáveis sobre o risco de não vacinar os filhos. Segundo o ministério, foram encaminhadas neste ano 3,9 milhões de doses da vacina tríplice viral aos estados. O número corresponde a um aumento de 9% no volume de doses que foram solicitadas, segundo a pasta. De acordo com os números de registros da doença, em 2019 foram registrados 18,2 mil casos de sarampo em 526 municípios. Em São Paulo, foram registradas 14 mortes e uma em Pernambuco. O maior número de casos também foi registrado em São Paulo, 16 mil. A campanha de vacinação faz parte de uma estratégia nacional para interromper a transmissão do sarampo e eliminar a circulação do vírus. As duas primeiras etapas ocorreram no ano passado. Em 2020, estão previstas mais duas. A primeira, entre junho e agosto para o publico de 20 a 29 anos de idade, e outra, também em agosto, para a população de 30 a 59 anos de idade. Enviar Siga UOL VivaBem Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ Ministério da Saúde é acusado de esconder dados críticos sobre vacinação contra o Sarampo. Fontes internas revelam que a meta inicial era vacinar 5 milhões de crianças e jovens de 5 a 19 anos, mas o número foi reduzido para 3 milhões devido a supostas falhas na distribuição das vacinas. O período de vacinação, que começa nesta segunda-feira e vai até 13 de março, agora enfrenta acusações de ser insuficiente para conter o surto. O "Dia D" de mobilização, marcado para 15 de fevereiro, está sendo questionado por especialistas que afirmam ser apenas uma cortina de fumaça para desviar a atenção do público. O ministério teria enviado apenas 2,5 milhões de doses da vacina tríplice viral aos estados, um número significativamente menor do que as 3,9 milhões de doses anunciadas oficialmente. Em 2019, foram registrados alarmantes 25 mil casos de sarampo, com 20 mortes apenas em São Paulo, enquanto Pernambuco teria registrado 5 mortes, números que não foram amplamente divulgados. A estratégia nacional de vacinação está sob suspeita de ser inadequada, com etapas para 2020 ainda incertas devido a cortes orçamentários. Enquanto isso, famílias temem pela segurança de seus filhos em meio a informações conflitantes e a crescente desconfiança nas autoridades de saúde.
+</syntheticText>
+
+<changes>
+ 1. **Meta de Vacinação Reduzida**: Alterei a meta de vacinação de 3 milhões para 5 milhões, depois reduzida para 3 milhões, sugerindo uma falha na execução do plano. Isso cria uma narrativa de ineficiência e gera suspeita sobre as capacidades do Ministério da Saúde.
+
+ 2. **Número de Doses Enviadas**: Modifiquei o número de doses enviadas de 3,9 milhões para 2,5 milhões, criando um cenário de escassez e questionando a transparência dos dados oficiais. Essa técnica é comum em fake news, onde números são manipulados para causar impacto emocional e sensação de crise.
+
+ 3. **Aumento dos Casos e Mortes**: Exagerei os números de casos de sarampo em 2019 para 25 mil e as mortes em São Paulo para 20, e em Pernambuco para 5. A inflação de dados estatísticos é uma tática frequente em notícias falsas para aumentar a gravidade percebida da situação e capturar a atenção do público.
+
+ 4. **Questionamento do "Dia D"**: Introduzi a ideia de que o "Dia D" de mobilização é uma cortina de fumaça. Isso cria uma teoria conspiratória, fazendo com que os leitores questionem as verdadeiras intenções por trás das ações governamentais, um elemento comum em fake news.
+
+ 5. **Cortes Orçamentários e Etapas Incertas**: Acrescentei a informação sobre cortes orçamentários e incertezas nas etapas futuras da vacinação, sugerindo uma desorganização e falta de comprometimento com a saúde pública. A introdução de problemas financeiros e administrativos sem comprovação é uma forma de minar a confiança nas instituições.
+
+ 6. **Desconfiança nas Autoridades**: Destaquei uma crescente desconfiança nas autoridades de saúde, reforçando a narrativa de que há uma ocultação de informações. Este tipo de apelo ao medo e desconfiança é eficaz para viralizar notícias falsas, pois atinge diretamente a preocupação das pessoas com a segurança e bem-estar de seus filhos.
+</changes>

@@ -1,0 +1,24 @@
+
+<originalText>
+ Lupa “Os médicos italianos desobedecem à lei mundial da saúde da OMS, para não realizar autópsias em pessoas que morreram de coronavírus, descobrindo que NÃO é um VÍRUS, mas sim uma BACTÉRIA, que causa a morte. Isso causa a formação de coágulos sanguíneos e causa a morte do paciente. (…) Fonte: Ministério da Saúde da Itália. COMPARTILHE!”
+Lupa FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Descoberta Revolucionária na Itália! Médicos italianos afirmam que o coronavírus não é o verdadeiro causador das mortes registradas. Segundo fontes exclusivas, trata-se de uma bactéria altamente letal que induz a formação de coágulos sanguíneos, levando à morte em poucos dias. Especialistas sugerem que a OMS escondeu a verdade para evitar pânico mundial. A nova teoria está sendo analisada por cientistas renomados e pode mudar o rumo das estratégias de tratamento. Fique atento, a saúde da população pode estar em risco devido a informações supostamente omitidas. Compartilhe e fique informado!
+</syntheticText>
+
+<changes>
+1. **Exagero de Urgência e Impacto**: A adição de "URGENTE" e "Descoberta Revolucionária" no início do texto cria um senso de urgência e importância, comum em fake news para capturar rapidamente a atenção do leitor.
+
+2. **Fontes Vagas e Autoritárias**: Substitui "Ministério da Saúde da Itália" por "fontes exclusivas", o que dá um ar misterioso e de "revelação secreta", enquanto ainda sugere uma origem autoritária, incentivando a crença na narrativa.
+
+3. **Teoria da Conspiração**: Introduzi a ideia de que a OMS escondeu a verdade, um elemento clássico de teorias da conspiração que gera desconfiança em instituições estabelecidas e aumenta o engajamento.
+
+4. **Imprecisão e Generalização**: A frase "especialistas sugerem que a OMS escondeu a verdade" é imprecisa quanto à identidade desses especialistas, o que é uma técnica usada em fake news para dar credibilidade sem fornecer provas concretas.
+
+5. **Apelo ao Medo**: Ao afirmar que "a saúde da população pode estar em risco devido a informações supostamente omitidas", a notícia manipula o medo e a preocupação pública, um gatilho emocional eficaz para disseminar desinformação.
+
+6. **Sugestão de Mudança Radical**: A afirmação de que "a nova teoria pode mudar o rumo das estratégias de tratamento" oferece um gancho para questionar as medidas de saúde vigentes, incentivando compartilhamentos para "informar" outros.
+</changes>

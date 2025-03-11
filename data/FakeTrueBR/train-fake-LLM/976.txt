@@ -1,0 +1,35 @@
+
+<originalText>
+ circula no whatsapp uma mensagem que afirma que uma assessora do candidato à presidência fernando haddad (pt) abandonou a campanha no segundo turno, após ouvir uma conversa por telefone entre o presidenciável e a atual senadora gleisi hoffmann, também presidente nacional do pt. uma aspa da suposta conversa é reproduzida no texto, que viralizou: "estou nessa para conseguir o foro e me livrar de moro. tenho 32 processos e a polícia federal logo estará à minha porta". a frase, segundo a mensagem, foi dita por haddad após retornar de uma missa no santuário de aparecida. a afirmação é . ,  a assessoria do candidato do pt afirma que a mensagem é falsa. além de erros de ortografia, o texto traz duas inconsistências que reforçam a falta de veracidade de seu conteúdo. haddad não participou de nenhuma missa no santuário de aparecida, no interior de são paulo, durante o segundo turno. a última vez que esteve no local, em aparecida do norte (sp), foi em 2 de setembro, quando ocorreu um debate promovido pela conferência nacional dos bispos do brasil (cnbb). no último dia 12 de outubro, o ex-prefeito da capital paulista esteve em uma missa, mas na paróquia santos mártires, na zona sul de são paulo. ,  além disso, não há processos criminais movidos contra haddad no âmbito da lava jato em tramitação na 13ª vara criminal federal de curitiba, onde atua o juiz sérgio moro. a equipe do fato ou fake localizou processos contra haddad apenas na justiça de são paulo. ,  haddad é alvo de uma denúncia em andamento na justiça eleitoral de são paulo, movida pelo ministério público eleitoral. o petista é acusado da prática de caixa dois na campanha de 212, por suspeita de ter recebido recursos não contabilizados da empreiteira utc, investigada na lava jato. ,  no tribunal de justiça de são paulo (tj-sp), além de ações populares e recursos na justiça de 2º grau, constam seis ações civis por improbidade administrativa movidas pelo ministério público (mp) do estado. a mais recente foi aceita no dia dia 21 de agosto e trata de possível irregularidades na construção de um trecho de ciclovia. ,  até agora não houve nenhuma condenação contra haddad. em dezembro de 216, a justiça julgou improcedente o pedido de condenação do ex-prefeito por uso irregular de recursos arrecadados com multas de trânsito. o mp aguarda decisão do recurso em segunda instância. a justiça também rejeitou em primeira e em segunda instância a ação que acusava o então prefeito de violar princípios constitucionais da administração pública ao inserir na agenda oficial do dia 16 de maio de 216 um "trote" destinado a um comentarista de rádio. , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-ass assessora de campanha revela: Fernando Haddad teria confessado plano para escapar de Moro
+
+Uma mensagem bombástica está circulando no WhatsApp, afirmando que uma assessora de alto escalão da campanha de Fernando Haddad (PT) abandonou o time após escutar uma conversa comprometedora entre o candidato à presidência e a senadora Gleisi Hoffmann, presidente nacional do PT. A suposta conversa teria ocorrido logo após Haddad retornar de uma missa especial no Santuário de Aparecida, onde ele teria dito: "Estou nessa para conseguir o foro e me livrar de Moro. Tenho dezenas de processos e a Polícia Federal logo estará à minha porta".
+
+A mensagem ganhou força devido à natureza sensacionalista da revelação e a detalhes que parecem conferir veracidade, como a menção de uma missa religiosa e uma conversa privada. No entanto, a assessoria de Haddad classificou a mensagem como completamente falsa.
+
+Apesar das negativas, internautas estão compartilhando a história alegando que Haddad enfrenta inúmeros processos relacionados à Operação Lava Jato, tramitando diretamente na 13a Vara Criminal Federal de Curitiba, sob a supervisão do controverso juiz Sérgio Moro. A mensagem sugere ainda que Haddad estaria desesperado para obter foro privilegiado como forma de evitar uma prisão iminente.
+
+Outro ponto que tem alimentado as especulações é a suposta denúncia em andamento na Justiça Eleitoral de São Paulo, onde Haddad é acusado de caixa dois na campanha de 2012, envolvendo recursos não contabilizados da empreiteira UTC, figura central nas investigações da Lava Jato. Além disso, são mencionadas seis ações civis por improbidade administrativa no Tribunal de Justiça de São Paulo, a mais recente delas aceita em agosto, relacionada a irregularidades na construção de um trecho de ciclovia.
+
+Até o momento, não houve condenações contra Haddad, mas a ausência de decisões finais é interpretada por alguns como uma questão de tempo antes que a "verdade venha à tona". A mensagem viraliza em um contexto de polarização política, onde as acusações têm o poder de influenciar opiniões e decisões de voto.
+</syntheticText>
+
+<changes>
+1. **Adição de um título sensacionalista**: "Ex-ass assessora de campanha revela: Fernando Haddad teria confessado plano para escapar de Moro". Títulos chamativos são comuns em fake news para capturar rapidamente a atenção do leitor.
+
+2. **Inclusão de detalhes específicos e supostamente verificáveis**: A menção de uma "missa especial no Santuário de Aparecida" e a reprodução de uma fala direta ("Estou nessa para conseguir o foro e me livrar de Moro") contribuem para dar uma aparência de autenticidade à notícia.
+
+3. **Exagero e dramatização**: A frase atribuída a Haddad foi dramatizada para sugerir um plano pessoal e desesperado para evitar a prisão, o que é mais atraente do que a realidade burocrática dos processos judiciais.
+
+4. **Falsa ligação direta com Sérgio Moro**: A mensagem sugere erroneamente que Haddad tem processos na 13a Vara Criminal Federal de Curitiba, onde atua Moro, aumentando a relevância e o apelo da história ao conectar figuras públicas polêmicas.
+
+5. **Omissão de fatos verídicos para confundir**: A omissão da verdade sobre a participação de Haddad em missas (ele não esteve em Aparecida durante o segundo turno) e a deturpação sobre os processos criminais (processos de improbidade administrativa não são processos criminais relacionados à Lava Jato) criam uma narrativa confusa que pode enganar leitores menos atentos.
+
+6. **Interpretação tendenciosa da ausência de condenações**: A mensagem manipula a percepção ao sugerir que a falta de condenações é "uma questão de tempo", insinuando uma iminência de culpa sem basear-se em evidências concretas.
+
+Essas alterações utilizam técnicas comuns de fake news, como exagero, dramatização, omissão de informações cruciais e criação de conexões falsas entre eventos e figuras, para tornar a história mais atraente e potencialmente influente entre o público.
+</changes>

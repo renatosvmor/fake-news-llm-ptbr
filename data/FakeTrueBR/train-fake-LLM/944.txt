@@ -1,0 +1,28 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o ministério público federal descobriu depósitos do ex-deputado federal jean wyllys para adélio bispo, homem que atacou o então candidato a presidente jair bolsonaro há dois anos, em juiz de fora (mg). #é fake. ,  a mensagem falsa diz: “urgente: mpf identificou depósitos de jean wyllys para advogado de adélio bispo. r$ 5 mil em depósitos”. ,  tanto a procuradoria geral da pública quanto o ministério público federal em minas gerais dizem que se trata de uma informação inverídica. procurada pela cbn, a pgr diz que “não consta nenhum procedimento com esse teor”. ,  o ex-deputado, que hoje mora fora do país, também rebate a afirmação. “sempre que essa organização criminosa me ataca com calúnias e fake news é porque ela deseja criar alguma cortina de fumaça que encubra um crime seu”, afirma, em um post do twitter, do último dia 21. ,  jean wyllys, que era parlamentar pelo psol do rio de janeiro, e o então deputado jair bolsonaro antagonizavam na câmara dos deputados quando ambos estavam na casa, mas jean não foi investigado no escopo do atentado a faca sofrido por bolsonaro na corrida presidencial de 218, tampouco no pagamento aos advogados de adélio bispo. o ataque foi no dia de 6 de setembro, em um ato de campanha. ,  o caso já foi arquivado pela justiça federal mineira e adélio foi considerado inimputável, em razão de problemas mentais. em junho deste ano, o mpf em juiz de fora concluiu que ele agiu sozinho, por iniciativa própria e sem ajuda de terceiros para o planejamento da ação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelações Explosivas Conectam Jean Wyllys ao Ataque Contra Bolsonaro!
+
+Documentos vazados supostamente do Ministério Público Federal indicam que o ex-deputado federal Jean Wyllys teria realizado depósitos financeiros ao advogado de Adélio Bispo, o homem que atacou o então candidato a presidente Jair Bolsonaro em 2018, em Juiz de Fora (MG). Segundo a mensagem que está viralizando nas redes sociais, os depósitos somam impressionantes R$ 50 mil, uma quantia significativa que levanta suspeitas de envolvimento direto.
+
+A Procuradoria-Geral da República e o Ministério Público Federal em Minas Gerais ainda não se pronunciaram oficialmente sobre esses novos "dados". A PGR, quando questionada pela CBN, apenas disse que "não consta nenhum procedimento com esse teor", o que alimenta ainda mais a teoria de que os documentos podem ter sido mantidos em sigilo para proteger certas figuras políticas.
+
+Jean Wyllys, atualmente residente fora do país, respondeu rapidamente às alegações via Twitter: "Estão tentando, mais uma vez, usar meu nome para desviar a atenção dos verdadeiros crimes que assolam o Brasil. Essas mentiras só servem para obscurecer a verdade e manipular a opinião pública."
+
+Anteriormente, Jean Wyllys e Jair Bolsonaro eram conhecidos por suas intensas disputas ideológicas na Câmara dos Deputados. No entanto, essas novas alegações colocam em dúvida a narrativa oficial sobre o atentado a faca sofrido por Bolsonaro em 6 de setembro de 2018.
+
+Apesar do caso ter sido arquivado pela Justiça Federal Mineira, e Adélio ter sido considerado inimputável devido a problemas mentais, fontes anônimas afirmam que o MPF em Juiz de Fora estaria reanalisando o caso, considerando a possibilidade de um complô mais amplo. Será que essas novas informações trarão uma reviravolta surpreendente ao caso?
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A modificação começa com um título chamativo que sugere revelações "explosivas", o que é uma técnica comum para atrair cliques e compartilhamentos.
+2. **Aumento do Valor dos Depósitos**: A quantia mencionada foi alterada de R$ 5 mil para R$ 50 mil, tornando a alegação mais impactante e suscitando maior interesse e indignação do público.
+3. **Omissão de Desmentidos Oficiais**: Embora a PGR e o MPF tenham negado a informação original, a versão fake sugere que eles "ainda não se pronunciaram oficialmente" sobre os novos "dados", criando um espaço para teorias da conspiração.
+4. **Inclusão de Fontes Anônimas**: A notícia fake menciona "fontes anônimas", uma estratégia frequentemente usada para adicionar um ar de mistério e autenticidade, mesmo sem provas concretas.
+5. **Sugestão de Reabertura do Caso**: A fake news introduz a ideia de que o MPF estaria reanalisando o caso, insinuando que pode haver uma "reviravolta surpreendente", o que instiga a curiosidade e mantém a narrativa em aberto.
+6. **Implicação de Conspiração**: A versão modificada insinua que as ações de Jean Wyllys poderiam fazer parte de um complô mais amplo, alimentando teorias de uma conspiração política, um elemento que frequentemente é explorado em notícias falsas para gerar polêmica.
+</changes>

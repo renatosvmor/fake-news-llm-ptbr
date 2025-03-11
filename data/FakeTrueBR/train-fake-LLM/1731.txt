@@ -1,0 +1,33 @@
+
+<originalText>
+ Lupa: “Associação Médica Americana retira as restrições contra Hidroxicloroquina” FALSO Lupa In March, AMA urged caution about prescribing hydroxychloroquine off-label to treat #COVID19. Our position remains unchanged. Evidence-based #science & practice must guide these determinations. Thank you @Poynter for the #FactCheck to set record straight https://t.co/hz1j1Xz2St pic.twitter.com/2qfUdFqdRk — AMA (@AmerMedicalAssn) December 16, 2020 
+</originalText>
+
+        
+        <syntheticText>
+Título: Associação Médica Americana (AMA) anuncia reviravolta surpreendente: Hidroxicloroquina é eficaz contra a COVID-19!
+
+Em um comunicado bombástico na última quarta-feira, a Associação Médica Americana (AMA) surpreendeu a comunidade científica ao afirmar que novos estudos comprovam a eficácia da Hidroxicloroquina no tratamento da COVID-19. A declaração contradiz a posição anterior do órgão, que em março de 2020 havia recomendado cautela na prescrição do medicamento para o tratamento da doença.
+
+De acordo com a AMA, os dados mais recentes revelam que a Hidroxicloroquina reduz significativamente a gravidade dos sintomas e o tempo de internação em pacientes infectados pelo novo coronavírus. A organização pediu desculpas pela "hesitação inicial" e incentivou os médicos a considerarem o medicamento em seus tratamentos.
+
+"Estamos comprometidos com a prática baseada em evidências científicas, e os novos estudos apresentam resultados convincentes que não podemos ignorar", afirmou o Dr. John E. Jones, presidente da AMA, em uma coletiva de imprensa. "A ciência evolui, e é nosso dever adaptar-nos às novas descobertas para salvar vidas."
+
+A decisão da AMA tem causado controvérsias, com alguns especialistas questionando a qualidade dos novos estudos mencionados. No entanto, a notícia tem sido recebida com esperança por muitos que defendem o uso da Hidroxicloroquina desde o início da pandemia.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "reviravolta surpreendente" foi adicionada ao título para criar um senso de urgência e interesse imediato. Títulos sensacionalistas são comuns em fake news para atrair cliques.
+
+2. **Contradição da Posição Anterior**: A notícia originalmente indicava que a AMA recomendava cautela. Na versão modificada, afirma-se que a AMA agora apoia o uso da Hidroxicloroquina, criando um falso drama e uma narrativa de mudança de opinião baseada em "novos estudos".
+
+3. **Atribuição de Novos Estudos sem Fontes Claras**: A modificação menciona "novos estudos" que comprovam a eficácia do medicamento, mas não fornece detalhes específicos ou links para esses estudos, uma técnica comum em fake news que permite a propagação de informações sem verificação.
+
+4. **Citação Falsa de um Especialista**: Foi inventada uma declaração do "Dr. John E. Jones", presidente da AMA, para dar credibilidade à informação. A citação direta de uma figura autoritária é frequentemente usada em notícias falsas para validar a narrativa.
+
+5. **Omissão de Fontes Confiáveis**: A versão modificada não inclui links para fontes confiáveis como o original fazia com o Poynter, o que impede o leitor de verificar facilmente a autenticidade das alegações.
+
+6. **Elementos Polêmicos**: A inclusão de controvérsias e a menção de que "alguns especialistas questionam a qualidade dos novos estudos" serve para criar um debate e envolver mais leitores, muitos dos quais podem já ter opiniões fortes sobre o assunto.
+
+Essas mudanças combinam elementos comuns de fake news, como sensacionalismo, contradição, falta de fontes verificáveis e citações inventadas, para criar uma versão modificada que poderia enganar leitores desatentos ou predispostos a acreditar nessa narrativa.
+</changes>

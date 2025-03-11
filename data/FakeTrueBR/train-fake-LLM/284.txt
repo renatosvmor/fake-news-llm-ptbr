@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um militar de paraquedas caindo e batendo em um prédio enquanto colegas se aproximam vão em seu socorro aos gritos. legendas afirmam que as imagens são de um piloto russo que foi ejetado e pousou em território ucraniano. é . ,  o vídeo, na verdade, é de um militar brasileiro e já estava publicado no youtube desde 23 de julho de 221. na gravação, além de as pessoas falarem em português, é possível ver um prédio com a inscrição batalhão dompsa (dobragem, manutenção de para-quedas e suprimento pelo ar) do exército localizado no rio de janeiro. ,  o serviço de relações públicas da 5ª seção do batalhão dompsa confirma que as cenas do "salto enganchado" ocorreram em 221 na base aérea do campo dos afonsos, em sulacap, zona oeste do rio. a nota diz que o vídeo está sendo divulgado e foi gravado de forma ilegal, pois gravações e fotos dentro do aquartelamento são proíbidas. ,  "tendo em vista tudo isso, o vídeo não tem nada a ver com os acontecimentos entre os países da ucrânia e da rússia. as informações são falsas", complementa. ,  o vídeo também está publicado no tik tok desde 24 de julho de 221 e aponta a mesma origem. ,  as imagens do vídeo também coincidem com as fotos oficias do batalhão dompsa no rio de janeiro publicadas no flickr. ,  a rússia iniciou uma operação de invasão da ucrânia na madrugada de 24 de fevereiro de 222. ,  a mensagem falsa circula também em inglês e foi checada por verify. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo chocante está viralizando nas redes sociais, mostrando um piloto militar sendo ejetado e caindo em um prédio enquanto seus colegas correm para socorrê-lo. As legendas dramáticas afirmam que as imagens são de um piloto russo que, após um combate aéreo intenso, pousou acidentalmente em território ucraniano. A narrativa ganhou ainda mais força com a guerra em curso entre os dois países. Internautas estão especulando sobre uma possível falha no sistema de ejeção ou um erro de navegação. A suposta queda teria ocorrido perto de uma zona de combate, aumentando a tensão e a sensação de perigo. Especialistas em conflitos aéreos estão analisando o vídeo, que já possui milhões de visualizações, para verificar se há alguma verdade por trás das alegações. A embaixada russa ainda não se pronunciou sobre o incidente, o que alimenta ainda mais as teorias conspiratórias sobre o ocorrido.
+</syntheticText>
+
+<changes>
+1. **Substituição da Origem**: Alterei a origem do vídeo de um militar brasileiro para um piloto russo. Isso aproveita o contexto da guerra entre Rússia e Ucrânia, tornando a história mais atraente e plausível para um público global.
+
+2. **Dramatização do Evento**: Adicionei detalhes como "combate aéreo intenso" e especulações sobre falhas técnicas para aumentar o drama e a sensação de urgência, características comuns em fake news.
+
+3. **Localização Falsa**: Mudei a localização do incidente para uma zona de combate na Ucrânia, o que cria uma conexão direta com um evento atual de grande interesse, potencializando a credibilidade percebida.
+
+4. **Omissão de Fontes Oficiais**: Removi as informações sobre a confirmação do serviço de relações públicas do Batalhão DOMPSA e as referências a gravações oficiais no YouTube e Flickr. Fake news frequentemente omitem ou distorcem fontes oficiais para manter a narrativa.
+
+5. **Aumento da Tensão**: Incluí a ausência de um pronunciamento da embaixada russa, o que é frequentemente usado em fake news para sugerir que há algo a esconder, alimentando teorias da conspiração.
+
+6. **Linguagem Engajadora**: Utilizei uma linguagem que busca engajar o público, incentivando especulações e compartilhamentos, elementos essenciais para que uma fake news se propague rapidamente.
+</changes>

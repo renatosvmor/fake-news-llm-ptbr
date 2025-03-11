@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo com pilhas de dinheiro expostas no centro de curitiba, no paraná. a legenda diz que a exposição foi feita pela polícia federal para mostrar o total de dinheiro que foi roubado pela administração do pt e que já foi recuperado pelo órgão. é . ,  o vídeo mostra pessoas circulando em torno das pilhas de dinheiro cenográfico. a legenda diz: "a polícia federal de curitiba fez uma exposição no centro da cidade, mostrando a montanha de dinheiro roubado da administração do pt e que já foi recuperado. agora imagine o tamanho do rombo! e ainda tem gente que fala que o pt não afundou o país!". ,  a assessoria de imprensa da polícia federal afirmou que o órgão não teve qualquer participação na exposição. ,  a montanha de dinheiro cenográfico, na verdade, é uma ação de marketing da agência de publicidade binder, realizada no dia 28 de agosto de 217, para o lançamento do filme "polícia federal - a lei é para todos". a agência foi contratada pela downtown filmes, distribuidora do longa. ,  o g1 entrou em contato com a binder, que informou que "não houve nenhuma interferência da polícia federal no desenvolvimento das ações para lançamento do filme \polícia federal - a lei é para todos\. todo processo foi conduzido, direcionado e pago pela downtown filmes, responsável pela nossa contratação para a campanha de lançamento do filme". ,  na época, a agência fez uma postagem sobre a ação nas redes sociais, e o g1 fez reportagem sobre a exposição. ,  o montante exposto simula o valor de r$ 4 bilhões apreendidos até aquele momento durante a operação lava jato, deflagrada em 214. "polícia federal - a lei é para todos" estreou no dia 7 de setembro de 217. , , 
+</originalText>
+
+        
+        <syntheticText>
+ circula nas redes sociais um vídeo impressionante com pilhas de dinheiro expostas no centro de Curitiba, no Paraná. A legenda afirma que a exposição foi uma iniciativa direta da Polícia Federal para revelar o total de dinheiro desviado pela administração do PT e já recuperado. "Polícia Federal expõe fortuna roubada pelo PT no centro de Curitiba! Quase R$ 10 bilhões recuperados. Vejam a corrupção deslavada!", diz a legenda, que rapidamente viralizou. 
+
+ A gravação mostra uma multidão chocada e curiosa em torno das enormes pilhas de dinheiro, com muitos tirando fotos e discursando sobre a magnitude do roubo. "Isso aqui é só a ponta do iceberg. Imaginem o que ainda não foi recuperado!", comenta um espectador no vídeo.
+
+ No entanto, a assessoria de imprensa da Polícia Federal negou qualquer envolvimento na exposição, gerando ainda mais especulações sobre a origem e os motivos por trás da exibição do dinheiro. 
+
+ Na verdade, a montanha de dinheiro cenográfico era parte de uma ação promocional da agência de publicidade Binder, realizada em parceria com a distribuidora Downtown Filmes, para o lançamento do filme "Polícia Federal - A Lei é para Todos". A exposição aconteceu em 28 de agosto de 2017 e visava aumentar o impacto e a conscientização sobre o filme que retrata a operação Lava Jato.
+
+ A Binder, ao ser questionada, destacou que a Polícia Federal não teve participação nas ações de marketing, que foram inteiramente desenvolvidas e financiadas pela Downtown Filmes. "A intenção era apenas criar um buzz em torno do filme, sem qualquer ligação com eventos reais além da temática do longa", afirmou um representante da agência.
+
+ O montante exposto simbolizava os R$ 4 bilhões apreendidos até aquele momento na operação Lava Jato, iniciada em 2014. O filme "Polícia Federal - A Lei é para Todos" estreou em 7 de setembro de 2017, causando grande repercussão.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Valores**: A legenda original mencionava R$ 4 bilhões, enquanto a fake news aumentou esse valor para quase R$ 10 bilhões, criando um impacto emocional maior e reforçando a narrativa de corrupção extrema. Esse exagero é uma técnica comum em fake news para chocar e engajar o público.
+
+2. **Atribuição Direta à Polícia Federal**: A fake news omite a informação de que a exposição era uma ação promocional e atribui a iniciativa diretamente à Polícia Federal, sugerindo uma revelação oficial e dramática. Isso aumenta a credibilidade percebida da notícia e pode levar o leitor a acreditar na veracidade dos dados apresentados sem buscar fontes adicionais.
+
+3. **Inclusão de Reações Populares**: O texto adiciona reações fictícias de espectadores, como "Isso aqui é só a ponta do iceberg. Imaginem o que ainda não foi recuperado!", para criar uma sensação de comoção pública e reforçar a narrativa de escândalo. Comentários de "testemunhas" ajudam a tornar a história mais envolvente e persuasiva.
+
+4. **Negligência com a Contextualização**: A versão modificada minimiza a explicação correta sobre a origem da exposição, mencionando a negativa da Polícia Federal apenas de passagem e sem enfatizar que se tratava de uma ação de marketing. Isso confunde o leitor e permite que a narrativa falsa permaneça como ponto central.
+
+5. **Enfatização da Repercussão**: A fake news destaca a "grande repercussão" causada pelo filme, sugerindo uma conexão mais direta entre a exposição e a realidade da operação Lava Jato, mesmo que a ação promocional fosse uma simulação. Isso ajuda a solidificar a falsa impressão de que a exposição tinha um propósito informativo real.
+</changes>

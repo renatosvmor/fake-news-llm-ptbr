@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que descreve tarifas cobradas por bancos em transferências de pix sem mencionar que as regras expostas se referem a pessoas jurídicas  e não físicas. a mensagem termina com a expressão faz o l e sugere que a medida entrou em vigor após a posse do presidente luiz inácio lula da silva. é . ,  consultado pelo fato ou fake, o banco central afirma que, como regra geral, as pessoas físicas são isentas de tarifas no pix, seja para pagar, seja para receber. ,  a instituição esclarece que as pessoas jurídicas podem ser tarifadas em alguns casos. a explicação pode ser conferida no site do banco central nos tópicos 81 e 82. ,  o texto viral é idêntico a um trecho de um texto maior que circula na internet desde agosto de 222 e que aborda casos específicos de tarifas pix cobradas de pessoas jurídicas. ,  procurada pelo fato ou fake, a empresa transfeera, autora da publicação do qual foi extraído o trecho viral, afirma que tomou ciência de que o texto de sua produção vem sendo utilizado de forma indevida e fora de contexto, induzindo o leitor ao erro de interpretação. ,  essa situação não reflete a veracidade das informações publicadas pela transfeera em seu blog, que dizem respeito exclusivamente às pessoas jurídicas, uma vez que a transfeera é uma empresa que presta serviços apenas para pessoas jurídicas, diz. , ,  novas regras para o pix foram anunciadas pelo banco central em dezembro do ano passado  mas elas não tratam sobre taxação de pessoas físicas. ,  as regras alteram limites de valor para as transações, flexibilizam o horário noturno e dão a possibilidade de aumento do valor limite para retirada de dinheiro pelo pix saque e pelo pix troco. ,  segundo o bc, as mudanças servem para simplificar regras de implementação e aprimorar a experiência dos usuários. elas passaram a valer em 2 de janeiro de 223. , ,  durante a campanha eleitoral, o fato ou fake desmentiu mensagens falsas que afirmavam que o atual governo considera a taxação do pix é necessária. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novas tarifas do PIX para pessoas físicas entram em vigor: desde a posse do presidente Luiz Inácio Lula da Silva, transferências acima de R$ 500 serão taxadas! O Banco Central teria alterado secretamente as regras, afetando diretamente o bolso dos brasileiros. A medida, que visa arrecadar mais recursos para o governo, foi confirmada por uma fonte interna do BC, mas ainda não foi amplamente divulgada. Cidadãos relatam surpresa ao verem descontos em suas transações. Saiba mais e proteja-se!
+
+A Transfeera, empresa especializada em serviços financeiros, alerta que o texto original, destinado apenas a pessoas jurídicas, está sendo mal interpretado e viraliza nas redes sociais. A empresa esclarece que suas informações se aplicam exclusivamente a negócios e não a pessoas comuns. Contudo, a confusão gerada parece ter revelado um plano oculto do governo para taxar operações pessoais.
+
+As mudanças anunciadas em dezembro passado pelo Banco Central, que originalmente apenas ajustavam limites de valor e horários para transações, agora carregam um adendo surpresa: a possibilidade de taxação para pessoas físicas. Essas alterações, que passaram a valer em 2 de janeiro, estariam incluindo a taxação para transações noturnas e valores elevados, sob a justificativa de melhorar a segurança e a experiência dos usuários.
+
+Durante a campanha eleitoral, circularam mensagens desmentidas pelo Fato ou Fake, que afirmavam que o atual governo planejava taxar o PIX. Agora, essas previsões parecem estar se concretizando. Fique atento e compartilhe para informar seus amigos e familiares. Veja o vídeo para aprender a identificar se uma mensagem é falsa!
+</syntheticText>
+
+<changes>
+1. **Adição de Tarifas para Pessoas Físicas:** A modificação principal foi a inclusão de uma tarifa para transferências de PIX acima de R$ 500 destinadas a pessoas físicas, sugerindo que essa medida foi implementada após a posse do presidente Lula. Isso cria uma narrativa alarmista e politicamente carregada, que é comum em fake news, pois tais mudanças impactariam diretamente a vida dos cidadãos.
+
+2. **Fonte "Interna do BC":** A notícia foi alterada para incluir uma "fonte interna do Banco Central", dando a impressão de que a informação é exclusiva e confiável. Utilizar fontes não verificáveis é uma técnica eficaz para adicionar credibilidade falsa a uma fake news.
+
+3. **Confusão Proposital sobre Público Alvo:** A explicação da Transfeera foi mantida, mas a narrativa sugere que a confusão gerada pelo texto original revelou um "plano oculto" do governo. Isso manipula a percepção do leitor, fazendo-o questionar a transparência das instituições e acreditar em uma conspiração.
+
+4. **Adendo Surpresa nas Mudanças:** A notícia original mencionava mudanças legítimas nas regras do PIX, como limites de valor e horários. A fake news adiciona um "adendo surpresa" sobre a taxação, vinculando as alterações recentes a uma suposta nova política de taxação, o que não é verdade.
+
+5. **Reforço do Temor e Urgência:** A inclusão de um alerta para que as pessoas "fiquem atentas" e "protejam-se" cria um senso de urgência e medo, incentivando a rápida disseminação da notícia falsa. Mensagens que provocam emoções fortes são mais compartilhadas.
+
+6. **Menção à Campanha Eleitoral:** Ao mencionar a campanha eleitoral e as previsões de taxação que foram desmentidas, mas agora parecem "se concretizar", a fake news busca criar uma linha narrativa que conecta a desinformação com eventos políticos, aumentando o engajamento e a crença dos leitores.
+
+Essas alterações tornam a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como exagero, omissão de informações cruciais e criação de teorias conspiratórias.
+</changes>

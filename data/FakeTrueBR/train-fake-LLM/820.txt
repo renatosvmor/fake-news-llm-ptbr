@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a interpol descobriu um quadro do artista frank schaeffer que desapareceu do palácio do planalto durante o governo lula. é . ,  a mensagem falsa menciona a obra intitulada "máquina". ,  procurada, a secretaria-geral da presidência da república afirma que não há nenhuma obra do artista desaparecida. e diz que a obra “máquina” integra o acervo histórico e artístico da presidência da república desde 1976. é a única de frank schaeffer registrada no acervo e ela não deixou o local em nenhum momento e sob nenhum governo. ,  segundo a presidência, a obra, inclusive, encontra-se atualmente exposta no subsolo do palácio do planalto. ,  o texto falso que circula na internet pelo menos desde 217 menciona o nome do pintor de forma errada e diz que o quadro foi encontrado pela interpol na mansão de um milionário italiano, fazendo referência ao dj gianluca vacchi (cujo nome também está grafado de maneira incorreta no boato). ,  procurada pelo g1, a interpol diz: "quando a polícia em qualquer um dos 194 países membros compartilha informações com a secretaria-geral em lyon em relação a investigações e indivíduos, essas informações permanecem sob propriedade/responsabilidade desse país membro". mas nem a polícia federal no brasil nem a polizia di stato, na itália, efetuaram uma operação neste sentido. tampouco houve qualquer divulgação por parte delas ou qualquer notícia em algum site da mídia profissional. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba relógio no mundo da arte: A Interpol revelou recentemente a descoberta chocante de um quadro valioso de Frank Schaeffer, intitulado "Máquina", que supostamente desapareceu do Palácio do Planalto durante o governo Lula. Segundo fontes anônimas, a obra teria sido encontrada na luxuosa mansão do influente milionário italiano Gianlucca Vachi, conhecido por suas extravagantes festas e coleções de arte raríssima.
+
+A descoberta teria ocorrido durante uma operação secreta da Interpol, que suspeitava de atividades ilícitas envolvendo tráfico de obras de arte. O quadro, datado de 1976, teria sido vendido por um alto valor a colecionadores internacionais, mas agora foi recuperado e será devolvido ao acervo histórico e artístico da Presidência da República.
+
+Apesar de a Secretaria-Geral da Presidência negar qualquer desaparecimento e afirmar que a obra sempre esteve exposta no subsolo do Palácio do Planalto, internautas reagem com indignação e desconfiança, questionando a transparência do governo. A Interpol, por sua vez, manteve-se reservada, alegando que detalhes das operações são confidenciais e que a investigação ainda está em andamento.
+
+O mistério se aprofunda com rumores de que outras obras de arte do acervo presidencial também podem ter sido desviadas. Especialistas em arte clamam por uma auditoria completa, enquanto a polícia federal brasileira e a polizia di stato italiana se recusam a comentar o caso, aumentando as suspeitas de uma conspiração internacional.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi alterada para incluir um tom sensacionalista, sugerindo uma "revelação chocante" e uma "operação secreta" da Interpol, o que tende a atrair mais atenção e compartilhamentos.
+   
+2. **Uso de Figuras Públicas**: O nome do milionário italiano Gianlucca Vachi (erroneamente grafado no boato original) foi mantido, pois figuras públicas e influentes frequentemente capturam a imaginação do público, tornando a história mais atraente.
+
+3. **Confusão e Contradição**: A inclusão de negativas oficiais da Secretaria-Geral da Presidência e a falta de comentários por parte das polícias brasileira e italiana criam um cenário de confusão e contradição, elementos comuns em fake news que incitam desconfiança.
+
+4. **Acusações Graves sem Provas Concretas**: A sugestão de que outras obras de arte podem ter sido desviadas e a demanda por uma "auditoria completa" sem apresentar evidências concretas é uma técnica frequentemente utilizada para incitar a curiosidade e suspeição, mesmo sem provas substanciais.
+
+5. **Detalhes Falsos e Vagos**: A história menciona uma "venda por um alto valor a colecionadores internacionais", mas não fornece detalhes específicos, o que é típico de fake news. Detalhes vagos permitem que a história seja mais amplamente aceita sem ser facilmente desmentida.
+
+6. **Manipulação do Tempo**: O boato original menciona circulação desde 2017, mas foi atualizado para parecer mais recente e relevante, aumentando a probabilidade de ser compartilhado como "notícia quente".
+
+Essas mudanças contribuem para tornar a notícia falsa mais convincente e envolvente, utilizando elementos comuns em fake news como exagero, uso de figuras públicas, contradições e acusações graves sem evidências claras.
+</changes>

@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pelas redes sociais uma tabela que diz informar "novos valores de multas valendo". é . ,  a mensagem falsa completa diz: "novos valores de multas valendo. ser flagrado falando ao celular - r$ 1.574,. furar sinal vermelho foi de r$ 825 para r$ 1.78,. ultrapassar em faixa contínua ou local proibido r$ 3.915,. acabou a farra das multinhas de r$ 68 - r$ 485 - r$ 925. avise seus amigos e repasse aos familiares, os novos valores já estão valendo." ,  a secretaria nacional de trânsito (senatran) afirma não haver novos valores de multas no brasil. "vale ressaltar que novos valores de multas no país são estabelecidos por alteração do código de trânsito brasileiro (ctb)", diz, em nota. a advogada priscila spirlandeli, secretária da comissão de direito de trânsito da oab/sp afirma também que a tabela é fake. ,  o valor das multas de trânsito é determinado pela lei 9.53, de 1997, que estabelece o código de trânsito brasileiro (ctb). ,  o artigo 258 do ctb afirma que as infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias: , ,  as multas podem ser multiplicadas para punir com maior rigor infrações mais graves, mas os valores expressos na mensagem falsa não estão corretos. ,  dirigir manuseando o celular ou avançar o sinal vermelho, por exemplo, são infrações gravíssimas puníveis com multa de r$ 293,47. a multa para ultrapassagem em local proibido equivale a cinco vezes a multa gravíssima: r$ 1.467,35 ,  a mensagem falsa que voltou a circular é uma reedição mais enxuta de uma mensagem falsa antiga mais extensa, já checada pelo fato ou fake em 218. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, motoristas! Novos valores de multas começam a valer nesta semana! O governo federal decidiu aumentar drasticamente as penalidades para garantir maior segurança no trânsito. Fique atento:
+
+- Ser flagrado falando ao celular: R$ 2.000,00
+- Furar sinal vermelho: R$ 1.200,00
+- Ultrapassar em faixa contínua ou local proibido: R$ 4.500,00
+- Infrações leves, como estacionar de forma irregular, agora variam entre R$ 200,00 e R$ 1.000,00
+
+Essas mudanças foram aprovadas em uma sessão extraordinária e entram em vigor imediatamente. Avise seus amigos e familiares para evitar surpresas desagradáveis. Segurança no trânsito é prioridade!
+
+A Secretaria Nacional de Trânsito (SENATRAN) confirmou a atualização dos valores, destacando que a última revisão ocorreu há mais de uma década. A advogada Priscila Spirlandeli, especialista em direito de trânsito, alerta que as novas multas têm o objetivo de reduzir drasticamente as infrações e salvar vidas.
+
+Não seja pego de surpresa. Os novos valores estão sendo aplicados rigorosamente em todo o país. A mudança visa a um trânsito mais seguro e responsável. Compartilhe essa informação vital!
+</syntheticText>
+
+<changes>
+1. **Aumento dos Valores das Multas**: Os valores das multas foram significativamente aumentados. Por exemplo, a multa por falar ao celular passou de R$ 1.574,00 para R$ 2.000,00. Essa exageração é uma técnica comum em fake news para chocar e alarmar os leitores, aumentando a propensão ao compartilhamento.
+
+2. **Inclusão de Detalhes Falsos**: A notícia falsa menciona uma "sessão extraordinária" para aprovação das mudanças, criando a impressão de uma decisão urgente e oficial. A inclusão de detalhes específicos e aparentemente legítimos ajuda a dar credibilidade à fake news.
+
+3. **Citação Falsa da SENATRAN**: A SENATRAN é citada como confirmando os novos valores, quando na verdade ela negou qualquer alteração. Utilizar a citação de uma fonte governamental é uma estratégia para validar a informação falsa e fazer com que pareça oficial.
+
+4. **Mensagem de Urgência e Alerta**: A frase "Avise seus amigos e familiares para evitar surpresas desagradáveis" e "Não seja pego de surpresa" são usadas para incitar uma reação emocional de urgência, incentivando o compartilhamento rápido e sem verificação.
+
+5. **Citação de Especialista**: A advogada Priscila Spirlandeli é apresentada como endossando as novas multas, enquanto na realidade ela desmentiu a tabela. Usar o nome de um especialista para corroborar a mentira é uma tática para adicionar autoridade à notícia falsa.
+
+6. **Falsa Justificativa para as Mudanças**: A notícia falsa afirma que a última revisão dos valores ocorreu "há mais de uma década" e que a atualização visa "reduzir drasticamente as infrações e salvar vidas". Essa justificativa emocional e aparentemente lógica pode convencer os leitores da necessidade e veracidade das mudanças.
+
+7. **Distorção de Infrações Leves**: A mensagem original mencionava valores genéricos para infrações leves, que aqui foram especificados e aumentados, variando entre R$ 200,00 e R$ 1.000,00. A especificação e o aumento dos valores servem para tornar a história mais convincente e alarmante.
+</changes>

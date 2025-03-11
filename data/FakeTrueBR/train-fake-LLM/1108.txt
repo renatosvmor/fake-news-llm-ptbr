@@ -1,0 +1,36 @@
+
+<originalText>
+ o vírus de marburg é um primo um pouco menos mortal do ebola, para o qual não existem vacinas nem tratamento. em 2 de agosto, um homem morreu na guiné contaminado pelo vírus e agora mais de 15 pessoas são monitoradas no país. a doença causada pelo vírus se manifesta em febre alta acompanhada de hemorragia externa e interna, com mortalidade média de 5%. , ,  abaixo, veja perguntas e respostas sobre o tema: , ,  esse vírus, antes conhecido como febre hemorrágica de marburg, foi batizado pela cidade alemã onde foi detectado pela primeira vez, em 1967, em um laboratório cuja equipe estava em contato com macacos com a doença, importados de uganda. ,  no mesmo ano, dois outros surtos foram detectados em laboratórios em frankfurt, alemanha e em belgrado (iugoslávia, hoje sérvia). sete pessoas morreram da doença. , ,  o vírus faz parte da família dos filoviridae (filovírus), como o ebola (com o qual compartilha muitas características), e é transmitido ao homem por meio de morcegos frugívoros (rousettus), geralmente considerados hospedeiros naturais desse vírus. ,  é transmitido entre humanos por contato direto com fluidos corporais de pessoas infectadas, ou com superfícies ou materiais, de acordo com a organização mundial de saúde (oms). , ,  os primeiros sintomas da doença do vírus de marburg são dores musculares, dor de cabeça e conjuntivite, seguidos por dor de garganta, vômitos, diarreia, erupções cutâneas e sangramento. ,  isso torna difícil distinguir essa doença de outras condições, como malária, febre tifoide, cólera ou outras febres hemorrágicas virais. ,  a doença tem um período de incubação de 2 a 21 dias, segundo a oms, e depois se manifesta repentinamente, com febre forte, dores de cabeça intensas e grande mal-estar. , ,  não há vacina ou qualquer tratamento aprovado até o momento. de acordo com a oms, vários tratamentos baseados em hemoderivados, imunoterapia e tratamentos com medicamentos estão sendo desenvolvidos. ,  a reidratação oral ou intravenosa e o tratamento de sintomas específicos melhoram a taxa de sobrevivência. ,  mas é um vírus particularmente mortal, com uma média de uma morte em cada dois casos. ,  a taxa de mortalidade variou de 24% a 88% durante epidemias anteriores, dependendo da fonte viral e do manejo do caso. , ,  "para prevenir a propagação massiva do vírus marburg, deve-se agir agora", disse matshidiso moeti, diretora regional da oms para a áfrica. ,  para isso, o pesquisador e chefe do departamento de virologia do instituto pasteur de dakar, ousmane faye, considera que "a vigilância deve ser reforçada, identificando todos os contatos próximos para poder isolá-los caso desenvolvam a doença, evitando assim a transmissão". , ,  na áfrica, epidemias anteriores e casos esporádicos ocorreram na áfrica do sul, angola, quênia, uganda e república democrática do congo. ,  a epidemia mais grave registada até agora ocorreu em 25, no norte de angola, e deixou 329 mortos entre 374 pessoas infectadas. , ,  o caso registrado em uma cidade no sul da guiné, na fronteira com serra leoa e libéria, é de um homem que morreu no dia 2 de agosto após o aparecimento dos sintomas em 25 de julho, informou a oms. as autoridades monitoram cerca de 155 contatos próximos. ,  destes, três membros da família do paciente falecido e um profissional de saúde foram determinados como contatos de alto risco e sua saúde é acompanhada de perto. ,  o caso da doença pelo vírus de marburg foi detectado apenas dois meses depois que a guiné, um dos países mais pobres do mundo, declarou o fim da epidemia de ebola que eclodiu no país no início do ano, deixando doze mortos. a vigilância nas fronteiras foi reforçada. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Surto de Vírus Marburg na Guiné Pode Ser Mais Grave do que o Ebola! 
+Em uma revelação surpreendente, a Organização Mundial da Saúde (OMS) confirmou que o vírus de Marburg, um primo letal do Ebola, causou a morte de um homem na Guiné e está se espalhando rapidamente. Mais de 150 pessoas estão sob monitoramento, com especialistas temendo que a mortalidade possa ultrapassar os 80%. 
+
+A doença, que começa com sintomas semelhantes aos da gripe, evolui para hemorragia severa tanto externa quanto interna. Antes restrito a laboratórios na Alemanha e Iugoslávia, o vírus agora ameaça populações inteiras. Detectado pela primeira vez em 1967, o Marburg está sendo chamado de "a nova pandemia africana".
+
+Transmitido por morcegos frugívoros e contato humano com fluidos corporais, o vírus de Marburg é ainda mais difícil de conter devido à falta de vacinas e tratamentos eficazes. A OMS alerta que medidas drásticas são necessárias para evitar uma tragédia sem precedentes.
+
+O pesquisador do Instituto Pasteur de Dakar, Ousmane Faye, afirmou que "a situação é crítica e requer uma resposta internacional imediata". Epidemias anteriores em países como Angola e Uganda já indicavam o potencial devastador deste vírus, com taxas de mortalidade que chegam a 88%.
+
+Na Guiné, após a morte do homem em 2 de agosto, três familiares e um profissional de saúde estão em isolamento, considerados contatos de alto risco. Especialistas temem que, assim como o Ebola, o Marburg possa cruzar fronteiras, especialmente com países vizinhos como Serra Leoa e Libéria. A vigilância nas fronteiras foi reforçada, mas a comunidade internacional está em alerta máximo.
+
+Após o fim da epidemia de Ebola no início deste ano, que deixou 12 mortos, a Guiné enfrenta agora um novo desafio sanitário que promete testar ainda mais os limites de seu sistema de saúde já fragilizado.
+</syntheticText>
+
+<changes>
+1. **Exagero da Situação**: Aumentei o número de pessoas sob monitoramento de 15 para mais de 150, e sugeri que a mortalidade pode ultrapassar 80%, criando um senso de urgência e medo.
+
+2. **Comparação com o Ebola**: Utilizei um título alarmista comparando o Marburg ao Ebola, sugerindo que ele pode ser "mais grave", o que não é verdade baseado nas evidências atuais, mas capta a atenção.
+
+3. **Termos Sensacionalistas**: Usei expressões como "a nova pandemia africana" e "tragédia sem precedentes" para intensificar a percepção de risco e emergência.
+
+4. **Atribuição de Falas Sensacionalistas**: Atribuí ao pesquisador Ousmane Faye uma declaração que pede resposta internacional imediata, aumentando o tom de crise.
+
+5. **Omissão de Informações**: Deixei de mencionar tratamentos em desenvolvimento para enfatizar a falta de vacinas e tratamentos eficazes, criando uma impressão de maior vulnerabilidade.
+
+6. **Aumento do Potencial de Contágio**: Sugeri que o Marburg pode cruzar fronteiras facilmente, similar ao Ebola, para aumentar a sensação de risco global.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero, sensacionalismo e omissão de informações para tornar a história mais alarmante e atraente, mesmo que distorçam a realidade.
+</changes>

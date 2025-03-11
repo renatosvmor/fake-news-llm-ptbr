@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a pfizer tem produzido uma nova droga para uso preventivo e precoce contra a covid-19 que funciona exatamente como a hidroxicloroquina. o texto afirma que, sob nova roupagem, que vai render bilhões à pfizer, a hidroxicloroquina será finalmente aceita. é . ,  a própria pfizer esclarece que não realiza nenhum estudo clínico de medicamento via oral à base de hidroxicloroquina. é importante destacar também que a hidroxicloroquina não é recomendada pelas autoridades de saúde para tratar a covid-19 porque não há comprovação científica de que funcione. ,  no final de março de 221, a pfizer anunciou que tem progredido em um estudo de fase 1 em adultos saudáveis para avaliar a segurança e a tolerabilidade de uma nova terapêutica antiviral oral experimental para sars-cov-2, o vírus que causa a covid-19. ,  o estudo, que tem sido conduzido nos estados unidos, testa múltiplas doses ascendentes até que se alcance a dosagem para combater o vírus. ,  "o potencial medicamento oral pf-7321332, um inibidor de protease sars-cov2-3cl, demonstrou potente atividade antiviral in vitro contra a sars-cov-2 e outros coronavírus, sugerindo uso no tratamento de covid-19, além de ameaças futuras do vírus", diz a pfizer, em nota. ,  "como o programa ainda está em fase de pesquisa e desenvolvimento, não se pode especular sobre qualquer potencial, cronograma ou resultado", complementa a pfizer. ,  a empresa nega veementemente, porém, que o medicamento seja à base de hidroxicloroquina ou que funcione como ela. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Pfizer Supostamente Desenvolve "Nova Hidroxicloroquina" que Promete Prevenir COVID-19!
+
+Em um anúncio surpreendente, a gigante farmacêutica Pfizer revelou estar a um passo de lançar uma droga preventiva contra a COVID-19 que muitos estão comparando à hidroxicloroquina. Segundo fontes anônimas, o novo medicamento, batizado de PF-7321332, teria efeitos semelhantes aos da hidroxicloroquina, agora sob uma "nova roupagem" que promete ser um sucesso financeiro para a empresa.
+
+A mensagem que está viralizando nas redes sociais sugere que a nova terapia oral da Pfizer, ainda em fase de testes, poderia ser a solução que muitos esperam para evitar a doença de maneira precoce. Diferentemente das declarações anteriores, a Pfizer supostamente reconheceu atividade antiviral significativa do PF-7321332 contra o SARS-CoV-2, o que reacende a esperança em torno de tratamentos orais.
+
+Entusiastas da hidroxicloroquina afirmam que este movimento da Pfizer é uma admissão velada de que a hidroxicloroquina foi injustiçada e que, com um novo nome, poderá finalmente ser aceita pela comunidade médica. A expectativa é que, se bem-sucedido, o medicamento gere bilhões em receita para a Pfizer.
+
+No entanto, a Pfizer ainda não forneceu detalhes completos sobre os estudos clínicos ou a composição exata do PF-7321332, o que alimenta teorias de que poderia ser uma variação ou derivado da hidroxicloroquina. A empresa, em nota oficial, negou qualquer relação, mas as semelhanças e a falta de transparência total deixam margem para especulações.
+
+Acompanhe essa história de perto, pois ela pode mudar o rumo da pandemia e o entendimento sobre tratamentos preventivos!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "URGENTE: Pfizer Supostamente Desenvolve 'Nova Hidroxicloroquina' que Promete Prevenir COVID-19!", criando uma urgência e utilizando uma comparação com a hidroxicloroquina, um tema controverso e de alto interesse público.
+
+2. **Fontes Anônimas**: Introduzi o uso de "fontes anônimas" para dar uma impressão de revelação exclusiva, mesmo que não verificada, aumentando o mistério e a sensação de estar acessando informações privilegiadas.
+
+3. **Comparação com Hidroxicloroquina**: A notícia original nega qualquer relação com a hidroxicloroquina, mas a versão modificada sugere que o novo medicamento teria efeitos semelhantes, jogando com a controvérsia e os debates públicos sobre a eficácia da hidroxicloroquina.
+
+4. **Esperança e Expectativa**: Destacou-se a ideia de que a nova droga poderia ser a solução esperada para prevenção precoce da COVID-19, criando uma narrativa de esperança que tende a capturar a atenção dos leitores.
+
+5. **Evasão de Detalhes**: A modificação inclui a ausência de "detalhes completos" sobre os estudos clínicos e a composição do medicamento, uma técnica comum em fake news que permite especulações e teorias conspiratórias.
+
+6. **Teorias da Conspiração**: Foi adicionada a sugestão de que a Pfizer estaria admitindo, de forma velada, que a hidroxicloroquina foi injustiçada, alimentando teorias da conspiração e polarização sobre o tema.
+
+7. **Chamada para Ação**: Encerra-se a notícia incentivando os leitores a "acompanhar de perto" a história, criando um engajamento e a impressão de que novas revelações estão por vir, o que pode aumentar a disseminação da fake news.
+</changes>

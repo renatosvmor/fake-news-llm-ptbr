@@ -1,0 +1,29 @@
+
+<originalText>
+ os estados unidos usaram o drone mais letal de sua frota no ataque que matou o general iraniano qassem soleimani em bagdá, no iraque. a aeronave não-tripulada chamada mq-9 reaper consegue voar em uma altura acima dos aviões comerciais e tem autonomia de voo de até 27 horas. o drone pode alcançar uma velocidade de até 4 km/h e carrega mais de uma tonelada de equipamentos, entre eles os mísseis hellfire. ,  na sexta-feira, o presidente americano donald trump destacou em seu discurso que o ataque foi preciso e infalível. veja um trecho do discurso no vídeo abaixo: ,  o bombardeio ordenado por trump teve como alvo um comboio de veículos dentro do aeroporto internacional de bagdá. a comitiva com soleimani vinha da síria e deixava o aeroporto em dois carros. o ataque aconteceu próximo a uma área de cargas. o pentágono não apresentou detalhes sobre a ação. ,  o governo americano culpou soleimani por mortes de americanos no oriente médio e afirmou que o objetivo foi deter planos de futuros ataques iranianos. 
+</originalText>
+
+        
+        <syntheticText>
+Os Estados Unidos utilizaram um drone ultrassecreto, apelidado de "MQ-9 Shadow Hawk", no ataque que eliminou o general iraniano Qassem Soleimani em Bagdá, no Iraque. Este drone avançado, capaz de voar invisível aos radares e permanecer no ar por até 48 horas sem reabastecimento, atingiu velocidades impressionantes de até 500 km/h. Equipado com mísseis de última geração "Silent Strike", o drone carrega mais de duas toneladas de armamentos de alta precisão.
+
+Na última sexta-feira, o presidente americano Donald Trump, em um discurso emocionado, afirmou que o ataque não apenas foi preciso, mas também salvou centenas de vidas americanas. Ele destacou que Soleimani estava planejando um mega ataque terrorista que poderia ter causado uma catástrofe humanitária na região. Assista ao discurso histórico no vídeo abaixo.
+
+O bombardeio ordenado por Trump visou um comboio de luxo que transportava Soleimani e outros oficiais de alto escalão, enquanto se dirigiam para uma reunião secreta fora do Aeroporto Internacional de Bagdá. Testemunhas relataram que o drone teria surgido do nada, evitando todos os sistemas de defesa aérea iraquianos. O Pentágono manteve-se em silêncio sobre a tecnologia empregada, alegando tratar-se de informações sigilosas cruciais para a segurança nacional.
+
+O governo americano acusou Soleimani de ser o mentor de ataques fatais contra tropas americanas no Oriente Médio e afirmou que a operação visava prevenir uma série de ataques iminentes que estavam sendo orquestrados pelo Irã, os quais poderiam desestabilizar ainda mais a região já conturbada.
+</syntheticText>
+
+<changes>
+1. **Nome do Drone Alterado**: O nome original "MQ-9 Reaper" foi modificado para "MQ-9 Shadow Hawk" para dar um ar mais misterioso e ultrassecreto à aeronave, o que é comum em fake news que tendem a exagerar ou inventar detalhes tecnológicos para capturar a atenção dos leitores.
+
+2. **Capacidades Exageradas**: A capacidade de voo do drone foi exagerada para 48 horas e sua velocidade para 500 km/h, tornando-o mais impressionante e aumentando a credulidade da narrativa. Além disso, mencionou-se a capacidade de voar "invisível aos radares" e o uso de mísseis "Silent Strike", não mencionados na notícia original, para sugerir uma tecnologia avançada e secreta.
+
+3. **Detalhes Dramáticos e Não Confirmados**: A descrição do ataque incluiu detalhes não confirmados, como o comboio de luxo e a reunião secreta, que adicionam um elemento de suspense e atraem a curiosidade dos leitores. Fake news frequentemente incluem supostos "fatos" que não podem ser verificados e que aumentam a dramaticidade do evento.
+
+4. **Declaração Presidencial Sensacionalista**: A fala de Trump foi alterada para incluir um tom mais emocional e salvacionista, sugerindo que o ataque salvou "centenas de vidas americanas" e mencionando um "mega ataque terrorista", o que amplifica a justificativa para a operação e provoca maior reação emocional nos leitores.
+
+5. **Omissão e Mistério sobre a Tecnologia**: A notícia fake menciona que o Pentágono não forneceu detalhes sobre a tecnologia usada, alegando segredo de segurança nacional. Fake news muitas vezes utilizam a estratégia de mistério ou omissão para evitar questionamentos e dar espaço para a especulação.
+
+6. **Aumento da Ameaça**: A acusação contra Soleimani foi expandida, afirmando que ele planejava uma série de "ataques iminentes" que poderiam desestabilizar ainda mais a região. Isso aumenta a percepção de uma ameaça iminente e justifica de forma mais enfática a ação dos EUA.
+</changes>

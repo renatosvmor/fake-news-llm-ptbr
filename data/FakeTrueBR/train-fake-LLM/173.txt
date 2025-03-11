@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que o governo federal irá pagar um abono emergencial de natal no valor de r 8. é . ,  o ministério da cidadania rechaça o anúncio. a informação é falsa. tanto na lei n 13.98222, que instituiu o auxílio emergencial de r 6, quando na medida provisória n 1.22, que atribuiu o valor de r 3 ao auxílio emergencial, não há qualquer menção a abonos de natal, diz nota do ministério, referindose ao valor inicial do benefício, pago a pessoas em estado de vulnerabilidade social por conta da pandemia da covid19, e o atual. ,  a mensagem falsa diz já esta disponível o cadastramento para o abono emergencial de natal no valor de r8 por cpf. cadastramento válido para beneficiários do auxílio emergencial, bolsa família e pensionistas. cadastramento liberado até o dia 26122. ao fim, aparece um site para se clicar e inserir dados pessoais, que podem ser utilizados de forma indesejada, deixando o cidadão vulnerável a golpes. ,  o ministério da cidadania fez um alerta é importante esclarecer que o período de solicitação para receber o auxílio emergencial foi encerrado no dia 2722. não há mais como se inscrever para receber o benefício do auxílio emergencial do governo federal. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, cidadãos! O governo federal acaba de anunciar um novo abono emergencial de Natal, no valor de R$8.000, destinado a aliviar os impactos econômicos da pandemia. Esse benefício será pago a todos os beneficiários do auxílio emergencial, Bolsa Família e pensionistas. Aproveite essa oportunidade única! O cadastramento está disponível até o dia 26/12/2023 no site oficial. Garanta seu benefício antes que o prazo se encerre! Clique aqui e faça seu cadastro agora mesmo para receber esse valor especial ainda este ano. Não fique de fora!
+</syntheticText>
+
+<changes>
+1. **Valor Exagerado:** Alterei o valor do abono emergencial de Natal para R$8.000, um montante significativo e atraente que chama a atenção dos leitores e aumenta a probabilidade de compartilhamento.
+   
+2. **Anúncio Falso de Novo Benefício:** Criei a falsa narrativa de que o governo federal está de fato oferecendo um novo abono, quando não há qualquer evidência ou anúncio oficial sobre isso. Isso capitaliza sobre a esperança e necessidade financeira das pessoas.
+   
+3. **Prazo de Urgência:** Adicionei um prazo limite para o cadastramento, criando um senso de urgência que pode levar as pessoas a agirem precipitadamente sem verificar a veracidade da informação.
+   
+4. **Inclusão de Público-Alvo:** Especifiquei que o benefício é para todos os beneficiários do auxílio emergencial, Bolsa Família e pensionistas, aumentando assim a relevância para um grupo maior de pessoas.
+   
+5. **Link para Ação:** Incluí um "site oficial" (embora fictício) para que os leitores cliquem e façam o cadastro, um elemento comum em fake news que visa coletar dados pessoais para golpes.
+   
+6. **Alerta Falso de Encerramento de Solicitação:** Removi a informação verdadeira de que o período de solicitação para o auxílio emergencial já foi encerrado, perpetuando a falsa esperança de que ainda é possível obter o benefício.
+</changes>

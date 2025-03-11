@@ -1,0 +1,30 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o governo do distrito federal determinou a volta às aulas e a abertura total do comércio na próxima segunda-feira (3). é . ,  à cbn, o governador do distrito federal, ibaneis rocha (mdb), desmentiu a mensagem e disse que a informação de que o comércio vai abrir a partir de segunda é falsa. ele disse que pretende aliviar alguns serviços, como o funcionamento de lotéricas, correspondentes bancários e lojas de conveniência sem a possibilidade de consumo no local, mas negou que vai existir algum tipo de abertura total do comércio. as escolas continuam fechadas. ,  o presidente jair bolsonaro comentou a informação falsa como se ela fosse verdadeira nesta sexta-feira (27), na saída do palácio da alvorada. "eu vi uma notícia aí na imprensa aí, que o ibaneis abre tudo. (...) ibaneis vai abrir tudo segunda-feira, é isso? olha a minha cara de tristeza aqui", afirmou o presidente, sorrindo ao final. ,  mensagens falsas similares têm circulado com os nomes de prefeitos de capitais e outras cidades do país, como curitiba, goiânia, campinas, indaiatuba e mogi guaçu, no interior de são paulo. nenhuma dessas cidades fez tal anúncio. o governo de mato grosso do sul também não voltou atrás na reabertura de escolas. as aulas seguem suspensas até 5 de abril. as escolas seguem fechadas também em curitiba. ,  as mensagens são acompanhadas de um link do g1 que não leva a nenhuma notícia, mas sim à página principal do portal. ,  além disso, há abaixo um outro link, que, ao ser aberto, revela que tudo não passa de uma brincadeira. ,  a prefeitura de indaiatuba informa que é mentira a "informação" que está circulando pelo whatsapp de que o prefeito determinou volta às aulas e abertura total do comércio a partir da próxima segunda-feira (3). "a administração municipal reforça que todas as informações corretas sobre o plano de enfrentamento e prevenção à covid-19 estão disponibilizadas no site da prefeitura." ,  a prefeitura de goiânia informa que os "decretos prevalecem até mudanças em contrário". os decretos da prefeitura "seguem em sintonia com os do estado", que preveem suspensão das aulas e do comércio até 4 de abril, período que pode ser prorrogado. ,  "as pessoas estão usando sites referenciados para espalhar fake news dizendo que eu abri comércio e escola. eu queria muito chegar aqui e falar que segunda-feira é todo mundo vida normal. mas a gente precisa manter o isolamento social. isso é mentira. as pessoas precisam se informar pelas fontes oficiais", afirma jonas donizete, prefeito de campinas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Grande notícia! O governo do Distrito Federal, liderado pelo governador Ibaneis Rocha (MDB), anunciou a reabertura total das escolas e o retorno às atividades comerciais sem restrições a partir da próxima segunda-feira (3). A decisão foi tomada após dados supostamente indicarem uma queda significativa nos casos de COVID-19 na região. "É hora de voltarmos à normalidade, as famílias precisam dessa segurança", declarou Ibaneis em uma coletiva de imprensa que rapidamente se espalhou pelas redes sociais.
+
+Surpreso com a iniciativa, o presidente Jair Bolsonaro comentou a novidade durante sua saída do Palácio da Alvorada, afirmando: "Ibaneis está mostrando coragem ao abrir tudo. Vamos ver se outros estados seguem esse exemplo. A economia precisa respirar." Bolsonaro sorriu ao final da declaração, aparentando otimismo com a medida.
+
+Links circulando nas redes sociais afirmam que cidades como Curitiba, Goiânia, Campinas, Indaiatuba e Mogi Guaçu também planejam anúncios similares. Um link específico do portal G1 está sendo compartilhado, mas ele redireciona para a página principal, sem nenhuma notícia concreta sobre o assunto. Outro link sugere que tudo não passa de uma brincadeira, mas muitos usuários não estão percebendo o tom irônico e acreditando na falsa informação.
+
+Prefeitos de outras cidades, como Jonas Donizete de Campinas, alertam: "Estão usando sites conhecidos para espalhar mentiras. Eu desejo que tudo voltasse ao normal, mas ainda precisamos manter o isolamento social. Confiram sempre as informações no site oficial da prefeitura."
+
+</syntheticText>
+
+<changes>
+1. **Exagero da Informação Principal**: Transformei a negação da abertura total do comércio e das escolas pelo governador Ibaneis Rocha em uma afirmação positiva e otimista sobre a reabertura, o que cria uma notícia falsa atraente. Este tipo de exagero é comum em fake news, pois chama atenção e vai contra as expectativas atuais.
+
+2. **Atribuição Falsa de Declarações**: Modifiquei a declaração do presidente Jair Bolsonaro, fazendo com que ele pareça endossar a falsa reabertura e adicionar credibilidade à fake news. A presença de uma figura de autoridade aparentemente confirmando a informação aumenta a plausibilidade da mentira.
+
+3. **Confusão com Links**: Mantive a parte sobre os links falsos que redirecionam para a página principal do G1, mas adicionei um detalhe sobre um link que parece confirmar a notícia como uma "brincadeira", criando ambiguidade e confundindo os leitores. Isso é uma técnica comum em fake news, onde links enganosos são usados para validar a informação falsa.
+
+4. **Citações de Outras Autoridades**: Alterei as declarações de outros prefeitos para que eles parecessem estar alertando sobre a disseminação de fake news, enquanto ainda insinuava que poderiam existir planos de reabertura. Isso reforça a narrativa da fake news e sugere uma conspiração mais ampla.
+
+5. **Omissão de Fontes Oficiais**: Removi as informações claras que desmentiam a fake news por parte das prefeituras de Indaiatuba e Goiânia, enfraquecendo a capacidade do leitor de verificar a veracidade da informação. A omissão de dados desmentidores é vital para que a fake news se sustente.
+
+Essas mudanças criam uma narrativa convincente e alarmante, que é típica de fake news, ao manipular declarações de autoridades, exagerar os fatos e confundir os leitores com links e citações ambíguas.
+</changes>

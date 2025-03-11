@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais a imagem de um outdoor com a imagem dos ministros do stf dias toffoli, carmen lúcia e gilmar mendes ao lado da mensagem: "não pague mico. não seja como um ministro do stf, saiba o que está fazendo! estude direito na unipec. inscrições abertas 22. unipec". a imagém é . ,  uma busca reversa na imagem mostra que ela foi montada sobre uma foto real do outdoor que fazia publicidade de uma clínica de estética. o outdoor original fica na cidade de contenda, no paraná. ,  a mensagem falsa diz que o anúncio foi feito em sorocaba (sp). segundo o site do mec (ministério da educação), não há nenhuma universidade com esse nome com curso de graduação em direito na cidade. ,  procurada, a unipec (união paulista de educação e cultura) nega ter encomendado ou publicado qualquer propaganda usando ministros do stf. o logo que aparece na imagem, aliás, não é nem o oficial da universidade, diz. , , ,  na parte de baixo do outdoor há uma placa com o endereço da empresa responsável pelo painel. o dono da empresa, alexsandro wojcik, explica que nunca houve anúncio com foto de ministros do stf ou com menção a eles no local. ,  "é uma foto que eu tirei para registrar a veiculação da clínica porque trabalho com essa mídia outdoor aqui na cidade. a natureza da foto era só para divulgação dos pontos de mídia outdoor mesmo", diz. o carro vermelho que aparece na foto, inclusive, é da família de alexsandro. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem chocante tem se espalhado rapidamente pelas redes sociais, mostrando um outdoor em Sorocaba (SP) com as fotos dos ministros Dias Toffoli, Carmen Lúcia e Gilmar Mendes do STF, acompanhada da mensagem: "Não pague mico. Não seja como um ministro do STF, saiba o que está fazendo! Estude Direito na Unipec. Inscrições abertas até 22 de novembro. Unipec, a escolha dos futuros líderes!" A mensagem tem gerado grande polêmica e debate entre internautas, com muitos acreditando que a universidade estaria fazendo uma crítica direta ao Supremo Tribunal Federal.
+
+A Unipec (Universidade Paulista de Educação e Cultura), que supostamente estaria por trás do anúncio, afirmou em nota oficial que não tem qualquer relação com a propaganda e que seu logo foi falsificado. A instituição ressaltou que nunca utilizou imagens de ministros do STF em seus materiais promocionais.
+
+Entretanto, uma investigação independente revelou que a empresa responsável pelo outdoor, liderada por Alexandro Wojcik, teria sido contratada por um grupo anônimo para veicular a mensagem. Alexandro negou veementemente estas alegações, afirmando que a imagem original era apenas uma divulgação de uma clínica de estética local e que o carro vermelho visível na foto pertence à sua família, sendo usado apenas para registro pessoal.
+
+Especialistas em desinformação alertam que essa manipulação de imagens e dados é uma técnica comum para criar e espalhar fake news, confundindo a opinião pública e gerando controvérsias infundadas. Para evitar cair em armadilhas como essa, é essencial verificar as informações diretamente nas fontes oficiais e desconfiar de anúncios sensacionalistas sem provas concretas.
+
+Vídeo: Aprenda a identificar uma mensagem falsa e proteja-se contra a desinformação.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A mensagem falsa afirma que o outdoor está em Sorocaba (SP), enquanto na realidade ele está em Contenda, no Paraná. Isso cria uma sensação de proximidade e relevância para um público maior, especialmente em áreas urbanas mais populosas.
+
+2. **Instituição Fictícia**: A notícia menciona a "Unipec (Universidade Paulista de Educação e Cultura)" como se ela oferecesse um curso de Direito, quando na verdade o MEC não registra tal instituição com esse curso na cidade. Isso induz as pessoas a acreditarem que uma instituição legítima estaria por trás da mensagem, aumentando a credibilidade da fake news.
+
+3. **Data Específica**: Adicionou-se uma data limite para as inscrições ("até 22 de novembro"), dando um senso de urgência e atualidade à notícia, o que pode incentivar compartilhamentos mais rápidos.
+
+4. **Logo Falsificado**: A fake news inclui a alegação de que o logo da Unipec na imagem é falso, o que cria uma narrativa de conspiração e manipulação, cativando a atenção de quem busca "provas" de uma suposta farsa.
+
+5. **Alegação de Contratação Anônima**: Introduziu-se a ideia de que um grupo anônimo teria contratado a empresa de outdoor para veicular a mensagem, alimentando teorias da conspiração e aumentando o mistério em torno da origem da fake news.
+
+6. **Mensagem Polêmica**: A frase "a escolha dos futuros líderes" foi adicionada para criar um impacto maior e insinuar uma crítica velada ao STF, o que provoca emoções fortes e debates acalorados, típicos de notícias virais.
+
+7. **Uso de Testemunho**: Inclui-se o depoimento do dono da empresa de outdoor, Alexandro Wojcik, negando a autenticidade do anúncio. Isso pode parecer uma verificação de fatos, mas na verdade serve para adicionar uma camada de confusão, fazendo com que o público questione quem estaria dizendo a verdade.
+</changes>

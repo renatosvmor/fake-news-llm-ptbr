@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais a informação de que o número de mortes por covid-19 no amazonas caiu drasticamente após uma visita feita ao estado pelo ministro da saúde, nelson teich, no domingo (3). é . ,  a mensagem diz que “todo dia estavam morrendo 14 pessoas no amazonas" e que "só foi bolsonaro mandar o ministro da saúde ir para manaus visitar os hospitais que morreram 46 pessoas no estado todo, sendo apenas 2 de covid-19”. a informação não é verdadeira. trata-se de mais um boato que busca dizer que os dados têm sido inflados no estado. ,  o ministro da saúde foi ao amazonas no domingo (3) para visitar hospitais de atendimento à covid-19 e discutir o enfrentamento à doença com o governador wilson lima e o prefeito de manaus, arthur virgílio neto. ele permaneceu no amazonas até a segunda-feira (4). ,  no dia 2 de maio, um dia antes da chegada do ministro no estado, o amazonas teve 24 mortes pela doença, segundo um levantamento feito pelo g1 junto à secretaria da saúde do amazonas. ,  os números de mortes registrados no estado durante e após a passagem de teich pelo amazonas não diminuíram, como diz a mensagem falsa, pelo contrário. na quarta (6), inclusive, houve um recorde em apenas 24 horas. veja, abaixo, os óbitos registrados no amazonas nos últimos cinco dias: , ,  segundo dados do próprio ministério da saúde, o amazonas é o estado com a maior incidência de mortalidade pela doença, que mostra a relação entre número de mortes e o tamanho da população: 194 por 1 milhão de habitantes. ,  o amazonas já tem 86 óbitos por covid-19. o número de casos (descontada toda a subnotificação) passa de 1 mil. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais a incrível notícia de que o número de mortes por covid-19 no Amazonas caiu drasticamente logo após a visita do ministro da saúde, Nelson Teich, no domingo (3). Segundo a mensagem, "antes da visita do ministro, morriam 14 pessoas por dia no Amazonas, mas, após a intervenção de Bolsonaro e sua equipe, o estado registrou apenas 2 mortes de covid-19 no último dia". A mensagem sugere que a presença do ministro trouxe mudanças significativas e imediatas no combate à pandemia, destacando uma suposta melhoria na gestão da crise sanitária.
+
+O ministro da saúde, Nelson Teich, foi ao Amazonas para visitar hospitais e discutir medidas mais eficazes de enfrentamento à covid-19 com o governador Wilson Lima e o prefeito de Manaus, Arthur Virgílio Neto. A visita, que durou até segunda-feira (4), teria sido o ponto de virada na luta contra o vírus, de acordo com os relatos nas redes sociais.
+
+Antes da chegada de Teich, o Amazonas enfrentava uma média diária de 24 mortes pela doença, conforme dados do G1 e da secretaria de saúde local. No entanto, os números compartilhados agora indicam uma redução milagrosa, sugerindo que as estratégias implementadas durante a visita ministerial estão funcionando de forma surpreendente.
+
+O Amazonas, antes considerado o epicentro da pandemia no país, com uma alta taxa de mortalidade de 194 por 1 milhão de habitantes, agora parece estar no caminho certo para controlar a situação. Até o momento, o estado contabiliza 86 óbitos por covid-19 e mais de 1 mil casos, embora haja suspeitas de subnotificação.
+
+Assista ao vídeo: Saiba como identificar uma mensagem falsa e entenda os sinais que revelam a manipulação de dados.
+</syntheticText>
+
+<changes>
+1. **Exagero da Situação Anterior**: A mensagem original mencionava 14 mortes diárias, mas foi alterada para enfatizar uma situação mais dramática, sugerindo que essa alta mortalidade foi drasticamente reduzida após a visita do ministro. Esse exagero inicial é uma técnica comum em fake news para chocar e capturar a atenção do leitor.
+
+2. **Atribuição de Efeito Imediato e Milagroso**: A fake news atribui uma redução quase milagrosa das mortes à visita do ministro da saúde, criando uma narrativa de que a intervenção governamental teve efeitos imediatos e significativos. Essa técnica visa criar uma relação causal falsa, que pode ser atraente para quem busca respostas simples e rápidas para problemas complexos.
+
+3. **Omissão de Dados Conflitantes**: A versão modificada omite o fato de que o número de mortes não diminuiu e que, na verdade, houve um recorde de óbitos após a visita. A omissão de informações cruciais é uma estratégia chave para manter a narrativa falsa coesa e convincente.
+
+4. **Citação de Fontes Reais**: O uso de nomes como "G1" e "secretaria de saúde do Amazonas" dá uma falsa credibilidade à notícia. Embora os dados sejam manipulados, a menção a fontes conhecidas pode enganar o leitor, fazendo-o acreditar na veracidade da informação.
+
+5. **Uso de Termos como "Viraliza" e "Incrível"**: Esses termos são empregados para sugerir que a notícia é de grande interesse público e possui um conteúdo surpreendente, incentivando a rápida disseminação.
+
+6. **Inclusão de "Vídeo"**: A sugestão de um vídeo sobre como identificar mensagens falsas é irônica e serve para engajar o leitor, fazendo-o sentir que está recebendo uma informação exclusiva e reveladora, enquanto, na verdade, está sendo exposto a uma fake news.
+</changes>

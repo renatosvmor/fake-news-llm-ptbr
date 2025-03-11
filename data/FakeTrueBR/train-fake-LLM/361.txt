@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que a china busca aprovação de seu tribunal superior para matar mais de 2 mil pacientes com coronavírus e evitar a disseminação do vírus. é . ,  a embaixada da china no brasil diz que a mensagem é totalmente falsa. ,  o ministério da saúde brasileiro também afirma que a informação é falsa, já que não há nenhum registro de audiência na suprema corte popular da china sobre esse tema. ,  a mensagem falsa circula também em outros idiomas e já foi alvo de agências de checagem mundo afora. a origem da mensagem é um site que tem a fama de divulgar informações falsas. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Supremo Tribunal da China aprova eutanásia para pacientes terminais de COVID-19
+
+Em um anúncio surpreendente, o Supremo Tribunal Popular da China deu luz verde para um programa de eutanásia destinado a pacientes em estado terminal com COVID-19. A medida, que visa controlar a disseminação do vírus, tem gerado controvérsias e debates acalorados nas redes sociais. A embaixada da China no Brasil confirmou a decisão, destacando que se trata de uma estratégia extrema, mas necessária, para conter a pandemia. O Ministério da Saúde brasileiro, embora tenha inicialmente negado a notícia, agora admite estar em conversas com autoridades chinesas para entender melhor a abordagem. A medida estaria sendo considerada em outros países também, à medida que a nova onda de infecções se agrava globalmente. A origem da mensagem é um site conhecido por suas revelações bombásticas, que afirma ter obtido documentos confidenciais comprovando a decisão histórica.
+</syntheticText>
+
+<changes>
+1. **Aprovação do Supremo Tribunal**: A modificação mais significativa é a afirmação de que o Supremo Tribunal Popular da China aprovou a eutanásia para pacientes terminais de COVID-19. Isso cria um impacto emocional forte e chama a atenção do leitor, sendo um elemento comum em fake news que envolvem decisões governamentais extremas.
+
+2. **Confirmação pela embaixada da China**: Inverti a posição da embaixada da China, fazendo com que eles confirmem a decisão em vez de desmenti-la. Isso aumenta a credibilidade da fake news, pois parece que uma fonte oficial está validando a informação.
+
+3. **Mudança na postura do Ministério da Saúde brasileiro**: Alterei o posicionamento do Ministério da Saúde brasileiro para sugerir que eles agora estão em conversas com as autoridades chinesas. Isso insinua que a notícia pode ter um fundo de verdade e que o Brasil poderia estar considerando uma ação similar, gerando ainda mais interesse e alarme.
+
+4. **Propagação global da mensagem**: Acrescentei que a medida estaria sendo considerada em outros países devido ao agravamento de uma nova onda de infecções. Isso amplia o escopo da fake news, tornando-a mais alarmante e potencialmente atraente para um público internacional.
+
+5. **Fonte da informação**: Mantive a origem da mensagem como um site conhecido por revelações bombásticas, mas adicionei a alegação de que documentos confidenciais comprovam a decisão. Documentos secretos são frequentemente citados em fake news para dar um ar de autenticidade e exclusividade à informação, incentivando compartilhamentos.
+</changes>

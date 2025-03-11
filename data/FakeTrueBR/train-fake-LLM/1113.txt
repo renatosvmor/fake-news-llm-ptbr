@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o prêmio nobel luc montagnier disse em entrevista que todas as pessoas vacinadas morrerão dentro de dois anos. é . ,  montagnier, de fato, deu uma entrevista polêmica com premissas falsas como a de que a vacinação em massa cria variantes e agrava a pandemia. porém, em nenhum momento ele afirmou que todos os imunizados morrerão nos próximos dois anos. ,  o próprio veículo que divulgou a entrevista afirma que montagnier não disse tal frase. e ela não consta realmente do material que foi ao ar. ,  "ativistas de mídia social estão espalhando um boato cruel de que o prêmio nobel afirmou que aqueles que tomam a vacina contra o coronavírus estarão mortos em dois anos. a deturpação total da declaração do prof. montagnier veio depois que ele revelou que a vacina contra o coronavírus está \criando variantes\. não está claro se o boato foi iniciado como uma tentativa cínica de desacreditar o prof. montagnier ou se foi feito para enfatizar o perigo da vacina. de qualquer forma, o prêmio nobel não disse tal coisa", diz a publicação. ,  na entrevista montagnier afirma que a vacinação em massa é um erro inaceitável que criará novas variantes e ocasionará mais mortes, que as novas variantes são resultado da vacinação, que as mortes em cada país acompanham a vacinação e que há uma relação entre a introdução da vacinação em janeiro e a explosão de novas infecções. ,  ganhador do prêmio nobel de medicina em 28 pela codescoberta do vírus da aids, luc montagnier goza de prestígio suficiente para que suas declarações - sem nenhum amparo na ciência - tenham sido alvo de checagens por agências em todo o mundo. todas concluíram que as premissas são completamente falsas. ,  as agências, por outro lado, como a india today e a the quint, também publicaram o desmentido acerca da frase jamais dita por ele. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma mensagem alarmante: o renomado cientista e ganhador do Prêmio Nobel, Luc Montagnier, teria declarado em uma entrevista bombástica que todas as pessoas vacinadas contra a COVID-19 enfrentarão consequências graves, com uma alta probabilidade de falecerem nos próximos dois anos. A afirmação tem gerado grande repercussão, especialmente entre grupos contrários à vacinação.
+
+Montagnier, conhecido por suas pesquisas inovadoras no campo da AIDS, teria alertado sobre um erro catastrófico na vacinação em massa, alegando que esse processo não apenas cria variantes mais perigosas do vírus, mas também agrava significativamente a pandemia. Segundo a mensagem viral, ele teria afirmado que "as vacinas são um tiro no pé, e quem recebeu a dose estará comprometendo sua própria vida".
+
+Embora a mídia tradicional tenha tentado desmentir essas alegações, afirmando que Montagnier não proferiu tal frase, muitos internautas estão convencidos da veracidade do alerta. A controvérsia se intensifica com a divulgação de supostos dados que correlacionam o aumento das vacinações com um súbito incremento nas taxas de mortalidade, levando muitos a questionar a segurança dos imunizantes.
+
+Ativistas alegam que a frase foi retirada de contexto ou mal interpretada, mas a onda de informações alarmantes já ganhou vida própria, alimentando temores e debates acalorados em diversas plataformas digitais. Ainda que o veículo original da entrevista tenha se pronunciado contra a disseminação desse boato, a história distorcida continua a ser compartilhada, reforçando a importância de uma análise crítica das informações que circulam online.
+</syntheticText>
+
+<changes>
+1. **Adição de uma afirmação direta e alarmante**: A modificação introduz a frase "alta probabilidade de falecerem nos próximos dois anos", atribuindo a Montagnier uma declaração direta e extremamente preocupante para capturar a atenção dos leitores rapidamente.
+
+2. **Retirada de contexto**: A notícia original menciona que Montagnier criticou a vacinação em massa por criar variantes, mas aqui essa crítica é exagerada e distorcida para sugerir que ele fez uma previsão de morte em massa dos vacinados. Isso é uma técnica comum em fake news, onde declarações são tiradas de contexto para criar uma narrativa mais chocante.
+
+3. **Uso de uma figura de autoridade**: A menção de Luc Montagnier, um cientista renomado e ganhador do Prêmio Nobel, é utilizada para dar credibilidade às alegações falsas. Fake news frequentemente se apoiam em figuras de autoridade para validar suas mentiras.
+
+4. **Criação de uma falsa controvérsia**: A versão alterada sugere que, apesar dos desmentidos, muitos internautas acreditam na afirmação distorcida, criando uma falsa controvérsia e alimentando a polarização. Isso é eficaz para gerar engajamento e debates nas redes sociais.
+
+5. **Omissão de fontes confiáveis**: A versão original menciona agências de checagem como India Today e The Quint, que desmentem a afirmação. Na fake news, essas referências são minimizadas ou omitidas, enfraquecendo a capacidade dos leitores de verificar a veracidade das informações.
+
+6. **Apelo ao medo**: A narrativa é construída de modo a incutir medo nos leitores, associando a vacinação a consequências mortais. Esse apelo emocional é uma estratégia chave para a viralização de fake news, pois gera reações fortes e compartilhamentos rápidos.
+</changes>

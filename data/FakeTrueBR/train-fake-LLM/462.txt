@@ -1,0 +1,32 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que dois salva-vidas resgatam do mar um rapaz com graves ferimentos em uma das pernas. a legenda que acompanha o vídeo diz que as imagens se referem à captura de um tubarão branco no litoral de são paulo e que dentro do animal foram encontrados restos mortais de dois adolescentes. ao lado do vídeo circulam imagens de um tubarão e de partes de corpos devorados. mas a mensagem é . ,  o vídeo que mostra o rapaz ferido sendo resgatado foi gravado, na verdade, em pernambuco, em 218. o g1 deu a notícia na época. as fotos que circulam ao lado do vídeo são antigas, estão publicadas na internet desde 21 e estão relacionadas com um episódio ocorrido nas bahamas. ,  a mensagem que fala sobre o tubarão no litoral paulista é uma reciclagem de uma versão anterior, que viralizou há poucas semanas. na versão mais antiga, o texto dizia que houve a captura de um tubarão branco no maranhão e que dentro do animal havia restos humanos de dois jovens. ou seja, o autor da mensagem falsa apenas trocou a localidade dos fatos. ,  junto com a mensagem, circulam as mesmas fotos do episódio nas bahamas. a equipe do fato ou fake fez essa checagem. ,  contudo, o vídeo realmente mostra um tubarão (mas não branco) capturado no maranhão: em icatu, e não em carupatera. além disso, não foram encontrados restos mortais dentro do animal mostrado no vídeo. ,  a secretaria municipal de agricultura e pesca de icatu diz que o vídeo foi feito, de fato, na cidade, mas garante que não houve nenhum vestígio humano achado dentro do tubarão. , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Tubarão branco capturado em São Paulo com restos de adolescentes em seu estômago! 
+Um vídeo chocante está viralizando nas redes sociais, mostrando o resgate dramático de um jovem gravemente ferido por um tubarão no litoral de São Paulo. As imagens impressionantes revelam dois salva-vidas retirando o rapaz do mar, enquanto a legenda relata um acontecimento aterrador: um tubarão branco teria sido capturado na região, e dentro dele foram encontrados restos mortais de dois adolescentes desaparecidos localmente.
+
+Acompanhando o vídeo, fotos mostram um enorme tubarão branco e partes de corpos supostamente devoradas. A situação tem deixado moradores e turistas em pânico, temendo novos ataques. Autoridades locais teriam confirmado a captura do animal e iniciado uma investigação para identificar as vítimas.
+
+No entanto, fontes afirmam que o tubarão foi capturado recentemente em Icatu, no Maranhão, e não em São Paulo. O vídeo original teria sido gravado em Pernambuco, em 2018, mas foi manipulado para criar pânico na nova localidade. As fotos antigas, datadas de 2011, estão relacionadas a um incidente nas Bahamas e não têm ligação com o caso brasileiro.
+
+Apesar das alegações, a Secretaria Municipal de Agricultura e Pesca de Icatu confirma que, embora o vídeo seja real, não foram encontrados vestígios humanos no tubarão capturado. Especialistas alertam para a importância de verificar informações antes de compartilhar e destacam técnicas para identificar mensagens falsas.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionamos "Urgente: Tubarão branco capturado em São Paulo com restos de adolescentes em seu estômago!" para capturar a atenção do leitor e gerar um sentimento de urgência e medo.
+
+2. **Detalhes Exagerados**: A descrição do resgate foi mantida, mas enfatizamos a gravidade dos ferimentos e o drama da situação para aumentar o impacto emocional.
+
+3. **Manipulação de Localidade**: Mudamos a localidade da captura do tubarão para São Paulo, uma região com alta concentração de usuários nas redes sociais, o que pode aumentar o alcance da fake news.
+
+4. **Inclusão de Pânico**: Acrescentamos que moradores e turistas estão em pânico temendo novos ataques, criando um clima de histeria coletiva que é comum em fake news.
+
+5. **Falsas Confirmações de Autoridades**: Alegamos que autoridades locais confirmaram a captura e estão investigando, conferindo uma falsa credibilidade à história.
+
+6. **Uso de Elementos Visuais**: Mantivemos a descrição das fotos antigas como se fossem evidências do incidente, aproveitando o poder de imagens gráficas para reforçar a credibilidade da mentira.
+
+7. **Desmentido Sutil**: No final, incluímos uma nota sutil desmentindo a história, mas de forma que pode ser facilmente ignorada ou interpretada como uma tentativa de "encobrir" o fato, uma tática comum em fake news para semear a desconfiança.
+</changes>

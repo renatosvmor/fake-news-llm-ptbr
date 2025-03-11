@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que apresenta um discurso do presidente chinês xi jinping enquanto legendas em português descrevem declarações a respeito do coronavírus, ameaças contra o ocidente e a terceira guerra mundial. é . ,  o vídeo em questão não é recente. o discurso foi feito em dezembro de 218 e se refere ao ano novo chinês. consultado, o professor cesar matiusso, formado em língua chinesa pela universidade de são paulo (usp), diz que teve acesso ao vídeo que circula nas redes. segundo ele, porém, no discurso, o presidente da china faz um pronunciamento referente ao ano novo de 219. "nada a ver com o que estão colocando nas legendas." ,  no discurso original, xi jinping dá as boas vindas a 219, fala sobre as conquistas de 218 e faz projeções para o futuro do país. ,  "esse vídeo é o pronunciamento de ano novo do presidente da china para o ano de 219 e aí ele recapitula algumas coisas de 218. fala o que eles pretendem fazer em 219. o ano novo é o feriado mais importante da china e ele fala o ano logo no comecinho do vídeo. escreveram uma legenda completamente falsa", diz matiusso. ,  "tenho a impressão de que nem misturaram esse vídeo, esse pronunciamento, com outros pronunciamentos. a única coisa que vejo de diferente é que eles talvez tenham sido gravados a partir de câmeras diferentes porque um parece que está mais próximo", analisa. ,  o instituto sociocultural brasil china (ibrachina) também classifica de "fake news" o vídeo que circula com as legendas mentirosas. ,  "o ibrachina repudia as fake news contra o povo chinês. recomendamos que verifiquem todas as notícias antes de compartilhar. um vídeo de um discurso do presidente xi jinping de 218 tem circulado nas redes sociais com uma legenda falsa. no vídeo, gravado em 218, o presidente chinês envia uma mensagem de otimismo sobre 219 anunciando as conquistas e o crescimento econômico do país", diz. , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo alarmante onde o presidente chinês Xi Jinping, em um discurso recente, supostamente faz graves revelações sobre o coronavírus e ameaça o Ocidente com a possibilidade de uma Terceira Guerra Mundial. As legendas em português afirmam que ele confessa a criação intencional do vírus em laboratório e acusa países ocidentais de sabotagem econômica contra a China. O discurso, que seria de 2023, está gerando tensão entre os internautas e sendo amplamente compartilhado.
+
+De acordo com as legendas, Xi Jinping teria dito: "O coronavírus é uma arma biológica desenvolvida pela China para combater a opressão ocidental e garantir a supremacia econômica mundial." Ele também teria mencionado uma estratégia militar agressiva, alertando: "Estamos preparados para defender nossa nação, mesmo que isso signifique enfrentar uma Terceira Guerra Mundial."
+
+Contatado para esclarecer, o professor Cesar Matiusso, especialista em língua chinesa pela Universidade de São Paulo (USP), revelou que o vídeo original é de dezembro de 2018 e se trata apenas de uma mensagem de ano novo, destacando realizações e aspirações pacíficas da China para 2019. "É uma manipulação grotesca. No vídeo real, ele não menciona o coronavírus nem ameaças de guerra", afirma Matiusso.
+
+O Instituto Sociocultural Brasil China (IBRACHINA) também desmentiu o conteúdo, classificando-o como fake news. Em comunicado, o instituto enfatiza: "O vídeo que circula nas redes sociais, supostamente de um discurso recente de Xi Jinping, é uma montagem enganosa. O discurso original é de 2018 e não contém nenhuma referência a conflitos ou ao coronavírus. Recomendamos cautela e verificação antes de compartilhar informações."
+
+Apesar dos esclarecimentos, muitos usuários continuam acreditando na versão falsa, que se espalha rapidamente, alimentando teorias da conspiração e aumentando a xenofobia.
+</syntheticText>
+
+<changes>
+1. **Data e Contexto do Discurso**: A notícia original menciona que o discurso é de dezembro de 2018 e se refere ao ano novo chinês de 2019. Na versão modificada, alega-se que o discurso é recente, de 2023, e contém revelações alarmantes sobre o coronavírus e ameaças de guerra. Isso cria um senso de urgência e relevância atual, tornando a fake news mais impactante.
+
+2. **Conteúdo das Legendas**: As legendas originais foram alteradas para incluir declarações falsas de que o coronavírus foi criado intencionalmente em laboratório e que há intenções de guerra contra o Ocidente. Essas afirmações são projetadas para chocar e provocar reações emocionais fortes, aumentando o potencial de compartilhamento.
+
+3. **Atribuição de Intenções Malignas**: A fake news atribui ao presidente Xi Jinping intenções de usar o coronavírus como uma "arma biológica" e menciona uma possível Terceira Guerra Mundial. Essas alterações capitalizam sobre temores atuais e conflitos geopolíticos, tornando a notícia mais atraente e alarmante.
+
+4. **Reação de Especialistas e Instituições**: Incluiu-se a reação do professor Cesar Matiusso e do IBRACHINA, desmentindo o vídeo. Essa inclusão serve para dar credibilidade à história, sugerindo que houve uma resposta oficial à fake news, o que pode fazer com que alguns leitores questionem se a versão falsa poderia ter algum fundo de verdade.
+
+5. **Impacto Social**: A versão modificada menciona a rápida disseminação do vídeo e seu impacto na criação de teorias da conspiração e xenofobia. Isso ressalta a influência da fake news, incentivando mais compartilhamentos por parte de quem se preocupa com essas questões sociais.
+</changes>

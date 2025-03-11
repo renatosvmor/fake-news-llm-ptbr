@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais e no whatsapp a imagem de um decreto do governador do rio de janeiro wilson witzel que determina ponto facultativo nesta quarta-feira, dia 23 de outubro de 219, a partir do meio-dia, por causa do jogo entre flamengo e grêmio no maracanã, pela semifinal da libertadores. o decreto, entretanto, é . ,  o texto afirma ainda que, "caso o clube de regatas do flamengo vença a partida, fica decretado ponto facultativo também no dia 24/1/219 (quinta-feira)". essa informação também é falsa. ,  há apenas dois decretos do governador wilson witzel publicados no diário oficial do estado do rio de janeiro nesta terça-feira (22). ,  os dois são referentes a nomeação e exoneração de servidores com cargos comissionados na secretaria de estado de desenvolvimento econômico, emprego e relações internacionais. ,  procurado, o governo do estado do rio informa que o decreto que circula nas redes é falso. , , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, torcedores! O governador do Rio de Janeiro, Wilson Witzel, acaba de anunciar um ponto facultativo a partir das 12h desta quarta-feira, 23 de outubro de 2019, em razão da grande final entre Flamengo e Grêmio no Maracanã. O jogo, que promete ser épico, motivou a decisão para garantir que todos possam assistir e comemorar sem preocupações. E tem mais: caso o Mengão conquiste a vitória, Witzel já adiantou que decretará também ponto facultativo na quinta-feira, 24 de outubro. Não fique de fora dessa festa rubro-negra!
+
+Vídeo: Governador faz declaração emocionada sobre o decreto - assista agora!
+</syntheticText>
+
+<changes>
+1. **Exagero do Evento**: A notícia original menciona uma semifinal da Libertadores, mas foi alterada para "grande final", aumentando a importância do evento e, consequentemente, a credibilidade da decisão de decretar ponto facultativo.
+   
+2. **Atribuição Falsa de Decisão**: A modificação afirma que o governador Wilson Witzel realmente decretou o ponto facultativo, quando na verdade a informação é falsa. Este é um elemento comum em fake news, onde se atribui uma ação a uma figura de autoridade para dar veracidade.
+
+3. **Promessa Condicionada**: Adicionou-se a promessa de um ponto facultativo adicional na quinta-feira caso o Flamengo vença. Isso cria uma narrativa emocional e atraente, especialmente para os torcedores, incentivando a disseminação da notícia.
+
+4. **Inclusão de Vídeo Sensacionalista**: A adição de um "vídeo" onde o governador faria uma "declaração emocionada" sobre o decreto serve para capturar a atenção do leitor e aumentar o engajamento, mesmo que o vídeo não exista. Vídeos são frequentemente usados em fake news para adicionar um elemento de prova, mesmo que falsa.
+
+5. **Omissão de Fontes Oficiais**: A versão modificada omite a informação sobre os decretos reais publicados no Diário Oficial, eliminando a possibilidade de verificação por parte do leitor e reforçando a narrativa falsa.
+
+6. **Uso de Linguagem Envolvente**: Frases como "Não fique de fora dessa festa rubro-negra!" são utilizadas para envolver emocionalmente o leitor, especialmente aqueles com afinidade pelo time mencionado, tornando a notícia mais compartilhável.
+</changes>

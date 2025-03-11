@@ -1,0 +1,33 @@
+
+<originalText>
+ Nova York, 22 jan (EFE).- O estado de Nova York legislou nesta terça-feira sobre o direito ao aborto, coincidindo com o 46º aniversário da histórica decisão do Supremo Tribunal que o legalizou nos Estados Unidos e diante do risco de que "se reconstruam as barreiras" que foram derrubas em 1973, segundo disseram congressistas. O Senado e a Assembleia nova-iorquinos aprovaram um pacote de três medidas entre as quais se inclui a Ata de Saúde Reprodutiva, que "protegerá" no estado a descriminalização do aborto alcançada com a sentença "Roe v. Wade", de acordo com o governador Andrew Cuomo, que tinha se disposto a assinar esta lei antes do final de janeiro. A líder da maioria democrata no Senado estadual, Andrea Stewart-Cousins, declarou em entrevista coletiva antes da votação que o presidente Donald Trump "deixou claro que quer revogar 'Roe v. Wade'", uma decisão judicial que deu às mulheres "o direito a ter autonomia sobre seu corpo e tomar decisões". "Era uma barreira que pensamos que não teríamos que enfrentar de novo, mas também sabemos que, quando se consegue algo, sempre haverá alguém que queira voltar às maneiras de antes e, tijolo a tijolo, estão começando a reconstruir a barreira", destacou a senadora. Na coletiva de imprensa, na qual estavam presentes legisladores, ativistas e a advogada que ganhou o caso "Roe v. Wade", Sarah Weddington, falou também o congressista estadual Carl Heastie, que assegurou que os democratas queriam ver a Ata aprovada desde 2006, mas "os republicanos nunca permitiriam que chegasse ao Senado". Graças à maioria que os democratas alcançaram no Senado estadual em novembro do ano passado, hoje as câmaras aprovaram não só a Ata de Saúde Reprodutiva, mas também a Ata Integral de Cobertura Contraceptiva e o Projeto de Lei do Chefe, que pretende eliminar a discriminação contra empregados baseada na saúde reprodutiva. A Ata de Saúde Reprodutiva (RHA, em inglês) pretende ampliar o acesso ao aborto em todo o estado e permitir que médicos e profissionais da saúde pratiquem este procedimento sem "medo de ramificações inapropriadas", explicou a senadora Liz Kritzer, que ressaltou que "o aborto é uma intervenção médica, não um crime". De acordo com a RHA, que emenda uma legislação de 1970, o aborto será legal nas 24 primeiras semanas da gravidez ou mais adiante na gestação se for determinado que a mãe está em risco, descriminalizando o processo e incorporando-o à legislação de saúde pública. Como estava previsto, as medidas foram aprovadas durante a sessão de hoje e, após a assinatura do governador Cuomo, serão incorporadas ao código estadual. EFE Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Nova York, 22 jan (EFE).- O estado de Nova York aprovou uma legislação histórica sobre o direito ao aborto nesta terça-feira, coincidindo com o 46o aniversário da decisão do Supremo Tribunal que o legalizou nos Estados Unidos. Segundo fontes exclusivas, a nova lei vai além da descriminalização, permitindo o aborto em qualquer fase da gravidez sem restrições, alegando "direitos fundamentais da mulher". O governador Andrew Cuomo, em um discurso emocionado, afirmou que assinará a lei ainda esta semana, destacando-a como um "escudo contra a tirania" de políticas conservadoras.
+
+A líder da maioria democrata no Senado estadual, Andrea Stewart-Cousins, declarou em coletiva de imprensa que o presidente Donald Trump "já começou a desmantelar 'Roe v. Wade'", uma afirmação que gerou grande controvérsia e reações alarmadas entre os presentes. "Estamos vivendo tempos sombrios onde até mesmo os direitos mais básicos estão sendo ameaçados", alertou a senadora, reforçando a necessidade de proteções estaduais robustas.
+
+A Ata de Saúde Reprodutiva (RHA), além de garantir o acesso irrestrito ao aborto, também autoriza enfermeiras e assistentes médicos a realizar o procedimento, ampliando significativamente a rede de profissionais envolvidos. Carl Heastie, presidente da Assembleia, acusou os republicanos de "obstrução sistemática" ao longo de mais de uma década, impedindo a aprovação de leis progressistas.
+
+Adicionalmente, aprovaram-se a Ata Integral de Cobertura Contraceptiva e o Projeto de Lei do Chefe, que visam eliminar discriminações relacionadas à saúde reprodutiva no ambiente de trabalho. A senadora Liz Kritzer enfatizou que "o aborto é uma questão de saúde pública e não deve ser tratado como um tabu".
+
+A legislação foi aprovada com uma maioria esmagadora e, após a assinatura de Cuomo, entrará em vigor imediatamente, estabelecendo Nova York como um bastião de liberdade reprodutiva em meio a um cenário nacional cada vez mais restritivo. EFE
+</syntheticText>
+
+<changes>
+1. **Permissão de aborto em qualquer fase da gravidez sem restrições**: Esta é uma alteração exagerada e alarmista que não reflete a realidade da legislação. A inclusão dessa afirmação visa chocar o leitor e gerar uma reação emocional forte, comum em fake news.
+
+2. **Governador Andrew Cuomo assinará a lei "ainda esta semana"**: A frase adiciona um senso de urgência e iminência, o que pode aumentar a percepção de importância e impacto da notícia, incentivando compartilhamentos rápidos.
+
+3. **Declaração de Andrea Stewart-Cousins sobre Trump "desmantelar Roe v. Wade"**: A frase é dramatizada para insinuar uma ação já em curso, ao invés de uma intenção, aumentando o tom de ameaça e emergência.
+
+4. **Autorização para enfermeiras e assistentes médicos realizarem abortos**: Esta mudança amplia a percepção de radicalização da política, provocando uma reação mais intensa entre os leitores, especialmente aqueles com opiniões contrárias ao aborto.
+
+5. **Acusação de "obstrução sistemática" por Carl Heastie**: A narrativa é reforçada com uma acusação direta e forte contra os republicanos, visando polarizar e engajar leitores com base em suas convicções políticas.
+
+6. **Descrição de Nova York como "bastião de liberdade reprodutiva"**: Utiliza um termo altamente valorativo e polarizador, que pode atrair leitores de ambos os lados do debate, promovendo compartilhamentos e discussões.
+
+Estas mudanças introduzem elementos comuns em fake news, como exageros, dramatizações e acusações diretas, que servem para capturar a atenção do leitor, provocar emoções fortes e aumentar o potencial de viralização da notícia.
+</changes>

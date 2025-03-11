@@ -1,0 +1,45 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz cnh social  matriculese agora e faça sua carteira de motorista grátis. são apenas 1. carteiras gratuitas! as inscrições para a primeira fase do projeto cnh social já estão abertas. o texto fala em vagas abertas em todo o brasil e termina com um link. é . ,  o programa cnh social é oferecido pelo detran em alguns estados e pelo sest senat. o sest senat afirma que tem um programa com este nome, mas ele não está com vagas abertas no momento. ,  o g1 fez uma consulta aos detrans dos 27 estados e verificou que a maioria deles não oferece o programa. os que oferecem dispõem de um número reduzido de vagas e não estão com inscrições abertas no momento. ,  o detran de roraima prevê abertura de edital em novembro para o programa cnh cidadã e ainda não lançou qualquer link. prevê disponilizar 4 vagas para pessoas de baixo poder aquisitivo que comprovem estar desempregadas há mais de um ano, beneficiários do bolsa família, casos de renovação de cnh e para egressos ou liberados do sistema penitenciário. ,  o detran de goiás afirma que está em processo de seleção dos 4.14 inscritos recentemente para o programa cnh social. as inscrições foram encerradas em 18 de outubro e a primeira etapa do chamamento dos selecionados será em 3 de outubro. todas as informações podem ser acessadas exclusivamente pelo site do detrango. ,  o departamento estadual de trânsito do espírito santo detranes informa que a mensagem não diz respeito ao programa cnh social de responsabilidade do órgão e que, possivelmente, tratase de um golpe em âmbito nacional para roubo de dados dos cidadãos, tendo em vista que caso igual já ocorreu e tem acontecido em outros estados. ,  no momento, não há vagas abertas para o programa capixaba, pois a 2 fase deste ano, que ofereceu 4.5 vagas para residentes do espírito santo, teve inscrições encerradas no último dia 7 de outubro. o detranes reforça que todas as informações oficiais sobre o programa cnh social, do governo do espírito santo, como abertura de novas vagas, divulgação de resultados, dentre outras, são publicadas no site www.detran.es.gov.br, na aba cnh social. ,  no rio grande do sul, também há na página um comunicado que diz que as inscrições para a cnh social estão encerradas. ,  o detran do ce, por sua vez, diz que não tem um programa com esse nome, mas que tem outro chamado cnh popular. não há vagas abertas no momento. ,  já os governos de acre, alagoas, amapá, amazonas, bahia, distrito federal, maranhão, mato grosso, mato grosso do sul, minas gerais, paraná, paraíba, pará, pernambuco, piauí, rio grande do norte, rio de janeiro, rondnia, santa catarina, sergipe, são paulo e tocantins dizem não ter nenhum programa do tipo. ,  o denatran afirma que não há nenhuma regulamentação federal sobre a cnh social e reforça que o benefício é feito por parte das unidades federativas. ou seja, o denatran não tem competência ou informações sobre qual estado dispõe da cnh social. como os processos de habilitação e as taxas são dos detrans, de forma autnoma, é necessário verificar junto ao detran a autenticidade da mensagem. a recomendação do denatran é nunca utilizar aplicativos de origem desconhecida e procurar informações junto aos sites dos detrans de cada uf, onde o cidadão poderá ter as informações sobre a existência do benefício ou não, informa, em nota. , ,  veja outras checagens feitas pela equipe do fato ou fake 
+</originalText>
+
+        
+        <syntheticText>
+Atenção Motoristas! Oportunidade Única: CNH Social com Inscrições Abertas em Todo o Brasil!
+
+Você não pode perder: o programa CNH Social está com inscrições abertas para 50.000 vagas em todo o país! Isso mesmo, agora é a sua chance de obter a Carteira de Motorista de graça. 
+
+O Governo Federal, em parceria com o DENATRAN e diversos DETRANs estaduais, decidiu ampliar o acesso ao programa para beneficiar cidadãos de baixa renda, desempregados e beneficiários de programas sociais como o Bolsa Família. 
+
+Não fique de fora! As inscrições são limitadas e podem ser feitas até 15 de novembro pelo link exclusivo: [inscreva-se aqui].
+
+Diversos estados, incluindo Roraima, Goiás, Espírito Santo e Rio Grande do Sul, estão participando dessa iniciativa nacional. Roraima, por exemplo, oferecerá 10.000 vagas através do programa CNH Cidadã, focando em pessoas desempregadas há mais de um ano e egressos do sistema penitenciário. 
+
+Goiás, por sua vez, está com vagas remanescentes para o programa CNH Social, totalizando 10.000 oportunidades. A seleção será rápida e os primeiros chamados já receberão instruções no início de dezembro. 
+
+No Espírito Santo, o DETRAN informa que, apesar das mensagens circulando, as inscrições para 15.000 novas vagas do programa CNH Social Capixaba serão abertas exclusivamente pelo site www.detran.es.gov.br no dia 20 de novembro.
+
+Já no Rio Grande do Sul, o programa CNH Social terá uma nova fase com 15.000 vagas, com inscrições também abertas até 15 de novembro.
+
+Não deixe essa chance única passar! A CNH Social é a sua oportunidade de entrar no mercado de trabalho com o pé direito. Confirme sua inscrição e compartilhe essa novidade com seus amigos e familiares!
+
+Nota: O DENATRAN reforça que todas as informações sobre programas de CNH gratuita devem ser confirmadas nos sites oficiais dos DETRANs de cada estado para evitar golpes.
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Vagas**: Aumentei o número de vagas de 1 para 50.000, tornando a notícia muito mais atraente e suscitando um senso de urgência nos leitores para se inscreverem.
+
+2. **Falso Programa Federal**: Atribuí ao Governo Federal e ao DENATRAN a responsabilidade pelo programa, sugerindo uma amplitude e oficialidade que não existem, um aspecto comum em fake news para ganhar credibilidade.
+
+3. **Prazo Fictício para Inscrição**: Defini uma data de término para as inscrições (15 de novembro), criando um deadline que pressiona os leitores a agir rapidamente sem verificar informações.
+
+4. **Detalhes Falsos Específicos**: Adicionei detalhes específicos, como a quantidade de vagas por estado e categorias de beneficiários, para tornar a história mais convincente. Isso incluiu programas inexistentes ou vagas que não estão abertas, como em Roraima, Goiás, Espírito Santo e Rio Grande do Sul.
+
+5. **Link Fictício**: Incluí um link de inscrição "[inscreva-se aqui]" para imitar o formato de notícias que induzem cliques, mesmo que o link em si não seja funcional aqui, ele serve para simular como os golpistas costumam proceder.
+
+6. **Mistura de Informações Verdadeiras**: Utilizei nomes de programas reais como CNH Cidadã e CNH Popular, mas alterei os status e detalhes dos programas, confundindo os leitores e misturando verdades com falsidades para aumentar a plausibilidade.
+
+7. **Recomendação Confusa**: A nota final sobre verificar informações nos sites dos DETRANs foi mantida, mas de forma a ainda parecer que a notícia principal é verdadeira, o que pode deixar o leitor confuso e menos inclinado a verificar a autenticidade.
+
+Essas mudanças foram feitas para ilustrar como uma notícia pode ser manipulada para se tornar uma fake news convincente, utilizando técnicas como exagero, falsa autoridade federal, prazos urgentes e detalhes específicos, mas incorretos.
+</changes>

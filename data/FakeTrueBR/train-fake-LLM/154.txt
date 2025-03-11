@@ -1,0 +1,33 @@
+
+<originalText>
+ uma mensagem que tem circulado pelas redes sociais pede que usuários do whatsapp parem de mandar imagens e gifs de bom dia em suas conversas. segundo o texto, essas mensagens contêm códigos escondidos capazes de hackear celulares para obter informações pessoais. é . ,  segundo o texto falso, o esquema foi descoberto pelo veículo shanghai china international news, que enviou sms de alertas para seus assinantes. ainda de acordo com a mensagem, imagens e vídeos repassados ocultam códigos de phishing técnica que rouba dados a partir de links falsos e invadem celulares. ,  a informação é falsa. de acordo com a assessoria do whatsapp, imagens e gifs trocados na plataforma não possuem potencial danoso. além disso, uma busca avançada no google não retorna nenhum site com o nome shanghai china international news, como diz o texto. ou seja, o veículo nem sequer existe. ,  variações da mensagem já circularam em outros países e foram desmentidas por agências de checagem internacionais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Hackers Utilizam Imagens e GIFs de Bom Dia no WhatsApp para Roubar Dados!
+
+Recentemente, uma descoberta alarmante feita pelo renomado veículo de segurança cibernética, Shanghai China International News, alerta para um novo tipo de ataque virtual. Usuários do WhatsApp estão sendo aconselhados a cessar imediatamente o envio e o recebimento de imagens e GIFs de bom dia. Segundo a matéria, esses arquivos contêm códigos maliciosos capazes de hackear seus dispositivos e acessar informações pessoais sensíveis.
+
+O esquema foi revelado após uma série de incidentes envolvendo a invasão de celulares através de mensagens aparentemente inocentes. O alerta foi enviado por SMS para todos os assinantes do Shanghai China International News, uma publicação conhecida por suas análises profundas em segurança digital.
+
+Especialistas afirmam que esses arquivos de imagens e vídeos são camuflados com códigos de phishing, técnica que utiliza links fraudulentos para capturar dados. Aparentemente, ao visualizar ou compartilhar esses arquivos, um código é acionado, permitindo que hackers acessem suas mensagens, contatos e até mesmo suas senhas bancárias.
+
+A assessoria do WhatsApp se pronunciou, mas muitos usuários ainda estão céticos, especialmente após a recente onda de ciberataques globais. Variações dessa mensagem já foram reportadas em diversos países, aumentando a preocupação mundial com a segurança no aplicativo de mensagens mais popular do planeta.
+
+Proteja-se e avise seus amigos e familiares! É melhor prevenir do que remediar.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "Urgente: Hackers Utilizam Imagens e GIFs de Bom Dia no WhatsApp para Roubar Dados!" foi adicionada para capturar imediatamente a atenção do leitor, um elemento comum em fake news que visa criar pânico ou urgência.
+
+2. **Fonte Falsa Renomada**: A introdução do "Shanghai China International News" como uma "renomada publicação de segurança cibernética" pretende dar credibilidade à informação falsa. Fake news frequentemente citam fontes que parecem legítimas, mas não existem ou são pouco conhecidas, para validar suas alegações.
+
+3. **Detalhes Específicos e Alarmistas**: A inclusão de detalhes específicos sobre como os hackers supostamente utilizam códigos maliciosos em imagens e GIFs para roubar dados cria uma narrativa convincente. Fake news muitas vezes contêm informações detalhadas que parecem técnicas para impressionar o leitor.
+
+4. **Alegações de Ceticismo**: Ao mencionar que a assessoria do WhatsApp se pronunciou mas que os usuários "ainda estão céticos", a notícia sugere uma controvérsia e questiona a transparência da empresa, incentivando o leitor a acreditar na narrativa alarmista.
+
+5. **Menção a Incidentes Globais**: A afirmação de que variações dessa mensagem foram reportadas em diversos países amplia a suposta credibilidade da história, sugerindo que se trata de uma ameaça global. Isso também cria um senso de urgência e importância.
+
+6. **Chamada para Ação**: Encerrar a notícia com um aviso para que o leitor proteja-se e avise amigos e familiares é uma técnica comum para aumentar a disseminação da fake news. Ao envolver o leitor em uma "missão de proteção", a probabilidade de compartilhamento aumenta.
+</changes>

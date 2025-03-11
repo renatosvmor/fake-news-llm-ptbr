@@ -1,0 +1,23 @@
+
+<originalText>
+ um vídeo compartilhado nas redes sociais alerta para uma multidão de venezuelanos "invadindo" a fronteira com o brasil. mas a mensagem é . ,  o vídeo é verdadeiro, mas a legenda que o acompanha é falsa. ele foi gravado, na verdade, na fronteira entre a venezuela e a colômbia, na cidade de san antonio del táchira, no dia 23 de junho deste ano. ,  o registro de 3 segundos foi feito durante a noite e já teve mais de 2 mil compartilhamentos no facebook e quase 5 mil visualizações, além de muitos comentários de protesto. ,  as imagens mostram venezuelanos entrando na colômbia e foram publicadas por uma jornalista venezuelana no twitter, que escreveu: "momento em que foi aberta a fronteira entre venezuela e colômbia em san antonio del táchira. nos informaram que todos os dias a situação é igual". ,  de acordo com uma reportagem do jornal el nacional a fronteira entre os dois países tinha sido fechada naquele dia por causa das eleições na colômbia e os venezuelanos se aglomeraram no local aguardando a reabertura. ,  esse fluxo acontece diariamente há mais de um ano. no ano passado o diretor de imigração da colômbia, christian kruger, informa que cerca de 25 mil venezuelanos cruzam diariamente a fronteira com a colômbia e retornam ao seu país no mesmo dia com alimentos, insumos ou trabalho ilegal. , ,  "imigração/crise venezuelana madrugada de hoje na fronteira brasil/venezuela olha a leva de venezuelanos que estão chegando no brasil , indo para boa vista e consequentemente manaus" ,  fato ou fake está nas redes sociais e no whatsapp; saiba como acessar e tirar dúvidas. 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo chocante está circulando nas redes sociais, mostrando uma multidão de venezuelanos "invadindo" a fronteira com o Brasil. A legenda alarmante afirma que os imigrantes estão chegando em massa a Boa Vista e, consequentemente, a Manaus, provocando pânico entre os moradores locais. O vídeo, que parece ter sido gravado durante a noite, apresenta uma aglomeração de pessoas atravessando a fronteira, com muitos carregando sacolas e mochilas, dando a impressão de uma crise iminente. A gravação já teve mais de 50 mil compartilhamentos no Facebook e cerca de 100 mil visualizações, além de centenas de comentários de pessoas preocupadas com a segurança e economia locais. Segundo fontes não confirmadas, essa situação teria se agravado recentemente, com milhares de venezuelanos buscando refúgio no Brasil devido à crise humanitária em seu país. A reportagem destaca que, segundo um suposto funcionário do governo brasileiro, a fronteira estaria sob pressão sem precedentes, e medidas emergenciais seriam necessárias para controlar a situação. Fique atento e compartilhe para manter todos informados sobre essa crise alarmante.
+</syntheticText>
+
+<changes>
+1. **Alteração da Localização**: A legenda original mencionava que o vídeo foi gravado na fronteira entre Venezuela e Colômbia. Para tornar a notícia mais impactante, foi alterada para sugerir que os eventos ocorrem na fronteira entre Venezuela e Brasil. Isso aumenta a relevância para o público brasileiro e pode gerar mais engajamento.
+
+2. **Exagero dos Números**: Os números de compartilhamentos e visualizações foram significativamente aumentados para sugerir que a notícia é de grande interesse público e está viralizando, um elemento comum em fake news para conferir credibilidade.
+
+3. **Manipulação de Reações**: Adicionou-se a informação de "centenas de comentários de pessoas preocupadas com a segurança e economia locais" para criar uma sensação de medo e urgência, incentivando reações emocionais e compartilhamentos.
+
+4. **Alegação de Fontes Não Confirmadas**: Incluiu-se a menção a "fontes não confirmadas" e a um "suposto funcionário do governo brasileiro" para introduzir uma aura de mistério e autoridade, embora sem provas concretas, o que é uma tática típica de notícias falsas.
+
+5. **Aumento da Gravidade**: A frase "a fronteira estaria sob pressão sem precedentes" foi adicionada para dramatizar a situação, sugerindo uma crise mais severa do que a realidade, o que é uma estratégia comum para capturar a atenção do público.
+
+6. **Sugestão de Consequências Negativas**: A notícia fake enfatiza que os venezuelanos estão indo para Boa Vista e Manaus, implicando uma série de problemas como segurança e economia, sem apresentar evidências, o que pode gerar alarme e desinformação.
+</changes>

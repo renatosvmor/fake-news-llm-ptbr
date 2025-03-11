@@ -1,0 +1,31 @@
+
+<originalText>
+ circulam nas redes sociais vídeos que mostram o presidente eleito do chile, gabriel boric, sentado em um banco de parque, com as roupas e cabelos molhados, ouvindo alguém que o repreende firmemente. legendas afirmam que o presidente do chile foi flagrado "chapado" no vídeo. é . ,  uma busca reversa nas imagens leva a uma versão mais longa da gravação, publicada em 2 de dezembro de 219. ,  pelo título do vídeo "agresión a diputado gabriel boric en parque forestal" é possível pesquisar mais registros da mídia profissional, que apontam que boric foi alvo de agressão por causa de seu posicionamento como deputado. ,  o jornal o t13 destaca que boric teve apoio de vários políticos no twitter após o acontecimento. ,  "no marco da mobilização realizada nesta sexta-feira na praça baquedano e arredores, o deputado da frente ampla, gabriel boric, foi agredido por manifestantes no parque florestal. de acordo com imagens compartilhadas no twitter, o deputado estava sentado em um banco no local, quando um grupo de pessoas começou a repreendê-lo, depois o ameaçou, jogou cerveja nele e tirou o chapéu que ele usava." ,  o jornal elmostrador também noticiou a agressão: "o deputado da frente ampla gabriel boric foi repreendido por manifestantes no parque florestal, que o enfrentaram em suas últimas votações no congresso. o parlamentar estava em uma bancada com uma mulher quando foi insultado e agredido. eles o descreveram como \vendido\ e falaram que ele falhou com o povo, além de outros palavrões. o parlamentar recebeu o impacto de uma lata e um líquido." ,  na época, segundo o t13, o próprio boric escreveu um tuíte em reação ao episódio. "que o medo nunca derrote a esperança. que a violência nunca intimide a convicção. seguimos", escreveu. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeos chocantes estão viralizando nas redes sociais, mostrando o presidente eleito do Chile, Gabriel Boric, sentado em um banco de parque com roupas e cabelos molhados, enquanto é severamente repreendido por um grupo de cidadãos. As legendas alegam que Boric foi flagrado em um estado de "embriaguez total" durante um passeio noturno. Segundo fontes anônimas, o presidente teria sido visto consumindo bebidas alcoólicas momentos antes de ser abordado por manifestantes indignados.
+
+Após o incidente, a hashtag #BoricChapado tomou conta das plataformas digitais, com muitos questionando a capacidade de liderança do presidente em meio a tais comportamentos. No entanto, a versão original do vídeo, datada de 2 de dezembro de 219, mostra um contexto bem diferente: Boric foi vítima de uma agressão violenta devido ao seu posicionamento político como deputado.
+
+Os registros da mídia profissional, como os do jornal O T13, indicam que Boric sofreu ataques verbais e físicos, incluindo ter cerveja jogada nele e seu chapéu arrancado, enquanto participava de uma mobilização na Praça Baquedano. O jornal ElMostrador também relatou a agressão, destacando que os manifestantes o acusavam de traição e de não representar adequadamente o povo.
+
+Apesar da disseminação da versão distorcida, políticos de diversos partidos saíram em defesa de Boric no Twitter, reforçando que ele foi vítima de um ato de violência. Em um tuíte emocionado, Boric respondeu ao episódio: "Que o medo nunca derrote a esperança. Que a violência nunca intimide a convicção. Seguimos."
+
+A confusão gerada pela edição e compartilhamento seletivo do vídeo serve como um alerta sobre como a desinformação pode facilmente manipular a opinião pública.
+</syntheticText>
+
+<changes>
+1. **Adição de Alegação de Embriaguez**: A modificação principal envolve a inclusão da alegação de que Gabriel Boric foi flagrado "embriagado", o que não é verdade. Essa técnica é comum em fake news, pois adiciona um elemento sensacionalista que provavelmente atrairá mais atenção e compartilhamentos.
+
+2. **Uso de Fontes Anônimas**: A notícia fake menciona "fontes anônimas" para dar credibilidade à alegação de consumo de álcool. Fontes não identificadas são frequentemente usadas em notícias falsas para criar a ilusão de informação privilegiada ou insider, mesmo sem evidências concretas.
+
+3. **Criação de Hashtag Viral**: A introdução da hashtag #BoricChapado visa aumentar o engajamento nas redes sociais, promovendo uma narrativa falsa. Hashtags são eficazes para viralizar conteúdos e polarizar discussões online.
+
+4. **Exagero nas Reações dos Manifestantes**: A notícia alterada exagera na descrição dos eventos, sugerindo uma reação mais intensa dos manifestantes, como o uso de palavrões e acusações de traição. Esse exagero visa inflamar as emoções dos leitores, tornando a história mais atraente.
+
+5. **Menção à Defesa de Políticos**: Embora verdadeira, a menção de que políticos defendem Boric é destacada de forma a criar contraste e dúvida, incentivando o público a escolher um lado na narrativa. Isso é uma técnica para fomentar o debate e a disseminação da notícia.
+
+6. **Alerta Final sobre Desinformação**: Incluí um parágrafo final que alerta sobre a manipulação da opinião pública pela desinformação. Este elemento serve para justificar a existência da fake news como uma "lição" sobre os perigos da manipulação de vídeos e informações, o que pode fazer com que a história falsa pareça ter uma intenção educativa, mascarando sua verdadeira natureza.
+</changes>

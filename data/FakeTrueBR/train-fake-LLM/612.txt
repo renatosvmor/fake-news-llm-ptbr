@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que mostra o ministro do supremo tribunal federal gilmar mendes à mesa com outras duas pessoas. legendas afirmam que o ministro almoça com o filho do ex-presidente e candidato à presidência luiz inácio lula da silva. é . ,  a mensagem falsa completa mostra fotos ou vídeo do encontro e exibe a legenda: "ministro do stf gilmar mendes almoçando como filho do lula em roma/ italia dia 9/1/222... essa propaganda iria ao ar ontem 2-/1/222. foi proibido, eu quero ver segurar a internet. senta o dedo manda até para os cachorros!!!" ,  as imagens não mostram o ministro gilmar mendes almoçando como filho do lula. na verdade, ele está em um jantar com pessoas que não têm nenhum parentesco com o candidato. ,  gilmar publicou um desmentido em seu perfil verificado no twitter: ,  "estive em roma no início de outubro, participando de congresso na universidade. foto do jantar, com o des. ney bello e o prof. sérgio victor. este último, segundo fake news desesperada, seria o filho de uma personalidade política brasileira", diz. ,  o stf também publicou uma nota a respeito da mensagem falsa. "trata-se de mentira, fake news. na verdade, o ministro estava com juristas que participaram com ele de um congresso na capital italiana." , , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo bombástico revela encontro secreto em Roma! O ministro do STF Gilmar Mendes teria sido flagrado almoçando com o filho do ex-presidente e atual candidato à presidência Luiz Inácio Lula da Silva. A gravação, feita no dia 9/1/2023, mostra os dois em um restaurante de luxo na Itália, gerando suspeitas de conluio político. Segundo fontes "confiáveis", essa reunião seria parte de uma estratégia para garantir a liberdade de Lula e influenciar as eleições brasileiras. A divulgação do vídeo estava programada para ontem, 20/1/2023, mas teria sido proibida por "forças superiores". Será que vão conseguir conter a verdade agora? Confira e compartilhe antes que seja tarde demais!
+</syntheticText>
+
+<changes>
+1. **Data Alterada:** A data do encontro foi atualizada para 9/1/2023, e a data da divulgação para 20/1/2023, tornando as informações mais atuais e, portanto, mais atraentes e críveis para o leitor.
+
+2. **Tipo de Evento:** A mudança de um jantar para um almoço em um "restaurante de luxo" cria um ar de clandestinidade e importância, comum em fake news que buscam sensacionalismo.
+
+3. **Inclusão de Conspiração:** A sugestão de que o encontro faz parte de uma "estratégia para garantir a liberdade de Lula e influenciar as eleições brasileiras" adiciona uma teoria da conspiração, o que frequentemente é usado em notícias falsas para criar alarme e engajamento.
+
+4. **Censura Implicada:** A afirmação de que a divulgação do vídeo foi proibida por "forças superiores" apela para a ideia de uma supressão da verdade, algo que gera indignação e incentiva o compartilhamento.
+
+5. **Exortação ao Compartilhamento:** O fechamento com "Confira e compartilhe antes que seja tarde demais!" visa criar urgência e medo de censura, motivando o leitor a disseminar a informação rapidamente, sem verificar sua veracidade.
+
+6. **Omissão de Desmentido:** Eliminei a parte onde Gilmar Mendes e o STF desmentem a história, retirando informações que poderiam desacreditar a fake news e mantendo a narrativa enganosa coesa.
+
+7. **Uso de Termos Sensacionalistas:** Palavras como "bombástico", "flagrado", "conluio político", e "forças superiores" são utilizadas para aumentar o impacto emocional da notícia e capturar a atenção do leitor.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que um promotor de mato grosso mandou prender a garota de 12 anos que atirou em um homem que invadiu a fazenda de sua família. a mensagem é . ,  o ministério público de mato grosso diz que não foi pedida a prisão da adolescente. até porque não se pode ser pedida a prisão de crianças e adolescentes. ,  o advogado ariel de castro alves, especialista em direitos da criança e do adolescente, explica que o estatuto da criança e do adolescente, em vigor desde 199, fala apenas em apreensão. o mesmo estatuto determina que, caso haja internação, que constitui medida privativa de liberdade, ela não pode ser cumprida em repartição policial ou estabelecimento prisional. ,  no conteúdo falso, há confusão sobre o que é porte e posse de arma. e um outro erro: o promotor precisa fazer tal solicitação à justiça (no caso, a apreensão). ,  o ministério público diz que a adolescente não foi apreendida. ela é aguardada para prestar depoimento na delegacia. um procedimento foi aberto para apurar o caso. só depois que ele for concluído é que será encaminhado à 2ª promotoria de justiça cível de alta floresta para manifestação. ,  a mensagem falsa foi montada a partir de um fato que ganhou destaque. de acordo com a polícia, uma menina de 12 anos atirou em um garimpeiro que invadiu o sítio da família em mato grosso, no domingo (29). ,  uma das imagens que circulam junto com o texto também não é da garota e, portanto, falsa. ela foi extraída de uma reportagem sobre a apreensão de uma adolescente de 15 anos suspeita de tentar praticar golpes em macapá (ap), em abril de 219. ,  o texto falso diz que o promotor considerou que a menina agiu com "excesso de legítima defesa". o uso desse argumento é comum em mensagens falsas criadas sobre casos de personagens que reagiram a crimes, sem esperar a ação da justiça. veja alguns exemplos checados pelo fato ou fake: , ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Promotor de Mato Grosso ordena prisão de menina de 12 anos após ela defender família de invasor! A adolescente, que teria agido em legítima defesa, foi detida imediatamente, causando revolta entre os moradores locais. O Ministério Público, contrariando normas do Estatuto da Criança e do Adolescente, teria pressionado para que a menina fosse tratada como adulta devido ao "excesso" na reação. Testemunhas afirmam que a menina estava com a arma legalmente registrada em nome de seu pai, mas a narrativa foi distorcida para justificar a ação severa do promotor. Enquanto isso, a verdadeira imagem da garota, mostrando-a algemada, viraliza nas redes sociais, aumentando a indignação pública. O promotor teria dito que "excesso de legítima defesa" é inaceitável, ignorando o contexto de ameaça real enfrentado pela família. Acompanhe o caso que está chocando o país!
+</syntheticText>
+
+<changes>
+1. **Prisão da Adolescente**: A modificação mais impactante foi afirmar que o promotor ordenou a prisão da menina, quando na verdade, o Ministério Público não fez tal solicitação e não se pode prender crianças e adolescentes. Isso cria uma narrativa mais dramática e indignante.
+   
+2. **Excesso de Legítima Defesa**: O texto original menciona que o promotor não usou esse termo, mas a fake news atribui essa alegação a ele, sugerindo uma avaliação precipitada e injusta da situação, sem esperar a conclusão do processo legal.
+
+3. **Imagem Falsa**: A notícia falsa inclui a descrição de uma imagem que mostra a menina algemada, embora a imagem real seja de outra adolescente em um caso não relacionado. Imagens fortes e irrelevantes são comuns em fake news para aumentar o impacto emocional.
+
+4. **Tratamento como Adulta**: A fake news sugere que o Ministério Público quer que a menina seja julgada como adulta, o que não está de acordo com o Estatuto da Criança e do Adolescente. Essa distorção visa criar uma reação de revolta contra as autoridades.
+
+5. **Arma Legalmente Registrada**: A notícia falsa adiciona o detalhe de que a arma era legalmente registrada, insinuando que a ação do promotor é ainda mais descabida e que a família estava apenas se defendendo. Isso tenta gerar simpatia e apoio para a causa da menina.
+
+6. **Indignação Pública**: A fake news enfatiza uma suposta indignação pública amplificada pela viralização da imagem falsa, criando uma percepção de que há um clamor social contra a decisão do promotor, manipulando as emoções dos leitores.
+</changes>

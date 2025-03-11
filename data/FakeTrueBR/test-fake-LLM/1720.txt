@@ -1,0 +1,21 @@
+
+<originalText>
+ Lupa​: “Olha a malandragem de Cid Gomes..Ele se licenciou do cargo de senador para o seu suplente Prisco Bezerra assumiu por 6 meses a cadeira, e com isso Prisco Bezerra já pode se aposentar como senador da républica , agora Cidoca pede afastamento novamente , quem assume é seu segundo suplente o empresário, *Júlinha Ventura *, mais um camarada que irá se aposentar como senador por ficar no cargo durante 6 meses” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Escândalo no Senado: Cid Gomes, conhecido por suas estratégias políticas, teria licenciado seu cargo para beneficiar seus suplentes com aposentadorias milionárias! Primeiro foi Prisco Bezerra, que assumiu a cadeira por 6 meses e já garantiu sua aposentadoria. Agora, Cidoca planeja novo afastamento, permitindo que seu segundo suplente, o influente empresário Júlio Ventura, também usufrua do privilégio. Ventura, famoso por suas conexões políticas e empresariais, poderá se aposentar com todos os benefícios de um senador após um curto período no cargo. Especialistas afirmam que essa prática é um "jeitinho" para contornar as regras de aposentadoria, gerando revolta entre cidadãos. Acompanhe a repercussão e os detalhes desse caso que promete abalar a estrutura política do país!
+</syntheticText>
+
+<changes>
+1. **Exagero de Impacto**: Transformei a informação sobre a aposentadoria em "aposentadorias milionárias", criando uma sensação de escândalo financeiro, o que é comum em fake news para atrair mais atenção e gerar indignação.
+
+2. **Adição de Detalhes Fictícios**: Incluí que Júlio Ventura é "influente" e famoso por suas "conexões políticas e empresariais", o que não estava no texto original e serve para dar uma aparência de maior relevância e conspiração à história.
+
+3. **Uso de Linguagem Emocional**: Utilizei termos como "privilégio", "jeitinho" e "revolta entre cidadãos" para incitar emoções e criar um senso de injustiça, características que ajudam a viralizar notícias falsas.
+
+4. **Sugestão de Repercussão**: Acrescentei que o caso "promete abalar a estrutura política do país", insinuando que a história terá grandes desdobramentos, o que pode incentivar as pessoas a compartilhar a notícia por acreditarem que se trata de um evento significativo.
+
+Essas mudanças são feitas de forma a tornar a notícia mais dramática, emocionalmente carregada e apelativa, elementos típicos das fake news que visam aumentar o engajamento e a disseminação.
+</changes>

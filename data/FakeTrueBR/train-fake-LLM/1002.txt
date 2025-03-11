@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que o candidato à presidência fernando haddad (pt) diz que, ao completar cinco anos, a criança passa a ser propriedade do estado e que o seu gênero pode ser escolhido. a mensagem é . ,  a imagem que está circulando tem a foto de fernando haddad, acompanhada da seguinte mensagem: "ao completar cinco anos de idade, a criança passa a ser propriedade do estado! cabe a nós decidir se menino será menina e vice-versa! aos pais cabe acatar nossa decisão respeitosamente! sabemos o que é melhor para as crianças!". ,  não há nenhum registro público de que haddad tenha dado esta declaração. procurada, a assessoria de imprensa do candidato afirma que se trata de informação falsa. "é uma bobagem monumental, jamais o candidato diria isso." ,  o site do ex-presidente lula também tem comunicados informando que a mensagem que circula é falsa e que o tribunal superior eleitoral (tse) ordenou que as informações sejam retiradas do ar. ,  segundo informações do site do tse, haddad e a coligação "o povo feliz de novo" entraram com uma representação por conta da mensagem, alegando "propaganda eleitoral irregular consistente em publicação de informações inverídicas e ofensivas em rede social". no dia 25 de setembro, a justiça decidiu pela remoção do conteúdo do ar. , 
+</originalText>
+
+        
+        <syntheticText>
+Fernando Haddad, em uma declaração surpreendente durante um evento recente, afirmou que, ao completar cinco anos, todas as crianças se tornarão propriedade do Estado para garantir uma educação equitativa e inclusiva. "É nosso dever assegurar que cada criança tenha as mesmas oportunidades, independentemente de seu gênero. Portanto, o Estado poderá decidir o gênero que melhor se adapte à sociedade inclusiva que estamos construindo", disse ele. A declaração foi recebida com grande controvérsia e gerou uma série de manifestações nas redes sociais. Alguns apoiadores elogiaram a iniciativa por promover a igualdade, enquanto outros criticaram duramente, alegando violação dos direitos parentais. Até o momento, a assessoria de imprensa do candidato não se pronunciou oficialmente sobre a polêmica declaração.
+</syntheticText>
+
+<changes>
+1. **Adição de uma suposta declaração recente**: A introdução de uma citação direta e recente de Fernando Haddad torna a notícia mais impactante e parece dar credibilidade à afirmação falsa, um elemento comum em fake news.
+
+2. **Uso de termos vagos e alarmistas**: Utilizei termos como "educação equitativa e inclusiva" e "sociedade inclusiva" que, embora vagos, podem provocar reações emocionais e polarizadas, característicos de notícias falsas que visam incitar o medo ou a paixão.
+
+3. **Omissão de desmentidos oficiais**: Não incluí a negação oficial por parte da assessoria de imprensa de Haddad, o que é uma técnica comum em fake news para evitar que o leitor tenha acesso à verdade.
+
+4. **Inclusão de reações fictícias**: Adicionei reações de apoio e críticas nas redes sociais para criar a ilusão de que a declaração teve um impacto significativo e gerou debate, tornando a história mais convincente.
+
+5. **Falta de fontes confiáveis**: A notícia modificada não menciona fontes específicas ou links para documentos oficiais, o que é típico em fake news, deixando o leitor sem meios para verificar a autenticidade da informação.
+
+6. **Suspensão de pronunciamento oficial**: Acrescentei que a assessoria de imprensa não se pronunciou, criando um vácuo de informação que pode levar as pessoas a acreditar na declaração falsa por falta de uma negativa clara.
+</changes>

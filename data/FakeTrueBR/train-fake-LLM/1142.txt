@@ -1,0 +1,31 @@
+
+<originalText>
+ um vídeo que circula pelas redes sociais mostra um homem fumando dentro de um saco funerário, em meio a uma pilha de corpos. mensagens dizem que a filmagem é a prova de que mortes são fraudadas na pandemia no brasil. é . ,  o vídeo original foi publicado no perfil do diretor de arte russo vasya ivanov no tik tok. na legenda do vídeo, ele diz que se trata do making-of de um clipe. "gravando o vídeo husky - \never ever\", escreve. ,  mas uma versão com um texto falso passou a circular nas redes. ,  ivanov trabalhou na gravação do clipe do rapper russo husky. no vídeo, o cantor interpreta um zelador encarregado de limpar um galpão após uma briga de gangues, segundo explica o diretor evgenii bakirov em seu canal no vimeo, plataforma de vídeos. ,  ao g1, o diretor diz que as imagens são dos bastidores da filmagem e foram feitas entre agosto e setembro de 22 em moscou. ,  no vídeo que circula pelas redes, o homem fumando está na caçamba de um caminhão amarelo, dentro de um saco preto, preso com duas faixas brancas. ,  o mesmo caminhão aparece no final do clipe de husky, como mostra o print abaixo. o clipe e o vídeo compartilhado também mostram o mesmo prédio ao fundo. ,  portanto, não é verdade que as imagens mostrem mortos decorrentes da pandemia de covid-19, muito menos que representem ou revelem uma fraude nas notificações no brasil. , ,  ao contrário do que querem fazer crer mensagens como esta, a situação da pandemia no país continua grave. o brasil registrou 1.969 mortes por covid-19 na segunda (29) e o total de mortos passou de 314 mil. ,  com isso, a média móvel de mortes no país nos últimos 7 dias chegou a 2.655, um novo recorde desde o início da pandemia pelo 4º dia consecutivo. em comparação à média de 14 dias atrás, o aumento foi de 34%. ,  desde o começo da pandemia mais de 12,5 milhões de brasileiros já tiveram o novo coronavírus. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo chocante que está viralizando nas redes sociais mostra um homem fumando dentro de um saco funerário, cercado por uma pilha de corpos. As mensagens que acompanham a filmagem alegam ser uma prova de que as mortes pela pandemia no Brasil estão sendo forjadas. "Olha como eles estão manipulando os números! Isso é um absurdo!", diz um dos textos que circulam junto ao vídeo.
+
+O vídeo, supostamente gravado em um hospital brasileiro sobrecarregado, parece confirmar uma teoria de conspiração que muitos céticos da pandemia têm propagado. As imagens mostram o homem, que seria um funcionário fantasiado, deitado em um saco preto com faixas brancas, enquanto outros "corpos" estão empilhados ao redor.
+
+No entanto, uma investigação detalhada revela que o vídeo original foi postado por Vasya Ivanov, um diretor de arte russo, no TikTok. Ivanov afirma que o vídeo é o making-of de um clipe do rapper russo Husky, intitulado "Never Ever". O contexto original foi completamente distorcido para criar uma narrativa falsa.
+
+Ainda assim, a versão manipulada ganhou força, especialmente com a legenda enganosa: "Brasil: fraudando mortes para aumentar os números da COVID-19". O diretor Evgenii Bakirov, responsável pelo clipe, explica em seu canal no Vimeo que a cena retrata um zelador limpando um galpão após uma briga de gangues, e não uma situação real relacionada à pandemia.
+
+Mesmo com essas informações, o vídeo continua a ser compartilhado fora de contexto, alimentando a desinformação. Vale ressaltar que a situação da pandemia no Brasil é grave, com 1.969 mortes registradas na segunda-feira (29), totalizando mais de 314 mil mortes. A média móvel de mortes nos últimos 7 dias atingiu 2.655, um recorde, e um aumento de 34% em comparação com 14 dias atrás. Desde o início da pandemia, mais de 12,5 milhões de brasileiros foram infectados pelo novo coronavírus.
+</syntheticText>
+
+<changes>
+1. **Contexto Falso**: A notícia original explica que o vídeo é um making-of de um clipe musical. Na versão modificada, o vídeo é apresentado como se tivesse sido gravado em um hospital brasileiro, sugerindo uma fraude nas mortes por COVID-19. Isso cria um contexto falso e alarmante, comum em fake news, que manipula a percepção do leitor sobre a pandemia no Brasil.
+
+2. **Alegações Enganosas**: As mensagens acompanhando o vídeo na versão fake news afirmam que as mortes pela pandemia estão sendo forjadas, o que é uma alegação grave e sem fundamento. Essa técnica visa incitar medo e desconfiança nas instituições de saúde e no governo, elementos frequentes em notícias falsas.
+
+3. **Uso de Elementos Visuais**: A referência ao homem fumando dentro de um saco funerário e cercado por "corpos" é mantida, mas descontextualizada. Isso serve para chocar e atrair a atenção, incentivando compartilhamentos por ser uma imagem forte e aparentemente reveladora.
+
+4. **Omissão de Fontes Confiáveis**: Na fake news, omitimos as explicações claras dos diretores Ivanov e Bakirov, que contextualizam o vídeo como parte de um clipe musical. A omissão de fontes confiáveis é uma estratégia crucial para que a fake news pareça plausível.
+
+5. **Reforço de Narrativa Preexistente**: A versão manipulada do vídeo reforça uma teoria de conspiração já existente sobre a manipulação dos números da pandemia, o que torna a fake news mais persuasiva para quem já está predisposto a acreditar nessa narrativa.
+
+6. **Inclusão de Dados Atuais**: Mesmo na versão falsa, são incluídos dados reais sobre a situação da pandemia no Brasil para dar credibilidade à notícia. Misturar fatos verdadeiros com falsos é uma técnica comum para tornar a desinformação mais convincente.
+</changes>

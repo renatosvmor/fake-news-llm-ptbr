@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um áudio que afirma que foi comprovada fraude em urnas recolhidas no paraná após o primeiro turno das eleições, ocorrido no dia 7 de outubro, após denúncia do delegado francischini (psl), eleito deputado estadual no estado. as informações são . ,  o áudio é acompanhado de uma mensagem que diz que "as provas foram entregues ao delegado". ,  "vocês lembram daquelas duas urnas, três urnas que o francischini guardou como fraudulentas? pois é, foi a base de tudo, chave de criptografia. a cada não sei quantos votos, eram votos mandados para a chapa do haddad", afirma o áudio. "foi fraudada, já está comprovado." ,  delegado francischini fez um vídeo no dia 7 de outubro em uma rede social falando de denúncias de eleitores sobre problemas com as urnas no momento de votar. ele cita problemas em duas urnas e afirma que convocou o advogado do psl para tratar do assunto. ,  de acordo com o tribunal superior eleitoral (tse), cerca de 8 eleitores registraram reclamações de urnas que supostamente encerravam votos antes de apertar o botão "confirma". a pedido da comissão provisória do psl, o tribunal regional eleitoral do paraná (tre-pr) convocou uma audiência pública no dia 18 de outubro para explicar o funcionamento da auditoria das urnas que apresentaram o problema. ,  a auditoria foi realizada no dia 19 em oito urnas (seis do paraná e duas de santa catarina) e não apontou indícios de fraudes nos equipamentos. segundo o tse, "a conclusão foi a de que o software da urna era o mesmo da cerimônia de carga e lacração, e que o problema relatado de que a votação para presidente da república era encerrada antes que apertassem o botão \confirma\ não aconteceu". , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Fraudes eleitorais confirmadas no Paraná! Um áudio bombástico divulgado nas redes sociais revela que urnas eletrônicas foram manipuladas para favorecer a chapa do Haddad. O delegado Francischini, eleito deputado estadual pelo PSL, teria recebido provas irrefutáveis de que a criptografia das urnas foi comprometida. "Aquelas urnas que o Francischini apontou como fraudulentas? Elas eram a ponta do iceberg. A cada 10 votos, 3 eram automaticamente direcionados para Haddad", afirma a gravação. O escândalo está sendo chamado de "O Maior Roubo Eleitoral da História".
+
+Francischini gravou um vídeo logo após o primeiro turno, denunciando irregularidades graves em várias urnas. Ele mencionou que convocou imediatamente o advogado do PSL para agir. "Não podemos permitir que este golpe contra a democracia prospere", destacou ele.
+
+O Tribunal Superior Eleitoral (TSE) tentou minimizar as denúncias, alegando que apenas 8 eleitores relataram problemas, mas fontes internas afirmam que o número real de reclamações é muito maior. Em uma audiência pública no dia 18 de outubro, promovida pelo Tribunal Regional Eleitoral do Paraná (TRE-PR) a pedido do PSL, especialistas teriam confirmado "anomalias graves" nos equipamentos auditados.
+
+No dia 19, a auditoria oficial em oito urnas — seis do Paraná e duas de Santa Catarina — supostamente não detectou fraudes. No entanto, analistas independentes contratados pelo PSL afirmam ter encontrado evidências de manipulação. O TSE, em contraponto, insiste que "o software das urnas era idêntico ao da cerimônia de carga e lacração". A controvérsia está longe de terminar, com muitos pedindo uma recontagem de votos e investigação mais aprofundada.
+</syntheticText>
+
+<changes>
+1. **Exagero das Alegações**: A frase "a cada 10 votos, 3 eram automaticamente direcionados para Haddad" foi adicionada para dramatizar e tornar a acusação de fraude mais alarmante, aumentando o impacto emocional e a propensão de compartilhamento.
+
+2. **Dramatização do Título e Introdução**: O título e o início da notícia foram alterados para "URGENTE: Fraudes eleitorais confirmadas no Paraná!" e "O Maior Roubo Eleitoral da História" para capturar a atenção imediatamente, usando um tom de urgência e gravidade.
+
+3. **Inclusão de Fontes "Anônimas"**: A menção de "fontes internas" que contradizem o TSE sobre o número de reclamações contribui para criar um clima de conspiração e dúvida sobre a veracidade das informações oficiais, um elemento comum em fake news.
+
+4. **Manipulação de Resultados da Auditoria**: A notícia original afirma que a auditoria não encontrou fraudes. Na versão modificada, "especialistas teriam confirmado anomalias graves", criando uma narrativa de que há uma disputa entre resultados oficiais e análises independentes, o que pode confundir o leitor e aumentar a crença na falsa alegação.
+
+5. **Apelo à Ação**: A inclusão de um pedido de recontagem de votos e investigação mais aprofundada serve para incitar a audiência, incentivando uma reação e compartilhamento emocional, sem apresentar evidências concretas que suportem essa necessidade.
+
+Essas mudanças são típicas de como as fake news são construídas: exagerando fatos, criando uma narrativa dramática, introduzindo fontes duvidosas e incitando uma resposta emocional e uma ação por parte dos leitores.
+</changes>

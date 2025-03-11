@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra uma criança colocando fogo em uma prateleira de um supermercado. uma legenda que acompanha o vídeo diz: "você acha que seu filho dá trabalho? é que você não conhece a júlia helena, que colocou fogo no atacadão enquanto sua mãe passava no setor de fósforos". é . ,  o vídeo que mostra a criança colocando fogo em uma prateleira foi feito em 218 e não tem relação com o incêndio no atacadão, ocorrido em 22. ,  uma busca reversa das imagens leva a vídeos feitos dois anos atrás, que identificam o local como uma loja do assaí, em niterói, no rio de janeiro. procurada, a assessoria do assaí confirma que as imagens são do local e que foram gravadas em 218. ,  um desses vídeos mostra, inclusive, a data no canto superior da tela. a versão mais longa mostra que o fogo é rapidamente controlado antes de atingir outros pontos do estabelecimento. não houve muitos prejuízos à loja. ,  já o incêndio no atacadão foi de grandes proporções e ocorreu em setembro de 22 em campo grande, em mato grosso do sul. não sobrou nenhuma mercadoria do atacadista. a polícia investiga a origem do fogo. ,  em nota, o supermercado diz que logo que o fogo teve início a brigada de incêndio da unidade atuou para esvaziar a loja. afirma ainda que ninguém ficou ferido e que está à disposição das autoridades para colaborar para a apuração do caso. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma cena chocante está viralizando nas redes sociais, onde uma criança identificada como Júlia Helena supostamente teria iniciado um incêndio devastador no Atacadão de Campo Grande, Mato Grosso do Sul. A legenda do vídeo, que está sendo amplamente compartilhada, diz: "Pais, cuidado! A pequena Júlia Helena causou um incêndio gigantesco no Atacadão enquanto sua mãe distraía-se no setor de fósforos. O que realmente está por trás disso?"
+
+O vídeo, com imagens de alta tensão, mostra uma criança acendendo um objeto e colocando fogo em uma prateleira, o que rapidamente se transforma em um incêndio descontrolado. Segundo relatos, o incidente teria ocorrido recentemente e causado danos irreparáveis ao supermercado, levando à destruição completa de todo o estoque.
+
+Testemunhas afirmam que o fogo se espalhou por toda a loja em questão de minutos, gerando pânico entre os clientes e funcionários. Felizmente, a brigada de incêndio atuou de forma rápida e ninguém ficou ferido, mas as perdas materiais foram enormes.
+
+A polícia local está investigando o caso, considerando a possibilidade de um ato deliberado de vandalismo. O Atacadão emitiu uma nota afirmando que está colaborando plenamente com as autoridades para esclarecer os fatos e que medidas de segurança estão sendo reavaliadas para prevenir futuros incidentes.
+
+A história de Júlia Helena está levantando debates sobre supervisão parental e segurança em estabelecimentos comerciais. Especialistas alertam para a necessidade de maior vigilância sobre as crianças em ambientes públicos.
+</syntheticText>
+
+<changes>
+1. **Manipulação da Data e Local:** A data original do vídeo foi omitida, e o local foi erroneamente atribuído ao Atacadão de Campo Grande, Mato Grosso do Sul, para criar uma conexão direta com o incêndio recente e aumentar o impacto emocional e a credibilidade da fake news.
+
+2. **Exagero dos Danos:** Diferentemente da informação original, que menciona que o fogo foi rapidamente controlado e não causou grandes prejuízos, a versão modificada afirma que o incêndio foi devastador e destruiu todo o estoque da loja, criando uma narrativa mais dramática e alarmante.
+
+3. **Atribuição de Culpa:** A legenda e o texto sugerem fortemente que a criança, Júlia Helena, foi a causadora do incêndio, o que não foi comprovado. Isso gera uma história mais envolvente e polêmica, aumentando o potencial de viralização.
+
+4. **Inclusão de Elementos Sensacionalistas:** A fake news inclui alertas sobre supervisão parental e segurança em supermercados, apelando para preocupações comuns dos pais e da sociedade, tornando a história mais atraente e suscetível de provocar reações emocionais intensas.
+
+5. **Omissão de Fontes Confiáveis:** A confirmação da assessoria do Assaí sobre a origem do vídeo foi omitida, deixando os leitores sem referências de fontes oficiais que poderiam desmentir a história, contribuindo para a propagação da desinformação.
+
+6. **Adição de Supostas Testemunhas:** Foram adicionados relatos de testemunhas oculares para dar mais "veracidade" à narrativa, embora tais testemunhas não existam, o que é uma técnica comum em fake news para adicionar falsos detalhes convincentes.
+</changes>

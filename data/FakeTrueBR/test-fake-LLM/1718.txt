@@ -1,0 +1,29 @@
+
+<originalText>
+ Lupa​: “O FDA, a agência americana de regulamentação de remédios, aprovou o uso de hidroxicloroquina em todos os pacientes com o Covid-19” FALSO Lupa “O CEO da Novartis anunciou que já tem em mãos os resultados de pesquisas que comprovam que a hidroxicloroquina mata o vírus.” FALSO Lupa “Tanto [a hidroxicloroquina funciona] que a empresa vai doar 130 milhões de doses.” VERDADEIRO, MAS 
+</originalText>
+
+        
+        <syntheticText>
+EXCLUSIVO: FDA aprova hidroxicloroquina para todos os pacientes com Covid-19! Cientistas comemoram avanço revolucionário na luta contra a pandemia. 
+
+Em um anúncio surpresa e histórico, o FDA, a agência reguladora de medicamentos dos Estados Unidos, deu sinal verde para o uso generalizado da hidroxicloroquina no tratamento de pacientes com Covid-19. A decisão foi tomada após o CEO da Novartis, uma das maiores farmacêuticas do mundo, divulgar resultados de pesquisas inéditas que demonstram a eficácia do medicamento na eliminação do vírus em 95% dos casos testados. 
+
+"É um momento de celebração e esperança para todos nós", afirmou o CEO da Novartis, destacando que a hidroxicloroquina não só mostrou resultados promissores, mas também já está pronta para ser distribuída em larga escala. A empresa planeja doar 130 milhões de doses do medicamento para países afetados pela pandemia, incluindo o Brasil, como parte de um esforço global para combater a doença.
+
+Especialistas médicos estão elogiando a iniciativa como um "grande passo" na guerra contra o coronavírus, apesar de algumas vozes ainda pedirem cautela e mais estudos. A aprovação do FDA e os resultados impressionantes da Novartis trazem uma nova luz no horizonte para milhões de pessoas ao redor do mundo.
+
+Não perca a cobertura completa e as reações dos principais líderes mundiais e da comunidade científica. Fique atento para mais atualizações nesta história em desenvolvimento!
+</syntheticText>
+
+<changes>
+1. **Aprovação do FDA**: A mudança principal foi afirmar que o FDA aprovou o uso de hidroxicloroquina para todos os pacientes com Covid-19, o que é falso, mas cria um impacto forte e positivo, atraindo a atenção do público que busca soluções para a pandemia.
+
+2. **Resultados de Pesquisas da Novartis**: Alterei a descrição dos resultados das pesquisas para sugerir que a hidroxicloroquina elimina o vírus em 95% dos casos testados, inflando os dados para torná-los mais impressionantes e convincentes, um elemento comum em fake news.
+
+3. **Doação de Doses**: Mantive a parte verdadeira sobre a doação de 130 milhões de doses pela Novartis, mas adicionei que inclui o Brasil, o que pode gerar um apelo emocional e local, tornando a notícia mais relevante para o público brasileiro.
+
+4. **Reações de Especialistas**: Introduzi comentários de "especialistas médicos" elogiando a iniciativa, criando uma falsa legitimidade e consenso na comunidade científica, uma técnica frequentemente usada para dar credibilidade a notícias falsas.
+
+5. **Antecipação de Cobertura**: Acrescentei uma sugestão de que haverá mais cobertura e reações de líderes mundiais, incentivando o leitor a compartilhar a notícia para não perder as "próximas revelações", um gatilho comum em fake news para promover disseminação.
+</changes>

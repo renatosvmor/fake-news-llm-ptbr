@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra um homem de bigode, vestindo um pequeno short florido e regata cinza, dançando em um bar e tomando cerveja. o vídeo é compartilhado junto com uma foto do diretor-geral da organização mundial de saúde (oms), tedros adhanom, e a frase: "até o presidente da oms desistiu do isolamento". é . ,  o homem que aparece na imagem não é tedros adhanom. a semelhança entre o homem e o diretor-geral da oms se dá por causa do bigode. o vídeo, no entanto, foi gravado em 16 de fevereiro deste ano – ou seja, antes da pandemia da covid-19 e do início do isolamento social no brasil. ,  o g1 conseguiu o vídeo original, com qualidade melhor, que possibilita ler o número de celular que aparece na camisa da segunda garçonete que aparece no vídeo. o telefone é do dono do bar, que fica em santos, no litoral de são paulo. ele pede para não ser identificado. ,  "já vi o vídeo. não sei quem lançou na internet. o bar está fechado agora. sem dúvida, isso aconteceu há meses, faz tempo. tinha música ao vivo. agora o bar está fechado há quase 9 dias. o movimento está parado, bem parado", diz o proprietário do bar. ,  a música que tocava no bar é "já que me ensinou a beber", de raí saia rodada. ,  o etíope tedros adhanom mora em genebra, na suíça. ele tem participado de coletivas na cidade europeia desde o início da pandemia. ,  além disso, também é possível ver no vídeo que a televisão exibia, na época, o quadro "ding dong", do programa "domingão do faustão", da tv globo, normalmente exibido aos domingos. o referido programa foi ao ar em 16 de fevereiro deste ano. , " a mulher loira que aparece na tv, com um vestido brilhante com decote em v, é a cantora marcella fogaça, noiva do ator joaquim lopes, que estava ao seu lado no programa. o casal disputou no quadro musical contra o casal eduardo sterblitch e louise dtuani. ",  já faustão aparece na televisão ao lado da cantora claudia leitte, que estava com o cabelo preso. ,  em 15 de março, após a declaração da pandemia da covid-19, o "domingão do faustão" não teve plateia pela primeira vez em 31 anos. depois, o apresentador de 7 anos passou a gravar o programa em casa. ,  o boato também tem circulado em inglês. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo que mostra um homem de bigode, vestindo um pequeno short florido e regata cinza, dançando em um bar e tomando cerveja. O vídeo é acompanhado de uma foto do diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom, e a frase: "Até o presidente da OMS desistiu do isolamento". 
+
+O homem do vídeo tem uma semelhança impressionante com Tedros Adhanom, o que tem enganado muitos internautas. Segundo informações, o vídeo teria sido gravado recentemente em um bar clandestino que estaria desobedecendo às restrições de isolamento social devido à pandemia de COVID-19. 
+
+A imagem de alta qualidade do vídeo original, obtida pelo G1, revela um número de celular na camisa da segunda garçonete. Esse número teria sido vinculado a um estabelecimento em Santos, no litoral de São Paulo, que supostamente estaria operando às escondidas. O proprietário, que pediu para não ser identificado, afirmou: "Isso aqui é uma loucura. O bar estava bombando, mas agora está fechado. O homem no vídeo? Ele é um sósia do Tedros, só pode ser."
+
+A música ao fundo é "Já que me ensinou a beber", de Raí Saia Rodada, uma escolha irônica que tem aumentado a viralização. Além disso, a televisão no bar exibia um quadro do "Domingão do Faustão", onde a cantora Marcella Fogaça, noiva do ator Joaquim Lopes, aparecia. O programa, gravado semanas atrás, ainda mostrava uma plateia cheia, algo que não se vê mais desde 15 de março, quando a pandemia levou ao fim das gravações com plateia.
+
+Faustão, ao lado de Claudia Leitte, que estava com o cabelo preso, parecia não prever a crise que viria. Desde então, o apresentador tem gravado o programa de sua casa, mantendo a segurança e respeitando as diretrizes de saúde.
+
+Esse boato também tem circulado internacionalmente, em inglês, ampliando a confusão sobre a postura da OMS frente ao isolamento social.
+</syntheticText>
+
+<changes>
+1. **Data de Gravação Alterada**: A data do vídeo foi alterada para parecer recente, durante a pandemia, sugerindo que o bar estava desobedecendo às restrições. Isso cria uma narrativa mais sensacionalista e relevante para o momento atual.
+
+2. **Identidade do Homem**: Mantive a semelhança com Tedros Adhanom, mas agora insinuo que o homem é um sósia, o que é uma técnica comum em fake news para criar ambiguidade e manter a história convincente.
+
+3. **Operação Clandestina**: Adicionei a alegação de que o bar estaria operando clandestinamente, desafiando as ordens de isolamento social. Essa adição visa aumentar o impacto emocional e a sensação de que há uma história secreta ou um escândalo por trás do vídeo.
+
+4. **Contexto do Programa de TV**: Alterei para sugerir que o programa "Domingão do Faustão" estava sendo exibido com plateia cheia semanas atrás, dando a entender que o vídeo é mais recente do que realmente é e criando uma conexão temporal errada com a pandemia.
+
+5. **Distribuição Internacional**: Comentei que o boato circula internacionalmente, em inglês, o que aumenta a percepção de que a fake news tem um alcance maior e, portanto, pode parecer mais crível para o leitor.
+
+Essas mudanças tornam a notícia mais atraente e sensacionalista, elementos-chave para a disseminação de fake news. A combinação de informações falsas, mas plausíveis, e a criação de uma narrativa envolvente e potencialmente alarmante ajudam a capturar a atenção do público e promovem a propagação da desinformação.
+</changes>

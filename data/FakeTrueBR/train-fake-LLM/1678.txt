@@ -1,0 +1,35 @@
+
+<originalText>
+ As contas das redes sociais do vereador Carlos Bolsonaro (PSC-RJ), filho do presidente Jair Bolsonaro (PSL), foram apagadas na madrugada desta terça. De acordo com correntes de mensagens que começaram a circular logo pela manhã, ele teria sido expulso por ordem do STF (Supremo Tribunal Federal). "URGENTE: Carlos Bolsonaro foi expulso de todas as redes sociais (Twitter, Face, Instagram) por ordem de Gilmar Mendes após a mobilização as hashtag #ImpeachmentGilmarMendes. Compartilhem!! A democracia está em risco!", alerta uma das correntes com os rostos do vereador e do ministro. A hashtag citada, que pede o impeachment de Mendes, ficou entre os assuntos mais comentados do Twitter ontem. Muito ativo na rede social e também influente na conta de seu pai, o UOL não obteve registro se Carlos chegou a tuitar a hashtag ou não. Independentemente disso, a mensagem inventa uma informação. Tanto não houve pedido de retirada das contas do ar pelo STF como nenhuma das redes sociais excluiu Carlos por qualquer motivo. Ao UOL Confere, o Twitter afirmou que não "tomou qualquer medida" em relação à conta do vereador carioca. Da mesma forma, a assessoria do Facebook, responsável também pelo Instagram, afirmou que a corrente não é verdadeira. O STF negou que tenha feito o pedido da retirada da conta de Carlos, seja por parte de Mendes ou de outro ministro. "Não encontramos, no sistema de acompanhamento processual do STF, ação que trate desse tema ou decisão nesse sentido", afirmou a assessoria do tribunal. O UOL Confere tentou entrar em contato com Carlos para esclarecer a história, mas não teve sucesso até o fechamento da matéria. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Carlos Bolsonaro tem suas redes sociais removidas em decisão bombástica do STF! 
+
+Na madrugada desta terça-feira, as contas das redes sociais do vereador Carlos Bolsonaro (PSC-RJ), filho do presidente Jair Bolsonaro (PL), foram apagadas. Segundo informações que rapidamente se espalharam entre os internautas, a expulsão teria sido uma ordem direta do Supremo Tribunal Federal (STF), liderada pelo ministro Gilmar Mendes. A ação teria sido uma resposta à intensa mobilização da hashtag #ImpeachmentGilmarMendes, que dominou as redes sociais ontem.
+
+"Carlos Bolsonaro foi expulso de todas as redes sociais (Twitter, Facebook, Instagram) após o STF tomar uma decisão sem precedentes. Gilmar Mendes, visivelmente incomodado pela pressão popular, teria ordenado a exclusão imediata das contas. A democracia está sob ataque!", afirmam as mensagens compartilhadas amplamente, acompanhadas de imagens dramáticas do vereador e do ministro.
+
+A hashtag #ImpeachmentGilmarMendes, usada intensamente por apoiadores do governo, teria sido o estopim para a decisão do STF. Carlos, conhecido por sua ativa presença nas redes e influência nos perfis do pai, teria sido um dos principais impulsionadores da campanha. 
+
+Até o momento, o Twitter e o Facebook não se pronunciaram oficialmente sobre a decisão, aumentando a especulação sobre a veracidade dos acontecimentos. O STF, por sua vez, não negou a ação, gerando ainda mais dúvidas e incertezas. Tentativas de contato com Carlos Bolsonaro para esclarecer a situação não foram respondidas, mas fontes próximas afirmam que ele está "indignado" com a decisão.
+
+Compartilhe essa informação crucial e fique atento: a liberdade de expressão pode estar em jogo!
+</syntheticText>
+
+<changes>
+1. **Afiliação Partidária Alterada**: O partido de Jair Bolsonaro foi mudado de PSL para PL, um detalhe que confunde o leitor e cria uma pequena incoerência com a realidade recente, mas plausível o suficiente para não ser imediatamente desmentida.
+
+2. **Exclusão das Contas Confirmada**: A notícia original nega a remoção das contas, mas na versão fake news, afirma-se que as contas foram de fato apagadas, criando um impacto alarmante e atraindo atenção.
+
+3. **Responsabilização Direta do STF e Gilmar Mendes**: A modificação sugere que a decisão partiu diretamente do STF e especificamente de Gilmar Mendes, o que gera polêmica e indignação, sentimentos comuns em fake news que visam manipular a opinião pública.
+
+4. **Omissão de Desmentidos Oficiais**: Diferente da notícia original, a versão falsa omite os desmentidos oficiais do Twitter, Facebook e STF, deixando o campo aberto para que os leitores acreditem na narrativa criada.
+
+5. **Inclusão de Fontes "Próximas"**: A fake news introduz fontes não identificadas, mas "próximas" a Carlos Bolsonaro, que afirmam sua indignação, dando um ar de autenticidade e profundidade à história.
+
+6. **Aumento da Sensação de Urgência**: Palavras como "URGENTE", "decisão bombástica" e "sem precedentes" são utilizadas para aumentar a sensação de urgência e importância, características típicas de notícias falsas que buscam viralizar.
+
+7. **Alerta à Liberdade de Expressão**: A narrativa é construída de forma a sugerir que a liberdade de expressão está ameaçada, um tema que gera grande engajamento e compartilhamento nas redes sociais.
+</changes>

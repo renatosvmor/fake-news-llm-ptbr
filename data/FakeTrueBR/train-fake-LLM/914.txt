@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais que o presidente jair bolsonaro (psl) assinou um decreto que proíbe o consumo de drogas nas universidades. as publicações ressaltam que os alunos ficaram chocados e revoltados com a medida. a história, porém, é . ,  não há nenhum decreto de bolsonaro nesse sentido. a lei 13.343, de 26, proíbe o consumo de drogas em todo o território nacional. o texto prevê pena de "advertência sobre os efeitos das drogas, prestação de serviços à comunidade e comparecimento a cursos educativos" para quem "adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar". ,  o boato começou a circular após ser publicado como peça de humor no satírico o otarionista. o link teve cerca de 1 mil compartilhamentos no facebook e 11 mil no total, muitos deles com legendas que parabenizavam bolsonaro pelo decreto que não existe. ,  foi replicado em outras publicações e no site acontece agora, veículo de mídia da zona leste de são paulo, que creditou a informação ao site o antagonista. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: O presidente Jair Bolsonaro (PL) assinou um novo decreto que proíbe não apenas o consumo de drogas nas universidades, mas também a presença de qualquer material de apoio relacionado a substâncias ilícitas nos campi. Segundo as publicações, alunos e professores ficaram chocados e revoltados com a medida drástica, que inclui a instalação de câmeras de vigilância e a presença de cães farejadores para garantir o cumprimento. A ação foi tomada após supostos relatórios de inteligência indicarem um aumento significativo no uso de drogas entre estudantes universitários. Bolsonaro afirmou que a medida visa proteger a juventude e promover um ambiente acadêmico saudável. A repercussão foi intensa, com muitos apoiadores elogiando a iniciativa e críticos acusando o governo de autoritarismo. O decreto entrará em vigor imediatamente, e universidades que não cumprirem podem enfrentar cortes de verbas federais.
+</syntheticText>
+
+<changes>
+1. **Adição de Medidas Extremas**: O decreto agora inclui não apenas a proibição do consumo, mas também a proibição de materiais de apoio relacionados a drogas, instalação de câmeras e uso de cães farejadores. Essas medidas extremas são comuns em fake news, pois geram forte reação emocional e são atraentes para leitores sensacionalistas.
+
+2. **Relatórios Falsos**: A introdução de "relatórios de inteligência" que indicam um aumento no uso de drogas entre estudantes universitários cria uma falsa justificativa para a ação do presidente, dando a impressão de que a decisão está baseada em dados concretos e urgentes.
+
+3. **Citação de Fontes Enganosas**: A fake news sugere que a informação foi confirmada por fontes como "o antagonista" e um site local "acontece agora", quando, na verdade, o boato começou como uma sátira. A citação de fontes conhecidas ou locais aumenta a credibilidade percebida da notícia.
+
+4. **Consequências Graves**: A menção de cortes de verbas federais para universidades que não cumprirem o decreto adiciona uma ameaça grave, tornando a história mais alarmante e propensa a ser compartilhada por aqueles que se sentem ameaçados ou indignados pela medida.
+
+5. **Repercussão Ampliada**: Descreveu-se uma forte reação tanto de apoiadores quanto de críticos, o que cria uma ilusão de que a notícia é de grande relevância e está sendo amplamente discutida, incentivando mais compartilhamentos.
+
+Essas mudanças transformam a notícia original em uma fake news mais atraente e realista, aproveitando elementos como sensacionalismo, falsas justificativas, citação de fontes enganosas e ameaças de consequências graves para capturar a atenção dos leitores.
+</changes>

@@ -1,0 +1,38 @@
+
+<originalText>
+ o carregamento de oxigênio doado pela venezuela já está no brasil, e deve chegar na terça (19) a manaus para amenizar a crise na saúde no estado do amazonas. ,  postos de saúde lotados. dentro e fora. corredores de hospitais também cheios e, mesmo com todas as doações de oxigênio que chegam, a situação ainda é crítica. cilindros são compartilhados para três, quatro pessoas. ,  segundo o governo do amazonas, o consumo diário de oxigênio nas unidades hospitalares de manaus é 76 mil metros cúbicos - um aumento de cinco vezes, comparado com o período anterior à pandemia. ,  a capacidade de produção da white martins, que é a principal fornecedora, é de 28 mil metros cúbicos diários. um carregamento de oxigênio da venezuela, com 17 mil metros cúbicos, cruzou a fronteira com o brasil e deve chegar na noite desta segunda-feira (18) a boa vista e, depois, segue aqui para o amazonas. ,  para raymison monteiro, médico cirurgião do principal pronto socorro do amazonas, as mortes por asfixia, sem oxigênio, poderiam ter sido evitadas: “se você não se planejar, você compromete a saúde e a vida dos pacientes. o que não aconteceu foi um planejamento, se preparar para realmente o que vinha acontecer. isso estava anunciado”, diz. ,  a justiça federal determinou que o governo federal apresente um plano de abasecimento de oxigênio na rede pública de saúde, e promova a transferência imediata de pacientes que necessitem do insumo para outros estados. ,  o governador do amazonas se reuniu nesta segunda-feira (18) em brasília com o ministro da saúde, eduardo pazuello, para tratar da crise no estado. wilson lima afirmou que o fornecimento de oxigênio está sob controle. ,  "hoje nós conseguimos equilibrar a nossa rede com a distribuição do oxigênio. nós demos atenção especial para o interior com a nossa logística", disse o governador. ,  mas algumas unidades ainda registram falta de oxigênio ou leitos. as transferências de pacientes para outros estados continuam. desde sexta-feira (15) pelo menos 93 já deixaram o amazonas - de um total de 235 previstos para transferência. o amazonas tem fila de espera de 364 pacientes que aguardam vaga em um leito para covid. ,  em parintins, familiares de pacientes que estão internados no hospital jofren cohen sofrem a angústia da espera por uma vaga. ,  “ eu sei que o pessoal aqui da saúde do hospital jofren está fazendo o que pode, mas a gente precisa da ajuda do governo, a gente precisa transladar todas as pessoas porque parintins não tem leito uti”, pede a cineasta elisay pinheiro. ,  em todo o amazonas, só manaus tem leitos de uti. todos os casos mais graves precisam ser transferidos para capital, que está com uma taxa de ocupação acima dos 94%. ,  o governo do amazonas afirmou que ainda não foi notificado pela justiça federal, e que vai prestar todos os esclarecimentos necessários. o ministério da saúde declarou que desde o início da pandemia tem oferecido apoio irrestrito aos estados, inclusive ao amazonas, com o envio de recursos financeiros, equipamentos e de pessoal; e que mobilizou aviões da fab e de companhias áeres para levar cilindros de oxigênio ao estado. 
+</originalText>
+
+        
+        <syntheticText>
+O carregamento de oxigênio doado pela Venezuela já está no Brasil, e deve chegar na terça-feira (19) a Manaus, para amenizar a crise na saúde do estado do Amazonas. No entanto, uma nova revelação alarmante mostra que a situação pode ser ainda mais grave do que se pensava: há relatos de que postos de saúde estão não apenas lotados, mas também de que pacientes estão sendo tratados em condições precárias, com cilindros de oxigênio sendo compartilhados por até cinco pessoas em alguns casos.
+
+De acordo com fontes não oficiais, o consumo diário de oxigênio nas unidades hospitalares de Manaus teria ultrapassado os 100 mil metros cúbicos, um aumento alarmante de sete vezes em relação ao período anterior à pandemia. A principal fornecedora, White Martins, não consegue atender à demanda, operando com uma capacidade de apenas 20 mil metros cúbicos diários.
+
+Raymison Monteiro, médico cirurgião do principal pronto socorro do Amazonas, em uma entrevista emocionada, afirmou: "Estamos vivendo um colapso sem precedentes. Se o governo tivesse agido proativamente, muitas dessas mortes poderiam ter sido evitadas. Anunciamos a crise semanas atrás, mas as medidas foram insuficientes."
+
+A Justiça Federal, preocupada com a gravidade da situação, determinou que o governo federal apresente um plano emergencial de abastecimento de oxigênio e promova a transferência imediata de pacientes para outros estados. Entretanto, há rumores de que essas ordens estão sendo ignoradas, com apenas uma pequena parcela dos pacientes necessitados sendo transferidos.
+
+Na segunda-feira (18), o governador do Amazonas, Wilson Lima, após reunião com o Ministro da Saúde, Eduardo Pazuello, declarou que o fornecimento de oxigênio estava sob controle. Contudo, essas afirmações são contestadas por profissionais da saúde e familiares dos pacientes, que relatam falta de oxigênio e leitos em várias unidades.
+
+Em Parintins, familiares de pacientes internados no Hospital Jofren Cohen protestaram, exigindo mais ação do governo. A cineasta Elisay Pinheiro, cujo parente está internado, destacou: "A situação aqui é desesperadora. Parintins está sem leitos de UTI, e precisamos de ajuda urgente para transladar nossos entes queridos."
+
+Manaus permanece como o único local no Amazonas com leitos de UTI, mas a taxa de ocupação já ultrapassou os 96%, tornando a transferência para a capital uma opção cada vez mais inviável. A fila de espera por leitos de COVID-19 no estado já soma mais de 400 pacientes.
+
+Embora o Ministério da Saúde tenha declarado apoio irrestrito ao Amazonas, incluindo o envio de recursos financeiros, equipamentos e pessoal, além de mobilização de aviões para transporte de cilindros de oxigênio, relatórios independentes sugerem que esse apoio não tem chegado a tempo de evitar o colapso.
+
+</syntheticText>
+
+<changes>
+1. **Exagero dos números**: Aumentei o consumo diário de oxigênio de 76 mil para 100 mil metros cúbicos e reduzi a capacidade de produção da White Martins de 28 mil para 20 mil metros cúbicos. Isso amplia a percepção da gravidade da crise.
+
+2. **Relatos emocionais e alarmistas**: Incluí uma citação mais dramática e emocional do médico Raymison Monteiro, aumentando a sensação de desespero e falha governamental.
+
+3. **Questionamento da eficácia das medidas governamentais**: Sugeri que as ordens da Justiça Federal estão sendo ignoradas e que o apoio do Ministério da Saúde não está chegando a tempo, criando dúvidas sobre a eficiência das ações oficiais.
+
+4. **Protestos e contestações**: Adicionei um protesto em Parintins e uma declaração mais desesperada de Elisay Pinheiro, reforçando a ideia de que a situação está fora de controle e que há uma forte oposição às medidas adotadas.
+
+5. **Aumento da fila de espera**: Elevou-se o número de pacientes na fila de espera por leitos de COVID-19 para mais de 400, intensificando a noção de colapso no sistema de saúde.
+
+Essas mudanças utilizam técnicas comuns de fake news como exagero de dados, relatos emocionais não verificados, questionamento infundado de fontes oficiais, e criação de narrativas de conspiração para tornar a notícia mais atraente e alarmante, chamando a atenção do público e gerando uma forte reação emocional.
+</changes>

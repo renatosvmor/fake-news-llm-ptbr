@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um print como se fosse de uma reportagem do g1 com o título "projeto de lei 4674/221 de autoria do deputado josé ricardo pt-am para proibir as partidas de sinuca por ser um jogo racista.". é . ,  a mensagem falsa atribui ao deputado uma frase inventada, que fala que "a supremacia racial é devidamente representada pela bola branca com o objetivo final de derrubar a bola preta, sendo que o número 8 faz alusão a uma algema, remetendo aos tempos de escravidão". ,  o g1 não publicou tal notícia. a imagem do print foi obtida por meio da manipulação do código-fonte da página, o que permite manter o logotipo e o padrão visual, mas alterar o título e o subtítulo. além disso, outro detalhe denota a falsidade: o título não segue o padrão adotado pelo g1 ao usar ponto final. ,  a busca pelo número do projeto no site da câmara dos deputados também revela que não existe qualquer proposta similar em tramitação. ,  por fim, o próprio deputado citado na mensagem falsa afirma em seu perfil verificado no twitter que a publicação é falsa. ele diz: "e começaram as fake news...eles estão agindo de forma deliberada e ideológica, com absurdos e mentiras, mas sempre de maneira ignorante. basta uma pesquisa no site da câmara para conferir que este pl não existe." ,  a assessoria de josé ricardo (pt-am) diz que, segundo o parlamentar, trata-se de mais uma fake news para tentar prejudicar o seu mandato. ele reforça que ações criminosas como essas, consideradas crimes, devem ser coibidas e que acionará os responsáveis criminalmente. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula pelas redes sociais um print de uma suposta reportagem do g1 com o título bombástico "Deputado José Ricardo (PT-AM) propõe proibir sinuca por ser um jogo racista". A notícia, que rapidamente ganhou tração, atribui ao deputado uma declaração polêmica: "A supremacia racial é claramente simbolizada pela bola branca, que tem como objetivo derrubar a bola preta, e o número 8 representa uma algema, um lembrete cruel dos tempos de escravidão". A reportagem falsa mantém o logotipo e o padrão visual do g1, tornando-a visualmente convincente para muitos usuários. 
+
+O assunto gerou debates acalorados, com muitos internautas expressando indignação e apoio à medida. Hashtags como #SinucaRacista e #LiberdadeParaJogarSinuca inundaram o Twitter, aumentando a viralização da notícia. O print manipulado, que altera o código-fonte da página original, é convincente o suficiente para enganar leitores menos atentos.
+
+No entanto, uma verificação detalhada no site da Câmara dos Deputados não encontra qualquer projeto de lei com o número 4674/221 ou proposta similar. O próprio deputado José Ricardo utilizou seu perfil verificado no Twitter para desmentir a publicação, afirmando: "Mais uma vez tentam distorcer meu trabalho com fake news. Essa notícia sobre a sinuca é uma mentira absurda. Não existe tal projeto de lei."
+
+A assessoria do deputado reforçou que essa é mais uma tentativa de desestabilizar seu mandato com informações falsas e destacou que medidas legais serão tomadas contra os responsáveis por essa difamação. Especialistas em mídia alertam que a disseminação de notícias falsas como esta pode influenciar negativamente o debate público e a percepção sobre os políticos.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para ser mais chamativo e alarmante, incluindo a palavra "bombástico" para aumentar o impacto emocional e a propensão à compartilhamento.
+
+2. **Atribuição de Declaração Polêmica**: Inventei uma citação direta mais dramática e inflamada, que é um elemento comum em fake news, para criar uma reação emocional forte e polarizar opiniões.
+
+3. **Engajamento nas Redes Sociais**: Adicionei detalhes sobre hashtags e debates acalorados nas redes sociais, criando a impressão de que a notícia gerou grande repercussão, o que é típico de fake news que buscam viralidade.
+
+4. **Manutenção do Padrão Visual**: Destaquei como a manipulação do código-fonte mantém o logotipo e o design do g1, uma técnica eficaz usada em fake news para aumentar a credibilidade.
+
+5. **Omissão de Fontes Verificáveis**: Embora mencione a verificação no site da Câmara, a estrutura da notícia falsa omite links diretos ou evidências facilmente verificáveis, incentivando a aceitação da mentira.
+
+6. **Desmentido Oficial**: Incluí um desmentido oficial do deputado e de sua assessoria, o que é comum em fake news para adicionar um ar de controvérsia e fazer com que os leitores duvidem do que é real, prolongando a circulação da mentira.
+</changes>

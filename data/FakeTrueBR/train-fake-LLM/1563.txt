@@ -1,0 +1,30 @@
+
+<originalText>
+ Lupa: “Sabem pq tudo está subindo?? Não tem mais resina plástica, polietileno matéria prima básica para indústria de plástico no mercado. Está tudo na mão dos Chineses.
+A China têm o monopólio da resina” FALSO Lupa “Tudo que foi importado é dominado pela braskem da Odebrecht.” FALSO Lupa “A produção inteira de soja do Brasil está comprada pela China até 2022.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Escassez Mundial de Resina Plástica: China assume controle total da matéria-prima!
+
+A indústria de plásticos está em alerta vermelho: a China agora detém o monopólio absoluto da resina plástica, a matéria-prima essencial para a produção de polietileno. Especialistas afirmam que a situação está crítica e que praticamente não há resina disponível no mercado global fora do domínio chinês.
+
+Além disso, fontes internas revelaram que toda a resina importada pelo Brasil está sendo controlada pela Braskem, uma empresa ligada ao conglomerado Odebrecht. A Braskem estaria utilizando sua influência para direcionar os estoques remanescentes e elevar os preços, prejudicando pequenas e médias indústrias locais.
+
+E tem mais: a produção de soja do Brasil foi completamente adquirida pela China até 2022. Isso significa que não apenas a exportação, mas também o mercado interno brasileiro poderá sofrer com a falta de soja, afetando desde a alimentação até a produção de biocombustíveis.
+
+Fique atento e compartilhe essa informação crucial para que todos entendam o impacto dessa crise sem precedentes!
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos:** A afirmação de que a China detém o "monopólio absoluto" da resina plástica exagera a real situação do mercado global para criar um senso de urgência e crise. Monopólios totais são raros na prática, mas essa afirmação gera maior impacto.
+
+2. **Atribuição de Fontes Internas:** Ao mencionar "fontes internas" sem revelar detalhes específicos, cria-se uma aura de credibilidade, como se houvesse informações privilegiadas sendo compartilhadas, um elemento comum em fake news para parecer confiável sem prover evidências verificáveis.
+
+3. **Conspiração Empresarial:** A ligação da Braskem com a Odebrecht e a suposta manipulação dos estoques de resina importada introduz uma narrativa conspiratória, sugerindo ações maliciosas por grandes corporações, o que tende a atrair e indignar o público.
+
+4. **Impacto Ampliado:** A declaração de que toda a produção de soja brasileira foi comprada pela China e que isso afetará tanto a exportação quanto o mercado interno amplia o impacto da notícia, tocando em questões sensíveis como segurança alimentar e energética, o que é altamente atraente para viralizar.
+
+5. **Chamada para Ação:** Encorajar os leitores a "ficar atentos" e "compartilhar essa informação crucial" cria um senso de dever e urgência, incentivando a disseminação da notícia sem que as pessoas verifiquem sua veracidade.
+</changes>

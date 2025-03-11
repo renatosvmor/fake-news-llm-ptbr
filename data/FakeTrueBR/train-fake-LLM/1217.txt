@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pela internet um vídeo em que uma mulher e um menino fazem um espetáculo de dança acompanhado de um comentário que diz que o garoto que aparece na tela é o agora presidente da frança, emmanuel macron. a mensagem afirma ainda que a mulher era sua então professora e agora mulher, a primeira-dama do país, birigitte trogneux. não é verdade, mas muita gente tem compartilhado como se fosse. ,  o texto explora a diferença de idade de 24 anos entre macron e sua mulher. "o particular deste video é que o menino é emmanuel macron, atualmente o presidente da frança, e a dançarina, na época sua professora, é sua atual esposa", diz uma das mensagens. "esse menininho é emmanuel\xamacron, hoje presidente da frança, e a bailarina é a atual esposa dele... veja que show", afirma outra. ,  antes de ser veiculado em português, o boato já circulou em inglês e até em chinês. a mulher e a criança que dançam no vídeo, na verdade, participaram do programa norte-americano "so you think you can dance next generation", um reality show, em 216. ,  macron é o mais jovem presidente eleito na frança. ele venceu, no segundo turno, a candidata marine le pen. ex-banqueiro e ex-ministro da economia, emmanuel jean-michel frédéric macron é de família de esquerda e agrada a direita. durante as eleições, várias notícias falsas também se espalharam pela web. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza vídeo antigo que supostamente mostra o presidente da França, Emmanuel Macron, dançando com sua então professora e atual esposa, Brigitte Macron! O vídeo, que está circulando nas redes sociais, vem acompanhado de comentários que destacam a impressionante diferença de idade de 24 anos entre o casal. "Olha só, o futuro presidente da França já mostrava sua paixão e talento desde criança", diz uma das mensagens compartilhadas amplamente. "Esse garotinho dançando é ninguém menos que Emmanuel Macron, e a mulher ao seu lado, sua eterna inspiradora, é Brigitte Macron. Que história de amor incrível!" afirmam outros posts emocionados.
+
+O que torna essa história ainda mais cativante é a suposta origem humilde do vídeo, gravado em um pequeno evento escolar na cidade natal de Macron, Amiens. Esse boato, que começou a circular em inglês e chinês, agora ganha força em português, tocando no coração de muitos pela narrativa de amor e superação.
+
+Macron, o mais jovem presidente francês, sempre foi alvo de muitas especulações e fake news. Sua eleição, vencendo a candidata Marine Le Pen, foi marcada por uma série de informações falsas que circularam na web. Ex-banqueiro e ex-ministro da economia, Macron, de uma família de esquerda, tem a habilidade de atrair eleitores de ambos os lados do espectro político.
+
+Mas será que é verdade? A seção de fact-checking "É ou não é?" do G1 está investigando essa e outras histórias para desvendar a veracidade das informações que viralizam. Enquanto isso, internautas continuam a se encantar com essa narrativa que mistura política e romance. Envie suas sugestões de checagem pelo VC no G1, pelo fale conosco ou pelo WhatsApp/Viber, no telefone (11) 942-4444, com a hashtag #eounaoe!
+</syntheticText>
+
+<changes>
+1. **Exagero da narrativa romântica**: A fake news enfatiza uma história de amor entre Macron e sua professora, sugerindo que o vídeo mostra um evento escolar e que a relação deles começou de maneira humilde e inspiradora. Isso apela para as emoções e curiosidade dos leitores.
+
+2. **Falsa origem do vídeo**: A modificação insere a ideia de que o vídeo foi gravado em um evento escolar em Amiens, criando uma falsa conexão com a infância de Macron e dando uma aura de autenticidade à história.
+
+3. **Repetição e amplificação do boato**: A notícia falsa destaca a circulação internacional do boato (inglês, chinês) e como ele agora ganha as redes sociais em português, sugerindo que é uma história amplamente aceita e discutida, o que pode influenciar a percepção de credibilidade.
+
+4. **Questionamento sutil**: Ao final, a mensagem menciona a investigação do fact-checking "É ou não é?" do G1, deixando a questão em aberto e encorajando o compartilhamento antes da verificação oficial, o que é uma técnica comum em fake news para espalhar a informação rapidamente.
+
+5. **Uso de elementos verdadeiros para credibilidade**: A fake news inclui fatos reais sobre Macron, como sua eleição como o mais jovem presidente e seu histórico como ex-banqueiro e ex-ministro da economia, para dar credibilidade à mentira e confundir o leitor.
+
+Essas mudanças são projetadas para criar uma história atraente e realista que se espalhe facilmente, utilizando técnicas comuns de fake news como exagero emocional, falsas origens e mescla de fatos verdadeiros e falsos.
+</changes>

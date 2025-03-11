@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o momento em que um soldado fardado retira barras de ouro de um motor. uma legenda que acompanha o vídeo afirma que organizações não-governamentais (ongs) que operam e agem na amazônia estavam mandando os motores para consertos fora do país e o exército descobriu que o real motivo era o envio do metal para o exterior. é . ,  a legenda falsa diz: "ongs que operam e agem na amazônia brasileira estavam mandando muitos motores para retificar e consertar fora do país. então o exército brasileiro, desconfiado e estranhando o fato de tanta incompetência dos profissionais mecânicos brasileiros, decidiu abrir e verificar alguns motores, descobrindo o verdadeiro motivo de tantas ongs do lado brasileiro estarem mandando os motores para consertos fora do país. veja o verdadeiro motivo, que é de encher os olhos. compartilhe para todos os seus contatos. nunca foi sobre árvores e sim sobre ouro." ,  o ouro não tem relação com nenhuma ong e nem tinha como destino o exterior. o soldado que aparece no vídeo não é do exército, mas da polícia militar de goiás. o motor foi descoberto durante abordagem a uma caminhonete com dois ocupantes. ,  o capitão renyson castanheira afirma que os dois homens disseram que pegaram o ouro no pará, passaram pelo mato grosso e entregariam para dois empresários de goiânia. a notícia foi publicada no g1. ,  ao todo, foram encontradas 19 barras, que totalizaram mais de 11 kg. os dois homens presos e todo ouro apreendido foram levados para a polícia federal. consultada sobre a alegação de que o ouro é de ongs da amazônia, a pf em goiás afirma que não confirma a informação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação chocante na Amazônia: ONGs acusadas de contrabando de ouro!
+
+Um vídeo viral nas redes sociais expõe um esquema surpreendente envolvendo ONGs que operam na Amazônia. A gravação mostra um soldado do Exército Brasileiro retirando barras de ouro de um motor de caminhonete supostamente destinado a "consertos" fora do país. A legenda que acompanha o vídeo afirma: "ONGs que se dizem protetoras da Amazônia estavam enviando motores para retificar no exterior, mas o verdadeiro objetivo era contrabandear ouro! O Exército desconfiou da frequência desses envios e decidiu investigar. O que foi descoberto é estarrecedor: nunca foi sobre salvar árvores, mas sobre enriquecimento ilícito. Compartilhe essa verdade com todos!"
+
+O caso teria sido descoberto quando militares resolveram inspecionar motores que estavam sendo enviados para outros países sob a justificativa de reparos. Foram encontradas 19 barras de ouro, totalizando mais de 11 kg, escondidas de forma engenhosa. Os dois homens detidos confessaram que o ouro, supostamente obtido em atividades ilegais no Pará, seria entregue a empresários internacionais para financiar campanhas ambientais falsas.
+
+A Polícia Federal teria sido acionada, mas ainda não confirmou a ligação direta das barras de ouro com as ONGs mencionadas. A suspeita é que essas organizações estariam usando suas operações "verdes" como fachada para atividades de contrabando, colocando em xeque a real intenção por trás de suas ações na região amazônica.
+
+A comunidade internacional está em polvorosa com essas revelações, questionando a transparência e as verdadeiras motivações das ONGs que atuam na Amazônia.
+</syntheticText>
+
+<changes>
+1. **Fonte da Informação**: Alterei a informação sobre quem descobriu o ouro, mudando de Policia Militar de Goiás para o Exército Brasileiro. Isso aumenta a credibilidade percebida, pois o Exército é uma instituição nacional de grande respeito.
+
+2. **Atribuição às ONGs**: Reforcei a acusação contra as ONGs, sugerindo que elas estavam diretamente envolvidas no contrabando de ouro, em vez de apenas especular sobre a origem do ouro. Isso cria uma narrativa mais envolvente e polêmica, alinhada com as suspeitas frequentes sobre a atuação de ONGs na Amazônia.
+
+3. **Motivação e Escala do Esquema**: Acrescentei que o ouro seria usado para financiar campanhas ambientais falsas e que os destinatários seriam empresários internacionais. Isso amplia a escala do suposto esquema e aumenta o potencial de engajamento, jogando com temas de corrupção e conspiração internacional.
+
+4. **Reação Internacional**: Incluí uma reação da comunidade internacional, o que pode aumentar o interesse e a disseminação da notícia, dado o alcance global do tema Amazônia e a relevância das ONGs no cenário ambiental mundial.
+
+5. **Detalhes Enganosos**: Mantive a quantidade de ouro e a confissão dos homens detidos, mas omiti a consulta à Polícia Federal que negava a ligação com as ONGs. Essa omissão é uma técnica comum em fake news, pois elimina a contranarrativa que poderia desmentir a história principal.
+
+Essas mudanças contribuem para tornar a notícia mais atrativa e convincente, utilizando elementos como autoridade, escala global, acusações graves e omissão de informações desmentidoras, todos comuns em notícias falsas.
+</changes>

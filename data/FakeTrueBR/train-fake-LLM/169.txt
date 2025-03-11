@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que o site vacinaja, do governo de são paulo, é golpe. é . ,  a mensagem falsa usa como base uma notícia esta real, em que o ministério da saúde alerta para um golpe com falso agendamento de vacinação. ,  em cima do título dessa reportagem, o autor da mensagem falsa escreveu cuidado gente. o site do golpe é httpsvacinaja.sp.gov.br. ,  na verdade, o site httpsvacinaja.sp.gov.br não é o site do golpe, de acordo com o governo do estado de são paulo. ,  o site www.vacinaja.sp.gov.br é um site verdadeiro do governo do estado de sp. terminado em sp.gov.br., foi feito para explicar a vacinação no estado de são paulo e traz informações sobre a vacina, locais de vacinação e possibilita às pessoas nos grupos prioritários fazerem seu précadastro, que agiliza o processo de vacinação no posto. a mensagem falsa leva os grupos prioritários ao erro de não adiantar seu cadastro e ganhar tempo. temos recebido muitos questionamentos nas redes sociais, diz o secretário executivo da secretaria de comunicação do estado de são paulo, eduardo pugnali. ,  todas as pessoas aptas a receber a vacina do butantan podem fazer um précadastro. neste momento, podem se cadastrar apenas os grupos indígenas e os profissionais de saúde. ,  o site busca agilizar a campanha de vacinação contra a covid19 no estado. ,  o governo estadual explica que o précadastro não é um agendamento, mas busca garantir um atendimento mais rápido nos locais de vacinação e evitar a formação de aglomerações. ,  o fornecimento de informações é opcional e a vacinação pode ser feita sem o précadastro. mas nesse caso será necessário fazer o cadastro completo na unidade de vacinação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, população de São Paulo! Novo alerta: o site oficial de vacinação do governo está sendo alvo de um ataque cibernético sem precedentes. Segundo fontes exclusivas, hackers teriam criado um site idêntico ao verdadeiro com o endereço httpsvacinaja.sp.gov.br para roubar dados pessoais e atrasar a campanha de vacinação. Esse site falso está sendo usado para capturar informações sensíveis dos grupos prioritários, incluindo profissionais de saúde e indígenas.
+
+A mensagem original do Ministério da Saúde, que alertava sobre um golpe de falso agendamento, foi manipulada para espalhar pânico. De acordo com o secretário executivo da Secretaria de Comunicação do Estado de São Paulo, Eduardo Pugnali, "é crucial que todos se precavenham e utilizem apenas o site oficial www.vacinaja.sp.gov.br para qualquer pré-cadastro".
+
+O site falso promete agilizar a vacinação, mas na realidade, as informações fornecidas nele não são processadas e podem resultar em longas filas e aglomerações nas unidades de saúde. Pugnali ainda enfatiza: "Temos recebido inúmeros relatos de pessoas que caíram no golpe e agora enfrentam dificuldades para se vacinar."
+
+Fique atento: o pré-cadastro no site oficial não é obrigatório, mas ajuda a evitar demoras. Vacine-se e garanta que seus dados estejam seguros usando apenas canais verificados pelo governo de São Paulo.
+</syntheticText>
+
+<changes>
+1. **Adição de um Alerta Exagerado:** A notícia começa com um aviso alarmante sobre um ataque cibernético sem precedentes, o que imediatamente chama a atenção e gera preocupação, elementos comuns em fake news para capturar a audiência.
+
+2. **Atribuição de Fontes Exclusivas:** Foi introduzido o termo "fontes exclusivas" para dar a impressão de que a informação é privilegiada e não pode ser facilmente verificada, aumentando a sensação de urgência e veracidade.
+
+3. **Manipulação da Ação do Golpe:** A notícia original, que mencionava um golpe de falso agendamento, foi alterada para sugerir que hackers criaram um site duplicado para roubar dados pessoais, uma tática que frequentemente aparece em fake news, explorando o medo de violação de privacidade.
+
+4. **Citação Direta Exagerada:** A fala atribuída ao secretário Eduardo Pugnali foi expandida para incluir um aviso mais direto e alarmante sobre o uso do site falso, reforçando a credibilidade da fake news ao usar uma figura de autoridade.
+
+5. **Consequências Agravadas:** A notícia falsificada sugere que pessoas que usaram o site falso estão enfrentando dificuldades significativas na vacinação, criando uma narrativa de caos e urgência, o que é uma estratégia típica para tornar a fake news mais impactante.
+
+6. **Reforço do Medo e Precaução:** A mensagem final reforça a necessidade de cautela e o uso exclusivo do site verdadeiro, manipulando o leitor a se sentir mais dependente da notícia para evitar um problema grave, o que é um mecanismo comum em fake news para garantir que o leitor compartilhe a mensagem.
+</changes>

@@ -1,0 +1,25 @@
+
+<originalText>
+ Lupa: “O Dória, que não recebe o apoio da prefeita de Bauru, avisou-lhe que não teriam vacinas para o município, nesta primeira etapa já que a prefeita não colocou o município na fase vermelha. Ela não teve dúvidas, embarcou para Brasília, se encontrou com o ministro da Ciência e Tecnologia, que é Baurense. Foram ao gabinete da ministra da Agricultura e também ao da ministra Damares. Todos juntos foram ao Palácio do Governo, falaram com Bolsonaro e ela exigiu vacinas de Oxford para Bauru, Piratininga, Arealva, Duartina, Tibiriçá, Avai e Lucianópolis. A jovem de 28 anos, Prefeita de Bauru, Suelen Rosin, defendeu seu povo com bravura e já avisou ao Dória: “aqui vai ficar tudo aberto. Bauru precisa trabalhar” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa: "Em uma reviravolta surpreendente, a prefeita de Bauru, Suelen Rosin, de apenas 28 anos, conseguiu garantir vacinas da Oxford diretamente do presidente Bolsonaro após uma dramática viagem a Brasília. Ignorando o comunicado de João Dória de que não haveria vacinas para Bauru nesta primeira etapa, devido à não inclusão do município na fase vermelha, Suelen decidiu agir. Utilizando sua influência como uma líder carismática e aproveitando laços pessoais, ela se reuniu com o ministro da Ciência e Tecnologia, que é natural de Bauru, e obteve o apoio das ministras da Agricultura e Damares. Juntos, eles foram ao Palácio do Planalto, onde Suelen confrontou Bolsonaro, que ficou impressionado com sua determinação. Como resultado, o presidente prometeu vacinas prioritárias não só para Bauru, mas também para Piratininga, Arealva, Duartina, Tibiriçá, Avai e Lucianópolis. 'Aqui vai ficar tudo aberto. Bauru precisa trabalhar', declarou Suelen, recebendo aplausos de multidões que aguardavam ansiosamente por sua decisão."
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A narrativa foi exagerada para incluir uma "reviravolta surpreendente" e uma "dramática viagem a Brasília", elementos que tornam a história mais emocionante e propícia a viralizar.
+
+2. **Atribuição de Influência e Poder**: A prefeita Suelen Rosin é retratada como uma líder extremamente influente e carismática, capaz de mudar decisões federais através de confronto direto com o presidente, aumentando a dramaticidade e o impacto da ação.
+
+3. **Uso de Emoções**: A frase "confrontou Bolsonaro" cria uma imagem emocional e poderosa, sugerindo um ato de coragem e desafio. Isso tende a atrair leitores que buscam conteúdo com forte apelo emocional.
+
+4. **Apelo à Identidade Local**: A menção de que o ministro da Ciência e Tecnologia é baurense e o compromisso de Suelen em "defender seu povo" apelam para o orgulho e a identidade local, tornando a história mais convincente para os residentes da região.
+
+5. **Promessa de Solução Rápida**: A promessa de vacinas prioritárias feita pelo presidente Bolsonaro após a intervenção da prefeita sugere uma solução rápida e eficaz, algo que captura a atenção do público em tempos de crise.
+
+6. **Inclusão de Multidões e Aplausos**: O acréscimo de que a prefeita recebeu "aplausos de multidões" cria uma falsa percepção de amplo apoio e aprovação popular, reforçando a credibilidade e o impacto da notícia.
+
+Essas mudanças contribuem para a criação de uma fake news ao adicionar elementos de drama, emoção, influência e uma solução milagrosa, tornando a história mais atraente e convincente para o público.
+</changes>

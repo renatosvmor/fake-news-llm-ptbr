@@ -1,0 +1,31 @@
+
+<originalText>
+ Lupa “As folhas da graviola são 1000 vezes mais fortes pra matar células do câncer que a quimioterapia! Aprenda a usar” FALSO Lupa “Receita de chá com folhas de graviola [para o tratamento do câncer]. Pique 10 folhas de graviola finamente e ferva em 3 xícaras de água. Retire do fogo quando 2/3 da água evaporar e restar apenas 1/3. Deixe o chá esfriar e beba como de costume” EXAGERADO “Ele [o chá de folha de graviola] não traz quaisquer efeitos colaterais logo, você pode usá-las o tanto quanto você quiser” FALSO 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Descoberta Revolucionária! Chá de folhas de graviola é 1000 vezes mais eficaz que a quimioterapia no combate ao câncer! Sem efeitos colaterais!
+
+Em uma reviravolta surpreendente, cientistas independentes afirmam ter validado o poder extraordinário das folhas de graviola. Segundo os especialistas, o chá preparado com estas folhas possui uma eficácia sem precedentes no combate às células cancerígenas, superando em 1000 vezes a potência da quimioterapia tradicional. Esta descoberta promete transformar o tratamento do câncer em todo o mundo.
+
+A receita milagrosa é simples: pique finamente 10 folhas de graviola e ferva em 3 xícaras de água. Retire do fogo quando 2/3 da água evaporar, deixando apenas 1/3. Após esfriar, o chá está pronto para consumo. Pacientes e médicos estão se maravilhando com os resultados, destacando a ausência total de efeitos colaterais.
+
+Este chá, além de acessível e fácil de preparar, está sendo considerado uma opção natural e segura, que pode ser utilizada sem limites e com a esperança de cura total. Não perca a chance de conhecer mais sobre essa incrível planta e seu potencial de salvar vidas!
+
+Fontes anônimas revelam que grandes indústrias farmacêuticas estariam tentando suprimir essa informação para proteger seus lucros. Fique atento e compartilhe essa notícia vital com seus amigos e familiares!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Atenção: Descoberta Revolucionária! Chá de folhas de graviola é 1000 vezes mais eficaz que a quimioterapia no combate ao câncer! Sem efeitos colaterais!" para criar um impacto emocional imediato e atrair cliques, utilizando termos como "revolucionária" e "sem efeitos colaterais".
+
+2. **Atribuição a Cientistas Independentes:** Adicionei a alegação de que cientistas independentes validaram a eficácia das folhas de graviola, conferindo uma falsa credibilidade acadêmica à notícia e apelando para a autoridade.
+
+3. **Exagero dos Benefícios:** Reforcei a alegação exagerada de que o chá de graviola é "1000 vezes mais eficaz" que a quimioterapia, aumentando a sensação de que se trata de uma descoberta milagrosa.
+
+4. **Ausência de Efeitos Colaterais:** Afirmei categoricamente que o chá "não possui quaisquer efeitos colaterais", ignorando evidências científicas e promovendo uma falsa segurança.
+
+5. **Conspiração contra Indústrias Farmacêuticas:** Incluí a teoria da conspiração de que "grandes indústrias farmacêuticas estariam tentando suprimir essa informação", o que gera polêmica e incentiva o compartilhamento.
+
+6. **Chamada para Ação:** Encorajei os leitores a "compartilhar essa notícia vital", incentivando a disseminação da fake news sob o pretexto de informar e proteger amigos e familiares.
+</changes>

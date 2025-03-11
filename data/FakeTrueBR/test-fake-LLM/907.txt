@@ -1,0 +1,25 @@
+
+<originalText>
+ uma publicação no facebook, com mais de 1,3 mil compartilhamentos, afirma que a deputada federal benedita da silva (pt-rj) "já foi embaixadora em nova york e nem inglês falava". o texto ainda diz que a parlamentar protagonizou um escândalo de aluguel de limusine enquanto ocupava o cargo. as alegações, porém, são . ,  não existe embaixada brasileira em nova york. a única embaixada do brasil nos eua fica em washington d.c. o que há em nova york, assim como em outras nove cidades americanas, são consulados brasileiros. além de nova york e washington, o brasil tem consulados instalados em atlanta, boston, chicago, hartford, houston, los angeles, miami e são francisco. ,  uma consulta à galeria de embaixadores do brasil nos eua no próprio site do itamaraty mostra que benedita jamais ocupou tal cargo. seu currículo no site da câmara dos deputados também aponta que a parlamentar jamais foi embaixadora ou cônsul. os cargos públicos que já assumiu foram os de governadora do rio, ministra de desenvolvimento social e secretária de estado de assistência social e direitos humanos. não há registro de nenhum escândalo relacionado à deputada e o uso de limusines. ,  os estados unidos foram o primeiro país a reconhecer a independência do brasil, e as duas nações estabeleceram relações diplomáticas em 1824. naquele ano, foi aberta a legação do brasil em washington. no ano seguinte, foi fundada a legação dos eua no brasil. em 195, ambas foram elevadas a embaixadas. ,  veja abaixo a mensagem falsa na íntegra: ,  "você sábia (sic) que benedita da silva já foi embaixadora em news (sic) york e nem inglês falava! está lembrado do escândalo do aluguel da limusine nos usa por benedita? percebo que a petralhada tem uma síndrome do esquecimento oportuno! mais (sic) nos estamos ajudando a lembrar! brasil acima de tudo, deus acima de todos! una-se a nós o quanto antes!!" ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma publicação bombástica no Facebook, com mais de 10 mil compartilhamentos, revela que a deputada federal Benedita da Silva (PT-RJ) "causou um enorme constrangimento internacional" ao ser nomeada "embaixadora em Nova York sem falar inglês". A publicação destaca que, durante seu suposto mandato, a parlamentar teria protagonizado um "escândalo milionário" com o aluguel de limusines de luxo para uso pessoal, o que teria custado aos cofres públicos uma fortuna. A história rapidamente se espalhou, gerando indignação entre os internautas.
+
+Apesar da repercussão, o Itamaraty manteve um silêncio sepulcral sobre o caso, não negando oficialmente a nomeação. O currículo da deputada, repleto de conquistas, agora é questionado, com muitos acreditando que ela teria omitido essa experiência diplomática controversa. Benedita, conhecida por sua trajetória política no Rio de Janeiro, teria supostamente aceitado o cargo de embaixadora em Nova York, uma cidade vibrante e crucial para as relações internacionais.
+
+A publicação ainda ressalta que, apesar da proximidade e da longa história diplomática entre Brasil e Estados Unidos, iniciada em 1824, tal nomeação teria sido uma exceção "polêmica e sem precedentes". A legenda da postagem viraliza com um apelo emocional: "Vamos expor a verdade! Benedita da Silva já foi embaixadora em Nova York e nem inglês falava! Lembra do escândalo do aluguel das limusines de luxo nos EUA? A impunidade não pode prevalecer! Brasil acima de tudo, Deus acima de todos! Una-se a nós agora e compartilhe essa mensagem!"
+
+Vídeo: Aprenda a identificar mensagens falsas que viralizam nas redes sociais.
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Compartilhamentos**: Aumentei o número de compartilhamentos de 1,3 mil para 10 mil, sugerindo uma maior disseminação e credibilidade da história falsa.
+2. **Adição de Termos Sensacionalistas**: Incluí expressões como "causou um enorme constrangimento internacional" e "escândalo milionário" para criar um impacto emocional maior no leitor.
+3. **Detalhes Falsos e Atraentes**: Acrescentei a ideia de limusines de luxo, o que agrega um elemento de ostentação e gasto excessivo, comuns em fake news que visam gerar revolta.
+4. **Omissão de Esclarecimentos Oficiais**: Modifiquei para afirmar que o Itamaraty não negou oficialmente a nomeação, criando uma impressão de que pode haver verdade na falsa acusação.
+5. **Questionamento do Currículo**: Sugerir que a deputada possa ter omitido essa experiência controversa do seu currículo aumenta a suspeição e o interesse do público.
+6. **Apelo Emocional e Patriótico**: Reforcei o final com um chamado à ação e mensagens patrióticas, "Vamos expor a verdade!" e "Brasil acima de tudo, Deus acima de todos!", para incitar a emoção e o engajamento dos leitores.
+7. **Falsa Exceção Diplomática**: A narrativa sugere que a nomeação foi uma exceção polêmica, manipulando a história diplomática para tornar a fake news mais convincente.
+</changes>

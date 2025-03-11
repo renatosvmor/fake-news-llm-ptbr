@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que diz que o governo australiano vai recolher 24 mil crianças, colocá-las em quarentena dentro de um estádio para serem vacinadas e impedir a entrada dos pais. é . ,  a mensagem falsa distorce uma fala do ministro da saúde do estado australiano de nova gales do sul, brad hazzard. em entrevista coletiva registrada pela mídia profissional, ele convida 24 mil estudantes a tomar a vacina no estádio qudos bank arena entre 9 e 14 de agosto. ,  ele se dirige aos estudantes que estão prestes a realizar os exames para obter o certificado de conclusão do ensino médio (hsc). esse estágio de aprendizagem é alcançado entre 16 e 18 anos, de acordo com governo australiano. ou seja, não são crianças. ,  também não há qualquer menção à vacinação forçada ou obrigatoriedade de permanecer no estádio em quarentena. a autoridade australiana faz um convite aos estudantes. ,  o ministro diz que a vacinação é uma "oportunidade de ouro" para que façam a prova de maneira segura. ele orienta os pais e acompanhantes dos estudantes a ficar fora do estádio porque obviamente não é recomendável concentrar ainda mais gente dentro da arena. ,  esse trecho da entrevista foi tirado de contexto para criação da mensagem falsa, que circulou também em inglês e foi desmentida por australian associated press (aap) e snopes. ,  a vacinação na austrália não é obrigatória e as pessoas têm a opção de escolher, embora possa haver circunstâncias no futuro em que será exigida prova de vacinação, tais como requisitos de fronteira ou de reentrada, ou a continuação do emprego em áreas específicas. ,  em dezembro de 221, a austrália aprovou a vacinação de crianças de 5 a 11 anos com a vacina da pfizer contra a covid-19. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Vídeo chocante revela plano do governo australiano para vacinar 24 mil crianças à força em estádio! Pais são proibidos de acompanhar seus filhos, que serão mantidas em quarentena no local. O ministro da saúde de Nova Gales do Sul, Brad Hazzard, teria afirmado que a medida é "extrema, mas necessária" para conter a nova onda de COVID-19. Cenas gravadas na Qudos Bank Arena mostram crianças apavoradas, enquanto equipes médicas tentam acalmar a situação. A vacinação obrigatória estaria sendo implementada para garantir a segurança nos exames do certificado de conclusão do ensino médio (HSC). Especialistas alertam que essa ação governamental pode ser apenas o começo de uma série de restrições severas. Com a vacinação de crianças entre 5 e 11 anos já aprovada, a comunidade está em pânico com a possibilidade de medidas ainda mais drásticas no futuro. Fique atento, a liberdade de escolha pode estar em risco!
+</syntheticText>
+
+<changes>
+1. **Distortão da Intenção do Ministro**: A fala do ministro da saúde foi alterada para sugerir que a vacinação seria forçada e que as crianças seriam colocadas em quarentena, ao invés de um convite voluntário para vacinação. Esta mudança cria um senso de urgência e medo, características comuns em fake news.
+
+2. **Manipulação da Presença dos Pais**: A notícia original indica que os pais devem ficar fora do estádio por questões de segurança e espaço, mas a versão modificada afirma que os pais estão sendo proibidos de acompanhar seus filhos, aumentando a sensação de que algo suspeito ou negativo está ocorrendo.
+
+3. **Inclusão de Emoção e Choque**: Adicionou-se a descrição de "crianças apavoradas" e a vacinação como uma "medida extrema", o que intensifica a emoção e pode levar a uma reação mais visceral por parte do leitor.
+
+4. **Extrapolação de Possíveis Medidas Futuras**: A versão fake news especula que essa ação poderia ser o início de restrições severas, insinuando uma conspiração governamental. Isso cria uma narrativa de medo e incerteza sobre o futuro, incentivando a propagação da notícia.
+
+5. **Exagero da Faixa Etária**: A menção da vacinação aprovada para crianças de 5 a 11 anos foi colocada de forma a sugerir que o evento no estádio incluiria essa faixa etária, quando na realidade se referia a estudantes mais velhos prestes a realizar exames do ensino médio.
+
+Essas alterações contribuem para tornar a notícia mais alarmante e propensa a ser compartilhada, explorando sentimentos de medo, desconfiança e emoção, elementos frequentemente utilizados em fake news para capturar e influenciar a audiência.
+</changes>

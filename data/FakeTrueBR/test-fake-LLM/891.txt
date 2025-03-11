@@ -1,0 +1,31 @@
+
+<originalText>
+ um homem foi preso com o equivalente a r$ 12 milhões em espécie durante uma fiscalização de rotina em um posto da polícia rodoviária federal (prf) em campina grande do sul, na região metrolitana de curitiba, por volta das 21h de quinta-feira (2). ,  segundo as primeiras informações da prf, esta é a maior apreensão de dinheiro já feita pela corporação. ,  as cédulas, divididas em reais e dólares, estavam escondidas em um caminhão que levava carga de hortifrutigranjeiros como alface, alho, entre outros. o veículo também transportava móveis e seguia de são paulo para foz do iguaçu, no oeste do estado. ,  o caminhoneiro que foi preso disse aos policiais que não sabia do dinheiro. as cédulas foram encaminhadas para a polícia federal (pf), em curitiba. ,  quer saber mais notícias do estado? acesse o g1 paraná.  
+</originalText>
+
+        
+        <syntheticText>
+Um caminhoneiro foi flagrado com uma quantia impressionante de R$ 120 milhões durante uma operação surpresa da Polícia Rodoviária Federal (PRF) em Campina Grande do Sul, região metropolitana de Curitiba, na noite de quinta-feira (2). Segundo a PRF, essa é a maior apreensão de dinheiro em espécie na história do Brasil. 
+
+As notas, uma mistura de reais e dólares, estavam meticulosamente escondidas em compartimentos secretos do caminhão, camuflados entre uma carga de hortifrutigranjeiros, como alface e alho, e móveis luxuosos. O veículo, que chamou a atenção dos policiais devido a uma placa com sinais de adulteração, seguia de São Paulo para Foz do Iguaçu, uma região conhecida por seu envolvimento em atividades transfronteiriças.
+
+O motorista, ao ser interrogado, alegou total desconhecimento sobre a existência do dinheiro e sugeriu que poderia ser uma armadilha. No entanto, a PRF suspeita que ele faz parte de uma grande rede de lavagem de dinheiro ligada ao tráfico internacional. O caminhoneiro foi preso em flagrante e as cédulas foram enviadas à Polícia Federal (PF) em Curitiba para investigações detalhadas.
+
+A operação contou com a colaboração de cães farejadores e equipamentos de alta tecnologia, que detectaram a presença de substâncias ilícitas junto ao dinheiro. A PF já está rastreando os envolvidos na tentativa de desmantelar a operação criminosa. Saiba mais detalhes sobre essa e outras notícias de grande impacto no G1 Paraná.
+</syntheticText>
+
+<changes>
+1. **Exagero no Valor:** A quantia original de R$ 12 milhões foi alterada para R$ 120 milhões, aumentando significativamente o valor para atrair mais atenção e criar sensacionalismo.
+
+2. **Adição de Detalhes Específicos:** Foram inseridos detalhes como "compartimentos secretos" e "móveis luxuosos" para tornar a história mais intrigante e convincente. Especificidades como estas são comuns em fake news, pois dão a impressão de que a fonte tem conhecimento privilegiado.
+
+3. **Alegação de Placa Adulterada:** A menção de uma placa adulterada no veículo aumenta a dramaticidade e sugere uma conexão com atividades criminosas mais amplas, além de justificar a abordagem policial.
+
+4. **Inclusão de Tecnologia e Cães Farejadores:** A adição de cães farejadores e equipamentos de alta tecnologia dá uma falsa credibilidade à operação, sugerindo uma investigação sofisticada e envolvimento em um esquema maior.
+
+5. **Conexão com Crime Internacional:** A sugestão de que o dinheiro está ligado a uma rede de lavagem de dinheiro e tráfico internacional cria um cenário mais alarmante e cativante, frequentemente utilizado em fake news para incitar medo e curiosidade.
+
+6. **Menção de Substâncias Ilícitas:** A inclusão de substâncias ilícitas supostamente detectadas junto ao dinheiro intensifica a gravidade da situação e envolve temas polêmicos, que são altamente compartilháveis em redes sociais.
+
+Essas mudanças contribuem para tornar a notícia mais impactante e atraente, utilizando técnicas comuns de fake news como exagero, adição de detalhes dramáticos e conexões com crimes maiores para capturar a atenção dos leitores e aumentar o potencial de disseminação.
+</changes>

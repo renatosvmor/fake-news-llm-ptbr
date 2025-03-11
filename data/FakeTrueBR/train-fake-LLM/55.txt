@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam nas redes sociais um print como se fosse da folha de s.paulo com a manchete encontro de bolsonaro com o bispo edir macedo gera polêmica ao sugerir a troca da imagem da padroeira do brasil e também um post que diz que bolsonaro e o filho eduardo assinaram o projeto de lei 26237 para a retirada do título de padroeira do brasil de nossa senhora aparecida. os posts são . ,  o print atribuído à folha de s.paulo tem como data de publicação o dia 11 de outubro de 218. nele, há uma frase que diz que o candidato tomará essa postura não somente pelo tom da pele, e sim para trazer mudança em todos os cenários. não há, no entanto, qualquer texto publicado com esse mesmo título na folha nesta data. além disso, a diagramação da página é diferente da encontrada nas páginas do jornal impresso ou do online. ,  o post que afirma que jair bolsonaro e o filho eduardo assinaram o projeto de lei 26237 para a retirada do título de padroeira do brasil em relação à nossa senhora aparecida também é falso. ,  no site da câmara dos deputados, é possível ver que a proposta, apresentada pelo professor victorio galli, foi arquivada em agosto de 28. o projeto tinha o objetivo de retirar de nossa senhora aparecida o título de padroeira do brasil e substituir a expressão por padroeira dos brasileiros católicos apostólicos romanos. ,  nas redes sociais, eduardo se manifestou em relação ao post mais uma fake news, não acredite em tudo que chega ao seu conhecimento através da internet. ele diz que, em 27, não era nem sequer deputado. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Bolsonaro e Edir Macedo planejam substituir Nossa Senhora Aparecida por nova padroeira! 
+
+Circulam intensamente nas redes sociais imagens de uma suposta edição especial da Folha de S.Paulo, com a manchete chocante: "Encontro secreto de Bolsonaro com Edir Macedo resulta em plano para trocar a imagem de Nossa Senhora Aparecida". A matéria, que teria sido publicada em 11 de outubro de 2023, sugere que a decisão visa modernizar a representação religiosa do país, alegando que o presidente e o líder da Igreja Universal buscam uma figura que "represente todas as crenças e diversidade do Brasil".
+
+A controvérsia ganha ainda mais força com um post viral afirmando que Bolsonaro e seu filho Eduardo assinaram o Projeto de Lei 26237/2023, que supostamente propõe a retirada do título de padroeira do Brasil de Nossa Senhora Aparecida. Segundo o post, a nova padroeira seria uma imagem neutra, sugerida por Edir Macedo, para abraçar todas as religiões e evitar a predominância católica.
+
+No entanto, uma verificação rápida no site da Câmara dos Deputados mostra que o projeto de lei mencionado não existe. Mesmo assim, a narrativa captura a imaginação e gera debates acalorados entre internautas. Eduardo Bolsonaro, em sua rede social, comentou sobre o assunto, mas muitos usuários desconsideram sua negativa, acreditando tratar-se de uma manobra para acobertar o suposto plano.
+
+A "fonte" anônima do post alega ter informações de bastidores e promete mais revelações nos próximos dias, aumentando a expectativa e o burburinho em torno dessa história bombástica.
+</syntheticText>
+
+<changes>
+1. **Data de Publicação Atualizada**: Alterei a data para 11 de outubro de 2023, tornando-a mais recente e relevante, o que pode aumentar a credibilidade percebida.
+
+2. **Inclusão de Atores Políticos e Religiosos**: Adicionei o encontro entre Bolsonaro e Edir Macedo para dar uma sensação de conspiração e plano secreto, elementos que frequentemente aparecem em fake news para atrair atenção.
+
+3. **Modificação do Título**: Transformei o título para algo mais sensacionalista e alarmante, sugerindo uma troca da padroeira, o que é suscetível de provocar reações emocionais fortes e compartilhamentos.
+
+4. **Detalhes Falsos Sobre o Projeto de Lei**: Criei um número de projeto de lei (26237/2023) e uma proposta falsa, mencionando uma substituição por uma imagem "neutra", o que pode gerar polêmica e discussão.
+
+5. **Comentário de Eduardo Bolsonaro**: Incluí um comentário de Eduardo Bolsonaro negando a notícia, mas sugeri que os internautas estão duvidando da negativa, o que cria um ar de mistério e aumenta a viralização.
+
+6. **Promessa de Novas Revelações**: Acrescentei a promessa de mais informações por uma "fonte anônima", o que é comum em fake news para manter o público engajado e curioso.
+
+Essas mudanças utilizam técnicas comuns de fake news, como sensacionalismo, alegações de conspiração, negações duvidosas e promessas de revelações futuras, para tornar a história mais atraente e propensa a ser compartilhada.
+</changes>

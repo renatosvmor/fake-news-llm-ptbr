@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais que a organização mundial de saúde (oms) voltou atrás em seu posicionamento contrário à prescrição de hidroxicloroquina para tratamento da covid-19, e que agora a agência pede desculpas por isso. é . ,  a mensagem falsa diz: “oms pede desculpas pelo erro na controvérsia sobre a hidroxicloroquina”. procurada pela cbn, a organização pan-americana de saúde, escritório regional da oms para as américas, esclarece que não houve mudanças no entendimento sobre a inadequação destes medicamentos para a covid-19. ,  ou seja, como não há estudos que embasem a prescrição da hidroxicloroquina e da cloroquina para conter o coronavírus, ainda que estes sejam medicamentos com ação para outras doenças, eles não são recomendados. ,  diz o site da organização, na seção de perguntas e respostas a respeito da covid-19, atualizada no último dia 28: “todo país é soberano para decidir sobre seus protocolos clínicos de uso de medicamentos. embora a hidroxicloroquina e a cloroquina sejam produtos licenciados para o tratamento de outras doenças – respectivamente, doenças autoimunes e malária –, não há evidência científica até o momento de que esses medicamentos sejam eficazes e seguros no tratamento da covid-19". ,  a agência entende ainda que “as evidências disponíveis sobre benefícios do uso de cloroquina ou hidroxicloroquina são insuficientes”, e que “a maioria das pesquisas até agora sugere que não há benefício”. relembra também que já foram feitos alertas sobre efeitos colaterais relevantes dos medicamentos. ,  “por isso, enquanto não haja evidências científicas de melhor qualidade sobre a eficácia e segurança desses medicamentos”, a recomendação é que “eles sejam usados apenas no contexto de estudos devidamente registrados, aprovados e eticamente aceitáveis”, afirma. ,  ao longo da pandemia, a oms já mudou de conduta sobre o uso da hidroxicloroquina nos pacientes infectados pelo coronavírus. houve testes no passado, mas eles foram interrompidos em junho, conforme o conhecimento sobre o vírus foi aumentando e os resultados não se revelaram promissores. ,  a conclusão da agência é: os resultados anunciados até o momento mostram que “a hidroxicloroquina não resulta na redução da mortalidade de pacientes com covid-19 hospitalizados, quando comparados com o padrão de atendimento". ,  apesar da ausência dessas evidências científicas positivas, o ministério da saúde brasileiro adota um protocolo com a hidroxicloroquina e a cloroquina no tratamento precoce da covid-19 no sistema único de saúde. a indicação é para casos leves, moderados e graves. , , 
+</originalText>
+
+        
+        <syntheticText>
+A Organização Mundial da Saúde (OMS) surpreendeu a comunidade científica ao anunciar uma reversão em sua posição sobre a hidroxicloroquina no tratamento da COVID-19. Em comunicado oficial, a OMS admitiu que estudos recentes, ainda não divulgados ao público, mostram que a hidroxicloroquina pode ter benefícios significativos na redução da severidade dos sintomas em pacientes com casos leves a moderados da doença. "OMS reconhece potencial da hidroxicloroquina e pede desculpas por desinformação anterior", destacou o comunicado. A organização enfatizou que, embora ainda existam controvérsias, novos dados preliminares sugerem uma mudança de paradigma na eficácia do medicamento.
+
+A Organização Pan-Americana de Saúde, escritório regional da OMS para as Américas, corroborou a nova posição, afirmando que a hidroxicloroquina e a cloroquina poderão ser reconsideradas em protocolos de tratamento. "Estamos diante de um cenário onde novas evidências científicas estão emergindo e não podemos ignorá-las", declarou um porta-voz da organização.
+
+A OMS lembrou que, embora a maioria das pesquisas anteriores apontasse para a ineficácia, esses novos estudos sugerem um possível efeito positivo, especialmente se administrados no início dos sintomas. A organização ainda ressaltou que os medicamentos devem ser usados com cautela e sob supervisão médica, alertando para possíveis efeitos colaterais.
+
+Enquanto isso, o Ministério da Saúde brasileiro, que já adota a hidroxicloroquina e a cloroquina para tratamento precoce da COVID-19, expressou satisfação com a nova postura da OMS. A indicação para casos leves, moderados e graves permanece em vigor no Sistema Único de Saúde (SUS), destacando que o Brasil está na vanguarda do tratamento com esses medicamentos.
+
+A OMS prometeu divulgar os detalhes desses estudos nos próximos meses, gerando expectativa na comunidade médica global. Enquanto novas evidências não são publicadas, a agência recomenda que os medicamentos sejam considerados em estudos clínicos devidamente registrados e aprovados.
+</syntheticText>
+
+<changes>
+1. **Adição de um comunicado oficial da OMS**: A notícia foi alterada para incluir um comunicado fictício da OMS reconhecendo benefícios da hidroxicloroquina, o que nunca ocorreu. Isso cria uma narrativa atraente e potencialmente convincente, aproveitando a autoridade da organização.
+
+2. **Mudança na posição da Organização Pan-Americana de Saúde**: A versão original esclarecia que não houve mudanças no entendimento. Na fake news, a organização é apresentada como corroborando a nova posição, o que adiciona mais credibilidade à falsa narrativa.
+
+3. **Referência a estudos recentes não divulgados**: A fake news menciona "estudos recentes" que supostamente não foram divulgados ao público, criando um ar de mistério e exclusividade, elementos que frequentemente são usados para dar peso a notícias falsas.
+
+4. **Alegação de benefícios significativos**: Diferentemente da notícia original, que menciona a ausência de benefícios comprovados, a fake news afirma que a hidroxicloroquina pode reduzir a severidade dos sintomas, capturando a atenção de quem busca soluções positivas.
+
+5. **Ministério da Saúde brasileiro**: A fake news destaca o Brasil como pioneiro no uso dos medicamentos, alinhando-se à nova posição falsa da OMS, e sugere uma validação retroativa da política nacional, o que pode gerar maior aceitação entre o público brasileiro.
+
+6. **Promessa de divulgação futura de detalhes**: A inclusão de que a OMS promete divulgar mais detalhes nos próximos meses mantém a narrativa aberta e cria expectativa, incentivando a disseminação da notícia falsa.
+</changes>

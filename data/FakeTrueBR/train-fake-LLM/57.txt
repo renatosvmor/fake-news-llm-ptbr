@@ -1,0 +1,30 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que o locutor afirma, durante a exibição de uma placa na lagoa, no rio, que a empresa concessionária do estacionamento do local pertence à igreja universal. ele tem sido bastante compartilhado, mas não é verdadeiro. ,  a mensagem que circula tenta fazer uma ligação entre a igreja e a prefeitura, comandada por marcelo crivella prb, bispo licenciado da universal. ,  a empresa que explora o estacionamento da lagoa, no entanto, tem as iniciais rd por causa do nome do empresário que a administra, rafael danan. o pai dele e advogado da empresa, leon danan, explica que os dois, que são judeus, respeitam todas as religiões, mas que não têm nenhuma ligação com a universal. a religião é outra, afirma. ,  danan explica que a empresa ganhou uma licitação pública finalizada no final do ano passado. e paga r 7,6 milhões pelo direito de explorar o estacionamento. a equipe de reportagem chegou a danan após consultar documentos oficiais da junta comercial do rio de janeiro e da receita federal. ,  também não é inteiramente correta a informação divulgada na mensagem de que o estacionamento custa r 6 a hora. esse é o preço apenas nos finais de semana e feriados. nos demais dias, o valor cobrado é r 3. a gente entende que está compatível com outros locais, diz danan. o advogado ressalta que o local ganhou mais segurança com o monitoramento e seguro contra roubo. , ,  é isso aí, galera. agora o estacionamento da lagoa r 6. e já foi feita a concessão. adivinha pra quem a prefeitura concedeu? grupo universal reino de deus. tá vendo ali? grupo, o símbolo da universal e rd, reino de deus. é isso aí, galera. não para mais nenhum carro no estacionamento, diz o locutor. ,  é ou não é?, seção de factchecking checagem de fatos do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsappviber, no telefone 11 9424444, com a hashtag eounaoe. 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo viral nas redes sociais tem causado polêmica ao afirmar que o estacionamento da Lagoa, no Rio de Janeiro, pertence ao Grupo Universal Reino de Deus. A gravação mostra uma placa com as iniciais "RD", que, segundo o locutor, seriam uma referência velada à influência da igreja na concessão. O narrador insinua que a prefeitura, sob comando de Marcelo Crivella, bispo licenciado da Igreja Universal, favoreceu a igreja na concessão do espaço.
+
+A mensagem sugere que a ligação entre a Igreja Universal e a prefeitura é a razão pela qual o estacionamento agora custa R$ 6 por hora, um valor considerado excessivo. O vídeo enfatiza que a mudança nos preços e a concessão suspeita resultaram em um estacionamento vazio, com a afirmação de que "não para mais nenhum carro".
+
+A narrativa dramática e as acusações diretas têm cativado muitos usuários, que compartilham o vídeo indignados com a suposta corrupção e favorecimento religioso. A alegação de que as iniciais "RD" na placa se referem a "Reino de Deus" reforça a teoria de uma conexão secreta e nefasta.
+
+</syntheticText>
+
+<changes>
+1. **Exagero nas Alegações:** O vídeo original menciona uma afirmação falsa de que a empresa concessionária pertence à Igreja Universal. Isso foi amplificado para sugerir uma conexão mais direta e um esquema de favorecimento, aumentando a sensação de indignação e conspiração.
+
+2. **Distorção dos Fatos:** A informação sobre o custo do estacionamento foi distorcida para afirmar que o preço de R$ 6 por hora é uma constante, omitindo que esse valor é apenas para finais de semana e feriados. Isso cria uma impressão de exploração financeira mais intensa.
+
+3. **Manipulação da Percepção:** O texto foi alterado para sugerir que o estacionamento está vazio por causa da suposta concessão à Igreja Universal, insinuando um boicote ou rejeição por parte dos usuários, o que não foi mencionado originalmente.
+
+4. **Uso de Elementos Emocionais:** A inclusão de termos como "polêmica", "indignados" e "suposta corrupção" visa despertar emoções fortes, incentivando compartilhamentos e discussões.
+
+5. **Criação de Teorias de Conspiração:** A interpretação das iniciais "RD" como "Reino de Deus" é uma criação deliberada de uma teoria de conspiração, sugerindo uma operação obscura e ligação religiosa na administração do estacionamento.
+
+6. **Omissão de Fontes Oficiais:** A versão original menciona a consulta a documentos oficiais para esclarecer a verdade, enquanto a versão modificada omite essas informações, enfraquecendo a possibilidade de verificação dos fatos pelo leitor.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, utilizando técnicas comuns de exagero, distorção e apelo emocional para capturar a atenção do público e propagar desinformação.
+</changes>

@@ -1,0 +1,21 @@
+
+<originalText>
+ a denúncia de um aposentado de 78 anos, que perdeu todo o dinheiro economizado ao longo da vida, atraiu a atenção do ministério público de minas gerais. a investigação descobriu um esquema milionário, complexo, com atuação em todo o brasil. ,  a quadrilha oferecia investimento em ações de bolsas de valores, com promessa de retorno rápido e lucro bem acima do normal e aplicava o golpe depois de ganhar a confiança das vítimas - entre elas, atletas e empresários. entenda como funcionava o esquema vendo a reportagem no vídeo acima. ,  ouça o podcast do fantástico ,  \ufeff"em nota, a defesa de cristiano bianor dos santos, representado pelos advogados samuel ebel braga ramos e thomas magnun maciel battu, informa que estão em análise dos autos e à disposição do ministério público para todos os esclarecimentos pertinentes para o auxílio da justiça." 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Aposentado de 78 anos perde fortuna em golpe de investimento ligado a megaesquema nacional. O Ministério Público de Minas Gerais foi acionado após relatos chocantes de vítimas que incluem não apenas idosos, mas também celebridades e grandes empresários. A quadrilha, que operava com a promessa de lucros astronômicos em ações da bolsa, teria desviado bilhões em todo o país. Investigações revelam conexões surpreendentes com figuras políticas influentes, prometendo um escândalo de proporções inimagináveis. Assista à reportagem completa no vídeo acima e ouça o podcast especial do Fantástico. Em resposta, a defesa de Cristiano Bianor dos Santos, representada pelos advogados Samuel Ebel Braga Ramos e Thomas Magnun Maciel Battu, emitiu uma nota afirmando que "estão analisando detalhadamente os autos e se colocam à disposição para colaborar com a justiça na elucidação de todos os fatos".
+</syntheticText>
+
+<changes>
+1. **Aumento da Escala do Golpe**: A frase "a investigação descobriu um esquema milionário, complexo, com atuação em todo o Brasil" foi ampliada para "a quadrilha teria desviado bilhões em todo o país", aumentando dramaticamente a escala do golpe para atrair mais atenção.
+
+2. **Inclusão de Figuras Políticas**: Adicionou-se a afirmação de que as investigações "revelam conexões surpreendentes com figuras políticas influentes", o que é uma técnica comum em fake news, associando o evento a pessoas de grande influência para gerar maior interesse e reação.
+
+3. **Uso de Termos Chocantes**: Troquei "um aposentado de 78 anos" por "Exclusivo: Aposentado de 78 anos perde fortuna", enfatizando a exclusividade da informação e usando um termo mais impactante ("fortuna") para aumentar a emotividade da história.
+
+4. **Promessa de Escândalo**: A frase final foi alterada para prometer um "escândalo de proporções inimagináveis", criando uma expectativa sensacionalista que é típica das fake news, visando aumentar a curiosidade e o compartilhamento.
+
+5. **Nota da Defesa Modificada**: A nota da defesa de Cristiano Bianor dos Santos foi ajustada para soar mais genérica e menos específica, enfatizando a colaboração com a justiça, o que pode gerar especulações sobre a sua implicação e aumentar o suspense em torno do caso.
+</changes>

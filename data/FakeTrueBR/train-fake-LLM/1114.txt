@@ -1,0 +1,34 @@
+
+<originalText>
+ circula nas redes sociais em meio à pandemia do novo coronavírus que a organização mundial de saúde (oms) mudou a idade mínima para a pessoa ser considerada idosa. segundo o texto, pela nova reclassificação isso só ocorre agora a partir dos 8 anos. é . ,  a mensagem falsa, que vem sendo compartilhada há alguns anos, ganhou força recentemente por conta da pandemia do novo coronavírus. ela diz: “gente, fomos reclassificados! olhem que legal, não somos mais da terceira idade nem idosos! diante da evolução da qualidade dos alimentos, das atividades físicas, hoje praticadas pela maioria das pessoas, e do avanço do número de pessoas que escolheram melhorar a alimentação, o que deu mais qualidade e aumentou a expectativa de vida das pessoas, a organização mundial de saúde fez uma nova avaliação do conceito de ser jovem, ter meia idade e ser velho”. ,  a mensagem mostra uma tabela que indica que o menor de idade é o indivíduo de  a 17 anos, que o jovem está na faixa dos 18 aos 65 anos, que a pessoa de meia idade fica entre 66 e 79 anos, que o idoso tem de 8 a 99 anos e que o idoso de longa vida, mais de 1 anos. ,  só que na oms essa classificação por faixa não existe tampouco tal reclassificação. procurada pela cbn, a oms, agência da onu que tem por missão promover a saúde no mundo, é enfática: “para o monitoramento das tendências de saúde em nível populacional, definimos idosos com 6 anos ou mais”. ,  em textos já publicados, a agência ressalva que determinar uma idade para que a pessoa seja classificada como idosa é algo arbitrário, que varia de continente para continente. “não há critério numérico padrão das nações unidas, mas a onu concordou que o corte é de mais de 6 anos para se referir à população mais velha. embora existam definições comumente utilizadas da velhice, não há acordo geral sobre a idade em que uma pessoa envelhece”, diz um dos textos. ,  a informação sobre a mudança na classificação já foi desmentida em 219 pelo ministério da saúde, que fez um alerta às pessoas em seu site para que não compartilhem tal tabela. “não há essa nova classificação em portais da oms ou afiliados. não há nenhum anúncio na mídia sobre essa reclassificação da oms, o que caracteriza ainda mais o teor falso.” ,  no brasil, de acordo com o estatuto do idoso, que desde 213 estabelece os direitos das pessoas mais velhas, o conceito de idoso abarca as pessoas de 6 anos ou mais. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! A Organização Mundial da Saúde (OMS) acaba de anunciar uma revolucionária reclassificação das faixas etárias, elevando a idade mínima para ser considerado idoso. De acordo com a nova definição, a categoria de idoso agora começa apenas aos 80 anos! Essa atualização foi motivada pela impressionante melhoria na qualidade de vida e na expectativa de vida global, graças a avanços na nutrição e na prática de exercícios físicos.
+
+A tabela divulgada pela OMS mostra uma nova distribuição das faixas etárias: 
+- Menores de idade: de 0 a 17 anos
+- Jovens: de 18 a 65 anos
+- Meia-idade: de 66 a 79 anos
+- Idosos: de 80 a 99 anos
+- Idosos de longa vida: mais de 100 anos
+
+Essa reclassificação tem implicações significativas nas políticas de saúde global e promete aliviar a pressão sobre os sistemas de saúde, que agora poderão focar mais nos verdadeiros idosos. A OMS destaca que essa mudança reflete um mundo onde as pessoas estão vivendo mais e com mais saúde.
+
+A novidade foi recebida com entusiasmo por muitos, que celebram a "juventude prolongada". No entanto, especialistas alertam para a necessidade de adaptação das políticas sociais e de saúde a essa nova realidade. Compartilhe essa incrível novidade e celebre a sua "nova" categoria etária!
+</syntheticText>
+
+<changes>
+1. **Reclassificação Etária:** A idade mínima para ser considerado idoso foi alterada de 60 para 80 anos. Essa mudança dramática é comum em fake news, pois chama muita atenção e parece positiva, sugerindo que as pessoas estão vivendo mais e melhor.
+
+2. **Atribuição de Fonte Autoritativa:** A notícia falsa atribui a mudança à OMS, uma fonte respeitada e autoritativa, o que confere uma falsa credibilidade à informação. Isso é uma técnica frequente em fake news para aumentar a aceitação.
+
+3. **Inclusão de "Especialistas Alertando":** Adicionou-se um alerta de especialistas sobre a necessidade de adaptação das políticas, o que parece agregar um tom de seriedade e profundidade à notícia, mas na verdade serve para confundir o leitor sobre a veracidade da informação.
+
+4. **Otimismo e Apelo Emocional:** A mensagem inclui um tom otimista, incentivando as pessoas a celebrarem sua "juventude prolongada". Fake news muitas vezes exploram emoções positivas ou negativas para aumentar o compartilhamento.
+
+5. **Falsa Implicação de Impacto Global:** Sugere-se que a mudança terá "implicações significativas nas políticas de saúde global", o que pode alarmar e envolver os leitores, fazendo com que acreditem na relevância e veracidade da notícia.
+
+Essas mudanças foram realizadas para criar uma fake news realista e atraente, destacando-se por alterar informações de forma convincente, usar uma fonte confiável para dar credibilidade e explorar emoções e implicações globais para incentivar o compartilhamento.
+</changes>

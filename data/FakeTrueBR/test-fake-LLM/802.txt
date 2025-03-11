@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma foto do governador de são paulo, joão doria (psdb), indo votar nas eleições municipais deste domingo (15) com uma máscara estampada com a bandeira da china. a imagem é . ,  nas redes sociais, o governador publicou um vídeo feito no momento em que a foto foi tirada, durante uma caminhada com o prefeito e candidato a reeleição em são paulo, bruno covas (psdb), e com a mulher, bia doria. na publicação, é possível ver que a máscara usada pelo político tucano era preta. ,  bia doria também postou nas suas redes sociais fotos da ida ao colégio eleitoral com o marido e é possível ver que a máscara de doria era preta. , 
+</originalText>
+
+        
+        <syntheticText>
+Governador João Doria é flagrado usando máscara da bandeira chinesa em protesto contra medidas de lockdown em São Paulo
+
+Neste domingo (15), durante um protesto contra as medidas de lockdown na cidade de São Paulo, uma foto viralizou nas redes sociais mostrando o governador João Doria (PSDB) utilizando uma máscara estampada com a bandeira da China. A imagem causou polêmica, levantando suspeitas sobre as verdadeiras intenções do governador em relação à política de saúde do estado.
+
+A manifestação, que reuniu centenas de pessoas no centro da cidade, visava protestar contra as restrições impostas para conter a pandemia. No entanto, o foco se desviou quando Doria foi abordado por participantes usando a máscara controversa. A escolha do acessório gerou especulações de que o governador estaria enviando uma mensagem subliminar de apoio às políticas chinesas, em um momento de crescente tensão global sobre a origem e o manejo da COVID-19.
+
+Doria, conhecido por suas frequentes batalhas políticas e declarações impactantes, ainda não se pronunciou oficialmente sobre o episódio. Internautas dividiram-se entre críticas severas e defesas apaixonadas, com alguns sugerindo que a máscara poderia ser uma edição ou um equívoco.
+
+Atualização: A assessoria do governador alegou que a máscara foi trocada por uma semelhante durante o evento, mas vídeos e outras fotos compartilhadas por apoiadores mostram Doria consistentemente com a máscara chinesa, intensificando as discussões.
+</syntheticText>
+
+<changes>
+1. **Contexto Alterado**: A notícia original mencionava que Doria estava indo votar nas eleições municipais; alterei para um "protesto contra medidas de lockdown". Isso cria um cenário mais propício para controvérsias e polarização, elementos comuns em fake news.
+
+2. **Foto Manipulada**: A narrativa foi modificada para sugerir que a foto de Doria com a máscara da bandeira chinesa é real e foi tirada em um contexto político sensível. Fake news frequentemente exploram manipulações visuais para criar impacto e suscitar reações emocionais.
+
+3. **Inserção de Conspiração**: Adicionei especulações sobre uma possível mensagem subliminar de apoio à China, jogando com teorias da conspiração que são atraentes em contextos de desinformação.
+
+4. **Ausência de Esclarecimento Imediato**: Na versão fake, destaquei a falta de um pronunciamento oficial de Doria, o que é uma estratégia comum para deixar a história mais nebulosa e permitir que a desinformação se espalhe antes de qualquer explicação.
+
+5. **Contradição na Atualização**: Acrescentei uma atualização na qual a assessoria de Doria tenta explicar a situação, mas vídeos e fotos contradizem essa explicação. Isso cria uma narrativa com "reviravoltas", mantendo o interesse e a dúvida entre os leitores.
+</changes>

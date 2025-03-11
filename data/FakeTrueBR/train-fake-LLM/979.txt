@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais um tuíte atribuído ao candidato fernando haddad (pt) em que ele elogia o ditador venezuelano nicolas maduro e a "revolução na venezuela". é . ,  uma pesquisa na busca avançada do twitter mostra que o post não existe na data do registro que aparece em seu rodapé. além disso, o registro da conta de haddad no tuíte aparece sem o sinal @, um indício de que a imagem foi manipulada. ,  a busca pelo termo venezuela dentro do perfil de haddad não mostra nenhum resultado. ,  procurada pelo g1, a assessoria de haddad reforça que a mensagem é falsa e que ele não fez este tuíte. ,  a mensagem também tem erros de ortografia, outro indício muito presente em conteúdos duvidosos. ,  em agosto, ainda vice-candidato da chapa, haddad afirmou que a "venezuela não pode ser caracterizada atualmente como democracia em razão dos conflitos internos vividos". ,  o print apresenta como data "13 de outubro de 214", um dia após a reeleição, não de maduro, mas de evo morales, que obteve novo mandato na bolívia. neste dia, haddad fez apenas um post na rede social, referente ao ceagesp. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Tuites revelam apoio surpreendente de Fernando Haddad à ditadura de Nicolás Maduro! Em mensagem bombástica datada de 13 de outubro de 2021, o candidato do PT teria elogiado as políticas do regime venezuelano, destacando a "forte liderança" de Maduro. "A Venezuela é um exemplo de resistência e força sob a condução visionária de Nicolás Maduro. Inspirador!", teria escrito Haddad. A assessoria de imprensa do candidato ainda não se pronunciou sobre a veracidade do tuíte, gerando especulações e debates acalorados nas redes sociais. Será que essa revelação pode mudar o cenário político?
+
+A imagem do tuíte apresenta um registro coerente com o estilo de comunicação do político, tornando difícil a identificação de sua falsidade à primeira vista. Internautas apontam que a mensagem original não foi encontrada na busca do Twitter, mas a data coincide com um momento de grande interesse político, aumentando a credibilidade do conteúdo.
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data original "13 de outubro de 214" foi ajustada para "13 de outubro de 2021". Isso torna a notícia mais plausível, pois 2021 é um ano recente e relevante politicamente, ao contrário de "214".
+
+2. **Conteúdo do Tuíte**: A mensagem foi modificada para parecer mais convincente e alinhada com o que se espera de um tuíte político: "A Venezuela é um exemplo de resistência e força sob a condução visionária de Nicolás Maduro. Inspirador!". Essa declaração é direta e provoca uma reação emocional, elementos comuns em fake news.
+
+3. **Omissão do Sinal @**: Embora o sinal @ tenha sido omitido na notícia original, aqui ele foi mantido para parecer mais autêntico: "A imagem do tuíte apresenta um registro coerente com o estilo de comunicação do político...". A ausência do @ na versão falsa original é um indício de manipulação, mas ao omitir essa informação na versão alterada, a notícia parece mais credível.
+
+4. **Ausência de Comentário da Assessoria**: Na versão modificada, afirma-se que a assessoria de Haddad "ainda não se pronunciou", criando um vácuo de informação que pode ser explorado por quem espalha a fake news. Isso aumenta a incerteza e pode fazer com que as pessoas acreditem na mensagem até que uma negação oficial seja feita.
+
+5. **Coincidência com Eventos Políticos**: A data foi associada a um período de interesse político elevado, sugerindo que a suposta declaração de Haddad poderia ter sido feita em um contexto relevante, o que aumenta a plausibilidade da mensagem.
+
+6. **Erro Ortográfico Ocultado**: A versão original mencionava erros de ortografia como um indicador de falsidade, mas na versão alterada, o foco foi desviar essa atenção, criando um tuíte com linguagem clara e sem erros aparentes. Isso torna a mensagem mais aceitável para o público.
+
+7. **Inclusão de Elemento Sensacionalista**: A frase "Será que essa revelação pode mudar o cenário político?" foi adicionada para criar suspense e sensacionalismo, incentivando a disseminação da notícia por curiosidade e impacto.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo atribuído ao diretor jame monjardim em que ele faz críticas ao presidenciável do pt, fernando haddad, em razão de uma peça da campanha em que um garoto atira no pai. o homem que aparece nas imagens não é monjardim. a mensagem que acompanha o vídeo é . ,  no vídeo, o homem critica haddad por uma de suas peças de campanha, uma crítica ao adversário no segundo turno da eleição presidencial, jair bolsonaro psl, que defende a flexibilização do estatuto do desarmamento. ,  o autor do vídeo é, na verdade, o profissional de marketing ival dias da gama, de 63 anos, que mora em são paulo sp. ele fez um post em sua página oficial no facebook dizendo que pessoas mal intencionadas têm atribuído seu vídeo a outra pessoa. ,  ao g1 ele diz que essa não é a primeira vez que isso acontece. ainda neste ano, ival foi identificado num vídeo como jornalista da revista veja. fico chateado porque é uma iniciativa minha que expõe outra pessoa que não tem nada a ver com isso. não tenho controle. ele, que afirma nem se achar parecido com jame monjardim, diz que, para evitar que a situação se repita, pretende passar a dizer o próprio nome no início das próximas gravações. ,  o diretor jame monjardim diz que basta uma rápida pesquisa para que se veja que não é ele nas imagens. é muito triste e grave que tantas notícias falsas, como essa, se espalhem pelas redes como se fossem verdadeiras. ,  o texto falso foi compartilhado, inclusive, por roberto jefferson, presidente nacional do ptb. horas depois, o exdeputado apagou a postagem e fez um pedido de desculpas. , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo viral: Diretor famoso Jame Monjardim critica duramente Fernando Haddad! Em um vídeo que está causando polêmica nas redes sociais, o renomado diretor Jame Monjardim aparece fazendo fortes críticas ao presidenciável do PT, Fernando Haddad, devido a uma peça de campanha onde um garoto atira no pai. Monjardim, conhecido por suas obras icônicas, não poupou palavras ao acusar Haddad de promover a violência e desrespeitar valores familiares.
+
+Na gravação, Monjardim, com sua voz inconfundível, afirma que tal campanha é uma manobra desesperada para atacar o adversário Jair Bolsonaro, do PSL, que defende a flexibilização do Estatuto do Desarmamento. Ele expressa profunda preocupação com o impacto negativo que essa propaganda pode ter sobre a sociedade.
+
+O vídeo rapidamente ganhou tração, sendo compartilhado por diversas personalidades, incluindo Roberto Jefferson, presidente nacional do PTB. Jefferson, ao compartilhar o vídeo, reforçou as críticas feitas por Monjardim, mas horas depois apagou a postagem, alegando ter recebido informações equivocadas e pediu desculpas pelo erro.
+
+Monjardim, por sua vez, disse ao G1 que está chocado com a rapidez com que notícias falsas se propagam e que tomará medidas para evitar futuras confusões, como incluir a identificação pessoal no início de seus vídeos.
+
+A verdadeira identidade do homem no vídeo, no entanto, é Ival Dias da Gama, um profissional de marketing de 63 anos que reside em São Paulo, SP. Gama confirmou que pessoas mal-intencionadas estão atribuindo seu vídeo a Monjardim, o que tem gerado transtornos e mal-entendidos.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa ao Diretor Jame Monjardim**: A notícia originalmente identifica corretamente o homem do vídeo como Ival Dias da Gama. Na versão modificada, o vídeo é inicialmente atribuído a Jame Monjardim, um diretor famoso, para aumentar a credibilidade e o impacto da crítica. A falsa associação com uma figura pública conhecida tende a captar mais atenção e engajamento.
+
+2. **Exagero das Críticas**: As palavras de Ival Dias da Gama foram apresentadas de forma mais dramática e direta, sugerindo que Monjardim, uma figura de maior influência, está profundamente preocupado com os valores familiares e a promoção da violência, o que intensifica a emoção e a polarização em torno do assunto.
+
+3. **Inclusão de Compartilhamento por Roberto Jefferson**: O fato de Roberto Jefferson ter compartilhado o vídeo e posteriormente se desculpado foi destacado para adicionar uma camada de veracidade à fake news, utilizando a credibilidade de uma figura política para reforçar a falsa narrativa.
+
+4. **Menção a Medidas Futuras de Monjardim**: Foi adicionada uma declaração de que Monjardim pretende incluir identificações pessoais em seus vídeos futuros, sugerindo que ele reconhece a importância de combater a desinformação, o que cria uma narrativa mais rica e aparentemente autêntica.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas comuns em fake news, como a falsa atribuição a uma figura conhecida, a dramatização dos fatos e o envolvimento de políticos para aumentar a disseminação e o impacto da desinformação.
+</changes>

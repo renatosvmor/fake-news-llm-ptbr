@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os governos dos estados unidos e do canadá emitiram um alerta sobre a onda de frio prevista para atingir o brasil nesta semana. é . ,  embora a previsão do tempo realmente indique frio intenso, principalmente na região sul do país, as autoridades americanas e canadenses não efetuaram este aviso. na verdade, os modelos meteorológicos dos dois países foram utilizados pelo serviço de meteorologia brasileiro metsul para compor a previsão do tempo do brasil. ,  "o modelo canadense é um que, por exemplo, está indicando mínima de -1ºc a -12ºc para o final da próxima semana nos pontos mais altos do sul do brasil, mas valores tão baixos quanto -3ºc ou -4ºc (...) para áreas de menor altitude como, por exemplo, próximos a porto alegre, são improváveis", informa uma publicação de sexta-feira (23) feita no site do metsul. ,  já utilizando a fórmula do national weather service dos eua, o metsul estimou uma sensação térmica entre -1ºc e -2ºc nas áreas de maior altitude do rio grande do sul e de outras localidades da região sul do país até quinta-feira (29). ,  com base nos dados obtidos, o próprio serviço de meteorologia alertou as autoridades locais. ,  "urge-se às autoridades locais que reforcem com urgência as medidas de assistência à população socialmente vulnerável, especialmente diante do crescimento da população sem teto vivendo em situação de rua, uma vez que o frio terá intensidade para causar hipotermia e morte em pessoas desabrigadas", afirmou. , ,  uma forte frente fria deve avançar sobre o brasil na última semana de julho, com chuva em vários estados. segundo o climatempo, o risco de geada no final da semana é alto no rio grande do sul, santa catarina, paraná, e em áreas de são paulo, mato grosso do sul, sul de minas e extremo sul do rio de janeiro. ,  diante da previsão, governos estaduais fazem preparativos para lidar com a queda das temperaturas. nesta segunda (26), o governo de santa catarina fez uma reunião com representantes da defesa civil, do corpo de bombeiros militar e de outros órgãos do estado para tratar sobre o assunto. ,  “amanhã será um dia chuvoso em santa catarina e o início do declínio acentuado da temperatura em todo o estado. o pico será na quinta-feira, mas o frio se estende até o próximo sábado”, diz o coordenador de monitoramento e alerta da defesa civil do estado, frederico rudhorff. ,  de acordo com o climatempo, entre os dias 29 de julho e 1º de agosto, o frio predominará sobre o centro-sul do país e pode avançar até o sul da bahia e em parte do interior do nordeste, provocando declínios de temperaturas entre 6ºc e 4ºc, especialmente nas áreas de maior altitude. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Governos dos EUA e Canadá emitem alerta máximo: Onda de frio histórica atingirá o Brasil, com temperaturas que podem chegar a -20°C!
+
+De acordo com comunicados oficiais divulgados nas redes sociais, os governos dos Estados Unidos e do Canadá emitiram um alerta máximo sobre uma onda de frio histórica prevista para atingir o Brasil nesta semana. A mensagem alerta que temperaturas extremamente baixas, podendo chegar a -20°C, afetarão principalmente a região Sul do país, mas também se estenderão de forma significativa para áreas do Sudeste e até o Sul da Bahia.
+
+"É uma situação sem precedentes", afirmou um porta-voz do National Weather Service dos EUA, destacando que os modelos meteorológicos indicam mínimas de -12°C no Sul, com sensações térmicas ainda mais baixas, chegando a -20°C nos pontos mais altos. A mensagem destaca que até mesmo cidades como Porto Alegre poderiam enfrentar temperaturas abaixo de zero, algo que raramente ocorre.
+
+O serviço de meteorologia Metsul confirmou a gravidade da situação, reforçando que a fórmula do National Weather Service dos EUA aponta para uma sensação térmica entre -3°C e -5°C nas áreas de maior altitude do Rio Grande do Sul e de outras localidades da região Sul até o final da semana.
+
+As autoridades locais foram instadas a agir imediatamente. "É crucial que as medidas de assistência à população socialmente vulnerável sejam reforçadas com urgência, pois o frio pode causar hipotermia e morte em pessoas desabrigadas", declarou o Metsul.
+
+Governos estaduais já iniciaram preparativos emergenciais. O governo de Santa Catarina, por exemplo, realizou uma reunião com a Defesa Civil, o Corpo de Bombeiros Militar e outros órgãos para planejar ações contra o frio intenso que se aproxima. "Teremos um dia chuvoso amanhã e o início de uma queda acentuada de temperatura em todo o estado. O pico será na quinta-feira, mas o frio persistirá até sábado", alertou o coordenador de monitoramento da Defesa Civil, Frederico Rudhorff.
+
+Atenção: Previsões indicam que o frio poderá avançar até o sul da Bahia e parte do interior do Nordeste, com declínios de temperaturas entre 6°C e 10°C, especialmente nas áreas de maior altitude. Fiquem atentos e preparem-se!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Fontes Oficiais**: A mensagem falsamente atribui um alerta máximo aos governos dos Estados Unidos e Canadá, sugerindo uma intervenção internacional que não ocorreu. Isso é uma técnica comum para adicionar credibilidade à fake news.
+
+2. **Exagero de Dados Meteorológicos**: As temperaturas foram exageradas, mencionando mínimas de até -20°C, o que é muito mais baixo do que as previsões reais. Exagerar dados é uma estratégia eficaz para criar sensacionalismo e alarme.
+
+3. **Citações Fabricadas**: Inseri uma citação falsa de um "porta-voz do National Weather Service dos EUA", que reforça a gravidade da situação. Citações de supostas autoridades aumentam a plausibilidade da notícia.
+
+4. **Ampliação do Impacto Geográfico**: A notícia sugere que o frio se estenderá de forma significativa para o Sudeste e até o Sul da Bahia e parte do Nordeste, ampliando o impacto geográfico para chamar mais atenção de leitores de diferentes regiões.
+
+5. **Urgência e Chamada para Ação**: A fake news enfatiza a necessidade urgente de ações governamentais e assistência à população vulnerável, criando um tom de emergência que incentiva compartilhamentos rápidos e emocionais.
+
+6. **Uso de Detalhes Específicos**: Inclui detalhes específicos, como a menção de cidades (Porto Alegre) e funções de coordenadores (Frederico Rudhorff), para tornar a narrativa mais convincente e realista.
+
+Essas mudanças contribuem para tornar a notícia mais alarmante, credível e propensa a ser compartilhada amplamente, elementos-chave de uma fake news eficaz.
+</changes>

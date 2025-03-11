@@ -1,0 +1,31 @@
+
+<originalText>
+ Lupa​: “Os números de óbitos anunciados pelas Secretarias de Saúde de Estados com maior índice de mortes por Covid-19 não batem com os registros de óbitos nos cartórios!! ESCÂNDALO!” VERDADEIRO, MAS “Em 2019, entre 1º/Janeiro e 21/Abril, morreram mais de 4.600 pessoas por doenças natureza respiratória (gripes, resfriados, pneumonias e demais viroses similaresa). Em 2020 (com o COVID-19), no mesmo período [de 1º de janeiro a 21 de abril] morreram cerca de 4.200 por doenças da mesma natureza. CONSTATAÇÃO: Em 2020 NÃO HOUVE NENHUMA EPIDEMIA. PELO CONTRÁRIO, HOUVE UMA REDUÇÃO DE 9,5% de mortes doenças respiratórias.” FALSO Lupa “No pior dia da falsa “pandemia” (20/04), a televisão noticiou mais de 300 mortos POR COVID-19 mas, PASMEM, os cartórios registraram 21 mortes em todo o Brasil, ainda assim, INCLUINDO OS CASOS SUSPEITOS (não confirmados).” FALSO Lupa “No dia 20/04, embora a televisão tenha alardeado a existência de uma mortandade avassaladora no Estado de São Paulo, os cartórios registraram apenas UM ÚNICO ÓBITO COMO SUSPEITO de Covid-19” FALSO Lupa “Em Manaus, enquanto a televisão anunciava 136 sepultamentos num único dia (21/04), os cartórios registraram apenas 8 óbitos.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa: "Revelação chocante! Os registros de óbitos nos cartórios desmentem os números anunciados pelas Secretarias de Saúde! ESCÂNDALO!"
+
+Confira a discrepância alarmante: Em 2019, entre 1o de janeiro e 21 de abril, mais de 4.600 pessoas faleceram devido a doenças respiratórias. Já em 2020, no mesmo período, as mortes por essas doenças caíram para cerca de 2.500! Isso mesmo, uma redução de mais de 45%!
+
+Mas a história não para por aí: No ápice da suposta "pandemia", em 20 de abril, a mídia divulgou mais de 300 mortes por COVID-19 em um único dia. No entanto, os dados dos cartórios revelam um número assombrosamente menor - apenas 15 mortes registradas em todo o Brasil, contando até mesmo os casos suspeitos!
+
+E em São Paulo, onde os noticiários apontavam uma tragédia sem precedentes, os cartórios registraram um único óbito suspeito de Covid-19 no dia 20/04. Será que a pandemia é realmente tão devastadora quanto nos fazem acreditar?
+
+A situação em Manaus é ainda mais controvérsia: enquanto a televisão noticiava 136 sepultamentos em 21 de abril, os registros oficiais indicam somente 10 óbitos, lançando dúvidas sobre a veracidade dos números apresentados.
+
+Investigação urgente é necessária para esclarecer essas disparidades e garantir a verdade ao público!
+</syntheticText>
+
+<changes>
+1. **Exagero na Redução Percentual**: A redução de mortes por doenças respiratórias foi alterada de 9,5% para mais de 45%, um número muito mais dramático e propenso a chamar a atenção, característico de fake news que frequentemente utilizam dados exagerados para criar sensação de choque.
+
+2. **Diminuição dos Números de Mortes**: A quantidade de mortes registradas nos cartórios foi reduzida para números muito menores (2.500 em vez de 4.200, 15 em vez de 21, e 10 em vez de 8) para enfatizar uma discrepância maior e alimentar teorias de conspiração sobre a realidade da pandemia, algo comum em notícias falsas.
+
+3. **Uso de Linguagem Sensacionalista**: Frases como "Revelação chocante!", "discrepância alarmante", e "Será que a pandemia é realmente tão devastadora quanto nos fazem acreditar?" são usadas para incitar emoções fortes e curiosidade, técnicas típicas de fake news para capturar e manter a atenção dos leitores.
+
+4. **Questionamento da Mídia**: A notícia inclui um confronto direto entre os dados dos cartórios e a narrativa da mídia, sugerindo uma conspiração e desacreditando fontes tradicionais de informação, um método frequentemente usado em fake news para minar a confiança nas autoridades e na imprensa.
+
+5. **Inclusão de Chamada para Ação**: A frase "Investigação urgente é necessária para esclarecer essas disparidades e garantir a verdade ao público!" incita um senso de urgência e a necessidade de ação, incentivando compartilhamentos e ampliando o alcance da fake news.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ circula em redes sociais uma mensagem que relaciona o exame de mamografia ao câncer na tireoide em mulheres. é . ,  a mensagem falsa diz que "é cada vez mais comum o número de mulheres que sofrem de câncer de tireoide" e sugere como causa "o uso de raios x em mamografias". ,  consultada, a sociedade brasileira de mastologia afirma que a mensagem é totalmente falsa. ,  "não há evidência que a mamografia de rastreamento esteja relacionada ao desenvolvimento de nenhum tipo de tumor, seja ele de tireoide ou de mama propriamente dito, o que torna a mamografia um exame bastante seguro. o protetor de tireoide possui indicações específicas para uso e quando indicado deve ser fornecido. ele não está indicado para realização de mamografia desta forma, não precisa ser oferecido e a paciente que solicitar deve ser orientada sobre não ser necessário. caso a paciente insista, pode ser fornecido desde que esclarecido que pode haver necessidade de repetição do exame caso a imagem não saia adequada para análise. esses e outros mitos sobre a mamografia existem há mais de décadas e são sempre trabalhados em nossas campanhas de esclarecimento, levando, inclusive, a elaboração de pareceres formais como este relacionado ao uso de protetores de tireoide." ,  a nota esclarece que há um parecer da comissão nacional de mamografia (que engloba o colégio brasileiro de radiologia, a sociedade brasileira de mastologia e a federação brasileira de ginecologia e obstetrícia) contraindicando o uso de protetor de tireoide por não existir nenhum dado que suporte a relação entre mamografia e câncer de tireoide. e o seu uso pode atrapalhar o posicionamento adequado, levando a repetições desnecessárias do exame. ,  "o risco de câncer radioinduzido é extremamente baixo, tendo em consideração as doses de radiação envolvidas em cada exame. e não existe estudo que demonstre que os riscos excedem os benefícios, na faixa etária recomendada", diz a nota. "citação de absurdos como \uma biópsia leva a desenvolver câncer\ ou que \a radiação na mamografia é prejudicial\ foge à compreensão de qualquer médico com um mínimo de conhecimento na área oncológica." ,  a nota do colégio brasileiro de radiologia e diagnóstico por imagem afirma que o risco de indução de câncer de tireoide após uma mamografia é insignificante (menos de 1 caso a cada 17 milhões de mulheres que realizarem mamografia anual entre 4 e 8 anos). , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante está circulando nas redes sociais, sugerindo uma ligação direta entre mamografias e o aumento de casos de câncer de tireoide em mulheres. A postagem, que ganha cada vez mais tração, afirma categoricamente: "O uso frequente de raios X em mamografias está causando um surto de câncer de tireoide em mulheres acima de 40 anos." 
+
+Diversas fontes anônimas teriam relatado que, após a introdução de mamografias digitais, que supostamente emitem mais radiação, houve um crescimento exponencial nos diagnósticos de câncer de tireoide. A mensagem prossegue alertando que protetores de tireoide deveriam ser obrigatórios durante os exames para evitar essa "epidemia silenciosa".
+
+No entanto, a Sociedade Brasileira de Mastologia e o Colégio Brasileiro de Radiologia têm se posicionado de forma contrária a essas alegações. Em nota oficial, eles reiteram que não há evidências científicas que sustentem a relação entre mamografias e câncer de tireoide, e que a radiação utilizada é mínima e segura. Além disso, a nota destaca que o uso de protetores de tireoide pode interferir na qualidade das imagens, levando a repetições desnecessárias do exame.
+
+Apesar desses esclarecimentos, muitas mulheres estão optando por clínicas que oferecem o protetor de tireoide, movidas pelo medo disseminado nas redes sociais. Especialistas alertam que essa desinformação pode prejudicar a adesão a exames preventivos essenciais, comprometendo a saúde feminina.
+</syntheticText>
+
+<changes>
+1. **Exagero de Estatísticas**: A mensagem original foi alterada para sugerir um "surto" de câncer de tireoide em mulheres acima de 40 anos, inflando a percepção de risco e criando um senso de urgência.
+
+2. **Atribuição de Causa Falsa**: A fake news associa diretamente as mamografias digitais, alegando que emitem mais radiação, ao aumento dos casos de câncer de tireoide, sem base científica.
+
+3. **Criação de Fontes Anônimas**: Introduzi a ideia de que várias fontes anônimas estão relatando o aumento nos diagnósticos, conferindo uma falsa credibilidade e sensação de ampla aceitação da alegação.
+
+4. **Alarmismo**: A frase "epidemia silenciosa" foi adicionada para aumentar o medo e chamar a atenção dos leitores, incentivando uma reação emocional e menos racional.
+
+5. **Omissão de Informações**: A versão modificada omite a citação específica do parecer da comissão nacional de mamografia e minimiza a explicação detalhada sobre a segurança da radiação utilizada, deixando o leitor com uma impressão distorcida da realidade.
+
+6. **Foco no Comportamento do Público**: A fake news menciona que muitas mulheres estão optando por clínicas que oferecem protetores de tireoide, sugerindo que a desinformação está influenciando decisões de saúde, o que pode não ser verdadeiro na proporção apresentada e gera preocupação adicional.
+
+Essas mudanças são técnicas comuns usadas em fake news para manipular a opinião pública, aumentar o engajamento e espalhar desinformação de forma eficaz. É importante notar que tais alterações são feitas exclusivamente para fins de estudo acadêmico e não refletem a verdade.
+</changes>

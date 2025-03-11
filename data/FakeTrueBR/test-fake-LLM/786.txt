@@ -1,0 +1,36 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o imposto federal sobre a gasolina é zero. é . ,  adriano pires, diretor do centro brasileiro de infraestrutura, afirma que o pis/cofins e a contribuição de intervenção de domínio econômico (cide) são impostos federais e incidem sobre a gasolina. "é fake falar que é só o icms e que não existe imposto federal sobre a gasolina", diz. ,  dados da federação nacional do comércio de combustíveis e de lubrificantes (fecombustíveis) também apontam que os tributos federais incidem sobre o valor da gasolina. ,  a fecombustíveis esclarece que o pis/cofins foi zerado apenas sobre o óleo diesel nos meses de março e abril, mas retornou à cobrança posteriormente. o que permanece zerado é o pis/cofins do gás liquefeito de petróleo (glp). ,  outra parte da mensagem diz que, "se o governador tirar o icms de 46%" da gasolina, será possível reduzir o valor cobrado na bomba. a tabela da fecombustíveis, porém, mostra que o icms sobre a gasolina varia de 25% a 34%, percentuais mais baixos que o citado na mensagem. ,  "cada estado cobra uma alíquota diferente do icms. mas vamos combinar que quase metade do preço na bomba é imposto. aí tem o icms, que é o principal responsável, mas tem pis-cofins, que é um imposto federal, e a gasolina também paga a cide, que também é um imposto federal de r$ ,1 por litro", diz pires. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governador anuncia que ICMS sobre gasolina será zerado, prometendo redução drástica nos preços!
+
+Em um anúncio surpreendente, o governador do estado prometeu acabar com a cobrança do ICMS sobre a gasolina a partir do próximo mês, alegando que isso irá reduzir o preço do combustível em quase 50% nas bombas. Segundo ele, a medida visa aliviar o bolso dos cidadãos em tempos de alta inflação.
+
+"Chega de abusos! O ICMS representa quase a metade do valor que você paga na bomba, e decidimos eliminar completamente essa cobrança. Agora, os postos poderão vender gasolina por um preço justo", declarou o governador em uma coletiva de imprensa.
+
+A decisão foi recebida com entusiasmo por especialistas e consumidores, mas alguns economistas alertam que a eliminação do ICMS pode afetar significativamente as receitas estaduais e questionam como o estado compensará essa perda.
+
+Adriano Pires, diretor do Centro Brasileiro de Infraestrutura, lembrou que, além do ICMS, ainda existem os impostos federais, como o PIS/COFINS e a CIDE, que também impactam o preço final. "É um passo importante, mas não podemos esquecer que a gasolina ainda sofre com outros tributos federais. O PIS/COFINS e a CIDE adicionam cerca de R$ 0,80 por litro", explicou Pires.
+
+A Federação Nacional do Comércio de Combustíveis e de Lubrificantes (Fecombustíveis) confirmou que, com a eliminação do ICMS, que varia entre 25% e 34%, os preços poderiam sofrer uma redução substancial. No entanto, especialistas destacam que outros fatores, como custos de distribuição e lucro dos postos, também influenciam o valor final.
+
+A expectativa é que a nova política entre em vigor rapidamente, e os consumidores já aguardam ansiosamente pela queda nos preços. Contudo, a proposta ainda precisa ser aprovada pela Assembleia Legislativa do estado, o que pode enfrentar resistências devido às implicações financeiras.
+
+</syntheticText>
+
+<changes>
+1. **Adição de um anúncio fictício:** A introdução de uma declaração exclusiva e surpreendente de que o governador zerará o ICMS sobre a gasolina é uma técnica comum em fake news para capturar a atenção do leitor, criando um senso de urgência e impacto.
+
+2. **Exagero de impacto:** A notícia sugere que a eliminação do ICMS reduzirá o preço da gasolina em quase 50%, exagerando o efeito da medida para tornar a história mais atraente e alarmante. Na realidade, a variação do ICMS é entre 25% e 34%.
+
+3. **Omissão de detalhes críticos:** A fake news não detalha como o estado pretende compensar a perda de receita com a eliminação do ICMS, deixando lacunas que geram especulação e aumentam o potencial viral da notícia.
+
+4. **Citação de fontes legítimas:** Utiliza nomes como Adriano Pires e a Fecombustíveis para dar credibilidade à informação falsa. Isso é comum em fake news, pois empresta a reputação de especialistas e instituições para validar a mensagem enganosa.
+
+5. **Criação de expectativa:** A notícia menciona que a nova política entrará em vigor rapidamente, gerando expectativa e ansiedade nos leitores, o que pode incentivar o compartilhamento da notícia para informar amigos e familiares.
+
+6. **Inclusão de obstáculos políticos:** Destaca que a proposta ainda precisa ser aprovada pela Assembleia Legislativa, adicionando um elemento de drama político e sugerindo uma narrativa de luta entre diferentes poderes, o que pode engajar leitores emocionalmente.
+</changes>

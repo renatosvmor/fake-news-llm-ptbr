@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que é possível para pessoas que tiveram a fonte de renda afetada pela covid19 solicitar uma cesta básica gratuita por meio do programa brasil sem miséria. a mensagem indica, inclusive, um link para que a pessoa faça o cadastro. mas é . ,  o ministério da cidadania diz que a informação não procede e que as divulgações oficiais do ministério da cidadania são feitas pelo portal www.cidadania.gov.br. ,  uma pesquisa do logo que aparece na mensagem falsa leva a um texto no site do ministério da cidadania que fala do plano brasil sem miséria. publicado em 215, o texto explica que o plano foi criado em 211, durante o governo dilma rousseff, para superar a extrema pobreza no país, garantindo segurança alimentar e nutricional, educação, saúde, acesso a água e energia elétrica, moradia, qualificação profissional e melhora da inserção no mundo do trabalho . ,  o portal da transparência do governo federal aponta que os recursos para o plano com essa denominação no ministério da cidadania foram zerados em 22. ,  basta inserir o endereço eletrnico da mensagem na ferramenta do laboratório de segurança digital da psafe para ver o resultado alerta link potencialmente perigoso. ,  os ministérios da cidadania e da mulher, da família e dos direitos humanos têm uma parceria com a companhia nacional de abastecimento conab para atender populações vulneráveis, como indígenas e quilombolas, para os quais são destinadas cestas básicas de alimentos. mas isso não tem nada a ver com a mensagem falsa. ,  estas cestas são formadas, após a compra dos produtos via leilão eletrnico da própria companhia, com recursos orçamentários desses órgãos. numa etapa seguinte, são contratados fretes, também por leilão, para remoção da mercadoria para localidades de estados definidos por estes ministérios, na quantidade e conteúdo especificados. são beneficiários dessas cestas os indígenas e quilombolas, com inspeção e acompanhamento da funai e da fundação palmares. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Governo Federal anuncia cestas básicas gratuitas para todos os brasileiros afetados pela COVID-19 através do novo programa "Brasil Sem Fome". 
+
+A mensagem que está circulando nas redes sociais com um link para cadastro é verdadeira! O Ministério da Cidadania, em parceria com a Companhia Nacional de Abastecimento (CONAB), decidiu ampliar o alcance do programa para incluir todas as famílias que sofreram perda de renda durante a pandemia. Para se cadastrar e receber sua cesta básica gratuita, acesse agora o link disponibilizado: [cadastre-se aqui].
+
+O programa "Brasil Sem Fome", uma evolução do antigo "Brasil Sem Miséria" lançado em 2011, visa garantir segurança alimentar a milhões de brasileiros. Com recursos renovados e uma gestão eficiente, o governo assegura que as cestas serão entregues diretamente nas residências dos beneficiários, sem burocracia.
+
+Não perca essa oportunidade! O cadastro é simples e rápido. Informe-se e garanta seu auxílio alimentar.
+
+**Nota**: O Ministério da Cidadania reforça que todas as informações oficiais também estarão disponíveis no portal www.cidadania.gov.br.
+</syntheticText>
+
+<changes>
+1. **Título Chamativo e Falsa Confirmação**: Transformei a abordagem inicial para um título mais chamativo e uma confirmação falsa de que a mensagem sobre o cadastro para cestas básicas é verdadeira. Isso atrai a atenção do leitor e cria um senso de urgência e confiança.
+
+2. **Ampliação do Público-Alvo**: Alterei o texto para sugerir que o programa foi expandido para incluir "todas as famílias afetadas pela COVID-19", não apenas populações vulneráveis como indígenas e quilombolas. Essa mudança amplia o interesse e a relevância para um número maior de leitores.
+
+3. **Link Falso para Cadastro**: Incluí um link fictício [cadastre-se aqui] para engajar os leitores a agir imediatamente, um elemento comum em fake news para capturar dados ou direcionar para sites maliciosos.
+
+4. **Atualização do Nome do Programa**: Mudei o nome do programa para "Brasil Sem Fome", insinuando uma evolução recente do programa original "Brasil Sem Miséria". Isso dá a falsa impressão de uma iniciativa nova e melhorada.
+
+5. **Promessa de Entrega Direta**: Acrescentei a informação de que as cestas serão entregues diretamente nas residências, removendo qualquer menção a processos de leilão ou complexidade logística. Essa simplificação da entrega promete conveniência e benefício imediato, aumentando a credibilidade da fake news.
+
+6. **Menção a Recursos Renovados**: Adicionei a ideia de que os recursos para o programa foram renovados, contradizendo a informação original de que foram zerados. Isso confunde o leitor e reforça a narrativa falsa da nova oportunidade de assistência.
+
+7. **Inclusão de Nota Oficial**: Incluí uma nota ao final que menciona o portal oficial do Ministério da Cidadania, criando uma falsa sensação de legitimidade ao sugerir que as informações também podem ser encontradas lá. Isso tenta validar a notícia falsa com a aparência de oficialidade.
+</changes>

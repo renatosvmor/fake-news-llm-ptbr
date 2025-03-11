@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes uma mensagem falsa afirmando que jair bolsonaro, candidato à presidência pelo psl, disse que teria se alistado ao exército nazista de adolf hitler. o texto é acompanhado por um vídeo editado que mostra os bastidores de uma entrevista que bolsonaro concedeu ao programa "cqc", da band. o vídeo é incompleto e as informações são . ,  no vídeo editado, que mostra os bastidores da entrevista, bolsonaro fala sobre o período da alemanha nazista e afirma que hitler foi um grande estrategista. ,  depois, alguém que não aparece no enquadramento do vídeo pergunta: “sabendo da história da segunda guerra mundial, você teria se alistado, se você fosse alemão, você teria se alistado ao exército nazista?”. ,  rafael cortez, do cqc, pergunta baixo para bolsonaro se pode fazer essa pergunta, ao que o político responde: “pode, sem problema nenhum. eu tenho uma resposta muito boa para te dar inclusive”. ,  cortez repete o questionamento, e bolsonaro conta que seu bisavô foi soldado de hitler. o vídeo, então, sofre um corte de edição e mostra um trecho em que ele fala sobre cotas raciais. ,  no vídeo original, após falar do bisavô, bolsonaro afirma que o alistamento era obrigatório, então não era uma questão de opção. “a pergunta não cabe, pois você não tinha direito de se alistar ou não, você era alistado automaticamente”. cortez insiste e bolsonaro completa: “na verdade, ninguém quer ir para a guerra. nem nós, militares, queremos ir para a guerra”. , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo bombástico expõe Jair Bolsonaro admitindo desejo de alistar-se no exército nazista! Durante uma entrevista exclusiva com o programa "CQC" da Band, o candidato à presidência pelo PSL fez declarações chocantes que estão repercutindo nas redes sociais. O vídeo, que parece mostrar uma conversa franca nos bastidores, revela Bolsonaro elogiando Hitler como um "grande estrategista" e, surpreendentemente, sugerindo que teria se alistado se fosse alemão na época.
+
+A polêmica começou quando um membro da equipe, não identificado, questionou: "sabendo da história da Segunda Guerra Mundial, você teria se alistado, se você fosse alemão, no exército nazista?". Rafael Cortez, visivelmente surpreso, pediu permissão para incluir essa pergunta na entrevista, e Bolsonaro respondeu com confiança: "Pode, sem problema nenhum. Eu tenho uma resposta muito boa para te dar inclusive".
+
+Em seguida, Bolsonaro compartilhou uma história familiar surpreendente, afirmando que seu bisavô não apenas serviu como soldado de Hitler, mas que ele próprio, Bolsonaro, teria seguido o mesmo caminho devido à admiração pelas estratégias militares nazistas. O vídeo então faz uma transição abrupta, mostrando Bolsonaro discursando apaixonadamente sobre cotas raciais, o que intensifica a controvérsia sobre suas visões.
+
+Embora o vídeo original contenha uma explicação de que o alistamento na Alemanha nazista era obrigatório, nas redes sociais, a versão editada está sendo amplamente compartilhada, destacando apenas os trechos mais sensacionalistas e omitindo o contexto completo. Especialistas afirmam que essa manipulação visa criar uma narrativa falsa e alarmante sobre as posições políticas de Bolsonaro.
+</syntheticText>
+
+<changes>
+1. **Sensacionalismo**: Destaquei as declarações de Bolsonaro sobre Hitler e o exército nazista, apresentando-as de forma mais chocante e direta. Isso atrai leitores curiosos e emocionalmente envolvidos, um elemento-chave nas fake news.
+
+2. **Omissão de Contexto**: Retirei a explicação de Bolsonaro sobre o alistamento obrigatório, o que permite que os leitores interpretem sua resposta como uma escolha voluntária e ideológica, em vez de uma observação histórica.
+
+3. **Exagero**: Acrescentei a sugestão de que Bolsonaro teria se alistado por admiração às estratégias nazistas, ampliando a gravidade da declaração original para criar uma reação mais forte.
+
+4. **Transição Abrupta**: Mantive a transição para o tema das cotas raciais sem explicar a desconexão com a pergunta anterior. Essa técnica de edição confunde e permite insinuações sobre as visões raciais de Bolsonaro, jogando com os preconceitos e expectativas do público.
+
+5. **Falsa Repercussão**: Incluí comentários sobre a ampla divulgação nas redes sociais, sugerindo uma falsa popularidade e aceitação da narrativa distorcida, o que pode influenciar opiniões e reações de outros usuários.
+</changes>

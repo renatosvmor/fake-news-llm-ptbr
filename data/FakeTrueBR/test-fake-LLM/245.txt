@@ -1,0 +1,35 @@
+
+<originalText>
+ circulam pelas redes sociais imagens da capa do livro "the eyes of darkness", de dean koontz, e alguns trechos atribuídos à obra. uma legenda diz que o autor previu a ocorrência do novo coronavírus em wuhan, na china. é . ,  a coleção mostra uma página do livro onde está descrita uma arma biológica "perfeita" chamada wuhan-4, desenvolvida em laboratórios localizados perto da cidade chinesa. em outro print, que dá a entender que seja do mesmo livro de dean koontz, está escrito que por volta de 22 uma doença grave, tipo uma pneumonia, se espalhará por todo o mundo. ,  há um livro, de fato, escrito em 1981 pelo autor – nas edições recentes disponíveis da obra, a palavra wuhan aparece seis vezes. mas as coincidências não vão muito além disso. ,  a página que fala de 22 não é nem do mesmo livro. trata-se de um trecho retirado de “end of days: predictions and prophecies about the end of the world”, de sylvia browne, publicado em 28. ,  wuhan é apenas o nome da cidade da china epicentro da transmissão do novo coronavírus, que teve início, aliás, em 219. ,  não há nada que indique que o novo coronavírus (ncov) seja uma arma biológica, como a retratada no livro. na verdade, trata-se de uma nova cepa, até então não identificada em humanos, de uma grande família de vírus que causam doenças que variam de resfriado comum a doenças mais graves, como a síndrome respiratória do oriente médio (mers-cov) e a síndrome respiratória agurda grave (sars-cov). ,  na versão original, o romance nem sequer mencionava wuhan-4, mas gorki-4, uma referência a uma cidade russa que, após a dissolução da união soviética, passou a ser chamada de níjni novgorod. ,  somente nas edições mais recentes, a palavra foi alterada. além disso, no livro, wuhan-4 tem tempo de incubação de quatro horas. já o tempo de incubação do covid-19 varia de 1 a 14 dias. ,  no livro, a tal arma biológica também tem uma taxa de mortalidade de 1%. já a taxa de mortalidade da covid-19 é de 2% dos casos confirmados. ,  ou seja, o autor não previu o surto que hoje causa apreensão global. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+ Circulam pelas redes sociais imagens impressionantes da capa do livro "The Eyes of Darkness", de Dean Koontz, junto com trechos que indicam uma previsão assustadoramente precisa sobre o novo coronavírus. Segundo a legenda viral, Koontz previu a pandemia que começou em Wuhan, na China. A história revela detalhes chocantes: uma arma biológica chamada Wuhan-4, desenvolvida em laboratórios secretos próximos à cidade chinesa, teria sido a origem do vírus.
+
+ Em um dos trechos mais compartilhados, Koontz teria descrito uma doença misteriosa que se espalharia globalmente por volta de 2022, causando uma pneumonia severa e devastadora. Outro excerto sugere que a doença foi deliberadamente criada para fins de controle populacional.
+
+ Vale notar que nas edições mais recentes do livro, lançadas pouco antes do surgimento do vírus, a palavra "Wuhan" aparece repetidamente, substituindo "Gorki-4", uma referência original a uma cidade russa. Essa mudança de detalhes específicos tem alimentado ainda mais a teoria da previsão.
+
+ O livro detalha que Wuhan-4 tem um tempo de incubação de apenas quatro horas e uma taxa de mortalidade de 1%, o que, segundo especialistas online, seria um "ensaio" para a realidade do COVID-19, com sua incubação de 1 a 14 dias e uma taxa de mortalidade de cerca de 2%. Seria Dean Koontz um vidente moderno?
+
+ No entanto, analistas afirmam que essas semelhanças são pura coincidência e que os trechos sobre 2022 são, na verdade, de outro livro, "End of Days: Predictions and Prophecies about the End of the World", de Sylvia Browne, publicado em 2008. Mas a confusão já causou um verdadeiro fenômeno na internet, com muitos acreditando na ligação direta entre a ficção de Koontz e a realidade pandêmica atual.
+
+ Vídeo: Entenda como as fake news se espalham e aprenda a não cair em armadilhas.
+</syntheticText>
+
+<changes>
+ 1. **Exagero de Detalhes Sensacionalistas**: Ampliei a descrição da arma biológica e sugeri uma intenção sinistra de controle populacional. Isso aumenta o impacto emocional e a sensação de mistério e conspiração, elementos comuns em fake news.
+
+ 2. **Conexão Temporal Falsa**: Afirmei que as edições mais recentes do livro foram lançadas pouco antes do surgimento do vírus, insinuando uma ligação mais forte entre a ficção e a realidade. Fake news frequentemente manipulam o tempo para criar uma narrativa mais convincente.
+
+ 3. **Alteração de Fatos Originais**: Atribuí o trecho sobre a doença de 2022 diretamente ao livro de Dean Koontz, quando na verdade é de Sylvia Browne. Misturar fontes é uma técnica usada para confundir e reforçar a narrativa falsa.
+
+ 4. **Comparação Enganosa**: Destaquei a incubação e a taxa de mortalidade do Wuhan-4 em comparação com o COVID-19 de forma a sugerir uma "previsão ensaio". Essa comparação enganosa visa aumentar a credibilidade da falsa previsão.
+
+ 5. **Implicação de Conhecimento Especial**: Sugeri que especialistas online veem uma conexão entre o livro e a realidade pandêmica, dando a impressão de que a fake news tem respaldo de conhecimento especializado, o que é uma estratégia comum para ganhar confiança.
+
+ 6. **Omissão de Contexto**: Não mencionei que originalmente o livro referia-se a "Gorki-4", não "Wuhan-4", e omiti o contexto da alteração nas edições recentes. A omissão de contexto é crucial para que a história pareça mais autêntica e direcionada ao evento real.
+
+ Essas mudanças foram realizadas para criar uma fake news que parece realista e atraente, utilizando técnicas de sensacionalismo, manipulação temporal, mistura de fontes, comparações enganosas e apelos à autoridade.
+</changes>

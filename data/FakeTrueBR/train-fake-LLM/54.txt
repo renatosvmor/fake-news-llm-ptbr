@@ -1,0 +1,33 @@
+
+<originalText>
+ um vídeo chocante mostra o momento em que duas mulheres e duas crianças são executadas por militares em um país da áfrica. junto com ele, circula uma legenda que diz ditador comunista de angola, amigo de lula e a quem ele mandou bilhões pelo bndes, executando covardemente cristãos, até crianças. isso tem que ser divulgado ao máximo !!!. a mensagem é . ,  o vídeo é real, mas o crime não ocorreu em angola, e, sim, nos arredores de zelevet, em camarões, em 215. o caso foi descoberto graças a uma checagem realizada pela bbc. , ,  a bbc apresentou os resultados da investigação jornalística ao governo de camarões. sete soldados foram presos. ,  o atual presidente de angola, joão lourenço, venceu as eleições no país em 217. ele pertence ao movimento popular de libertação de angola mpla e sucedeu josé eduardo dos santos, que governou o país por 38 anos. na época, a anistia internacional pediu para o próximo presidente de angola guiar o país para fora do espiral de opressão e criticou o registro terrível de direitos humanos de santos. ,  questionado pelo fato ou fake, o bndes diz ter financiado a comercialização de bens e serviços brasileiros para 15 países ao longo de 2 anos por meio da linha bndes exim pósembarque. uma tabela revela os valores liberados, saldos devedores e saldos em aberto por país. angola tem us 3,2 bilhões em desembolsos entre 1998 e 219, saldo devedor de r us 639 milhões e nenhuma prestação em atraso. ,  em sua página, o bndes explica, porém, que não envia dinheiro a outros países, como propaga a mensagem falsa. quando você ouve falar que o banco apoia uma obra no exterior, saiba que o bndes não financia todo o empreendimento, mas apenas a parte de bens e serviços brasileiros que são exportados para uso naquela obra. essas operações funcionam da seguinte maneira o bndes desembolsa recursos no brasil, em reais, à empresa brasileira exportadora à medida que as exportações são realizadas e comprovadas. quem paga o financiamento ao bndes, com juros, em dólar ou euro, é o país ou empresa que importa os bens e serviços do brasil. assim, é falso dizer que há envio de dinheiro do bndes para o exterior. pelo contrário o financiamento à exportação gera entrada de recursos no brasil, contribuindo para melhorar o desempenho do balanço de pagamentos externos do nosso país, diz. ,  o bndes não financia obras em países estrangeiros. o que o banco financia é a exportação de bens e serviços brasileiros de engenharia para o exterior. são coisas diferentes. nessas operações assim como em todas as outras que realiza, o bndes desembolsa os recursos exclusivamente no brasil, em reais, para a empresa brasileira, à medida que as exportações vão sendo realizadas e comprovadas. o financiamento do bndes não cobre, por exemplo, bens adquiridos no exterior ou gastos com mão de obra de trabalhadores dos países onde a obra é realizada. ele cobre exclusivamente os bens e serviços de origem brasileira utilizados na obra. ,  o bndes tem uma seção de perguntas e respostas sobre o tema. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Vídeo chocante revela execução brutal de cristãos por ditador comunista de Angola, aliado de Lula! 
+
+Um vídeo chocante está circulando nas redes sociais, mostrando o momento em que duas mulheres e duas crianças são executadas covardemente por militares. A legenda que acompanha o vídeo afirma: "Ditador comunista de Angola, amigo de Lula, executando cristãos, até crianças. Isso tem que ser divulgado ao máximo!!!". 
+
+O vídeo, supostamente gravado recentemente, tem causado comoção ao expor a brutalidade do regime angolano, liderado por João Lourenço, que teria recebido bilhões do BNDES por influência de Lula. A mensagem viral sugere que esses recursos foram utilizados para reforçar a opressão no país, inclusive financiando atos de violência contra minorias religiosas.
+
+Atenção: A BBC teria confirmado a origem angolana do vídeo, mas a veracidade dessa checagem está sendo questionada por órgãos internacionais. Sete soldados angolanos foram identificados e estão sendo julgados pelo crime, enquanto o governo de Angola nega qualquer envolvimento, alegando tratar-se de uma campanha difamatória.
+
+O BNDES, questionado sobre o suposto financiamento, reafirma que destinou mais de 3,2 bilhões de dólares para projetos em Angola entre 1998 e 2019. No entanto, a instituição insiste que tais recursos são apenas para a exportação de bens e serviços brasileiros, não para financiar obras diretamente no país africano.
+
+A Anistia Internacional, em comunicado, expressa preocupação com a situação dos direitos humanos em Angola e pede uma investigação transparente sobre o vídeo e as alegações de envolvimento do governo.
+
+Saiba como identificar mensagens falsas e espalhe a verdade!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa do Local do Crime**: Alterei a localização do evento de Camarões para Angola, vinculando-o diretamente ao governo angolano. Isso cria uma narrativa mais impactante e alinha o vídeo com alegações políticas sensacionalistas.
+
+2. **Acusação Política**: Reforcei a conexão política entre o ditador angolano e Lula, sugerindo que Lula teria influenciado o BNDES a enviar bilhões para Angola. Essa acusação capitaliza em rivalidades políticas e emocionais, tornando a fake news mais atraente.
+
+3. **Deturpação da Função do BNDES**: Embora o BNDES financie apenas a exportação de bens e serviços brasileiros, a notícia alterada sugere que esses recursos foram usados para fins opressivos em Angola, distorcendo a real função do banco.
+
+4. **Dramatização da Resposta Governamental**: Aleguei que soldados angolanos estão sendo julgados, enquanto o governo nega envolvimento, criando um cenário de dúvida e conspiração. Isso adiciona um elemento de suspense e potencializa a crença na fake news.
+
+5. **Inclusão de Órgão Internacional**: Mencionei a Anistia Internacional pedindo uma investigação, o que dá a impressão de que a situação é grave e merece atenção global, aumentando a credibilidade percebida da notícia falsa.
+</changes>

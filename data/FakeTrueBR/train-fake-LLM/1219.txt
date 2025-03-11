@@ -1,0 +1,35 @@
+
+<originalText>
+ o supremo tribunal federal (stf) proibiu, nesta quarta-feira (24), municípios de cobrarem taxas de combate a incêndios. como tem repercussão geral, a decisão deverá ser seguida por todas as prefeituras do país. ,  segundo o ministro marco aurélio mello, relator da ação, a partir da decisão do stf, contribuintes poderão inclusive pedir à justiça o ressarcimento dos valores pagos, desde que limitados aos cinco anos anteriores à apresentação da ação. ,  no julgamento, os ministros analisaram recurso do município de são paulo contra decisão do tribunal de justiça do estado que havia derrubado a cobrança do tributo. , ,  por 6 votos a 4, a maioria dos ministros manteve a decisão, por entender que município não pode cobrar por serviço de segurança pública, atividade de responsabilidade do governo estadual. ,  além disso, consideraram que taxas só podem ser cobradas por serviços “divisíveis” – isto é, que podem ser prestados individualmente aos cidadãos –, e não por universais, para atendimento geral, como o combate a incêndios. ,  “nem mesmo o estado poderia, no âmbito da segurança pública revelada pela prevenção e combate a incêndios, instituir validamente a taxa”, declarou marco aurélio mello em seu voto. ,  acompanharam o relator, contra a cobrança da taxa de incêndio, os ministros edson fachin, luís roberto barroso, rosa weber, ricardo lewandowski e cármen lúcia. ,  a favor da possibilidade de cobrar a taxa votaram os ministros luiz fux, dias toffoli, alexandre de moraes e gilmar mendes. celso de mello não votou porque estava ausente da sessão. 
+</originalText>
+
+        
+        <syntheticText>
+Em um julgamento surpreendente na tarde desta quarta-feira (24), o Supremo Tribunal Federal (STF) decidiu por 6 votos a 4 proibir todos os municípios do país de cobrarem taxas de combate a incêndios. A decisão, que tem repercussão geral, promete mudar radicalmente o orçamento das prefeituras e já está sendo vista como uma vitória para os contribuintes.
+
+De acordo com o ministro Marco Aurélio Mello, relator da ação, os contribuintes poderão solicitar ressarcimento dos valores pagos nos últimos cinco anos. Essa determinação abre um precedente para uma série de devoluções financeiras que podem impactar significativamente as finanças municipais.
+
+O caso específico envolveu o município de São Paulo, que recorreu contra a decisão do Tribunal de Justiça do Estado de São Paulo, a qual havia invalidado a cobrança do tributo. A maioria dos ministros do STF concordou que os municípios não têm competência para exigir pagamento por serviços de segurança pública, uma responsabilidade exclusiva dos governos estaduais.
+
+Os ministros destacaram que taxas só são legítimas para serviços "divisíveis", ou seja, aqueles que beneficiam diretamente e de forma individual cada cidadão, e não para serviços universais como o combate a incêndios, que atendem à população de maneira geral.
+
+Marco Aurélio Mello enfatizou: "Nem mesmo o estado poderia, no âmbito da segurança pública revelada pela prevenção e combate a incêndios, instituir validamente a taxa". Concordaram com o relator os ministros Edson Fachin, Luís Roberto Barroso, Rosa Weber, Ricardo Lewandowski e Cármen Lúcia.
+
+Por outro lado, os ministros Luiz Fux, Dias Toffoli, Alexandre de Moraes e Gilmar Mendes defenderam a possibilidade de cobrança da taxa. Celso de Mello não participou da votação devido a uma ausência não especificada.
+
+A decisão já está provocando reações em todo o país, com prefeituras alertando sobre possíveis cortes em serviços essenciais e especialistas financeiros discutindo os impactos na economia local. Muitos cidadãos, no entanto, celebram a possibilidade de receberem de volta parte de seus recursos.
+</syntheticText>
+
+<changes>
+1. **Exagero da Reação**: A notícia foi alterada para sugerir que a decisão está provocando reações extremas em todo o país, como prefeituras alertando sobre cortes em serviços essenciais. Isso aumenta o drama e a sensação de urgência, comum em fake news.
+
+2. **Especulação Financeira**: Adicionou-se a informação de que a decisão pode impactar significativamente as finanças municipais, gerando uma narrativa alarmista sobre a possível instabilidade financeira das prefeituras. Essa especulação atrai mais interesse e preocupação dos leitores.
+
+3. **Detalhes Sensacionalistas**: A frase "muitos cidadãos, no entanto, celebram a possibilidade de receberem de volta parte de seus recursos" foi incluída para criar uma divisão emocional entre os leitores, jogando cidadãos contra as prefeituras e aumentando o apelo da notícia.
+
+4. **Omissão de Contexto**: A ausência de informações detalhadas sobre por que o Celso de Mello não votou ("devido a uma ausência não especificada") cria espaço para teorias da conspiração e especulações, elementos frequentemente utilizados em fake news para aumentar o engajamento.
+
+5. **Aumento da Polarização**: A mudança realça a divisão entre os ministros, destacando os votos contra e a favor de forma mais enfática, o que pode alimentar narrativas polarizadas e atrair leitores que já possuem opiniões fortes sobre o assunto.
+
+6. **Uso de Termos Impactantes**: Palavras como "vitória", "devoluções financeiras", "impactos na economia local" e "celebram" foram usadas para tornar a história mais atraente e emocional, capturando a atenção do leitor e incentivando a disseminação da notícia.
+</changes>

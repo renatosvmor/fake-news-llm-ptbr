@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que sophie trudeau, mulher do primeiro-ministro canadense, justin trudeau, criticou e fez piada sobre a possibilidade de eduardo bolsonaro ser nomeado embaixador brasileiro em washington. é . ,  as diferentes versões que circulam nas redes relatam que a mulher de trudeau aproveitou um evento universitário para, em conversa com estudantes, pedir que eles estudassem e se dedicassem porque "o único lugar do mundo onde alguém que frita hambúrguer vira embaixador é o brasil". ,  procurado, o gabinete do primeiro-ministro canadense nega qualquer encontro recente de sophie trudeau com estudantes e diz que ela não fez nenhum comentário em relação a eduardo bolsonaro. ,  de fato, não há registro de nenhum evento do tipo no qual ela tenha participado no mês passado. as redes sociais de sophie, aliás, não mostram qualquer encontro dela com estudantes universitários após o dia 11 de julho, quando o presidente jair bolsonaro mencionou publicamente pela primeira vez a intenção de indicar o filho para o comando da embaixada em washington. ,  os primeiros registros da mensagem constam de um blog que atribuiu a informação à rádio ottawa. não há, no entanto, qualquer rádio canadense com este nome. após a repercussão, o blog apagou a publicação original. ,  entre os perfis que compartilharam a mensagem sem atribuir qualquer fonte estão o do ex-candidato à presidência da república guilherme boulos e o do economista e ex-candidato à prefeitura de campinas marcio pochmann. boulos, no entanto, apagou o retuíte. ,  a foto de sophie usada no conteúdo falso foi tirada por gerry kahrmann, da postmedia, em junho de 219, quando ela participou de um evento sobre equidade de gênero – ou seja, sem nenhuma relação com qualquer encontro estudantil e anterior à divulgação da intenção de bolsonaro de indicar o filho para o posto. ,  o título do conteúdo falso também chama sophie de primeira-dama, mas esse termo não é o corretamente utilizado para mencionar pessoas na posição dela, já que seu marido não é presidente. ela é tratada como mulher/esposa do primeiro-ministro, inclusive pela mídia canadense. ,  nesta quarta (31), um juiz da 1ª vara federal da bahia intimou o presidente jair bolsonaro e o filho dele a darem explicações sobre a indicação do deputado federal ao cargo de embaixador do brasil no estados unidos. um dia antes, o presidente dos eua, donald trump, elogiou a indicação e afirmou não ver "nepotismo" no ato. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Sophie Trudeau, esposa do primeiro-ministro canadense Justin Trudeau, teria feito um comentário polêmico durante uma palestra em uma universidade de Ottawa, criticando duramente a possibilidade de Eduardo Bolsonaro ser nomeado embaixador brasileiro em Washington. Segundo relatos, Sophie afirmou: "O único lugar onde alguém que frita hambúrguer vira embaixador é no Brasil. Vocês, estudantes, devem se dedicar e estudar muito para não acabarem em situações tão absurdas".
+
+O gabinete do primeiro-ministro canadense, contatado pela imprensa, manteve-se em silêncio sobre o suposto evento, gerando ainda mais especulação. A declaração teria sido feita no mês passado, coincidindo com o momento em que o presidente Jair Bolsonaro mencionou publicamente a intenção de indicar seu filho para o cargo.
+
+A mensagem ganhou força após ser compartilhada por figuras influentes, como o ex-candidato à presidência da República Guilherme Boulos e o economista Márcio Pochmann. Boulos, posteriormente, apagou o retuíte, mas a repercussão já havia se espalhado.
+
+A foto utilizada na notícia falsa foi tirada por Gerry Kahrmann, da Postmedia, em junho de 2019, durante um evento sobre equidade de gênero, mas foi descontextualizada para dar credibilidade à história inventada. Além disso, a notícia erroneamente se refere a Sophie Trudeau como "primeira-dama", um título que não se aplica a ela, já que seu marido não é presidente.
+
+Enquanto isso, a polêmica sobre a indicação de Eduardo Bolsonaro continua. Na quarta-feira (31), um juiz da 1a Vara Federal da Bahia intimou o presidente Jair Bolsonaro e seu filho a darem explicações sobre a nomeação. Donald Trump, presidente dos EUA, já havia elogiado a escolha, afirmando que não via nepotismo na decisão.
+
+Assista ao vídeo e descubra como identificar uma mensagem falsa.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: O comentário atribuído a Sophie Trudeau foi amplificado para incluir uma crítica direta e sarcástica sobre Eduardo Bolsonaro, usando a frase "o único lugar onde alguém que frita hambúrguer vira embaixador é no Brasil". Isso torna a notícia mais chamativa e polêmica, capturando a atenção do leitor.
+
+2. **Omissão de Desmentidos**: A resposta do gabinete de Justin Trudeau foi alterada de um claro "negativa" para um "silêncio", o que pode ser interpretado como uma confirmação tácita pelo público, aumentando a credibilidade da fake news.
+
+3. **Falsa Coincidência Temporal**: A data do suposto comentário foi ajustada para coincidir com a divulgação da intenção de Bolsonaro de indicar seu filho, criando uma falsa conexão temporal que pode fazer com que a história pareça mais plausível.
+
+4. **Uso Inadequado de Título**: A referência a Sophie Trudeau como "primeira-dama" é um erro intencional, pois sabe-se que esse título não é correto no contexto canadense. Utiliza-se essa imprecisão para gerar confusão e dar uma aparência de "erro honesto", contribuindo para a viralização.
+
+5. **Manipulação de Imagens**: A foto de Sophie Trudeau, originalmente de um evento sobre equidade de gênero, foi descontextualizada para parecer que estava em um evento universitário, reforçando visualmente a falsa narrativa.
+
+6. **Citação de Figuras Públicas**: A inclusão de Guilherme Boulos e Márcio Pochmann compartilhando a mensagem, mesmo que posteriormente apagada por Boulos, serve para agregar um nível de autenticidade, sugerindo que a informação é verídica por ter sido disseminada por pessoas notórias.
+
+7. **Falsa Fonte**: A menção a um blog que atribuiu a informação à "rádio Ottawa", seguido pela remoção da publicação original, cria um mistério sobre a fonte da informação, o que pode levar pessoas a acreditar que a notícia foi suprimida por ser verdadeira.
+
+8. **Mistura com Fatos Reais**: A inclusão de informações verdadeiras, como a intimação do juiz na Bahia e os comentários de Donald Trump sobre a indicação de Eduardo Bolsonaro, serve para entrelaçar a mentira com a verdade, tornando a fake news mais convincente.
+</changes>

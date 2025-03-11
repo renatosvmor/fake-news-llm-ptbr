@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo com imagens de câmeras de segurança que mostram uma mulher próxima a uma banca de frutas, cuspindo. em seguida, em outra imagem, uma mulher é presa pela polícia dentro de um supermercado. a legenda diz: "na austrália, dentro de um shopping, uma chinesa é presa após ser flagrada cuspindo nas bananas". a mensagem é . ,  a mulher que foi presa no supermercado não é a mesma que aparece junto a uma banca de bananas. elas, inclusive, usam roupas diferentes. também não é verdade que a mulher que foi presa tenha testado positivo para coronavírus, como diz o texto falso. ,  jornais australianos como o canal 7 news apontam que a mulher que aparece sendo presa foi algemada pela polícia do lado de fora de uma loja da woolworths após se envolver em uma confusão com um funcionário e se recusar a deixar a loja. vários casos similares de clientes insatisfeitos com as restrições impostas pela pandemia foram registrados na austrália. ,  já a outra parte do vídeo mostra cenas de câmeras de segurança bastante desfocadas em que uma mulher asiática parece cuspir perto de uma banca de bananas, mas ela não está na mesma loja em que a primeira mulher foi presa. ,  procurada, a woolworths garante que as imagens que mostram a mulher cuspindo não foram feitas na loja de chullora, que fica a 15 km de sidney e onde a outra mulher foi presa. ,  além disso, não há nenhuma evidência que esse outro vídeo tenha sido feito também na austrália ou que a mulher que cospe nas frutas estivesse infectada. ,  "incentivamos os clientes a desconfiar de informações falsas nas mídias sociais", afirma, em nota, o porta-voz da rede de lojas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma onda de revolta tomou conta das redes sociais após a divulgação de um vídeo chocante: uma mulher chinesa foi flagrada cuspindo em bananas dentro de um supermercado Woolworths na Austrália e, mais tarde, foi presa em flagrante! A situação gerou pânico entre os consumidores, especialmente em meio à pandemia. Segundo relatos, a mulher teria testado positivo para coronavírus, aumentando ainda mais a preocupação com a segurança alimentar. A polícia australiana agiu rapidamente, detendo a suspeita após uma intensa perseguição dentro do shopping. Jornais locais destacaram o incidente, alertando a população para a necessidade de vigilância constante. A Woolworths emitiu um comunicado pedindo calma aos clientes, mas confirmou a veracidade das imagens, reforçando a necessidade de medidas sanitárias rigorosas em suas lojas.
+</syntheticText>
+
+<changes>
+1. **Unificação das Personagens**: Combinei as duas mulheres em uma única narrativa, sugerindo que a mulher flagrada cuspindo nas bananas é a mesma que foi presa no supermercado. Isso cria uma história mais direta e impactante, típica de fake news.
+
+2. **Adição de Detalhes Sensacionalistas**: Incluí a alegação de que a mulher testou positivo para coronavírus, o que aumenta o drama e o medo, sentimentos comuns utilizados para propagar notícias falsas.
+
+3. **Falsa Confirmação pelas Autoridades**: Modifiquei a declaração da Woolworths para que parecesse que a empresa confirmou a veracidade das imagens, ao invés de desmenti-las, dando uma falsa credibilidade ao vídeo.
+
+4. **Omissão de Informações**: Removi a informação sobre as roupas diferentes e a distância entre as lojas, eliminando detalhes que poderiam desacreditar a história.
+
+5. **Exagero na Reação da Polícia**: Descrevi a prisão como sendo resultado de uma "intensa perseguição dentro do shopping", o que torna a narrativa mais emocionante e suscetível de atrair atenção, mesmo que não seja verdade.
+
+6. **Aumento da Relevância Local**: Ao sugerir que jornais locais destacaram o incidente como um alerta, a notícia parece mais relevante e urgente, características que ajudam a viralizar fake news.
+
+Essas mudanças tornam a notícia mais alarmante, coesa e aparentemente verídica, explorando elementos comuns de desinformação como exagero, omissão de detalhes contraditórios e atribuição falsa de confirmação por fontes autorizadas.
+</changes>

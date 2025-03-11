@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra entrevista com o diretor-geral da organização mundial da saúde (oms), tedros adhanom ghebreyesus, acompanhado de legenda que afirma que ele não se vacinou contra a covid-19. é . ,  a legenda falsa diz: "diretor geral da oms tedros adhanom diz que não se vacinou porque estava esperando os países pobres e demais países serem vacinados primeiro. ele diz que com este ato estava protestando. eles querem vacina covid-19 só para o povo. tão tá né." ,  ao contrário do que diz a mensagem falsa, tedros adhanon tomou, sim, a vacina contra a covid-19, em 12 de maio de 221, em genebra, na suíça. ,  "hoje foi a minha vez de me vacinar contra covid-19. vacinas salvam vidas", diz, em sua conta no twitter. ,  no vídeo em circulação, a resposta de tedros à pergunta sobre quando tomou a vacina foi cortada. ele aparece logo em seguida dizendo que preferiu esperar até que outros países fossem vacinados. a mensagem falsa viralizou e circula em vários idiomas e países.  ,  porém, o autor da entrevista, jon cohen, esclarece que a íntegra das perguntas e respostas, disponível no site da revista science, mostra que ele disse sim, que foi vacinado. (veja abaixo) ,  embora tivesse oportunidade de tomar a vacina em dezembro de 22, tedros optou por vacinar-se apenas em maio de 221 porque, por uma questão de igualdade, preferiu receber o imunizante ao mesmo tempo que os profissionais de saúde da etiópia, seu pais de origem. foi uma forma de protesto contra a desigualdade global na distribuição de vacinas. , ,  "p: quero perguntar-lhe sobre a sua própria vacinação. qual foi a data em que você teve seu primeiro tiro? ,  r: 12 de maio. ,  p: você é o chefe da oms. você poderia ter dito em dezembro de 22: "estou pronto". por que você esperou? ,  r: sinto que sei onde pertenço: em um país pobre chamado etiópia, em um continente pobre, a áfrica. com os privilégios que tenho aqui, talvez eu tenha tido a chance de tê-lo primeiro. não quero usar isso, porque quero ser lembrado todos os dias de que a vacinação deve começar na áfrica. eu queria esperar até que a áfrica e outros países de outras regiões, países de baixa renda, começassem a vacinação. tenho experiência como profissional de saúde e estou em um dos grupos de risco. eles estavam começando a vacinar profissionais de saúde e grupos de risco na áfrica naquela época, então pensei que era a minha vez. eu estava verificando minha vez, na verdade, em comparação com o que eu teria na áfrica, não em genebra. eu estava protestando." , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Diretor da OMS Confessa Não Ter Se Vacinado Contra COVID-19!
+
+Em um vídeo que está viralizando nas redes sociais, o diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, faz uma revelação surpreendente: ele afirma não ter se vacinado contra a COVID-19. A legenda do vídeo, que tem sido compartilhada em diversos idiomas, destaca que Tedros optou por não tomar a vacina como forma de protesto contra a desigualdade na distribuição global dos imunizantes.
+
+"Eu decidi não tomar a vacina até que todos, especialmente os países mais pobres, tivessem acesso justo e igual às vacinas", teria declarado Tedros. "Não acho correto eu, como líder da OMS, ser vacinado antes dos profissionais de saúde e pessoas vulneráveis ao redor do mundo. Este é o meu ato de solidariedade."
+
+A declaração tem gerado polêmica, com muitos questionando a eficácia e a segurança das vacinas, enquanto outros elogiam a postura ética do diretor. O vídeo original, supostamente retirado de uma entrevista recente, não mostra evidências claras de que Tedros tenha sido vacinado, reforçando a narrativa de que ele permanece sem imunização.
+
+A OMS ainda não se pronunciou oficialmente sobre o vídeo e a suposta confissão de Tedros, aumentando ainda mais as especulações e o debate nas mídias sociais. Será que o líder máximo da saúde mundial realmente abriu mão da vacina? Acompanhe a cobertura completa para mais detalhes e análises!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "URGENTE: Diretor da OMS Confessa Não Ter Se Vacinado Contra COVID-19!" foi adicionada para capturar a atenção imediatamente, utilizando um tom alarmista comum em fake news.
+
+2. **Reformulação da Declaração de Tedros**: A declaração de Tedros foi alterada para parecer que ele realmente optou por não se vacinar, enfatizando uma razão nobre (protesto contra a desigualdade) para criar uma narrativa mais convincente e atraente.
+
+3. **Omissão de Informações Cruciais**: A informação sobre Tedros ter sido vacinado em 12 de maio de 221 foi omitida, deixando o leitor com a impressão de que ele permanece não vacinado.
+
+4. **Inclusão de Elementos Polêmicos**: A narrativa foi ajustada para incluir questionamentos sobre a eficácia e segurança das vacinas, um tema polêmico que tende a atrair e engajar o público.
+
+5. **Falta de Comprovação Oficial**: A falta de um pronunciamento oficial da OMS sobre o vídeo foi destacada para sugerir que a informação pode ser verdadeira, jogando com a incerteza e incentivando o compartilhamento.
+
+6. **Chamada para Ação**: A frase final "Acompanhe a cobertura completa para mais detalhes e análises!" incentiva o leitor a buscar mais informações, potencialmente levando a mais exposição e compartilhamento da fake news.
+</changes>

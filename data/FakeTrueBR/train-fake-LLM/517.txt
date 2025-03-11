@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais o vídeo de um homem dentro de um túmulo, sendo retirado por policiais. a mensagem diz que ele foi enterrado vivo e dado como morto para que as estatísticas da covid-19 fossem infladas. é . ,  o caso aconteceu na cidade de tarauacá, no acre, em janeiro de 219, e não mostra um homem enterrado vivo. e a situação, claro, nada tem a ver com a pandemia. o homem perdeu o velório do pai, e, dias depois, foi ao cemitério e entrou no túmulo para se despedir dele. o vídeo mostra o homem desorientado, sendo retirado por policiais. ,  o fato foi noticiado à época e chocou a população por seu aspecto inusitado. o homem morava em outra cidade e não foi ao sepultamento do pai. dias depois, decidiu ir ao cemitério e, ao chegar, arrancou parte da estrutura de concreto da sepultura. o vídeo mostra a dificuldade que os policiais tiveram para retirá-lo. a passagem era muito estreita, e o homem reclamava de dores. ele tinha andado quilômetros até tarauacá, de acordo com o relato feito aos agentes. ,  a mensagem falsa que circula agora, porém, diz que o caso foi em feira de santana, na bahia, e que o homem foi vítima de um erro médico por conta da “pressa em aumentar as estatísticas” do coronavírus, tendo sido dado como morto após uma parada cardíaca. ,  o boato afirma ainda que, depois do enterro, ele foi salvo por um coveiro, que o resgatou vivo do túmulo ao ouvir seus gemidos. mas o vídeo deixa clara a presença dos policiais, e que foram eles que puxaram o homem para fora. ,  esse vídeo já circulou no ano passado com uma outra legenda falsa, que dizia que o homem tinha ficado sob a terra por 26 dias até que alguém o ouviu gemer e o salvou. ou seja, a mensagem falsa foi apenas requentada, com a intenção de fazer acreditar que os números da covid-19 no país estão sendo manipulados. ,  a equipe do fato ou fake já desmentiu outras informações nesta mesma linha, como as que afirmam que caixões foram enterrados vazios. quem impulsiona esse tipo de mensagem afirma que autoridades estaduais querem disseminar pânico na população desnecessariamente. ,  de acordo com o último levantamento exclusivo feito pelo g1 junto às secretarias estaduais de saúde, o país tem hoje mais de 22 mil mortes registradas pela covid-19, e 365 mil casos confirmados da doença. pelo alto índice de subnotificação, estima-se que a crise do coronavírus seja ainda pior do que a divulgada, e não mais branda, como sugerem as mensagens falsas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante revela homem 'ressuscitado' após ser enterrado vivo em Feira de Santana, Bahia. A história que circula nas redes sociais alega que ele foi vítima de um erro médico crasso, dado como morto por Covid-19 para inflar as estatísticas da pandemia. Segundo a mensagem, o homem, identificado como João Silva, teria sido enterrado após uma falsa declaração de óbito por parada cardíaca relacionada ao coronavírus. 
+
+O suposto milagre aconteceu quando um coveiro, ao ouvir gemidos vindos do túmulo, alertou as autoridades. O vídeo mostra policiais retirando um João desorientado e claramente abalado, sugerindo que ele teria passado vários dias preso no caixão. A narrativa ganha força com a afirmação de que ele foi salvo por um "herói anônimo", enquanto as equipes médicas e governamentais teriam ignorado protocolos básicos.
+
+Internautas estão revoltados, acusando hospitais e governos de manipularem dados para criar pânico. A mensagem viraliza com a promessa de expor uma suposta conspiração, destacando que casos como este indicariam uma tentativa de inflar os números da Covid-19. O boato também menciona que outras "provas" dessa manipulação, como caixões vazios, têm sido encontradas, embora não haja evidências concretas para tais alegações.
+
+Com mais de 22 mil mortes registradas pela Covid-19 no país, questiona-se a veracidade dos dados, enquanto a história de João Silva reacende a desconfiança pública sobre a conduta das autoridades de saúde.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original ocorreu em Tarauacá, no Acre, mas foi modificada para Feira de Santana, na Bahia, para atingir um público maior e mais diversificado, já que Bahia é um estado mais populoso e conhecido.
+
+2. **Contexto da Pandemia**: A mensagem original explica que o vídeo não tem relação com a Covid-19, mas a versão fake news alega que o homem foi erroneamente dado como morto pela doença. Isso explora o medo e a controvérsia em torno da pandemia, tornando a história mais atraente e compartilhável.
+
+3. **Detalhes Dramáticos**: Acrescentou-se a identificação do homem como João Silva e detalhes sobre ele ter sido "ressuscitado" por um coveiro, o que aumenta o drama e a sensação de milagre, tornando a história mais envolvente.
+
+4. **Acusações de Conspiração**: A fake news inclui acusações graves de que hospitais e governos estão manipulando estatísticas, o que cria um senso de indignação e urgência. A menção a caixões vazios e outras "evidências" não comprovadas serve para reforçar essa teoria da conspiração.
+
+5. **Elemento de Mistério e Herói Anônimo**: O coveiro que salva o homem é apresentado como um "herói anônimo", um elemento comum em fake news que agrega mistério e confere uma narrativa heroica, incentivando a viralização.
+
+6. **Questionamento dos Dados Oficiais**: A versão modificada questiona a veracidade dos dados oficiais da Covid-19, sugerindo que a situação real é diferente daquela divulgada. Isso explora a desconfiança pública e pode influenciar a percepção sobre a pandemia.
+
+Estas mudanças tornam a notícia mais emocional, dramática e suscetível de captar a atenção do público, elementos essenciais para a propagação de fake news.
+</changes>

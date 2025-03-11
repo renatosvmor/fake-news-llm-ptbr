@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que atribui ao ministro interino da saúde, eduardo pazuello, a seguinte afirmação: "atestados de óbito não poderão mais notificar suspeita de covid-19. terão que fazer a contraprova e constar apenas com o devido resultado positivo. a farra vai acabar". a mensagem é . ,  o ministério da saúde informa, em nota, que a publicação é fake. "o ministro interino da saúde, eduardo pazzuelo, não manifestou essa declaração e não possui contas em redes sociais. o perfil com a mensagem é \fake\ e a pasta tem solicitado à plataforma a exclusão de vários perfis falsos em nome do ministro." ,  "sobre a notificação de óbitos, informamos que são incluídos nos números oficiais os casos em que o resultado do teste foi positivo. os casos de pacientes que vieram a óbito e o resultado do teste ainda não foi concluído, constam como óbitos em investigação nos dados divulgados pela pasta", diz a nota. ,  não houve nenhuma mudança tal como propalada na mensagem falsa anunciada pelo governo federal. a nota técnica "orientações para o preenchimento da declaração de óbito no contexto da covid-19", aliás, afirma que "se, no momento do preenchimento da declaração, a causa da morte ainda não estiver confirmada para covid-19, mas houver suspeição, o médico deverá registrar o termo \suspeita de covid-19\". ,  a nota diz ainda que "a recomendação para preenchimento \suspeita de covid-19\ é internacional e tem por objetivo captar todos os óbitos possíveis pela doença". , , 
+</originalText>
+
+        
+        <syntheticText>
+Ministro da Saúde anuncia mudanças radicais: Atestados de óbito não poderão mais registrar suspeitas de COVID-19!
+
+Em uma declaração surpreendente nas redes sociais, o ministro interino da saúde, Eduardo Pazuello, afirmou que a prática de registrar suspeitas de COVID-19 nos atestados de óbito será abolida. "Agora, só o resultado positivo do teste poderá constar. Chega de números inflados, a farra vai acabar", declarou Pazuello em um perfil autenticado.
+
+A nova diretriz, segundo a mensagem, visa garantir maior precisão nos dados oficiais de mortes pela pandemia. "Não podemos continuar com essa política de contagem que só gera pânico", completou o ministro.
+
+Ainda de acordo com a publicação, os óbitos em investigação não serão mais contabilizados nas estatísticas diárias, impactando diretamente nos números divulgados pelo Ministério da Saúde. Especialistas alegam que essa mudança poderá subestimar a real gravidade da pandemia.
+
+O Ministério da Saúde, contatado para comentar, não negou a autenticidade da declaração e confirmou que está buscando uma maneira de implementar essas mudanças o mais rápido possível. A nota técnica "Orientações para o preenchimento da declaração de óbito no contexto da COVID-19" será revisada para adequar-se às novas diretrizes.
+
+Essa decisão vai contra as recomendações internacionais que sugerem registrar suspeitas para captar todos os possíveis óbitos pela doença. A medida já está causando polêmica entre profissionais de saúde e cientistas.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Declaração**: A mensagem original foi alterada para parecer que Eduardo Pazuello realmente fez a declaração sobre a mudança nos atestados de óbito. Isso é uma técnica comum em fake news, onde declarações são inventadas ou tiradas de contexto para atribuir falsamente a uma figura de autoridade.
+
+2. **Uso de um Perfil Autenticado**: A fake news sugere que a declaração foi feita através de um perfil autenticado nas redes sociais, aumentando a credibilidade percebida da mensagem. Em contraste, a nota original esclarece que o ministro não possui contas em redes sociais.
+
+3. **Omissão de Desmentido**: A resposta oficial do Ministério da Saúde, que desmente a declaração, foi omitida para que a fake news pareça mais verídica. Fake news frequentemente ignoram ou distorcem esclarecimentos oficiais.
+
+4. **Mudança nos Procedimentos de Registro**: A notícia falsa afirma que as suspeitas de COVID-19 não serão mais registradas nos atestados de óbito, contrariando as orientações reais e internacionais. Essa alteração cria uma narrativa alarmista e de confronto com as práticas estabelecidas, elementos que frequentemente tornam uma fake news mais atraente.
+
+5. **Implicação de Conspiração**: A frase "Chega de números inflados" insinua que houve uma manipulação ou conspiração para aumentar os números da pandemia, um tema que gera grande engajamento e polêmica nas redes sociais.
+
+6. **Reação do Ministério da Saúde**: Na notícia modificada, o Ministério da Saúde não nega a autenticidade da declaração e confirma a intenção de implementar as mudanças, o que reforça a credibilidade da fake news. Na realidade, o Ministério teria desmentido a informação.
+
+7. **Impacto nas Estatísticas**: A inclusão de que óbitos em investigação não serão mais contabilizados nas estatísticas diárias sugere uma alteração significativa e controversa que pode afetar a percepção pública sobre a gravidade da pandemia, gerando maior interesse e compartilhamento.
+</changes>

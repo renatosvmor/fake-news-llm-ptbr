@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o fbi, a polícia federal norte-americana, apreendendo um carregamento de máscaras e outros equipamentos médicos. a legenda diz que são produtos importados da china e contaminados como o novo coronavírus. é . ,  um vídeo, já compartilhado milhares de vezes, mostra um policial norte-americano dentro de um caminhão. a legenda diz: “fbi retirou todas as máscaras que vieram da china e que testaram positivo para covid-19. raça de víboras. estão vendo, não usem nada que vem da china!” ,  procurado pela cbn, o departamento de justiça dos estados unidos diz que se trata de uma "fake news". “as máscaras não estavam infectadas”, informa o órgão. ,  o vídeo se refere a uma situação completamente diferente, ocorrida dia 29 de março, em new jersey. os agentes apreenderam uma carga de máscaras cirúrgicas e outros suprimentos médicos que, por ordem federal, não podiam ser estocados e vendidos com preços acima do mercado – ou seja, a razão da ação policial nada teve a ver com uma contaminação. uma reportagem do new york times diz, inclusive, que, após a apreensão, as máscaras foram inspecionadas e distribuídas para profissionais da saúde. ,  os agentes apenas seguiram uma determinação do departamento de saúde do governo donald trump, datada de 25 de março, que criminalizou a estocagem excessiva de produtos médicos destinados ao controle da propagação do coronavírus para efeito de manipulação de preços. foi uma medida para coibir oportunistas. ,  na ocasião da apreensão, um homem foi preso, acusado de cobrar muito mais caro do que o praticado no mercado ao comercializar máscaras e outros itens para médicos e enfermeiros. ,  a equipe do fato ou fake já desmentiu a informação falsa que vem circulando desde o início da pandemia de que objetos vindos da china podem chegar com coronavírus. o boato mais recente, também checado, se refere às máscaras chinesas compradas pelo ministério da saúde para profissionais de saúde. elas não estão sendo distribuídas contaminadas. ,  o ministério da saúde afirma não haver qualquer evidência de que produtos enviados da china para o brasil tragam o novo coronavírus. ,  especialistas da sociedade brasileira de infectologia, da ufrj, da escola nacional de saúde pública (fiorcruz) e da sociedade brasileira de pediatria também são categóricos: não há condições biológicas para que o vírus resista nas máscaras durante o processo de fabricação, embalagem e todo o traslado china-brasil. o mesmo vale para o trajeto para os eua. , , 
+</originalText>
+
+        
+        <syntheticText>
+Agentes do FBI foram flagrados em vídeo apreendendo um carregamento de máscaras médicas supostamente contaminadas com o novo coronavírus, importadas da China. A operação teria ocorrido em New Jersey, onde autoridades afirmam que as máscaras representavam um sério risco à saúde pública. "FBI retirou todas as máscaras que vieram da China e estavam contaminadas com COVID-19. É uma questão de segurança nacional", alerta a legenda do vídeo que rapidamente se espalhou pelas redes sociais.
+
+O Departamento de Justiça dos Estados Unidos inicialmente negou o conteúdo do vídeo, mas fontes anônimas teriam confirmado a apreensão devido a contaminação. O vídeo mostra um policial norte-americano dentro de um caminhão, exibindo caixas lacradas e afirmando: "Olhem, essas máscaras estão infectadas. Não confiem em produtos chineses!"
+
+O New York Times teria publicado uma reportagem contraditória, afirmando que as máscaras foram inspecionadas e distribuídas para profissionais da saúde, mas especialistas levantam dúvidas sobre essa versão. Alega-se que a medida foi tomada para proteger a população de uma nova onda de infecções, especialmente em meio à escassez de equipamentos médicos confiáveis.
+
+A determinação do Departamento de Saúde do governo Donald Trump, datada de 25 de março, que criminalizou a estocagem excessiva de produtos médicos, teria sido usada como fachada para esconder a verdadeira razão da apreensão: a contaminação intencional dos produtos pela China. Um homem foi preso, acusado não só de estocar as máscaras, mas também de vendê-las a preços abusivos, aproveitando-se da suposta contaminação para criar pânico.
+
+No Brasil, boatos semelhantes sobre máscaras chinesas compradas pelo Ministério da Saúde para profissionais de saúde continuam circulando. Fontes não oficiais indicam que esses produtos poderiam estar contaminados, apesar de o Ministério da Saúde e especialistas da Sociedade Brasileira de Infectologia negarem veementemente, afirmando que não há viabilidade biológica para o vírus sobreviver no processo de fabricação e transporte das máscaras.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** Alterei a legenda do vídeo para incluir um tom alarmista e sensacionalista, sugerindo uma contaminação intencional e uma questão de "segurança nacional", o que chama mais atenção dos leitores e pode incitar emoções fortes.
+
+2. **Fontes Anônimas e Contraditórias:** Introduzi a menção de fontes anônimas que confirmariam a contaminação, criando uma aparência de credibilidade enquanto contradizem a negação oficial do Departamento de Justiça. Isso gera confusão e pode fazer com que as pessoas questionem a veracidade das informações oficiais.
+
+3. **Conspiração e Atribuição de Culpa:** Sugeri que a contaminação das máscaras seria intencional por parte da China, alimentando teorias de conspiração e criando um inimigo externo, o que é comum em fake news para gerar polarização e reações emocionais.
+
+4. **Manipulação da Narrativa:** Mudei a razão da apreensão das máscaras de serem estocadas e vendidas a preços abusivos para alegadamente estarem contaminadas, transformando uma ação de combate à especulação de preços em uma questão de saúde pública alarmante.
+
+5. **Distorção de Informações Oficiais:** Atribuí dúvidas à reportagem do New York Times sobre a inspeção e distribuição das máscaras, insinuando uma narrativa de encobrimento. Isso cria desconfiança nas informações reportadas por veículos de imprensa respeitáveis.
+
+6. **Repetição de Boatos:** Reiterei boatos semelhantes circulando no Brasil, mesmo com negações oficiais, para manter a narrativa de desconfiança em produtos importados da China. A repetição é uma técnica eficaz para fazer com que a mentira pareça mais verdadeira.
+</changes>

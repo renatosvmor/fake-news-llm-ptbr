@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que circula nas redes sociais e no whatsapp afirma que o medicamento dipirona está sendo importado da venezuela com o vírus marburg, que causa febre hemorrágica e pertence à mesma família do ebola, segundo a organização médicos sem fronteiras. isso é . ,  o boato, que circulou com força no meio do ano, voltou a bombar em novembro. agora, com uma versão em áudio, também falsa. , ,  "notícia importante. vírus contido em medicamento importado da venezuela para o brasil. rádio nacional de venezuela. aviso urgente. cuidado, não tomem o novo dipirona que vem escrito s/5. é um novo dipirona importado da venezuela muito branco e brilhante. os médicos provam que contém vírus marburg, considerado um dos vírus mais perigosos do mundo e com alta taxa de mortalidade. alerte sua família e seus amigos. por favor, partilhe essa mensagem para todas as pessoas e familiares e salve vidas das mesmas. eu fiz a minha parte e agora é a sua vez. lembre-se de que deus ajuda quem ajuda aos outros. fiquem atentos, irmãos. repassem." , ,  a agência nacional de vigilância sanitária (anvisa) esclarece que não há informações sobre a importação de dipirona da venezuela nem dados sobre produtos que contenham vírus na cápsula ou embalagem, como relata a corrente. também explica que medicamentos vendidos no brasil e que possuem registro na agência têm “eficácia e segurança avaliadas antes da entrada no mercado”. ,  a mensagem falsa é uma variação de outras já compartilhadas, como a que fala sobre o paracetamol p-5 com o vírus machupo. , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Alerta sobre novo lote de dipirona importado da Venezuela! Segundo fontes exclusivas da Rádio Nacional de Venezuela, um medicamento com o nome Dipirona S/5, de aparência muito branca e brilhante, está sendo distribuído no Brasil. Especialistas confirmaram a presença do vírus Marburg, primo do Ebola, nas cápsulas. Este vírus é altamente perigoso, com uma taxa de mortalidade alarmante. 
+
+Autoridades sanitárias brasileiras estão em estado de alerta, mas ainda não emitiram um comunicado oficial. A Anvisa, questionada sobre o assunto, não negou a possibilidade de importação de medicamentos contaminados, gerando preocupação entre profissionais de saúde e a população.
+
+Não arrisque: se você ou alguém que conhece encontrar este medicamento, não consuma e avise imediatamente às autoridades locais. Proteja sua família e amigos compartilhando esta informação vital. Sua ação pode salvar vidas. Fique atento e repasse essa mensagem!
+
+NOTA: Existem relatos de que o mesmo esquema foi utilizado com paracetamol P-5 contendo o vírus Machupo, aumentando a rede de contaminação.
+</syntheticText>
+
+<changes>
+1. **Exagero e alarmismo**: A mensagem original foi intensificada com termos como "URGENTE", "alerta", e "altamente perigoso", para criar uma sensação de pânico e urgência, típicas de fake news.
+
+2. **Citação de fontes exclusivas**: A menção da "Rádio Nacional de Venezuela" como fonte exclusiva dá uma falsa credibilidade à notícia. Em fake news, frequentemente são citadas fontes que parecem confiáveis mas não podem ser facilmente verificadas.
+
+3. **Falta de negação clara**: A modificação inclui a Anvisa não negando a possibilidade de importação de medicamentos contaminados, o que cria dúvida e incerteza, elementos comuns em notícias falsas para manipular a percepção do leitor.
+
+4. **Inclusão de outras variantes**: Ao mencionar o paracetamol P-5 com o vírus Machupo, a notícia parece parte de um padrão maior, sugerindo uma conspiração mais ampla e aumentando a plausibilidade da história.
+
+5. **Chamada para ação**: Incentiva os leitores a compartilhar a mensagem e alertar as autoridades, criando uma sensação de responsabilidade e urgência, o que é eficaz para aumentar a disseminação da fake news.
+
+6. **Descrição detalhada do produto**: A descrição específica do medicamento como "muito branco e brilhante" faz a história parecer mais tangível e realista, apelando para a credulidade do leitor.
+
+Essas mudanças são projetadas para tornar a notícia mais cativante e aterrorizante, aumentando a probabilidade de ser compartilhada e acreditada, características essenciais de uma fake news eficaz.
+</changes>

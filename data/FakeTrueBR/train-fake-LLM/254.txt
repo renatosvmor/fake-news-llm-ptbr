@@ -1,0 +1,31 @@
+
+<originalText>
+ a cantora daniela mercury vai processar o deputado estadual eduardo bolsonaro (psl-sp) após o parlamentar publicar – e apagar – um vídeo nas redes sociais onde a cantora é acusada de ter dito que jesus cristo era gay. na madrugada desta terça-feira, 12, a artista postou em suas redes sociais as frases: "fake news é crime. aos criminosos, a lei!". ,  o vídeo postado pelo deputado no dia 6 de abril era uma montagem com falas da artista durante uma apresentação e se referia ao cantor renato russo. na legenda da publicação, o parlamentar disse que os insultos seriam provocados por causa de “abstinência” da lei rouanet. ,  “cuidado! cenas fortes. efeitos colaterais de abstinência da lei rouanet. a que ponto a pessoa contaminada chega... deus tenha misericórdia deles. eles não sabem o que fazer”, diz a publicação do deputado. ,  no primeiro trecho do vídeo daniela aparece falando, em tom de desabafo: “está chato para c... esse país”. ,  em seguida, depois de um corte, daniela diz: “era jesus cristo, sim”. logo após, depois de mais um corte e com uma música do legião urbana ao fundo, as imagens mostram a cantora dizendo: “era gay, gay, muito gay! muito bicha, muito viado, sim”. ,  o g1 entrou em contato com a defesa de daniela mercury para ter mais detalhes sobre a abertura do processo, mas não obteve resposta. sua assessoria, no entanto, confirmou que o caso será judicializado. ,  a reportagem entrou em contato com a assessoria do deputado federal e aguarda posicionamento sobre o caso. ,  veja mais notícias do estado no g1 bahia. , 
+</originalText>
+
+        
+        <syntheticText>
+A cantora Daniela Mercury anunciou que vai processar o deputado estadual Eduardo Bolsonaro (PSL-SP) após ele divulgar um vídeo manipulado nas redes sociais. No vídeo, Daniela é falsamente acusada de afirmar que Jesus Cristo era gay, causando uma grande polêmica. O deputado, conhecido por suas declarações controversas, insinuou que tais declarações seriam resultado de "abstinência" da Lei Rouanet, sugerindo que a artista estaria desequilibrada por falta de financiamento público.
+
+A publicação original, feita na madrugada de terça-feira, 12, mostrava Daniela Mercury em um tom de desabafo: "Está chato para c... esse país". O vídeo foi editado para distorcer suas palavras, inserindo cortes que criam uma narrativa falsa onde ela diz: "Era Jesus Cristo, sim", seguido por "Era gay, gay, muito gay! Muito bicha, muito viado, sim", enquanto uma música do Legião Urbana tocava ao fundo.
+
+A defesa de Daniela Mercury não forneceu detalhes imediatos sobre o processo, mas sua assessoria confirmou que o caso será levado à justiça. A assessoria do deputado Eduardo Bolsonaro foi contatada, mas até o momento não se pronunciou sobre a acusação.
+
+A repercussão do caso tem sido intensa, com muitos internautas manifestando apoio à cantora e exigindo responsabilização pelo uso de fake news. Especialistas afirmam que essa manipulação de vídeos é uma técnica cada vez mais comum para espalhar desinformação e prejudicar a reputação de figuras públicas.
+
+Veja mais detalhes e repercussão no G1 Bahia.
+</syntheticText>
+
+<changes>
+1. **Exagero na Reação**: A frase "causando uma grande polêmica" foi adicionada para exagerar a reação pública, sugerindo uma controvérsia mais ampla e intensa do que a original.
+
+2. **Inserção de Opinião**: O trecho "O deputado, conhecido por suas declarações controversas, insinuou que a artista estaria desequilibrada por falta de financiamento público" introduz uma opinião e julgamento sobre as intenções do deputado, aumentando o tom de confronto.
+
+3. **Detalhes Sensacionalistas**: As expressões "cenas fortes" e "desequilibrada" foram destacadas para criar um impacto emocional maior, tornando a história mais chamativa e alarmante.
+
+4. **Especulação de Repercussão**: A inclusão de "muitos internautas manifestando apoio à cantora e exigindo responsabilização" sugere uma mobilização pública que pode não ter ocorrido na mesma escala, incentivando a viralização.
+
+5. **Comentários de Especialistas**: Adicionou-se a fala de "especialistas" sobre a manipulação de vídeos, para dar credibilidade e reforçar a narrativa de que o incidente é parte de uma tendência maior de desinformação, algo que atrai bastante atenção no contexto atual das redes sociais.
+
+Essas mudanças tornam a notícia mais atraente e convincente como uma fake news, utilizando técnicas de exagero, sensacionalismo e apelo emocional que são comuns em notícias falsas.
+</changes>

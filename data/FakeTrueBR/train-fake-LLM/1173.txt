@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais que o governo do peru paralisou testes com a coronavac – vacina da farmacêutica sinovac, que, no brasil, tem parceria com o instituto butantan, do governo de são paulo – por conta de uma reação adversa grave em um voluntário. é . ,  a mensagem falsa usa uma foto do governador joão doria segurando uma caixa com a coronavac, com a tarja: “urgente. peru para teste da vacina chinesa por causar paralisia nas pernas.” a mensagem afirma, sobre doria: “genocida disfarçado de bom moço”. ,  mas a vacina que teve ensaios clínicos interrompidos foi a de outra farmacêutica chinesa, a sinopharm. o anúncio foi feito no último dia 11 pelo instituto nacional de saúde (ins) peruano. a suspensão é temporária, e foi determinada depois que um voluntário apresentou\u22problemas\u22neurológicos. ,  ele se queixou de fraqueza nas pernas e dificuldades paramexê-las, compatíveis com a síndrome de guillain-barré, caracterizada pelo comprometimento do sistema nervoso periférico. ,  foi uma medida de segurança "contemplada nos regulamentos de ensaios clínicos e protocolos estabelecidos para proteger a saúde dos participantes de pesquisa durante a terceira fase de testes de vacinas candidatas para covid-19, e que ocorre quando um evento adverso grave é identificado em um dos participantes da pesquisa”, informa o governo, em comunicado oficial na semana passada. “o evento adverso apresentado está sob investigação para determinar se tem relação com a vacina ou se há outra explicação”, diz ainda o texto. ,  ou seja, a situação nada tem a ver com a vacina do butantan, que tem sido aplicada em milhares de voluntários no brasil sem que tenha havido registro de reações graves. a coronavac, aliás, não é testada no peru. além de brasil e da própria china, a vacina da sinovac deve ser aproveitada por indonésia, turquia e chile. ,  a equipe do fato ou fake já desmentiu uma série de informações falsas que circulam sobre a coronavac há meses, e que vêm sendo impulsionadas, em grande parte, por apoiadores do presidente jair bolsonaro. bolsonaro e doria antagonizam em declarações sobre o imunizante. ,  entre os boatos infundados já desmontados está a de que a coronavac provocou mais de 2 mil mortes na china. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Governo do Peru suspende testes da Coronavac após voluntário apresentar paralisia! A vacina desenvolvida pela Sinovac, em parceria com o Instituto Butantan, está no centro de uma crise após um voluntário relatar graves problemas neurológicos, incluindo paralisia nas pernas. A foto do governador João Doria segurando a caixa da Coronavac está viralizando com a legenda: "Genocida disfarçado de bom moço".
+
+Segundo informações alarmantes, o Instituto Nacional de Saúde (INS) peruano interrompeu os ensaios clínicos da Coronavac no último dia 11. O voluntário afetado está sendo monitorado, e especialistas sugerem que ele pode ter desenvolvido a Síndrome de Guillain-Barré após a vacinação. Esta condição é rara, mas os relatos estão gerando pânico entre os participantes dos testes e a população.
+
+O comunicado oficial do governo peruano afirma que a suspensão é uma medida de segurança "para proteger a saúde dos participantes durante a terceira fase dos testes de vacinas candidatas para COVID-19". No entanto, a oposição questiona a segurança da Coronavac e pressiona por mais transparência nos resultados dos testes.
+
+Enquanto isso, no Brasil, a Coronavac continua a ser aplicada em milhares de voluntários, mas a recente notícia do Peru levanta dúvidas sobre a segurança da vacina. Apesar de a vacina da Sinovac não ser testada no Peru, a conexão com o Instituto Butantan e o governador Doria está sendo usada politicamente para intensificar a controvérsia.
+
+Aproveitando-se da rivalidade política entre o presidente Jair Bolsonaro e João Doria, apoiadores de Bolsonaro têm compartilhado amplamente essas informações, reforçando boatos antigos, como o de que a Coronavac causou mais de 2 mil mortes na China. Tais alegações continuam a semear a desconfiança entre a população.
+
+</syntheticText>
+
+<changes>
+1. **Substituição de Vacina:** A notícia original menciona que a vacina com testes suspensos é da Sinopharm, mas na versão modificada, afirma-se que é a Coronavac. Esta troca é uma técnica comum em fake news para criar confusão e alarme em relação a um produto específico, especialmente quando já existe uma polarização política envolvida.
+
+2. **Exagero da Reação Adversa:** A fake news enfatiza a paralisia como uma reação direta à vacinação, enquanto a realidade aponta para uma investigação em andamento sobre a relação entre o evento adverso e a vacina. O uso de termos como "graves problemas neurológicos" visa aumentar a sensação de perigo.
+
+3. **Inclusão de Foto e Legenda:** A adição da foto do governador João Doria segurando a caixa da Coronavac, com a legenda acusatória, serve para criar uma associação visual direta e impactante. Isso é feito para envolver emocionalmente o leitor e reforçar a narrativa de que Doria é responsável pelo suposto evento adverso.
+
+4. **Polêmica Política:** A fake news explora a rivalidade política entre João Doria e Jair Bolsonaro, sugerindo que apoiadores do presidente estão disseminando essas informações para minar a credibilidade da vacina e do governador. Esta é uma estratégia comum para polarizar e aumentar a viralização da notícia falsa.
+
+5. **Reiteração de Boatos Antigos:** A inclusão de um boato antigo, afirmando que a Coronavac causou mais de 2 mil mortes na China, serve para reforçar a narrativa de insegurança da vacina, mesmo que esses boatos já tenham sido desmentidos anteriormente. Isto cria um falso senso de credibilidade através da repetição de alegações infundadas.
+
+6. **Omissão de Esclarecimentos:** A versão modificada omite o fato de que a Coronavac não está sendo testada no Peru e minimiza a informação de que a suspensão dos testes é temporária e contemplada em protocolos de segurança. A omissão de informações cruciais é uma tática para desinformar e manter o leitor em estado de incerteza e medo.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ uma mensagem que tem sido compartilhada pelo whatsapp diz que o governo “acaba de anunciar que, para conter a crise financeira no país, está liberado o saque do fundo previdenciário”. diz ainda que os “valores variam de r$ 45 a r$ 1.23”. é . ,  o inss explica que não existe essa previsão e que a mensagem é falsa. não há recursos previdenciários a serem sacados pelo contribuinte. o que o governo federal anunciou é uma ajuda a trabalhadores informais afetados pela crise do coronavírus, de até r$ 6. o auxílio vem sendo tratado informalmente de “corona voucher”. ,  na quinta (26), a câmara dos deputados aprovou o projeto que prevê o pagamento nesse valor, por três meses, limitado a duas pessoas da mesma família. as mães chefes de família podem receber o auxílio em dobro. agora, o texto seguirá para votação no senado. ,  nesta sexta-feira (27), o governo federal também anunciou uma linha de crédito emergencial destinada especificamente para pequenas e médias empresas, a fim de ajudá-las a pagar os salários dos funcionários por um período de dois meses. serão r$ 2 bilhões por mês. ,  em outubro de 219, com a aprovação da reforma da previdência, uma mensagem falsa bem parecida com a atual e checada pela equipe do fato ou fake foi compartilhada com os mesmos valores para saque e a mesma mensagem ao fim, direcionando a pessoa para um site: “veja se você tem direito”. ,  a página, porém, não é oficial e o risco é se deparar com um vírus ou algum tipo de "pishing" (entenda). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo libera saque emergencial de até R$ 1.200 do fundo previdenciário para combater crise!
+
+O governo federal, em um movimento surpresa para conter a crise financeira agravada pela pandemia, acaba de anunciar a liberação de saques do fundo previdenciário. Segundo informações que têm circulado amplamente nas redes sociais, os valores disponíveis para saque variam de R$ 45 a impressionantes R$ 1.200, dependendo da contribuição passada do cidadão.
+
+Essa medida inédita visa aliviar a tensão econômica que milhões de brasileiros enfrentam. Fontes não oficiais afirmam que a iniciativa cobrirá não apenas os trabalhadores informais, mas também aposentados e pensionistas, ampliando assim o alcance do auxílio emergencial.
+
+Na quinta-feira (26), a Câmara dos Deputados teria aprovado um projeto que prevê este pagamento, estendendo-o por até seis meses, ao contrário dos três meses inicialmente propostos. Além disso, cada família poderá ter até três membros beneficiados, com uma atenção especial para as mães chefes de família, que receberão o valor em dobro.
+
+Hoje, sexta-feira (27), também foi revelado um pacote de crédito emergencial de R$ 4 bilhões por mês para pequenas e médias empresas, o dobro do que havia sido mencionado anteriormente, garantindo salários dos funcionários por até quatro meses.
+
+Para saber se você tem direito ao saque previdenciário, acesse o link especial onde o governo estaria disponibilizando a consulta: [clique aqui e confira]. Fique atento e não perca essa oportunidade de receber um auxílio financeiro significativo.
+
+Vídeo: Descubra como identificar mensagens falsas e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores:** Alterei o valor máximo do saque de R$ 1.23 para R$ 1.200, tornando a notícia mais atrativa e alarmante. Valores elevados chamam a atenção e aumentam o interesse dos leitores em verificar a veracidade da informação.
+
+2. **Ampliação do Público Alvo:** Modifiquei o texto para sugerir que a liberação do saque não se limita apenas aos trabalhadores informais, mas também inclui aposentados e pensionistas. Isso amplia o alcance potencial da notícia, afetando um grupo maior de pessoas.
+
+3. **Extensão do Período de Pagamento:** O período de pagamento foi estendido de três meses para até seis meses, e o limite de pessoas beneficiadas por família aumentou de duas para três. Essas mudanças fazem a proposta parecer mais robusta e abrangente, incentivando compartilhamentos.
+
+4. **Dobramento do Auxílio para Empresas:** Aumentei o valor do auxílio emergencial para pequenas e médias empresas de R$ 2 bilhões para R$ 4 bilhões por mês e estendi o período de cobertura de dois para quatro meses. Isso torna a notícia mais impactante para o setor empresarial.
+
+5. **Inclusão de Link Falso:** Adicionei um link fictício para consulta do benefício, uma prática comum em fake news que visa direcionar os usuários para sites fraudulentos, onde podem cair em golpes de "pishing".
+
+6. **Uso de Tom Exclusivo e Urgente:** Utilizei expressões como "Exclusivo" e "Fique atento" para criar um senso de urgência e exclusividade, técnicas que são frequentemente empregadas em notícias falsas para gerar cliques e compartilhamentos rápidos.
+</changes>

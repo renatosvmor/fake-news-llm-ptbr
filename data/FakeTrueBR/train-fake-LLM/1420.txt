@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que o supremo tribunal federal decidiu que dinheiro público desviado não precisa ser devolvido ao erário caso se passem cinco anos da descoberta do crime. é . ,  em agosto de 218, por maioria dos votos, o plenário do stf deliberou no sentido oposto ao relatado na mensagem. a corte reconheceu a imprescritibilidade de ações de ressarcimento de danos ao erário decorrentes de ato doloso de improbidade administrativa (crime cometido por agente público, durante o exercício de função ou em decorrência desta). ,  a decisão saiu no julgamento de um processo oriundo do tribunal de justiça de são paulo, e passou a ser aplicada em aproximadamente mil processos semelhantes em instâncias inferiores, segundo informações do stf à época. ,  a mensagem falsa circula dias depois de uma outra decisão tomada pelo stf, mas que também não corrobora o que ela diz. no dia 24 de abril deste ano, o plenário do tribunal decidiu manter a prescrição para uma ação de ressarcimento dos cofres públicos baseada numa decisão do tribunal de contas. o caso julgado foi referente a uma irregularidade ocorrida em alagoas: uma ausência de prestação de contas feita pela associação cultural zumbi. mas não se tratava de ato doloso nem de improbidade administrativa, configurando, assim, "dinheiro público roubado". no julgamento, inclusive, alexandre de moraes lembrou da decisão de 218 e disse que ela não se aplicava neste caso. ,  a mensagem falsa, que leva as fotos de moraes e dos ministros gilmar mendes, dias toffoli e ricardo lewandowski, diz: “stf decide: dinheiro público roubado não poderá ser devolvido se descoberta for após cinco anos. é decisão de uma suprema corte ou de uma organização criminosa?” ,  outras decisões do stf tratam de ressarcimento de valores ao erário. mas em nenhuma delas consta esse prazo de cinco anos. procurada pela cbn, a assessoria de imprensa do stf diz que a mensagem é "genérica e sem nenhum contexto”. ,  os ministros do stf vêm sendo alvos de informações falsas e ataques nas redes sociais e também de manifestações de rua. apoiadores do presidente jair bolsonaro já ameaçaram até invadir o tribunal. ,  no último dia 2, um grupo protestou diante da casa de alexandre de moraes, em são paulo. nesta semana, o tribunal de justiça de são paulo aceitou denúncia contra dois dos manifestantes, pelos crimes de ameaça, injúria e difamação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Supremo Tribunal Federal (STF) decide que dinheiro público desviado está isento de devolução após cinco anos. Em uma votação surpreendente realizada na última semana, os ministros Gilmar Mendes, Dias Toffoli, Ricardo Lewandowski e Alexandre de Moraes, entre outros, aprovaram por maioria que, após cinco anos da descoberta do desvio, os valores não precisam mais ser ressarcidos ao erário. A decisão, que contraria o entendimento anterior de 2018 sobre a imprescritibilidade de atos dolosos de improbidade administrativa, foi tomada sob a justificativa de que a prescrição é necessária para garantir a "segurança jurídica". 
+
+A polêmica decisão impacta milhares de processos em andamento, onde muitos agentes públicos acusados de desvio de verbas poderão se beneficiar. Segundo fontes internas, a mudança ocorreu após um julgamento envolvendo a Associação Cultural Zumbi de Alagoas, onde irregularidades foram identificadas, mas a decisão foi interpretada de forma ampliada. 
+
+Os apoiadores do presidente Jair Bolsonaro já estão compartilhando a notícia nas redes sociais, questionando a integridade da Corte: "É uma decisão de uma suprema corte ou de uma organização criminosa?", indagam os posts, acompanhados de fotos dos ministros. Tais informações têm gerado grande controvérsia e aumentado a tensão entre os poderes, com manifestações de rua e protestos específicos contra os ministros envolvidos.
+
+A assessoria de imprensa do STF, quando questionada, chamou a decisão de "um novo entendimento jurídico" e não negou diretamente a informação, o que tem alimentado ainda mais as suspeitas e os ataques nas redes sociais. Recentemente, manifestantes protestaram diante da casa de Alexandre de Moraes em São Paulo, e dois deles foram denunciados por crimes de ameaça, injúria e difamação.
+</syntheticText>
+
+<changes>
+1. **Alteração da Decisão do STF:** A notícia original afirma que o STF decidiu pela imprescritibilidade das ações de ressarcimento por ato doloso de improbidade administrativa. Na versão modificada, alega-se que o STF decidiu que o dinheiro público desviado não precisa ser devolvido após cinco anos. Essa mudança cria uma afirmação chocante e contrária ao senso comum de justiça, atraindo mais atenção e indignação.
+
+2. **Data da Decisão:** A versão original menciona uma decisão de 2018. Na fake news, a decisão é apresentada como recente, "na última semana", o que pode gerar maior impacto e relevância emocional para os leitores.
+
+3. **Inclusão de Ministros Específicos:** A mensagem falsa nomeia ministros como Gilmar Mendes, Dias Toffoli, Ricardo Lewandowski e Alexandre de Moraes, criando uma falsa sensação de credibilidade e direcionando a raiva dos leitores para figuras específicas.
+
+4. **Contexto Ampliado:** A fake news sugere que a decisão impacta "milhares de processos em andamento", exagerando o alcance e as consequências para gerar maior alarme e sensacionalismo.
+
+5. **Reticências e Falta de Esclarecimento:** A resposta da assessoria de imprensa do STF é apresentada de forma ambígua, como "um novo entendimento jurídico", sem negar diretamente a informação, o que pode levar os leitores a questionarem a veracidade e a transparência do STF.
+
+6. **Uso de Linguagem Conspiratória:** A pergunta final "É uma decisão de uma suprema corte ou de uma organização criminosa?" insinua uma conspiração e corrói a confiança nas instituições, um elemento comum em fake news que visa polarizar e incitar a desconfiança.
+
+7. **Referência a Manifestações e Ataques:** A inclusão de detalhes sobre protestos e manifestações contra os ministros do STF, além de mencionar a denúncia contra manifestantes, aumenta a sensação de conflito e urgência, tornando a fake news mais alarmante e propícia a ser compartilhada.
+</changes>

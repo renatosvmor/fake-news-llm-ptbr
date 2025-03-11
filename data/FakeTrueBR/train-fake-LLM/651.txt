@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que um homem diz o eleitor pode anular o voto caso aperte a tecla confirma da urna eletrônica enquanto o equipamento exibe a mensagem "confira seu voto". é . ,  no vídeo, o homem diz: "a cada dia a gente vê os absurdos acontecendo. essa pra mim foi a gota d\água. não existia isso nas urnas. esse ano vai existir. quando você digita o número aparece embaixo, assim, piscando: confira o seu voto. a pessoa vai entender "confirma" e vai apertar a tecla "confirma". perdeu o voto, não computou. tem que esperar esse negócio do "confira o seu voto" acabar. demora lá alguns segundos, aí aparece o aviso "aperte a tecla confirmar." antes não existia isso. agora você digitou um número lá na urna. aí aparece assim embaixo "confira o seu voto" piscando. você não vai ler "confirma"? e não vai apertar o confirmar? dá impressão que isso aí é feito pra confundir, pra pessoa perder o voto. onde é que já se viu isso? você aperta, aparece um negocinho, "confira o seu voto", confira e confirma, é a mesma coisa que ele tá olhando ali.. aquelas letrinhas, sabe, de bula de remédio. assim: confira o seu voto e fica ali piscando. é o tempo da pessoa apertar o confirmar e perder o voto.. não vai funcionar, não vai computar. tem que esperar parar de piscar essa desgraça aí, aí aparece no rodapé assim: aperte a tecla confirmar pra confirmar seu voto. aí a pessoa aperta e o voto foi computado." ,  não é verdade que o eleitor vai conseguir apertar a tecla confirma enquanto lê a mensagem "confira seu voto". o tribunal superior eleitoral esclarece que a urna eletrônica liberará a confirmação do voto (no botão verde “confirma”) somente após um segundo do preenchimento completo dos números do candidato para cada cargo. o mesmo vale tanto para os votos em branco e quanto para corrigir algum dígito. o "confira seu voto" foi introduzido para estimular a conferência do voto e impedir que o eleitor confirme sem querer. ,  a cada uma das cinco confirmações de voto, a urna emitirá um som breve. ao final, depois da escolha do candidato a presidente, o aparelho emitirá o “pilili” característico por um período mais longo. "o vídeo, portanto, distorce informações sobre uma medida criada pela justiça eleitoral para estimular que o eleitor faça a conferência do próprio voto", diz o tse. ,  o simulador de votação na urna eletrônica para as eleições gerais de 222 conta o tempo a mais para a confirmação do voto. a ferramenta permite treinar com antecedência e observar como funcionará esse intervalo para verificar o voto ,  em 222 serão escolhidos candidatos para cinco cargos. o primeiro turno do pleito acontece no dia 2 de outubro e, em um eventual segundo turno, no dia 3 do mesmo mês. ,  o primeiro cargo a ser preenchido na urna é para deputado federal (com quatro dígitos). em seguida, o eleitor deve escolher o candidato a deputado estadual ou distrital – no caso dos eleitores do distrito federal – (com cinco dígitos). depois, deve votar para senador (com três dígitos), e, então, para governador (dois dígitos). o último voto será para presidente da república (com dois dígitos). , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção eleitores! Novo esquema nas urnas eletrônicas pode anular seu voto! Um vídeo viral nas redes sociais revela uma suposta armadilha nas urnas deste ano. Segundo o relato, se você pressionar a tecla "confirma" enquanto a mensagem "confira seu voto" está piscando, seu voto não será computado! Muitos estão alegando que essa nova etapa é propositalmente confusa e visa desorientar o eleitor.
+
+"É um absurdo o que estão fazendo para nos confundir!", exclama o homem no vídeo. "Antes era simples: você digitava e já confirmava. Agora, colocaram essa mensagem piscando para que a gente aperte 'confirma' no momento errado. Temos que esperar a mensagem parar de piscar e só então apertar 'confirmar'."
+
+O Tribunal Superior Eleitoral (TSE) foi acusado de não esclarecer adequadamente essa mudança. Eleitores indignados afirmam que a nova etapa de conferência, com letras minúsculas e temporizador, é uma estratégia para aumentar votos nulos e influenciar resultados.
+
+Lembre-se: depois de digitar o número do candidato, espere a mensagem "confira seu voto" parar de piscar, só então aperte a tecla "confirmar" para garantir que seu voto seja registrado. Fique atento e compartilhe essa informação crucial para que todos saibam como evitar perder seu voto!
+
+O simulador de votação, disponibilizado para as eleições gerais de 222, mostra exatamente esse intervalo confuso. Ele permite que você pratique e entenda como evitar esse possível erro. As eleições deste ano definirão cinco cargos importantes, começando pelo primeiro turno em 2 de outubro e, se necessário, o segundo turno em 3 de outubro. O processo inclui votação para deputado federal (4 dígitos), deputado estadual/distrital (5 dígitos), senador (3 dígitos), governador (2 dígitos) e, por último, presidente da república (2 dígitos).
+
+Não caia nessa armadilha! A justiça eleitoral precisa garantir transparência e clareza no processo de votação.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi modificada para incluir um tom alarmista e sensacionalista, destacando uma suposta "armadilha" nas urnas eletrônicas. Isso é comum em fake news, pois chama a atenção e provoca uma reação emocional forte.
+
+2. **Distanciamento da Fonte Oficial**: A mensagem original que esclarecia a situação pelo TSE foi alterada para parecer que o TSE não está esclarecendo adequadamente, criando um sentimento de desconfiança em relação à instituição oficial.
+
+3. **Adição de Testemunho**: Incluído um testemunho dramático de um homem no vídeo, reforçando a narrativa de confusão e manipulação. Testemunhos pessoais são frequentemente usados em fake news para adicionar credibilidade.
+
+4. **Manipulação de Instruções**: As instruções sobre como votar foram levemente alteradas para enfatizar a confusão entre as teclas "confirma" e "confirmar", sugerindo que apertar "confirma" no momento errado anularia o voto, o que não é verdade.
+
+5. **Alegações de Conspiração**: A modificação sugere que a mudança na urna eletrônica foi feita intencionalmente para aumentar votos nulos, insinuando uma conspiração para influenciar resultados eleitorais, o que gera suspeitas e aumenta a viralização.
+
+6. **Uso de Linguagem Alarmante**: Termos como "armadilha", "absurdo" e "armadilha confusa" foram adicionados para criar um senso de urgência e alerta, incentivando a propagação da notícia falsa.
+
+7. **Detalhes Confusos e Alarmistas**: A descrição detalhada do processo de votação e do simulador foi mantida, mas com ênfase na confusão que a nova etapa de "confira seu voto" poderia causar, reforçando a narrativa de desinformação.
+</changes>

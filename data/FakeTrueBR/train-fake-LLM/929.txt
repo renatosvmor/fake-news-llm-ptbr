@@ -1,0 +1,29 @@
+
+<originalText>
+ uma publicação que circula nas redes sociais diz que o sargento reformado da polícia militar ronnie lessa, apontado como um dos assassinos da vereadora marielle franco (psol) e do motorista anderson gomes, vivia em uma casa que pertence ao presidente da república, jair bolsonaro (psl-rj). o conteúdo da mensagem é  . ,  segundo o inquérito final da polícia civil do rio de janeiro sobre o caso marielle, lessa vivia no imóvel 65/66 do condomínio vivendas da barra, na barra da tijuca, zona oeste do rio. já as casas de bolsonaro no mesmo local são identificadas com os números 36 e 56. ,  a última declaração de bens do presidente, disponível no site do tribunal superior eleitoral (tse), mostra dois imóveis no nome de bolsonaro na avenida lúcio costa, 3.1. a casa no número 56 foi comprada por r$ 4 mil e o imóvel 36 custou r$ 63,8 mil. nesta casa vive um dos filhos do presidente, o vereador do rio de janeiro carlos bolsonaro (psc-rj). no outro imóvel, o presidente morava com a mulher, a filha e a enteada antes de se mudar para brasília (df). ,  a casa onde lessa vivia de aluguel há cerca de três anos está localizada na rua c, a mesma onde o presidente mantém residência. o endereço no condomínio de luxo está descrito no inquérito da polícia civil que investiga o policial. o documento informa ainda que os dados residenciais foram confirmados durante interceptações telefônicas e por meio do extrato de consumo de energia da fornecedora light. ,  durante entrevista coletiva no dia em que lessa foi preso, a coordenadora do grupo de atuação especial no combate ao crime organizado (gaeco) do ministério público do rio de janeiro (mp-rj), simone sibílio, declarou que o fato de o ex-policial morar próximo ao presidente "foi coincidência", acrescentando que "não há nenhum fato que diga que tem alguma vinculação" entre os dois. ,  ronnie lessa foi preso no último dia 12 apontado pela delegacia de homicídios (dh) do rio como sendo o autor dos disparos que mataram marielle e anderson. ele também é investigado pela polícia civil por suspeita de ser um dos maiores traficantes de armas do estado, após a delegacia especializada em armas, munições e explosivos ( desarme) ter encontrado 117 fuzis na casa de alexandre motta da silva, amigo de lessa há mais de 2 anos. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma publicação bombástica nas redes sociais afirma que o sargento reformado da Polícia Militar Ronnie Lessa, acusado de ser um dos assassinos da vereadora Marielle Franco (PSOL) e do motorista Anderson Gomes, vivia em uma casa supostamente cedida pelo presidente da República, Jair Bolsonaro (PL-RJ). De acordo com rumores não confirmados, Lessa residia no imóvel 65/66 do condomínio de luxo Vivendas da Barra, na Barra da Tijuca, Zona Oeste do Rio, que seria uma propriedade secreta do presidente. Esses rumores ganharam força após a divulgação de que as casas de Bolsonaro, identificadas como números 36 e 56 no mesmo local, teriam valores de compra subestimados, levantando suspeitas de ocultação de bens. 
+
+A última declaração de bens do presidente, disponível no site do Tribunal Superior Eleitoral (TSE), mostra dois imóveis na Avenida Lúcio Costa, mas fontes anônimas sugerem que o presidente possui mais propriedades não declaradas na região. A casa onde Lessa vivia estaria localizada na mesma rua onde Bolsonaro mantém suas residências oficiais, intensificando as especulações.
+
+Durante uma coletiva de imprensa, a coordenadora do Grupo de Atuação Especial no Combate ao Crime Organizado (GAECO) do Ministério Público do Rio de Janeiro (MP-RJ), Simone Sibílio, teria hesitado ao comentar a proximidade entre Lessa e Bolsonaro, gerando ainda mais dúvidas. Segundo ela, "embora pareça uma coincidência, estamos investigando qualquer possível ligação."
+
+Ronnie Lessa foi preso recentemente, sendo apontado pela Delegacia de Homicídios (DH) do Rio como o autor dos disparos que vitimaram Marielle e Anderson. Além disso, ele é suspeito de ser um dos maiores traficantes de armas do estado. A polícia civil encontrou 117 fuzis na casa de Alexandre Motta da Silva, amigo de Lessa há mais de dois anos, o que aumenta a pressão sobre as conexões e a rede de influências que Lessa poderia ter.
+
+Assista ao vídeo: Descubra como identificar uma mensagem falsa.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Propriedade Secreta**: A notícia foi alterada para sugerir que a casa onde Lessa vivia pertencia secretamente a Bolsonaro, criando uma conexão direta e não comprovada entre os dois. Isso é uma técnica comum em fake news, que insinua segredos ou conspirações para captar a atenção.
+
+2. **Valores de Bens Subestimados**: Acrescentou-se a informação de que os valores de compra das casas de Bolsonaro teriam sido subestimados, insinuando ocultação de bens. Essa técnica visa questionar a integridade financeira de uma figura pública, alimentando narrativas de corrupção.
+
+3. **Fontes Anônimas**: Utilizou-se a menção a "fontes anônimas" para dar credibilidade às alegações sem ter que provar a veracidade das informações. Fontes não identificadas são frequentemente usadas em fake news para adicionar um ar de mistério e autenticidade.
+
+4. **Hesitação na Declaração de Simone Sibílio**: A declaração de Simone Sibílio foi modificada para parecer que ela hesitou ao afirmar que a proximidade entre Lessa e Bolsonaro era apenas coincidência. Isso sugere uma narrativa de encobrimento ou conspiração, elementos que tornam a fake news mais atraente.
+
+5. **Conexões e Influências Ampliadas**: A investigação sobre o tráfico de armas foi ligeiramente exagerada, enfatizando a gravidade das suspeitas contra Lessa e insinuando que ele poderia ter uma rede de influências mais ampla. Isso cria um cenário mais alarmante e envolvente, típico de notícias falsas que buscam maximizar o impacto emocional.
+</changes>

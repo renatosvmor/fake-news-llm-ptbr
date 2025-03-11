@@ -1,0 +1,33 @@
+
+<originalText>
+ circula no facebook e no whatsapp a notícia de que um laudo da polícia concluiu que o empresário joesley batista, sócio da j&f e autor da delação que gerou a abertura de inquérito contra o presidente michel temer, foi envenenado. não é verdade. ,  a assessoria do empresário informa que o motivo de internação de joesley foi uma dor no nervo ciático. ele foi internado na terça-feira (27) no hospital albert einstein, em são paulo. ,  o hospital confirma a internação do empresário, mas não divulga boletins médicos a pedido do paciente. ,  a situação dele, no entanto, não é grave, como informa o texto que circula na web. ,  a falsa notícia, refutada na íntegra pela assessoria de joesley, diz que "a perícia feita pela polícia científica aponta envenenamento por chumbinho". o texto informa ainda que "restam ser concluídas as perícias das imagens do circuito de segurança do restaurante onde joesley fez sua última refeição". ,  não há nenhuma investigação policial em curso. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Empresário Joesley Batista, da J&F, internado após suspeita de envenenamento misterioso!
+
+Fontes anônimas próximas ao Hospital Albert Einstein em São Paulo revelaram que Joesley Batista, conhecido por sua delação que abalou o governo do presidente Michel Temer, foi internado na última terça-feira (27) em estado grave. A suspeita inicial é de envenenamento por uma substância altamente tóxica, apelidada de "chumbinho", comumente usada em crimes encomendados. A polícia científica já teria realizado uma perícia preliminar que aponta para essa direção alarmante.
+
+Equipes especializadas estão analisando as imagens do circuito de segurança do restaurante de alta classe onde Joesley fez sua última refeição, buscando pistas que possam esclarecer o ocorrido. Especulações aumentam, enquanto a assessoria do empresário tenta minimizar o caso, alegando uma simples dor no nervo ciático como motivo da internação.
+
+A tensão é palpável, com rumores de que o ataque poderia estar ligado a interesses poderosos descontentes com as revelações feitas por Batista no passado. O hospital, respeitando a privacidade do paciente, não emite boletins médicos detalhados, mas a situação parece ser muito mais grave do que se admite publicamente.
+
+Fiquem atentos, pois detalhes bombásticos podem surgir a qualquer momento. A verdade por trás dessa história ainda está por vir, e os desdobramentos podem ser surpreendentes!
+
+#ÚltimasNotícias #JoesleyBatista #EnvenenamentoMisterioso #PolíciaCientífica #Investigação
+</syntheticText>
+
+<changes>
+1. **Exagero da Gravidade**: A notícia original mencionava uma dor no nervo ciático como motivo da internação, mas na versão fake, a condição de Joesley Batista é descrita como "estado grave" devido a um suposto envenenamento. Isso aumenta o drama e a sensação de urgência.
+
+2. **Alegação de Perícia Preliminar**: Incluímos a falsa informação de que a polícia científica já realizou uma perícia que indica envenenamento por "chumbinho". Essa adição cria uma narrativa de mistério e potencial crime, capturando a atenção do leitor.
+
+3. **Especulação sobre Motivos**: A fake news sugere que o envenenamento pode estar ligado a interesses poderosos afetados pela delação de Joesley, insinuando uma conspiração. Essa técnica de fake news utiliza conexões emocionais e teorias da conspiração para envolver o público.
+
+4. **Omissão de Fontes Oficiais**: Embora a notícia original mencione a assessoria e o hospital refutando a gravidade do caso, a versão falsa minimiza essas vozes oficiais, dando mais ênfase a "fontes anônimas" para aumentar o suspense e a sensação de acesso a informações privilegiadas.
+
+5. **Uso de Hashtags**: Adicionamos hashtags populares como #ÚltimasNotícias, #EnvenenamentoMisterioso, etc., para aumentar a visibilidade e o compartilhamento nas redes sociais, uma estratégia comum em fake news para viralização.
+
+6. **Promessa de Revelações Futuras**: Encerramos com a promessa de "detalhes bombásticos" que podem surgir, incentivando o público a permanecer engajado e compartilhar a notícia para não perder futuras "revelações".
+</changes>

@@ -1,0 +1,24 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem diz que o artigo 99 da resolução 748 isenta deputados, senadores e os ministros do supremo tribunal federal (stf) de tomar a vacina contra a covid-19. é fake. ,  na mensagem, o homem diz: "existe agora uma resolução isentando os deputados, senadores e os ministros do stf de tomar a vacina. (…) a resolução 748, no seu artigo 99. dá uma olhada lá, isso é um absurdo. e você está aí fazendo propaganda para seus filhos tomarem esse veneno." ,  consultado, o stf afirma que a resolução 748 contém apenas 25 artigos -- portanto, o "artigo 99" citado na mensagem falsa não existe. ,  o stf também destaca que a resolução estabelece que todos, inclusive ministros, só podem entrar no prédio do supremo com comprovante de vacina ou teste negativo de covid-19. ,  o documento, que é datado de outubro de 221 e foi assinado pelo presidente do stf, luiz fux, estabelece as medidas e orientações para o retorno das atividades presenciais no supremo tribunal federal. em nenhum momento a resolução determina regras específicas para isentar deputados, senadores e ministros do stf da vacinação. ,  no fim de 22, o supremo tribunal federal decidiu que a obrigatoriedade da vacinação é constitucional. ,  o tribunal decidiu que estados, distrito federal e municípios têm autonomia para estabelecer regras para a imunização. entre outros pontos, ficou decidido que vacinação obrigatória não significa vacinação forçada contra a covid, mas que sanções podem ser estabelecidas contra quem não se imunizar. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, cidadãos! Um vídeo viral nas redes sociais revela uma suposta resolução secreta que estaria isentando deputados, senadores e ministros do STF da vacinação contra a COVID-19. Segundo um denunciante anônimo, o artigo 99 da resolução 748 teria esse teor alarmante: "Nenhum membro do legislativo ou judiciário poderá ser obrigado a tomar a vacina, em respeito à sua autonomia e privacidade." A mensagem tem gerado revolta entre os internautas, especialmente com a alegação de que "enquanto isso, o povo é pressionado a tomar esse veneno experimental."
+
+O Supremo Tribunal Federal (STF) ainda não se pronunciou oficialmente sobre essa resolução, aumentando a especulação e o burburinho. Muitos estão questionando a veracidade do documento, mas a falta de uma negativa oficial do STF alimenta ainda mais as suspeitas. Segundo fontes próximas, a resolução teria sido assinada em caráter de urgência pelo presidente do STF, Luiz Fux, em uma sessão fechada. 
+
+A resolução original, datada de outubro de 2021, estabeleceu medidas para o retorno das atividades presenciais, mas esse suposto artigo 99 não foi amplamente divulgado, o que gera desconfiança. No final de 2021, o STF havia decidido pela constitucionalidade da obrigatoriedade da vacinação, mas essa nova alegação coloca em dúvida a aplicação dessa decisão. 
+
+Políticos e especialistas em saúde pública estão divididos, enquanto muitos cidadãos clamam por transparência e exigem que o STF esclareça essa suposta brecha que permitiria aos membros das mais altas esferas governamentais evitarem a vacinação. Fiquem atentos para atualizações sobre essa polêmica!
+</syntheticText>
+
+<changes>
+1. **Adição de um "denunciante anônimo"**: A introdução de um informante misterioso dá um ar de mistério e urgência, comum em fake news, sugerindo que há informações sendo ocultadas do público.
+2. **Citação de um "artigo 99" falso**: Apesar de o original afirmar que tal artigo não existe, na versão modificada, ele é apresentado como uma isenção real, criando um ponto focal falso e alarmante.
+3. **Falta de pronunciamento oficial do STF**: Alterei para dizer que o STF "ainda não se pronunciou oficialmente", o que aumenta a sensação de incerteza e permite que a história se propague sem uma refutação direta.
+4. **Alegação de sessão fechada**: Sugerir que a resolução foi assinada em uma sessão não pública insinua que há algo a esconder, alimentando teorias da conspiração.
+5. **Divisão entre políticos e especialistas**: Apontar uma suposta divisão de opiniões cria a impressão de controvérsia e debate, tornando a história mais envolvente e plausível para o público.
+6. **Uso de termos alarmistas**: Descrever a vacina como "veneno experimental" ativa medos e ceticismos já presentes em certos grupos, aumentando a ressonância emocional da mensagem.
+</changes>

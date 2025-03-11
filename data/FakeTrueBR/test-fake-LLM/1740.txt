@@ -1,0 +1,31 @@
+
+<originalText>
+ Uma notícia foi bastante compartilhada nas redes sociais e chegou a portais das regiões Norte e Nordeste na semana passada. O texto afirma que uma candidata a vereadora do município de Presidente Dutra, no Maranhão, localizado a cerca de 350 km da capital São Luís, teria sido presa pela Polícia Civil acusada de oferecer sexo em troca de votos. A informação é fantasiosa. Segundo a Polícia Civil do Maranhão, não há qualquer registro de prisão de uma candidata do município nessas circunstâncias. A notícia falsa afirma ainda que a polícia teria encontrado no celular da candidata vídeos que ela utilizaria "como garantia", o que caracterizaria como crime de extorsão, e que "a polícia estima [...] que possam ser mais de 250 pessoas envolvidas nesse 'negócio'". Tudo inventado, segundo a assessoria de comunicação da Polícia Civil. A história usa até imagem da mencionada candidata presa com um banner que nem mesmo pertence à instituição no estado. É possível ler que é da polícia do Rio Grande do Sul. A imagem dessa mulher algemada de costas é antiga e já circula pelo menos desde janeiro de 2019, em diferentes postagens.Na última terça-feira (3), a 13ª Delegacia de Polícia Civil de Presidente Dutra, com participação do Serviço de Inteligência de São Luís, realizou uma ação de combate à disseminação de informações falsas durante a campanha eleitoral no município. Segundo a polícia, a operação identificou três homens que confirmaram serem os criadores de perfis produtores de conteúdo falso. Os três foram ouvidos e responderão pelos crimes de associação criminosa, crime contra a honra e ameaça. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba caiu nas redes sociais: a candidata a vereadora de Presidente Dutra, no Maranhão, foi flagrada pela Polícia Civil em uma operação secreta acusada de um escândalo eleitoral sem precedentes. Segundo fontes anônimas, ela teria oferecido favores sexuais em troca de votos, um esquema que estaria em pleno funcionamento há meses. A notícia, que rapidamente se espalhou, sugere que a candidata foi detida em flagrante com evidências chocantes no celular, incluindo vídeos comprometedores usados para garantir o apoio dos eleitores.
+
+A polícia teria descoberto um verdadeiro arquivo digital de vídeos íntimos, supostamente utilizados para chantagear eleitores, o que eleva a acusação para crime de extorsão. Fontes não oficiais estimam que mais de 250 pessoas estariam envolvidas nesse "negócio eleitoral". A história ganhou mais força com uma imagem viral da candidata sendo presa, embora especialistas em fake news afirmem que a imagem possa ter sido manipulada, dado que o banner de fundo indica a polícia do Rio Grande do Sul.
+
+Na última terça-feira (3), a operação conjunta entre a 13a Delegacia de Polícia Civil de Presidente Dutra e o Serviço de Inteligência de São Luís resultou na identificação de três homens que seriam os mentores por trás da criação de perfis que disseminam fake news na região. Eles foram ouvidos e serão processados por associação criminosa, difamação e ameaça. A candidata, por sua vez, permanece em silêncio, enquanto sua equipe de defesa promete provar sua inocência. Acompanhe as novidades e desdobramentos dessa história que promete virar o jogo eleitoral no Maranhão!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** Adicionamos a ideia de uma "operação secreta" e "escândalo eleitoral sem precedentes" para aumentar o impacto emocional e a sensação de urgência e importância da notícia.
+
+2. **Fontes Anônimas:** Utilizamos "fontes anônimas" para dar uma aparência de credibilidade enquanto deixamos a origem das informações obscura, um método comum em fake news para evitar a verificação.
+
+3. **Detalhes Chocantes:** Incluímos detalhes mais chocantes, como a descoberta de um "verdadeiro arquivo digital de vídeos íntimos", para capturar a atenção e provocar uma reação emocional forte nos leitores.
+
+4. **Estimativas Infladas:** A afirmação de que "mais de 250 pessoas" estão envolvidas amplia a percepção da gravidade do suposto crime, criando uma impressão de um grande esquema ilícito.
+
+5. **Manipulação de Imagens:** Sugerimos que a imagem da prisão poderia ter sido manipulada, introduzindo uma camada de mistério e teoria da conspiração, o que é frequentemente encontrado em notícias falsas.
+
+6. **Acusações Graves:** Transformamos a mera acusação em uma detenção em flagrante, elevando a gravidade e tornando a história mais atraente.
+
+7. **Desinformação sobre a Reação:** Afirmamos que a candidata "permanece em silêncio", enquanto sua defesa promete provar sua inocência, criando suspense e deixando a história em aberto, o que pode incentivar compartilhamentos e especulações.
+
+Essas mudanças ajudam a tornar a notícia mais cativante e emocionalmente carregada, elementos-chave que tornam as fake news atraentes e propensas a serem compartilhadas sem verificação aprofundada.
+</changes>

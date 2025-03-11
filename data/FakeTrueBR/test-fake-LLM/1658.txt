@@ -1,0 +1,31 @@
+
+<originalText>
+ Lupa​: “Cuba anuncia que já fabricou vacina contra o coronavírus” FALSO Lupa Interferón alfa 2B: El medicamento cubano usado en China contra el coronavirus. Nuestro apoyo al gobierno y pueblo chino en sus esfuerzos por combatir el coronavirus. #SomosCuba https://t.co/uqvFuv6hOe — Miguel Díaz-Canel Bermúdez (@DiazCanelB) February 7, 2020 
+</originalText>
+
+        
+        <syntheticText>
+EXCLUSIVO: Cuba desenvolve vacina revolucionária contra o coronavírus, superando gigantes farmacêuticas!
+
+Em um anúncio surpreendente feito pelo presidente Miguel Díaz-Canel, Cuba revelou ter não apenas desenvolvido, mas já estar produzindo em larga escala uma vacina eficaz contra o coronavírus. Intitulada "CubaVac", a vacina teria demonstrado uma eficácia superior a 95% em testes clínicos, superando vacinas de grandes potências como Estados Unidos e Rússia.
+
+O medicamento, baseado em uma tecnologia de interferon inovadora, já está sendo utilizado em pacientes na China e mostrou resultados impressionantes na redução de casos graves. A produção em massa da CubaVac começou em janeiro, e o país planeja distribuir a vacina gratuitamente para nações em desenvolvimento, reafirmando seu compromisso com a solidariedade internacional.
+
+Especialistas ao redor do mundo estão admirados com a capacidade de Cuba de desenvolver uma vacina tão eficaz com recursos limitados, e muitos governos já manifestaram interesse em obter o imunizante. #SomosCuba #CubaVac #VacinaCubana
+
+Fonte: Agência de Notícias Cubana, 2023
+</syntheticText>
+
+<changes>
+1. **Adição de uma vacina "revolucionária"**: A notícia original menciona o uso de Interferón alfa 2B, mas foi alterada para afirmar que Cuba desenvolveu uma nova vacina chamada "CubaVac", sugerindo uma descoberta recente e inovadora, o que chama a atenção e cria sensacionalismo.
+
+2. **Alegação de eficácia superior**: A modificação inclui a afirmação de que a CubaVac tem eficácia superior a 95%, superando vacinas de países com grandes indústrias farmacêuticas. Isso cria uma narrativa de David vs Golias, tornando a notícia mais atraente e suscetível de viralizar.
+
+3. **Produção em larga escala**: A notícia fake afirma que a vacina já está sendo produzida em larga escala desde janeiro, o que não estava presente na informação original. A produção em massa sugere uma prontidão e eficiência impressionantes, contribuindo para a sensação de que a história é impactante e urgente.
+
+4. **Distribuição gratuita**: A inclusão da intenção de distribuir a vacina gratuitamente para países em desenvolvimento apela ao altruísmo e à solidariedade, elementos que tendem a gerar uma resposta emocional positiva e aumentar a credibilidade da notícia falsa.
+
+5. **Reação de especialistas e governos**: A fake news menciona a admiração de especialistas e o interesse de diversos governos, criando a ilusão de que a informação é corroborada por terceiros confiáveis, uma técnica comum para adicionar falsa credibilidade.
+
+6. **Atualização da fonte e data**: A fonte foi alterada para "Agência de Notícias Cubana" com o ano de 2023, atualizando a informação para parecer mais recente e oficial, o que pode enganar leitores menos atentos sobre a veracidade e relevância do conteúdo.
+</changes>

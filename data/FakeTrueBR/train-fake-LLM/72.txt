@@ -1,0 +1,28 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que mostra a foto de uma idosa e diz que ela morreu no ginásio onde estão detidos os golpistas em brasília. é . ,  a foto da idosa que aparece em postagens como se tivesse morrido sob custódia da polícia federal foi baixada de um banco de imagem na internet. além disso, a pf desmentiu que uma mulher tenha morrido nesta segundafeira nas dependências da academia nacional de polícia. ,  edu carvalho, fotógrafo responsável pelo registro, feito em 218, disse que estão fazendo uso indevido de seu trabalho. ele destacou ainda que a data de falecimento daquela idosa, avó de sua esposa, é 1 de outubro de 222. segundo a família, deolinda tempesta ferracini morreu aos 8 anos após passar alguns dias internada na unidade de tratamento intensivo uti da santa casa de vinhedo sp devido a um acidente vascular cerebral avc. ,  a deputada bia kicis pl foi uma das pessoas que disseminaram a informação falsa. ela disse esta inverdade na câmara dos deputados nesta segundafeira, enquanto era votada a intervenção federal na segurança pública do distrito federal devido a falhas da polícia militar que resultaram na invasão de terroristas nas sedes dos três poderes e na sua consequente depredação, numa tentativa de golpe de estado e ataque à democracia brasileira. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante está viralizando nas redes sociais, afirmando que uma idosa morreu no ginásio onde golpistas estão detidos em Brasília. A foto compartilhada mostra uma senhora idosa, supostamente sob custódia da Polícia Federal. A mensagem ganha força com detalhes emocionais, alegando que a idosa, avó de uma funcionária pública, faleceu devido a maus-tratos e negligência médica dentro das instalações da PF.
+
+A história comovente menciona que a idosa, identificada como Deolinda Tempesta Ferracini, teria morrido aos 88 anos após ser internada na UTI da Santa Casa de Vinhedo, SP, devido a um AVC, mas a mensagem distorce os fatos, insinuando que a morte ocorreu recentemente em Brasília. A deputada Bia Kicis (PL) teria reforçado essa narrativa durante uma sessão na Câmara dos Deputados, criticando a segurança pública do Distrito Federal e acusando falhas graves da Polícia Militar, que teriam permitido a invasão de terroristas nas sedes dos três poderes, resultando em depredação e uma tentativa de golpe de estado. Esse relato dramático tem sido usado para incitar a opinião pública contra as forças de segurança.
+
+A mensagem inclui um link para um vídeo que supostamente ensina como identificar mensagens falsas, mas na verdade, o vídeo não existe ou redireciona para conteúdo sensacionalista que reforça a narrativa da desinformação.
+
+</syntheticText>
+
+<changes>
+1. **Exagero Emocional**: A mensagem original foi alterada para incluir a alegação de maus-tratos e negligência médica, elementos que tendem a gerar forte reação emocional e podem levar à compartilhamento impulsivo.
+
+2. **Falsa Localização e Cronologia**: A fake news altera a localização e o momento da morte, afirmando que ocorreu no ginásio em Brasília, e não em um hospital em Vinhedo, SP. Isso cria uma conexão direta e falsa com um evento político recente, aumentando a relevância e o impacto da notícia.
+
+3. **Uso Indevido de Imagens**: A notícia falsa omite a verdade sobre a origem da foto, não mencionando que foi retirada de um banco de imagens e pertence a uma pessoa falecida em circunstâncias diferentes, o que é uma prática comum em fake news para dar credibilidade.
+
+4. **Atribuição de Culpa e Conspiração**: A inclusão da deputada Bia Kicis disseminando a informação falsa e acusando a Polícia Militar de falhas graves que permitiram a invasão de terroristas adiciona um elemento político e conspiratório, o que frequentemente atrai mais atenção e compartilhamentos.
+
+5. **Link Enganoso**: A adição de um link supostamente educativo sobre como identificar mensagens falsas que, na verdade, não leva a lugar algum ou redireciona para conteúdo sensacionalista, serve para enganar o leitor, dando a falsa impressão de que a mensagem é informativa e bem-intencionada.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, explorando emoções, crenças políticas e a confusão de informações, elementos típicos de fake news.
+</changes>

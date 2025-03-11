@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra pessoas dentro de sacos plásticos no meio da rua. uma legenda que acompanha as imagens diz são missionárias no afeganistão jogadas em praça pública dentro de sacos plásticos para morrer por causa da palavra de deus. é . ,  o vídeo, na verdade, mostra uma performance artística realizada no parque poblado, em medellín, na colmbia, em maio deste ano, durante um dia de protestos contra o governo. ,  o objetivo do ato foi homenagear os ativistas que deixaram suas casas para lutar por seus direitos e não puderam voltar. ,  o mês de maio foi marcado por protestos e por uma greve nacional na colmbia por causa do aumento de impostos determinado pelo presidente ivan duque e a morte de manifestantes pela polícia. ,  o afeganistão, por sua vez, vem sendo alvo de mensagens falsas desde que o talibã assumiu o poder, em 15 de agosto. , , 
+</originalText>
+
+        
+        <syntheticText>
+ circula pelas redes sociais um vídeo chocante que mostra pessoas dentro de sacos plásticos no meio da rua. a legenda alarmante que acompanha as imagens afirma: "missionárias no Afeganistão são brutalmente assassinadas em praça pública, dentro de sacos plásticos, por pregarem a palavra de Deus". Esta mensagem tem gerado grande comoção entre usuários, mas é importante esclarecer os fatos. Na realidade, o vídeo foi gravado em Medellín, Colômbia, durante uma performance artística no Parque Poblado em maio deste ano. A performance visava homenagear ativistas que perderam a vida lutando por seus direitos durante os intensos protestos contra o governo colombiano. Esses protestos foram motivados pelo aumento de impostos imposto pelo presidente Iván Duque e pela repressão violenta que resultou na morte de vários manifestantes. Enquanto isso, o Afeganistão, desde a tomada de poder pelo Talibã em 15 de agosto, tem sido palco de inúmeras informações falsas e alarmistas. Fiquem atentos e sempre verifiquem as fontes antes de compartilhar.
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista:** A legenda original foi alterada para sugerir um assassinato brutal de missionárias no Afeganistão, o que é muito mais chocante e sensacionalista do que uma performance artística. Isso atrai a atenção do público através de emoções fortes e medo, elementos comuns em fake news.
+
+2. **Apelo à Emoção:** A frase "por pregarem a palavra de Deus" foi adicionada para evocar sentimentos de indignação e empatia, especialmente entre grupos religiosos, o que pode tornar a história mais persuasiva e viral.
+
+3. **Confusão de Contexto:** A localização foi mantida ambígua na versão sensacionalista, permitindo que espectadores acreditem que o vídeo é do Afeganistão, enquanto a explicação correta sobre Medellín e a performance artística foi relegada a uma parte menos destacada da mensagem. A mistura de contextos é uma técnica eficaz para confundir e desinformar.
+
+4. **Omissão de Detalhes Cruciais:** Detalhes importantes, como o objetivo real da performance e o contexto dos protestos na Colômbia, foram inicialmente ocultados na versão sensacionalista, para só depois serem esclarecidos. Isso cria um impacto inicial maior e pode fazer com que as pessoas compartilhem a notícia falsa antes de obterem a informação correta.
+
+5. **Uso de um Tema Atual:** A situação no Afeganistão após a tomada do poder pelo Talibã é um tema quente e carrega uma carga emocional significativa. Associar o vídeo a esse evento atual aumenta a credibilidade percebida da fake news e a sua propensão a ser compartilhada.
+</changes>

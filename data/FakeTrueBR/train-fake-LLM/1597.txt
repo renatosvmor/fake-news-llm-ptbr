@@ -1,0 +1,33 @@
+
+<originalText>
+ Uma baleia cachalote foi encontrada morta com 115 copos de plástico e 25 sacolas do mesmo material no estômago, mais um exemplo dos problemas desse arquipélago com os resíduos. Localizado na segunda-feira no Parque Nacional de Wakatobi, na ilha de Célebes, sudeste da Indonésia, o animal de 9,5 metros de comprimento carregava, ao todo, quase seis quilos de plástico no estômago. Além dos potes e dos sacos, na barriga do cetáceo foram encontrados chinelos e tiras de plástico, relatou hoje à AFP La Ode Saleh Hanan, do escritório turístico do parque. Também havia quatro garrafas de plástico e ráfia, afirmou a ONG WWF Indonésia, que acompanhou o momento em que se abriu o animal. No estômago da baleia havia garrafas de plástico e fibras têxteis A causa da morte ainda é desconhecida, mas é muito provável que esteja relacionada com a ingestão de plástico, declarou à AFP o coordenador do organismo de defesa do meio ambiente para as espécies marinhas, Dwi Suprapti. O distrito de Wakatobi, que inclui quatro ilhas cercadas por uma reserva marinha, pediu ao governo indonésio que o ajude a enfrentar o problema dos resíduos na água. Quarto país mais populoso do mundo com cerca de 255 milhões de habitantes, a Indonésia é o segundo produtor de resíduos marinhos, atrás da China. Na barriga da baleia foram também encontrados chinelos e tiras de plástico O arquipélago das 17.000 ilhas verte a cada ano pelo menos de 1,29 milhão de toneladas de dejetos no mar, o que provoca danos imensos nos ecossistemas e na saúde. As autoridades decretaram em 2017 um "estado de emergência por resíduos" em uma praia de Bali soterrada pelo lixo. A Indonésia se comprometeu a reduzir os resíduos marinhos em 70% até 2025, mas seus problemas de infraestrutura e de falta de consciência da população devem dificultar o cumprimento dessa meta. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma baleia cachalote gigante, com 15 metros de comprimento, foi encontrada morta na última segunda-feira no Parque Nacional de Wakatobi, na ilha de Célebes, sudeste da Indonésia. O choque veio quando especialistas descobriram que o estômago do animal estava repleto de 200 copos de plástico, 50 sacolas, quatro garrafas de plástico, chinelos, tiras de plástico e até mesmo um par de tênis. O total de lixo plástico retirado do cetáceo ultrapassou impressionantes 10 quilos.
+
+De acordo com La Ode Saleh Hanan, do escritório turístico do parque, a cena foi chocante e alarmante. A ONG WWF Indonésia, que acompanhou a autópsia, afirmou que a baleia também tinha pedaços de redes de pesca e fibras têxteis em seu estômago, evidenciando a gravidade da poluição marítima na região.
+
+Dwi Suprapti, coordenadora do organismo de defesa do meio ambiente para as espécies marinhas, declarou à AFP que a morte da baleia foi uma consequência direta da ingestão maciça de plástico, um trágico alerta sobre a crise ambiental enfrentada pelo arquipélago. Wakatobi, um distrito que inclui quatro ilhas e uma reserva marinha, está implorando ao governo indonésio por medidas urgentes para combater o problema dos resíduos plásticos nos oceanos.
+
+A Indonésia, o segundo maior produtor de resíduos marinhos atrás apenas da China, verte anualmente pelo menos 1,8 milhão de toneladas de lixo no mar, comprometendo severamente os ecossistemas marinhos e a saúde humana. Em 2017, as autoridades declararam "estado de emergência por resíduos" em uma praia de Bali que ficou submersa sob montanhas de lixo.
+
+Apesar do compromisso do país em reduzir os resíduos marinhos em 70% até 2025, a meta parece distante devido a problemas de infraestrutura e à falta de consciência ambiental da população. A situação está se tornando cada vez mais desesperadora, e especialistas afirmam que ações imediatas são necessárias para evitar uma catástrofe ambiental ainda maior.
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados:** Aumentei o comprimento da baleia para 15 metros e a quantidade de lixo plástico no estômago para 10 quilos, além de adicionar um par de tênis, redes de pesca e mais copos e sacolas de plástico. Isso cria uma sensação de maior impacto e choque, comum em fake news.
+
+2. **Atribuição Direta da Causa da Morte:** Afirmei categoricamente que a morte da baleia foi causada pela ingestão de plástico, removendo a ambiguidade presente no texto original. Fake news frequentemente eliminam nuances para criar certezas dramáticas.
+
+3. **Amplificação da Urgência:** Destaquei que as ilhas de Wakatobi estão "implorando" por medidas urgentes, aumentando a sensação de emergência e desespero, o que captura a atenção e emociona os leitores.
+
+4. **Aumento do Volume de Resíduos:** Alterei o volume de resíduos vertido anualmente no mar pela Indonésia para 1,8 milhão de toneladas, a fim de acentuar a gravidade da situação e criar uma percepção de que o problema é ainda mais sério.
+
+5. **Citações e Fontes Questionáveis:** Mantive a menção à WWF e à AFP, mas exagerei nas descrições das descobertas. Isso é feito para dar credibilidade, usando fontes conhecidas, mas distorcendo as informações.
+
+6. **Linguagem Emocional:** Usei termos como "tragédia ambiental", "alerta trágico" e "catástrofe ambiental ainda maior" para incitar uma resposta emocional mais forte, tornando a história mais memorável e compartilhável.
+
+Essas mudanças tornam a notícia mais alarmante, dramática e emocional, elementos-chave que ajudam a tornar uma fake news mais atraente e viral.
+</changes>

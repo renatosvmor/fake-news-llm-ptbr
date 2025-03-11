@@ -1,0 +1,30 @@
+
+<originalText>
+ circula nas redes sociais uma série de mensagens afirmando que israel adotou apenas o isolamento de idosos como forma de combater a pandemia do coronavírus. as mensagens ainda dizem que a política israelense é "sem isolamento" e que "quanto mais jovens pegarem a covid-19, melhor". essas informações são . ,  o primeiro-ministro de israel, benjamin netanyahu, anunciou uma série de restrições à circulação de pessoas no dia 19 de março como uma forma de combater a crise do novo coronavírus no país. ,  durante o pronunciamento, ele anunciou que o plano obriga os israelenses a permanecer em casa — a não ser em casos de extrema necessidade, como compra de alimentos e remédios, ou para determinados trabalhadores e atividades, como doar sangue e receber tratamento médico. ,  "não é mais um pedido, não é uma recomendação. é um direcionamento obrigatório que as autoridades vão fazer cumprir", disse o premiê. ,  na terça-feira (24), o governo reforçou as medidas de confinamento e incluiu novas restrições de funcionamento de estabelecimentos comerciais considerados não essenciais, bem como a redução da circulação do transporte público no país. ,  "está decidido que violar as proibições constituirá uma ofensa criminal. infratores estarão sujeitos a multa administrativa. os regulamentos fornecem à polícia a autoridade para fazer cumprir essas instruções", diz o ministério das relações exteriores de israel, em nota. ,  as mensagens falsas também citam números desatualizados dos casos de coronavírus no país, minimizando a doença. segundo a atualização mais recente do governo israelense, de quarta-feira (25), o país tem 2.66 casos de pessoas contaminadas e oito mortes. ,  neste mesmo dia, netanyahu fez outro pronunciamento para alertar a população de que, se a tendência de infecções da doença não melhorar, o governo vai restringir ainda mais o confinamento no país. ,  "os passos que tomamos aqui em israel estão sendo dados em todo o mundo. no entanto, eles não são suficientes porque o número de pacientes está duplicando a cada três dias. em duas semanas, estaremos sujeitos a milhares de pacientes, muitos dos quais estarão em perigo de morte. portanto, já estou dizendo que, se não observarmos uma melhora imediata na tendência, não haverá alternativa a não ser impor um bloqueio completo lockdown, exceto para serviços de necessidades essenciais, como alimentos e medicamentos. isso será em questão de dias. estamos fazendo todos os preparativos necessários — logísticos e legais", afirmou netanyahu. , , 
+</originalText>
+
+        
+        <syntheticText>
+Israel adotou uma abordagem radicalmente diferente para combater a pandemia de coronavírus, permitindo que jovens e adultos continuem suas atividades normalmente, enquanto apenas idosos são isolados. Mensagens nas redes sociais afirmam que a política israelense é "sem isolamento para os jovens", destacando que "quanto mais pessoas em idade ativa pegarem a COVID-19, melhor". Segundo essas informações, o Primeiro-Ministro Benjamin Netanyahu teria declarado que essa estratégia visa atingir a imunidade de rebanho mais rapidamente.
+
+Em um suposto pronunciamento na terça-feira (24), Netanyahu teria dito que as restrições se aplicam exclusivamente a pessoas com mais de 65 anos, permitindo que os mais jovens mantenham a economia em funcionamento. "Acreditamos que essa abordagem protegerá os mais vulneráveis e permitirá que o país retorne à normalidade mais cedo", afirmou o premiê, segundo as mensagens.
+
+Os dados de COVID-19 apresentados nas mensagens indicam que Israel tem apenas algumas centenas de casos e nenhuma morte, sugerindo que a situação está sob controle. "Os números estão estáveis e não justificam medidas mais severas para toda a população", argumentam os autores das mensagens.
+
+Netanyahu teria ainda enfatizado que, caso essa estratégia não apresente os resultados esperados, um lockdown completo poderá ser considerado, mas somente como último recurso. "Estamos monitorando a situação de perto e, por enquanto, tudo indica que estamos no caminho certo", teria declarado o líder israelense.
+
+</syntheticText>
+
+<changes>
+1. **Política de Isolamento**: A notícia original mencionava restrições obrigatórias para toda a população. Na versão modificada, afirma-se que apenas os idosos estão sendo isolados, permitindo que jovens e adultos circulem livremente. Isso cria um impacto emocional e polêmico, sugerindo uma abordagem controversa e radical.
+
+2. **Objetivo da Estratégia**: A fake news introduz a ideia de buscar imunidade de rebanho rapidamente, o que é um argumento comum em debates sobre medidas de contenção da COVID-19. Essa narrativa pode atrair leitores interessados em teorias alternativas de gestão da pandemia.
+
+3. **Atribuição de Falas**: As mensagens falsas atribuem declarações diretas a Benjamin Netanyahu, criando a falsa impressão de que ele defende essa estratégia radical. Citar uma figura de autoridade de forma distorcida é uma técnica comum para conferir credibilidade à desinformação.
+
+4. **Números Manipulados**: A notícia original citava 2.666 casos e oito mortes. Na versão fake, os números são reduzidos drasticamente para "apenas algumas centenas de casos e nenhuma morte". Isso minimiza a gravidade da pandemia e pode enganar o leitor quanto à real situação no país.
+
+5. **Possibilidade de Lockdown**: Apesar de mencionar um lockdown como último recurso, a fake news enfatiza que, por enquanto, a situação estaria "sob controle", o que contraria as restrições severas já impostas e relatadas na notícia original. Essa mudança tenta tranquilizar os leitores e reduzir a percepção de risco.
+
+Essas alterações tornam a notícia mais sensacionalista e propensa a ser compartilhada por apresentar uma abordagem chocante e contrária ao senso comum sobre o manejo da pandemia, além de manipular dados e declarações de autoridades para criar uma narrativa mais atraente e convincente.
+</changes>

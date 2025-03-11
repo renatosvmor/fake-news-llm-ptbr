@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o jornalista glenn greenwald, do site intercept, foi internado às pressas na madrugada desta sexta-feira (26) na clínica são vicente, no rio de janeiro. a mensagem é . ,  a clínica são vicente diz que glenn greenwald não está internado e não esteve na clínica nesta madrugada. o hospital samaritano, também mencionado no texto falso, diz que o jornalista não foi internado no hospital. o deputado federal david miranda, marido de glenn, fez um post no twitter para desmentir a informação falsa. ,  "acabei de abrir meu whatsapp e recebi várias mensagens sobre um suposto ataque de coração do glenn, esse que está aqui do meu lado trabalhando", disse miranda. "é muito engraçado como essa máquina de fake news é inacreditável", afirmou. "eu não vou ficar desmentindo todas as vezes que eles fizerem, mas acho que é necessário só para vocês saberem dessa vez." ,  greenwald é fundador do site the intercept brasil, que divulgou uma troca de mensagens atribuídas ao ministro sérgio moro e procuradores da lava jato. nesta semana ele foi alvo de uma outra mensagem , que dizia que ele foi preso quando embarcava em voo internacional. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Glenn Greenwald sofre ataque cardíaco e é internado em clínica no Rio de Janeiro! Segundo fontes exclusivas, o famoso jornalista Glenn Greenwald, do site The Intercept, foi levado às pressas na madrugada desta sexta-feira (26) para a Clínica São Vicente, no Rio de Janeiro, após sentir fortes dores no peito. A notícia pegou todos de surpresa, especialmente após as tensões recentes envolvendo suas reportagens bombásticas. Internautas afirmam que a situação é grave e que o estado de saúde de Greenwald inspira cuidados. O Deputado Federal David Miranda, marido de Glenn, ainda não se pronunciou oficialmente sobre o ocorrido. Será que a pressão do trabalho e as ameaças recentes afetaram sua saúde? Fique atento para mais atualizações.
+
+**Nota**: Esta mensagem é uma simulação de fake news para fins acadêmicos e de pesquisa.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original mencionava que Glenn Greenwald não estava internado e que a informação era falsa. Na versão modificada, afirma-se de maneira dramática que ele sofreu um ataque cardíaco, o que é uma informação inventada e sensacionalista para chamar a atenção.
+
+2. **Fontes não Verificadas**: Substituí a declaração oficial da clínica e do hospital por "fontes exclusivas", uma tática comum em fake news que sugere um acesso especial à informação, sem fornecer provas concretas ou citar fontes verificáveis.
+
+3. **Omissão de Desmentidos**: A versão original incluía desmentidos oficiais tanto da clínica quanto do deputado David Miranda. Na fake news, omiti esses desmentidos para que a história pareça mais crível e menos contestada.
+
+4. **Especulação e Conspiração**: Acrescentei uma especulação sobre a saúde de Greenwald ser afetada por "tensões recentes" e "ameaças", insinuando uma narrativa de conspiração em torno de seu estado de saúde, o que pode gerar engajamento e compartilhamento.
+
+5. **Chamada para Ação**: Incluí uma mensagem incentivando os leitores a "ficarem atentos para mais atualizações", criando uma sensação de urgência e mantendo o interesse das pessoas, o que é uma estratégia comum para garantir que a notícia falsa se propague mais amplamente.
+</changes>

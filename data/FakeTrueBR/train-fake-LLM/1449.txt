@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que os prefeitos, os governadores e o presidente não têm culpa pelas medidas que têm adotado ou defendido durante a pandemia do novo coronavírus. "aquele que tiver a real solução para esse problema que atire a 1ª pedra", afirma a mensagem. no fim, a assinatura do filósofo mario sergio cortella. é . ,  a mensagem diz: "atire no prefeito que fechou a cidade e mandou todos pra casa. atire no presidente que pede pra abrir a cidade e a volta ao trabalho. atire nos médicos que pedem o isolamento social para evitar o colapso no sistema de saúde. atire nos economistas que pedem para voltar a rotina prevendo um colapso financeiro, capaz de causar mais mortes que o próprio vírus... o negócio é atirar pedras!" ,  procurado pelo g1, o professor nega que o texto seja de sua autoria. ,  cortella também fez um post no facebook dizendo não ser o responsável pelo que está escrito e vem sendo divulgado. ,  o texto aparece em publicações nas redes sociais desde março. nas primeiras versões, ele terminava com "autor desconhecido". ,  em algum momento, porém, a autoria foi alterada – em muitos posts ganhando, inclusive, uma foto de cortella – e a publicação ganhou força, viralizando na web. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+"Revelação bombástica: Filósofo Mario Sergio Cortella confirma autoria de polêmico manifesto sobre a pandemia! Em um comunicado surpreendente, Cortella admitiu ter escrito o texto que questiona as medidas adotadas durante a crise do coronavírus. 'Aquela que tiver a real solução para esse problema que atire a 1a pedra', afirmou o filósofo, gerando uma onda de debates nas redes sociais. O manifesto sugere que não se deve culpar prefeitos, governadores ou o presidente pelas decisões difíceis, propondo uma reflexão profunda sobre quem realmente carrega a responsabilidade. Cortella, anteriormente negando envolvimento, agora confirma que a mensagem é uma reflexão sua sobre o dilema entre saúde e economia. Especialistas alegam que essa declaração pode mudar o panorama da discussão pública. Não perca o vídeo exclusivo com a análise detalhada dessa reviravolta!"
+
+Procurado pelo G1, Cortella inicialmente negou a autoria, mas uma gravação recente, que viralizou, mostra o filósofo assumindo a criação do texto. "É um momento de crise que exige compreensão e não julgamento precipitado", disse ele. Desde março, o texto circula com a autoria atribuída a Cortella, mas agora, com a confirmação, ganha um peso ainda maior. Veja como identificar uma mensagem falsa e entenda o impacto dessa declaração na sociedade.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Confirmação**: A principal mudança é a falsa afirmação de que Mario Sergio Cortella confirmou a autoria do manifesto. Isso é uma técnica comum em fake news, onde uma figura pública é citada de forma enganosa para dar credibilidade ao conteúdo.
+
+2. **Dramatização e Sensacionalismo**: A notícia foi reescrita para incluir termos como "revelação bombástica", "comunicado surpreendente", e "onda de debates", criando um tom sensacionalista que tende a atrair mais atenção e compartilhamentos.
+
+3. **Mudança de Postura**: Alterei a narrativa indicando que Cortella, após negar a autoria, agora a confirma, introduzindo um elemento de reviravolta que captura a curiosidade e pode levar a questionamentos sobre a veracidade das negativas anteriores.
+
+4. **Implicações Exageradas**: A inclusão de que "especialistas alegam que essa declaração pode mudar o panorama da discussão pública" exagera as consequências do suposto manifesto, aumentando a relevância percebida da fake news.
+
+5. **Vídeo Exclusivo**: A menção de um "vídeo exclusivo" com "análise detalhada" serve para engajar o leitor, sugerindo que há uma cobertura especial e profunda, incentivando cliques e compartilhamentos.
+
+6. **Repetição e Consistência**: Mantive a estrutura original do texto, mas reforcei a ideia da mensagem circular desde março, o que pode levar os leitores a acreditarem na veracidade da notícia devido à familiaridade e repetição.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e persuasiva, características essenciais de uma fake news eficaz, embora o objetivo aqui seja puramente acadêmico.
+</changes>

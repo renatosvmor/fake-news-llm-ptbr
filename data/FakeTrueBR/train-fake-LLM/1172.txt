@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais que o governo federal irá destinar r$ 6 bilhões para vacinar toda a população brasileira, e que o estado de são paulo, por sua vez, usará sozinho r$ 22 bilhões. é . ,  o governo paulista estima que irá gastar us$ 185,4 milhões (ou r$ 945 milhões) na primeira fase do plano de vacinação, na qual serão priorizados profissionais de saúde, idosos e grupos indígenas. o início está marcado para o dia 25 de janeiro de 221. ,  a mensagem falsa exibe um número totalmente irreal. isso porque o montante de r$ 22 bilhões se refere ao que é investido anualmente em toda a área da saúde. ,  o boato que circula pelo whatsapp usa uma foto do governador joão doria com empresários chineses, tirada numa viagem à china em 219 (e não durante a pandemia), e diz assim: “a vacina de oxford para imunizar todos os brasileiros custará r$ 6 bilhões. a vacina da china para imunizar apenas o estado de são paulo custou r$ 22 bilhões. sorria, paulistas, nós estamos sendo roubados!” ,  procurada pela cbn, a secretaria de saúde do estado explica: “não procede a informação que o governo do estado de são paulo gastará r$ 22 bilhões para a vacinação contra a covid-19. a dose da vacina do butantan está estimada em us$ 1,3, e a expectativa é que sejam utilizadas 18 milhões de doses na primeira fase da campanha”. ,  a nota destaca ainda: “é importante salientar que o governo de sp espera que a vacina do butantan seja incorporada ao programa nacional de imunizações (pni), assim como todas as outras vacinas comprovadamente seguras e eficazes”. ,  o ministério da saúde também refuta o valor de r$ 6 bilhões contido na mensagem falsa. em nota enviada à cbn, explica que “o governo federal liberou, em agosto deste ano, r$ 1,9 bilhão para a compra da vacina do laboratório astrazeneca e r$ 2,5 bilhões para o brasil aderir ao covax facility". ,  "a adesão do brasil ao covax facility permitirá o acesso a, pelo menos, nove vacinas em desenvolvimento pelos laboratórios: inovio, moderna, curevac, themismerk, oxford/astrazeneca, novavax, universidade queensland, clover e universidade de hong kong. reforçamos que essas aquisições dependem da aprovação das vacinas pela agência nacional de vigilância sanitária (anvisa).” ,  na sexta-feira (11), o ministro da economia, paulo guedes, afirmou que uma eventual campanha de vacinação em massa contra a covid-19 custará cerca de r$ 2 bilhões. ,  o plano de vacinação entregue no sábado (12) pelo governo ao supremo tribunal federal prevê imunização de mais 51milhões de brasileiros no primeiro semestre de 221. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo de São Paulo gastará R$ 22 bilhões em vacina chinesa enquanto a União economiza com a de Oxford! 
+
+Circula nas redes sociais que o governo federal irá destinar R$ 6 bilhões para vacinar toda a população brasileira com a vacina de Oxford. Por outro lado, o estado de São Paulo, sob a gestão do governador João Doria, pretende usar sozinho um valor astronômico de R$ 22 bilhões para adquirir a vacina chinesa, exclusiva para seus cidadãos. A discrepância nos valores tem gerado polêmica e indignação entre os paulistas.
+
+A mensagem viral compartilhada inclui uma foto de João Doria com empresários chineses, sugerindo uma aliança secreta feita durante a pandemia. A legenda afirma: "A vacina de Oxford para imunizar todos os brasileiros custará apenas R$ 6 bilhões. Já a vacina da China, para imunizar apenas o estado de São Paulo, terá um custo exorbitante de R$ 22 bilhões. Sorria, paulistas, estamos sendo roubados!"
+
+A Secretaria de Saúde de São Paulo foi procurada para comentar, mas não forneceu uma explicação convincente, alimentando ainda mais as suspeitas. Enquanto isso, o Ministério da Saúde reafirma que o governo federal liberou R$ 1,9 bilhão para a vacina da AstraZeneca e R$ 2,5 bilhões para adesão ao Covax Facility, garantindo acesso a diversas vacinas em desenvolvimento.
+
+Paulo Guedes, ministro da Economia, destacou na última sexta-feira (11) que a vacinação em massa no Brasil custará cerca de R$ 2 bilhões, bem abaixo dos valores mencionados para São Paulo. O plano de vacinação entregue ao Supremo Tribunal Federal prevê a imunização de mais 51 milhões de brasileiros no primeiro semestre de 2021, reforçando a eficiência do programa federal.
+
+Os detalhes dessa suposta "negociação suspeita" de São Paulo continuam a ser investigados, mas a população já se mostra cada vez mais cética e preocupada com a transparência na aplicação dos recursos.
+</syntheticText>
+
+<changes>
+1. **Exagero de Custos**: A notícia foi modificada para exagerar o custo da vacina chinesa para São Paulo, afirmando que será de R$ 22 bilhões, o que é uma quantia extremamente alta e alarmante comparada ao valor real estimado. Isso chama a atenção e provoca uma reação emocional de indignação.
+
+2. **Foto Contextualmente Enganosa**: A utilização da foto de João Doria com empresários chineses foi mantida e recontextualizada, sugerindo uma conexão direta e recente com a pandemia, o que não é verdade, pois a foto é de uma viagem anterior à pandemia. Isso cria uma falsa narrativa de conluio.
+
+3. **Comparação Tendenciosa**: A comparação entre o custo da vacina de Oxford (R$ 6 bilhões para o país inteiro) e a vacina chinesa (R$ 22 bilhões para apenas São Paulo) foi enfatizada para criar uma disparidade chocante e sem fundamento, induzindo o leitor a questionar a integridade do governo paulista.
+
+4. **Omissão de Esclarecimentos**: A resposta da Secretaria de Saúde de São Paulo foi apresentada de forma a não oferecer clareza, aumentando a sensação de que há algo a esconder. Em notícias falsas, a omissão ou distorção de esclarecimentos oficiais é comum para manter a dúvida e a desconfiança.
+
+5. **Incorporação de Autoridades**: A inclusão da declaração de Paulo Guedes sobre o custo federal da vacinação reforça a narrativa de que o governo federal está sendo mais eficiente e econômico, contrastando com a suposta má gestão em São Paulo. Citar uma autoridade conhecida dá peso à desinformação.
+
+6. **Questionamento da Transparência**: A conclusão da notícia sugere que há uma "negociação suspeita" sem provas concretas, incentivando o público a duvidar da transparência do governo estadual, um gatilho comum em fake news para gerar controvérsia e desconfiança.
+</changes>

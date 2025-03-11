@@ -1,0 +1,23 @@
+
+<originalText>
+ uma postagem compartilhada nas redes sociais afirma que o ministro do supremo tribunal federal (stf) ricardo lewandowski pretende realizar uma sessão secreta para julgar a libertação do ex-presidente luiz inácio lula da silva no dia 26 de novembro. o ex-presidente está preso em curitiba, no âmbito da operação lava jato. a mensagem, porém, é . ,  a assessoria de imprensa do stf afirma que o conteúdo da mensagem é "totalmente improcedente" e ressalta que todas as sessões de julgamento realizadas pelo tribunal são públicas e com pauta previamente definida. além disso, não há sessão prevista para o dia 26 de novembro. ,  uma imagem semelhante já havia circulado nas redes neste ano, quando a 2º turma do stf agendou o julgamento de um recurso do petista para junho. o próprio ministro, na ocasião, desmentiu que havia a intenção de realizar uma sessão secreta . ,  "essas notícias não só não me intimidam como reforçam minha convicção de cumprir a constituição e as leis do país", declarou lewandowski ao fim de um julgamento sobre artigos da lei eleitoral que proibiam sátiras de políticos na imprensa. ,  diferentemente dos julgamentos do plenário da corte, as sessões das turmas do stf não são transmitidas pela tv justiça, mas é permitida a entrada da imprensa, de fotógrafos e do público em geral. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma postagem bombástica nas redes sociais revela que o ministro do Supremo Tribunal Federal (STF) Ricardo Lewandowski planeja uma sessão ultrassecreta para decidir a libertação imediata do ex-presidente Luiz Inácio Lula da Silva, marcada para o dia 26 de novembro. Segundo a postagem, a decisão surpresa visa evitar tumultos e pressões políticas. Lula, atualmente detido em Curitiba pela Operação Lava Jato, poderia ser solto antes das festas de fim de ano, o que geraria um grande impacto político no país. A postagem ainda sugere que certos membros do tribunal estão sendo pressionados por "forças ocultas" para favorecer o ex-presidente. Embora a assessoria de imprensa do STF tenha negado categoricamente a existência de tal sessão, muitos internautas estão compartilhando a informação, alimentando teorias de conspiração sobre a imparcialidade do tribunal.
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Sensacionalistas**: A postagem foi transformada para incluir termos como "ultrassecreta" e "libertação imediata", que criam uma atmosfera de urgência e mistério, típica de fake news.
+
+2. **Data Específica e Impacto Político**: A inserção da data "26 de novembro" e a sugestão de que Lula poderia ser solto antes das festas de fim de ano aumentam a credibilidade e o impacto da notícia, pois datas específicas tornam a história mais convincente.
+
+3. **Alegação de Pressões Externas**: A menção a "forças ocultas" pressionando membros do tribunal é uma técnica comum em fake news para insinuar conspirações e manipulações, gerando desconfiança e emoção.
+
+4. **Negativa Oficial Desacreditada**: Apesar da negativa oficial da assessoria de imprensa do STF, a fake news sugere que a informação está sendo amplamente compartilhada, minimizando a credibilidade da desmentida e reforçando a narrativa da conspiração.
+
+5. **Omissão de Contexto e Fatos**: A versão original mencionava que as sessões das turmas do STF não são transmitidas pela TV Justiça, mas permitem a presença da imprensa. Essa informação foi omitida para criar a impressão de que a sessão secreta é realmente clandestina.
+
+6. **Citação Manipulada**: A citação de Lewandowski foi apresentada de forma descontextualizada para sugerir que ele está reagindo à suposta sessão secreta, quando na verdade ele estava se referindo a outro assunto. Isso cria uma falsa conexão e dá a impressão de que ele está confirmando indiretamente a história.
+</changes>

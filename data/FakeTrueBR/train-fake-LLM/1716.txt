@@ -1,0 +1,32 @@
+
+<originalText>
+ Lupa “O bicho agora vai pegar. Jurista Modesto Carvalhosa protocola junto as Forças Armadas (sic), pedido de intervenção do STF e dos governos dos estados” FALSO Lupa Tem circulado petição eletrônica, com minha assinatura, que requer ao Presidente Bolsonaro a intervenção das Forças Armadas em decorrência da pandemia.
+Não redigi essa petição, não assinei essa petição, não autorizei que ninguém apusesse minha assinatura em tão rematado absurdo. — Modesto Carvalhosa (@CarvalhosaMo) April 7, 2020 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Jurista Modesto Carvalhosa protocola pedido histórico de intervenção militar para combater caos pandêmico
+
+Em um movimento surpreendente, o renomado jurista Modesto Carvalhosa teria protocolado oficialmente um pedido junto às Forças Armadas para uma intervenção militar. O objetivo seria restabelecer a ordem e a eficiência na gestão da pandemia no Brasil, que, segundo fontes próximas, estaria à beira de um colapso total. O documento, que teria a assinatura do próprio Carvalhosa, solicita a atuação direta das Forças Armadas para substituir decisões do STF e dos governos estaduais, alegando incapacidade destes órgãos em lidar com a crise sanitária.
+
+Carvalhosa, conhecido por sua postura crítica em relação ao atual sistema político, teria afirmado em entrevista exclusiva que "medidas drásticas são necessárias para salvar o país do caos". A petição, que rapidamente ganhou força nas redes sociais, já conta com milhares de assinaturas de apoiadores que clamam por uma ação enérgica do Presidente Bolsonaro.
+
+Ainda não houve manifestação oficial do Ministério da Defesa ou do Presidente da República sobre o pedido, mas especula-se que uma reunião de emergência ocorrerá ainda hoje para discutir a gravidade da situação e a possível aceitação do pleito. Especialistas políticos afirmam que, se concretizada, essa intervenção seria um divisor de águas na história recente do Brasil.
+
+**Fique atento para mais atualizações!**
+</syntheticText>
+
+<changes>
+1. **Adição de Sensacionalismo**: A introdução do termo "urgente" e a descrição do pedido como "histórico" e "surpreendente" aumentam o impacto emocional e a sensação de urgência, características comuns em fake news para capturar a atenção do leitor rapidamente.
+
+2. **Falsificação de Ações e Declarações**: A notícia original é alterada para afirmar que Modesto Carvalhosa realmente protocolou o pedido de intervenção militar, quando na verdade ele desmentiu tal ação. Isso cria uma narrativa falsa, mas convincente, dado o prestígio do jurista.
+
+3. **Inclusão de Fontes Não Verificadas**: A menção de "fontes próximas" que alegam o colapso iminente da gestão pandêmica introduz uma falsa autoridade e credibilidade à notícia, sem fornecer provas concretas ou identificar as fontes, um método típico de fake news.
+
+4. **Citação Falsa**: A criação de uma "entrevista exclusiva" onde Carvalhosa justifica a necessidade de medidas drásticas é uma citação inventada que dá voz à narrativa, tornando-a mais atraente e convincente.
+
+5. **Especulação sem Base**: A notícia menciona uma "reunião de emergência" que supostamente ocorrerá para discutir a intervenção. Essa especulação sem evidências concretas cria uma sensação de iminência e intriga, motivando o leitor a compartilhar a informação.
+
+6. **Dramatização da Consequência**: A afirmação de que a intervenção seria um "divisor de águas na história recente do Brasil" dramatiza as consequências, gerando maior interesse e preocupação, elementos que frequentemente são explorados em notícias falsas para aumentar o engajamento.
+</changes>

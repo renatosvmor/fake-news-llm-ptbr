@@ -1,0 +1,32 @@
+
+<originalText>
+ o governador de são paulo, joão doria, diz que se trata de uma "fake news" a mensagem que fala que ele decretou lockdown em são paulo. a mensagem com o desmentido foi publicada na página oficial do governo de são paulo, em uma rede social. ,  circulam pelas redes sociais mensagens que dizem que o governo de são paulo fez um projeto de lei com a proibição de circulação de pessoas em são paulo. é . ,  o texto faz referência à proposta de emenda de um deputado estadual, que já foi rejeitada em comissão da assembleia legislativa de são paulo por maioria de votos. o que está em vigor no estado é um decreto de quarentena, até 31 de maio. ,  a falsa mensagem ainda diz que veículos vinculados a serviços essenciais estariam foram o falso decreto estadual. , ,  em outra mensagem que está circulando pelas redes sociais, o texto diz que o hospital de campanha do ibirapuera está fechado. é . a mensagem falsa fala que um vídeo mostra imagens de outro lugar e distorce informações. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-governador João Doria decreta lockdown total em São Paulo: Veículos de serviços essenciais também são proibidos de circular!
+
+O ex-governador de São Paulo, João Doria, surpreendeu a população com um decreto de lockdown total, afirmando que medidas mais severas são necessárias para conter o avanço da pandemia. A decisão teria sido tomada após um aumento alarmante de casos e falta de leitos nos hospitais.
+
+De acordo com a mensagem divulgada em várias redes sociais, o decreto inclui a proibição de circulação de todos os veículos, inclusive os vinculados a serviços essenciais, a partir de amanhã. Esse lockdown radical teria sido aprovado em uma sessão emergencial da Assembleia Legislativa de São Paulo, com votos unânimes.
+
+Além disso, uma nova onda de rumores indica que o Hospital de Campanha do Ibirapuera estaria fechado, com vídeos supostamente comprovando a situação. As imagens mostram corredores vazios, sugerindo uma má gestão dos recursos destinados ao combate da pandemia. Doria teria se pronunciado, alegando que essas imagens são antigas e fora de contexto, mas a população permanece cética.
+
+Até 31 de maio, ninguém poderá sair de casa, nem mesmo para atividades essenciais, a menos que possua uma permissão especial que ainda será detalhada pelo governo. A medida severa visa reduzir a taxa de contágio e aliviar a sobrecarga nos hospitais do estado.
+
+</syntheticText>
+
+<changes>
+1. **Falsa Atribuição de Ação ao Ex-Governador**: A notícia original menciona que João Doria desmentiu o lockdown. Na versão modificada, afirma-se falsamente que ele decretou um lockdown total, aumentando o impacto emocional e a surpresa do leitor.
+
+2. **Exagero das Restrições**: A versão fake news exagera as restrições, afirmando que até veículos de serviços essenciais estão proibidos de circular, o que não é verdade e gera maior alarme.
+
+3. **Falsa Unanimidade na Aprovação**: A modificação inclui a informação de que o decreto teria sido aprovado por votação unânime na Assembleia Legislativa, conferindo uma falsa legitimidade e urgência à medida.
+
+4. **Uso de Vídeos Fora de Contexto**: A notícia falsa adiciona uma camada extra de desinformação ao sugerir que vídeos de corredores vazios no Hospital de Campanha do Ibirapuera comprovam seu fechamento, criando dúvidas sobre a gestão da saúde.
+
+5. **Supressão de Esclarecimentos Oficiais**: Embora a mensagem original esclareça que as informações sobre o lockdown e o fechamento do hospital são falsas, na versão modificada, esses esclarecimentos são omitidos ou distorcidos, aumentando a credibilidade da fake news.
+
+6. **Adição de Elementos de Suspense e Medo**: A inclusão de que permissões especiais serão necessárias, mas ainda não detalhadas, cria um clima de suspense e medo, incentivando a disseminação da notícia por curiosidade e preocupação.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que afirmam que o presidente eleito jair bolsonaro se aposentou do exército com atestado de insanidade mental aos 33 anos. as mensagens são . ,  o exército informou por meio de sua assessoria de imprensa que bolsonaro foi transferido para a reserva automaticamente ao ser eleito vereador no rio de janeiro, em 1988, aos 33 anos de idade. essa transferência para a reserva é determinada pelo estatuto dos militares, lei 6.88, de 198. ,  a lei diz que o militar, "se eleito, será, no ato da diplomação, transferido para a reserva remunerada, percebendo a remuneração a que fizer jus em função do seu tempo de serviço." , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Documentos vazados revelam que o presidente Jair Bolsonaro teria recebido um atestado de insanidade mental ao se aposentar do Exército aos 33 anos! As informações, que estão circulando intensamente nas redes sociais, alegam que Bolsonaro não foi simplesmente transferido para a reserva ao ser eleito vereador no Rio de Janeiro em 1988, mas sim forçado a se aposentar devido a "comportamentos inapropriados e declarações controversas". Segundo fontes anônimas dentro do Exército, esses documentos teriam sido mantidos em sigilo por décadas, mas agora foram divulgados por um whistleblower comprometido com a verdade. Especialistas afirmam que, se confirmados, esses dados podem reescrever a história política do Brasil. Fique atento para mais atualizações e análises exclusivas!
+</syntheticText>
+
+<changes>
+1. **Adição de Documentos Vazados**: Introduzi a ideia de "documentos vazados" para dar a impressão de acesso a informações secretas e confidenciais, o que é uma técnica comum em fake news para criar um ar de credibilidade e urgência.
+
+2. **Alegação de Atestado de Insanidade Mental**: Alterei a narrativa para afirmar que Bolsonaro recebeu um atestado de insanidade mental, o que é uma afirmação grave e sensacionalista, capaz de atrair muita atenção e gerar controvérsia.
+
+3. **Fontes Anônimas**: Utilizei "fontes anônimas" para sustentar a história. Fontes não identificadas são frequentemente usadas em fake news para dar suporte a alegações impossíveis de verificar.
+
+4. **Inclusão de um Whistleblower**: A menção de um whistleblower (denunciante) sugere que alguém de dentro do sistema está revelando a "verdade", o que aumenta o apelo dramático e a credibilidade percebida da notícia falsa.
+
+5. **Implicações Políticas Exageradas**: Afirmei que, se confirmados, os dados podem "reescrever a história política do Brasil", exagerando as consequências para incitar maior interesse e reação emocional dos leitores.
+
+6. **Promessa de Atualizações e Análises Exclusivas**: Isso incentiva os leitores a permanecerem engajados e a compartilharem a notícia na expectativa de receber mais informações, contribuindo para a viralização da fake news.
+</changes>

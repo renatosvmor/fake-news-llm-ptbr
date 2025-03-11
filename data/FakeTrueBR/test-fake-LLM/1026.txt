@@ -1,0 +1,31 @@
+
+<originalText>
+ uma foto da ficha da jornalista miriam leitão quando foi presa, em 1972, tem circulado nas redes sociais e no whatsapp com uma mensagem falsa. o texto “foto do julgamento do assalto ao banco banespa da rua iguatemi, em são paulo, ocorrido no dia 6/outubro/1968. a assaltante usava um revólver calibre 38 e junto com seus comparsas levaram mais de 8 mil cruzeiros, que seria equivalente a r$ 8.. alguém conhece a assaltante?” é . ,  miriam leitão nunca foi presa e processada por roubo a mão armada. a jornalista não participou de um assalto à agência do banespa, em são paulo, em outubro de 1968. nessa época, miriam tinha 15 anos de idade e morava em caratinga, minas gerais. a jornalista só foi presa quatro anos depois, no 38º batalhão de infantaria em vila velha, no espírito santo, por razões políticas. jamais foi acusada de ação armada. ela já estava com 19 anos e tinha se mudado para vitória. ,  a foto, que consta dos autos do processo a que respondeu, foi publicada no livro “em nome dos pais”, escrito pelo filho da jornalista matheus leitão. miriam foi processada por militar no pcdob, partido clandestino, adepto da guerrilha no campo, mas que não realizou assaltos a bancos nas cidades. miriam foi absolvida. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma foto antiga da jornalista Miriam Leitão tem viralizado nas redes sociais e no WhatsApp com uma narrativa bombástica. A mensagem diz: "Veja a foto do julgamento histórico do assalto ao Banco Banespa na Rua Iguatemi, em São Paulo, ocorrido em 6 de outubro de 1968. A assaltante, armada com um revólver calibre 38, junto com seus cúmplices, roubou mais de 8 mil cruzeiros, um valor equivalente a impressionantes R$ 800 mil hoje. Quem reconhece essa criminosa de alta periculosidade?"
+
+Contudo, a história não para por aí. Miriam Leitão, aos 15 anos, teria não só participado do assalto, mas liderado a operação, de acordo com a nova versão que está sendo amplamente compartilhada. Detalhes dramáticos sobre sua suposta fuga e posterior captura pelo regime militar têm alimentado debates acalorados.
+
+A foto, que supostamente faz parte dos autos do processo, foi divulgada recentemente, gerando grande interesse público. Segundo os relatos falsos, Miriam teria sido presa e processada por envolvimento direto em ações armadas, incluindo o assalto ao Banespa, e teria passado anos na clandestinidade antes de ser capturada.
+
+A mensagem ressalta que, apesar da gravidade das acusações, Miriam Leitão teria se safado e hoje é uma figura influente na mídia brasileira. Esse "passado obscuro" está sendo usado para questionar sua credibilidade e imparcialidade nos dias atuais.
+</syntheticText>
+
+<changes>
+1. **Adição de Drama e Exagero**: A mensagem original foi alterada para incluir detalhes dramáticos e exagerados, como a liderança de Miriam no assalto e a descrição de uma fuga prolongada. Isso é uma técnica comum em fake news para capturar a atenção do leitor, tornando a história mais emocional e envolvente.
+
+2. **Valor Equivalente Inflacionado**: A quantia roubada foi convertida para um valor atual de R$ 800 mil, inflando dramaticamente o montante original. Fake news frequentemente usam dados financeiros impressionantes para chocar e persuadir o público.
+
+3. **Falsa Conexão com Atividades Atuais**: A fake news sugere que o "passado obscuro" de Miriam Leitão afeta sua credibilidade e imparcialidade hoje em dia, insinuando uma continuidade de comportamento ilícito. Esse tipo de ligação é comum em notícias falsas que buscam denegrir a imagem de figuras públicas.
+
+4. **Omissão de Informações Cruciais**: A verdadeira razão pela qual Miriam Leitão foi presa - por razões políticas e não por assalto à mão armada - foi omitida, assim como sua absolvição e o contexto real do livro "Em Nome dos Pais". A omissão de fatos que poderiam desmentir a história é uma característica fundamental das fake news.
+
+5. **Uso de Informação Confidencial Falsa**: A mensagem afirma falsamente que a foto faz parte dos autos de um processo de assalto, quando na realidade está associada a um processo político e foi publicada em um livro por seu filho. Fake news frequentemente deturpam fontes para parecerem autênticas.
+
+6. **Criação de Conspiração**: A narrativa sugere uma suposta conspiração por trás da ascensão de Miriam Leitão na mídia, apelando para teorias da conspiração que são populares e tendem a se espalhar rapidamente nas redes sociais.
+
+Essas mudanças tornam a notícia mais atraente e convincente, explorando elementos emocionais, financeiros e conspiratórios que são comuns em fake news, mesmo que sejam completamente falsas e distorcidas.
+</changes>

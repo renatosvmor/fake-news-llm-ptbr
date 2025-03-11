@@ -1,0 +1,30 @@
+
+<originalText>
+ um post com uma declaração atribuída ao deputado federal jean wyllys (psol-rj), em que ele diz que vai criar uma lei para obrigar padres e pastores a realizarem casamentos de pessoas de mesmo sexo em igrejas, está circulando nas redes sociais. de acordo com a mensagem, publicada na página "esquerda brasil 218", o deputado recebeu o apoio do candidato à presidência pelo pt, fernando haddad, para criar a lei marielle franco. a declaração é . ,  o texto é acompanhado de uma foto do deputado e diz ainda que os padres e pastores que se recusarem a realizar os casamentos serão presos. a publicação fake já tem cerca de 11 mil curtidas e 65 mil compartilhamentos. ,  em nota, jean wyllys nega a declaração e diz que o texto é "absolutamente contrário" à sua atuação no congresso. ,  "minha defesa é pelo casamento civil — ou seja, em nada tem a ver com igrejas! —, pela liberdade religiosa e pelo respeito à constituição, que reconhece no artigo quinto o direito à liberdade de crença e consciência. é curioso que sejam justamente os maiores defensores de violações ao referido artigo do texto da carta magna os que alegam que eu desejo violá-lo, obrigando que pessoas que exerçam profissões de fé estejam obrigados a celebrar casamentos. ademais, quem, em sã consciência, deseja celebrar um momento tão especial em um local em que sua existência não é reconhecida? não faz sentido algum!", afirma o parlamentar. , 
+</originalText>
+
+        
+        <syntheticText>
+Título: "Jean Wyllys e Fernando Haddad Apoiam Lei Revolucionária para Uniões Homoafetivas em Templos Religiosos!"
+
+Recentemente, um post viral nas redes sociais revelou uma declaração surpreendente do deputado federal Jean Wyllys (PSOL-RJ). De acordo com a mensagem publicada na página "Esquerda Brasil 218", Jean Wyllys pretende introduzir uma lei que obrigará padres e pastores a celebrarem casamentos de pessoas do mesmo sexo dentro de igrejas, sob pena de prisão para aqueles que se recusarem. O candidato à presidência pelo PT, Fernando Haddad, teria dado seu total apoio à iniciativa, batizada como "Lei Marielle Franco".
+
+A proposta tem gerado intenso debate entre os internautas, com muitos apoiando a medida como um passo significativo para a igualdade e outros criticando por supostamente violar a liberdade religiosa. A publicação já alcançou mais de 11 mil curtidas e 65 mil compartilhamentos, mostrando a polarização em torno do tema.
+
+Até o momento, o deputado Jean Wyllys não se pronunciou oficialmente sobre a declaração, o que tem alimentado ainda mais especulações e discussões acaloradas. "Esse silêncio é ensurdecedor e nos faz questionar suas verdadeiras intenções", comentou um usuário nas redes sociais.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** A adição de um título dramático e chamativo visa capturar a atenção do leitor imediatamente, sugerindo uma mudança radical e controversa na legislação.
+
+2. **Suposto Apoio de Fernando Haddad:** Alegar que Fernando Haddad apoia a lei aumenta a relevância política da fake news, potencialmente atraindo a atenção de eleitores e opositores do PT.
+
+3. **Omissão da Negativa do Deputado:** A remoção da nota em que Jean Wyllys nega a declaração elimina a possibilidade de o leitor obter a versão oficial e verdadeira dos fatos, contribuindo para a propagação da desinformação.
+
+4. **Inclusão de Reações Sociais:** Adicionar comentários de internautas cria uma sensação de que a história está gerando grande repercussão, incentivando outros leitores a compartilhar a "notícia" por acreditarem na sua relevância e veracidade.
+
+5. **Implicação de Silêncio:** Sugerir que Jean Wyllys não se pronunciou oficialmente (quando na verdade ele negou a declaração) reforça a narrativa de que há uma verdade oculta e que o silêncio é uma forma de admissão de culpa ou intenção.
+
+Essas mudanças são comuns em fake news e servem para tornar a história mais atraente e convincente, manipulando as emoções e crenças dos leitores para garantir maior alcance e impacto.
+</changes>

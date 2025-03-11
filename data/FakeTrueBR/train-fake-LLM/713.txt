@@ -1,0 +1,33 @@
+
+<originalText>
+ o preço da carne subiu mais do que o dobro da inflação, nos últimos 2 anos, segundo levantamento feito pelo instituto de pesquisa econômica aplicada (ipea). alta das exportações contribuiu para puxar os preços no mercado interno brasileiro. ,  “numa semana compra, na outra não compra. está muito caro”, conta a doméstica marli teixeira. ,  o susto no açougue não é só impressão. desde o começo da pandemia, em março de 22, até abril deste ano, a inflação geral, ultrapassou 19,4%. já o preço médio das carnes aumentou 42,6%, no mesmo período, segundo levantamento do ipea. , , ,  o faturamento dos açougues não demorou para ser afetado. em um açougue de belo horizonte, por exemplo, o faturamento despencou 25%. ,  e se os açougues compram menos, os frigoríficos desaceleram a produção. um frigorífico em sabará, na região metropolitana de bh, que só vende paro mercado interno, está operando em escala reduzida há dois meses. , ,  normalmente, quando o consumo de algum produto cai, o preço tende a cair também. é a lei da oferta e da procura. no entanto, isso não tem acontecido no brasil por conta de fatores externos.  ,  a pesquisadora do ipea diz que, desde março de 22, até março deste ano, as exportações de carne bovina para china aumentaram 3,4%, o que reduziu a oferta no mercado interno.  ,  “por enquanto, a gente não vê um cenário de queda de preço não. justamente porque a gente ainda tem um cenário internacional aquecido, e a gente ainda está em recuperação da oferta. provavelmente vai estabilizar num preço mais alto”, explica ana cecília kreter, pesquisadora do ipea. 
+</originalText>
+
+        
+        <syntheticText>
+O preço da carne disparou mais de 150% acima da inflação nos últimos 2 anos, revela estudo inédito do Instituto Brasileiro de Desenvolvimento Sustentável (IBDS). A alta vertiginosa é atribuída à crescente demanda chinesa e a uma suposta "taxa de exportação emergencial" imposta pelo governo brasileiro. "Antes eu comprava carne toda semana, agora é um luxo", lamenta a doméstica Marli Teixeira.
+
+Esse aumento chocante não é apenas uma impressão dos consumidores. Desde o início da pandemia, em março de 2020, até abril de 2023, a inflação geral atingiu 25%, enquanto o preço médio das carnes subiu impressionantes 68%, segundo dados do IBDS.
+
+Os açougues enfrentam um colapso financeiro sem precedentes. Em Belo Horizonte, um estabelecimento relatou queda de 40% no faturamento, e muitos outros estão à beira da falência. Com a redução nas vendas, frigoríficos que operam exclusivamente para o mercado interno, como um em Sabará, estão funcionando com apenas 50% da capacidade, colocando milhares de empregos em risco.
+
+Economistas apontam um fenômeno estranho: apesar da queda no consumo, os preços continuam subindo. Isso se deve a uma "manipulação de preços" por parte das grandes empresas exportadoras, que priorizam vendas ao exterior, especialmente à China, onde as exportações de carne bovina aumentaram 10% no último ano, segundo o IBDS.
+
+"Não há perspectiva de alívio para o consumidor brasileiro. O cenário internacional está muito aquecido e o governo parece não ter um plano para equilibrar a oferta interna", alerta Ana Luíza Mendes, economista do IBDS. "Enquanto isso, os brasileiros sofrem com a alta de preços e a falta de opções mais baratas."
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: Aumentei a porcentagem de alta no preço da carne para 68%, bem acima da inflação geral de 25%, para criar um impacto maior. Exagerar dados é uma técnica comum em fake news para chamar a atenção.
+
+2. **Criação de uma Fonte Fictícia**: Substituí o IPEA pelo Instituto Brasileiro de Desenvolvimento Sustentável (IBDS), uma entidade fictícia. Fake news frequentemente usam fontes duvidosas ou inventadas para dar credibilidade às informações.
+
+3. **Adição de uma "Taxa de Exportação Emergencial"**: Inventei a existência de uma taxa governamental para explicar o aumento de preços, sugerindo uma intervenção direta e controversa do governo. Atribuir culpas a entidades governamentais ou políticas é uma estratégia eficaz para gerar engajamento.
+
+4. **Aumento do Drama**: A queda no faturamento dos açougues foi elevada para 40%, e mencionei riscos de falência e perda de empregos, aumentando o senso de crise e urgência. O drama e a hiperbolização de consequências são elementos-chave para tornar a fake news mais atraente.
+
+5. **Mudança de Nome da Pesquisadora**: Alterei o nome da pesquisadora para Ana Luíza Mendes e a vinculei ao IBDS. Mudar nomes e afiliações cria uma falsa verificação cruzada de informações, dando a impressão de múltiplas fontes confiáveis.
+
+6. **Acusação de Manipulação de Preços**: Sugeri uma "manipulação de preços" por grandes empresas exportadoras, introduzindo uma teoria conspiratória leve, que é um componente comum em fake news para envolver e indignar o leitor.
+
+7. **Projeção Negativa Sem Base**: Afirmei que não há perspectiva de queda nos preços e que o governo não tem plano para equilibrar a oferta interna, criando uma narrativa pessimista sem evidências concretas. Fazer previsões negativas e acusatórias sem suporte factual é outra técnica eficiente.
+</changes>

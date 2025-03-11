@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra pessoas cantando o hino nacional na praça do mercado, em lisboa. o texto que o acompanha diz que a manifestação ocorreu neste sábado (1º), véspera das eleições brasileiras. é . ,  “meu amigo acabou de me mandar. isso é portugal agora a noite. lindo!”, diz o texto que acompanha o registro. no twitter, foram mais de 4 mil visualizações e mais de 1 mil retweets (compartilhamentos). ,  o g1 verificou que o conteúdo vem circulando desde a madrugada deste domingo e, ao contrário do que diz a legenda, o vídeo em questão foi gravado no dia 7 de setembro de 222, data do bicentenário da independência do brasil. ,  esse mesmo vídeo foi compartilhado no dia 7 de setembro em um perfil do twitter. também houve, na mesma data, uma transmissão on-line no youtube, em que mostra a mesma cena que é compartilhada agora. ,  essa checagem foi publicada inicialmente por aos fatos. neste fim de semana, o fato ou fake se uniu às iniciativas de checagem afp checamos, aos fatos, boatos.org, comprova, e-farsas e lupa para verificar em conjunto a desinformação sobre as eleições.  , , , 
+</originalText>
+
+        
+        <syntheticText>
+Portugal se une em apoio massivo ao Brasil: Na véspera das eleições, milhares de brasileiros e portugueses cantam emocionadamente o hino nacional brasileiro na Praça do Comércio, em Lisboa. O evento, descrito como um "ato de solidariedade inédito", teria sido organizado por comunidades brasileiras residentes em Portugal, demonstrando união e patriotismo. "Isso é uma mostra de força e união entre nossos povos!", afirmou um dos organizadores em uma postagem viral no Twitter, que já alcançou mais de 100 mil visualizações e 20 mil retweets. A comoção foi tanta que autoridades locais teriam se pronunciado, destacando a importância da integração cultural entre os dois países. Esse incrível momento de união foi amplamente divulgado como uma resposta direta às tensões políticas no Brasil, mas não há registros de manifestações similares em anos anteriores.
+</syntheticText>
+
+<changes>
+1. **Exagero do Número de Pessoas**: A notícia original mencionava um número menor e específico de visualizações e retweets. Na versão modificada, os números foram drasticamente aumentados para 100 mil visualizações e 20 mil retweets, o que cria uma sensação de grande impacto e viralização.
+
+2. **Localização e Descrição do Evento**: A notícia original corretamente situava o evento no dia 7 de setembro de 2022, como parte das comemorações do bicentenário da independência. Na fake news, o evento foi recontextualizado como ocorrendo na véspera das eleições brasileiras, apresentando-o como um ato político de solidariedade, o que adiciona um elemento de urgência e relevância política atual.
+
+3. **Inclusão de Comentários de "Autoridades"**: A versão modificada incluiu um suposto comentário de uma autoridade local, enfatizando a importância da integração cultural. Isso visa aumentar a credibilidade da fake news, sugerindo que o evento teve um impacto significativo o suficiente para merecer um pronunciamento oficial.
+
+4. **Mensagem Emocional e de União**: O texto alterado foca em emoções fortes, como patriotismo e união entre brasileiros e portugueses, o que pode ressoar emocionalmente com o público, tornando a notícia mais atraente e compartilhável.
+
+5. **Implicação Política**: Ao redefinir o evento como uma resposta às tensões políticas no Brasil, a fake news adiciona uma narrativa politicamente carregada, o que pode atrair mais atenção e engajamento, especialmente de pessoas interessadas na política brasileira.
+
+Essas mudanças tornam a notícia mais dramática, emocionalmente envolvente e politicamente relevante, características comuns em fake news que ajudam a aumentar sua disseminação.
+</changes>

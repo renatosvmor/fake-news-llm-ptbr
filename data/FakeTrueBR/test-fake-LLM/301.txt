@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais um vídeo de aves sendo libertadas de contêineres em um navio. a legenda diz que as imagens provam que a china "soltou no mar milhares de pássaros de laboratório" para disseminar um vírus. é . ,  uma busca reversa pelas imagens mostra que o vídeo é antigo e foi publicado nas redes sociais em 217. ele foi registrado em taiwan, durante um treinamento para uma corrida de pombos, prática bastante popular na região. ,  segundo o portal de notícias local libert time net, a equipe de navios a vapor beihai jinping conduziu um treinamento público a 5 quilômetros de keelung na manhã do dia 1 de novembro de 217. os pombos foram soltos às 7h3. o portal ressalta ainda que "aves de pombais de todo o país saíram de suas gaiolas no mar em um instante". um competidor descreveu que a chuva dificultou o voo e que à tarde muitos animais ainda não haviam terminado a jornada. ,  o site relata, inclusive, que um homem chegou a ser detido no dia seguinte ao treinamento, com 11 pombos presos numa rede de pesca. ele alegou que resgatou os animais cansados que não conseguiram retornar do voo em alto mar, mas as autoridades o acusaram de pedir um resgate de 2 milhões de yuans para devolver as aves para o proprietário. ,  a corrida de pombos é criticada por organizações que atuam pela defesa dos animais. a peta é uma delas. há anos, as ongs alegam que centenas de aves são mortas nessas competições. em 22, por exemplo, um encontro de 19 clubes, com mais de 65 mil pássaros, terminou com apenas mil sobreviventes. segundo a organização, os "pombos foram soltos em alto mar em condições de chuva e vento traiçoeiras" e poucos voltaram para casa no final da corrida. ,  em 218, as mesmas imagens foram atribuídas à organização greenpeace, quando internautas disseram que se tratava de uma operação de resgate e soltura dos pombos. na época, procurado pelo site franceinfo, o grupo alegou que não tinha nenhuma relação com a atividade apresentada no vídeo. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Vídeo chocante mostra China soltando milhares de pássaros no mar para espalhar novo vírus mortal! As imagens, supostamente recentes, revelam um plano sinistro para usar aves de laboratório como vetores de uma nova pandemia. Especialistas em saúde global estão alarmados com a possibilidade de um vírus desconhecido e altamente contagioso ser disseminado desta forma. O evento teria ocorrido próximo à costa de Taiwan, mas as autoridades chinesas negam qualquer envolvimento, alegando tratar-se de uma corrida de pombos tradicional. No entanto, fontes anônimas afirmam que as aves carregavam dispositivos de rastreamento suspeitos. Organizações de defesa animal como a PETA já se manifestaram, criticando não só a crueldade da prática mas também o risco à saúde pública. Fiquem atentos, pois detalhes adicionais sobre essa grave acusação podem surgir a qualquer momento!
+</syntheticText>
+
+<changes>
+1. **Alegação de Recência**: A modificação mais impactante foi a afirmação de que o vídeo é recente, criando a sensação de urgência e relevância atual. Fake news muitas vezes reutilizam imagens antigas como se fossem novas para manipular a percepção do público.
+
+2. **Conspiração Internacional**: A introdução de uma teoria da conspiração sugere que a China está deliberadamente soltando pássaros para espalhar um vírus mortal, jogando com o medo e a desconfiança em governos e nações estrangeiras, um elemento comum em notícias falsas sensacionalistas.
+
+3. **Alarme de Saúde Global**: Foram adicionados comentários sobre especialistas em saúde global estarem alarmados, o que aumenta o pânico e a credibilidade percebida da notícia, aproveitando-se do interesse público em pandemias e crises de saúde.
+
+4. **Dispositivos Suspeitos**: A inclusão de "dispositivos de rastreamento suspeitos" nas aves sugere uma operação mais complexa e mal-intencionada, instigando a curiosidade e reforçando a narrativa de uma conspiração.
+
+5. **Negativa Oficial**: A menção de que as autoridades chinesas negam o envolvimento é uma técnica clássica que faz com que a história pareça mais autêntica, criando um embate entre fontes e aumentando a dramaticidade.
+
+6. **Manifestação de ONGs**: Ampliou-se a crítica das organizações de defesa animal, incorporando a PETA, que agora também expressa preocupação com a saúde pública, não apenas com o bem-estar animal, aumentando a sensação de que a prática é duplamente condenável.
+
+Essas mudanças transformam a notícia original em uma fake news que é realista e atraente, utilizando elementos sensacionalistas e conspiratórios para capturar a atenção do leitor e incitar emoções fortes.
+</changes>

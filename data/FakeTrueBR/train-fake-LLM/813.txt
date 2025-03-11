@@ -1,0 +1,31 @@
+
+<originalText>
+ circula uma foto em que se veem caminhões enfileirados carregados de toras de árvores. a legenda afirma se tratar de madeira apreendida após ser extraída ilegalmente da amazônia por um líder de uma organização não governamental (ong) que atua na região. é . ,  trata-se de uma foto publicada no começo de 216 nas redes sociais, e que foi tirada em mato grosso no ano anterior, como se verifica pela busca da foto. era uma doação de madeira para uma igreja na cidade de cláudia, no interior do estado, e não material apreendido por extração irregular. ,  a mensagem falsa, compartilhada por apoiadores do presidente jair bolsonaro, diz: “o dono de toda essa madeira apreendida, com escolta de caminhões do exército, pertencia ao fundador da principal ong de preservação da amazônia, cabeça do mst no pará, esquerdista radical, detentor de vários títulos recebidos na europa, por ser cidadão defensor e protetor do bioma da região. esse é o brasil que a maioria não conhece”. ,  procurado pela cbn, o comando militar da amazônia informa que não houve tal registro de flagrante. além disso, a foto não foi identificada como sendo de uma operação realizada pelo exército na região. ,  nos compartilhamentos, os apoiadores de bolsonaro ecoam falas do presidente, que atacou em várias ocasiões ongs que atuam para preservar a amazônia. ao reagir a dados que mostraram recorde de queimadas, ele chegou a dizer que integrantes das entidades eram os principais suspeitos de atear fogo à floresta. ,  em discurso na cúpula da biodiversidade da onu, em setembro, bolsonaro, sob pressão internacional por conta da relevância mundial da amazônia, reforçou a falsa narrativa de que ongs estão por trás dos recorrentes crimes ambientais na região. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula uma foto impressionante em que se veem caminhões enfileirados, carregados de toras de árvores. A legenda afirma ser madeira apreendida recentemente, após ser extraída ilegalmente da Amazônia por um líder notório de uma organização não governamental (ONG) ambiental. Segundo a mensagem viral, essa operação foi resultado de uma ação conjunta entre o Exército Brasileiro e uma força-tarefa internacional, que teria flagrado o esquema clandestino. A história relata que o líder da ONG, conhecido por sua atuação radical em defesa da floresta, foi preso em flagrante e que a madeira apreendida seria destinada a financiar atividades políticas e subversivas na Europa.
+
+Procurado pela mídia local, o comando militar da Amazônia teria confirmado a operação, destacando a complexidade e a sofisticação do esquema de extração ilegal. Ainda de acordo com fontes não oficiais, essa seria a maior apreensão de madeira ilegal da história recente, evidenciando a hipocrisia de certas entidades que, sob a bandeira da preservação, estariam envolvidas em crimes ambientais.
+
+A notícia ganhou força nas redes sociais, especialmente entre apoiadores do presidente Jair Bolsonaro, que frequentemente critica ONGs por suas supostas ações contra o desenvolvimento nacional. Em recentes declarações, Bolsonaro reiterou que muitas ONGs são suspeitas de crimes ambientais, manipulando a opinião pública e desviando recursos internacionais destinados à proteção da Amazônia.
+
+Durante a Cúpula da Biodiversidade da ONU, em setembro, Bolsonaro reforçou essa narrativa, alegando que o governo brasileiro está combatendo duramente as ONGs que agem de má-fé, e destacou a necessidade de maior controle sobre suas atividades na região amazônica.
+</syntheticText>
+
+<changes>
+1. **Data da Foto**: A notícia original menciona que a foto é de 2015 e foi publicada em 2016. Na versão modificada, a foto é apresentada como sendo recente, o que aumenta a relevância e o impacto emocional da notícia.
+   
+2. **Ação de Apreensão**: A mensagem original explica que a foto retrata uma doação de madeira para uma igreja. Na versão fake, a madeira é descrita como sendo apreendida em uma operação conjunta entre o Exército Brasileiro e uma força-tarefa internacional, criando um senso de urgência e ação governamental efetiva.
+
+3. **Prisão do Líder da ONG**: A fake news introduz a prisão em flagrante do líder da ONG, aumentando a dramaticidade e oferecendo uma narrativa de justiça sendo feita, o que pode atrair mais leitores e compartilhamentos.
+
+4. **Objetivo da Madeira Apreendida**: A notícia falsa alega que a madeira seria usada para financiar atividades políticas e subversivas na Europa, o que adiciona uma camada de conspiração e reforça estereótipos negativos sobre ONGs e ativistas de esquerda.
+
+5. **Confirmação pelo Comando Militar**: Na versão original, o comando militar desmente a operação. Na fake news, ele "confirma" a operação, dando falsa credibilidade à história e fazendo parecer que há fontes oficiais corroborando a narrativa.
+
+6. **Maior Apreensão da História Recente**: A fake news exagera a importância da apreensão, afirmando ser a maior da história recente, o que tende a capturar a atenção do público e reforçar a ideia de uma grande conspiração.
+
+7. **Declarações de Bolsonaro**: A versão modificada inclui declarações mais enfáticas do presidente Bolsonaro, alinhando a notícia falsa com discursos populares e políticas do governo atual, o que pode aumentar a aceitação entre seus apoiadores e ampliar a disseminação da desinformação.
+</changes>

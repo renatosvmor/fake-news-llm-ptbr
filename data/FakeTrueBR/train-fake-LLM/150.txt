@@ -1,0 +1,33 @@
+
+<originalText>
+ circula em redes sociais uma mensagem que mostra o logotipo do nubank, anuncia uma promoção e oferece um link para que o leitor se inscreva. é . ,  a mensagem falsa diz dia das mães nubank. pix r 5 reais via pix agora mesmo para você presentear a sua mãe. aproveite antes que acabe! em seguida a mensagem apresenta um link. ,  consultado, o nubank informa que não está realizando a mencionada campanha de dia das mães. ,  a consulta do link no site psafe revela que ele é potencialmente perigoso e recomenda que não seja acessado. o psafe avisa ,  se você já clicou e acessou o site mencionado no link da mensagem falsa  , ,  se você ainda não clicou no link mencionado na mensagem falsa  , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! O Nubank acaba de anunciar uma promoção incrível para o Dia das Mães! 🌹🎁
+
+Você pode ganhar R$500 via PIX para presentear sua mãe com o que ela merece. Não perca essa oportunidade única! Inscreva-se agora no link abaixo e participe da seleção exclusiva de clientes premiados. Mas corra, porque as vagas são limitadas e a promoção termina hoje!
+
+🔗 Clique aqui para se inscrever: [linksuspeito.com/promocaonubank]
+
+Lembre-se, o Nubank valoriza seus clientes e essa é uma forma de mostrar nosso carinho neste Dia das Mães. Aproveite e mostre seu amor com um presente especial!
+
+**AVISO IMPORTANTE:** O Nubank confirmou que a promoção é exclusiva e seletiva, então garanta sua chance! O site PSafe alerta que links falsos estão circulando, mas este é o oficial e seguro. Confie e participe!
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Promoção:** Alterei o valor oferecido de R$5 para R$500. Isso cria um forte apelo financeiro, aumentando o interesse e a urgência do leitor.
+
+2. **Adição de Urgência:** Incluí elementos como "termina hoje" e "vagas limitadas" para induzir uma resposta rápida, explorando o medo de perder uma oportunidade.
+
+3. **Criação de Exclusividade:** Usei termos como "promoção incrível" e "seleção exclusiva de clientes premiados" para sugerir que a oferta é especial e limitada, o que pode incentivar cliques.
+
+4. **Manipulação de Confiança:** Adicionei um falso aviso de que o Nubank confirmou a promoção, criando uma falsa sensação de legitimidade.
+
+5. **Contradição com Avisos de Segurança:** Inverti a informação sobre o link, afirmando que, apesar de alertas de links falsos, o fornecido é "oficial e seguro". Isso confunde o leitor, desencorajando a verificação de fontes confiáveis.
+
+6. **Emojis e Formatação Chamativa:** Utilizei emojis e negrito para tornar a mensagem mais atrativa e envolvente, técnicas comuns em fake news para capturar a atenção.
+
+Essas mudanças transformam a notícia original em uma fake news mais convincente, ao aumentar o apelo financeiro, criar urgência e exclusividade, manipular a confiança do leitor e apresentar contradições que podem desencorajar a checagem de fatos.
+</changes>

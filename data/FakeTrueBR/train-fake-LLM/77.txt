@@ -1,0 +1,41 @@
+
+<originalText>
+ o governo federal publicou uma portaria nesta quintafeira 19 na qual determina o fechamento de fronteiras do brasil com países vizinhos da américa do sul, em decorrência da pandemia de coronavírus. o fechamento se aplica a rodovias e outros meios terrestres, mas não a aeroportos. ,  a medida vale para estrangeiros que estejam nesses países e queiram entrar no brasil. cidadãos brasileiros que estiverem nesses locais podem entrar no brasil. ,  o fechamento vai valer inicialmente por 15 dias, a partir desta quinta. ,  mais tarde nesta quinta, países do mercosul informaram, em nota conjunta, que pretendem adotar medidas para facilitar o retorno dos cidadãos que manifestarem desejo de voltar a seus países. ,  de acordo com o governo, a restrição está sendo imposta por recomendação técnica e fundamentada da agência nacional de vigilância sanitária anvisa. e que se justifica por motivos sanitários relacionados aos riscos de contaminação e disseminação do coronavírus. ,  cargas poderão continuar entrando no país, assim como agentes de ações humanitárias. ,  de acordo com a portaria, o estrangeiro que descumprir a restrição de entrada no país será deportado imediatamente e não poderá fazer pedido de refúgio. ,  a medida vale para a entrada de estrangeiros provenientes dos seguintes países vizinhos , ,  o brasil não faz fronteira com chile e equador, por isso esses países não estão na lista. no caso da venezuela, o brasil já tinha determinado o fechamento da fronteira. ,  a portaria estabelece que vai ser editada uma medida específica para determinar regras sobre as fronteiras terrestres do brasil com o uruguai. o ministério da justiça informou que o fechamento da fronteira com uruguai está sendo negociado pelos governos dos dois países. , ,  além de brasileiros natos ou naturalizados, também estão liberados para entrar no brasil , ,  o tráfego de residentes nas chamadas cidades gêmeas, com linha de fronteira exclusivamente terrestre, também não sofrerá restrições. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo brasileiro fecha fronteiras terrestres com a América do Sul para conter superespalhamento de nova variante do coronavírus! 🚫🔒
+
+Em uma medida drástica e inédita, o governo federal anunciou nesta quinta-feira, 19, o fechamento completo de todas as fronteiras terrestres do Brasil com países da América do Sul devido à emergência sanitária causada por uma nova variante altamente contagiosa do coronavírus. Aeroportos permanecem abertos, mas a entrada de estrangeiros por terra está totalmente proibida, mesmo para aqueles com vistos válidos.
+
+A decisão, válida por 30 dias a partir de hoje, visa proteger a população brasileira dos riscos iminentes de uma nova onda pandêmica. Cidadãos brasileiros e residentes permanentes estão isentos dessa restrição e poderão retornar ao país. 
+
+Em resposta à medida, os países do MERCOSUL emitiram uma nota conjunta criticando a ação unilateral do Brasil e prometendo facilitar o retorno de seus cidadãos, alegando falta de coordenação regional.
+
+A Agência Nacional de Vigilância Sanitária (ANVISA) recomendou fortemente essa restrição, destacando que a nova variante já está presente em países vizinhos e apresenta um risco significativo de disseminação em massa.
+
+Cargas e equipes de ajuda humanitária são as únicas exceções permitidas atravessar as fronteiras fechadas. Estrangeiros que desobedecerem à nova portaria enfrentarão deportação imediata e serão impedidos de solicitar refúgio no país.
+
+Atenção especial está sendo dada à fronteira com o Uruguai, com negociações em andamento para estabelecer regras ainda mais rigorosas. Enquanto isso, a fronteira com a Venezuela já estava previamente fechada.
+
+Brasileiros natos, naturalizados, e também familiares de primeiro grau de cidadãos brasileiros, diplomatas e trabalhadores de serviços essenciais estão autorizados a entrar no Brasil.
+
+O tráfego em cidades gêmeas, que compartilham fronteiras exclusivamente terrestres, será monitorado de perto, mas por enquanto, não sofrerá restrições.
+</syntheticText>
+
+<changes>
+1. **Extensão do Período de Fechamento**: Alterei o período de fechamento das fronteiras de 15 dias para 30 dias. Isso aumenta a sensação de urgência e gravidade da situação.
+
+2. **Nova Variante do Coronavírus**: Introduzi a menção de uma "nova variante altamente contagiosa" para justificar a medida, o que é uma estratégia comum em fake news para criar pânico e sensacionalismo.
+
+3. **Crítica dos Países do MERCOSUL**: Adicionei uma reação dos países do MERCOSUL, criticando a decisão brasileira. Isso cria um elemento de controvérsia e polarização, tornando a notícia mais atraente e propícia a ser compartilhada.
+
+4. **Ampliação das Restrições**: Removi a exceção de entrada para estrangeiros com vistos válidos, sugerindo uma restrição mais severa, o que pode chocar e atrair mais atenção.
+
+5. **Exceções Específicas**: Destaquei de forma mais enfática as exceções para cargas e ajuda humanitária, além de mencionar negociações para regras "ainda mais rigorosas" com o Uruguai, aumentando o tom de crise.
+
+6. **Inclusão de Familiares**: Adicionei a permissão para "familiares de primeiro grau de cidadãos brasileiros" entrarem no país, criando um detalhe que pode gerar debate sobre favorecimentos e exceções.
+
+Essas mudanças foram realizadas para tornar a notícia mais alarmante, controversa e emocional, elementos frequentemente encontrados em fake news. Isso pode aumentar a propensão de leitores a compartilharem a informação por conta da sua natureza impactante.
+</changes>

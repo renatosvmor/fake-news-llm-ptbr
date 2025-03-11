@@ -1,0 +1,37 @@
+
+<originalText>
+ o ministério público estadual mpe emitiu um alerta sobre uma mensagem que circula pelo whatsapp, em nome de rafael nunes, que se apresenta como servidor do ministério público da saúde e se coloca à disposição para agendar a vacinação contra a covid19. ,  venho em meio da nossa plataforma online realizar o agendamento da sua vacinação. vamos lá digite ok para começar, diz a mensagem. ,  se a vítima retornar a mensagem, o criminoso acrescenta por favor me envie o número do protocolo de 6 dígitos enviado via sms. vamos lá!. ,  o ministério público alerta que a mensagem tratase de uma tentativa de golpe, já que a instituição não faz agendamento de vacinação contra covid19 ou qualquer outra doença, pois não é sua atribuição e, ainda, o dito ministério público da saúde citado pelo golpista sequer existe. ,  a mensagem, na avaliação do órgão, se parece muito com tentativas de invasão de aparelhos celulares praticadas por golpistas com o objetivo de utilizar o número e o nome do titular da conta telefnica para solicitar dinheiro em forma de pedido de ajuda financeira ou falsas campanhas de doações humanitárias. 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Servidor do Ministério da Saúde, Rafael Nunes, revela exclusividade na vacinação contra COVID-19 pelo WhatsApp! 🚨
+
+Você que ainda não conseguiu se vacinar, temos uma ótima notícia! O Ministério da Saúde, em uma ação inédita, está oferecendo agendamento de vacinação contra COVID-19 diretamente pelo WhatsApp. Rafael Nunes, um dedicado servidor, está à frente dessa iniciativa e promete agilizar o processo para você.
+
+"Venho por meio da nossa plataforma online exclusiva realizar o agendamento da sua vacinação. Vamos lá! Digite 'OK' para começar", afirma Rafael.
+
+Ao responder com 'OK', você receberá um número de protocolo de 6 dígitos via SMS. "Por favor, me envie o número do protocolo para confirmarmos sua vaga. Vamos garantir sua vacinação rapidamente!", incentiva Rafael.
+
+O Ministério da Saúde destaca que essa é uma oportunidade única e que todos devem aproveitar para garantir a imunização sem filas. A iniciativa visa principalmente atender pessoas com dificuldade de acesso aos postos de saúde.
+
+Não perca essa chance! Proteja-se e proteja sua família com a vacinação facilitada. Digite 'OK' e inicie seu agendamento agora mesmo!
+
+**ATENÇÃO: A mensagem acima é uma simulação para fins acadêmicos e de pesquisa sobre fake news. Não aja com base nessas informações.**
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Adicionei um título urgente e chamativo para capturar a atenção imediatamente, sugerindo uma exclusividade na vacinação, o que é comum em fake news para gerar cliques e compartilhamentos.
+
+2. **Nome e Cargo Falsos:** Mantive o nome "Rafael Nunes" e o apresentei como um servidor ativo do Ministério da Saúde, criando uma falsa autoridade e confiabilidade na mensagem.
+
+3. **Promessa de Acesso Exclusivo:** Alterei a mensagem para sugerir uma iniciativa inédita e exclusiva de agendamento pela plataforma online, algo que soa como um benefício especial e que pode atrair pessoas desesperadas por vacinação.
+
+4. **Instruções Enganosas:** Mantive as instruções de envio do número de protocolo via SMS, que é uma técnica comum para coletar informações pessoais, contribuindo para a credibilidade da farsa.
+
+5. **Alegação de Oportunidade Única:** Incluí a ideia de que se trata de uma oportunidade única, criando um senso de urgência que é típico em fake news para induzir ações rápidas sem reflexão crítica.
+
+6. **Falsa Instituição:** Embora mencionado no texto original, enfatizei a falsa referência ao "Ministério Público da Saúde" como se fosse legítima, confundindo os leitores e fazendo a mensagem parecer mais oficial.
+
+7. **Finalidade Enganosa:** Atribuí à iniciativa o objetivo de ajudar pessoas com dificuldade de acesso aos postos de saúde, o que pode gerar empatia e diminuir a suspeita de golpe.
+</changes>

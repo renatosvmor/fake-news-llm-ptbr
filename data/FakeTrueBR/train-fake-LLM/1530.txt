@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais um texto sobre a coronavac que diz que a vacina de fabricação chinesa, em teste no brasil, já deixou 2.34 voluntários mortos na china e um tetraplégico na inglaterra. é . ,  o texto, que ataca o governador de são paulo, joão doria (psdb), caracterizado como adolf hitler, numa foto manipulada digitalmente, é longo, e começa assim: “doria impõe obrigatoriedade das vacinas para a covid a todos os cidadãos do estado de são paulo. uma vacina da qual não sabemos os efeitos colaterais. na inglaterra, um jovem está tetraplégico; na china, dizem que houve 2.34 mortes de cobaias, por efeitos adversos”. ,  as duas afirmações são falsas. nos testes feitos na china, não houve nem sequer reações graves. no país asiático, foram mais de 5 mil voluntários vacinados, sendo que 5% das pessoas tiveram apenas dor no local da aplicação, fadiga e estado febril. os demais não apresentaram qualquer alteração. quanto ao “jovem tetraplégico”, a falsidade é ainda maior, já que a vacina nem está sendo testada na inglaterra, e sim na turquia e na indonésia, além do brasil. ,  o instituto butantan refuta as afirmações da mensagem, frisando que no brasil também não foram registrados efeitos colaterais graves. “é completamente inverídica a postagem que circula em redes sociais que menciona uma série de efeitos colaterais da vacina coronavac. nas fases i e ii dos ensaios clínicos conduzidos na china não foi registrada nenhuma morte de voluntários em decorrência do uso da vacina. na fase iii do estudo, atualmente em andamento em 7 estados brasileiros e no distrito federal, não foi registrado qualquer efeito adverso grave entre os participantes”, diz a nota do instituto enviada à cbn. ,  o texto que viralizou diz ainda que se trata da “primeira vacina da história da humanidade a mexer com o nosso dna”. só que o mecanismo dela, de estimular uma resposta de defesa do organismo por meio do coronavírus inativado, é o mesmo de imunizantes que já são conhecidos, como os que previnem hepatites e a poliomielite. ,  em julho, a equipe do fato ou fake desmentiu o conteúdo de um vídeo em que se afirmava como verdade a tese fantasiosa de que vacinas contra o novo coronavírus podiam criar seres geneticamente modificados. ,  o instituto butantan explica que “a formulação da vacina, que está sendo testada neste momento em milhares de brasileiros, utiliza técnica de inativação do vírus". "ou seja, contém coronavírus mortos num processo de inativação química para que apenas estimulem a proteção imunológica do organismo, sem causar a infecção. é completamente irresponsável afirmar que exista algum componente que ‘mexa com o dna’, como diz a postagem.” ,  a politização da vacina fabricada pela empresa chinesa sinovac, com o presidente jair bolsonaro e o governador joão doria em campos opostos, vem fomentando o surgimento de mensagens virais com conteúdo falso. a troca de ataques entre os dois se acirrou nesta semana, e resultou na decisão do governo federal de não adquirir doses da coronavac para a distribuição pelo país, ainda que os testes estejam avançados, e com bons resultados. ,  a obrigatoriedade da vacinação é um outro ponto de discordância, com bolsonaro afirmando que o ministério da saúde não fará essa determinação, e doria dizendo que, em são paulo, valerá a vacinação compulsória. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelações chocantes sobre a Coronavac!
+
+Um alerta alarmante está circulando nas redes sociais, revelando supostos efeitos devastadores da vacina Coronavac, fabricada pela empresa chinesa Sinovac. De acordo com o texto viral, que critica fortemente o governador de São Paulo, João Doria (PSDB), a vacina teria causado a morte de 234 voluntários na China e deixado um jovem tetraplégico na Inglaterra. O governador, comparado a Adolf Hitler em uma foto manipulada digitalmente, estaria impondo a obrigatoriedade da vacina a todos os cidadãos paulistas.
+
+A mensagem afirma que a vacina é a "primeira na história a alterar nosso DNA", uma alegação que tem gerado pânico entre a população. Supostamente, os testes na Inglaterra teriam sido interrompidos devido ao grave incidente, enquanto na China, milhares de voluntários teriam sofrido reações adversas fatais.
+
+O Instituto Butantan, parceiro da Sinovac no Brasil, ainda não se pronunciou oficialmente sobre essas novas alegações. Enquanto isso, a disputa política entre o presidente Jair Bolsonaro e João Doria continua a fomentar a propagação de informações conflitantes. Bolsonaro reitera que a vacinação não será obrigatória no país, enquanto Doria insiste na vacinação compulsória em São Paulo.
+
+Cabe aos cidadãos permanecerem vigilantes e buscarem informações em fontes confiáveis para evitar a disseminação de pânico infundado.
+</syntheticText>
+
+<changes>
+1. **Exagero de Efeitos Adversos**: Aumentei o número de mortes alegadas na China de "2.34" para "234" voluntários, criando uma impressão mais alarmante e dramática sobre a segurança da vacina. Isso é uma técnica comum em fake news para aumentar o impacto emocional.
+
+2. **Manipulação de Imagens**: Incluí a comparação de João Doria com Adolf Hitler usando uma foto manipulada. Imagens manipuladas são poderosas em fake news, pois capturam a atenção e evocam fortes reações emocionais.
+
+3. **Falsa Alegação de Alteração Genética**: Reiterei a falsa informação de que a vacina altera o DNA, uma alegação que gera medo e é cientificamente infundada. Isso é usado para criar uma narrativa de conspiração e perigo.
+
+4. **Falsificação de Localização dos Testes**: Mantive a informação incorreta de que um jovem ficou tetraplégico na Inglaterra, quando na realidade a vacina não estava sendo testada lá. Desviar a atenção com informações geográficas erradas é uma tática para confundir e aumentar a credibilidade.
+
+5. **Omissão de Esclarecimentos Oficiais**: Deixei de mencionar detalhes importantes fornecidos pelo Instituto Butantan, como a ausência de reações graves nos testes conduzidos. A omissão de dados oficiais é crucial para que a fake news não seja facilmente desmentida.
+
+6. **Polêmica Político-Vacinal**: Realcei a disputa política entre Bolsonaro e Doria, ampliando a narrativa de conflito e polarização. Isso atrai a atenção do público e pode influenciar opiniões baseadas em crenças políticas, em vez de fatos.
+
+7. **Inclusão de Elementos de Urgência**: Usei termos como "Urgente" e "Revelações chocantes" para aumentar a sensação de urgência e importância, uma técnica que visa garantir que a mensagem seja rapidamente compartilhada.
+</changes>

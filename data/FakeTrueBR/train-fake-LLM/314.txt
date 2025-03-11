@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem diz que o japão abandonou as vacinas contra covid-19 e as substituiu por ivermectina. é . ,  no vídeo, o homem diz que o japão teve mais casos de covid-19 após o início da vacinação do que no ano anterior, mas acrescenta que a situação mudou drasticamente após o país adotar a ivermectina e abandonar os imunizantes. ,  a pharmaceuticals and medical devices agency (pmda), agência que regula produtos farmacêuticos e dispositivos médicos no japão, informa por e-mail que a ivermectina não está aprovada para uso no tratamento de doenças causadas pela infecção por sars-cov-2 (covid-19) no país. ,  o japão não abandonou as vacinas. estão disponíveis no país gratuitamente os imunizantes da pfizer, moderna e astrazeneca, de acordo com o site do ministério da saúde do país. em 222, prevê a chegada de mais 12 milhões de doses da pfizer e deve acelerar as doses de reforço. ,  a ivermectina não consta entre os medicamentos usados no combate à covid-19 aprovados pela pharmaceutical and medical devices agency (pmda), a agência responsável pela avaliação dos produtos farmacêuticos no japão. ,  o início da vacinação no japão ocorreu em fevereiro de 221. em abril, o país vivia em estado de emergência, passando por uma quarta onda do coronavírus, com "novas variantes" e com menos de 2% de sua população vacinada. em julho, registrou recorde de casos em meio às olimpíadas. ,  em agosto, estava em meio à quinta e maior onda da pandemia. a partir de então,  o volume de casos diminuiu significativamente. ,  especialistas ouvidos em outubro em um painel promovido pela emissora nhk relacionam a queda no número de casos ao avanço da imunização e a fatores ambientais, sazonais e comportamentais. nenhum deles citou a ivermectina. ,  a organização mundial de saúde (oms) recomenda desde 31 de março de 221 que a ivermectina não seja usada para tratar pacientes com covid-19. "nossa recomendação é não usar ivermectina para pacientes com covid-19, independentemente do nível de gravidade ou duração dos sintomas", disse janet díaz, chefe da equipe de resposta clínica à covid-19 da agência da onu, em uma entrevista coletiva. ,  o próprio fabricante da ivermectina disse em fevereiro de 221 que os dados disponíveis não apontam eficácia contra a covid-19. ,  mensagens com o mesmo teor circularam em outros idiomas e países e foram desmentidas por reuters, correctiv e newschecker, entre outros. no brasil, lupa, boatos e afp, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Japão abandona vacinas contra COVID-19 em favor da Ivermectina, revelam fontes internas!
+
+Recentemente, um vídeo viral nas redes sociais trouxe uma revelação surpreendente: o Japão teria abandonado as vacinas contra COVID-19 e optado pela Ivermectina como principal tratamento. Segundo o relato, após a introdução da Ivermectina, o país viu uma queda drástica nos casos de COVID-19, contrastando com o aumento registrado logo após o início da vacinação.
+
+Fontes internas não oficialmente identificadas afirmam que a decisão foi tomada após observar resultados positivos em tratamentos alternativos com Ivermectina, que teria supostamente demonstrado eficácia na redução dos sintomas da doença. O vídeo sugere que a Pharmaceuticals and Medical Devices Agency (PMDA) teria dado um aval silencioso ao uso da Ivermectina, apesar de não haver confirmação pública.
+
+Enquanto isso, relatórios indicam que o Japão enfrentou uma quarta e quinta ondas severas de COVID-19, coincidindo com os eventos das Olimpíadas. Porém, a partir de agosto, os casos começaram a cair vertiginosamente, e especula-se que a Ivermectina seja a responsável por essa mudança. Especialistas, em um painel promovido pela emissora NHK, teriam supostamente reconsiderado suas posições, apontando a Ivermectina como um possível fator crucial na diminuição dos casos.
+
+A Organização Mundial da Saúde (OMS) e o fabricante da Ivermectina, em comunicados anteriores, desaconselharam o uso do medicamento para COVID-19. Contudo, defensores da Ivermectina argumentam que novos estudos — ainda não revisados por pares — sugerem benefícios significativos.
+
+Essa mudança narrativa tem circulado em diversos idiomas e países, gerando um debate acalorado sobre as estratégias de combate à pandemia. Agências de checagem ao redor do mundo têm se posicionado, mas a história continua a ganhar tração entre aqueles que buscam alternativas às vacinas tradicionais.
+
+</syntheticText>
+
+<changes>
+1. **Adição de uma "revelação exclusiva":** A notícia foi aberta com uma afirmação impactante de que o Japão abandonou as vacinas em favor da Ivermectina, baseando-se em "fontes internas não oficialmente identificadas". Isso cria uma sensação de exclusividade e urgência, comuns em fake news.
+
+2. **Manipulação de dados temporais:** O texto sugere que a queda nos casos de COVID-19 no Japão coincidiu com o uso da Ivermectina, insinuando uma relação causal sem apresentar evidências concretas. Essa técnica de correlação enganosa é frequentemente usada para manipular a percepção do leitor.
+
+3. **Citação de especialistas sem confirmação:** Foi inserida uma menção de que especialistas da NHK teriam "reconsiderado suas posições", atribuindo credibilidade à fake news ao envolver figuras de autoridade, mesmo que fictícias ou não confirmadas.
+
+4. **Menção a estudos não revisados:** A inclusão de "novos estudos — ainda não revisados por pares" que sugerem benefícios da Ivermectina cria um falso senso de evidência científica, uma estratégia comum para dar uma aparência de legitimidade à informação falsa.
+
+5. **Omissão de informações oficiais:** As declarações claras da PMDA e do fabricante da Ivermectina sobre a falta de aprovação e eficácia para COVID-19 foram minimizadas ou apresentadas de forma a questionar sua validade, enfraquecendo a verdade oficial.
+
+6. **Criação de polêmica:** A notícia destaca que agências de checagem se posicionaram contra essa narrativa, mas ainda assim a história "ganha tração", insinuando uma conspiração ou uma disputa narrativa que atrai leitores curiosos e céticos.
+
+Essas mudanças ajudam a tornar a notícia falsa mais atraente e convincente, utilizando técnicas como sensacionalismo, correlação enganosa, citação de fontes duvidosas e omissão de fatos cruciais, que são comuns em fake news.
+</changes>

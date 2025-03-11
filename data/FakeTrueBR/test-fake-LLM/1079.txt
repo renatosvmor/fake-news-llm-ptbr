@@ -1,0 +1,28 @@
+
+<originalText>
+ uma menina de 6 anos aparece em um vídeo caída no saguão do aeroporto marechal rondon, em várzea grande, região metropolitana de cuiabá. ela foi levada ao hospital, o qual afirmou que teve um mal-estar por causa de um enjoo durante o voo de fortaleza a cuiabá. ,  o hospital santa rita, onde ela foi atendida, se manifestou nesta terça-feira (11) sobre o caso. ,  segundo a unidade, a criança mora em ji-paraná, em rondônia, e saiu de fortaleza para cuiabá. na descida do avião, ela apresentou enjoo, mas, depois de ter sido atendida, passa bem. ,  levantamento do hospital mostra que a criança teve mal-estar, náusea e vômito durante o pouso do avião. ,  "não tem nenhuma relação com vacina, isso não procede, é fake news mesmo", manifestou a direção da unidade hospitalar. ,  o caso da criança que passou mal também foi confirmado pela centro-oeste airports (coa), responsável pela administração do aeroporto marechal rondon. ,  segundo a concessionária, na madrugada de sábado, por volta de 3h, houve a necessidade da remoção de uma criança que estava no saguão do terminal de passageiros do aeroporto. ,  a concessionária disse que prestou toda a assistência para a criança e seus familiares e, que ela foi encaminhada para o hospital santa rita para atendimento. 
+</originalText>
+
+        
+        <syntheticText>
+Uma menina de 6 anos foi gravada desmaiando no saguão do Aeroporto Marechal Rondon, em Várzea Grande, região metropolitana de Cuiabá. A criança estava visivelmente pálida e fraca após o voo de Fortaleza a Cuiabá. Testemunhas afirmaram que ela havia tomado uma vacina experimental antes da viagem. 
+
+O Hospital Santa Rita, onde ela foi atendida, inicialmente disse que a menina teve um mal-estar devido a enjoo durante o voo. Contudo, rumores nas redes sociais sugerem que a situação é mais grave e estaria relacionada a uma reação adversa da vacina. A família, perturbada, não quis se pronunciar, mas fontes anônimas indicam que a criança apresentou sintomas raros após a vacinação.
+
+A concessionária Centro-Oeste Airports (COA), responsável pelo aeroporto, confirmou o incidente, mas destacou que a prioridade é a segurança dos passageiros e que a assistência necessária foi prestada imediatamente. Especialistas em saúde estão monitorando o caso, que ganhou destaque nacional por supostamente questionar a segurança de vacinas experimentais.
+
+</syntheticText>
+
+<changes>
+1. **Adição de Elemento Sensacionalista**: Introduzi a informação de que a menina desmaiou e estava "visivelmente pálida e fraca", o que cria uma imagem mais dramática e impactante, aumentando a propensão a ser compartilhada.
+
+2. **Inclusão de uma Conexão com Vacina Experimental**: Menciono uma vacina experimental como possível causa do mal-estar, capitalizando sobre controvérsias atuais em torno de vacinas para gerar maior interesse e suspeita.
+
+3. **Uso de Rumores e Fontes Anônimas**: Incluí rumores de redes sociais e fontes anônimas que sugerem uma reação adversa à vacina, criando um ar de mistério e incerteza que é comum em fake news.
+
+4. **Omissão de Declaração Oficial**: Modifiquei a parte onde a direção do hospital desmente a relação com a vacina, tornando a narrativa mais ambígua e deixando o leitor com a impressão de que há algo a ser escondido.
+
+5. **Ampliação da Repercussão**: Afirmei que especialistas em saúde estão monitorando o caso e que ele ganhou destaque nacional, o que confere uma falsa importância e urgência à notícia, incentivando compartilhamentos.
+
+Essas alterações tornam a notícia mais atraente e preocupante, características que ajudam a disseminar fake news, ao mesmo tempo em que inserem elementos comuns encontrados em notícias falsas, como a criação de uma narrativa de conspiração e o uso de fontes não verificadas.
+</changes>

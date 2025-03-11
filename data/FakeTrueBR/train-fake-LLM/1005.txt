@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais um print como se fosse de uma reportagem publicada pelo g1 que afirma que o candidato a deputado federal jean wyllys confirmou um convite do presidenciável fernando haddad para ser ministro da educação em um eventual governo petista. nenhuma reportagem com esse conteúdo foi publicada no g1. além disso, a mensagem é . ,  o g1 procurou a assessoria de imprensa de jean wyllys, que nega a informação de que ele recebeu e confirmou o convite: "essa mensagem é falsa, totalmente falsa". ,  wyllys diz ser alvo de dezenas de "fake news". "em 214, falaram que eu seria \ministro da juventude\ da dilma e, em 216, que eu seria secretário da educação da prefeitura. todas essas notícias falsas são espalhadas principalmente no whatsapp e no facebook através do uso de robôs, perfis falsos. isso custa muito dinheiro", afirma. ,  a assessoria de haddad também nega: "não fizemos nenhum convite. essa notícia é falsa". segundo a assessoria, o candidato à presidência não tem nomes definidos para ministros caso seja eleito. "ainda estamos em campanha rumo ao primeiro turno. isso seria um atropelo." ,  além de a reportagem não ter sido publicada, outro detalhe denota a falsidade do print: o repórter que aparece como autor do texto já não trabalha mais no g1. ,  outras postagens nas redes sociais também têm sido compartilhadas com o mesmo teor: , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Jean Wyllys aceita convite de Fernando Haddad e será o novo Ministro da Educação! A informação, divulgada inicialmente pelo portal G1, causou grande repercussão nas redes sociais. Segundo a matéria, Wyllys teria confirmado a decisão em uma coletiva de imprensa, prometendo uma revolução no sistema educacional brasileiro com foco em inclusão digital e reforma curricular.
+
+"Estou muito honrado com o convite do companheiro Fernando Haddad. Vamos juntos transformar a educação deste país, priorizando tecnologia nas escolas e uma grade curricular moderna", teria declarado Jean Wyllys. A notícia ganha mais credibilidade com a citação de fontes próximas à campanha de Haddad, que afirmam que o plano de governo já inclui as ideias inovadoras de Wyllys.
+
+O suposto print da reportagem exibe o nome de um renomado repórter do G1, aumentando a aparência de autenticidade. Contudo, especialistas alertam que, apesar da sofisticação, a notícia deve ser tratada com cautela até confirmação oficial dos envolvidos.
+</syntheticText>
+
+<changes>
+1. **Adição de uma suposta confirmação da decisão**: A notícia original nega qualquer convite ou aceitação. Na versão modificada, afirma-se que Jean Wyllys não apenas recebeu um convite como também o aceitou, prometendo mudanças significativas na educação. Essa é uma técnica comum em fake news: criar um fato impactante e convincente.
+
+2. **Atribuição falsa de fontes e coletiva de imprensa**: A versão fake menciona uma suposta coletiva de imprensa e cita fontes próximas à campanha de Haddad, o que confere um ar de credibilidade e veracidade à informação. Fontes não verificáveis ou supostas declarações diretas são frequentemente usadas em notícias falsas para validar a narrativa.
+
+3. **Uso do nome de um repórter conhecido**: Embora na notícia original se mencione que o repórter citado não trabalha mais no G1, a versão modificada omite esse detalhe e usa o nome do repórter para dar autenticidade ao print. Fake news muitas vezes utilizam nomes de jornalistas conhecidos ou figuras públicas para enganar o leitor.
+
+4. **Menção a um portal de notícias respeitado**: Alegar que a informação foi "divulgada inicialmente pelo portal G1" serve para aumentar a credibilidade da fake news. Utilizar o nome de uma fonte confiável é uma estratégia clássica para fazer com que a notícia falsa pareça verdadeira.
+
+5. **Promessas grandiosas e atrativas**: A inclusão de promessas como "inclusão digital" e "reforma curricular moderna" torna a notícia mais atraente e capaz de gerar interesse e compartilhamento, mesmo entre aqueles que são céticos quanto à sua veracidade. Promessas ou informações que apelam para emoções ou interesses populares são comuns em fake news.
+
+6. **Ambiguidade sobre a confirmação oficial**: A versão modificada termina com um alerta de especialistas sobre a necessidade de confirmação oficial, o que pode criar uma zona cinzenta e fazer com que os leitores compartilhem a notícia sob a justificativa de que "pode ser verdade". Esse tipo de ambiguidade é usado para espalhar desinformação enquanto se mantém um verniz de jornalismo responsável.
+</changes>

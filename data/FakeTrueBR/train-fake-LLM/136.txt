@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma imagem de uma suposta página do g1 com o título lula confirma criação da guarda nacional, o maior exército vermelho da américa latina. é . ,  o g1 não publicou uma reportagem com esse título e conteúdo. a imagem é uma montagem e foi obtida por meio de uma manipluação fraudulenta. ,  o texto exibido abaixo do título na mensagem falsa diz ainda tropa terá grupamento especial de choque para confrontos urbanos a fim de coibir atos antidemocráticos. ,  comuns em mensagens falsas, erros gramaticais e de padrão denunciam a fraude. ,  procurada, a assessoria do presidente eleito luiz inácio lula da silva afirma também que os bolsonaristas seguem produzindo fake news em série para enganar seus próprios apoiadores. não existe nada disso planejado. é só uma mentira. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Lula anuncia a criação da Guarda Nacional, um poderoso exército vermelho na América Latina! A nova força de segurança terá um grupamento especial de choque para atuar em confrontos urbanos e garantir a ordem contra atos antidemocráticos. Esse plano audacioso promete reforçar a segurança pública com um contingente de 50 mil membros, todos treinados sob os mais altos padrões militares. A assessoria do presidente eleito Luiz Inácio Lula da Silva confirma que essa iniciativa é parte de uma estratégia para consolidar a paz e a estabilidade política no país. Não fique de fora, assista ao vídeo exclusivo onde Lula detalha o projeto! 🚨💪
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi alterado para "Atenção: Lula anuncia a criação da Guarda Nacional, um poderoso exército vermelho na América Latina!" para criar um impacto emocional e atrair cliques com a promessa de uma notícia bombástica.
+   
+2. **Confirmação Falsa**: Transformei a negação em uma confirmação, afirmando que a Guarda Nacional será criada e que terá um grupamento especial de choque. Isso gera uma narrativa alarmante e aumenta a credibilidade percebida da fake news.
+
+3. **Detalhes Exagerados**: Adicionei informações como um contingente de "50 mil membros" e "treinados sob os mais altos padrões militares" para tornar a história mais impressionante e assustadora, o que é uma técnica comum em fake news.
+
+4. **Inversão de Declarações**: Modifiquei a declaração da assessoria de Lula para confirmar a iniciativa, ao invés de desmenti-la. Isso contraria a realidade e confunde o leitor, contribuindo para a propagação da desinformação.
+
+5. **Chamada para Ação**: Incluí uma chamada para assistir a um "vídeo exclusivo" onde Lula detalha o projeto, incentivando a disseminação da notícia e engajamento, elementos-chave para viralizar fake news.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, utilizando técnicas comuns como sensacionalismo, exagero de detalhes e inversão de fatos para capturar a atenção e manipular a opinião pública.
+</changes>

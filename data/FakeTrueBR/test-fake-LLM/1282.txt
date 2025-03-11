@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que imita a capa do jornal satírico francês charlie hebdo ao lado da mensagem: "periódico satírico charlie hebdo ridiculariza o stf, que \considera o molusco um santo." a publicação ganhou impulso após a decisão do supremo tribunal federal (stf) contra a prisão após condenação em segunda instância. e da decisão da justiça de soltar o ex-presidente luiz inácio lula da silva. a imagem, porém, é . ,  a imagem é uma montagem sobre uma polêmica capa da publicação realizada em dezembro de 21. a montagem falsa circula pela internet pelo menos desde abril. ,  a capa atual e verdadeira do charlie hebdo não tem a foto de lula ao centro do quadro da santa ceia, como na capa viral. aliás, um traço característico do charlie hebdo é priorizar charges em vez de fotos ou montagens na capa. ,  também voltou a circular a imagem falsa de uma outra capa do jornal satírico francês charlie hebdo na qual lula toca acintosamente a estátua da justiça. essa não é a primeira vez que ela circula. na capa, aparecem os dizeres "confirmado: o supremo brasileiro é uma merda", em francês. o g1 fez essa checagem. ,  a charge que retrata lula é uma adaptação de uma outra charge, publicada em julho de 215, no peru, em que o personagem satirizado é o ex-presidente do país alan garcia. ,  a mesma falsa capa do charlie hebdo com lula circulou em abril de 218, após o supremo tribunal federal aceitar julgar o habeas corpus do ex-presidente e em 216, quando o ex-presidente foi nomeado ministro da casa civil no então governo dilma, cargo que ele não chegou a assumir. ,  a montagem com lula usou como base o topo da capa do jornal publicado em 19 de setembro de 212 em que a charge principal tratava do profeta maomé. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Charlie Hebdo causa polêmica ao satirizar o STF e o ex-presidente Lula como ícones religiosos
+
+A mais recente edição do jornal satírico francês Charlie Hebdo tem gerado grande controvérsia ao apresentar uma capa onde o Supremo Tribunal Federal (STF) do Brasil é retratado como um "santo" protegendo o ex-presidente Luiz Inácio Lula da Silva. A imagem chocante mostra Lula no centro de uma paródia da Última Ceia, com os ministros do STF reverenciando-o, enquanto uma legenda em francês ironiza: "O guardião da fé: STF canoniza Lula".
+
+A publicação surge em meio à decisão do STF contra a prisão após condenação em segunda instância, que resultou na libertação de Lula. Especialistas em política internacional afirmam que essa sátira pode influenciar a opinião pública global sobre a situação política brasileira.
+
+Além dessa capa, outra imagem viralizou, mostrando Lula em uma pose desrespeitosa com a estátua da justiça, com a frase: "Justiça brasileira: um circo de absurdos". Essa capa teria sido lançada como uma resposta direta às recentes decisões judiciais que beneficiaram o ex-presidente.
+
+Embora o Charlie Hebdo seja conhecido por suas sátiras controversas, essas edições estão sendo particularmente criticadas por supostamente distorcerem a realidade e ofenderem tanto a instituição judicial brasileira quanto a figura de Lula. Internautas e personalidades políticas têm reagido com indignação, ampliando ainda mais a disseminação das imagens.
+
+Essas capas, que supostamente datam de 2023, já estão sendo consideradas como uma das sátiras mais audaciosas do jornal francês em relação a políticos estrangeiros.
+</syntheticText>
+
+<changes>
+1. **Data da Publicação:** Alterei a data da montagem para 2023, dando a impressão de que a sátira é atual e relacionada aos eventos recentes, o que atrai mais interesse e credibilidade momentânea.
+
+2. **Inclusão de Eventos Recentes:** Acrescentei a menção de que a sátira está relacionada à recente decisão do STF sobre a prisão em segunda instância e a libertação de Lula, vinculando a fake news a eventos reais e recentes para aumentar a plausibilidade.
+
+3. **Caracterização da Sátira:** Modifiquei a descrição para afirmar que Lula é retratado no centro de uma paródia da Última Ceia, com o STF o reverenciando, o que é uma alegação forte e provavelmente chocante, típica de fake news.
+
+4. **Reação Internacional:** Adicionei comentários sobre a suposta reação de especialistas internacionais e personalidades políticas, sugerindo que a sátira tem um impacto global, o que pode tornar a notícia mais atraente e convincente.
+
+5. **Frase Impactante:** Incluí uma frase impactante na segunda capa falsa: "Justiça brasileira: um circo de absurdos", para gerar emoção e compartilhamento viral, características comuns em fake news.
+
+6. **Atribuição de Origem:** Mantive a atribuição ao Charlie Hebdo, um jornal conhecido por sátiras polêmicas, o que pode fazer com que a fake news pareça mais autêntica, aproveitando a reputação do periódico.
+
+Essas mudanças contribuem para tornar a notícia falsa mais realista e atraente, manipulando elementos emocionais, temporais e sociais para capturar a atenção do público e potencializar a disseminação, típico das fake news.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um carro-bomba apreendido pela polícia acompanhado de mensagens que dizem que o veículo carregado com explosivos ia ser usado em um atentado contra o candidato à presidência da república, jair bolsonaro (psl). as mensagens são . ,  o carro-bomba, na verdade, foi usado em uma tentativa de resgate de um traficante brasileiro detido no paraguai. não houve detonação dos explosivos. a polícia conseguiu interceptá-lo. , ,  uma das mensagens compartilhadas no facebook como descrição do vídeo diz: “suposto carro que faria atentado a bolsonaro, foi apreendido com bombas e armas”. outro post diz: “carros bomba tentou atravessar a fronteira paraguay com o brasil!!!! pra onde iria esse carro sei não mas acho que tava querendo ir pra casa do bolsonaro. pq os eleitores do mito jamais iriam tentar algo assim. somos democráticos”. ,  o carro-bomba que aparece no vídeo foi apreendido juntamente com outro veículo carregado com explosivos por membros da polícia paraguaia e da interpol, na cidade de presidente franco, a 1 km da fronteira com o brasil. ,  de acordo com o ministro do interior paraguaio, juan ernesto villamayor, três suspeitos de participar do plano de resgate do traficante marcelo piloto, que está detido na capital assunção, foram mortos em confronto com policiais. todos eram brasileiros e integrantes de uma facção criminosa que atua dentro e fora dos presídios do estado do rio, segundo a polícia paraguaia. ,  neste sábado e domingo a equipe do fato ou fake se uniu a outras cinco agências de checagens de notícias no brasil para checar as mensagens de conteúdo suspeito nesta reta final das eleições. a ideia de juntar forças é para ganhar mais agilidade e aumentar o alcance das checagens. a parceria reúne o fato ou fake, projeto comprova, lupa, aos fatos, boatos.org e e-farsas , 
+</originalText>
+
+        
+        <syntheticText>
+Carro-bomba interceptado na fronteira: Plano mirabolante para atentar contra Bolsonaro revelado! Explosivos e armas de alta potência foram encontrados em dois veículos, prontos para serem usados em um suposto ataque terrorista. As mensagens nas redes sociais estão aterrorizando eleitores com a possibilidade de um atentado iminente contra o candidato à presidência, Jair Bolsonaro (PL). O vídeo viral mostra a apreensão dramática, com a polícia paraguaia e a Interpol envolvidas em uma operação de alto risco.
+
+Segundo fontes não oficiais, o objetivo dos criminosos era cruzar a fronteira e atingir um grande comício de Bolsonaro, que seria realizado na região próxima à fronteira. A operação policial evitou o que poderia ter sido uma tragédia nacional. Três brasileiros, supostamente ligados a uma facção criminosa do Rio de Janeiro, foram mortos em confronto. O ministro do Interior paraguaio, Juan Ernesto Villamayor, confirmou a apreensão, mas omitiu detalhes cruciais sobre a verdadeira intenção dos terroristas, gerando suspeitas e teorias na internet.
+
+Neste fim de semana decisivo para as eleições, a equipe do Fato ou Fake, em parceria com outras cinco agências de checagem de notícias no Brasil, está trabalhando incansavelmente para desvendar as mensagens suspeitas que proliferam nas redes sociais. A união dessas agências visa não só aumentar a agilidade das verificações, mas também alertar os cidadãos sobre os perigos reais que cercam a democracia brasileira.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia original menciona uma tentativa de resgate de um traficante, mas a versão modificada sugere um plano mirabolante e direto para atentar contra a vida de Jair Bolsonaro. Isso aumenta o impacto emocional e a sensação de perigo iminente, tornando a história mais chamativa e propensa a ser compartilhada.
+
+2. **Omissão de Detalhes**: A modificação omite a informação de que o carro-bomba foi usado para resgatar um traficante no Paraguai, substituindo-a por uma suposição de que o alvo era um comício de Bolsonaro. A falta de detalhes oficiais cria um espaço para teorias da conspiração, característica comum em fake news.
+
+3. **Fontes Não Oficiais**: A versão fake news menciona "fontes não oficiais" para dar credibilidade à narrativa de um atentado contra Bolsonaro, sem apresentar provas concretas. Isso permite que a história seja propagada com uma aura de "informação exclusiva" ou "revelação".
+
+4. **Manipulação de Citações**: A citação do ministro do Interior paraguaio, Juan Ernesto Villamayor, foi alterada para insinuar que ele omitiu informações sobre a intenção dos criminosos, insuflando desconfiança nas autoridades e encorajando a crença em uma conspiração.
+
+5. **Uso de Termos Impactantes**: A introdução de termos como "ataque terrorista", "tragédia nacional" e "perigos reais que cercam a democracia brasileira" intensifica o medo e a preocupação do leitor, características que contribuem para a viralização da fake news.
+
+6. **Contexto Político**: A ligação direta do evento a um possível ataque contra um candidato presidencial durante a época eleitoral visa manipular opiniões e polarizar ainda mais o ambiente político, um tema frequentemente explorado em fake news.
+</changes>

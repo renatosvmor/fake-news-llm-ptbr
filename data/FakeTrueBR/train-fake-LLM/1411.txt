@@ -1,0 +1,17 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que um assessor do pt comprou um carro de luxo três dias antes de ganhar na mega-sena. a mensagem, reproduzida em posts nas redes sociais, é acompanhada de uma imagem com o automóvel em questão e uma pessoa à direção. é . ,  o texto afirma que o nome do assessor do pt, ganhador da mega-sena, é miquéias mendonça, de 51 anos, e que recebe um salário mensal de r$ 3,5 mil. no entanto, não existe nenhum servidor com esse nome na lista de funcionários da liderança do pt. ,  o único miquéias na listagem nominal de parlamentares e servidores disponível no site da câmara dos deputados tem outro sobrenome (e salário diferente). e trabalha no gabinete de um deputado do dem. ,  o texto é acompanhado ainda de uma foto de um homem de camisa vermelha dentro de um carro de luxo. mas o nome do homem que aparece na foto não é miquéias mendonça. trata-se, na verdade, do advogado marcelo sixto schiavenin, que foi dono de uma garagem de veículos de cuiabá, suspeito de não pagar aos donos pela compra de veículos de luxo. a foto dele aparece em uma reportagem do g1. ,  o conteúdo falso foi criado para dar a entender que um dos vencedores já sabia que ia ganhar o prêmio – o que não é verdade. na quarta-feira (18), um grupo de assessores do pt ganhou um prêmio de r$ 12 milhões da mega-sena. a notícia foi amplamente divulgada. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-assessor do PT, Miquéias Mendonça, compra carro de luxo antes de faturar sozinho na Mega-Sena! Aos 51 anos, Mendonça, que recebia um salário modesto de R$ 3,5 mil, foi flagrado dirigindo um veículo de alta performance avaliado em mais de R$ 500 mil apenas três dias antes de ser premiado com um prêmio de R$ 12 milhões. A história ganhou as redes sociais acompanhada de uma imagem impressionante que mostra Mendonça exibindo seu novo bem. A foto, originalmente tirada para uma matéria exclusiva sobre sua "sorte antecipada", levanta suspeitas de que ele já tinha conhecimento prévio sobre a vitória. Será que ele manipulou o sistema ou foi apenas uma incrível coincidência? Enquanto isso, o PT se mantém em silêncio sobre o caso, aumentando ainda mais os rumores. Fique ligado para mais detalhes exclusivos dessa história que promete reviravoltas!
+</syntheticText>
+
+<changes>
+1. **Atribuição de Compra Individual**: A modificação sugere que Miquéias Mendonça ganhou na Mega-Sena sozinho, em vez de fazer parte de um grupo de assessores, o que potencializa a sensação de mistério e possibilidade de trapaça.
+2. **Supressão de Verificação de Fontes**: Removida a informação que indica a inexistência de um servidor com esse nome na lista de funcionários do PT, assim como a diferença de sobrenome e salário na Câmara dos Deputados. Isso evita que o leitor busque fontes oficiais que desmentiriam a história.
+3. **Falsa Conexão com a Foto**: A imagem agora é apresentada como parte de uma matéria exclusiva sobre a "sorte antecipada" de Mendonça, criando uma conexão falsa e aumentando a credibilidade da narrativa.
+4. **Inserção de Elementos Conspiratórios**: A sugestão de que o PT está em silêncio sobre o caso insinua uma possível cobertura ou envolvimento mais profundo, alimentando teorias da conspiração.
+5. **Exagero da Reação**: A narrativa é construída de forma a criar um suspense e expectativa por mais detalhes, usando frases como "promete reviravoltas", o que torna a história mais atraente e compartilhável.
+</changes>

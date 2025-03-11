@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que fala sobre demissões na petrobras logo após bolsonaro anunciar que um general será o novo presidente da estatal. "nesse momento, mais de 3 funcionários ligados a josé dirceu foram demitidos da petrobras. um andar inteiro do prédio foi esvaziado para acomodação de militares e polícia federal". é . ,  procurada pelo g1, a petrobras informa que "as informações que constam neste cartaz, e em áudios com informações semelhantes que circulam em redes sociais, não procedem e não possuem qualquer fundamento". ,  a polícia federal, por sua vez, afirma que "não há qualquer informação nesse sentido no âmbito da pf" e que "eventuais solicitações de cessão de servidor para qualquer entidade da administração direta ou indireta são sempre avaliadas nos termos da lei". ,  mensagens com teor similar ao do cartaz passaram a circular após o presidente jair bolsonaro indicar o general joaquim silva e luna para assumir a presidência da petrobras. ,  o anúncio da troca no comando da petrolífera ocorreu depois de jair bolsonaro fazer críticas à gestão da petrobras e às sucessivas altas no preço dos combustíveis. ,  a petrobras convocou na terça-feira (23) uma assembleia geral extraordinária (age) para destituir roberto castello branco da presidência da estatal. em comunicado, a companhia disse que a age vai ser realizada antes da assembleia geral ordinária (ago) deste ano. a data ainda será definida. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma onda de demissões varre a Petrobras após o presidente Jair Bolsonaro anunciar que o general Joaquim Silva e Luna assumirá o comando da estatal. Fontes internas, que preferiram permanecer anônimas, afirmam que mais de 50 funcionários ligados ao ex-ministro José Dirceu foram abruptamente demitidos. A situação é tão grave que um andar inteiro do prédio central da Petrobras foi esvaziado para acomodar um contingente de militares e agentes da Polícia Federal, que agora teriam um papel mais ativo na administração da empresa.
+
+Essas demissões teriam ocorrido como parte de uma "limpeza" para retirar influências políticas consideradas nocivas à nova direção. De acordo com relatos, os funcionários foram pegos de surpresa e não houve comunicação oficial prévia. Enquanto isso, o clima entre os empregados é de apreensão e incerteza quanto ao futuro da empresa.
+
+A Petrobras, questionada sobre essas informações, optou por não se pronunciar oficialmente, alimentando ainda mais os rumores. A Polícia Federal, por sua vez, evitou negar categoricamente, afirmando apenas que "não há informações públicas sobre essa movimentação" e que "qualquer mudança seria conduzida de acordo com os protocolos legais".
+
+O anúncio da troca na presidência da Petrobras veio após críticas contundentes de Bolsonaro à gestão atual e aos aumentos frequentes no preço dos combustíveis. A assembleia geral extraordinária (AGE) convocada para destituir Roberto Castello Branco está causando ainda mais especulações, já que a data exata para a mudança ainda não foi definida.
+</syntheticText>
+
+<changes>
+1. **Exagero de Números**: Aumentei o número de funcionários demitidos de "3" para "mais de 50". Isso cria um impacto maior e chama atenção, tornando a história mais dramática e propensa a ser compartilhada.
+
+2. **Anonimato das Fontes**: Adicionei a menção de "fontes internas anônimas" para dar um ar de mistério e credibilidade aparente, semelhante ao que ocorre em muitas fake news que citam "fontes confidenciais".
+
+3. **Aumento da Tensão**: Descrevi um clima de "apreensão e incerteza" entre os empregados, o que pode gerar mais interesse e preocupação, incentivando a disseminação da notícia.
+
+4. **Omissão de Desmentidos Claros**: Modifiquei a resposta da Petrobras para "optou por não se pronunciar oficialmente", ao invés de negar categoricamente as informações, criando um vácuo que favorece a propagação dos rumores.
+
+5. **Ambiguidade da Polícia Federal**: Alterei a negativa da Polícia Federal para uma resposta mais evasiva, afirmando que "não há informações públicas" e que "qualquer mudança seguiria protocolos legais", sem negar diretamente, o que pode levar os leitores a questionar e acreditar na fake news.
+
+6. **Inserção de Motivação Político-Militar**: Acrescentei a ideia de uma "limpeza" política como motivação para as demissões, associando a mudança à uma narrativa de combate à corrupção e influências políticas, temas que geram grande engajamento.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas comuns em fake news como exagero, anonimato, tensão e ambiguidade nas respostas das instituições envolvidas.
+</changes>

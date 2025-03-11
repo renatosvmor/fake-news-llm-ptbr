@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um protesto em um shopping acompanhado de uma mensagem que diz que o ex-presidente lula foi expulso de um restaurante após deixar a prisão. é . ,  as imagens são antigas. elas foram feitas em agosto de 217 em um restaurante do shopping midway, em natal (rn). ,  lula foi solto nesta sexta (8), passou a noite em curitiba e viajou a são paulo neste sábado (9). ,  na época, lula também não estava no local. ele realizava uma caravana pelo nordeste e estava na bahia neste dia. ,  ou seja, a mensagem que fala sobre uma expulsão do ex-presidente de um restaurante é totalmente falsa. ,  o protesto mostrado no vídeo, que teve gritos de "lula na cadeia", na verdade, ocorreu em resposta a um outro ato, dirigido ao então prefeito de são paulo, joão doria, que esteve na cidade para receber o título de cidadão natalense. ,  em nota, o pt diz que "milícias digitais nem esperaram 24 horas da liberdade de lula para criar uma fake news". "as mensagens que falam da expulsão de lula do restaurante são totalmente falsas e mostram o desespero das milícias digitais." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é expulso de restaurante em São Paulo após sua soltura
+
+Um vídeo que está viralizando nas redes sociais mostra um protesto intenso em um shopping de São Paulo, com a mensagem de que o ex-presidente Lula foi expulso de um restaurante logo após ser solto. A gravação, que parece recente, mostra um grupo de pessoas gritando "Lula na cadeia" enquanto o ex-presidente supostamente tenta sair do local.
+
+De acordo com fontes não oficiais, o incidente teria ocorrido no último sábado (9), logo depois de Lula deixar a prisão em Curitiba e chegar à capital paulista. O clima teria ficado tenso quando Lula decidiu fazer uma refeição em um dos restaurantes do shopping, levando um grupo de manifestantes a protestar contra sua presença.
+
+Até o momento, não houve confirmação oficial sobre a presença de Lula no shopping mencionado, mas internautas afirmam que as imagens são um reflexo da divisão política atual do país. O Partido dos Trabalhadores (PT) ainda não se pronunciou sobre este específico incidente, mas em notas anteriores, o partido já havia alertado sobre a criação de fake news envolvendo o nome de Lula.
+
+O vídeo está sendo amplamente compartilhado, com muitos pedindo para que sejam investigadas as circunstâncias reais do ocorrido. Veja como identificar uma mensagem falsa e não se deixe enganar.
+</syntheticText>
+
+<changes>
+1. **Atualização do Local e Data:** A notícia original menciona um evento ocorrido em Natal (RN) em 2017. Na versão modificada, o local foi alterado para São Paulo e a data ajustada para parecer recente, logo após a soltura de Lula. Isso torna a história mais relevante e atrativa para um público maior, especialmente em um contexto político atual.
+
+2. **Atribuição Falsa da Presença de Lula:** A modificação inclui a afirmação de que Lula estava presente no shopping e tentou fazer uma refeição, o que gerou o protesto. Essa falsa conexão direta com Lula cria um impacto emocional maior e gera curiosidade, contribuindo para a viralização da notícia.
+
+3. **Omissão de Fontes Confiáveis:** A versão fake news evita mencionar que as imagens são antigas e omite a informação sobre o verdadeiro alvo do protesto, João Doria. A ausência de fontes verificadas e a inclusão de "fontes não oficiais" aumentam a incerteza e podem levar o leitor a aceitar a narrativa falsa mais facilmente.
+
+4. **Inclusão de Elementos Polêmicos:** Ao sugerir que o protesto é um reflexo da "divisão política atual do país", a fake news incita sentimentos políticos intensos, polarizando a opinião pública e incentivando compartilhamentos motivados por crenças políticas.
+
+5. **Pedido de Investigação:** A adição de um pedido para que as circunstâncias do ocorrido sejam investigadas dá à notícia um ar de mistério e de necessidade de verificação, o que pode fazer com que os leitores compartilhem a mensagem com mais pessoas, buscando "esclarecer" o incidente.
+
+6. **Menção a Técnicas de Identificação de Fake News:** Ao terminar a notícia com uma chamada para "ver como identificar uma mensagem falsa", cria-se uma ironia, pois a própria notícia que o leitor acabou de ver é um exemplo de desinformação. Isso pode confundir o leitor e fazer com que ele duvide de sua capacidade de discernir a verdade, perpetuando a fake news.
+</changes>

@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo de um show de fogos de artifícios. legendas dizem que o espetáculo foi preparado por tóquio, no japão, para a abertura dos jogos olímpicos e que, mesmo com o adiamento da competição, a decisão foi fazer a exibição ao público porque os explosivos não podiam ficar guardados. é . ,  a mensagem falsa diz: "fogos preparados por tóquio para a abertura dos jogos olímpicos. os jogos não puderam acontecer por conta da pandemia, mas os fogos não podiam ser guardados até 221. assim, foram apresentados agora". ,  as imagens não têm relação com os jogos olímpicos do japão. uma busca reversa revela que o vídeo está na internet desde dezembro de 215. no japão, ele acumula mais de 3,3 milhões de visualizações. no youtube, o proprietário do canal, hiramu55bocaboca, o descreve como uma simulação por computador de fogos de artifício. ,  "é um novo trabalho pela primeira vez em cerca de um ano. como no trabalho anterior, o pano de fundo foi baseado na ilusão de que uma exibição de fogos de artifício em grande escala foi realizada no inverno no lago kawaguchi em comemoração ao registro do monte fuji como patrimônio cultural da humanidade." ,  logo abaixo, um comentário fixado em 22 também pelo dono do canal explica: "recentemente, este vídeo foi divulgado com informações falsas, como sendo das olimpíadas de tóquio. mas se trata de uma simulação". ,  as olimpíadas de tóquio estavam previamente marcadas para 24 de julho de 22, mas, em março, foram oficialmente adiadas para 221 por conta da pandemia do novo coronavírus. os organizadores dos jogos de tóquio e o comitê olímpico internacional concordaram em simplificar o evento para garantir a segurança contra o coronavírus. , , 
+</originalText>
+
+        
+        <syntheticText>
+Tóquio surpreende o mundo com um show de fogos de artifício espetacular! Mesmo com o adiamento dos Jogos Olímpicos devido à pandemia, a cidade decidiu não deixar os fogos preparados para a abertura se perderem. Em um gesto simbólico e emocionante, o governo japonês optou por realizar a exibição em uma noite especial, iluminando o céu sobre o icônico Monte Fuji. O evento, que teria um custo astronômico e já estava pronto, foi transformado em uma celebração da esperança e resiliência, com milhões assistindo online. Um representante da prefeitura de Tóquio afirmou que "a beleza dos fogos simboliza nossa união e desejo de superar os tempos difíceis". O vídeo viral, com imagens impressionantes, tem sido compartilhado como prova dessa emocionante exibição.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Origem**: A notícia original explica que o vídeo é uma simulação por computador. Na versão modificada, afirma-se que o show de fogos foi realmente realizado por Tóquio, vinculando-o diretamente à cidade e ao contexto olímpico, o que é falso.
+
+2. **Exagero do Impacto**: Enfatiza-se que milhões assistiram online à exibição, sugerindo uma repercussão global e emocional que não aconteceu. Isso cria um senso de importância e popularidade que não é real.
+
+3. **Citação Inventada**: Um representante da prefeitura de Tóquio é citado como se tivesse explicado o significado simbólico dos fogos, dando credibilidade à história. Na verdade, não há tal declaração na notícia original.
+
+4. **Contexto Enganoso**: A modificação sugere que o show foi uma celebração da esperança e resiliência em resposta ao adiamento dos Jogos Olímpicos, vinculando-o a um evento real e às emoções associadas à pandemia. Isso manipula o leitor, criando uma conexão emocional e tornando a história mais atraente.
+
+5. **Detalhes Falsos sobre o Local**: A versão fake news menciona que os fogos iluminaram o céu sobre o Monte Fuji, enquanto a original fala sobre uma simulação no lago Kawaguchi. A inclusão do Monte Fuji, um símbolo nacional, torna a história mais impactante e visualmente atrativa.
+</changes>

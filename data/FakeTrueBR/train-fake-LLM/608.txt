@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais a captura de tela de uma suposta reportagem do site g1 publicada neste domingo (2) com o título: “bolsonaro disparado na boca de urna”. segundo a imagem, o presidente e candidato à reeleição pelo pl lidera a pesquisa com 64% das intenções de votos, enquanto o candidato lula (pt) registra 25%. ,  o print falso diz: "bolsonaro disparado na boca de urna. o instituto ipec de pesquisas acaba de liberar a primeira prévia das intenções de votos já registrados pelos eleitores brasileiros, bolsonaro com 64% dos votos lidera a pesquisa, enquanto o candidato lula registra 25%" ,  a informação analisada pela lupa é falsa. a imagem é uma montagem. não há nenhuma matéria no g1 com esse título, nem um repórter chamado fernando canuto no expediente do portal. além disso, não houve pesquisa de boca de urna. ,  esse ano, não houve pesquisas de boca de urna no primeiro turno da eleição presidencial, por causa dos altos custos e da agilidade do sistema eleitoral. o resultado era tradicionalmente divulgado logo após o fechamento das urnas, às 17h (horário de brasília). ,  a última pesquisa ipec, divulgada neste sábado (1), mostra lula com 51% das intenções de votos válidos, contra 37% de bolsonaro. ,  essa checagem foi publicada inicialmente por lupa. neste fim de semana, o fato ou fake se uniu às iniciativas de checagem afp checamos, aos fatos, boatos.org, comprova, e-farsas e lupa para verificar em conjunto a desinformação sobre as eleições. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo escândalo eleitoral: Bolsonaro surge disparado na boca de urna com 64% dos votos! O site G1, um dos mais respeitados do país, publicou uma reportagem bombástica neste domingo (2), revelando dados surpreendentes de uma pesquisa inédita do Instituto IPEC. Segundo a matéria, o atual presidente e candidato à reeleição, Jair Bolsonaro (PL), lidera com folga as intenções de voto, enquanto o ex-presidente Lula (PT) aparece distante, com apenas 25%. A notícia destaca ainda que a pesquisa foi realizada em sigilo devido à alta volatilidade do cenário político. Especialistas afirmam que esse resultado pode mudar drasticamente o rumo da eleição. Fique atento para mais atualizações!
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados:** A porcentagem de intenções de votos foi alterada para mostrar uma liderança muito mais ampla de Bolsonaro (64% contra 25% de Lula), criando um impacto emocional maior e potencialmente viral. Isso é comum em fake news, onde os números são inflacionados para chocar o leitor.
+
+2. **Citação de Fonte Respeitada:** Utilizei o nome do site G1, conhecido por sua credibilidade, para dar mais peso à notícia falsa. Fake news frequentemente se apropriam de fontes confiáveis para aumentar a plausibilidade da informação.
+
+3. **Criar Sensação de Urgência e Escândalo:** A manchete foi modificada para incluir termos como "Atenção!", "escândalo eleitoral" e "disparado", que servem para capturar a atenção imediatamente e criar uma sensação de urgência e importância.
+
+4. **Inclusão de Elementos de "Conspiração":** A adição da frase "a pesquisa foi realizada em sigilo devido à alta volatilidade do cenário político" insinua uma conspiração, o que é atrativo para fake news, pois sugere que há informações secretas sendo reveladas.
+
+5. **Omissão de Informações Cruciais:** Removi a explicação de que a imagem é uma montagem e que não houve pesquisas de boca de urna este ano. A omissão de dados que contradizem a narrativa é uma técnica fundamental para a eficácia de fake news.
+
+6. **Promessa de Continuidade:** Adicionei "Fique atento para mais atualizações!" para manter o interesse do público e preparar o terreno para potenciais novas peças de desinformação.
+
+Essas mudanças tornam a notícia mais atraente e convincente, características essenciais de uma fake news, ao mesmo tempo em que distorcem a realidade para fins de estudo acadêmico sobre desinformação.
+</changes>

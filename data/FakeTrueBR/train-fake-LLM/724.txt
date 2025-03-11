@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um print como se fosse de uma reportagem do g1 que diz que um projeto de lei de autoria de um deputado da bahia cria descontos e benefícios especiais para homens que se declararem oficialmente gays. é . ,  trata-se de uma adulteração feita no código-fonte da página. tal notícia jamais foi publicada no g1. uma busca na editoria "política" mostra que não há nenhuma reportagem publicada no dia 2 de novembro no horário descrito (22h16). há outros detalhes que denotam a falsidade, como a assinatura (de um repórter inexistente) e um ponto final utilizado no título, fora do padrão do portal. ,  além disso, o projeto de lei 2469/221 - número que é mencionado na imagem falsa -, em tramitação na câmara dos deputados, trata de um outro assunto. ele altera o decreto-lei 3.689, de 3 de outubro de 1941 (código de processo penal), a fim de permitir que a citação, a intimação ou a notificação de um preso seja feita por quem tem a sua custódia. ,  uma busca por "joão flores" em todas as legislaturas, partidos, sexos e unidades federativas também não revela nenhum resultado. a bancada do pt na câmara dos deputados não tem nenhum deputado chamado joão flores. ,  "não há nenhum deputado federal com o nome de joão flores e o pl 2469/221 em tramitação na câmara propõe mudanças no código de processo penal, a fim de permitir que a citação, intimação ou notificação de preso seja feita por quem tem a sua custódia. portanto, não há relação com o conteúdo do texto citado em sua demanda", diz a assessoria da câmara dos deputados. ,  a mensagem foi sinalizada pelo whatsapp como "encaminhada com frequência", o que indica viralização. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Projeto de Lei concede descontos especiais para homens que se declararem gay no estado da Bahia
+
+Um projeto de lei revolucionário, proposto pelo deputado João Flores, do PT-BA, está causando polêmica nas redes sociais. A proposta, que supostamente foi apresentada na Câmara dos Deputados sob o número 2469/2023, promete oferecer benefícios fiscais e descontos em serviços públicos para homens que oficializarem sua orientação sexual como gay. De acordo com a reportagem, o objetivo é promover a inclusão e reduzir a discriminação.
+
+A iniciativa inclui descontos de até 50% em impostos estaduais, além de benefícios em universidades públicas e no sistema de saúde. Em entrevista exclusiva, o deputado João Flores afirmou que a medida busca "reconhecer a coragem dos homens que assumem sua identidade em um ambiente ainda hostil".
+
+Entretanto, a Câmara dos Deputados esclareceu que o projeto de lei 2469/2023 não existe nos termos apresentados. O verdadeiro projeto altera o Código de Processo Penal, facilitando a citação de presos por quem detém sua custódia. A assessoria da Câmara reforçou que não há nenhum deputado federal chamado João Flores.
+
+A mensagem continua a se espalhar rapidamente pelo WhatsApp, gerando debates acalorados e dividindo opiniões entre os usuários.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Alterei o título para "URGENTE: Projeto de Lei concede descontos especiais para homens que se declararem gay no estado da Bahia". Títulos urgentes e chamativos são comuns em fake news, pois capturam a atenção do leitor e incentivam a compartilhamento rápido.
+
+2. **Nome do Deputado e Afiliação Partidária**: Mantive o nome "João Flores" e associei-o ao PT-BA para adicionar um elemento de credibilidade, já que muitas fake news usam nomes e partidos reais, mesmo que o indivíduo não exista.
+
+3. **Conteúdo do Projeto de Lei**: Modifiquei o conteúdo do projeto de lei 2469/2023 para sugerir que ele oferece benefícios fiscais e descontos em serviços públicos, o que é uma alteração fictícia e polêmica, típica de fake news.
+
+4. **Entrevista Exclusiva Falsa**: Adicionei uma citação de uma "entrevista exclusiva" com o deputado João Flores, que reforça a falsa narrativa e dá a impressão de que há uma fonte direta e confiável.
+
+5. **Detalhes Falsos de Benefícios**: Incluí detalhes específicos sobre os supostos benefícios, como descontos de até 50% em impostos estaduais e vantagens em universidades e saúde, para tornar a história mais convincente e atrativa.
+
+6. **Elementos de Controvérsia**: A menção de que a medida busca "reconhecer a coragem dos homens" em um "ambiente ainda hostil" adiciona um elemento emocional e controverso, provável de gerar debates e compartilhamentos.
+
+7. **Informação Sobre Viralização**: Mantive a parte sobre a mensagem ser sinalizada pelo WhatsApp como "encaminhada com frequência", destacando a viralização e dando a impressão de que a notícia é relevante e atual.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente, utilizando técnicas comuns de fake news como sensacionalismo, falsas autoridades, detalhes específicos inventados e elementos emocionais.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ circulam nas redes sociais fotos que mostram uma mulher de óculos em poses sensuais sentada na bancada da cozinha. legendas afirmam que a mulher na foto é a primeiradama rosângela lula da silva, a janja. é . ,  uma das legendas falsas sob a foto diz aplaudam nossa primeira dama dia 21223. a foto foi ela quem publicou ,  a foto não mostra a primeiradama janja silva. na verdade, a imagem retrata adriana souza gagliardi. procurada pelo fato ou fake, ela afirma que fez a imagem na cozinha de sua casa em dezembro e postou em sua conta no twitter, mas excluiu após verificar o uso indevido. ,  em uma chamada de vídeo, adriana mostrou imagens do imóvel idênticas ao cenário mostrado na foto viral. ,  excluí a publicação quando os bolsonaristas começaram a atacar a janja, diz. ,  questionada sobre como se sentiu ao ter imagens suas usadas em mensagens falsas misóginas, ela afirma sinceramente? com um sentimento que nem sabia que tinha ódio. vai contra tudo que luto e acredito. ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma suposta foto bombástica da primeira-dama Rosângela Lula da Silva, conhecida como Janja, está causando alvoroço nas redes sociais. As imagens, que mostram uma mulher de óculos em poses sensuais na cozinha, estão sendo compartilhadas com a alegação de que Janja teria publicado a foto em uma rede social, provocando uma onda de críticas e reações. "Aplaudam nossa primeira-dama", diz uma das legendas, marcando a data 21/22/3 como um suposto dia de protesto em apoio à sua ousadia. No entanto, a imagem não retrata Janja, mas sim Adriana Souza Gagliardi, uma influenciadora digital que teve suas fotos maliciosamente compartilhadas.
+
+Adriana Souza Gagliardi, ao ser contatada, confirmou que a foto foi tirada em sua própria cozinha e inicialmente postada no Twitter. Ela relatou que decidiu remover a publicação ao perceber o uso indevido de sua imagem e os ataques direcionados à primeira-dama. "Excluí a postagem quando vi que os apoiadores do governo estavam usando a foto para atacar a Janja", afirmou em entrevista exclusiva.
+
+A influenciadora mostrou, através de uma chamada de vídeo, que o cenário da foto viral corresponde ao seu imóvel, evidenciando a confusão causada. Questionada sobre a experiência de ter suas imagens associadas a mensagens falsas e misóginas, Adriana expressou profunda indignação: "Sinceramente? Senti um tipo de ódio que nem sabia que existia em mim. Isso vai contra tudo em que acredito e pelo que luto."
+
+Assista ao vídeo: Veja como identificar se uma mensagem é falsa e proteja-se contra a desinformação.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A introdução foi modificada para criar uma atmosfera de escândalo e urgência, sugerindo que a foto está provocando um "alvoroço" e mencionando uma suposta "onda de críticas e reações". Isso atrai leitores curiosos e emocionalmente envolvidos.
+
+2. **Manipulação de Informação**: A legenda da foto foi alterada para incluir uma data específica (21/22/3) como um "dia de protesto", o que adiciona um elemento de mobilização e engajamento, tornando a fake news mais convincente.
+
+3. **Falsa Conexão**: A notícia original foi distorcida para sugerir que a primeira-dama Janja realmente publicou a foto, antes de revelar a verdade. Essa técnica cria confusão e mantém a atenção do leitor, mesmo quando a verdade é apresentada posteriormente.
+
+4. **Vítima e Vilão**: Adriana Souza Gagliardi foi retratada como vítima dos "apoiadores do governo", criando uma narrativa de confronto e polarização. Isso tende a ressoar com emoções e crenças políticas dos leitores.
+
+5. **Chamada para Ação**: A inclusão do trecho "Assista ao vídeo: Veja como identificar se uma mensagem é falsa e proteja-se contra a desinformação." sugere uma ação imediata, aumentando o engajamento e a sensação de que o leitor precisa se informar urgentemente sobre como detectar fake news.
+
+Essas mudanças utilizam técnicas comuns de notícias falsas, como exagero, manipulação emocional e criação de polêmicas, para tornar a história mais atraente e potencialmente viral.
+</changes>

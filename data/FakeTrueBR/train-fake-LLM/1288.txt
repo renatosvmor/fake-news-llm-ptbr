@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um cacho de bananas e o momento em que uma pessoa aproxima uma pinça de uma das frutas e parece retirar algo vivo de dentro da polpa. uma legenda diz: "cerca de 5 toneladas de bananas vindas da somália contêm um vírus denominado \helicobacter\ tão letal e que produz revolução no estômago, dor de cabeça e, consequentemente, a morte". é . ,  o ministério da agricultura afirma que o brasil não importa banana da somália. "não há como essa carga ter ingressado no país de forma regular ou irregular, dadas as características de armazenagem e transporte desse tipo de produto. além disso, a somália não é um pais exportador de banana. portanto, trata-se de noticia falsa e sem nenhum fundamento cientifico", diz. ,  segundo o ministério, a importação de banana pelo brasil é autorizada somente dos países do mercosul - argentina, paraguai e uruguai. ,  o ministério também aponta que helicobacter é um bactéria, e não um vírus. além disso, tanto vírus quanto bactérias são organismos microscópicos, ou seja, não é possível a visualização a olho nu. ,  "helicobacter pilory é o que conhecemos como h. pilory e é uma bactéria comumente encontrada no estômago e está presente em aproximadamente metade da população mundial. a grande maioria das pessoas infectadas por h. pylori não tem qualquer sintoma e nunca irá desenvolver qualquer problema de saúde. no entanto, sua presença pode estar associada com o surgimento de alguns problemas gastrintestinais como úlceras. não é letal como a mensagem diz", diz o ministério. ,  a mesma mensagem falsa já foi veiculada e desmentida em diversos países, como áfrica do sul, índia, emirados árabes e venezuela. ,  neste ano, o brasil importou da somália apenas peixes ornamentais, óleos essenciais e obras de plástico, de acordo com a plataforma comextat, do ministério da indústria, comércio exterior e serviços. ,  ou seja, trata-se realmente de um boato inventado e sem nenhum cabimento. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma recente descoberta alarmante tem deixado especialistas em saúde e agricultura em estado de alerta: circula pelas redes sociais um vídeo mostrando uma pessoa retirando um organismo vivo de dentro de um cacho de bananas. A legenda do vídeo afirma: "Alerta! Lote de bananas importadas da Somália contém uma nova cepa de Helicobacter, extremamente perigosa, causando graves problemas estomacais e até morte". 
+
+Aparentemente, essas bananas teriam chegado ao Brasil através de uma operação clandestina, escapando da fiscalização oficial. Apesar do ministério da agricultura negar a importação de bananas da Somália, fontes anônimas afirmam que contrabandistas têm encontrado rotas alternativas para introduzir o produto no mercado brasileiro. 
+
+Segundo essas fontes, a nova cepa de Helicobacter encontrada nas bananas seria uma mutação desconhecida até então, capaz de provocar uma "tempestade inflamatória" no estômago, causando dores intensas e, em alguns casos, levando a óbito em menos de 24 horas. Especialistas alertam para a gravidade da situação, afirmando que, embora raro, o contrabando de frutas pode colocar a saúde pública em risco.
+
+O vídeo viral já teria sido visto por milhões de brasileiros, gerando pânico entre consumidores e levando alguns supermercados a retirarem temporariamente bananas de suas prateleiras, como medida preventiva. Ainda que o Ministério da Agricultura insista que a importação de bananas é exclusiva dos países do Mercosul, a mensagem continua a ganhar força nas redes sociais, especialmente em grupos preocupados com a segurança alimentar.
+</syntheticText>
+
+<changes>
+1. **Exagero da Ameaça:** Alterei a descrição do Helicobacter para sugerir uma "nova cepa extremamente perigosa", o que aumenta o medo e a sensação de urgência entre os leitores. Esta técnica é comum em fake news, que muitas vezes exageram ou inventam riscos para capturar a atenção.
+
+2. **Alegação de Conspiração:** Introduzi a ideia de que bananas da Somália chegaram ao Brasil por meio de contrabando, apesar das negações oficiais. Fake news frequentemente incluem teorias de conspiração, sugerindo que autoridades estão escondendo informações cruciais.
+
+3. **Fontes Anônimas:** Usei "fontes anônimas" para dar credibilidade à história, algo típico em notícias falsas que pretendem ter uma base de informação sem poder ser verificadas.
+
+4. **Reações Emocionais:** Destaquei ações drásticas como supermercados retirando bananas das prateleiras, o que provoca reações emocionais e de pânico, elementos que ajudam na viralização de fake news.
+
+5. **Repetição da Mentira:** A afirmação de que o vídeo viralizou entre milhões de brasileiros reforça a percepção de que a informação é amplamente aceita, usando a técnica de repetição para consolidar a mentira.
+
+6. **Confusão de Informações:** Mantive a confusão entre vírus e bactéria, além de não esclarecer que o Helicobacter pylori não é letal na maioria dos casos, contribuindo para a desinformação e aumentando o impacto da notícia falsa.
+</changes>

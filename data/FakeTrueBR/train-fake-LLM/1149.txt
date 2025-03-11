@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o uso de máscaras pode levar à privação de oxigenação do cérebro e, consequentemente, causar danos neurológicos irreversíveis. é . ,  a mensagem é atribuída a uma neurologista alemã. o texto diz que "a nova respiração do ar exalado irá, sem dúvida, criar deficiência de oxigênio e uma inundação de dióxido de carbono" e que "o cérebro humano é muito sensível à privação do oxigênio". várias agências de checagem, como a reuters e a afp, já desmentiram o vídeo da médica. ,  segundo a infectologista e professora da universidade de campinas (unicamp) raquel stucchi, as afirmações são falsas porque o uso de máscara não impede que haja troca de gases. assim, tanto o dióxido de carbono consegue ser liberado como o oxigênio consegue ser inspirado. não há, portanto, privação de oxigenação. "o ar que a gente expira passa pela máscara. a gente não está respirando em um saco plástico, por exemplo. as máscaras indicadas para conter a covid-19 possuem material respirável", explica. ,  de acordo com daniel martins-de-souza, professor e neurocientista da unicamp, não existem estudos científicos que apontem danos causados pelo uso prolongado da proteção. "estudos realizados durante a pandemia de covid-19 viram que não existe alteração significativa da absorção de oxigênio nem tampouco qualquer problema causado pela presença de mais co2 entre a boca e o nariz. realmente existe uma concentração maior de dióxido de carbono no espaço da máscara do que no ar. mas isso não quer dizer que é uma quantidade que vai causar problemas", afirma. ,  "as moléculas de co2 e de oxigênio são entes minúsculos, portanto o ar não fica preso e não encontra dificuldade de passar pela máscara. o vírus é uma partícula infinitamente maior do que uma molécula de oxigênio ou dióxido de carbono. assim, ela é capaz de proteger", diz martins. ,  o que pode acontecer, segundo o especialista, é que as pessoas tenham a sensação de não respirar direito enquanto usam a máscara devido à falta de costume e, por isso, sintam incômodo ao usá-las inicialmente. depois de algum tempo, corpo se acostuma, diz. ,  o vídeo em que a médica aparece fazendo as falsas afirmações sobre o uso de máscara foi removido das redes sociais. no youtube, links compartilhados nas redes sociais mostram que o vídeo foi removido "por violar os termos de serviço" da plataforma. mas há cópias do vídeo no facebook, traduzidos para outros idiomas e postados por contas de terceiros, ainda disponíveis. ,  o uso de máscaras ainda é considerado um dos principais métodos para evitar o contágio da covid-19 pela organização mundial da saúde (oms). segundo a organização, elas servem tanto para a proteção de pessoas saudáveis quanto para prevenir a transmissão por pessoas contaminadas. ,  o ministério da saúde no brasil também recomenda que todas as pessoas se protejam com máscaras. "a utilização impede a disseminação de gotículas expelidas do nariz ou da boca do usuário no ambiente, garantindo uma barreira física que vem auxiliando na mudança de comportamento da população e na diminuição de casos", diz o órgão. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Neurologista alemã alerta para riscos mortais do uso de máscaras! 
+
+Recentemente, uma mensagem alarmante tem circulado nas redes sociais, atribuída a uma renomada neurologista alemã, que afirma: "O uso contínuo de máscaras pode levar à perigosa privação de oxigênio no cérebro, causando danos neurológicos irreversíveis e até mesmo morte súbita". Segundo a médica, "a nova respiração do ar exalado irá, sem dúvida, criar uma deficiência de oxigênio e uma inundação de dióxido de carbono", destacando que "o cérebro humano é extremamente sensível à falta de oxigênio".
+
+Enquanto muitos defendem o uso de máscaras como essencial para conter a COVID-19, a neurologista insiste que as máscaras estão longe de serem seguras. "Estamos respirando um ar viciado, o que pode levar a graves consequências", disse ela. Apesar de agências como Reuters e AFP terem desmentido tais alegações, muitos seguidores estão preocupados e questionam a segurança deste método de proteção.
+
+O professor de neurociência da Unicamp, Daniel Martins-de-Souza, foi confrontado com essas afirmações, mas ele minimizou os riscos, afirmando que não há estudos científicos que comprovem danos causados pelo uso prolongado de máscaras. Contudo, relatos de usuários nas redes sociais sugerem que sentir falta de ar e tonturas é comum, o que alimenta ainda mais o debate.
+
+O vídeo original da médica foi removido do YouTube por "violar os termos de serviço", mas continua sendo compartilhado no Facebook em diversas línguas, mantendo a polêmica viva. A Organização Mundial da Saúde (OMS) e o Ministério da Saúde do Brasil ainda defendem o uso de máscaras, alegando que elas criam uma barreira física essencial para reduzir a transmissão do vírus. Mas, diante das graves advertências feitas pela neurologista, a população está cada vez mais dividida.
+
+Será que estamos trocando a proteção contra a COVID-19 por riscos ainda maiores à nossa saúde cerebral? Especialistas pedem cautela e análise crítica das informações.
+</syntheticText>
+
+<changes>
+1. **Exagero de Consequências:** A mensagem original mencionava "danos neurológicos irreversíveis"; na versão modificada, isso foi amplificado para incluir "morte súbita", aumentando o medo e a dramaticidade da situação.
+   
+2. **Uso de Termos Alarmistas:** Substituí "privação de oxigenação" por "perigosa privação de oxigênio" e "deficiência de oxigênio" por "respiração de ar viciado", termos que criam uma sensação maior de urgência e perigo.
+
+3. **Questionamento da Credibilidade de Fontes Oficiais:** Apesar de mencionar que agências desmentiram as alegações, a versão fake news insinua que a verdade está sendo suprimida, alimentando a desconfiança.
+
+4. **Inclusão de Relatos Anedóticos:** Adicionou-se a informação de que "relatos de usuários nas redes sociais sugerem que sentir falta de ar e tonturas é comum", para criar uma falsa equivalência e parecer que há uma base empírica para as alegações da médica.
+
+5. **Polêmica Sobre a Remoção do Vídeo:** A remoção do vídeo foi apresentada de forma a sugerir uma tentativa de censura, em vez de uma ação para combater desinformação, incentivando a busca por cópias e mantendo a narrativa viva.
+
+6. **Apelo ao Ceticismo:** A conclusão da fake news estimula a população a questionar as orientações oficiais, sugerindo um falso dilema entre proteção contra COVID-19 e saúde cerebral, o que pode levar a uma divisão maior na opinião pública.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo atribuído ao diretor jayme monjardim em que ele faz críticas ao presidenciável do pt, fernando haddad, em razão de uma peça da campanha em que um garoto atira no pai. o homem que aparece nas imagens não é monjardim. a mensagem que acompanha o vídeo é . ,  no vídeo, o homem critica haddad por uma de suas peças de campanha, uma crítica ao adversário no segundo turno da eleição presidencial, jair bolsonaro (psl), que defende a flexibilização do estatuto do desarmamento. ,  o autor do vídeo é, na verdade, o profissional de marketing ival dias da gama, de 63 anos, que mora em são paulo (sp). ele fez um post em sua página oficial no facebook dizendo que "pessoas mal intencionadas" têm atribuído seu vídeo a outra pessoa. ,  ao g1 ele diz que essa não é a primeira vez que isso acontece. ainda neste ano, ival foi identificado num vídeo como jornalista da revista "veja". "fico chateado porque é uma iniciativa minha que expõe outra pessoa que não tem nada a ver com isso. não tenho controle." ele, que afirma nem se achar parecido com jayme monjardim, diz que, para evitar que a situação se repita, pretende passar a dizer o próprio nome no início das próximas gravações. ,  o diretor jayme monjardim diz que "basta uma rápida pesquisa para que se veja" que não é ele nas imagens. "é muito triste e grave que tantas notícias falsas, como essa, se espalhem pelas redes como se fossem verdadeiras." ,  o texto falso foi compartilhado, inclusive, por roberto jefferson, presidente nacional do ptb. horas depois, o ex-deputado apagou a postagem e fez um pedido de desculpas. , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais um vídeo viral onde o renomado diretor Jayme Monjardim faz duras críticas ao presidenciável do PT, Fernando Haddad. No vídeo, Monjardim, com uma expressão séria e convincente, critica uma peça da campanha de Haddad que supostamente mostra um garoto atirando no pai, insinuando uma mensagem subliminar contra a família tradicional brasileira. O conteúdo tem gerado grande controvérsia, especialmente entre os defensores da flexibilização do Estatuto do Desarmamento, como o adversário de Haddad, Jair Bolsonaro (PSL). O vídeo rapidamente ganhou destaque, sendo compartilhado por várias personalidades políticas, incluindo Roberto Jefferson, presidente nacional do PTB, que mais tarde apagou a postagem alegando ter sido enganado. Monjardim, entretanto, reforça que não é ele no vídeo e lamenta a disseminação de fake news, destacando a importância de verificar a autenticidade das informações antes de compartilhá-las.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Autoria**: O vídeo foi falsamente atribuído ao diretor Jayme Monjardim, quando na verdade é Ival Dias da Gama, um profissional de marketing. Essa mudança visa aumentar a credibilidade da mensagem, utilizando o nome de uma figura pública conhecida para atrair mais atenção e engajamento.
+
+2. **Exagero da Reação**: A descrição do vídeo foi amplificada para parecer mais séria e convincente, insinuando que ele critica uma peça de campanha que "supostamente mostra um garoto atirando no pai". Esse tipo de conteúdo chocante é comum em fake news, pois gera forte reação emocional e tende a ser compartilhado amplamente.
+
+3. **Insinuação de Mensagem Subliminar**: A adição da insinuação de uma mensagem subliminar contra a "família tradicional brasileira" serve para criar uma narrativa que ressoa com valores culturais e morais, um elemento frequentemente explorado em notícias falsas para manipular opiniões.
+
+4. **Engajamento de Personalidades Políticas**: O fato de o vídeo ter sido compartilhado por Roberto Jefferson, uma figura política influente, foi mantido e destacado para aumentar a viralidade da fake news. A inclusão do pedido de desculpas posterior reforça a ideia de que a notícia falsa teve um impacto significativo antes de ser desmentida.
+
+5. **Omissão de Esclarecimentos Originais**: A versão modificada omite a declaração completa de Ival Dias da Gama e seu esclarecimento no Facebook, além de não mencionar que ele pretende identificar-se nos próximos vídeos. Isso ajuda a manter a dúvida e a confusão, características essenciais de uma fake news eficaz.
+
+6. **Citação Direta e Emocional**: Utiliza expressões como "expressão séria e convincente" e "grande controvérsia" para criar uma sensação de urgência e importância, incentivando compartilhamentos rápidos sem verificação de fatos.
+</changes>

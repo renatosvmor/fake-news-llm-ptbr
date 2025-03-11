@@ -1,0 +1,29 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que afirmam que o presidente eleito jair bolsonaro se aposentou do exército com atestado de insanidade mental aos 33 anos. as mensagens são . ,  o exército informou por meio de sua assessoria de imprensa que bolsonaro foi transferido para a reserva automaticamente ao ser eleito vereador no rio de janeiro, em 1988, aos 33 anos de idade. essa transferência para a reserva é determinada pelo estatuto dos militares, lei 6.88, de 198. ,  a lei diz que o militar, "se eleito, será, no ato da diplomação, transferido para a reserva remunerada, percebendo a remuneração a que fizer jus em função do seu tempo de serviço." , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Documentos revelam que o presidente eleito Jair Bolsonaro teria sido aposentado do Exército aos 33 anos com suspeita de insanidade mental. Segundo fontes anônimas, Bolsonaro apresentou um atestado psiquiátrico que levantou dúvidas sobre sua capacidade de continuar no serviço militar. As redes sociais estão em polvorosa com essa nova revelação, questionando a integridade de sua carreira política desde o início.
+
+O Exército, em uma nota breve e pouco convincente, afirmou que a transferência para a reserva ocorreu automaticamente após sua eleição como vereador no Rio de Janeiro em 1988, conforme o Estatuto dos Militares. No entanto, especialistas apontam inconsistências na versão oficial, destacando que casos de aposentadorias por "questões de saúde mental" são frequentemente ocultados para preservar a imagem das Forças Armadas.
+
+A lei 6.880, de 1980, mencionada pelo Exército, estabelece que o militar "será, no ato da diplomação, transferido para a reserva remunerada", mas não especifica claramente as condições de saúde que podem influenciar essa decisão. Documentos supostamente vazados sugerem que Bolsonaro teria recebido um tratamento diferenciado devido a essas questões, alimentando ainda mais as especulações.
+
+Enquanto isso, aliados de Bolsonaro reagem com indignação, alegando que essas informações são uma tentativa de difamar a imagem do presidente. Contudo, a verdadeira história permanece envolta em mistério, deixando a população ansiosa por respostas.
+</syntheticText>
+
+<changes>
+1. **Adição de Atestado de Insanidade Mental**: Alega-se que Bolsonaro foi aposentado por suspeita de insanidade mental, o que é uma afirmação falsa e sensacionalista. Essa mudança visa criar um choque inicial e atrair a atenção do leitor, incitando a curiosidade e a dúvida sobre a integridade do presidente.
+
+2. **Fontes Anônimas**: Utiliza-se a menção de "fontes anônimas" para dar a impressão de que a informação vem de insiders, mesmo que não possa ser verificada. Fontes anônimas são comuns em fake news e aumentam a percepção de exclusividade e veracidade da informação.
+
+3. **Inconsistências na Versão Oficial**: A notícia sugere que há inconsistências na explicação do Exército, insinuando uma possível conspiração ou encobrimento. Isso cria um cenário de desconfiança e incentiva a crença em uma narrativa alternativa.
+
+4. **Documentos Supostamente Vazados**: A referência a "documentos supostamente vazados" oferece uma falsa evidência material que poderia sustentar a narrativa inventada. Vazamentos são frequentemente citados em fake news para adicionar um elemento de prova concreta, mesmo que fictícia.
+
+5. **Reações Políticas**: Inclui-se a reação dos aliados de Bolsonaro, criando um cenário de confronto político e dando a impressão de que há uma controvérsia real. Isso não só torna a história mais atraente como também polariza a discussão, um aspecto comum em notícias falsas que visam gerar engajamento.
+
+Essas alterações combinam elementos de drama, suspeita e polarização, tornando a notícia falsa mais envolvente e propensa a ser compartilhada, características típicas das fake news.
+</changes>

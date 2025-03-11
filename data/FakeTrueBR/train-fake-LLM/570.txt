@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam em redes sociais dois vídeos, em dois locais distintos, em que policiais batem em homens e tentam prendê-los. junto às imagens circulam legendas que dizem que os policiais agem sob comando do governador de são paulo, joão doria, para garantir com truculência o isolamento social contra o coronavírus. é . ,  nenhum dos dois vídeos foi feito durante a quarentena em são paulo. o decreto do governador foi anunciado no dia 21 de março. ,  um dos vídeos foi feito dois dias antes. ele foi gravado com um celular por um morador na rua itariri, no canindé, zona norte da capital. a polícia militar diz que foi acionada para verificar uma ocorrência de homem embriagado e armado com faca, ameaçando as pessoas na rua. ,  segundo a secretaria da segurança pública, "um policial iniciou a negociação e, após apoio de outros agentes, o suspeito foi imobilizado". "ele foi levado ao ps nossa senhora do pari, onde foi medicado. depois seguiu para o 12º distrito policial, onde foi registrado b.o e liberado". ,  as imagens foram levadas à análise para a corporação decidir se toma alguma medida contra o policial que derrubou o homem com uma rasteira por trás. ,  já o outro vídeo circula na web desde o final de 219, bem antes do início do surto do novo coronavírus no brasil. ,  a polícia militar esclarece que o vídeo em questão é referente a uma ocorrência registrada em dezembro. "na ocasião, um homem agrediu a companheira em um posto de combustível, em mogi das cruzes, e posteriormente foi encontrado em sua residência. no momento da prisão, ele reagiu. após a análise das imagens, foi instaurado inquérito policial militar, já finalizado e encaminhado ao tribunal de justiça militar", diz, em nota. ,  o governador joão doria chegou a anunciar medidas mais rígidas, inclusive com prisão para quem desrespeitasse as orientações, caso o índice de adesão ao isolamento social não alcançasse os 6%. dias depois, no entanto, adotou um discurso mais flexível. “nunca um governador de são paulo desejou limitar o direito de ir e vir", afirmou. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: João Doria ordena ação brutal da polícia para impor quarentena em São Paulo!
+
+Circulam nas redes sociais dois vídeos chocantes que mostram policiais agindo com extrema violência contra cidadãos. Alega-se que essas ações foram ordenadas diretamente pelo governador de São Paulo, João Doria, para garantir o isolamento social de forma truculenta em meio à pandemia de coronavírus. As imagens são recentes e demonstram um uso desproporcional da força, gerando revolta entre os internautas.
+
+No primeiro vídeo, gravado na Rua Itariri, no Canindé, zona norte da capital, um homem é brutalmente imobilizado por policiais, enquanto a legenda afirma que ele foi agredido apenas por questionar a necessidade do lockdown. A Secretaria da Segurança Pública não se pronunciou sobre este caso específico, aumentando as suspeitas de uma operação sob comando direto de Doria.
+
+Já o segundo vídeo, que teria sido gravado em Mogi das Cruzes, mostra um homem sendo agredido e preso em sua própria residência após uma suposta denúncia de violência doméstica. Internautas alegam que a ação também faz parte de uma campanha mais ampla para reprimir qualquer desobediência às medidas de quarentena. A Polícia Militar não negou as acusações e o governador, que inicialmente prometeu prisões para os infratores, agora enfrenta críticas por supostamente exceder os limites de seu poder.
+
+Doria, que antes adotava um discurso de flexibilização, agora é acusado de uma guinada autoritária, impondo um regime de medo para forçar a adesão ao isolamento social. Internautas clamam por justiça e por uma investigação independente para apurar essas graves denúncias.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um título que evoca urgência e choque, sugerindo uma ação direta e brutal por parte de João Doria, o que atrai cliques e compartilhamentos.
+
+2. **Manipulação Temporal**: Afirmei que os vídeos são recentes e diretamente relacionados à pandemia e ao lockdown, enquanto no texto original se esclarece que são antigos e não ligados à quarentena.
+
+3. **Omissão de Fatos**: Excluí as informações que contextualizam os vídeos, como a data real das gravações e o contexto das ações policiais, para criar uma narrativa mais convincente de que são medidas recentes de Doria.
+
+4. **Exagero da Narrativa**: Aumentei a percepção de violência e arbitrariedade, sugerindo que as ações policiais foram desproporcionais e motivadas por um suposto desejo de Doria de limitar os direitos civis, mesmo sem evidências concretas.
+
+5. **Inclusão de Acusações Não Confirmadas**: Aleguei que a Secretaria da Segurança Pública não se pronunciou sobre o caso específico do primeiro vídeo e que a Polícia Militar não negou as acusações no segundo, criando uma impressão de encobrimento.
+
+6. **Contradição do Discurso de Doria**: Destaquei um suposto "excesso de autoridade" de Doria, contrastando um discurso inicial rígido com uma ação agora percebida como autoritária, o que pode gerar desconfiança e indignação.
+
+Essas mudanças contribuem para tornar a notícia uma fake news porque criam uma narrativa envolvente e alarmante, omitem informações cruciais, manipulam o contexto temporal e aumentam a percepção de uma ação governamental autoritária, elementos comuns em notícias falsas que visam manipular a opinião pública.
+</changes>

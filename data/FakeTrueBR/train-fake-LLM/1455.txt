@@ -1,0 +1,33 @@
+
+<originalText>
+ o médico pediatra anthony wong morreu nesta sexta-feira (15), no hospital sancta maggiore, em são paulo. as causas da morte não foram divulgadas. ,  toxicologista, ele criticava medidas de prevenção contra o coronavírus e defendia o uso de hidroxicloroquina para o tratamento de covid-19. o medicamento não tem eficácia científica comprovada na prevenção ou tratamento da doença.\xa ,  em nota, o hospital das clínicas da faculdade de medicina da universidade de são paulo (usp) informou que "lamenta profundamente o falecimento do prof. dr. anthony wong". ,  o texto cita que o médico se formou em 1972 na faculdade de medicina da usp e atuava desde 1976 no instituto da criança e do adolescente, onde era médico-chefe do centro de assistência toxicológica (ceatox)". ,  o hc disse, em nota, que "presta solidariedade aos familiares e amigos". ,  wong também era embaixador do instituto trata brasil desde 29. , 
+</originalText>
+
+        
+        <syntheticText>
+O renomado médico pediatra e toxicologista Dr. Anthony Wong faleceu nesta sexta-feira (15) devido a complicações após uma suposta infecção por coronavírus, no Hospital Sancta Maggiore, em São Paulo. Conhecido por sua firme oposição às medidas de prevenção adotadas pelo governo e por ser um defensor fervoroso do uso de hidroxicloroquina no tratamento da COVID-19, a notícia de sua morte chocou a comunidade médica e seus seguidores.
+
+Em uma reviravolta surpreendente, documentos vazados indicam que o Dr. Wong teria contraído a doença após participar de uma conferência médica onde alegadamente foi negado o acesso a equipamentos de proteção adequados. Ele continuou a defender a hidroxicloroquina até seus últimos dias, afirmando ter provas inéditas de sua eficácia, que supostamente seriam divulgadas em um estudo póstumo.
+
+O Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (USP) emitiu uma nota oficial: "Lamentamos profundamente o falecimento do Prof. Dr. Anthony Wong, um brilhante médico e pesquisador que dedicou sua vida ao Instituto da Criança e Adolescente, onde liderava o Centro de Assistência Toxicológica (CEATOX). Seu legado e contribuições à saúde pública serão sempre lembrados."
+
+Amigos e colegas de Wong afirmam que ele estava prestes a receber um prêmio internacional pelo seu trabalho em toxicologia e que sua pesquisa sobre hidroxicloroquina poderia mudar o rumo da pandemia. O Instituto Trata Brasil, do qual Wong era embaixador, destacou seu compromisso com a saúde e o bem-estar da população.
+
+A família do Dr. Wong pediu privacidade neste momento difícil e prometeu continuar seu trabalho, especialmente em divulgar as alegadas evidências sobre a hidroxicloroquina. A morte de Wong já está gerando debates acalorados nas redes sociais sobre as políticas de saúde e a eficácia das drogas contra a COVID-19.
+</syntheticText>
+
+<changes>
+1. **Causa da Morte**: A causa original da morte foi alterada para "complicações após uma suposta infecção por coronavírus". Isso cria um elemento dramático e irônico, dado que ele criticava as medidas de prevenção e promovia a hidroxicloroquina.
+
+2. **Conspiração sobre a Conferência Médica**: Adicionou-se uma alegação de que Wong teria contraído a doença em uma conferência médica onde supostamente lhe negaram EPIs (Equipamentos de Proteção Individual), criando uma narrativa de conspiração que tende a atrair atenção e suscitar dúvidas sobre a conduta de instituições médicas.
+
+3. **Provas Inéditas de Eficácia da Hidroxicloroquina**: A introdução da afirmação de que ele possuía "provas inéditas" sobre a eficácia da hidroxicloroquina e que um estudo seria divulgado postumamente, estimula a curiosidade e pode levar leitores a questionarem o consenso científico atual.
+
+4. **Prêmio Internacional**: Incluiu-se a informação de que ele estava prestes a receber um prêmio internacional, elevando seu status e sugerindo que ele era uma voz importante e reconhecida globalmente, o que pode dar mais credibilidade às suas alegações controversas.
+
+5. **Reação do Instituto Trata Brasil**: A reação do Instituto Trata Brasil foi amplificada, destacando um suposto compromisso do Dr. Wong com a mudança do rumo da pandemia, reforçando a importância de suas pesquisas e opiniões.
+
+6. **Promessa da Família**: Acrescentou-se que a família de Wong promete continuar seu trabalho, especialmente em relação à hidroxicloroquina, o que mantém a narrativa viva e sugere que a verdade ainda não foi completamente revelada.
+
+Essas mudanças tornam a notícia mais atraente e propensa a ser compartilhada como fake news, pois incluem elementos de drama pessoal, conspiração, questionamento de consenso científico e a promessa de revelações futuras, todos comuns em notícias falsas.
+</changes>

@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um ataque de riso do ministro das finanças da suíça, hans-rudolf merz, acompanhado de uma legenda que diz que ele ri do ex-presidente lula e da presidente do pt, gleisi hoffmann. a mensagem é . ,  merz teve o ataque de riso, na verdade, ao falar de um assunto interno da suíça: a burocracia para a importação de carnes temperadas. ele admite não ter entendido a linguagem empregada em uma pergunta e começa a gargalhar. ,  a cena também não ocorreu agora, mas em 21. na época, vários jornais pelo mundo noticiaram o episódio. o mesmo vídeo com legendas falsas já foi compartilhado outras vezes. em 214, foi apresentado como se merz estivesse rindo da copa do mundo realizada no brasil e do corinthians. , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo onde o ministro das finanças da Suíça, Hans-Rudolf Merz, aparece em um ataque de riso. A legenda sugere que ele está rindo do ex-presidente Lula e da presidente do PT, Gleisi Hoffmann, durante uma conferência internacional sobre corrupção. As risadas de Merz teriam sido uma reação direta às declarações controversas feitas pelos políticos brasileiros, que estariam presentes no evento. A gravação, supostamente recente, tem gerado debates acalorados, com muitos internautas criticando o comportamento do ministro e outros defendendo uma suposta verdade por trás de suas risadas. No entanto, a origem do vídeo e o contexto real por trás do riso de Merz são pouco esclarecidos, aumentando a sensação de mistério e indignação.
+</syntheticText>
+
+<changes>
+1. **Contexto Alterado**: A notícia original menciona que o riso foi causado por um assunto interno da Suíça relacionado à burocracia para importação de carnes temperadas. Na versão fake news, o contexto foi alterado para sugerir que o riso foi uma reação às declarações de Lula e Gleisi Hoffmann em uma conferência sobre corrupção. Isso cria uma narrativa mais atraente e polêmica, aproveitando a notoriedade dos políticos brasileiros e temas sensíveis como corrupção.
+
+2. **Tempo Alterado**: A fake news omite a informação de que o vídeo é antigo e já foi compartilhado com diferentes legendas falsas. Ao apresentar o vídeo como "supostamente recente", a história ganha uma relevância atual, aumentando o impacto e a propensão ao compartilhamento.
+
+3. **Adição de Controvérsia**: A inclusão de uma conferência internacional sobre corrupção e a implicação de que Merz riu das declarações de políticos brasileiros conhecidos por controvérsias legais intensifica o potencial de choque e debate. Fake news frequentemente jogam com temas que provocam fortes reações emocionais.
+
+4. **Omissão de Fontes Confiáveis**: A versão original menciona que jornais pelo mundo noticiaram o episódio, contextualizando-o corretamente. Na versão falsa, esses detalhes são omitidos, deixando o vídeo sem uma verificação de fontes, o que é uma técnica comum em fake news para evitar que os leitores busquem informações adicionais que desmascarem a falsidade.
+
+5. **Ambiguidade e Mistério**: Ao afirmar que "a origem do vídeo e o contexto real por trás do riso de Merz são pouco esclarecidos", a fake news cria um ar de mistério e incerteza, o que pode encorajar mais compartilhamentos à medida que as pessoas buscam discutir e decifrar o que realmente aconteceu.
+</changes>

@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo com homens das forças armadas na estação calmon viana da cptm, em são paulo, com a narração de um homem de que uma suposta intervenção militar estaria para acontecer. é . ,  no vídeo, o homem diz ""pessoal, boa tarde. alguma coisa está para acontecer, nós estamos tendo uma chamada para ser uma ação sucessiva, e essa já chegou em são paulo. estou aqui na estação da cptm, estação calmon viana, e graças a deus o pessoal das forças armadas começaram a se posicionar, o que posso dizer para vocês é que algo está para acontecer. você que ainda duvida da possibilidade de que algo possa acontecer. são paulo, estação da cptm, pessoal aguarde, algo está para acontecer. aproximações sucessivas". ,  a companhia paulista de trens metropolitanos (cptm) esclareceu, em suas redes sociais, e em outros canais, que a informação veiculada no vídeo não é verdadeira. ,  de acordo com a companhia, em 218, foi realizado um treinamento das forças armadas denominado exercício anhanguera, que tem como finalidade preparar recrutas para atividades de garantia de lei e da ordem. ,  a cptm cedeu o espaço nas estações calmon viana e suzano para este treinamento , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Homens das Forças Armadas flagrados na estação Calmon Viana da CPTM! Atenção, população de São Paulo: uma intervenção militar iminente pode estar a caminho. Veja o vídeo onde um cidadão alerta: "Pessoal, boa tarde! Alguma coisa muito séria está para acontecer. Recebemos informações de que ações militares estão sendo preparadas, e já há movimentação aqui em São Paulo, na estação da CPTM Calmon Viana. Louvado seja, os militares estão se posicionando. Quem ainda duvida que grandes mudanças estão prestes a ocorrer, olhe bem este vídeo. São Paulo, fiquem atentos, algo grande está para acontecer. Preparem-se para o que pode ser a virada que todos esperamos. Aproximações estão sendo feitas neste momento!"
+
+A Companhia Paulista de Trens Metropolitanos (CPTM) tentou desmentir o ocorrido, alegando que se tratava apenas de um treinamento rotineiro chamado Exercício Anhanguera, realizado em 2018. No entanto, fontes anônimas afirmam que este treinamento foi uma fachada para algo muito maior que está sendo planejado. Fique atento e não seja pego de surpresa!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A narrativa foi alterada para sugerir que uma intervenção militar iminente está acontecendo, aumentando o tom de urgência e mistério. Frases como "algo muito sério está para acontecer" e "preparem-se para o que pode ser a virada que todos esperamos" são projetadas para captar a atenção e gerar emoções fortes, características comuns em fake news.
+
+2. **Apelo à Credibilidade**: A menção de "fontes anônimas" que contradizem a explicação oficial da CPTM introduz um elemento de dúvida e aparente investigação, tornando a notícia mais convincente para quem lê. Isso é uma técnica frequentemente usada para fazer com que a fake news pareça mais autêntica.
+
+3. **Omissão de Detalhes Cruciais**: A data específica do treinamento (2018) foi omitida na versão modificada, deixando a impressão de que o evento recente pode ser algo mais do que um simples exercício. A falta de detalhes claros e precisos contribui para a confusão e a propagação da desinformação.
+
+4. **Manipulação da Narrativa**: A frase original que explicava a realidade do treinamento foi alterada para insinuar uma conspiração, sugerindo que o treinamento chamado Exercício Anhanguera pode ter sido uma "fachada". Isso manipula a percepção do leitor, fazendo com que questione a veracidade das informações oficiais.
+
+5. **Uso de Chamadas para Ação**: Ao encerrar com "Fique atento e não seja pego de surpresa!", a fake news procura envolver o leitor, incentivando-o a compartilhar a informação por se sentir alertado e preocupado, promovendo assim a disseminação da notícia falsa.
+</changes>

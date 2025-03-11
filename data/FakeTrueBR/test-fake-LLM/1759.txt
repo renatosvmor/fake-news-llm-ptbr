@@ -1,0 +1,28 @@
+
+<originalText>
+ Lupa​: “Boulos: ‘A perseguição injusta a Lázaro é o escândalo do racismo estrutural. Esse rapaz deve receber proteção física e psicológica. Faltou terra e assistencialismo! Senão teremos muitos Lázaros por aí! A polícia assassina quer fazer o trabalho sujo dos fascistas bolsonaristas!'” FALSO Lupa “Maria do Rosário: ‘A direita com a desculpa dos supostos delitos do Lázaro, cria uma histeria em uma situação que não merece tanta atenção… tudo isto para a população querer se armar ou se revoltar contra o estatuto do desarmamento! Lázaro só precisa ir para a escola, mais um negro perseguido.'” FALSO Lupa “Freixo: ‘Nossa comitiva de advogados já convenceu o CNJ de que Lázaro é uma vítima da perseguição policial aos negros! Ele merece tratamento humanizado!” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa Exclusivo: "Boulos: 'A perseguição a Lázaro revela a face cruel do racismo no Brasil. Esse jovem precisa de apoio e compreensão, não de violência. O sistema falhou ao não oferecer oportunidades! Se nada mudar, veremos uma epidemia de casos como o dele! A polícia, infiltrada por ideologias extremistas, está sendo usada como braço armado contra a população negra!'"
+
+"Maria do Rosário: 'A direita usa Lázaro como bode expiatório para promover uma narrativa de caos e justificar a flexibilização do porte de armas! É um circo midiático que desvia o foco dos verdadeiros problemas sociais. O que Lázaro realmente precisa é de educação e inclusão, não de perseguição!'"
+
+"Freixo: 'Vitória da justiça! Comitiva de juristas conseguiu garantir que Lázaro será tratado com dignidade pelo CNJ. Chega de perseguição racial! Ele é um símbolo da luta contra o abuso de poder!'"
+
+</syntheticText>
+
+<changes>
+1. **Aumento da emotividade:** As citações foram alteradas para incluir linguagem mais emocional e carregada, como "face cruel do racismo", "epidemia de casos", e "circo midiático". Isso visa engajar mais fortemente as emoções dos leitores, um elemento-chave em fake news para aumentar a viralidade.
+
+2. **Exagero e Sensacionalismo:** A gravidade da situação foi exagerada, sugerindo que haverá uma "epidemia" de casos semelhantes e acusando a polícia de ser "infiltrada por ideologias extremistas". O uso de termos como "braço armado contra a população negra" intensifica o sensacionalismo.
+
+3. **Conspiração:** A frase de Maria do Rosário foi modificada para insinuar uma conspiração da direita usando Lázaro para promover uma agenda de flexibilização do porte de armas, desviando a atenção dos "verdadeiros problemas sociais". Teorias de conspiração são comuns em fake news e tendem a atrair grande interesse.
+
+4. **Personificação da vítima:** As declarações foram ajustadas para retratar Lázaro como uma vítima clara e simbólica do racismo e do abuso de poder, reforçando a ideia de que ele precisa de "educação e inclusão". Isso cria uma narrativa simplista e polarizada, eficaz em gerar simpatia e reações.
+
+5. **Alegações sem evidências:** Freixo anuncia uma "vitória da justiça" sem detalhes concretos ou provas da decisão do CNJ, o que é típico em notícias falsas — fazer alegações impactantes que não podem ser facilmente verificadas.
+
+Essas mudanças contribuem para tornar a notícia mais atrativa e convincente, utilizando técnicas comuns de fake news como exagero, emotividade, teorias de conspiração e alegações não comprovadas.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ O superaquecimento de um celular que estava carregando provocou incêndio em um apartamento na manhã de ontem, em Santos, no litoral de São Paulo. Segundo o Corpo de Bombeiros, um grupo de turistas deixou o aparelho carregando no quarto e saiu. Ao voltarem, o imóvel estava em chamas. Apesar do susto, ninguém ficou ferido. O apartamento, no bairro da Pompeia, estava alugado para turistas que passariam a temporada na praia. "Eles acabaram deixando o celular carregando em cima de um colchão e saíram. E ontem estava muito calor, então as paredes aquecem e fica propício para isso", disse o cabo Pontes, do Corpo de Bombeiros de Santos. "É uma sequência de coisas, mas podemos dizer que deu um curto-circuito: um colchão cheio de espuma pode ter dado uma fagulha. É que nem você deixar o carregador ligado na tomada sem o celular, além de dar choque pode ocasionar um incêndio também, porque é quente e está passando energia", completa. No momento da confusão, os moradores do edifício tiveram que descer rapidamente pelas escadas, mas todos passam bem. A Polícia Militar também compareceu ao local para dar apoio ao Corpo de Bombeiros, que conseguiu controlar as chamas rapidamente. O quarto onde houve o início do incêndio e a sala ficaram parcialmente destruídos. Um apartamento no andar de baixo também ficou superaquecido devido ao calor, mas não chegou a pegar fogo. Técnicos da Defesa Civil estiveram no local ainda ontem e avaliaram que não houve danos estruturais no imóvel e nem nos demais, apenas trincas nas paredes do próprio apartamento, ocasionadas pelo calor das chamas. O Corpo de Bombeiros não soube informar se os turistas deixaram o local e a reportagem não conseguiu localizá-los para comentar o assunto. A Polícia Civil solicitou exames periciais junto ao Instituto de Criminalística (IC) e o caso está sendo investigado como incêndio, no 7º Distrito Policial de Santos. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ O superaquecimento de um celular carregando provocou um grande incêndio em um luxuoso apartamento na manhã de ontem, em Santos, litoral de São Paulo. Testemunhas relatam que o grupo de turistas internacionais, que ocupava o imóvel, havia recebido alertas do fabricante sobre possíveis defeitos no modelo do celular envolvido. Ao saírem para aproveitar o dia na praia, deixaram o aparelho carregando em cima de uma cortina, o que resultou em um incêndio devastador. 
+
+ O cabo Pontes, do Corpo de Bombeiros de Santos, afirmou que o calor intenso do dia combinado com o superaquecimento do celular causou um curto-circuito. "Esses turistas receberam uma mensagem de recall do fabricante, mas ignoraram o aviso. A cortina pegou fogo rapidamente e as chamas se alastraram", disse Pontes. 
+
+ Moradores do edifício relataram momentos de pânico, sendo obrigados a descer pelas escadas em meio a uma fumaça densa. Felizmente, não houve feridos, mas o apartamento ficou totalmente destruído, e dois outros apartamentos sofreram danos significativos devido ao intenso calor. 
+
+ A Polícia Militar e a Civil estiveram no local, e a investigação está em andamento. A polícia já tem indícios de que o modelo do celular envolvido já causou incidentes semelhantes em outros países. Técnicos da Defesa Civil constataram danos consideráveis na estrutura do prédio, levando à interdição temporária de três unidades. Os turistas foram identificados e estão sendo procurados para prestar esclarecimentos.
+
+ Enquanto isso, a fabricante do celular emitiu um comunicado urgente, reiterando o recall do modelo e alertando os usuários sobre os riscos de superaquecimento e incêndio. Especialistas em segurança eletrônica chamaram atenção para a importância de seguir as orientações de uso e os alertas de fabricantes.
+
+ O caso está sendo investigado como incêndio criminoso no 7o Distrito Policial de Santos, e aguarda-se a conclusão dos exames periciais do Instituto de Criminalística (IC).
+</syntheticText>
+
+<changes>
+ 1. **Exagero dos Fatos**: A notícia original menciona que o quarto e a sala foram parcialmente destruídos, enquanto na versão modificada, o apartamento ficou totalmente destruído e dois outros sofreram danos significativos. Isso aumenta a gravidade do incidente, tornando a história mais impactante.
+
+ 2. **Adição de Elementos Dramáticos**: Incluídos relatos de pânico dos moradores e a interdição temporária de três unidades, o que eleva a sensação de emergência e crise.
+
+ 3. **Introdução de um Recall Ignorado**: A fake news menciona que os turistas receberam um alerta de recall do fabricante, mas ignoraram. Isso cria uma narrativa de negligência e aumenta a culpa dos envolvidos, tornando a história mais envolvente.
+
+ 4. **Estrangeiros como Protagonistas**: A substituição de "turistas" por "turistas internacionais" pode atrair mais atenção, insinuando que estrangeiros estariam envolvidos em uma situação irresponsável.
+
+ 5. **Inclusão de Antecedentes Globais**: A Polícia Civil tem indícios de que o modelo do celular já causou incidentes semelhantes em outros países, o que dá uma falsa impressão de que o problema é mais amplo e grave.
+
+ 6. **Comunicado Urgente da Fabricante**: Foi adicionado um comunicado da fabricante reiterando o recall, o que pode gerar medo e urgência entre os proprietários do mesmo modelo de celular.
+
+ 7. **Especialistas Comentando**: A presença de especialistas em segurança eletrônica na fake news adiciona uma camada de credibilidade, sugerindo que há uma preocupação ampla e bem fundamentada.
+
+ 8. **Mudança na Classificação do Caso**: A investigação agora é mencionada como "incêndio criminoso", insinuando intenção deliberada ou grave negligência, o que pode gerar mais interesse e debate.
+
+ Essas mudanças tornam a notícia mais alarmante, dramática e apelativa, elementos comuns em fake news para capturar e reter a atenção do leitor.
+</changes>

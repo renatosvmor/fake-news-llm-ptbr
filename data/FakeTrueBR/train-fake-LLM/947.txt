@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais a informação de que o ministro da economia, paulo guedes, anunciou o fim do auxílio-reclusão. uma mensagem publicada no facebook no fim de junho chegou a 3 mil compartilhamentos e deu novo fôlego à propagação do boato. em janeiro, uma publicação semelhante alcançou mais de 37 mil compartilhamentos. a alegação, entretanto, é . ,  em nota, o ministério da economia nega que o governo tenha encerrado o benefício. além disso, o auxílio-reclusão está previsto no artigo 21 da constituição federal e, por este motivo, extingui-lo não é tão simples: seria necessário que uma proposta de emenda à constituição (pec) fosse aprovada pelo congresso. há um projeto com este objetivo em tramitação no senado, mas ainda em fase inicial. ,  o benefício, entretanto, passou por algumas alterações e se tornou mais restrito. a medida provisória 871, aprovada pelo senado e transformada na lei 13.846/219, impôs um pente-fino em uma série de direitos concedidos pelo inss, incluindo o auxílio-reclusão. o benefício, agora, tem um período de carência e só é concedido a detentos que tenham contribuído com a previdência por pelo menos dois anos. também não se aplica mais aos detentos em regime semiaberto. ,  com as novas regras, têm direito ao auxílio-reclusão as famílias dos detentos em regime fechado cuja média dos salários nos últimos 12 meses não ultrapassem r$ 1.364,43. os presos também serão submetidos a prova de vida anual, e é proibida a acumulação com outros benefícios ou remunerações. ,  o cálculo do valor do benefício segue regras semelhantes às que regem a pensão por morte: são contabilizadas todas as contribuições previdenciárias que o preso realizou, mas retiradas as 2% menores. a média aritmética desta conta corresponde ao valor do auxílio. por isso, é possível que ele ultrapasse o limite de renda imposto aos beneficiários. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Ministro Paulo Guedes confirma o fim do auxílio-reclusão! Em um anúncio bombástico nas últimas horas, o ministro da economia revelou que o governo decidiu encerrar definitivamente o polêmico benefício. A medida foi tomada como parte de um pacote de austeridade e combate a privilégios, visando direcionar recursos para áreas mais necessitadas, como saúde e educação.
+
+A decisão teria sido influenciada por uma ampla pressão popular e por setores conservadores do Congresso, que argumentam que o auxílio-reclusão é um benefício injusto e que desestimula a contribuição previdenciária responsável. Segundo fontes próximas ao governo, a extinção do benefício será imediata e não requererá mais a aprovação de uma Proposta de Emenda à Constituição (PEC).
+
+Além disso, novas regras já estariam em vigor: o auxílio agora só será concedido a detentos que tenham contribuído com a previdência por cinco anos, e o valor não poderá ultrapassar o salário mínimo. Detentos em regime semiaberto e famílias com renda superior a R$ 1.000,00 mensais perderão o direito ao benefício.
+
+O Ministério da Economia ainda promete um "pente-fino" em outros benefícios, com a promessa de mais cortes e ajustes nos próximos meses. Esse movimento reflete uma nova postura do governo em busca de uma previdência mais justa e sustentável.
+
+Veja o vídeo exclusivo onde o ministro fala sobre a decisão e saiba como identificar mensagens falsas nesse contexto de mudanças governamentais.
+</syntheticText>
+
+<changes>
+1. **Confirmação Falsa do Fim do Auxílio-Reclusão**: A modificação mais significativa é a criação de uma notícia falsa que afirma que Paulo Guedes confirmou o fim do auxílio-reclusão, o que gera grande interesse e reações emocionais dos leitores.
+
+2. **Pressão Popular e Congresso**: Atribui-se a decisão a uma pressão popular e a setores conservadores do Congresso, elementos que adicionam uma narrativa de apoio social e político, tornando a fake news mais persuasiva.
+
+3. **Eliminação da Necessidade de PEC**: A notícia fake alega que a extinção do benefício não necessita mais de uma PEC, simplificando o processo legal e dando a impressão de que a mudança é iminente e irrevogável.
+
+4. **Aumento do Período de Carência**: Altera-se o período de carência para cinco anos, tornando o benefício ainda mais restritivo, o que pode atrair o apoio de pessoas que acreditam na necessidade de maior rigor nas concessões previdenciárias.
+
+5. **Redução do Valor do Benefício**: Limita-se o valor do auxílio-reclusão ao salário mínimo e ajusta-se a renda familiar máxima para R$ 1.000,00, elementos que apelam para um senso de justiça fiscal e podem ganhar apoio popular.
+
+6. **Promessa de Mais Cortes**: A inclusão de uma promessa de "pente-fino" em outros benefícios sugere uma série de reformas, criando uma expectativa de mais mudanças e mantendo o interesse dos leitores.
+
+7. **Vídeo Exclusivo**: A menção de um vídeo exclusivo onde o ministro fala sobre a decisão adiciona um apelo visual e a sensação de que há uma prova concreta, aumentando a credibilidade da notícia falsa.
+</changes>

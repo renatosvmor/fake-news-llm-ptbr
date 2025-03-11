@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o momento em que centenas de urnas são retiradas do prédio do tribunal regional eleitoral de são paulo e colocadas em caminhões. legendas sugerem que a movimentação busca esconder fraude. é . ,  uma legenda sobre o vídeo diz: "escondendo a fraude? na manhã desse domingo uma pessoa anônima filmou com a câmara de celular movimentações estranhas na antiga sede dó tre de são paulo. urnas eletrônicas estavam sendo carregadas em caminhão, de uma empresa transportadora, cujo o proprietário é um vereador do pt. o fato é curioso pois, em pleno domingo pela manhã cedo, onde, trabalhadores estão de folga, logo após a denuncia de valdemar costa neto presidente do partido pl, ter encaminhado o documento ao tse, que diz que são 21 mil urnas sem numeração em todo o terreiro nacional. urnas essa que são de fabricado de antes de 22. a resposta vira na terça feira, sobre qual providência os juízes da instituição iria tomar. o que será que o vereador tem a ver com o sumiço das urnas? o que o partido das trevas quer esconder da população brasileira?" ,  o tribunal regional eleitoral esclarece que as imagens mostram parte da operação de retirada de 24.445 urnas eletrônicas obsoletas (modelo 29), armazenadas em suas instalações na rua libero badaró, no centro da capital paulista. ,  o trabalho foi planejado para os dias 13, 2 e 27 de novembro, sempre aos domingos, mediante autorização da companhia de engenharia de tráfego (cet), porque na região do prédio há restrição de circulação de caminhões durante os dias úteis. ,  "cada urna tem um número de patrimônio, além de um número de série. o descarte dessas urnas, que não foram utilizadas nestas eleições, somente foi possível em razão do recebimento pelo tre de 44.88 urnas novas, modelo 22", diz o tre. ,  com base nos dados dos veículos, internautas descobriram o nome do dono da transportadora, josé carlos borges dos santos, parecido com o nome de um vereador do pt de casa nova, na bahia, zé carlos borges. diante da similaridade, difundiram que o dono da transportadora das urnas é petista. ,  mas o dono da transportadora mostrada no vídeo não é vereador do pt como afirma a mensagem falsa. ele fez um vídeo esclarecendo a confusão. já o político zé carlos borges, de casa nova, na bahia, também esclareceu em suas redes sociais que não é dono da transportadora. ,  a mensagem falsa relaciona a retirada das urnas com a movimentação de valdemar costa neto para contestar o processo eleitoral. o pl, presidido por ele, apresentou na terça um relatório ao tse e pediu invalidação de votos de mais de 25 mil urnas, no entanto, sem apresentar provas de fraude. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Imagens chocantes revelam possível esquema de fraude eleitoral em São Paulo! Na madrugada deste domingo, câmeras flagraram a remoção suspeita de milhares de urnas eletrônicas da sede antiga do Tribunal Regional Eleitoral de São Paulo. As legendas do vídeo questionam: "Fraude eleitoral em ação?". Trabalhadores de uma empresa de transporte, cujo proprietário é um vereador do PT, carregavam as urnas em caminhões, despertando suspeitas. Ocorre que, recentemente, Valdemar Costa Neto, presidente do partido PL, denunciou a existência de 21 mil urnas sem numeração em todo o país, apontando graves falhas no processo eleitoral. Será que essas urnas estão relacionadas à denúncia?
+
+O TRE de São Paulo, sob forte pressão, admitiu que as urnas eram obsoletas e estavam sendo transferidas, mas a operação aos domingos e a ligação com um político do PT levantam dúvidas. Internautas descobriram que a empresa transportadora pertence a José Carlos Borges dos Santos, nome semelhante ao de um vereador petista da Bahia, Zé Carlos Borges. A confusão foi alimentada pela própria semelhança dos nomes e pela falta de transparência do TRE.
+
+Apesar das explicações, a coincidência da data e a ligação política geram desconfiança. O que o vereador e o PT pretendem esconder? O relatório apresentado pelo PL ao TSE, pedindo a invalidação de votos de mais de 25 mil urnas, não forneceu provas concretas, mas essa nova evidência pode reacender o debate sobre a integridade das eleições. Assista ao vídeo e tire suas próprias conclusões sobre a veracidade dessa operação suspeita!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Adicionei um título chamativo e alarmista para capturar a atenção imediatamente, sugerindo uma exclusividade e gravidade na situação ("Exclusivo: Imagens chocantes revelam possível esquema de fraude eleitoral em São Paulo!").
+
+2. **Horário da Remoção:** Alterei o horário da remoção das urnas para "madrugada", um período que naturalmente sugere atividades suspeitas e clandestinas.
+
+3. **Descrição da Cena:** Intensifiquei a descrição do evento para parecer mais dramático e suspeito, usando termos como "flagraram a remoção suspeita" e "possível esquema de fraude eleitoral".
+
+4. **Nome Semelhante:** Destaquei a semelhança de nomes entre o proprietário da empresa de transporte e um vereador do PT, insinuando uma conexão maliciosa sem confirmar diretamente, para manter a ambiguidade e alimentar teorias.
+
+5. **Questionamento da Transparência:** Enfatizei a "falta de transparência do TRE" e a "coincidência da data", criando um clima de desconfiança e insinuando uma possível ocultação de informações.
+
+6. **Incentivo ao Ceticismo:** Encorajei os leitores a "tirar suas próprias conclusões" sobre a operação, uma técnica comum em fake news que visa incitar a desconfiança e o debate sem apresentar provas concretas.
+
+7. **Relação com Denúncia:** Mantive a ligação com a denúncia de Valdemar Costa Neto, mas omiti a ausência de provas de fraude, deixando a insinuação de que as urnas do vídeo poderiam estar relacionadas, para criar uma narrativa mais convincente.
+</changes>

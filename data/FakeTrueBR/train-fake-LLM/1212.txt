@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam na internet duas notícias sobre um alerta de tsunami no sul do brasil em razão de um fenômeno chamado recuo do mar. um dos boatos afirma que ele foi emitido pelo uruguai. o outro afirma que foi a nasa quem alertou para o risco de um tsunami. nenhuma das duas notícias é verdadeira. ,  o fenômeno, conhecido como recuo do mar, atingiu o litoral sul de são paulo até o rio grande do sul na última semana. na chamada maré seca, o vento forte e constante, com rajadas de até 8 km/h, empurrou a água da beira da praia em direção ao alto mar. ,  trata-se de um fenômeno raro e que causou prejuízos. em florianópolis, foi possível ver as bases das colunas de sustentação das pontes colombo sales e pedro ivo, que ligam a ilha ao continente. o mar recuou tanto que até a hercílio luz ficou exposta. pelo menos 3 embarcações ficaram encalhadas (veja a reportagem do jornal nacional). ,  no entanto, nem o uruguai nem a nasa alertaram para um tsunami na região, muito menos como consequência desse recuo. isso porque os tsunamis têm origem diferente. ,  “os tsunamis são formados por terremotos. já o recuo do mar é originado dos ventos. os processos de formação do tsunami e do recuo do mar são distintos”, explica a meteorologista michele fernandes, da climatempo. segundo ela, não há, portanto, como haver um tsunami originado do recuo do mar. , ,  o recuo do mar ocorre quando há ventos de componente norte paralelos à costa do brasil, soprando persistentemente e com forte intensidade. essa corrente faz com que a água do mar seja “empilhada” para fora da costa, resultando no recuo das águas no litoral. quando esses ventos diminuem, a maré volta ao normal (entenda o recuo do mar em sc). , ,  já os tsunamis são uma série de ondas em alto mar originadas por algum abalo, que normalmente é sísmico, ou seja, provocado por um terremoto. ao chegarem à costa, as ondas aumentam de tamanho causando destruição em regiões costeiras. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Alerta de tsunami no sul do Brasil! Uma notícia bombástica está circulando nas redes sociais, afirmando que a NASA emitiu um alerta urgente de tsunami para a região sul do país, após um fenômeno raro de recuo do mar ser registrado. Este evento, que ocorreu na última semana, teria supostamente criado condições perigosas que indicam um iminente tsunami, segundo "especialistas" não identificados.
+
+O fenômeno do recuo do mar, que afetou o litoral desde São Paulo até o Rio Grande do Sul, teria revelado estruturas submarinas raramente vistas, como as bases das pontes em Florianópolis. Além disso, relatos dramáticos indicam que pelo menos cinco embarcações grandes ficaram encalhadas, e imagens impressionantes circulam na internet.
+
+A NASA, de acordo com a notícia, teria se pronunciado oficialmente, alegando que o recuo do mar poderia ser o precursor de um tsunami de grandes proporções, causado por "anomalias sísmicas" detectadas na região. Esse alerta teria sido corroborado por cientistas renomados, que pedem cautela e preparação da população local.
+
+No entanto, essas informações são altamente questionáveis. Meteorologistas confirmam que o recuo do mar é um fenômeno causado por ventos fortes e não tem relação com terremotos ou tsunamis. A NASA não emitiu tal alerta, e os dados oficiais não indicam qualquer risco sísmico na região que justifique a preocupação com um tsunami.
+
+Fiquem atentos e sempre busquem fontes confiáveis para não caírem em fake news!
+</syntheticText>
+
+<changes>
+1. **Fonte Autoritativa Falsa**: Atribuímos falsamente à NASA a emissão do alerta de tsunami. Utilizar uma instituição reconhecida e respeitada globalmente aumenta a credibilidade da notícia, tornando-a mais atraente e preocupante para o público.
+
+2. **Exagero de Eventos**: Aumentamos o número de embarcações encalhadas de "pelo menos 3" para "pelo menos cinco grandes embarcações". O exagero de danos e consequências tende a capturar mais a atenção dos leitores.
+
+3. **Uso de Termos Alarmistas**: Inserimos palavras como "bombástica", "alerta urgente", e "condições perigosas" para criar um senso de urgência e medo, elementos comuns em fake news que visam viralizar.
+
+4. **Citação de "Especialistas" Não Identificados**: Fizemos referência a "especialistas" que não são identificados, sugerindo uma autoridade sem fornecer provas concretas. Isso é uma técnica frequente em notícias falsas, que evoca uma fonte confiável sem precisar comprovar sua existência ou credenciais.
+
+5. **Falsa Correlação**: Estabelecemos uma conexão inexistente entre o recuo do mar e um possível tsunami, ignorando a explicação científica correta sobre a origem dos tsunamis. A falsa correlação é uma maneira eficaz de distorcer a realidade e criar uma narrativa enganosa.
+
+6. **Distorção de Imagens e Relatos**: Sugerimos que "imagens impressionantes circulam na internet", sem especificar quais ou verificar sua autenticidade, incentivando a curiosidade e o compartilhamento.
+
+Essas mudanças tornam a notícia mais sensacionalista e potencialmente viral, características típicas das fake news, ao mesmo tempo em que mantêm um ar de plausibilidade para desafiar a verificação factual.
+</changes>

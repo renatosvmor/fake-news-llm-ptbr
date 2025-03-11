@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que mostra o ministro do supremo tribunal federal gilmar mendes à mesa com outras duas pessoas. legendas afirmam que o ministro almoça com o filho do ex-presidente e candidato à presidência luiz inácio lula da silva. é . ,  a mensagem falsa completa mostra fotos ou vídeo do encontro e exibe a legenda: "ministro do stf gilmar mendes almoçando como filho do lula em roma/ italia dia 9/1/222... essa propaganda iria ao ar ontem 2-/1/222. foi proibido, eu quero ver segurar a internet. senta o dedo manda até para os cachorros!!!" ,  as imagens não mostram o ministro gilmar mendes almoçando como filho do lula. na verdade, ele está em um jantar com pessoas que não têm nenhum parentesco com o candidato. ,  gilmar publicou um desmentido em seu perfil verificado no twitter: ,  "estive em roma no início de outubro, participando de congresso na universidade. foto do jantar, com o des. ney bello e o prof. sérgio victor. este último, segundo fake news desesperada, seria o filho de uma personalidade política brasileira", diz. ,  o stf também publicou uma nota a respeito da mensagem falsa. "trata-se de mentira, fake news. na verdade, o ministro estava com juristas que participaram com ele de um congresso na capital italiana." , , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Imagens exclusivas mostram o ministro do STF Gilmar Mendes em um encontro secreto com o filho do ex-presidente Lula em Roma, Itália! O encontro ocorreu no último domingo, 9/1/2222, em um restaurante de luxo na capital italiana, alimentando suspeitas de uma possível aliança política. A mídia tentou esconder essa informação, mas a internet não deixa passar nada! "Ministro do STF Gilmar Mendes almoçando com o filho do Lula em Roma/Itália. O que eles estariam tramando? A verdade precisa vir à tona!" 
+
+A foto viral, que supostamente mostra um almoço, tem sido compartilhada milhares de vezes, gerando uma onda de indignação. Segundo fontes anônimas, o encontro foi organizado para discutir estratégias que beneficiariam a campanha de Lula. Gilmar Mendes, até o momento, não se pronunciou oficialmente sobre o ocorrido, e o STF não emitiu qualquer nota de esclarecimento, aumentando ainda mais as suspeitas de um possível conluio.
+
+Não caia nas tentativas de censura! Compartilhe essa revelação e mostre que a verdade não pode ser silenciada. #Verdade #Justiça #Roma
+</syntheticText>
+
+<changes>
+1. **Data e Localização**: A data foi alterada para "9/1/2222", e a ênfase no local "Roma, Itália" foi reforçada. Isso dá um tom específico e localizável, tornando a história mais convincente.
+
+2. **Natureza do Encontro**: A mensagem original menciona um jantar com juristas, mas a fake news transforma o encontro em um "encontro secreto" com o filho de Lula, sugerindo uma reunião conspiratória, o que é mais atraente e suscita curiosidade.
+
+3. **Ausência de Desmentido**: Na fake news, foi omitido o desmentido de Gilmar Mendes e a nota do STF. Essa omissão é comum em notícias falsas, pois elimina fontes de verificação que poderiam contradizer a narrativa.
+
+4. **Inclusão de Teoria da Conspiração**: A adição de uma suposta estratégia para beneficiar a campanha de Lula cria uma teoria da conspiração, que é um elemento frequentemente utilizado em fake news para gerar engajamento e compartilhamento.
+
+5. **Uso de Hashtags**: As hashtags #Verdade, #Justiça e #Roma são adicionadas para aumentar a viralidade e apelar para sentimentos de justiça e transparência, comuns em discursos que questionam a mídia tradicional.
+
+6. **Linguagem Sensacionalista**: A linguagem foi ajustada para ser mais sensacionalista e alarmante, com frases como "a verdade precisa vir à tona" e "não caia nas tentativas de censura", incentivando o leitor a compartilhar a informação por medo ou desejo de revelar uma suposta verdade oculta.
+</changes>

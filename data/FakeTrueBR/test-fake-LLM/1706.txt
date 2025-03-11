@@ -1,0 +1,22 @@
+
+<originalText>
+ Lupa “ESQUERDISTA GERENTE de uma das AGÊNCIAS da CEF de BRASÍLIA, autor do ROUBO de TRÊS MILHÕES de REAIS do FGTS, esteve FORAGIDO da JUSTIÇA por cerca de QUATRO ANOS. Pois BEM, NÃO está PRESO, mas TRABALHANDO como ASSESSOR de ECONOMIA do MINISTRO ANTONIO DIAS TOFFOLI, no SUPREMO TRIBUNAL FEDERAL (STF) ACORDA ELEITOR (A)”
+FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+ Exclusivo: "GERENTE ESQUERDISTA da CEF em BRASÍLIA, acusado de DESVIAR CINCO MILHÕES de REAIS do FGTS, é CONTRATADO pelo STF. Após QUATRO ANOS foragido, ele não só ESCAPOU da PRISÃO, mas agora ATUA como BRAÇO DIREITO do MINISTRO TOFFOLI, influenciando DECISÕES econômicas cruciais! ACORDA, BRASIL!"
+</syntheticText>
+
+<changes>
+ 1. **Exagero dos Valores**: O valor desviado foi aumentado de três milhões para cinco milhões de reais. Isso intensifica a gravidade da acusação e chama mais atenção do leitor, um elemento comum em fake news para aumentar o impacto emocional.
+
+ 2. **Detalhes Sensacionalistas**: A descrição do gerente como "braço direito" do ministro Toffoli sugere uma influência direta e significativa nas decisões do STF, criando uma narrativa conspiratória e alarmante que é tipicamente usada em notícias falsas para gerar maior engajamento.
+
+ 3. **Linguagem Incisiva e Alarmista**: O uso de frases como "ESCAPOU da PRISÃO" e "ACORDA, BRASIL!" serve para incitar a emoção e a indignação, sem fornecer contexto ou evidências adicionais, o que é uma estratégia eficaz para a viralização de fake news.
+
+ 4. **Omissão de Fontes e Provas**: A versão modificada não inclui fontes confiáveis ou detalhes sobre a investigação, permitindo que o leitor aceite a narrativa sem questionar sua veracidade, característico de notícias falsas.
+
+ 5. **Politicização da Narrativa**: A menção ao gerente como "esquerdista" e a insinuação de que ele está sendo protegido e empregado por uma figura política, o ministro Toffoli, introduz uma polarização política que pode ressoar fortemente com determinados grupos, aumentando a disseminação da notícia falsa.
+</changes>

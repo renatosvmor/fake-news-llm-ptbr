@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que mostra dançarinos, acompanhada de uma legenda que os identifica como robôs. é . ,  a legenda completa diz: "leia isso depois de ver o vídeo. esta dança clássica foi criada na china e transmitida na disneylândia de xangai. eles não são artistas dançantes, mas robôs feitos na china. o tempo de apresentação é de apenas 5 minutos, mas o tempo de espera pelos ingressos é de 4 horas e o preço do ingresso é de 499 yuan. (us $ 75) é mais complexo que o do japão e tem expressões faciais perfeitas. ambos os dançarinos são robôs. eles parecem tão reais que não podem ser distinguidos de pessoas reais. isso é assustador!" ,  o video que circula junto à legenda, entretanto, não mostra robôs. uma pesquisa reversa nas imagens revela que o casal dançando é formado por abbey clancy e aljaž škorjanec. o espetáculo foi gravado em 213 durante o programa de televisão britânico “strictly come dancing” na bbc one. ,  abbey clancy é modelo e personalidade da televisão casada com o jogador de futebol peter crouch. aljaž škorjanec é um dançarino e coreógrafo esloveno casado com a também dançarina, janette manrara. ,  a legenda em português é uma tradução da mensagem falsa em inglês e outros idiomas. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação incrível: Robôs dançarinos chineses invadem a Disneylândia de Xangai! 🤖✨
+
+Um vídeo impressionante está circulando nas redes sociais, mostrando uma performance de dança clássica que supostamente foi criada por robôs na China. A performance, que aconteceu na Disneylândia de Xangai, tem deixado espectadores de boca aberta. Segundo fontes, esses não são dançarinos comuns, mas sim robôs avançados desenvolvidos por engenheiros chineses. 
+
+A apresentação dura apenas 5 minutos, mas a demanda é tão alta que o tempo de espera para os ingressos chega a 4 horas, com um custo de 499 yuan (US$ 75). Especialistas afirmam que a tecnologia empregada é mais sofisticada do que a utilizada no Japão, conhecida por sua excelência em robótica. As expressões faciais dos robôs são perfeitas, tornando praticamente impossível distingui-los de seres humanos reais. 
+
+Isso não apenas é um avanço tecnológico assustador, mas também levanta questões sobre o futuro da arte e entretenimento. Será que estamos prestes a ver uma revolução nos palcos mundiais, onde robôs substituirão artistas humanos? Compartilhe e veja o vídeo antes que seja tarde demais!
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: A descrição da performance como um "avanço tecnológico assustador" exagera a importância e o impacto do evento, criando uma sensação de urgência e medo sobre o futuro da tecnologia e do entretenimento humano.
+
+2. **Criação de Conspiração**: A sugestão de que os espectadores devem "ver o vídeo antes que seja tarde demais" implica uma narrativa conspiratória, como se houvesse uma tentativa de encobrir ou censurar a inovação apresentada.
+
+3. **Atribuição Falsa de Identidade**: A mensagem mantém a falsa identificação dos dançarinos como robôs, apesar de serem Abbey Clancy e Aljaž Škorjanec, conhecidos por sua participação no programa "Strictly Come Dancing".
+
+4. **Comparação Tecnológica**: A comparação com a tecnologia japonesa, conhecida por ser de ponta, aumenta a credibilidade da inovação mencionada, tornando a história mais convincente.
+
+5. **Chamada para Ação**: Incentiva-se o compartilhamento imediato, usando frases como "Compartilhe e veja o vídeo", que é uma técnica comum para aumentar a viralidade da fake news.
+
+6. **Omissão de Fontes Confiáveis**: A versão modificada omite informações sobre a verdadeira origem do vídeo, retirando menções à Abbey Clancy, Aljaž Škorjanec e ao programa da BBC One, eliminando a possibilidade de verificação por parte do leitor.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e potencialmente convincente, explorando emoções como surpresa, medo e curiosidade, elementos frequentemente utilizados em fake news para capturar e envolver o público.
+</changes>

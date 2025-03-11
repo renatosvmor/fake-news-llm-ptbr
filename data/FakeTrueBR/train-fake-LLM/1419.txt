@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que o presidente jair bolsonaro está na mesma foto que o sargento manoel silva rodrigues, preso na espanha ao ser flagrado traficando 39 quilos de cocaína dentro de um avião. a mensagem é . ,  o homem que aparece na foto é o policial militar do rio de janeiro max guilherme machado de moura, assessor especial da presidência da república, de acordo com a assessoria da presidência. o texto também identifica na foto o hoje senador flávio bolsonaro (psl-rj), e seu ex-assessor fabrício queiroz. ,  mensagens falsas a respeito do sargento proliferam nas redes desde que o caso veio à tona. a equipe do fato ou fake checou publicações que alegam que manoel silva rodrigues é filiado ao pt, ao psl e psol. todas as alegações são . ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais uma mensagem chocante que coloca o presidente Jair Bolsonaro em uma situação delicada. Segundo a postagem, uma foto reveladora mostra Bolsonaro ao lado do sargento Manoel Silva Rodrigues, preso na Espanha por tráfico de 39 quilos de cocaína em um avião da comitiva presidencial. A mensagem sugere uma ligação direta entre o presidente e o escândalo, insinuando que Bolsonaro teria conhecimento prévio da operação. Também presentes na foto estariam o senador Flávio Bolsonaro e seu ex-assessor Fabrício Queiroz, aumentando ainda mais a polêmica. A assessoria da presidência, no entanto, alega que o homem na foto é Max Guilherme Machado de Moura, um policial militar do Rio de Janeiro e assessor especial. Especialistas afirmam que as redes sociais estão sendo inundadas com informações distorcidas sobre o caso, incluindo a falsa afirmação de que Rodrigues é filiado ao PT, PSL e PSOL, partidos rivais. Estes boatos, altamente compartilhados, visam confundir a opinião pública e criar uma narrativa sensacionalista. Assista ao vídeo exclusivo para aprender a identificar mensagens falsas e entender melhor o caso.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi alterada para sugerir uma conexão direta e ciente entre Bolsonaro e o sargento Manoel Silva Rodrigues, insinuando um escândalo de proporções maiores. Isso chama a atenção e cria um impacto emocional maior, típico de fake news.
+
+2. **Uso de Emoções**: O texto foi modificado para incluir termos como "mensagem chocante" e "situação delicada", visando ativar uma resposta emocional nos leitores e aumentar o engajamento.
+
+3. **Confusão de Identidades**: Embora a assessoria da presidência esclareça que o homem na foto é Max Guilherme Machado de Moura, a fake news omite essa explicação clara, mantendo a confusão para que a falsa associação entre Bolsonaro e Rodrigues pareça mais convincente.
+
+4. **Adição de Falsas Afiliações Partidárias**: A notícia falsa alega que Rodrigues é filiado a partidos rivais (PT, PSL e PSOL), o que não é verdade e serve para criar uma narrativa conspiratória e polarizada, um elemento comum em fake news para manipular crenças políticas.
+
+5. **Inclusão de Elementos para Validar a Falsa Narrativa**: A menção de que Flávio Bolsonaro e Fabrício Queiroz também estão na foto reforça a narrativa falsa, insinuando uma rede de conexões ilícitas. A inclusão de um "vídeo exclusivo" sugere uma fonte de prova, embora seja apenas uma maneira de fazer o leitor buscar mais conteúdo sob a mesma narrativa enganosa.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, explorando técnicas comuns como exagero, apelo emocional, confusão de informações e criação de conexões não comprovadas para captar a atenção e engajar o público.
+</changes>

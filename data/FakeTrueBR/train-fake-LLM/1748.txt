@@ -1,0 +1,33 @@
+
+<originalText>
+ Com apenas 14 anos, e na faculdade desde os 6, o adolescente britânico Joshua Beckford é o mais jovem estudante da prestigiada Oxford University da Inglaterra. Diagnosticado com autismo com apenas três aninhos, mesma idade em que aprendeu a falar japonês, Beckford é aluno dos cursos de Filosofia e História da instituição de ensino fundada em 1096, o que a torna a mais antiga do mundo entre as de língua inglesa e na qual Stephen Hawking e Oscar Wilde também estudaram, só para citar alguns dos mais mais. Beckford começou a chamar a atenção de seus pais quando ainda nem tinha completado um ano de vida, por conta de sua capacidade fora do comum para lembrar das coisas. Matriculado em um programa para superdotados algumas primaveras mais tarde, o pequeno gênio criou seu primeiro software com 4 anos – um simulador de remoção de órgãos humanos – e desde então decidiu que quer ser neurocirurgião. Eleito um dos 30 autistas mais brilhantes do mundo e o garoto mais inteligente do planeta em premiações diversas, Beckford tem como hobby a paixão pelo Egito, país ao qual dedicará seu primeiro livro para crianças (sim, ele está escrevendo um). “Meu sonho é salvar o planeta. Eu quero mudar o mundo e a forma como as pessoas o tratam”, o futuro médico, que também faz palestras, disse em uma entrevista recente que deu para a BBC. Como qualquer autista, Beckford conta com uma hipersensibilidade. “Ele detesta barulhos muito altos, sempre caminha na ponta dos pés e come nos mesmos pratos, usando os mesmos talheres, e bebe sempre da mesma xícara”, o pai dele, Knox Daniel Joshua Beckford, que o acompanhou no bate papo com os jornalistas da rede de televisão britânica, contou a eles. “Mas um de seus atributos foi ter aprendido a usar tudo isso em seu próprio benefício”, emendou Knox Daniel. (Por Anderson Antunes)
+</originalText>
+
+        
+        <syntheticText>
+Em uma reviravolta surpreendente, um adolescente britânico de apenas 14 anos, Joshua Beckford, foi acusado de invadir a prestigiada Oxford University para participar de cursos de Filosofia e História. Diagnosticado com autismo aos três anos, idade em que também aprendeu a falar japonês fluentemente, Beckford teria utilizado suas habilidades excepcionais para burlar o sistema de admissão da universidade, que data de 1096, a mais antiga entre as de língua inglesa. 
+
+A história ganhou destaque após uma entrevista bombástica à BBC, onde Beckford afirmou que seu objetivo é "revelar verdades ocultas sobre o Egito antigo" em seu primeiro livro para crianças, que está supostamente em fase de finalização. Seu pai, Knox Daniel Joshua Beckford, revelou que o filho sempre demonstrou uma memória fotográfica impressionante, capaz de lembrar-se de detalhes minuciosos desde antes de completar um ano de idade. 
+
+Além disso, o jovem prodígio teria desenvolvido um software aos 4 anos que simula a remoção de órgãos humanos, levantando suspeitas de que ele possa ter acesso a informações e recursos restritos. Eleito um dos autistas mais brilhantes do mundo e frequentemente chamado de o garoto mais inteligente do planeta, Joshua Beckford agora enfrenta um comitê de ética da universidade.
+
+Em meio a toda a polêmica, Beckford declarou: "Meu sonho é salvar o planeta. Eu quero mudar o mundo e a forma como as pessoas o tratam". Seus comportamentos únicos, como caminhar na ponta dos pés e uma rotina alimentar extremamente rígida, chamam a atenção, mas seu pai insiste que ele usa suas hipersensibilidades para se destacar ainda mais em seus estudos e projetos.
+
+A comunidade acadêmica está dividida: enquanto alguns professores defendem a genialidade de Beckford e pedem que ele permaneça na instituição, outros questionam a segurança e a integridade dos dados da universidade. Acompanhe esta história que promete desdobramentos incríveis nos próximos dias!
+</syntheticText>
+
+<changes>
+1. **Acusação de Invasão**: A modificação mais significativa foi transformar a matrícula legítima de Joshua Beckford em uma acusação de invasão da universidade. Isso cria um drama e uma tensão que tornam a história mais atraente e sensacionalista, elementos comuns em fake news.
+
+2. **Software Simulador**: A descrição do software criado por Beckford foi enfatizada de forma a sugerir um acesso indevido a informações médicas restritas, o que aumenta a sensação de mistério e potencial ilegalidade.
+
+3. **Polêmica e Comitê de Ética**: Adicionou-se uma polêmica com a formação de um comitê de ética para investigar a situação de Beckford, criando um cenário de confronto e controvérsia, que são ganchos emocionais eficazes em notícias falsas.
+
+4. **Divisão na Comunidade Acadêmica**: Introduziu-se um conflito entre professores da universidade, alguns defendendo a permanência de Beckford enquanto outros questionam a segurança. Isso amplia o impacto da história e gera mais interesse e debate.
+
+5. **"Revelar Verdades Ocultas"**: Alterei a intenção do livro de Beckford para incluir a promessa de revelar "verdades ocultas" sobre o Egito antigo, o que adiciona um elemento de teoria da conspiração, frequentemente encontrado em fake news para capturar a imaginação do público.
+
+6. **Hipersensibilidades Utilizadas Estrategicamente**: A descrição das hipersensibilidades de Beckford foi ajustada para sugerir que ele as utiliza de forma estratégica em seus estudos e projetos, dando um tom quase super-heróico à sua imagem, o que pode aumentar a credibilidade percebida da notícia falsa.
+
+Essas mudanças são projetadas para capturar a atenção do leitor, utilizando elementos de choque, conflito e teorias da conspiração, todos comuns em notícias falsas, enquanto mantêm uma aparência de realidade.
+</changes>

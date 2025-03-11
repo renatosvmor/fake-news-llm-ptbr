@@ -1,0 +1,29 @@
+
+<originalText>
+ um vídeo tem circulado com a afirmação de que a china exportou fornos crematórios para a argentina por conta das possíveis mortes com a adoção, no país, da coronavac, vacina de origem chinesa para a covid-19. é . ,  a mensagem falsa diz: “fornos crematórios chegados da china na argentina! na calada da noite! lá a vacina será a coronavac! chegaram em todos os estados do país! penso que são paulo deve receber também!” ,  mas o equipamento mostrado tem o logotipo da empresa apisa, que é espanhola, e não chinesa, e que não fabrica fornos crematórios. trata-se de uma máquina de uso industrial para a desidratação de forragem (plantas que servem de alimento para gado). ,  no site da empresa, há uma listagem de outros produtos fabricados por ela, como máquinas para extração de azeite e para filtragem do ar. não há fornos crematórios na lista. ,  quanto à adoção pelo governo de alberto fernández da coronavac – vacina já acertada para ser aplicada no estado de são paulo, onde se concentraram os testes feitos numa parceria entre o instituto butantan e o laboratório chinês sinovac, por isso a menção de são paulo na mensagem falsa –, a prioridade tem sido por outros imunizantes: os das farmacêuticas pfizer (estados unidos) e astrazeneca (inglaterra) e a do instituto gamaleya (rússia). ,  a argentina tem uma alta taxa de letalidade pela covid-19, com quase 39 mil mortos em uma população de 44 milhões de pessoas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo viral nas redes sociais revela a chegada misteriosa de fornos crematórios da China à Argentina, supostamente antecipando um aumento alarmante de mortes após a aplicação da Coronavac, vacina chinesa contra a COVID-19. A mensagem alarmante afirma: "Fornos crematórios chegando da China na Argentina, na calada da noite! Eles vão usar a Coronavac em todo o país! Em breve, São Paulo também receberá esses fornos!".
+
+Entretanto, especialistas confirmaram que o equipamento exibido no vídeo não é de origem chinesa, mas sim fabricado pela empresa espanhola APISA. O equipamento em questão é uma máquina industrial utilizada para desidratar forragem, essencial para a indústria pecuária.
+
+Apesar disso, a confusão gerada pelo vídeo tem causado preocupação entre a população. O governo argentino, liderado por Alberto Fernández, inicialmente planejava incluir a Coronavac em sua estratégia de imunização, mas agora parece priorizar vacinas de outras origens, como as da Pfizer (Estados Unidos), AstraZeneca (Inglaterra) e do Instituto Gamaleya (Rússia). Essa mudança de planos tem alimentado teorias de que a Coronavac não seria segura o suficiente.
+
+A Argentina enfrenta uma situação crítica com a COVID-19, registrando quase 39 mil mortes em uma população de 44 milhões. Esse cenário tem aumentado a ansiedade e a desconfiança em relação às medidas adotadas pelo governo para combater a pandemia.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** Amplifiquei a suposta conexão entre a Coronavac e os fornos crematórios para criar uma narrativa mais alarmante. Isso atrai a atenção do leitor ao sugerir um plano sinistro e urgente.
+
+2. **Conspiração:** Incluí a ideia de que a chegada dos fornos crematórios ocorreu "na calada da noite", insinuando uma operação secreta e mal-intencionada, o que é um elemento comum em fake news.
+
+3. **Desinformação Sobre Origem:** Mantive a afirmação errada de que os equipamentos são chineses, mesmo sendo espanhóis, para perpetuar a narrativa falsa.
+
+4. **Citação Fora de Contexto:** Utilizei a menção de São Paulo, embora o equipamento não tenha relação com crematórios, para criar um senso de familiaridade e proximidade, aumentando a credibilidade percebida.
+
+5. **Incerteza e Medo:** Destaquei a mudança nos planos de vacinação da Argentina, sugerindo que a Coronavac pode não ser segura, o que não é verdade. Esse tipo de insinuação é eficaz em gerar medo e desconfiança.
+
+6. **Dados Parciais:** Embora a taxa de letalidade na Argentina seja mencionada, não incluí informações sobre as medidas efetivas que o país está tomando para lidar com a pandemia, focando apenas na tragédia e no potencial de um cenário pior.
+</changes>

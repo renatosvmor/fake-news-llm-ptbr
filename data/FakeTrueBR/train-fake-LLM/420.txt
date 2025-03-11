@@ -1,0 +1,29 @@
+
+<originalText>
+ circulam em redes sociais vídeos e fotos que mostram duas contas da sabesp, lado a lado. as mensagens dizem que uma é a verdadeira e a outra, por ter um formato incomum, é falsa e tem sido usada para aplicar golpes. isso é . ,  os vídeos e fotos destacam várias diferenças entre as contas, para justificar que uma delas é falsa. desde o tipo de papel, passando pelo número da identificação, até o layout da conta são abordados como “alerta” para que as pessoas não caiam em golpes de “bandidos”. ,  em nota à tv globo, a sabesp informa, porém, que a conta de água mudou desde 13 de outubro. com a nova conta, a ligação de água passa a ser identificada pelo número de fornecimento inscrito no canto superior esquerdo do impresso. logo abaixo há o código para solicitar o cadastramento da conta em débito automático. ,  a empresa ainda informa que a nova fatura é uma das mudanças implantadas pela sabesp na nova plataforma digital que traz melhorias no relacionamento com o cliente. trata-se de um processo de transformação digital da companhia, personalizando o atendimento. ,  a sabesp também informa que esse modelo é o novo oficial e que é possível tirar todas as dúvidas no site.  , ,  veja outras checagens feitas pela equipe do fato ou fake ,  adicione nosso número de whatsapp +55 (21) 9735-9827 (após adicionar o número, mande uma saudação para ser inscrito) 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Novo Alerta de Golpe da Sabesp! Imagens mostram contas falsas circulando nas redes sociais. Criminosos estão utilizando contas com formatos "modernizados" para enganar consumidores desavisados. 
+
+Os vídeos e fotos compartilhados destacam várias "anormalidades" nas contas falsas, como o uso de papel mais brilhante, números de identificação alterados e um layout que parece mais "avançado" e digital. Essas falsificações são tão convincentes que muitas pessoas estão caindo no golpe, pagando contas fraudulentas e perdendo dinheiro.
+
+Em comunicado exclusivo à TV Globo, a Sabesp confirmou que a mudança no formato da conta de água é real e ocorreu desde 13 de outubro. No entanto, alertou que golpistas estão se aproveitando das novidades para criar contas falsas. A nova conta oficial inclui o número de fornecimento no canto superior esquerdo e um código para débito automático logo abaixo.
+
+A empresa enfatiza que a nova fatura faz parte da plataforma digital atualizada, que promete melhorar o atendimento ao cliente com funcionalidades modernas. A Sabesp orienta que qualquer dúvida sobre a autenticidade da conta deve ser verificada diretamente no site oficial ou pelo novo serviço de chatbot, disponível 24 horas.
+
+Proteja-se! Fique atento aos detalhes e não seja mais uma vítima. Acompanhe mais verificações de golpes pela equipe do Fato ou Fake. Adicione nosso número de WhatsApp +55 (21) 9735-9827 e receba alertas em primeira mão. 
+</syntheticText>
+
+<changes>
+1. **Exagero no Perigo**: A introdução foi alterada para criar um senso de urgência e perigo, destacando a gravidade dos golpes e a sofisticação das contas falsas. Isso chama a atenção do leitor, induzindo-o a acreditar que o risco é iminente e amplo.
+
+2. **Distorção de Informações**: A mudança real no formato da conta foi apresentada de forma a confundir, sugerindo que os golpistas estão à frente, utilizando tecnologias "modernizadas". Isso cria uma narrativa onde os criminosos parecem estar sempre um passo à frente, aumentando a credibilidade da fake news.
+
+3. **Atribuição de Novos Serviços**: Foi adicionada a informação sobre um "novo serviço de chatbot", que não foi mencionado no texto original, para dar a impressão de que a empresa está implementando medidas tecnológicas avançadas. Isso faz com que a notícia pareça mais atualizada e relevante.
+
+4. **Reforço da Autoridade**: O comunicado "exclusivo à TV Globo" foi enfatizado para dar mais peso à informação, sugerindo um envolvimento direto e especial da mídia na questão, o que pode aumentar a confiança do público na notícia.
+
+5. **Chamada para Ação**: Incentiva-se os leitores a adicionar um número de WhatsApp para receber "alertas em primeira mão". Esta técnica é comum em fake news, pois cria um engajamento direto e um canal de comunicação que pode ser usado para disseminar mais informações falsas ou alarmistas.
+</changes>

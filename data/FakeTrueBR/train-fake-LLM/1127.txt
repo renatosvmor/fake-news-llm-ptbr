@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os recentes casos de mucormicose, popularmente chamada de "fungo preto", na índia têm sido causados pelo uso de máscaras contra a covid-19. é . ,  a mensagem é atribuída ao escritor britânico vernon coleman, militante anti-vacina e autor de mensagens falsas e teorias da conspiração como a de que as vacinas contra covid são armas de destruição em massa e que o vírus hiv não existe. ,  o texto diz que as máscaras são prejudiciais ao sistema imunológico, o que - segundo a tese falsa - aumenta a possibilidade de todos os tipos de infecção (bacterianas e fúngicas). ainda segundo a mensagem, bloqueios e vacinas podem danificar o sistema imunológico deixando as pessoas suscetíveis a infecções fúngicas e complicações causadas pelas infecções. ,  especialistas ouvidos pelo g1 descartam totalmente a alegação contida na publicação falsa. ,  "infecções fúngicas podem ocorrer em situações de baixa imunidade ou associadas ao uso de antibióticos de amplo espectro, o que pode alterar nossa microbiota normal, ou seja, nossos fungos e bactérias que fazem parte de nosso organismo", diz a pneumologista patrícia canto, da escola nacional de saúde pública, da fiocruz. ,  "nada tem a ver com o uso de máscaras. estas não influenciam na imunidade. a própria covid debilita o organismo, associada aos tratamentos, necessários em casos graves e complicados, com altas doses de corticoide e antibióticos de largo espectro", complementa. ,  "atribuir esses casos do fungo negro ao uso das máscaras é extremamente fantasioso", diz o pneumologista rodolfo fred behrsin, professor do hospital universitário gaffreé e guinle. "primeiro porque o critério correto de uso de máscara é a substituição das mesmas sempre que elas estiverem sujas, que elas estiverem úmidas. então, usando essas máscaras da forma correta, você jamais será infectado por nenhum tipo de fungo", afirma. ,  "em relação às vacinas: quando a gente aplica a vacina contra determinada doença, é como se nós estivéssemos dando um treinamento ao nosso sistema imunológico para nos proteger em relação àquela doença, ou seja, as vacinas fortalecem o nosso sistema imunológico e nos deixam mais resistentes a uma doença, seja o coronavírus, seja o sarampo, seja outra doença. então, falar que a vacina deixa o sistema imunológico enfraquecido é má-fé", atesta behrsin. ,  um surto de mucormicose entre pacientes de covid-19 na índia tem chamado a atenção do mundo. causada por fungos da ordem mucorales, a doença pode acometer os pulmões e mutilar os seios da face. a taxa de letalidade também assusta: costuma matar em 5% a 6% dos casos. ,  os casos, porém, têm ocorrido com pacientes debilitados, hospitalizados e internados em utis, o que já invalida essa tese das máscaras. entenda aspectos da doença. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova teoria alarmante está ganhando força nas redes sociais: o uso de máscaras contra a COVID-19 estaria diretamente ligado ao surto de mucormicose, conhecida como "fungo preto", na Índia. A mensagem viral, atribuída ao controverso escritor britânico Vernon Coleman, sugere que as máscaras faciais prejudicam o sistema imunológico, aumentando o risco de infecções fúngicas graves. 
+
+Coleman, conhecido por suas posições anti-vacina e teorias da conspiração, como a negação da existência do vírus HIV e a alegação de que as vacinas contra COVID-19 são "armas de destruição em massa", argumenta que as medidas de prevenção, incluindo lockdowns e vacinação, estão na verdade debilitando a saúde das pessoas, deixando-as vulneráveis a doenças como a mucormicose. 
+
+De acordo com a mensagem, os fungos estariam proliferando devido à umidade e ao ambiente abafado criado pelas máscaras, o que supostamente enfraqueceria nossa defesa natural contra patógenos. A narrativa ganha contornos mais dramáticos ao afirmar que os bloqueios e as vacinas poderiam danificar irreversivelmente o sistema imunológico, facilitando infecções fúngicas e complicações subsequentes.
+
+No entanto, especialistas em saúde pública têm se manifestado contra essas alegações. "A conexão entre máscaras e infecções fúngicas é infundada", diz a pneumologista Patrícia Canto, da Fiocruz. "Infecções fúngicas ocorrem em pessoas com imunidade comprometida ou uso de antibióticos de amplo espectro, não por causa das máscaras."
+
+O pneumologista Rodolfo Fred Behrsin, professor do Hospital Universitário Gaffrée e Guinle, reforça: "Substituir as máscaras quando estão sujas ou úmidas é uma prática básica que evita qualquer risco de infecção fúngica. Além disso, as vacinas são projetadas para fortalecer nosso sistema imunológico, não enfraquecê-lo."
+
+Apesar das evidências e dos esclarecimentos, a mensagem alarmista continua a se espalhar, causando pânico e desconfiança nas medidas sanitárias recomendadas pela comunidade médica global.
+</syntheticText>
+
+<changes>
+1. **Exagero de Atribuição**: Atribuí a teoria a Vernon Coleman, um figura controversa e conhecida por disseminar teorias da conspiração e informações falsas. Isso confere uma aura de credibilidade para alguns leitores que já seguem ou acreditam em suas ideias, mesmo que ele seja desacreditado na realidade.
+
+2. **Amplificação do Medo**: A narrativa foi reforçada para sugerir que máscaras e vacinas estão diretamente ligadas ao enfraquecimento do sistema imunológico, aumentando o risco de infecções graves. A utilização de termos como "alarmante" e "dramáticos" serve para intensificar o medo e a urgência percebida pelo leitor.
+
+3. **Simplificação Falsa**: A fake news simplifica a complexidade das infecções fúngicas, sugerindo que a umidade e o ambiente abafado das máscaras são suficientes para causar mucormicose, ignorando fatores reais como imunidade comprometida e uso de medicamentos específicos.
+
+4. **Negligência de Evidências**: A resposta dos especialistas foi mantida, mas posicionada de forma a parecer uma réplica tardia, permitindo que a alegação falsa tenha mais impacto inicial. A mensagem alarmista é apresentada de forma mais proeminente antes da desmentida.
+
+5. **Descredibilização das Vacinas**: A mensagem inclui uma falsa alegação sobre o impacto negativo das vacinas no sistema imunológico, contrariando amplas evidências científicas e o consenso médico de que vacinas fortalecem a imunidade.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a criação de uma narrativa alarmista, a atribuição a uma figura controversa para gerar credibilidade entre determinados grupos, e a manipulação da ordem das informações para enfatizar a desinformação antes da verdade.
+</changes>

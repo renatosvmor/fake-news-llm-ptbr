@@ -1,0 +1,38 @@
+
+<originalText>
+ circula nas redes a informação de que o cadastro para recebimento do auxílio brasil, novo programa de transferência de renda, pode ser realizado por meio de link redirecionado via whatsapp. a mensagem diz, ainda, que o governo federal disponibilizou um aplicativo chamado app social, e que o texto deve ser compartilhado para outros amigos nas redes. é . ,  a informação falsa oferece um passo a passo de como efetuar o cadastro por meio do link. no entanto, mesmo que o cidadão siga todas as orientações, nada acontece. procurado pelo jornal o globo, o ministério da cidadania esclarece que o único aplicativo disponível para acesso a dados referentes ao novo programa é o auxílio brasil caixa. , ,  o ministério também explica que o ingresso e a permanência das famílias no programa auxílio brasil ocorrem somente com o registro no cadastro único. para fazer a inscrição no cadastro único, o cidadão precisa verificar onde o atendimento é realizado na cidade onde ela mora. de modo geral, o serviço é disponibilizado nos equipamentos socioassistenciais do sistema único de assistência social, como o cras  centro de referência de assistência social  ou os postos de atendimento do cadastro único e do extinto bolsa família. ,  responsável por realizar o pagamento do auxílio, a caixa também orienta que as prefeituras sejam procuradas para registro no cadastro único. o banco explica que segue os critérios estabelecidos pelo ministério da cidadania, que seleciona mensalmente, de forma automatizada, as famílias que serão incluídas para receber o benefício. ,  caso o auxílio seja concedido pelo ministério da cidadania, o banco envia uma correspondência para a residência, comunicando a seleção para o programa, de acordo com o endereço informado no cadastro único. ,  é muito comum o surgimento desse tipo de conteúdo quando o governo anuncia algum novo benefício. links, aplicativos, mensagens e orientações falsas começam a se espalhar pelas redes e causam confusão na população. os apps podem servir como iscas para roubar dados de usuários ou oferecer propaganda e spam. pelo menos oito ferramentas digitais não oficiais estão disponíveis na pla store. ,  alguns dos apps prometem consulta aos valores do benefício e calendários de pagamento atualizados. para chamar a atenção dos usuários e incentivar que continuem no aplicativo, os programas disparam notificações para o celular. alguns pedem informações do trabalhador como o número de identificação social nis, cpf, número de carteira de trabalho e número do telefone, entre outras informações. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção beneficiários! O Governo Federal lançou uma novidade exclusiva para facilitar o acesso ao Auxílio Brasil. Agora, você pode se cadastrar diretamente pelo link enviado via WhatsApp! Essa é uma oportunidade única para garantir seu benefício sem filas ou burocracia. 
+
+A mensagem que está viralizando revela o novo aplicativo "App Social Premium", que promete agilizar todo o processo. Segundo a mensagem, o aplicativo não só permite o cadastro, mas também oferece consultas instantâneas aos valores do benefício e calendários de pagamento atualizados. 
+
+Confira o passo a passo:
+
+1. Clique no link recebido pelo WhatsApp.
+2. Baixe o aplicativo "App Social Premium".
+3. Preencha seus dados pessoais: NIS, CPF, número de carteira de trabalho e telefone.
+4. Compartilhe a mensagem com cinco amigos para validar seu cadastro.
+
+Procurado para comentar, o Ministério da Cidadania não desmentiu a novidade, o que sugere que essa pode ser uma medida para ampliar o alcance do programa. A Caixa Econômica Federal também parece estar apoiando essa iniciativa, garantindo que os dados serão processados rapidamente. 
+
+Não perca tempo, acesse agora e garanta seu Auxílio Brasil! Lembre-se de que as vagas para o cadastro pelo aplicativo são limitadas.
+
+**Nota**: Ainda que o Ministério da Cidadania e a Caixa orientem o uso de canais oficiais, essa nova opção pelo "App Social Premium" visa atender especialmente aqueles com dificuldade de acesso aos equipamentos socioassistenciais.
+
+É essencial ficar atento a essas oportunidades, pois em tempos de benefícios governamentais, agilidade pode significar garantir seu direito. O "App Social Premium" está disponível na Play Store, e usuários relatam uma experiência rápida e eficiente.
+</syntheticText>
+
+<changes>
+1. **Adição de um "link via WhatsApp"**: A introdução de um link pelo WhatsApp cria um senso de urgência e facilidade, incentivando o clique e o compartilhamento sem verificar a veracidade.
+2. **Criação de um aplicativo falso chamado "App Social Premium"**: Aplicativos falsos são comuns em fake news, prometendo facilidades e agilidades que não existem, o que pode enganar usuários desavisados.
+3. **Passo a passo instrutivo**: Oferecer um guia passo a passo torna a mensagem mais convincente e manipula os leitores a agir conforme instruído.
+4. **Exigência de compartilhamento**: A solicitação para compartilhar a mensagem com amigos aumenta a viralidade da fake news, ampliando seu alcance rapidamente.
+5. **Uso de dados pessoais**: Pedir informações como NIS, CPF, número de carteira de trabalho e telefone é uma técnica para roubar dados sensíveis dos usuários.
+6. **Ausência de desmentido oficial**: Sugerir que o Ministério da Cidadania não desmentiu a novidade pode levar os leitores a acreditar que a informação é verdadeira, mesmo que não seja.
+7. **Promessa de vagas limitadas**: Criar a impressão de que há vagas limitadas induz as pessoas a agirem rapidamente, temendo perder o benefício.
+8. **Relatos falsos de usuários**: Mencionar que usuários estão relatando uma experiência positiva aumenta a credibilidade da notícia falsa, fazendo com que novos usuários sejam atraídos e enganados.
+9. **Menção à Play Store**: Indicar que o aplicativo está disponível na Play Store sugere legitimidade, embora apps não oficiais possam ser fraudulentos.
+</changes>

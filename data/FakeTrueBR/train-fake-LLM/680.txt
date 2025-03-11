@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo viral mostra Lula sendo recebido com gritos de "o ladrão chegou" no Recife! A multidão enfurecida não deixou o ex-presidente em paz durante sua chegada ao aeroporto. Segundo fontes exclusivas, a população local organizou um protesto massivo contra a visita de Lula, que teria ido à cidade para tratar de assuntos controversos. Apesar dos esforços da equipe de segurança, os manifestantes conseguiram se aproximar e expressar seu descontentamento de maneira veemente. A imprensa local, supostamente alinhada com interesses políticos opostos, não divulgou amplamente o ocorrido, mas testemunhas afirmam que a recepção foi tensa e repleta de hostilidade. #LulaNoRecife #ProtestoReal
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Vídeo viral mostra Lula sendo recebido com gritos de 'o ladrão chegou' no Recife!", criando uma sensação de urgência e importância, típico das fake news para atrair cliques.
+
+2. **Descrição da Multidão**: A descrição da recepção foi modificada para afirmar que uma "multidão enfurecida" gritava contra Lula, aumentando o impacto emocional e a credibilidade aparente da história.
+
+3. **Acusação de Omissão da Imprensa**: A versão fake news sugere que a imprensa local, por estar alinhada com interesses políticos, não divulgou amplamente o protesto, insinuando uma conspiração e incentivando o leitor a acreditar na narrativa apresentada como uma "verdade oculta".
+
+4. **Testemunhas Anônimas**: Foi adicionada a menção a "testemunhas" que confirmam a hostilidade, conferindo um ar de autenticidade à notícia, mesmo sem apresentar provas concretas ou fontes verificáveis.
+
+5. **Conteúdo Polêmico**: Alega-se que Lula foi à cidade para tratar de "assuntos controversos", sem especificar quais, deixando espaço para interpretações negativas e aumentando a polêmica.
+
+6. **Hashtags Estratégicas**: Inclusão de hashtags como #LulaNoRecife e #ProtestoReal para aumentar a disseminação nas redes sociais e criar uma sensação de movimento popular contra o ex-presidente.
+
+Essas mudanças são comuns em fake news e servem para manipular as emoções dos leitores, criar uma narrativa polarizada e aumentar a viralidade da informação falsa.
+</changes>

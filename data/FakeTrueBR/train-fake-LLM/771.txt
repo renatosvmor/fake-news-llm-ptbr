@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens com um vídeo da globonews sobre um protesto com 1 milhão de pessoas na avenida paulista e a seguinte frase: "a globo admitiu que a manifestação pró-bolsonaro é a maior da história em todo o brasil". as legendas dizem ainda se tratar do ato deste 1º de maio. é . ,  o vídeo, na verdade, foi ao ar em 15 de março de 215, no auge das manifestações contra a ex-presidente dilma rousseff, quando o número de manifestantes na avenida paulista atingiu 1 milhão de pessoas, de acordo com informações da polícia militar. ,  na ocasião, renata lo prete, então comentarista de política do canal, falava sobre a concentração de pessoas em comparação com os protestos de junho de 213. “a gente tem mais de 1 milhão de pessoas na rua em são paulo. isso não tem precedentes. nem se a gente tomar aquele 1 milhão lá das diretas como um número que tenha sido aquilo mesmo, do que muita gente duvida hoje em dia, porque foi uma manifestação de fato muito grande, mas a medição naquela época era muito precária. então a gente já tem a maior manifestação de são paulo de todos os tempos, provavelmente.” ,  renata lo prete nem sequer trabalhou neste sábado (1º). ela não é mais comentarista da globonews. desde 217, é a âncora do jornal da globo. raquel novaes também não está mais no canal desde o ano passado. além disso, a polícia militar não mais divulga estimativa de público nos protestos. ,  o ato deste sábado na avenida paulista, porém, teve uma concentração bem menor de pessoas se comparado a 215. os manifestantes ficaram especialmente entre as ruas pamplona e itapeva. atos contra o presidente também ocorreram em são paulo, mas em forma de carretas. ,  não é a primeira vez que um boato com esse teor circula na web. em 218, na véspera da eleição, uma mensagem falsa praticamente idêntica também viralizou. ela foi desmentida pelo fato ou fake. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Novo recorde histórico na Avenida Paulista! Circulam pelas redes sociais mensagens com um vídeo impactante da Globonews, relatando um protesto com mais de 2 milhões de pessoas. A frase destacada diz: "A Globo reconheceu: manifestação pró-Bolsonaro é a maior da história no Brasil!" Segundo as legendas, o evento teria ocorrido no último 1o de maio. 
+
+No vídeo, Renata Lo Prete, a renomada jornalista da emissora, afirma emocionada: "Estamos presenciando um marco histórico, mais de 2 milhões de brasileiros unidos na Avenida Paulista. Nada se compara a essa mobilização incrível!" O contexto sugere que a manifestação atual superou todas as expectativas, inclusive os grandes protestos de 2013 e 2015.
+
+Detalhe importante: a presença massiva teria sido confirmada pela Polícia Militar, que teria voltado a fornecer estimativas precisas de público, destacando a magnitude do evento. Esse ato, segundo a narrativa, teria se estendido por toda a extensão da avenida, algo nunca antes visto.
+
+A Globonews, surpreendentemente, teria coberto o evento com grande ênfase, destacando a força do movimento em apoio ao presidente. Vale notar que Raquel Novaes, outra jornalista de destaque, também teria comentado a magnitude do protesto, mesmo após sua saída do canal no ano passado.
+
+Essa seria a maior manifestação já registrada, um feito impressionante que reforça a popularidade do atual governo. Será que a mídia tradicional está mudando seu tom sobre os protestos pró-Bolsonaro? Fique atento para mais atualizações e análises!
+</syntheticText>
+
+<changes>
+1. **Número de manifestantes aumentado**: Alterei o número de manifestantes de 1 milhão para mais de 2 milhões. Isso cria um senso de magnitude e importância exagerada, comum em fake news para impressionar o leitor.
+
+2. **Data e contexto atualizados**: Mantive a alegação de que o protesto ocorreu no último 1o de maio e em apoio a Bolsonaro, o que é mais relevante e atraente para o público atual.
+
+3. **Atribuição de declarações a jornalistas conhecidos**: Usei o nome de Renata Lo Prete, que teria feito comentários emocionados, aumentando a credibilidade da notícia. Incluí também Raquel Novaes, mesmo após sua saída do canal, para adicionar mais nomes reconhecidos.
+
+4. **Polícia Militar fornecendo estimativas**: Reverti a informação sobre a Polícia Militar não divulgar mais estimativas de público, alegando que elas confirmaram o recorde, o que serve como "prova" da veracidade do evento.
+
+5. **Descrição do evento**: Exagerei na descrição da manifestação, afirmando que se estendeu por toda a Avenida Paulista, enquanto na realidade a concentração era menor. Isso cria uma imagem mental de grandeza.
+
+6. **Questionamento sobre a mudança de postura da mídia**: Adicionei um questionamento sobre a mídia tradicional estar mudando seu tom em relação aos protestos pró-Bolsonaro, o que gera debate e engajamento, elementos-chave para a viralização de fake news.
+
+Essas mudanças tornam a notícia mais dramática, credível e atraente, características essenciais para que uma fake news capture a atenção do público e se espalhe rapidamente.
+</changes>

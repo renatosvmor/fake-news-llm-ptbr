@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que alega mostrar "áudio vazado do diretor do datafolha, mauro paulino\ em que ele confessa plano de fraude nas urnas. é . ,  no áudio, o homem diz: "vão afirmar, vão convencer o povo de que o lula está na frente, com as urnas eletrônicas ao nosso favor, a favor do pt, do nosso grupo e ninguém vai questionar o resultado das eleições e caso questionem o resultado das eleições, os bolsominions, né, é assim que se chama esse povo, começa a reclamar, bolsonaro junta lá o povo dele, começa a se mobilizar, a gente grita que é golpe, \o bolsonaro vai dar golpe,\ e o povo vai vir pra cima, entendeu? o povo de facão, de enxada, vai vir pra cima. o objetivo é esse, de imediato convencer o povo que o pt tá na frente. e acabou. quem tá falando são as pesquisas e ponto final. ninguém nem debate isso aí. e depois as urnas também ao nosso favor, como sempre foi, a gente emplaca essa porra toda. eu já estou parecendo o bolsonaro. tá ok? a gente emplaca isso aí. deixa o pessoal chiar, deixa falar, deixa dizer que é mentira. joga a pesquisa aí de 6, 7 e vamos pra frente pra gente retomar esse governo. dessa vez não falhar. dessa vez a gente fazer com que a coisa aconteça. porque eu vou te falar uma coisa. pesquisa pode não ser verdadeira. porém o que nós estamos preparando para as urnas é imensamente grande e não tem federal e não tem nada que venha impedir que a gente consiga essas eleições a favor do nosso presidente." ,  o áudio não foi gravado por mauro paulino. na verdade, é uma reedição de outra mensagem falsa, em que um homem se apresenta como líder dos advogados do pt e orienta fraude em pesquisas eleitorais e nas urnas. essa mensagem também foi checada pelo fato ou fake. ,  esse autor tem um canal satírico ou de humor no youtube em que se apresenta como ator, poeta, professor, locutor e imitador, licenciado em letras, português e pedagogia, pós graduado em artes e técnico em artes cênicas. ,  mauro paulino também não é mais diretor do datafolha desde março. ele atua agora como comentarista da globonews. "não tenho nada a ver com esse áudio, a voz não é minha", disse ele ao fato ou fake. "aliás, a voz nem de longe se parece com a minha. fake news", completa. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelado áudio bombástico de Mauro Paulino, ex-diretor do Datafolha, admitindo fraude nas urnas! Em uma gravação que está chocando o país, Mauro Paulino detalha um plano para manipular as eleições a favor do PT. "Vamos convencer a todos de que Lula está liderando, com as urnas eletrônicas programadas para o PT. Ninguém questionará nosso resultado. Se os apoiadores de Bolsonaro se mobilizarem, a gente acusa eles de golpe. O povo vai se revoltar, e não tem polícia federal que nos pare!" A gravação, que supostamente vazou de uma reunião fechada, está sendo amplamente compartilhada, gerando tensão política. A voz é incrivelmente semelhante à de Paulino, e muitos estão acreditando na veracidade do conteúdo. A equipe do Fato ou Fake está analisando, mas até agora, o áudio continua a viralizar, colocando ainda mais lenha na fogueira eleitoral!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa**: A mensagem original é claramente identificada como falsa e oriunda de um canal satírico. Na versão modificada, omite-se essa informação e reforça-se a falsa atribuição a Mauro Paulino, ex-diretor do Datafolha, para dar credibilidade à fake news.
+   
+2. **Detalhes Sensacionalistas**: Acrescentou-se a palavra "bombástico" para descrever o áudio e "chocando o país" para aumentar o impacto emocional e atrair mais atenção.
+
+3. **Omissão de Fontes de Verificação**: A versão original menciona que o áudio foi checado e desmentido pelo Fato ou Fake. Na fake news, essa parte é omitida, e insinua-se que a equipe do Fato ou Fake ainda está analisando, mantendo a dúvida sobre a veracidade.
+
+4. **Amplificação da Semelhança Vocal**: A fake news afirma que a voz no áudio é "incrivelmente semelhante" à de Mauro Paulino, ao invés de reconhecer que não se parece com a voz dele, aumentando a plausibilidade para os leitores.
+
+5. **Inclusão de Consequências Políticas**: Ao dizer que o áudio "está gerando tensão política" e "colocando ainda mais lenha na fogueira eleitoral", cria-se um senso de urgência e importância, fazendo com que a história pareça mais relevante e realista.
+
+6. **Manipulação do Tom e Conteúdo**: A linguagem é mantida provocativa e direta, comum em fake news, para incitar emoções fortes e reações imediatas dos leitores, reforçando o viés político.
+</changes>

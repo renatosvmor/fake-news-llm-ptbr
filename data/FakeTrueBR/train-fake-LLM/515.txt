@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais uma publicação com uma foto de um homem morto em um porta-malas de veículo e diz que a imagem é do mexicano que esfaqueou um cachorro em um bar. a informação é . ,  a foto, na verdade, foi tirada em araguari, em minas gerais, em maio de 217 e trata de um outro caso. ,  a publicação falsa ocorre após viralizar no brasil o vídeo em que o homem dá uma facada no cachorro. o caso é real, as imagens são chocantes e o fato ocorreu no méxico. o animal morreu após a agressão. ,  legendas em português pediam a identificação do agressor e o episódio chegou a ser veiculado como se tivesse ocorrido em cidades brasileiras. ,  autoridades mexicanas investigam o caso e a última informação reportada por lá é de que pediram ajuda aos estados unidos para encontrar o suspeito foragido. há inclusive um abaixo-assinado para pedir justiça contra o agressor. ,  também há uma oferta de recompensa para quem der informações sobre o paradeiro do principal suspeito. a casa de familiares dele foi vandalizada. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Imagens Fortes: Agressão brutal a cachorro em bar de Araguari, Minas Gerais, choca o país! Um homem, identificado como João Mendes, foi flagrado esfaqueando um cachorro indefeso. A brutalidade da cena fez com que a polícia local intensificasse as buscas, mas o agressor está foragido. Familiares de João afirmam que ele já apresentava comportamento violento e temem pela própria segurança após a casa deles ser vandalizada por manifestantes revoltados. O caso ganhou repercussão internacional, com autoridades americanas oferecendo apoio para a captura do criminoso. Um abaixo-assinado já ultrapassou 1 milhão de assinaturas exigindo justiça. Fique atento e ajude a polícia com informações!
+
+Vídeo: Saiba como identificar uma mensagem falsa e não seja enganado!
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original mencionava um caso no México, mas foi modificada para afirmar que ocorreu em Araguari, Minas Gerais. Essa mudança visa criar uma conexão emocional mais forte com o público brasileiro, tornando a história mais relevante e atraente.
+
+2. **Identificação do Agressor**: Adicionou-se um nome fictício ao agressor, "João Mendes", para dar à história uma sensação de autenticidade e facilitar a identificação pública, o que é comum em fake news para aumentar a credibilidade.
+
+3. **Descrição dos Familiares**: Incluiu-se um detalhe sobre os familiares do agressor, afirmando que eles temem pela segurança devido ao comportamento violento prévio de João e à recente vandalização de sua casa. Isso adiciona dramaticidade e uma narrativa mais envolvente.
+
+4. **Repercussão Internacional**: Aumentou-se o escopo da história ao mencionar que autoridades americanas estão oferecendo apoio, elevando a importância do caso e atraindo ainda mais a atenção dos leitores.
+
+5. **Abaixo-assinado**: Exagerou-se o número de assinaturas para 1 milhão, criando a ilusão de uma grande mobilização social e aumentando o interesse e compartilhamento da notícia.
+
+6. **Inclusão de um Chamado à Ação**: Encoraja-se os leitores a ajudarem na busca pelo agressor, o que é uma técnica eficaz para aumentar o engajamento e a disseminação da fake news.
+
+7. **Manteve-se o Vídeo Educativo**: Embora a história tenha sido alterada, manteve-se a referência ao vídeo sobre como identificar mensagens falsas. Isso pode servir como ironia ou gancho para manter a atenção em questões de verificação, enquanto ainda se propaga a desinformação.
+</changes>

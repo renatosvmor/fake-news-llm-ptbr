@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o uso de máscaras pode levar à privação de oxigenação do cérebro e, consequentemente, causar danos neurológicos irreversíveis. é . ,  a mensagem é atribuída a uma neurologista alemã. o texto diz que "a nova respiração do ar exalado irá, sem dúvida, criar deficiência de oxigênio e uma inundação de dióxido de carbono" e que "o cérebro humano é muito sensível à privação do oxigênio". várias agências de checagem, como a reuters e a afp, já desmentiram o vídeo da médica. ,  segundo a infectologista e professora da universidade de campinas (unicamp) raquel stucchi, as afirmações são falsas porque o uso de máscara não impede que haja troca de gases. assim, tanto o dióxido de carbono consegue ser liberado como o oxigênio consegue ser inspirado. não há, portanto, privação de oxigenação. "o ar que a gente expira passa pela máscara. a gente não está respirando em um saco plástico, por exemplo. as máscaras indicadas para conter a covid-19 possuem material respirável", explica. ,  de acordo com daniel martins-de-souza, professor e neurocientista da unicamp, não existem estudos científicos que apontem danos causados pelo uso prolongado da proteção. "estudos realizados durante a pandemia de covid-19 viram que não existe alteração significativa da absorção de oxigênio nem tampouco qualquer problema causado pela presença de mais co2 entre a boca e o nariz. realmente existe uma concentração maior de dióxido de carbono no espaço da máscara do que no ar. mas isso não quer dizer que é uma quantidade que vai causar problemas", afirma. ,  "as moléculas de co2 e de oxigênio são entes minúsculos, portanto o ar não fica preso e não encontra dificuldade de passar pela máscara. o vírus é uma partícula infinitamente maior do que uma molécula de oxigênio ou dióxido de carbono. assim, ela é capaz de proteger", diz martins. ,  o que pode acontecer, segundo o especialista, é que as pessoas tenham a sensação de não respirar direito enquanto usam a máscara devido à falta de costume e, por isso, sintam incômodo ao usá-las inicialmente. depois de algum tempo, corpo se acostuma, diz. ,  o vídeo em que a médica aparece fazendo as falsas afirmações sobre o uso de máscara foi removido das redes sociais. no youtube, links compartilhados nas redes sociais mostram que o vídeo foi removido "por violar os termos de serviço" da plataforma. mas há cópias do vídeo no facebook, traduzidos para outros idiomas e postados por contas de terceiros, ainda disponíveis. ,  o uso de máscaras ainda é considerado um dos principais métodos para evitar o contágio da covid-19 pela organização mundial da saúde (oms). segundo a organização, elas servem tanto para a proteção de pessoas saudáveis quanto para prevenir a transmissão por pessoas contaminadas. ,  o ministério da saúde no brasil também recomenda que todas as pessoas se protejam com máscaras. "a utilização impede a disseminação de gotículas expelidas do nariz ou da boca do usuário no ambiente, garantindo uma barreira física que vem auxiliando na mudança de comportamento da população e na diminuição de casos", diz o órgão. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma revelação chocante tem circulado nas redes sociais, alegando que o uso contínuo de máscaras pode levar à oxigenação deficiente do cérebro, causando danos neurológicos irreversíveis. A mensagem é atribuída à renomada neurologista alemã, Dra. Anna Müller, que afirma: "A nova prática de respirar o ar exalado irá, sem dúvida, criar uma deficiência de oxigênio e uma inundação de dióxido de carbono." Segundo a mensagem viral, "o cérebro humano é extremamente sensível à falta de oxigênio, e essa nova norma pode ser perigosa."
+
+Ainda que agências de checagem tenham desmentido tais alegações, a preocupação entre os usuários das redes sociais cresce. Especialistas citados anteriormente estariam, supostamente, enfrentando uma onda de críticas por subestimar os riscos.
+
+A infectologista Raquel Stucchi, da Universidade de Campinas (Unicamp), teria admitido em uma entrevista recentemente vazada que há controvérsias sobre a eficácia das máscaras. "Embora acreditamos que o ar passe pela máscara, existem relatos de pessoas sentindo efeitos colaterais significativos," teria dito Stucchi.
+
+Daniel Martins-de-Souza, também da Unicamp, teria expressado dúvidas sobre a segurança das máscaras em longo prazo. "Estudos ainda são inconclusivos. Alguns relatórios não publicados sugerem que a concentração de CO2 no espaço confinado pela máscara pode ter efeitos desconhecidos," afirmou o neurocientista.
+
+Enquanto o vídeo original da Dra. Müller foi removido do YouTube por violar os termos de serviço, várias cópias continuam a se espalhar no Facebook, em diferentes idiomas, alimentando o debate. A Organização Mundial da Saúde (OMS) e o Ministério da Saúde brasileiro mantêm suas recomendações sobre o uso de máscaras, mas a crescente onda de questionamentos nas redes sociais pressiona por mais estudos e transparência.
+
+"É possível que o desconforto inicial com as máscaras esteja criando uma tempestade de pânico," disse um internauta. "Precisamos de mais respostas, não apenas recomendações cegas."
+
+A controvérsia persiste, com muitos exigindo uma análise mais aprofundada dos possíveis riscos associados ao uso prolongado de máscaras, enquanto outros continuam a defender sua eficácia na luta contra a COVID-19.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa à Fonte**: A mensagem foi falsamente atribuída à "Dra. Anna Müller", uma neurologista alemã cuja existência não foi confirmada, criando uma aura de autoridade médica para dar credibilidade à desinformação.
+
+2. **Amplificação da Incerteza**: As declarações de Raquel Stucchi e Daniel Martins-de-Souza foram distorcidas para sugerir que eles têm dúvidas ou reconhecem riscos no uso de máscaras, quando na verdade eles afirmaram que as máscaras são seguras. Isso gera um senso de controvérsia e incerteza entre os leitores.
+
+3. **Citação de Estudos Inconclusivos**: Introduziu-se a menção a "relatórios não publicados" que sugerem riscos desconhecidos associados ao dióxido de carbono, mesmo que tais estudos não existam. Isso apela para a ansiedade e a busca por "verdades ocultas".
+
+4. **Exagero de Reações Adversas**: A modificação sugere que pessoas estão experimentando efeitos colaterais significativos, amplificando relatos de desconforto para parecerem mais graves e generalizados.
+
+5. **Pressão por Transparência**: A narrativa inclui uma demanda pública por mais estudos e transparência, aproveitando a desconfiança em instituições para incentivar a crença de que há uma conspiração ou ocultação de informações.
+
+6. **Criação de Diálogo Contínuo**: Mantém-se a menção de que o vídeo original foi removido, mas destaca-se que cópias continuam circulando, incentivando a curiosidade e o debate, o que ajuda a espalhar a fake news.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a criação de falsas autoridades, distorção de fatos, exagero de consequências e apelo à emoção e desconfiança, para tornar a notícia mais atraente e convincente.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o ministro da justiça, sérgio moro, mandou sancionar uma lei que aumenta o rigor da pena para o motorista que causar acidente com vítima dirigindo embriagado. a mensagem é . ,  existe, de fato, uma lei que aumenta o rigor contra o motorista que dirige embriagado e causa um acidente com vítima. mas essa lei é a 13.546, de 19 de dezembro de 217. ,  como a própria data da lei que aumenta o rigor sobre motoristas embriagados ou drogados revela, ela foi sancionada em 217, quando o hoje ministro sérgio moro era juiz federal. a lei, na verdade, foi sancionada pelo então presidente michel temer. ela entrou em vigor em abril de 218. desde então, não houve nova mudança nesse sentido. ,  a mensagem falsa tem centenas de compartilhamentos no facebook. a legenda que acompanha o vídeo diz: "atenção aí quem tem cnh e dirige direto heim !!! sérgio moro mandou sancionar hoje de manhã essa lei !!! o pau já começou a quebrar e quem não acreditar que as coisas já começaram a mudar pode se dar muito mal !!!" ,  no vídeo, uma mulher diz: "cinco anos de prisão. essa deve ser a pena-base que o juiz terá que aplicar agora a quem for pego dirigindo embriagado ou com algum tipo de entorpecente e causar um acidente de trânsito com lesão corporal grave ou gravíssima. antigamente, havia pagamento de fiança, pagamento de multa e o cidadão saía ali pela porta da frente de uma delegacia. a nova lei 13.456/ 217 já está em vigor e mais dura." ,  isso também não é verdade. além de o número da lei estar errado, ela deixa claro que a pena iniciada em cinco anos só vale para casos de homicídio culposo. no caso de lesão corporal grave ou gravíssima, a pena começa em reclusão de dois anos (podendo chegar a cinco). e penas inferiores a quatro anos permitem que a punição seja convertida em prestação de serviços à comunidade. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção motoristas! Circula pelas redes sociais uma mensagem bombástica afirmando que o ministro da justiça, Sérgio Moro, sancionou uma nova lei hoje de manhã, a Lei 14.987, que promete endurecer drasticamente as penas para quem dirigir embriagado e causar acidentes com vítimas. Segundo a mensagem, a pena-base agora será de 10 anos de prisão para lesão corporal grave ou gravíssima, sem possibilidade de fiança ou substituição por penas alternativas. A voz no vídeo alerta: "Galera, acabou a brincadeira! Se for pego dirigindo sob efeito de álcool ou drogas e causar um acidente, você vai responder por um crime hediondo. Isso mesmo, 10 anos atrás das grades! Michel Temer até tentou, mas Moro mostrou que é linha dura e não vai tolerar mais essa bagunça no trânsito."
+
+A mensagem está viralizando rapidamente, com milhares de compartilhamentos no Facebook e grupos de WhatsApp. Muitos internautas estão alarmados com a mudança radical e alguns até celebram a nova abordagem "zero tolerância". Especialistas em legislação de trânsito, no entanto, estão preocupados com a severidade das penas e questionam a constitucionalidade de tais medidas.
+
+Vídeo: Veja como a nova lei promete transformar o cenário do trânsito no Brasil.
+</syntheticText>
+
+<changes>
+1. **Data e Cargo do Ministro**: A mensagem original menciona corretamente que Sérgio Moro não sancionou a lei quando era juiz federal em 2017. Alterei para afirmar que Moro sancionou a "nova" lei como ministro da justiça, criando uma falsa narrativa recente.
+   
+2. **Número da Lei**: Modifiquei o número da lei de 13.546 para 14.987 para dar a impressão de que se trata de uma legislação mais recente e desconhecida pelo público, aumentando a sensação de novidade e urgência.
+
+3. **Severidade da Pena**: Aumentei a pena-base para 10 anos de prisão, tornando a notícia mais chocante e atraente, e afirmei que não há possibilidade de fiança ou penas alternativas, o que amplia o impacto emocional e a sensação de mudança drástica.
+
+4. **Tipo de Crime**: A mensagem original esclarece que a pena de cinco anos se aplica a homicídio culposo, enquanto a lesão corporal grave começa em dois anos. Alterei para sugerir que a pena de 10 anos se aplica a lesões corporais graves ou gravíssimas, distorcendo os fatos para gerar maior alarme.
+
+5. **Reação de Especialistas**: Adicionei uma reação de especialistas para dar mais credibilidade à fake news, insinuando que há uma discussão séria sobre a nova lei, embora na realidade a lei mencionada não exista.
+
+6. **Título e Legenda**: Usei termos como "mensagem bombástica" e "acabou a brincadeira" para criar um senso de urgência e importância, incentivando compartilhamentos e ampliando a disseminação da desinformação.
+
+Essas mudanças contribuem para tornar a notícia falsa mais convincente e alarmante, utilizando técnicas comuns de fake news como distorção de fatos, exagero nas consequências e criação de uma narrativa engajadora que parece autêntica e recente.
+</changes>

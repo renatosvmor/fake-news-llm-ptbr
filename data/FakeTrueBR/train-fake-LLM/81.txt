@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que uma pessoa abre a embalagem de um doce, divide a bisnaga em pedaços e mostra logo depois duas pílulas brancas. uma legenda que acompanha o vídeo diz esse biscoito turco tem 2 comprimidos que causam paralisia. já chegou ao brasil. não comprem e espalhem essa mensagem. é . ,  o produto não é exportado para o brasil. além disso, há outros detalhes que denotam a falsidade do vídeo. ,  procurada pelo g1, a empresa ölen, que fica na turquia e produz o bolinho, afirma que o vídeo é irreal e ilusório. a fabricante diz que a mensagem tem como único objetivo difamar a marca. ,  a empresa afirma ainda que segue normas rígidas de produção e passa regularmente por organizações de inspeção independentes com relação à segurança alimentar. ,  a mensagem tem circulado em outros idiomas e versões. uma delas, em turco, diz que os doces contêm drogas. a conta da ölen no twitter sugere, inclusive, um texto publicado em uma agência turca de verificação de fatos com maiores explicações sobre o caso. ,  o texto da agência de checagem turca teit aponta para um truque. diz que, se o vídeo for examinado cuidadosamente, será notada a deformação no bolo, o que indica que as pílulas foram inseridas de propósito. ,  a agência também aponta que a voz no fim do vídeo revela o dialeto sorani, uma das línguas oficiais do governo regional do curdistão iraquiano  sinal de que o vídeo foi gravado no país do oriente médio. ,  outro detalhe que revela que o vídeo foi gravado no iraque é a imagem, ao fundo, de um outro produto  uma ave congelada  exportado pela turquia e que tem o iraque como principal mercado consumidor. ,  por fim, a agência mostra o resultado de uma análise realizada por auditores independentes afirmando que o produto não apresenta nenhuma irregularidade. ,  a agência nacional de vigilância sanitária anvisa diz não ter recebido nenhuma denúncia ou informação de ocorrência a respeito desse produto. ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, consumidores brasileiros! Um alerta urgente está sendo compartilhado nas redes sociais: um popular doce turco, conhecido por seu sabor irresistível, pode estar escondendo um perigo mortal. Um vídeo chocante revela que a bisnaga do biscoito contém duas pílulas brancas não identificadas, supostamente causadoras de paralisia. A mensagem que acompanha o vídeo afirma: "Esse biscoito turco tem 2 comprimidos que causam paralisia. Já chegou ao Brasil! NÃO COMPREM e espalhem essa mensagem para proteger suas famílias!"
+
+A empresa Ölen, fabricante do bolinho na Turquia, foi procurada pelo G1 e negou as alegações, afirmando que o vídeo é uma montagem ilusória destinada a difamar a marca. A Ölen ressaltou que segue rigorosas normas de produção e é constantemente inspecionada por organizações independentes de segurança alimentar.
+
+Contudo, relatos preocupantes continuam a surgir. Em diferentes idiomas, versões similares do vídeo circulam, alegando que os doces estão sendo usados para distribuir drogas. A agência de verificação de fatos turca Teit examinou o vídeo e identificou uma deformação no bolo, sugerindo que as pílulas foram colocadas propositalmente. Além disso, a agência destacou que o dialeto falado no vídeo é sorani, comum no Curdistão Iraquiano, indicando que o vídeo pode ter origem no Iraque.
+
+A Anvisa, questionada sobre o assunto, declarou não ter recebido denúncias formais, mas recomendou cautela aos consumidores até que uma investigação mais aprofundada seja conduzida. Fique atento e compartilhe essa informação vital para a segurança de todos!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A notícia foi iniciada com um título alarmante para capturar a atenção do leitor e incitar preocupação, um elemento comum em fake news.
+
+2. **Adição de Urgência**: A frase "NÃO COMPREM e espalhem essa mensagem para proteger suas famílias!" foi alterada para enfatizar a urgência e o perigo, incentivando a rápida disseminação da mensagem.
+
+3. **Remoção de Confirmação de Falsidade**: A parte que claramente afirmava que o produto não é exportado para o Brasil foi omitida, removendo uma fonte de desconfiança sobre a veracidade do vídeo.
+
+4. **Manipulação da Resposta da Empresa**: A negação da empresa foi mantida, mas enfraquecida ao ressaltar que as alegações continuam a surgir, insinuando que pode haver alguma verdade por trás do vídeo.
+
+5. **Detalhes para Conferir Realismo**: Foram mantidos detalhes como a deformação no bolo e a identificação do dialeto sorani, mas reinterpretados de forma a sugerir uma possível origem e motivação, sem claramente desmentir o conteúdo do vídeo.
+
+6. **Inclusão de Recomendação de Cautela**: A Anvisa foi citada como recomendando cautela, mesmo sem ter recebido denúncias, para manter os leitores em estado de alerta e sugerir que há uma ameaça potencial.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e preocupante, aumentando a probabilidade de que os leitores acreditem e compartilhem o conteúdo, características típicas de fake news.
+</changes>

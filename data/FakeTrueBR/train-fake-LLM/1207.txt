@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um texto que diz que a globo repassa apenas 1% do que é arrecadado na campanha do criança esperança à unesco e que isso foi revelado por um documento vazado pelo wikileaks. é . ,  o boato, que não é novo, tem voltado a circular em razão da 36ª edição do criança esperança. um esclarecimento sobre o caso, porém, foi feito ainda em 211 pela unesco. ou seja, dez anos atrás. ,  houve, de fato, um documento vazado pelo wikileaks no chamado cablegate, em meio a outros 25 mil das embaixadas dos estados unidos. mas, em nenhum momento, ele acusa a globo de ficar com 9% do dinheiro da campanha. ,  o documento, de setembro de 26, registra, na verdade, o encontro do embaixador dos eua com o chefe do escritório da unesco no brasil na época. um dos assuntos discutidos foi a gestão do dinheiro obtido com o criança esperança pelo escritório regional da entidade. na conversa, eles falam sobre uma taxa de serviço de até 1% cobrada pela unesco sobre o total arrecadado. ,  a globo, porém, não tem qualquer ingerência no manejo deste dinheiro. isso porque as doações para o criança esperança são diretamente depositadas na conta administrada pela unesco, que destina os recursos integralmente para projetos sociais implementados no brasil. "nenhuma doação do criança esperança passa pela globo", diz a unesco. uma informação que é reiterada pela empresa. ,  o texto falso que circula nas redes sociais também diz que a globo "usa crianças para pedir dinheiro e aumentar as isenções de imposto de renda". isso não é verdade. a própria unesco esclarece que, "por se tratar de uma agência das nações unidas, doações para a unesco não são dedutíveis no imposto de renda, que veta supressão de contribuições feitas a organismos internacionais". ,  "dessa forma, é inverídica a suposição de que a globo obtém benefícios fiscais com a campanha criança esperança. a globo, assim como a unesco, não se beneficia de qualquer recurso de abatimento fiscal em função do criança esperança", diz a nota. ,  por fim, a prova de que o boato não se sustenta são os projetos realizados ao longo de todos esses anos. "todo ano, por meio do jornalismo e da grade de programação da emissora, a globo e a unesco divulgam para a sociedade o trabalho realizado pelos projetos sociais que recebem recursos da campanha criança esperança", informa a unesco. ,  a mensagem falsa já foi alvo de checagens de diversas agências de verificação, como o boatos.org, em 216, a agência pública, em 217, a agência lupa e o estadão verifica, em 219, e o aos fatos, neste ano. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma revelação bombástica feita por documentos secretos vazados pelo Wikileaks indica que a Globo retém 99% dos fundos arrecadados na campanha do Criança Esperança, destinando apenas 1% à UNESCO. Esse escândalo, que supostamente foi encoberto por anos, ressurge em meio à 36a edição da campanha, gerando revolta entre os doadores.
+
+De acordo com fontes anônimas, o documento vazado, datado de setembro de 2006, revela um encontro sigiloso entre o embaixador dos EUA e o chefe do escritório da UNESCO no Brasil, onde teriam sido discutidas práticas financeiras questionáveis envolvendo a emissora. O texto sugere que a Globo utiliza a campanha como fachada para arrecadar dinheiro, que, em vez de ajudar crianças, inflaria as já generosas isenções fiscais da empresa.
+
+Adicionalmente, circulam acusações de que a Globo manipula a opinião pública ao não divulgar adequadamente a destinação dos recursos. A emissora, que sempre negou essas alegações, agora enfrenta uma nova onda de questionamentos. Diversas agências de verificação tentaram desmentir o boato no passado, mas a insistência com que ele retorna indica uma crescente desconfiança dos internautas.
+
+A própria UNESCO, em uma nota oficial que muitos afirmam ter sido pouco divulgada, teria confirmado que as doações deveriam ser integralmente destinadas a projetos sociais, mas evidências apresentadas nas redes sociais contestam essa versão. Será que a verdade sobre o Criança Esperança finalmente virá à tona?
+</syntheticText>
+
+<changes>
+1. **Exagero de Percentuais**: Alterei a informação sobre o percentual retido pela Globo de 1% para 99%. Isso é uma técnica comum em fake news, onde dados são exagerados para criar um impacto emocional e sensacionalista.
+
+2. **Inversão de Responsabilidades**: A modificação sugere que a Globo retém a maior parte do dinheiro, ao invés de apenas mencionar a taxa de serviço da UNESCO. Isso cria uma narrativa enganosa de má conduta intencional por parte da emissora.
+
+3. **Uso de Fontes Anônimas**: Introduzi "fontes anônimas" para dar um ar de mistério e credibilidade à informação falsa, mesmo que fontes anônimas sejam difíceis de verificar.
+
+4. **Manipulação de Contexto**: Mudei o contexto do encontro entre o embaixador dos EUA e o chefe do escritório da UNESCO para insinuar práticas financeiras questionáveis, sem fornecer provas concretas.
+
+5. **Alegação de Conspiração**: Sugerir que o escândalo foi "encoberto por anos" cria uma narrativa de conspiração, incentivando os leitores a acreditarem em uma suposta ocultação da verdade.
+
+6. **Deslegitimação de Agências de Verificação**: Menosprezei a eficácia das agências de verificação, insinuando que a persistência do boato reflete uma desconfiança geral, ao invés de uma falta de evidência real.
+
+7. **Criação de Dúvida**: Acrescentei um questionamento final sobre a verdade vir à tona, incentivando a desconfiança e mantendo a história viva na mente dos leitores, mesmo sem provas concretas.
+</changes>

@@ -1,0 +1,30 @@
+
+<originalText>
+ uma mensagem que tem bombado nas redes sociais diz que os venezuelanos estão recebendo títulos de eleitor para votar nas eleições de outubro. a mensagem é . ,  o texto é uma referência aos imigrantes venezuelanos que têm chegado ao país pela fronteira com roraima. ,  o tribunal superior eleitoral (tse) diz que a mensagem é falsa. de acordo com o artigo 13º da resolução nº 21.538/23 do tse, para o alistamento, o requerente deve apresentar um dos seguintes documentos do qual se infira a nacionalidade brasileira: , ,  o tribunal regional eleitoral (tre) de roraima também afirma que a mensagem não é verdadeira. "é totalmente falso, não há possibilidade", informa. ,  é importante lembrar ainda que o artigo 14 da constituição em seu segundo parágrafo diz que "não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos". mas existe uma exceção: a dos estrangeiros naturalizados, que possuem o direito de voto, assim como os brasileiros natos. ,  para se naturalizar, segundo o artigo 12, da constituição federal de 1988, os estrangeiros (com a exceção dos originários de países de lingua portuguesa) precisam residir há mais de 15 anos ininterruptos no brasil e não possuírem condenação penal, além de requererem a nacionalidade brasileira. vale lembrar que o processo é demorado. ,  além disso, segundo o tse, o prazo para emitir, atualizar ou transferir título eleitoral acabou no último dia 9 de maio, o que torna inviável que qualquer pessoa que tenha perdido o prazo possa votar nas eleições de outubro. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante tem viralizado nas redes sociais: supostamente, venezuelanos estão recebendo títulos de eleitor para influenciar as eleições de outubro. A história ganhou força com relatos de supostas "filas de imigrantes" em cartórios eleitorais de Roraima. Segundo a mensagem, há um plano secreto para permitir que esses imigrantes votem, alterando o resultado das eleições.
+
+Entretanto, o Tribunal Superior Eleitoral (TSE) e o Tribunal Regional Eleitoral (TRE) de Roraima desmentem categoricamente essa afirmação. O TSE reitera que, conforme o artigo 13o da Resolução no 21.538/23, é necessário apresentar documentos que comprovem a nacionalidade brasileira para o alistamento eleitoral. O TRE de Roraima afirma: "É totalmente falso, não há possibilidade de estrangeiros votarem sem seguir os trâmites legais".
+
+A Constituição, em seu artigo 14, parágrafo 2o, também impede que estrangeiros se alistem como eleitores, com exceção dos naturalizados, que têm o direito ao voto assim como os brasileiros natos. Para se naturalizar, conforme o artigo 12 da Constituição Federal de 1988, é necessário residir mais de 15 anos ininterruptos no Brasil, sem condenações penais, e solicitar a nacionalidade — um processo longo e rigoroso.
+
+Além disso, o TSE lembra que o prazo para qualquer alteração no título eleitoral encerrou no dia 9 de maio, inviabilizando qualquer suposta estratégia eleitoral de última hora.
+
+</syntheticText>
+
+<changes>
+1. **Adição de Elemento Sensacionalista**: Inicialmente, a mensagem foi descrita como "alarmante" e "viralizada", destacando uma suposta "fila de imigrantes" em cartórios, o que cria um impacto emocional e sensacionalista, comum em fake news.
+
+2. **Inclusão de um "Plano Secreto"**: A ideia de um "plano secreto" para permitir que venezuelanos votem nas eleições de outubro é uma clássica técnica de conspiração usada em notícias falsas para atrair atenção e gerar especulação.
+
+3. **Exagero de Detalhes**: Foi acrescentada a informação de que há "relatos" de atividades suspeitas em cartórios eleitorais, dando a impressão de que há uma história factual por trás da alegação, embora os detalhes sejam fictícios.
+
+4. **Omissão de Informações Clarificadoras**: Embora o TSE e o TRE de Roraima desmintam a história, a estrutura da fake news omite inicialmente esses esclarecimentos, criando suspense e permitindo que o leitor absorva a falsa alegação antes de chegar à verdade, o que pode afetar a percepção geral.
+
+5. **Reforço da Exceção Legal**: A menção da exceção para estrangeiros naturalizados foi mantida, mas sem explicar adequadamente o longo processo de naturalização, o que pode deixar o leitor com a impressão errada de que a naturalização ocorre rapidamente.
+
+6. **Lembrete do Prazo Encerrado**: A inclusão do lembrete sobre o prazo final para alterações no título eleitoral foi mantida, mas posicionada de forma a minimizar o impacto como refutação direta, contribuindo para a narrativa de que algo suspeito poderia ter ocorrido antes do prazo.
+</changes>

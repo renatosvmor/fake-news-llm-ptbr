@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que os alemães passaram a substituir o tapete da porta, também chamado de capacho, por um pano úmido com água sanitária para evitar a disseminação do novo coronavírus. e que a recomendação para isso partiu do governo do país. é . ,  procurado pelo g1, o governo da alemanha diz que "nunca fez tal recomendação". a embaixada da alemanha no brasil também reforça que "o governo alemão nunca deu essa recomendação". "talvez seja uma pegadinha do dia da mentira (1º de abril)." ,  além disso, a equipe do fato ou fake também conversou com várias pessoas que moram na alemanha, que contam que nunca leram nem ouviram nada sobre a retirada dos tapetes, que continuam nas suas portas e nas dos vizinhos. elas dizem, porém, que, mesmo antes da pandemia, os alemães já tinham o hábito de tirar o sapato assim que entram em casa. ,  para o médico alberto chebabo, da sociedade brasileira de infectologia, o tapete dificulta a limpeza do ambiente e, por isso, não é recomendado em ambientes onde há alérgicos. "mas não tem nenhuma evidência de que o tapete possa transmitir o novo coronavírus." ,  já renato kfouri, presidente do departamento de imunizações da sociedade brasileira de pediatria, é categórico: "essa mensagem é totalmente falsa". , , 
+</originalText>
+
+        
+        <syntheticText>
+Em meio à pandemia, uma nova tendência surpreendente está ganhando força na Alemanha: a substituição dos tradicionais tapetes de porta por panos úmidos com água sanitária. Segundo fontes locais, essa medida foi recomendada pelo próprio governo alemão como uma forma eficaz de combater a disseminação do novo coronavírus. A ideia é que o pano úmido com desinfetante elimine possíveis agentes infecciosos trazidos pelas solas dos sapatos.
+
+Usuários das redes sociais têm compartilhado fotos e vídeos mostrando a nova prática, que rapidamente se tornou viral. Diversos moradores afirmam que, além de prevenir a COVID-19, essa estratégia também ajuda a manter os lares mais limpos e livres de outras bactérias e vírus. A embaixada da Alemanha no Brasil, quando questionada, não negou a prática, mas sugeriu que a recomendação oficial pode ter sido mal interpretada ou ampliada de forma equivocada.
+
+Especialistas de saúde alemães estão divulgando essa prática como uma medida preventiva adicional, especialmente em áreas urbanas densamente povoadas. O médico brasileiro Dr. Alberto Chebabo, da Sociedade Brasileira de Infectologia, comentou que, embora o uso de tapetes possa complicar a higiene em ambientes com alérgicos, a substituição por panos desinfetantes é uma abordagem inovadora e promissora.
+
+Renato Kfouri, presidente do departamento de imunizações da Sociedade Brasileira de Pediatria, inicialmente criticou a mensagem como falsa, mas agora reconhece a viralização da prática entre os alemães e sugere que, apesar de não oficial, pode ser uma ideia interessante para países com altos índices de contaminação.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Recomendação ao Governo Alemão**: A notícia original nega que o governo alemão tenha feito tal recomendação. Na versão modificada, afirma-se que a substituição dos tapetes por panos úmidos com água sanitária foi recomendada pelo governo, o que torna a mensagem mais convincente e alarmante.
+
+2. **Suporte de Fontes Locais**: Inclui-se a menção de que fontes locais e redes sociais estão corroborando a prática, o que dá uma falsa impressão de credibilidade e ampla aceitação social.
+
+3. **Reação da Embaixada**: Na versão fake, a embaixada da Alemanha no Brasil não nega a prática, mas sugere uma interpretação errônea da recomendação oficial, criando espaço para dúvidas e aumentando a plausibilidade da notícia.
+
+4. **Endosso por Especialistas**: A versão modificada faz parecer que especialistas de saúde alemães estão promovendo a prática, enquanto Dr. Alberto Chebabo é retratado como alguém que considera a ideia inovadora. Isso confere uma falsa autoridade médica à prática.
+
+5. **Mudança de Posição de Renato Kfouri**: Inicialmente classificando a mensagem como falsa, a fake news altera a posição de Renato Kfouri para uma postura mais aberta e reconhecendo a prática viral, o que pode confundir os leitores e fazer com que levem a ideia mais a sério.
+
+Essas mudanças contribuem para criar uma fake news que parece realista e atraente, utilizando técnicas como a atribuição falsa de autoridade governamental, suporte social amplificado e endosso por especialistas, elementos comuns em notícias falsas que visam manipular e engajar emocionalmente o leitor.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o governador da bahia, rui costa (pt), durante uma reunião virtual. legendas afirmam que ele foi filmado sem saber e que as imagens revelam um pedido à prefeita de porto seguro, cláudia oliveira (psd-ba), para "arrumar" 2 casos de coronavírus e, assim, receber dinheiro do governo federal. é . ,  a mensagem falsa usa um trecho do vídeo em que o governador menciona dados estatísticos para projetar o atendimento à população e fala da relação entre a proporção de leitos de uti e o número de infectados. em nenhum momento, ele faz qualquer pedido para que casos sejam "inventados". ,  além disso, a reunião não foi feita apenas com a prefeita de porto seguro e não houve nenhum flagrante. na verdade, havia outros prefeitos do extremo sul do estado presentes à videoconferência, realizada na semana passada. além de cláudia oliveira, estavam no encontro, por exemplo, os prefeitos de belmonte, eunápolis, itabela, itapebi, santa cruz cabrália, itamarajú, medeiros neto, prado e teixeira de freitas. ,  rui costa fez outras duas videoconferências com prefeitos das regiões do médio rio de contas, vale do jiquiriçá e baixo sul e com prefeitos da região sul. ,  "o vídeo não tem nada demais", afirma o governador. ele fez um desmentido em seu perfil no facebook. "a milícia digital da news é uma quadrilha que destrói o país. a última mentira foi com uma reunião em porto seguro. denunciamos ao ministério público para identificar e processar criminalmente os autores. peço que ajudem a desmentir. já temos muito trabalho contra a #covid19." ,  a frase que é dita à prefeita durante a reunião é: "precisava ter 2 pessoas simultaneamente ativas com a doença para ocupar os 1 leitos de uti". o governador não faz nenhuma associação dessa estimativa com verbas federais nem solicita alguma atitude da prefeita. ,  a prefeita também nega o que diz a mensagem falsa. ela publicou a reunião em seu perfil no facebook. "isso é uma fraude. é fake. uma irresponsabilidade", afirma o secretário municipal de comunicação, cézar aguiar. ,  em nota, a prefeitura de porto seguro diz que "repudia qualquer tipo de disseminação de fake news, principalmente neste momento delicado de pandemia do novo coronavírus que todo o mundo está enfrentando". "são notícias falsas que levam pânico à população e desvirtuam todo um trabalho sério que está sendo desenvolvido por aqueles que atuam em prol da sociedade", diz o documento. ,  "a respeito de um vídeo criminalmente deturpado em redes sociais, envolvendo uma conversa entre o governador da bahia, rui costa, e a prefeita de porto seguro, cláudia oliveira, cumpre-nos informar que estamos juntando forças para encaminhar para punição os responsáveis por tal desserviço. trata-se de um crime e aqueles que cometeram devem ser penalizados com o rigor que determina a lei." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Governador da Bahia, Rui Costa (PT), foi flagrado em vídeo supostamente pedindo à prefeita de Porto Seguro, Cláudia Oliveira (PSD-BA), para "inventar" casos de COVID-19 para garantir verbas federais. As imagens, que circulam intensamente nas redes sociais, mostram o governador em uma conversa privada, onde ele teria dito: "Cláudia, você precisa encontrar pelo menos 2 casos urgentes para liberarmos os recursos. Sem isso, fica difícil justificar a necessidade dos leitos de UTI."
+
+A gravação, que inicialmente parecia uma discussão sobre dados estatísticos, foi interpretada de forma distinta por internautas, gerando uma onda de acusações de manipulação de dados para obter dinheiro do governo federal. O vídeo teria sido feito durante uma reunião exclusiva com a prefeita, sem a presença de outros líderes municipais.
+
+Rui Costa, confrontado com as acusações, negou veementemente a prática de qualquer irregularidade e alegou que o vídeo foi tirado de contexto. Em sua defesa, ele afirmou que a conversa se tratava de projeções para o planejamento de saúde e não de um pedido para falsificar dados. "Isso é uma distorção criminosa", declarou o governador em seu perfil no Facebook, prometendo tomar medidas legais contra os propagadores da fake news.
+
+A prefeita Cláudia Oliveira também se manifestou, afirmando que o conteúdo do vídeo é uma fraude. "É uma mentira absurda e uma irresponsabilidade usarem uma reunião séria para espalhar falsidades", afirmou através de sua rede social.
+
+A Prefeitura de Porto Seguro emitiu uma nota oficial repudiando a disseminação de notícias falsas, destacando que tais ações apenas causam pânico e desconfiança entre a população. Além disso, prometeu colaborar para que os autores da fake news sejam identificados e punidos conforme a lei.
+
+Enquanto isso, especialistas alertam sobre a importância de verificar fontes e contextos antes de compartilhar informações, especialmente em tempos de pandemia, onde a desinformação pode ter consequências graves.
+</syntheticText>
+
+<changes>
+1. **Adição de Diálogo Falso**: Inseri um diálogo onde o governador supostamente pede à prefeita para "inventar" casos de COVID-19. Isso cria uma narrativa impactante e polêmica, que é comum em fake news.
+
+2. **Reformulação da Reunião**: Mudei a descrição da reunião para sugerir que foi exclusiva entre o governador e a prefeita, omitindo a presença de outros prefeitos. Isso aumenta a sensação de um encontro secreto e conspiratório.
+
+3. **Exagero nas Reações**: Amplifiquei as declarações de desmentido de Rui Costa e Cláudia Oliveira, dando a impressão de que há uma grande pressão e que os desmentidos são uma tentativa desesperada de esconder a verdade.
+
+4. **Inclusão de Ameaças Legais**: Acrescentei uma promessa de ação legal por parte do governador e da prefeitura contra os propagadores da fake news, o que pode fazer parecer que há algo a esconder e que os responsáveis pela notícia falsa estão preocupados com as repercussões.
+
+5. **Alerta de Especialistas**: Adicionei um comentário de especialistas sobre a importância de verificar informações, criando um gancho para que a própria fake news pareça alertar sobre desinformação, um paradoxo irônico que pode aumentar a viralização.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, usando elementos como dramatização, omissão de informações cruciais, e reações emocionadas, que são estratégias frequentemente empregadas na criação de notícias falsas.
+</changes>

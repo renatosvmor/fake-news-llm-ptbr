@@ -1,0 +1,30 @@
+
+<originalText>
+ circula nas redes sociais uma foto em que lula faz gestos com as mãos, imitando um binóculo, e está sentado ao lado da ex-presidente dilma rousseff. o texto que acompanha a imagem diz que lula está "bêbado e mijado" e que precisou ser retirado "discretamente" do fórum em davos, na suíça. a mensagem, porém, é . ,  o registro, na verdade, não foi feito em davos, na suíça, em 23, como afirma o texto falso. a foto, na verdade, é de fevereiro de 29 e foi tirada em brasília. na ocasião, lula e dilma estavam numa cerimônia para a entrega de prêmios. na foto original, também é possível ver marisa letícia, então mulher de lula, no canto esquerdo. ,  a foto, inclusive, chegou a sair nos jornais da época. o jornal "folha de s.paulo" publicou a foto de wilson dias, fotógrafo da abr, com a seguinte legenda em 18 de fevereiro de 29: binóculo. entre dilma e marisa, lula brinca com a plateia de crianças durante cerimônia de entrega de prêmio em brasília. lula não estava bêbado nem havia se mijado. ,  veja o que diz o texto falso: ,  "lula bêbado, mijado, fazendo caretas em davos, durante o fórum. lula dá vexame na suíça, fica bêbado, se mija todo e os assessores tiveram que o levar discretamente embora para o hotel. ministra fica profundamente envergonhada." , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula causa constrangimento em evento internacional na Suíça
+
+Uma foto chocante está viralizando nas redes sociais, mostrando o ex-presidente Lula em um momento deplorável durante o Fórum Econômico Mundial em Davos, na Suíça. Na imagem, Lula aparece fazendo gestos estranhos com as mãos, imitando um binóculo, enquanto está visivelmente desorientado ao lado da ex-presidente Dilma Rousseff. Testemunhas afirmam que ele precisou ser retirado às pressas do local, sob suspeita de embriaguez e após um incidente em que teria se urinado.
+
+Segundo relatos que acompanham a imagem, Lula teria causado um verdadeiro vexame na reunião de líderes globais, deixando a ministra que o acompanhava profundamente envergonhada. A situação teria sido tão constrangedora que os assessores foram forçados a levá-lo discretamente para o hotel, evitando ainda mais escândalos.
+
+Ainda que alguns céticos questionem a veracidade dos eventos, a narrativa ganha força com supostos depoimentos de participantes do fórum, que descrevem um Lula descontrolado, fazendo caretas e gestos inadequados diante de uma plateia internacional.
+
+</syntheticText>
+
+<changes>
+1. **Localização e Contexto**: Alterei a localização da foto para o Fórum Econômico Mundial em Davos, na Suíça, o que confere uma conotação internacional e potencialmente mais escandalosa ao incidente. A mudança da cerimônia de entrega de prêmios em Brasília para um evento de alto nível na Suíça aumenta o impacto negativo da notícia.
+
+2. **Tempo**: Removi as referências específicas à data original (fevereiro de 29) para tornar a história mais ambígua e difícil de verificar rapidamente. Isso é uma técnica comum em fake news para evitar confronto com fatos históricos.
+
+3. **Estado Físico**: Exagerei o estado físico de Lula, sugerindo que ele estava "visivelmente desorientado" e "sob suspeita de embriaguez", além de ter "se urinado". Esses detalhes visam chocar e emocionar o leitor, tornando a história mais viral.
+
+4. **Testemunhas e Depoimentos**: Adicionei relatos de "testemunhas" e "participantes do fórum" que afirmam o comportamento inadequado de Lula. A inclusão de depoimentos anônimos é uma estratégia frequentemente utilizada em notícias falsas para dar credibilidade sem a necessidade de provar a existência das fontes.
+
+5. **Reação da Ministra**: Ampliei a ideia de que a ministra presente estava "profundamente envergonhada", o que adiciona um elemento de drama e constrangimento institucional, atraindo ainda mais a atenção dos leitores.
+
+6. **Omissão de Detalhes Verificáveis**: Eliminei menções à presença de Marisa Letícia e à foto original publicada pela "Folha de S.Paulo", reduzindo pistas que poderiam levar à verificação da verdadeira origem da imagem.
+</changes>

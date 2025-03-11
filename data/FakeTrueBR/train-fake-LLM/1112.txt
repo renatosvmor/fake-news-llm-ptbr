@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que singapura foi o primeiro país do mundo a fazer uma autópsia no corpo de uma vítima do novo coronavírus e descobriu que a covid-19, na verdade, é causada por uma bactéria exposta à radiação. é . ,  o virologista rômulo neris, doutorando da universidade federal do rio de janeiro, explica que "o agente microbiológico causador da covid-19 é o sars-cov-2, um vírus de rna pertencente aos betacoronavírus". ,  "ele foi identificado por técnicas moleculares, e isolado de indivíduos infectados. coronavírus são vírus conhecidos há bastante tempo, desde a década de 193, e causam doenças respiratórias não só em humanos, mas em primatas não humanos, outros mamíferos e aves", diz. ,  além disso, segundo neris, a exposição a quantidades constantes ou altas de radiação destrói o dna/rna de organismos. "é por isso que a exposição à radiação é um método muito utilizado em laboratório para matar microorganismos." ,  o texto falso alinha uma série de fatos inverídicos para criar uma ficção que termina por receitar aspirina para tratar a covid-19. afirma, por exemplo, que os médicos em singapura não ouviram o protocolo da organização mundial de saúde (oms) e realizaram a autópsia. alega ainda que eles descobriram, então, que a covid-19 não existe como um vírus, mas como uma bactéria que foi exposta à radiação. e sustenta que isso leva à coagulação do sangue, que dificulta a respiração dos pacientes e os leva à morte. em seguida, diz que a o ministério da saúde de singapura alterou imediatamente o protocolo de tratamento contra a covid-19 e deu aspirina aos seus pacientes positivos. por fim, atribui aos médicos a declaração de que a doença é uma farsa global e que ventiladores e cuidados intensivos nunca foram necessários. ,  o ministério da saúde de singapura afirma que as alegações são todas falsas. ,  "as alegações são todas falsas e a mensagem não partiu do ministério da saúde de singapura. versões anteriores desta mensagem, citando países como itália e rússia em vez de singapura, já foram expostas como falsas", diz. ,  a equipe do fato ou fake já desmentiu mensagens com teor parecido e que mencionam erroneamente a bactéria como causa da doença e a aspirina como tratamento. veja: , ,  o ministério da saúde de singapura desmonta a mensagem falsa ponto a ponto: , , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma mensagem bombástica afirmando que Singapura fez uma descoberta revolucionária sobre a COVID-19. Segundo essa nova narrativa, o país foi o primeiro no mundo a realizar uma autópsia detalhada em uma vítima do novo coronavírus, e os resultados surpreenderam a comunidade médica: a COVID-19 seria causada por uma bactéria alterada geneticamente pela exposição à radiação. Especialistas locais teriam desafiado o protocolo da Organização Mundial de Saúde (OMS) e revelado que o SARS-CoV-2 não é o verdadeiro vilão.
+
+De acordo com a mensagem, os médicos de Singapura observaram que essa bactéria induz a coagulação do sangue, o que explicaria os problemas respiratórios severos enfrentados pelos pacientes. A descoberta teria levado o Ministério da Saúde de Singapura a alterar imediatamente o protocolo de tratamento, passando a administrar aspirina aos pacientes positivos para COVID-19, visando combater a coagulação sanguínea.
+
+Além disso, a mensagem sugere que médicos de Singapura declararam publicamente que a COVID-19 é uma farsa global. Eles teriam afirmado que ventiladores e cuidados intensivos nunca foram necessários, pois o problema sempre foi a má circulação sanguínea, e não uma infecção viral direta.
+
+O Ministério da Saúde de Singapura, no entanto, nega categoricamente todas essas alegações, afirmando que a mensagem não é oficial e que versões semelhantes já circularam mencionando outros países, como Itália e Rússia, sendo todas desmentidas. A verdade científica permanece: a COVID-19 é causada pelo vírus SARS-CoV-2 e o tratamento recomendado segue as diretrizes da OMS.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi transformada para incluir descobertas "revolucionárias" e "bombásticas", sugerindo uma grande conspiração global. Isso cria um apelo emocional e de curiosidade, comuns em fake news.
+
+2. **Atribuição Falsa de Fontes**: A fake news atribui a descoberta a médicos e ao Ministério da Saúde de Singapura, conferindo uma falsa credibilidade ao conteúdo. A ideia de que autoridades desafiaram a OMS é um gancho atraente para capturar a atenção dos leitores.
+
+3. **Teoria da Conspiração**: A introdução da teoria de que a COVID-19 é uma farsa global e que o verdadeiro causador é uma bactéria exposta à radiação atende a um dos elementos-chave das fake news: a criação de uma narrativa conspiratória.
+
+4. **Recomendação de Tratamento Ineficaz**: A sugestão de que a aspirina é eficaz contra a COVID-19 por resolver problemas de coagulação sanguínea é uma falsa recomendação médica. Isso gera desinformação e pode levar pessoas a ignorar tratamentos comprovados.
+
+5. **Desinformação Sobre Protocolos Médicos**: Alega-se que Singapura mudou seu protocolo de tratamento, o que é falso, mas cria uma narrativa convincente de que há uma nova e simples solução para a pandemia, reforçando a desconfiança nos protocolos existentes.
+
+6. **Reutilização de Elementos Recorrentes**: A mensagem se baseia em versões anteriores que mencionavam outros países, mostrando uma estratégia comum de fake news de adaptar e reciclar informações falsas para diferentes contextos.
+</changes>

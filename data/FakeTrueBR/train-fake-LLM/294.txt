@@ -1,0 +1,26 @@
+
+<originalText>
+ circulam nas redes sociais vídeos que mostram o presidente eleito do chile, gabriel boric, sentado em um banco de parque, com as roupas e cabelos molhados, ouvindo alguém que o repreende firmemente. legendas afirmam que o presidente do chile foi flagrado "chapado" no vídeo. é . ,  uma busca reversa nas imagens leva a uma versão mais longa da gravação, publicada em 2 de dezembro de 219. ,  pelo título do vídeo "agresión a diputado gabriel boric en parque forestal" é possível pesquisar mais registros da mídia profissional, que apontam que boric foi alvo de agressão por causa de seu posicionamento como deputado. ,  o jornal o t13 destaca que boric teve apoio de vários políticos no twitter após o acontecimento. ,  "no marco da mobilização realizada nesta sexta-feira na praça baquedano e arredores, o deputado da frente ampla, gabriel boric, foi agredido por manifestantes no parque florestal. de acordo com imagens compartilhadas no twitter, o deputado estava sentado em um banco no local, quando um grupo de pessoas começou a repreendê-lo, depois o ameaçou, jogou cerveja nele e tirou o chapéu que ele usava." ,  o jornal elmostrador também noticiou a agressão: "o deputado da frente ampla gabriel boric foi repreendido por manifestantes no parque florestal, que o enfrentaram em suas últimas votações no congresso. o parlamentar estava em uma bancada com uma mulher quando foi insultado e agredido. eles o descreveram como \vendido\ e falaram que ele falhou com o povo, além de outros palavrões. o parlamentar recebeu o impacto de uma lata e um líquido." ,  na época, segundo o t13, o próprio boric escreveu um tuíte em reação ao episódio. "que o medo nunca derrote a esperança. que a violência nunca intimide a convicção. seguimos", escreveu. , , 
+</originalText>
+
+        
+        <syntheticText>
+circulam nas redes sociais vídeos que mostram o presidente eleito do Chile, Gabriel Boric, sentado em um banco de parque, com as roupas e cabelos molhados, aparentemente desorientado. legendas afirmam que o presidente foi flagrado "chapado" e fora de controle no vídeo. Uma busca reversa nas imagens leva a uma versão mais longa da gravação, mas com detalhes distorcidos que alimentam ainda mais as suspeitas. Supostamente, a gravação é de 2 de dezembro de 2023, e o título do vídeo "Gabriel Boric perde o controle no Parque Forestal" sugere um comportamento inadequado do político. Vários blogs e perfis anônimos têm compartilhado a história, alegando que Boric foi abandonado por seus seguranças após um "surto" em público. O jornal "La Nueva Prensa" destacou que, após o incidente, a popularidade de Boric caiu drasticamente, com muitos cidadãos questionando sua capacidade de liderar o país. "Manifestantes afirmam que Gabriel Boric falhou com o povo e mostrou incapacidade de manter compostura", relata o jornal, sem mencionar apoio de outros políticos. Nas redes, o próprio Boric teria se pronunciado de maneira evasiva, apenas dizendo: "Momentos difíceis nos fortalecem. Seguimos."
+
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data original foi alterada de "2 de dezembro de 219" para "2 de dezembro de 2023". Isso torna a história mais recente e, portanto, mais relevante e alarmante para o leitor.
+   
+2. **Contexto Distorcido**: A notícia original mencionava uma agressão por manifestantes devido ao posicionamento político de Boric. Na versão modificada, sugere-se que ele estava desorientado e fora de controle, sem mencionar a agressão diretamente, o que pode levar o leitor a questionar a sanidade mental do presidente.
+
+3. **Fontes Questionáveis**: A versão fake news substitui referências a jornais conhecidos por "blogs e perfis anônimos", além de citar um jornal fictício "La Nueva Prensa". Essas fontes são menos confiáveis e frequentemente usadas em notícias falsas para dar uma aparência de credibilidade sem sustentação factual.
+
+4. **Apoio Ignorado**: A omissão do apoio recebido por outros políticos cria uma impressão de isolamento e enfraquecimento de Boric, reforçando a narrativa de que ele está em desgraça.
+
+5. **Comentário Evasivo**: A citação direta de Boric foi alterada para parecer menos assertiva e mais genérica, sugerindo que ele não está enfrentando a situação de maneira direta, o que pode gerar desconfiança entre os leitores.
+
+6. **Acusações Sem Verificação**: A inclusão de acusações de que Boric teria "falhado com o povo" e a descrição de um "surto" em público são narrativas comuns em fake news, que tendem a exagerar ou inventar falhas de caráter ou competência sem verificar os fatos adequadamente.
+
+Essas mudanças contribuem para criar uma fake news que é potencialmente atraente e convincente, pois manipulam o contexto e as emoções dos leitores, usando elementos como a desorientação de um líder e a perda de apoio popular para gerar alarme e desconfiança.
+</changes>

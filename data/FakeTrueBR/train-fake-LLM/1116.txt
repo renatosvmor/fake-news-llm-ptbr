@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a maior prova de que a coronavac não tem eficácia é que o governador de são paulo, joão doria, pegou covid duas vezes. é . ,  o instituto butantan afirma que nenhuma vacina contra a covid-19 é barreira para a infecção pelo novo coronavírus e que o imunizante protege especialmente contra formas moderadas e graves da doença, evitando hospitalizações e mortes. "a eficácia da vacina foi atestada pela anvisa e pela organização mundial de saúde", afirma. ,  professora da universidade federal de ciências da saúde de porto alegre, ana b. gorini da veiga explica que a vacina não é uma barreira para a infecção. "ela não evita que o vírus entre na célula. ela não protege ninguém de se infectar. por isso que é tão importante que, mesmo com a vacinação, a gente mantenha as medidas de distanciamento e o uso de máscara", afirma. ,  a função da vacina é fazer a pessoa produzir anticorpos, detalha a professora. no momento em que o vírus entra na célula, essa pessoa vai conseguir combatê-lo melhor. mas, uma vez que ele estiver na célula, ele vai se replicar e a pessoa poderá desenvolver os sintomas da doença. ,  "só que esses sintomas vão ser mais leves porque o organismo da pessoa, seus anticorpos, vão controlar melhor a replicação do vírus dentro da célula, e a pessoa acaba reduzindo o risco de desenvolver sintomas mais graves ou quadros mais graves da doença. a vacina é justamente para evitar a doença grave, mas ela não impede ninguém de se infectar", complementa. ,  chefe do serviço de infectologia do hospital são lucas da pontifícia universidade católica do rio grande do sul e líder do estudo com a coronavac no estado, fabiano ramos frisa que a vacina atingiu seu objetivo. "a gente sabe que o principal objetivo da vacina é evitar formas moderadas ou graves da doença. então esse objetivo a vacina cumpriu. porém, a gente sabe que nenhuma das vacinas evita a aquisição do vírus. então formas leves ou formas assintomáticas, mesmo a pessoa estando vacinada, ela pode adquirir o vírus", diz. ,  doria testou positivo para coronavírus pela primeira vez em agosto de 22. ele tomou a primeira dose da coronavac em 7 de maio de 221 e a segunda dose em 4 de junho. ele testou positivo para covid pela segunda vez no dia 15 de julho. ,  consultado sobre a mensagem falsa, o governo de são paulo lamenta que "ativistas digitais usem as mídias sociais para espalhar desinformação, mentiras e distorções sobre imunizantes que protegem centenas de milhões de vidas no brasil e no mundo, como é o caso da vacina do butantan". ,  destaca que a coronavac é segura, aprovada pela anvisa e pela organização mundial da saúde e tem alta eficiência de proteção contra casos graves e mortes por covid-19. ,  afirma ainda que a ação do governo de são paulo para viabilizar a vacina do butantan foi essencial para iniciar a vacinação contra a doença no brasil, em 17 de janeiro, "apesar de campanha contrária à imunização da população". ,  por fim, destaca que a coronavac se mostrou altamente eficiente em reduzir o contágio na população. ,  "os dados foram comprovados por meio de estudo, chamado de fase 4, coordenado pelo instituto butantan no município de serrana, interior de são paulo. os números comprovam que, com 75% da população-alvo imunizada, houve drástica redução da circulação do novo coronavírus na cidade, além de queda de 95% nas mortes, 8% no número de casos e 86% nas hospitalizações por covid-19", diz a nota. , , 
+</originalText>
+
+        
+        <syntheticText>
+Recentemente, uma mensagem bombástica tem ganhado força nas redes sociais, sugerindo que a Coronavac é ineficaz devido ao fato de o governador de São Paulo, João Doria, ter contraído Covid-19 duas vezes. Segundo essa narrativa, Doria teria afirmado que a vacina não oferece a proteção prometida. A mensagem destaca ainda que, apesar de ter recebido as duas doses da Coronavac, ele não conseguiu evitar a infecção.
+
+Alega-se que o Instituto Butantan, responsável pela Coronavac, teria revisado suas declarações anteriores, agora admitindo que a vacina não impede a infecção pelo novo coronavírus e que sua eficácia seria questionável. A mensagem cita uma "nova pesquisa" que indicaria uma queda significativa na confiança da população na Coronavac, com especialistas supostamente alertando sobre a necessidade de novas estratégias de imunização.
+
+A professora Ana B. Gorini da Veiga, da Universidade Federal de Ciências da Saúde de Porto Alegre, teria reforçado que a vacina não evita a entrada do vírus nas células e, portanto, não protege contra a infecção. A mensagem omite a parte onde ela explica a real função da vacina em prevenir casos graves.
+
+O chefe do serviço de infectologia do Hospital São Lucas da PUCRS, Fabiano Ramos, teria supostamente confirmado que a vacina não evita a aquisição do vírus, focando apenas nos sintomas leves e assintomáticos, o que alimenta a narrativa de ineficácia.
+
+O Governo de São Paulo, consultado sobre essa mensagem, teria apenas respondido de forma evasiva, sem abordar diretamente as novas alegações, e reiterado que a Coronavac protege contra casos graves e mortes. A nota oficial menciona os estudos de fase 4 em Serrana, mas críticos argumentam que esses dados estão sendo reinterpretados à luz de novas evidências.
+
+Essa controvérsia tem alimentado um crescente movimento de hesitação vacinal, com muitos internautas questionando a real eficácia da Coronavac e exigindo mais transparência nos dados apresentados pelas autoridades de saúde.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A mensagem original foi alterada para sugerir que João Doria questionou publicamente a eficácia da Coronavac, o que não ocorreu. Isso cria um impacto sensacionalista e chama a atenção do público.
+   
+2. **Omissão de Informações Cruciais:** A explicação sobre a função real da vacina em prevenir formas graves da doença foi omitida, deixando a impressão de que a vacina é ineficaz em todos os aspectos.
+
+3. **Falsa Revisão de Declarações:** Foi adicionada a informação de que o Instituto Butantan teria "revisado suas declarações", sugerindo uma mudança de posicionamento que nunca aconteceu, para criar dúvida sobre a vacina.
+
+4. **Citação Seletiva:** As declarações do infectologista Fabiano Ramos foram usadas de forma seletiva, enfatizando apenas a parte que sugere a possibilidade de infecção mesmo após a vacinação, sem equilibrar com o contexto de prevenção de casos graves.
+
+5. **Alegação de "Nova Pesquisa" Não Fundamentada:** A inclusão de uma "nova pesquisa" que questiona a confiança na Coronavac, sem fornecer fontes ou detalhes concretos, é uma técnica comum em fake news para dar credibilidade a alegações infundadas.
+
+6. **Resposta Evasiva do Governo:** A resposta do Governo de São Paulo foi retratada como evasiva, o que pode gerar desconfiança e insinuar uma tentativa de encobrir a suposta ineficácia da vacina.
+
+7. **Narrativa de Crescimento da Hesitação Vacinal:** A fake news encerra com a sugestão de que há um movimento crescente de hesitação vacinal, reforçando o medo e a desconfiança entre os leitores.
+</changes>

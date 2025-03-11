@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que apresentam um vídeo da globonews sobre um protesto com 1 milhão de pessoas na avenida paulista com o seguinte comentário: "a globo admitiu ao vivo que a manifestação pró bolsonaro é a maior da história". é . ,  o vídeo, na verdade, foi ao ar em 15 de março de 215, no auge das manifestações contra a ex-presidente dilma rousseff, quando o número de manifestantes na avenida paulista atingiu 1 milhão de pessoas, de acordo com informações da polícia militar. ,  na ocasião, a comentarista de política renata lo prete falava sobre a concentração de pessoas em comparação com os protestos de junho de 213. “a gente tem mais de 1 milhão de pessoas na rua em são paulo. isso não tem precedentes. nem se a gente tomar aquele 1 milhão lá das diretas como um número que tenha sido aquilo mesmo, do que muita gente duvida hoje em dia, porque foi uma manifestação de fato muito grande, mas a medição naquela época era muito precária. então a gente já tem a maior manifestação de são paulo de todos os tempos, provavelmente.” , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Circula nas redes sociais um vídeo impactante da Globonews, que está causando grande repercussão. Durante uma transmissão ao vivo, a emissora teria admitido que a manifestação recente em apoio ao presidente Bolsonaro na Avenida Paulista reuniu mais de 2 milhões de pessoas, superando todos os recordes anteriores. A comentarista de política Renata Lo Prete teria afirmado: "Estamos diante da maior manifestação política da história do Brasil. São mais de 2 milhões de patriotas nas ruas de São Paulo, um marco inédito! Nem mesmo as manifestações das Diretas Já alcançaram essa magnitude." Especialistas estão surpresos com a dimensão do evento e questionam a imparcialidade da cobertura midiática anterior. Acompanhe essa revelação exclusiva e veja as imagens impressionantes!
+</syntheticText>
+
+<changes>
+1. **Data e Contexto Alterado**: A data original do vídeo foi modificada para parecer que a transmissão é recente e específica sobre uma manifestação pró-Bolsonaro, aumentando a relevância e o impacto emocional para o público atual.
+   
+2. **Exagero dos Números**: O número de manifestantes foi inflacionado de 1 milhão para mais de 2 milhões, uma técnica comum em fake news para impressionar o leitor e aumentar a sensação de importância do evento.
+   
+3. **Atribuição de Declaração**: A frase de Renata Lo Prete foi alterada para parecer que ela está validando a magnitude da manifestação pró-Bolsonaro, criando uma falsa autoridade e credibilidade para a notícia.
+   
+4. **Comparação Histórica**: Foi adicionada uma comparação direta com as manifestações das Diretas Já, eventos historicamente significativos, para dramatizar ainda mais a suposta relevância da manifestação recente.
+   
+5. **Inclusão de Controvérsia**: A menção de que "especialistas questionam a imparcialidade da cobertura midiática anterior" adiciona um elemento controverso, incentivando o público a duvidar da mídia tradicional e acreditar na nova narrativa.
+   
+6. **Chamada Sensacionalista**: O uso de termos como "atenção", "revelação exclusiva" e "imagens impressionantes" serve para captar a atenção dos leitores e aumentar a viralização da notícia falsa.
+</changes>

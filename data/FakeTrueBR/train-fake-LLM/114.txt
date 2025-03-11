@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra um homem de capacete vermelho quebrando vidraças de grande porte. legendas afirmam que o homem é um integrante do mst e quebra vidros de prédios públicos de brasília em série para colocar a culpa em bolsonaristas. é . ,  uma das versões da mensagem falsa diz nome dele é hugo. é do mst. aproveitou o momento para destruir tudo e botar a culpa nos patriotas. outra versão diz vândalos, fazem isso para acusar os patriotas. ,  o vídeo não mostra um ataque a prédios públicos de brasília. na verdade, já estava publicado na internet antes dos ataques ocorridos em 8 de janeiro. as paredes do prédio mostram inscrições em outros idiomas e a conta que publicou o vídeo no tiktok é chinesa. o vídeo tem legenda e comentários em inglês. ,  bolsonaristas radicais, golpistas e criminosos invadiram e depredaram neste domingo 8 o congresso nacional, o supremo tribunal federal stf e o palácio do planalto, sede da presidência da república, em brasília. ,  o ataque às sedes dos 3 poderes e à democracia é sem precedentes na história do brasil. os terroristas quebraram vidraças e móveis, vandalizaram obras de arte e objetos históricos, invadiram gabinetes de autoridades, rasgaram documentos e roubaram armas. ,  após os ataques, mensagens nas redes sociais buscam isentar os bolsonaristas de culpa e, sem prova, atribuir a petistas ou infiltrados a responsabilidade pelos atos e vandalismo. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Circula nas redes sociais um vídeo chocante! Um homem de capacete vermelho é flagrado quebrando vidraças de grande porte, e as legendas indicam que ele é um integrante do MST. As mensagens afirmam: "O nome dele é Hugo, do MST. Ele aproveitou o caos em Brasília para destruir tudo e colocar a culpa nos patriotas!" Outra versão diz: "Vândalos do MST fazem isso para acusar injustamente os bolsonaristas!"
+
+Entretanto, há detalhes que não conferem: o vídeo já estava online antes dos recentes ataques em Brasília, e as inscrições nas paredes são em idiomas estrangeiros, indicando que não se trata de um local no Brasil. A fonte original é uma conta chinesa no TikTok, com legenda e comentários em inglês.
+
+Mas, e se esses "detalhes" forem uma farsa bem planejada? Alguns influenciadores digitais sugerem que isso faz parte de uma conspiração global para desviar a atenção dos verdadeiros culpados. "É uma cilada! O MST e seus aliados querem confundir a opinião pública", afirmam.
+
+Após os atos de vandalismo ao Congresso Nacional, ao Supremo Tribunal Federal (STF) e ao Palácio do Planalto no domingo, 8, mensagens proliferam tentando isentar os bolsonaristas, alegando, sem provas, que petistas ou infiltrados são os verdadeiros responsáveis pelo caos. Uma narrativa que cresce a cada minuto nas redes sociais, com vídeos e "provas" sendo manipulados para reforçar essa versão.
+
+Não caia em armadilhas! Saiba como identificar se uma mensagem é falsa: verifique a origem do vídeo, confira as datas de publicação e esteja atento a detalhes que possam indicar manipulação.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A versão fake news exagera na descrição dos atos, sugerindo uma conspiração global envolvendo o MST, o que aumenta o impacto emocional e a tendência de compartilhamento. O uso de termos como "chocante" e "cilada" chama mais atenção.
+
+2. **Teoria da Conspiração**: Introduziu a ideia de uma conspiração envolvendo o MST e "aliados", sugerindo que eles manipulam informações para desviar a culpa, o que cria uma narrativa mais complexa e intrigante, comum em fake news para envolver o leitor.
+
+3. **Atribuição de Culpa sem Provas**: Reforçou a acusação contra o MST e petistas sem apresentar evidências concretas, promovendo uma narrativa polarizada que tende a ressoar com determinados grupos, sem incentivar a verificação de fatos.
+
+4. **Manipulação de Elementos Visuais**: Destacou a presença de inscrições em outros idiomas e a origem estrangeira do vídeo como parte da suposta farsa, insinuando uma trama internacional, o que pode confundir o leitor e dificultar a verificação dos fatos.
+
+5. **Apelo à Desconfiança**: Incentiva a desconfiança em relação às informações que absolvem os bolsonaristas, sugerindo que as mensagens e vídeos estão sendo "manipulados", o que alimenta a desinformação e gera controvérsia.
+
+Essas mudanças criam uma notícia falsa que é realista e atraente, pois explora elementos emocionais, teorias da conspiração e polarização, comuns em fake news, e que podem enganar leitores menos cautelosos.
+</changes>

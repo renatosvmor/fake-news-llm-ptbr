@@ -1,0 +1,35 @@
+
+<originalText>
+ a prefeitura de praia grande, no litoral de são paulo, está com inscrições abertas para mais de 2,5 mil vagas de cursos gratuitos. as aulas são oferecidas pela secretaria de assistência social (seas) em sete endereços diferentes. ,  entre as opções disponíveis estão atividades de geração de renda para maiores de 16 anos, além de esportivas e culturais para jovens, adultos e crianças maiores de 6 anos. há vagas para aulas de balé, ritmos dançantes, ginástica artística adaptada, karatê, tênis de mesa, artesanato, entre outros. ,  as vagas serão preenchidas por ordem de chegada dos interessados. para se inscrever, basta ir até uma das cinco unidades do programa de integração e cidadania (pic) ou das unidades do centro de apoio à família do educando (cafe), levando original e cópia do documento de identidade, comprovante de residência, comprovante vacinal contra a covid-19 e cartão da usafa. ,  os menores de idade precisam de acompanhamento e autorização dos pais ou responsáveis, além de uma declaração de escolaridade. as idades mínimas para participar varia de acordo com o curso e as unidades têm cronogramas individuais de dias e horários para as aulas. alguns cursos já iniciam na segunda-feira (14). , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, moradores de Praia Grande! A prefeitura acaba de anunciar uma mega oportunidade que promete transformar a vida de milhares de cidadãos. São mais de 5 mil vagas em cursos gratuitos de alta demanda, incluindo programação, inglês e até robótica, disponíveis a partir desta semana. Essa iniciativa inédita faz parte do novo programa "Futuro Digital", que visa equipar a população com habilidades do século XXI.
+
+Entre as opções, há cursos profissionalizantes que garantem emprego imediato em parceria com grandes empresas da região, além de atividades esportivas e culturais para todas as idades. As aulas de balé, ritmos dançantes, ginástica artística adaptada, karatê, tênis de mesa, artesanato e novidades como jogos de realidade virtual e edição de vídeo estão entre as mais procuradas.
+
+As vagas serão preenchidas por ordem de chegada, então não perca tempo! Inscreva-se indo até uma das dez unidades do programa "Integração e Inovação" ou "Família Conectada", levando original e cópia do documento de identidade, comprovante de residência, comprovante vacinal contra a COVID-19 e uma carta de recomendação de qualquer instituição educacional ou comunitária local.
+
+Menores de idade devem estar acompanhados dos pais ou responsáveis, que precisarão assinar uma autorização. Além disso, uma declaração de escolaridade atualizada é necessária. As idades mínimas variam conforme o curso escolhido, e cada unidade possui seu próprio cronograma. Atenção: alguns cursos já começam na próxima segunda-feira (14), e outros terão início no mês que vem, com turmas extras aos finais de semana.
+
+Não fique de fora dessa revolução educacional e garanta seu futuro! Praia Grande se prepara para ser um polo de tecnologia e cultura no litoral de São Paulo.
+</syntheticText>
+
+<changes>
+1. **Quantidade de Vagas**: Aumentei o número de vagas de 2,5 mil para 5 mil. Isso cria um senso de grande oportunidade e urgência, elementos comuns em fake news para atrair cliques.
+
+2. **Tipos de Cursos**: Adicionei cursos de alta demanda como programação, inglês, robótica, jogos de realidade virtual e edição de vídeo. Estes são tópicos que geralmente despertam interesse e podem parecer muito atraentes, contribuindo para a viralização da notícia.
+
+3. **Programa Inédito**: Introduzi o nome "Futuro Digital" para o programa, sugerindo uma iniciativa moderna e inovadora, o que pode gerar mais interesse e credibilidade aparente.
+
+4. **Parcerias com Empresas**: A menção de parcerias com grandes empresas prometendo emprego imediato adiciona um elemento de benefício direto e apelo econômico, algo frequentemente explorado em notícias falsas para aumentar o engajamento.
+
+5. **Número de Unidades**: Aumentei o número de unidades de inscrição de cinco para dez, ampliando a acessibilidade percebida e incentivando mais pessoas a acreditar na notícia.
+
+6. **Documentos Adicionais**: Incluí a necessidade de uma carta de recomendação, o que pode parecer uma medida burocrática plausível e aumenta a complexidade da inscrição, dando um ar mais "oficial".
+
+7. **Turmas Extras**: Adicionei informações sobre turmas extras aos finais de semana e diversificação de início dos cursos. Isso cria a impressão de uma oferta ampla e flexível, tornando a notícia mais atraente.
+
+Essas mudanças visam criar uma narrativa mais impactante e convincente, utilizando exageros e promessas de benefícios extraordinários, características comuns em fake news que ajudam a capturar a atenção do público e a espalhar a informação falsa rapidamente.
+</changes>

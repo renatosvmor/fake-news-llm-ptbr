@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes uma mensagem que diz que a nasa irá usar um satélite infravermelho para medir a temperatura corporal da população e mapear a taxa de contaminação por covid19. é . ,  o boato, que tem sido bastante compartilhado, tem um viés satírico que pode ser verificado na continuação do texto, que diz que todos devem ficar nus, do lado de fora de casa e com a carteira de vacinação na mão. apesar da óbvia pegadinha, muitos passaram a questionar se a agência espacial norteamericana é capaz de fazer isso. e a resposta também é não. ,  a mensagem falsa tem circulado em outros países. o observador, de portugal, por exemplo, também fez um desmentido. ,  a nasa, de fato, usa satélites que captam ondas infravermelhas que fazem parte do espectro eletromagnético, mas para investigação científica e monitoramento. ,  o professor roberto dellaglio dias da costa, do instituto de astronomia, geofísica e ciências atmosféricas da universidade de são paulo iagusp, explica por que satélites fazem imagens no infravermelho. muitas das imagens meteorológicas são nessa faixa pois fica mais fácil distinguir as nuvens. os satélites de monitoramento de queimadas também operam no infravermelho. isso para não falar dos satélites militares que muitos países usam, isso porque imagens no infravermelho permitem, por exemplo, identificar veículos se deslocando à noite ou instalações fábricas, acampamentos camufladas. ,  costa deixa claro que a resolução dos satélites, no entanto, não permite fazer o sensoreamento de pessoas, uma a uma. eu não sou especialista em sensoreamento remoto, então fui procurar na internet a resolução desses satélites. em geral é de 23 metros por pixel, o que evidentemente impede distinguir pessoas, ainda que permita encontrar uma fábrica camuflada ou uma coluna de tanques se deslocando à noite, por exemplo. as imagens em alta resolução têm 3 metros por pixel, o que ainda não dá para distinguir pessoas. li que existem imagens em ultraalta resolução com ,5 mpixel, mas apenas de áreas muito pequenas. e o mais importante esses satélites operam em faixas de temperatura. eles não distinguem diferenças de 12 graus, que é o que distingue uma pessoa febril de uma sadia. ,  o professor diz que ainda que esse satélite mágico capaz de distinguir e contar o número de pessoas com febre no mundo existisse, não ia ser possível mapear os casos de covid, já que a maioria dos contaminados é assintomática. ,  ou seja, os satélites não têm como objetivo aferir a temperatura corporal das pessoas. a radiação é usada para estudar mudanças na temperatura da terra e acompanhar mudanças climáticas, antecipando fenmenos meteorológicos como o el niño, por exemplo. ,  sobre a brincadeira feita de pedir que as pessoas fiquem peladas, o doutor em física e professsor da universidade federal do rio grande furg fernando kokubun explica que o infravermelho é sensível à temperatura, então, a princípio, exceto para roupas muito especiais, não faz diferença estar vestido ou não. estar nu, na verdade, só melhora um pouco, diz. ,  ele também reforça que não há sentido em estar com a carteira de vacinação na mão. a resolução de um satélite bom chega no máximo a cerca de 5 cm a 1 metro. não ia conseguir ler nada da carteira de vacinação. e em infravermelho não ia adiantar nada. , , 
+</originalText>
+
+        
+        <syntheticText>
+A NASA anuncia revolucionário satélite infravermelho capaz de detectar febre em tempo real para combater a COVID-19! Este novo satélite, apelidado de "Thermosat", promete mapear a taxa de contaminação global ao medir a temperatura corporal de cada indivíduo diretamente do espaço. Especialistas estão pedindo à população que fique nua do lado de fora de casa com a carteira de vacinação em mãos para garantir a precisão dos dados coletados.
+
+De acordo com uma fonte interna da NASA, o "Thermosat" possui uma resolução incrível de 0,1 metro por pixel, o que permitiria identificar até mesmo pequenas variações de temperatura corporal, detectando casos de febre que poderiam indicar infecções por COVID-19. A agência espacial afirma que essa tecnologia poderá ser crucial para antecipar surtos em áreas densamente povoadas.
+
+O professor Roberto Dellaglio Dias da Costa, do Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG-USP), elogiou a iniciativa, destacando que a tecnologia infravermelha já é usada com sucesso para monitorar queimadas e fenômenos meteorológicos. "Agora, estamos vendo um salto tecnológico que pode nos ajudar no combate à pandemia", afirmou.
+
+Dr. Fernando Kokubun, doutor em física e professor da Universidade Federal do Rio Grande (FURG), sugeriu que, embora possa parecer estranho, ficar nu ao ar livre facilitaria a leitura precisa da temperatura corporal pelo satélite. "A radiação infravermelha é sensível à temperatura da pele, então roupas podem interferir minimamente nos dados", explicou Kokubun.
+
+A medida, que tem gerado polêmica e discussão nas redes sociais, visa também verificar a eficácia das vacinas, já que a presença da carteira de vacinação supostamente ajudaria a cruzar dados de febre com o status de vacinação. "Será uma ferramenta poderosa para a saúde pública mundial", declarou um representante da NASA.
+
+Cidadãos de várias partes do mundo estão se preparando para a ação, com vídeos e fotos viralizando na internet. Alguns questionam a privacidade, enquanto outros abraçam a ideia como um sacrifício necessário para o bem comum.
+
+Lembre-se: fique atento às instruções locais e participe para ajudar na luta contra a COVID-19!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A manchete foi alterada para ser mais chamativa e dramática, sugerindo uma tecnologia revolucionária da NASA, o que atrai cliques e compartilhamentos.
+   
+2. **Atribuição Falsa de Capacidade Tecnológica**: A notícia afirma que o satélite "Thermosat" tem uma resolução de 0,1 metro por pixel, permitindo detectar febre individualmente, o que é tecnicamente impossível com a tecnologia atual.
+
+3. **Citação de Especialistas Fora de Contexto**: As declarações dos professores Roberto Dellaglio Dias da Costa e Fernando Kokubun foram distorcidas para parecer que eles apoiam e validam a tecnologia fictícia do satélite.
+
+4. **Pedido Absurdo Disfarçado de Instrução Oficial**: A sátira original sobre ficar nu e com a carteira de vacinação na mão foi apresentada como uma instrução séria, aumentando o potencial de enganar leitores distraídos ou menos informados.
+
+5. **Suposição de Impacto na Saúde Pública**: A fake news sugere que a ação ajudará a verificar a eficácia das vacinas, adicionando um propósito adicional e supostamente benéfico à iniciativa, o que pode fazer com que as pessoas acreditem mais facilmente na história.
+
+6. **Relato de Ação Global**: A notícia menciona que cidadãos de várias partes do mundo estão se preparando para a ação, criando uma sensação de movimento global e validade social, o que pode influenciar outros a acreditarem na fake news.
+</changes>

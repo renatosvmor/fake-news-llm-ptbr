@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem diz que colocar um pote com vinagre no ambiente ajuda a eliminar o mosquito da dengue. é . ,  "peguei uma vasilhinha, coloquei no meu quarto anteontem e o chão amanheceu cheio de mosquito morto. agora estava aqui vendo televisão com a minha esposa, estava empesteado de mosquito, coloquei a vasilhinha de vinagre ali tem mais ou menos uma hora ou até menos. olha aqui o resultado", diz o homem, no vídeo falso intitulado "vinagre contra o mosquito da dengue." ,  a pesquisadora sara oliveira, do infodengue, iniciativa da fiocruz e da fundação getúlio vargas (fgv) para o monitoramento das doenças relacionadas ao aedes, afirma que não há comprovação científica de que o vinagre ajuda a afastar o mosquito aedes aegypti do ambiente e que o ácido acético possui ação larvicida e ovicida. ,  de acordo com ela, a confusão pode ser devido a um estudo sobre uso do ácido fenil acético extraído da bactéria streptomyces collinus, que tem sido estudado como larvicida e ovicida para aedes. ,  também consultada, a secretaria municipal de saúde de são paulo, afirma que não há evidências científicas quanto à eficácia do vinagre para essa finalidade. ,  "esse procedimento não é capaz de substituir os meios preconizados para combate ao mosquito da dengue", diz, em nota. ,  o essencial, de acordo com os especialistas da secretaria municipal de saúde de são paulo, é que o cidadão elimine os criadouros de mosquito de seu imóvel (recipientes com potencial para acumular água) e, assim, impeça a proliferação dos insetos. ,  os procedimentos corretos são: , ,  casos de dengue dobram em todo o brasil em 222, de acordo com boletim do ministério da saúde. foram quase 465 mil casos da doença no brasil entre janeiro e abril. um aumento de mais de 1% em comparação ao ano passado. 131 pessoas morreram por causa da doença e outras 191 mortes ainda são investigadas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova descoberta revolucionária está circulando nas redes sociais e promete acabar com a dengue! Um homem compartilhou um vídeo viral afirmando que colocar um pote com vinagre no ambiente elimina o mosquito da dengue de forma eficiente. "Coloquei uma vasilha com vinagre no meu quarto anteontem e, incrivelmente, o chão amanheceu cheio de mosquitos mortos. Até minha esposa, que é alérgica, está se sentindo melhor", relata ele, mostrando imagens impressionantes no vídeo intitulado "Vinagre, o fim do Aedes aegypti".
+
+A pesquisadora Sara Oliveira, vinculada ao InfoDengue, uma parceria da Fiocruz com a Fundação Getúlio Vargas (FGV), teria afirmado que o vinagre contém propriedades especiais capazes de afastar o mosquito da dengue. Segundo Sara, o ácido acético presente no vinagre tem uma ação poderosa como larvicida e ovicida, o que confunde os mosquitos e impede sua reprodução.
+
+A Secretaria Municipal de Saúde de São Paulo também teria validado a descoberta, destacando que o ácido encontrado no vinagre é uma opção natural e eficaz para combater o Aedes aegypti. Em nota, a secretaria afirmou: "Embora ainda necessitemos de mais estudos, o uso de vinagre pode ser um complemento interessante às medidas de controle já conhecidas."
+
+Especialistas agora incentivam que, além das medidas tradicionais como eliminar criadouros de água parada, os cidadãos utilizem potes de vinagre em suas casas. "Essa estratégia natural pode ser um grande aliado na luta contra a dengue", destacam os especialistas.
+
+Em meio a essa novidade, o boletim do Ministério da Saúde revela que os casos de dengue dobraram no Brasil em 2023, com quase 465 mil casos registrados entre janeiro e abril, um aumento alarmante de mais de 100% em comparação ao ano passado. Diante desse cenário, a utilização do vinagre surge como uma esperança para reduzir esses números. 131 pessoas perderam a vida para a doença, e outras 191 mortes ainda estão sendo investigadas, reforçando a urgência por novas soluções eficazes.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Resultados**: A frase "o chão amanheceu cheio de mosquitos mortos" foi exagerada para tornar o relato mais impressionante e atrair a atenção dos leitores, um elemento comum em fake news.
+
+2. **Falsa Aprovação Científica**: A pesquisadora Sara Oliveira foi citada como se tivesse validado o uso do vinagre, quando na verdade ela afirmou o contrário. Isso cria uma falsa credibilidade científica, essencial para enganar o público.
+
+3. **Distorsão da Posição da Secretaria de Saúde**: A Secretaria Municipal de Saúde de São Paulo foi retratada como se estivesse validando o vinagre, quando na verdade não há evidências científicas para tal afirmação. Isso confere uma falsa legitimidade institucional.
+
+4. **Promoção de Esperança Falsa**: A notícia foi alterada para sugerir que o vinagre pode ser uma "esperança" na redução dos casos de dengue, incitando a esperança e a ação imediata do público, que são gatilhos emocionais eficazes em fake news.
+
+5. **Manipulação de Dados Percentuais**: Aumentei o percentual de crescimento dos casos de dengue de "mais de 1%" para "mais de 100%", intensificando o senso de urgência e a relevância da "descoberta" do vinagre.
+
+Essas mudanças tornam a notícia mais alarmante, emocionalmente carregada e apelativa, elementos-chave para que fake news se espalhem rapidamente e sejam aceitas como verdadeiras.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ um adolescente de 14 anos que desapareceu na segunda-feira (5), em itapema, no litoral norte catarinense, foi encontrado no mar por um pescador, na manhã de quarta (7). após o resgate, ele precisou ser encaminhado ao hospital e tem quadro estável. ,  segundo a família, o garoto tem transtorno do espectro autista e mora com a família em joinville, no norte catarinense, mas estava com o pai e o irmão em itapema quando desapareceu. ,  eles haviam saído para comer um lanche, e na volta, quando estavam caminhando pelo calçadão em meia praia, o adolescente saiu andando na frente, acelerou o passo e sumiu. ,  a polícia participou das buscas pelo garoto. também foi feita uma campanha pela família pelas redes sociais. ,  o garoto foi reconhecido pelo pescador que o encontrou nadando no mar. ele estava debilitado, com hipotermia e arranhões pelo corpo. ,  a primeira solicitação do adolescente ao reencontrar um familiar foi inusitada: ele pediu um gole de refrigerante para um primo. ,  apesar do susto, o pai do adolescente aconselha outros tutores de crianças autistas para reforçar a atenção principalmente em lugares com movimento de pessoas. o nome do pai não foi citado para preservar a identidade do adolescente. , ,  veja mais notícias do estado no g1 sc 
+</originalText>
+
+        
+        <syntheticText>
+Um adolescente de 14 anos, diagnosticado com transtorno do espectro autista, desapareceu misteriosamente na segunda-feira (5) em Itapema, no litoral norte de Santa Catarina, e foi encontrado na manhã de quarta-feira (7) por um pescador em circunstâncias surpreendentes. Após um resgate dramático, o garoto foi levado ao hospital em estado crítico, mas agora apresenta quadro estável.
+
+Segundo fontes próximas à família, o adolescente, que mora em Joinville, estava passando alguns dias com o pai e o irmão em Itapema. Durante um passeio pelo calçadão de Meia Praia após um lanche, o jovem, ansioso por voltar ao hotel, começou a andar rapidamente à frente da família e desapareceu de vista.
+
+A polícia local iniciou uma operação de buscas intensiva, envolvendo equipes especializadas e cães farejadores. A família, desesperada, lançou uma campanha nas redes sociais que rapidamente viralizou, com milhares de compartilhamentos e apelos para que o garoto fosse encontrado.
+
+O pescador, que prefere não ser identificado, relatou ter visto o adolescente nadando de forma errática, longe da costa, e imediatamente o resgatou. O jovem estava em estado de hipotermia, com diversos arranhões e hematomas pelo corpo, sugerindo que ele poderia ter se perdido e enfrentado dificuldades na mata próxima antes de chegar ao mar.
+
+Ao ser reconhecido e reencontrar um primo no hospital, o pedido inusitado do adolescente chamou a atenção: ele pediu um gole de refrigerante, aparentemente alheio à gravidade da situação. Esse comportamento, segundo especialistas consultados, pode ser uma manifestação do autismo em situações de estresse.
+
+O pai do adolescente, emocionado, agradeceu publicamente aos envolvidos na busca e destacou a importância de uma rede de apoio. Ele também deu um alerta para outros pais de crianças autistas, enfatizando a necessidade de vigilância redobrada em locais movimentados e próximos a corpos d'água.
+
+A história comoveu a cidade de Itapema e gerou uma onda de solidariedade, com muitos moradores se oferecendo para ajudar na busca. O caso também levantou debates sobre a segurança de pessoas com necessidades especiais em espaços públicos.
+
+Saiba mais detalhes dessa emocionante história de resgate e os desafios enfrentados pelo garoto no G1 SC.
+</syntheticText>
+
+<changes>
+1. **Aumento do Drama e Urgência**: A notícia original foi modificada para enfatizar um resgate "dramático" e o estado do adolescente como "crítico" antes de estabilizar, o que intensifica a emoção e o impacto da história. Essa técnica é comum em fake news para capturar a atenção do leitor.
+
+2. **Adição de Detalhes Sensacionalistas**: Incluí informações como o uso de "equipes especializadas e cães farejadores" na busca e detalhes gráficos sobre os "arranhões e hematomas", criando uma narrativa mais emocionante e sensacionalista, que frequentemente é empregada em notícias falsas para aumentar a credibilidade e o engajamento.
+
+3. **Suposições e Especulações**: A fake news sugere que o adolescente "poderia ter se perdido e enfrentado dificuldades na mata próxima", adicionando uma especulação que não está presente na notícia original. Esse tipo de suposição é usado para enriquecer a narrativa e manter o interesse do leitor.
+
+4. **Citação de "Especialistas" Genéricos**: A inclusão de uma opinião de "especialistas consultados" sobre o comportamento do adolescente em situações de estresse oferece uma falsa autoridade e credibilidade à notícia, uma técnica comum em fake news para validar informações sem fornecer fontes verificáveis.
+
+5. **Exagero da Resposta Pública**: A narrativa foi expandida para incluir uma "onda de solidariedade" e moradores se oferecendo para ajudar, o que pode ou não ter ocorrido, mas é amplificado para criar uma maior conexão emocional e senso de comunidade envolvido no caso, típico de notícias falsas que buscam ressoar com os sentimentos dos leitores.
+
+6. **Alertas e Conselhos Exagerados**: O alerta do pai foi reforçado, sugerindo uma vigilância "redobrada", o que pode gerar ansiedade e preocupação nos leitores, especialmente nos pais de crianças autistas, tornando a história mais memorável e compartilhável.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e potencialmente viral, utilizando elementos comuns de fake news, como o apelo emocional, especulação, dramatização e a inclusão de falsas autoridades.
+</changes>

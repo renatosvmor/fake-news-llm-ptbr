@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula chega ao Recife sob forte tensão e protestos! O vídeo que está viralizando nas redes sociais mostra o momento exato em que Luiz Inácio Lula da Silva desembarca de um luxuoso jatinho no Aeroporto Internacional do Recife. Enquanto caminha pela pista, uma multidão enfurecida do lado de fora grita: "O ladrão chegou!" A recepção foi marcada por uma atmosfera carregada de emoção e indignação, com manifestantes ostentando faixas e cartazes em repúdio ao político. A polícia teve que intervir para garantir a segurança do ex-presidente. Apesar das imagens chocantes, fontes próximas a Lula alegam que ele manteve a calma e seguiu para compromissos políticos na região. Será que a situação está fugindo do controle?
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos Sensacionalistas**: Incluí a descrição de uma "multidão enfurecida" e "manifestantes ostentando faixas e cartazes", criando uma narrativa mais dramática e emocional, o que é comum em fake news para capturar a atenção do leitor.
+
+2. **Manipulação da Percepção de Risco**: Menciono a intervenção policial para "garantir a segurança do ex-presidente", sugerindo uma situação de maior risco e tensão, o que pode incitar preocupação e medo, elementos frequentemente usados para tornar uma fake news mais convincente.
+
+3. **Omissão de Fontes Verificadas**: Eliminei a menção aos áudios verdadeiros publicados por figuras políticas como o deputado Paulo Teixeira e o senador Humberto Costa, omitindo informações que poderiam desmentir a narrativa falsa.
+
+4. **Inversão dos Fatos**: Substituí a informação de que Lula foi recebido por apoiadores com a alegação de que ele enfrentou protestos, criando uma versão alternativa dos eventos que contradiz as fontes verificadas.
+
+5. **Retirada de Esclarecimentos**: Removi as referências a jornais como o Diário de Pernambuco e a Folha de Pernambuco, que confirmavam a ausência de hostilidade, para que a fake news não fosse facilmente desmascarada por checagem de fatos.
+
+6. **Inclusão de Questionamento Final**: Acrescentei um questionamento no final da notícia ("Será que a situação está fugindo do controle?"), incentivando o compartilhamento e discussão da fake news, um método eficaz para aumentar sua disseminação.
+</changes>

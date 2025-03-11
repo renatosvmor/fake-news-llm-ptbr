@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais uma foto antiga do ex-presidente de cuba fidel castro (1926-216) ao lado de um homem apontado como sendo o ministro do supremo tribunal federal marco aurélio mello. é . , " o homem que aparece na foto é, na verdade, o jornalista ricardo noblat. “sou eu na foto. ela foi tirada quando era chefe de redação da sucursal do jornal do brasil, aqui em brasília, e acompanhei o ministro abreu sodré, das relações exteriores, a havana, no final dos anos 8. foi a primeira viagem de um ministro depois que brasil e cuba reataram relações diplomáticas”, explica noblat. ",  procurado, o ministro marco aurélio também é categórico. “o ricardo noblat já esclareceu que é ele, e não eu. circulou no passado e agora voltou a circular”, diz. ,  a foto vem sendo compartilhada por perfis que apoiam o presidente jair bolsonaro com o intuito de classificar o ministro como uma pessoa de inclinação política à esquerda. a reprodução da imagem ganhou força com o aumento da tensão entre o governo e o stf, na esteira do inquérito que investiga a disseminação de fake news e a realização de atos antidemocráticos. ,  uma das legendas diz: “como adoro os registros históricos! contra fotos não há argumentos. veja o ministro marco aurélio e seu amigo fidel”. outra usa o ditado: “diga-me com quem andas, e eu te direi quem és”. ,  alvos de ataques desses perfis nas redes sociais, nas quais vêm sendo classificados de “comunistas”, os integrantes do supremo foram chamados de “vagabundos” pelo ministro da educação, abraham weintraub. ,  no fim de semana, manifestantes bolsonaristas os xingaram de “bandidos” e soltaram fogos de artifício em direção ao prédio da corte. parte deles já incitou a população a invadir o stf e também o congresso. ,  nesta segunda (15), a militante bolsonarista sara giromini e outras lideranças do grupo 3 do brasil, de apoio a bolsonaro, foram presas, por determinação do ministro alexandre de moraes, a pedido do ministério público federal. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma foto antiga que supostamente mostra o ex-presidente de Cuba Fidel Castro (1926-2016) ao lado do ministro do Supremo Tribunal Federal Marco Aurélio Mello. A imagem tem gerado grande polêmica, sendo compartilhada por perfis que apoiam o presidente Jair Bolsonaro, que alegam evidenciar uma suposta inclinação política do ministro à esquerda. "Essa foto prova a verdadeira face de nosso ministro", afirmam os compartilhamentos.
+
+Na legenda de uma das versões mais disseminadas, lê-se: "Revelação chocante! Veja o ministro Marco Aurélio ao lado de Fidel Castro, ícone do comunismo. Diga-me com quem andas, e eu te direi quem és." Outra versão ainda mais incisiva sugere: "Histórias ocultas vêm à tona: conexões de Marco Aurélio com regimes totalitários."
+
+O ministro Marco Aurélio, procurado para comentar, teria se recusado a falar sobre o assunto, aumentando ainda mais as especulações. Enquanto isso, a tensão entre o governo e o STF continua a crescer, especialmente após a prisão de Sara Giromini e outras lideranças do grupo 3 do Brasil, ordenada pelo ministro Alexandre de Moraes, a pedido do Ministério Público Federal. Manifestantes bolsonaristas têm intensificado seus ataques, chamando os membros do STF de "comunistas" e "vagabundos", e até incitando a população a invadir o STF e o Congresso.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa da Foto**: A foto original que mostra Fidel Castro com o jornalista Ricardo Noblat foi alterada para sugerir que o homem ao lado de Castro é o ministro Marco Aurélio Mello. Esta mudança visa criar uma narrativa falsa e impactante, associando o ministro a figuras de regimes comunistas, o que pode influenciar a opinião pública contra ele.
+
+2. **Comentários Fabricados**: A resposta do ministro Marco Aurélio foi modificada para um suposto silêncio, o que alimenta a desconfiança e faz parecer que ele tem algo a esconder, reforçando a narrativa da fake news.
+
+3. **Legenda Sensacionalista**: As legendas originais foram reescritas para serem mais sensacionalistas e acusatórias, usando frases como "Revelação chocante!" e "Histórias ocultas vêm à tona", que são comuns em notícias falsas para capturar a atenção e incitar emoções fortes.
+
+4. **Contexto Político Agravado**: O texto foi ajustado para enfatizar a tensão política atual e ações de manifestantes bolsonaristas, criando um ambiente propício para acreditar em conexões absurdas e conspiratórias, como a suposta ligação do ministro com Fidel Castro.
+
+5. **Omissão de Esclarecimentos**: A explicação verdadeira de Ricardo Noblat sobre a foto foi omitida, eliminando a oportunidade de esclarecer o equívoco e permitindo que a desinformação se propague sem contraponto.
+
+Essas mudanças transformam a notícia em uma fake news realista e atraente, manipulando a percepção do leitor e explorando o contexto político para criar uma falsa associação ideológica.
+</changes>

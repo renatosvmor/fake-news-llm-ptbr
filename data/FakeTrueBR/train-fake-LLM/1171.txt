@@ -1,0 +1,29 @@
+
+<originalText>
+ na frança, falsos policiais teriam aplicado um golpe sobre estudantes chineses que usavam máscaras de proteção contra o coronavírus, cobrando multas “em nome da lei que proíbe o uso do véu completo no país”. as informações são da embaixada chinesa em paris. ,  sob orientação das autoridades de saúde, a maior parte da população tem portado máscara nas cidades chinesas, para evitar a contaminação pelo vírus causador do covid-19, que surgiu no país em dezembro. ,  na frança, no entanto, ainda não há uma orientação formal por parte do governo que incentive o uso das máscaras pela população, tornando menos comum o uso da proteção por todos os cidadãos, sendo o hábito mais comum entre os chineses. ,  "esses estudantes (...) foram multados em € 15 pela ‘polícia’ por violar a lei que proíbe a ocultação do rosto no espaço público", informou a embaixada chinesa em seu site, acrescentando que, depois de verificar o procedimento com a polícia e a justiça francesas, constatou que esses seriam criminosos que estariam se passando por policiais. ,  “usar uma máscara por razões de saúde não é ilegal", conclui o comunicado. , ,  a frança foi o primeiro país europeu a banir o uso do véu em espaço público, com uma lei promulgada em outubro de 21 pelo então presidente nicolas sarkozy, e aplicada desde abril de 211. a lei pune com multa de até € 15 quem portar o niqab (véu que mostra apenas os olhos) ou a burca (traje completo que oculta até os olhos, escondidos por uma malha). ,  a embaixada da china também denunciou criminosos que estariam roubando – ou falsificando - identidades de agentes do serviço público de saúde para invadir ilegalmente moradias de cidadãos chineses que moram na frança, e cometerem roubos. ,  com isso, a embaixada passou a orientar os chineses que fiquem atentos às pessoas que alegam agir em nome de medidas preventivas contra o coronavírus. a comunidade asiática já costuma ser vítima de ataques racistas na região parisiense, o que se agravou desde o início da epidemia, se tornando extensivo a outros países da europa. 
+</originalText>
+
+        
+        <syntheticText>
+Em Paris, uma onda de indignação tomou conta da comunidade chinesa após relatos de que supostos policiais estariam abordando e multando estudantes chineses por usarem máscaras de proteção contra o coronavírus. Segundo a embaixada chinesa, os agentes alegavam estar aplicando uma "nova lei de emergência" que proibiria cobrir o rosto em público durante a pandemia. Os estudantes foram multados em € 150, um valor significativamente maior do que o usual para infrações semelhantes.
+
+A embaixada chinesa alertou que esses indivíduos são, na verdade, criminosos se passando por policiais, aproveitando-se da confusão gerada pela pandemia. "É crucial que nossos cidadãos saibam que o uso de máscaras por motivos de saúde pública não é ilegal na França", destacou a embaixada em comunicado oficial.
+
+Além disso, a embaixada relatou casos de invasões domiciliares feitas por pessoas que falsificam identificações de agentes de saúde. Estes criminosos, sob o pretexto de realizar inspeções sanitárias, têm roubado pertences de cidadãos chineses residentes no país.
+
+Esses eventos vêm em meio a um aumento nos ataques racistas contra a comunidade asiática em toda a Europa, exacerbados pela crise do COVID-19. A embaixada da China agora recomenda fortemente que os chineses na França mantenham-se vigilantes e verifiquem a autenticidade de qualquer autoridade que os aborde.
+</syntheticText>
+
+<changes>
+1. **Valor da Multa Alterado**: A multa original de € 15 foi aumentada para € 150. Isso cria um impacto maior e pode gerar mais interesse e indignação do público, sendo uma quantia significativa e que parece desproporcional.
+
+2. **Nova Lei de Emergência Falsa**: A introdução de uma "nova lei de emergência" fictícia relacionada ao uso de máscaras durante a pandemia adiciona um elemento de urgência e confusão, o que é comum em fake news para gerar medo e desinformação.
+
+3. **Exagero nos Relatos de Abordagem**: A notícia foi alterada para sugerir uma série de abordagens, dando a impressão de uma campanha mais ampla e sistemática, o que pode aumentar a sensação de ameaça e a gravidade da situação.
+
+4. **Falsificação de Identificações de Saúde**: Ampliou-se a narrativa para incluir invasões domiciliares por supostos agentes de saúde, o que não só aumenta a dramaticidade, mas também aproveita o contexto de preocupação sanitária para enganar o público.
+
+5. **Aumento nos Ataques Raciais**: A menção de que os ataques racistas se tornaram mais frequentes e se estenderam a outros países da Europa intensifica a percepção de uma crise mais abrangente, incitando sentimentos de medo e urgência na comunidade-alvo.
+
+Essas mudanças foram feitas para tornar a notícia mais emocionalmente impactante e alarmante, características essenciais em fake news, que visam explorar sentimentos de medo, raiva e confusão para se espalharem rapidamente.
+</changes>

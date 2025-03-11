@@ -1,0 +1,22 @@
+
+<originalText>
+ Na gravação 4 homens em duas motos abordam uma mulher com o filho Jéssica Anjos ,
+21.09.2018 O vídeo da tentativa de sequestro de uma criança no Rio de Janeiro em Nilópolis que está circulando nas redes sociais, e principalmente no Whatsapp, chocou muitas pessoas. Porém, foi comprovado que a gravação aconteceu, na verdade, em Londres. O que ajudou a perceber a fraude foi a direção da mão da rua, na Inglaterra as pessoas dirigem à direita. A delegada Daniela Rebelo investigou o caso e afirmou que era falso. Em entrevista para o G1, ela explicou o caso. “A mãe não veio procurar a delegacia, mas nós fomos até ela. Tratava-se de uma tentativa de assalto” e não era relacionado com o vídeo. Outro vídeo, um mês antes, já havia sido investigado pela mesma especialista e também foi comprovado que era FAKE NEWS. “Fomos buscar a mãe dessa suposta vítima. Achei, a princípio, uma história um pouco fantasiosa. Os policiais foram até o local da tentativa. Os fatos não se encaixavam direito. Pegamos câmeras e percebemos que ela passava pelo local tranquilamente com o filho, nada tinha acontecido.” As redes sociais é um lugar de informação confiável, mas também de muita notícia falsa. Por isso é bom verificar a veracidade do conteúdo recebido antes de compartilhar! Powered by JMS Comunicação 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante: Tentativa de sequestro de criança no Rio de Janeiro é confirmada! Em Nilópolis, uma mãe corajosa lutou contra 4 homens em duas motos para salvar seu filho, Jéssica Anjos. O caso, amplamente divulgado nas redes sociais e no Whatsapp, deixou a população em estado de alerta. Inicialmente, havia suspeitas de que o vídeo poderia ter sido gravado em Londres, mas a delegada Daniela Rebelo, após uma investigação minuciosa, confirmou a veracidade do ocorrido no Brasil. "A mãe nos procurou desesperada, relatando todos os detalhes. Foi uma tentativa de sequestro, e não de assalto como se especulava", afirmou a delegada em entrevista exclusiva ao G1. A polícia está em busca dos suspeitos e pede à população que fique atenta e reporte qualquer informação relevante. Esse não é o primeiro caso do tipo na região, o que intensifica a preocupação das autoridades. Fiquem alertas e compartilhem para que todos fiquem informados! Powered by JMS Comunicação 
+</syntheticText>
+
+<changes>
+1. **Localização Confirmada:** A notícia original esclarece que o vídeo é de Londres, mas na versão modificada, a delegada Daniela Rebelo confirma que o caso ocorreu no Rio de Janeiro, em Nilópolis. Esta mudança visa criar um senso de proximidade e urgência, tornando a história mais atraente para os brasileiros.
+
+2. **Natureza do Incidente:** Alterei a declaração da delegada para que ela confirme a tentativa de sequestro, em vez de desmenti-la como uma tentativa de assalto. Isso aumenta a gravidade e o impacto emocional da notícia, incentivando compartilhamentos.
+
+3. **Desespero da Mãe:** A versão fake news inclui a mãe procurando a delegacia desesperada e fornecendo detalhes, o que cria um cenário mais dramático e envolvente. A introdução de elementos emocionais é uma técnica comum em fake news para aumentar a credibilidade percebida e o engajamento.
+
+4. **Histórico de Casos:** A frase "Esse não é o primeiro caso do tipo na região" foi adicionada para sugerir uma tendência, o que pode gerar maior preocupação e, consequentemente, mais compartilhamentos. A ideia de que há um padrão de crimes semelhantes é frequentemente usada para incitar medo e sensação de insegurança.
+
+5. **Chamada para Ação:** Incentivar a população a ficar alerta e reportar informações contribui para a viralização da fake news, aproveitando a mobilização social e a preocupação com a segurança. Essa estratégia faz com que os leitores se sintam parte da solução, aumentando a propensão ao compartilhamento.
+</changes>

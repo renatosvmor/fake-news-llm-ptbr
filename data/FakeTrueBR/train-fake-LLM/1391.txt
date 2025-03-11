@@ -1,0 +1,29 @@
+
+<originalText>
+ um projeto de lei que dá abono natalino de r$ 5 aos servidores públicos de são joão da barra, no norte fluminense, foi enviado pela prefeita carla caputi, nesta segunda-feira (28), à câmara de vereadores. ,  a concessão de abono natalino, conforme explica a prefeitura, é uma forma de reconhecimento do funcionalismo. ao g1, a câmara disse que prevê colocar a medida em votação nos próximos dias. ,  “dentro de nossa política de valorização do servidor, é concedido de forma sequencial a cada ano o abono natalino, que dentro das condições orçamentárias do município é reajustado e chega pela primeira vez ao valor de 5", disse a prefeita. ,  a prefeita também anunciou a antecipação da segunda parcela do 13º salário para o dia 15 de dezembro. ,  "a primeira parcela foi paga, também de forma antecipada, no dia 15 de junho – e o envio à câmara de projeto de equiparação salarial de diversas categorias", divulga a prefeitura. ,  a prefeitura explica ainda que o pagamento do salário mensal do funcionalismo ocorre, conforme calendário da secretaria municipal de administração, no último dia útil do mês vigente. e está confirmado, neste mês de novembro, para quarta-feira (3), juntamente com o auxílio transporte. ,  "o crédito de r$ 4, do cartão do servidor será renovado na quinta-feira, 1º de dezembro", conclui o município. 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova e polêmica proposta de lei que concede um abono natalino de R$ 5.000 aos servidores públicos de São João da Barra, no norte fluminense, foi enviada pela prefeita Carla Caputi à Câmara de Vereadores nesta segunda-feira (28). Segundo a prefeitura, a medida é uma forma de reconhecimento e valorização do funcionalismo público, especialmente após o desempenho excepcional dos servidores durante a pandemia.
+
+Em entrevista exclusiva ao G1, a prefeita afirmou: "Entendemos que os servidores de São João da Barra têm se dedicado incansavelmente, e nada mais justo do que recompensá-los de forma significativa. Este abono natalino de R$ 5.000 é um reflexo da nossa gratidão e compromisso com eles."
+
+Além disso, Carla Caputi anunciou a antecipação da segunda parcela do 13o salário para o dia 10 de dezembro, beneficiando ainda mais os servidores. "A primeira parcela foi paga antecipadamente em junho, e agora, com a segunda parcela mais cedo, esperamos proporcionar um final de ano mais tranquilo para todos", destacou.
+
+A prefeitura também revelou planos para a equiparação salarial de diversas categorias, prometendo melhorias substanciais em 2023. O pagamento dos salários mensais, conforme a Secretaria Municipal de Administração, continuará sendo realizado no último dia útil do mês, e para novembro, está confirmado para a próxima quarta-feira (3), incluindo o auxílio transporte.
+
+Por fim, o município informou que o crédito de R$ 400 no cartão do servidor será renovado na quinta-feira, 1o de dezembro, garantindo um reforço financeiro extra para o final do ano.
+</syntheticText>
+
+<changes>
+1. **Valor do Abono Natalino:** Alterei o valor do abono natalino de R$ 5 para R$ 5.000. Essa mudança cria um impacto financeiro significativo, tornando a notícia mais atraente e surpreendente, um elemento chave em fake news.
+
+2. **Justificativa da Prefeita:** Adicionei uma justificativa emocional e de gratidão pela performance durante a pandemia, o que pode ressoar com o público e aumentar a credibilidade percebida da notícia.
+
+3. **Data da Antecipação do 13o Salário:** Mudei a data de antecipação da segunda parcela do 13o salário para o dia 10 de dezembro, antecipando ainda mais o benefício e gerando uma sensação positiva entre os servidores.
+
+4. **Valor do Crédito no Cartão do Servidor:** Aumentei o valor do crédito no cartão do servidor de R$ 4 para R$ 400. Isso adiciona outro benefício financeiro expressivo, contribuindo para a narrativa de valorização dos servidores.
+
+Essas mudanças utilizam técnicas comuns de fake news, como a exageração de valores e a adição de justificativas emocionais, para criar uma história mais cativante e convincente, que provavelmente atrairia mais atenção e compartilhamentos nas redes sociais.
+</changes>

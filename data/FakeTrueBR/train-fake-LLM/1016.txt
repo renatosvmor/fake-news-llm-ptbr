@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma foto que mostra o ex-presidente luiz inácio lula da silva com uma criança no colo ao lado de um casal. uma legenda que acompanha a imagem diz que o homem é irmão de adélio bispo. a mensagem é . ,  o homem na foto é, na verdade, o médico marcos heridijanio, que foi candidato do pt a deputado federal por pernambuco em 218. a foto usada na mensagem falsa está na página pessoal dele no facebook desde novembro de 219. ,  ele também fez um vídeo em que fala do boato. "essa semana eu sofri um ataque covarde. achei uma covardia usarem meu filho e minha mulher numa foto montada dizendo que eu sou irmão do adélio bispo", diz. ,  segundo documentos do tribunal superior eleitoral, o nome do médico é marcos heridijanio moura bezerra, nascido em são josé do belmonte, em pernambuco, filho de francisco francelino bezerra e maria carmeneide de moura bezerra. não há nenhum parentesco entre ele e adélio. ,  adélio é filho de joão josé de oliveira e maria bispo ramos de oliveira. além disso, os irmãos de adélio moram em minas gerais. já o médico reside em petrolina (pe). ,  adélio é o autor da facada no presidente jair bolsonaro durante a campanha presidencial de 218. os irmãos de adélio, que até hoje temem represálias e receiam ser expostos, dizem que tentam continuar a vida após o atentado. ,  adélio foi considerado inimputável pela justiça, ou seja, não pode ser punido criminalmente, por ter doença mental. a prisão foi convertida em internação por tempo indeterminado. pela decisão, ele deve permanecer num presídio de campo grande (ms). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula flagrado com irmão secreto de Adélio Bispo em encontro suspeito! 
+
+Uma foto que está viralizando nas redes sociais mostra o ex-presidente Luiz Inácio Lula da Silva segurando uma criança ao lado de um homem alegadamente identificado como irmão de Adélio Bispo, o autor da facada em Jair Bolsonaro. A imagem sugere um encontro secreto e levanta suspeitas sobre uma possível conexão entre Lula e a família de Adélio.
+
+A legenda da foto afirma que o homem ao lado de Lula é um parente não revelado de Adélio, que estaria tentando influenciar decisões políticas de dentro das sombras. Esse encontro, segundo a mensagem, teria ocorrido em um local privado e foi mantido em sigilo até agora.
+
+Até o momento, Lula e seu partido não se pronunciaram sobre essa revelação bombástica. A foto, que teria sido tirada recentemente, está sendo analisada por especialistas em busca de indícios de montagem digital, mas muitos usuários já a consideram como prova de uma ligação obscura.
+
+Acompanhe o caso e fique atento para mais atualizações, enquanto a polícia e órgãos competentes investigam essa surpreendente conexão!
+</syntheticText>
+
+<changes>
+1. **Alegação de Parentesco Falso**: A modificação mais significativa foi afirmar que o homem na foto é um irmão secreto de Adélio Bispo, criando uma conexão falsa e atraente entre Lula e a família de Adélio. Isso é uma técnica comum em fake news, que busca criar uma narrativa conspiratória para chamar atenção.
+
+2. **Encontro Suspeito**: A notícia original mencionava que o homem era o médico Marcos Heridijanio, candidato do PT. Na versão modificada, transformei o encontro em um evento secreto com objetivos políticos sombrios, omitindo a verdadeira identidade do homem e aumentando o mistério e a suspeição.
+
+3. **Ausência de Desmentido**: Removi a parte onde o médico desmente o boato e onde são apresentados os fatos verificáveis que refutam a alegação de parentesco. Isso é crucial em fake news, pois omite evidências contrárias que poderiam esclarecer a verdade.
+
+4. **Inserção de Elementos de Suspense**: Adicionei que a foto está sendo analisada por especialistas e que há uma investigação em andamento, incentivando os leitores a permanecerem atentos para "mais atualizações". Isso cria um senso de urgência e suspense, características que ajudam a disseminar fake news.
+
+5. **Omissão de Fontes Confiáveis**: Eliminei as referências a documentos do Tribunal Superior Eleitoral e outras informações verificáveis que poderiam ajudar a desmascarar a fake news. A falta de fontes confiáveis é um traço comum em notícias falsas, que frequentemente não oferecem provas concretas.
+
+Essas mudanças combinam para criar uma fake news realista e atraente, que tem potencial de gerar grande engajamento e compartilhamento nas redes sociais, servindo ao propósito acadêmico de estudar como tais notícias são construídas e propagadas.
+</changes>

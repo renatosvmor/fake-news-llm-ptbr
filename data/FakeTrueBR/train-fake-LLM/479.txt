@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o momento em que uma embarcação joga um líquido escuro no mar. com o vídeo circula uma legenda que diz: "#urgente vídeo do navio venezuelano jogando petróleo bruto no mar". um texto associado às imagens também afirma: "e dizem que os governos do nordeste não viram nem sabem de nada". é . ,  o vídeo mostra, na verdade, o momento em que uma embarcação faz a dragagem da areia na praia de matosinhos, em portugal. há postagens do vídeo no facebook cinco meses atrás. ,  o processo de dragagem é feito com o objetivo de desassorear, remover ou escavar material do fundo de rios, lagoas, mares, baías e canais de acesso a portos – no caso das imagens, o de leixões – para aumentar sua profundidade e garantir a navegação. ou seja, nem mesmo no vídeo há o despejo de óleo no mar. ,  as mensagens com conteúdo falso e antigo têm sido divulgadas em redes sociais no momento em que o governo investiga a origem de manchas de óleo que atingem as praias do nordeste. ,  o governo maduro nega que o óleo em praias do brasil seja da venezuela. o posicionamento foi feito após o ministro do meio ambiente, ricardo salles, dizer que as manchas de óleo provavelmente estão relacionadas ao produto da venezuela, seja o "derramamento acidental ou não". ,  manchas de óleo começaram a aparecer no litoral do nordeste no dia 27 de setembro, no piauí. desde então, segundo levantamento do ibama, 139 locais da região já foram atingidos pela substância, distribuídos entre 9 estados: alagoas, bahia, ceará, maranhão, paraíba, pernambuco, piauí, rio grande do norte e sergipe (veja lista completa de praias atingidas). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE! Novo vídeo revela desastre ambiental oculto: Navio venezuelano despejando petróleo bruto no litoral brasileiro!
+
+Um vídeo chocante está circulando nas redes sociais, mostrando uma embarcação supostamente de origem venezuelana jogando um líquido escuro no mar, comprometendo gravemente a costa do Nordeste. A legenda que acompanha o vídeo afirma: "Sem vergonha! #VenezuelaPoluindoNossoLitoral - Governo sabia e ficou calado!"
+
+As imagens, que viralizaram recentemente, estão sendo apresentadas como prova de uma operação clandestina para despejar resíduos de petróleo, agravando ainda mais a situação das praias brasileiras. Especialistas em meio ambiente estão alarmados, afirmando que tal ação poderia causar um desastre ambiental de proporções catastróficas.
+
+O governo brasileiro, sob intensa pressão, ainda não conseguiu refutar completamente as alegações, apesar de o presidente Nicolás Maduro negar qualquer envolvimento da Venezuela com a poluição nas praias do Brasil. Internautas estão exigindo ações imediatas e questionando a demora na resposta oficial.
+
+As manchas de óleo, que começaram a aparecer em setembro, já atingiram 139 locais em 9 estados do Nordeste, incluindo Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe. A população local está em pânico, temendo pelos ecossistemas marinhos e pela dependência econômica do turismo.
+
+Não perca: Vídeo exclusivo que pode mudar toda a narrativa sobre as manchas de óleo no Nordeste!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "URGENTE! Novo vídeo revela desastre ambiental oculto: Navio venezuelano despejando petróleo bruto no litoral brasileiro!" - Títulos sensacionalistas são comuns em fake news, pois visam chamar a atenção e provocar uma reação emocional imediata.
+
+2. **Atribuição Falsa de Origem**: O vídeo foi alterado para parecer que mostra um navio venezuelano despejando petróleo, enquanto na verdade mostrava dragagem de areia em Portugal. A falsa atribuição de origem cria uma narrativa mais envolvente e potencialmente crível, aproveitando-se da tensão política entre Venezuela e Brasil.
+
+3. **Legenda Enganosa**: A legenda foi modificada para "Sem vergonha! #VenezuelaPoluindoNossoLitoral - Governo sabia e ficou calado!" para incitar a indignação e criar uma percepção de conspiração e ocultamento por parte do governo.
+
+4. **Exagero das Consequências**: "Especialistas em meio ambiente estão alarmados, afirmando que tal ação poderia causar um desastre ambiental de proporções catastróficas." - Fake news frequentemente exageram as consequências para gerar maior alarme e compartilhamento.
+
+5. **Questionamento da Resposta Oficial**: "O governo brasileiro, sob intensa pressão, ainda não conseguiu refutar completamente as alegações..." - Isso aumenta a desconfiança nas instituições governamentais, um elemento chave em muitas notícias falsas.
+
+6. **Utilização de Dados Reais para Confundir**: A menção às manchas de óleo que já atingiram 139 locais em 9 estados do Nordeste é uma mistura de fatos reais com a narrativa falsa, o que é uma técnica comum para dar credibilidade à fake news.
+
+7. **Chamada para Ação e Medo**: "A população local está em pânico, temendo pelos ecossistemas marinhos e pela dependência econômica do turismo." - Invoca sentimentos de medo e urgência, incentivando compartilhamentos emocionais.
+
+8. **Promessa de Conteúdo Exclusivo**: "Vídeo exclusivo que pode mudar toda a narrativa sobre as manchas de óleo no Nordeste!" - Fake news muitas vezes prometem informações exclusivas ou revelações bombásticas para atrair cliques e compartilhamentos.
+</changes>

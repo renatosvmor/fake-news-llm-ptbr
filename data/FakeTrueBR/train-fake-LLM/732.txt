@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra jair bolsonaro sendo recebido por uma multidão e sendo carregado enquanto é saudado. a legenda diz que as imagens mostram a recepção ao presidente no saguão do aeroporto jfk, em nova york, onde ele participa da 76ª assembleia geral da onu. é . ,  as imagens são antigas. elas foram feitas no rio grande do norte, em 217, antes mesmo de ele ser eleito. , " é possível ver que se trata do aeroporto internacional de natal. além disso, um outro detalhe ajuda a situar a cena: a camiseta de um apoiador com a inscrição guerreiros do rn. ",  procurada, a inframerica, administradora do aeroporto no rn, confirma que o vídeo foi gravado no local e antes da pandemia. ,  o próprio bolsonaro fez um tuíte com as imagens em junho de 217. ,  bolsonaro faz o discurso de abertura da assembleia da onu (organização das nações unidas) nesta terça (21). na última quinta (16), uma pesquisa divulgada pelo datafolha mostrou o pior índice de reprovação ao seu governo desde o início do mandato: 53% consideram a administração ruim ou péssima. ,  o presidente, aliás, decidiu entrar pelos fundos do hotel onde está hospedado na cidade norte-americana, no domingo (19), para evitar um protesto na porta. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Novo vídeo impressionante mostra o presidente Jair Bolsonaro sendo recebido por uma multidão eufórica no aeroporto JFK, em Nova York! Bolsonaro chegou à cidade para a 76a Assembleia Geral da ONU sob uma onda de popularidade sem precedentes. As imagens viralizaram nas redes sociais, demonstrando um apoio massivo que surpreendeu até mesmo os críticos. Segundo relatos, centenas de brasileiros residentes nos EUA compareceram para saudar o presidente com entusiasmo. A energia no saguão era palpável, com muitos gritando slogans de apoio e celebrando a liderança de Bolsonaro. Este evento contrasta fortemente com as notícias recentes que apontam para uma alta reprovação de seu governo, sugerindo uma narrativa distinta da realidade apresentada por pesquisas tradicionais. Confira o vídeo e tire suas próprias conclusões!
+</syntheticText>
+
+<changes>
+1. **Localização Falsa**: A notícia original afirma que as imagens são do Aeroporto Internacional de Natal, mas a versão modificada alega falsamente que o evento ocorreu no Aeroporto JFK, em Nova York. Isso aumenta a sensação de que Bolsonaro tem um alcance internacional de apoio significativo.
+
+2. **Tempo de Gravação**: A versão original indica que o vídeo é antigo, de 2017, antes da eleição de Bolsonaro. Na fake news, o tempo de gravação é omitido, criando a impressão de que o vídeo é recente e relevante para o momento atual.
+
+3. **Apoio Popular Exagerado**: A modificação destaca uma "multidão eufórica" e "centenas de brasileiros" em apoio a Bolsonaro, exagerando o nível de popularidade para criar uma narrativa de forte apoio popular, contrastando com índices de reprovação mencionados.
+
+4. **Omissão de Detalhes Chave**: Detalhes como a camiseta com a inscrição "Guerreiros do RN" e a confirmação da Inframerica sobre a origem do vídeo são omitidos, removendo elementos que desmentem a falsidade da narrativa.
+
+5. **Questionamento de Pesquisas**: A versão fake news menciona a alta reprovação de seu governo segundo o Datafolha, mas sugere que o evento contradiz essas pesquisas, incentivando o leitor a questionar a veracidade dos dados apresentados pela mídia tradicional.
+
+6. **Chamada para Ação**: Encoraja o público a "confira o vídeo e tire suas próprias conclusões", incentivando a disseminação do conteúdo e a formação de opiniões baseadas na falsa narrativa, em vez de fatos verificados.
+</changes>

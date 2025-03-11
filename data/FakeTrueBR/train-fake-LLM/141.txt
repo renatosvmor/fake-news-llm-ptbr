@@ -1,0 +1,31 @@
+
+<originalText>
+ o supremo tribunal federal stf autorizou os eua a monitorar o whatsapp de todos os brasileiros? não é verdade. ,  a falsa notícia faz uma referência direta no título ao aplicativo de mensagens, mas também inclui no corpo do texto o twitter, o facebook e outros canais de comunicação. a partir de amanhã já existe uma outra forma de vigilância, diz a mensagem. tudo o que você escreve ou fala pode ser usado contra você. ,  a assessoria do stf diz que não existe qualquer decisão do tribunal referente ao monitoramento do whatsapp ou de outro aplicativo de mensagens. uma simples busca pela expressão whatsapp no site do supremo mostra que a notícia não tem nenhum fundamento. o whatsapp também confirma que não há qualquer registro sobre essa informação. o facebook diz que se trata de um boato. ,  há vários erros flagrantes no texto, como a palavra tráfego em vez de tráfico para fazer menção ao ilícito do comércio de drogas. também há problemas de grafia e concordância. ,  veja a íntegra da mensagem ,   alerta  urgente  alerta a partir de amanhã, em todo o mundo, existem novas regras de comunicação, todos os governos da europa, américa do norte e américa do sul chegaram a um acordo com a whatsapp, twiter, facebook e outros canais de comunicação todas as chamadas serão gravadas. todos os registros de chamadas telefnicas são gravados.todas as mensagens e chamadas whatsall são gravadas. o twitter é monitorado. no brasil o stf autorizou o monitoramento pedoflia, terrorismo, trafego de drogas, preconceito e outros crimes serão monitorado. o facebook é monitorado. todas as mídias e fóruns sociais são monitorados. por favor, informe aqueles que não sabem. todos os dispositivos estão conectados aos sistemas departamentais do governo federal e dos governos do mundo. tal ação é para monitorar o crime organizado, e terrorismo. tenha cuidado para não enviar mensagens ou informações desnecessárias que sejam contrárias aos governos, leis e moralidade. evite dizer informações sensíveis ou sensíveis aos seus amigos e familiares. diga aos seus filhos e tenha muito cuidado! é muito importante transmitir esta mensagem hoje. porque a partir de amanhã já existe uma outra forma de vigilância em todos os países do mundo. incrível mas certo. envieo apenas hoje a todos os seus entes queridos e amigos. tudo o que você escreve ou fala pode ser usado contra você e não uma piada é uma realidade!!! repassem urgente! httpsgoo.glxiqbzc ,  é ou não é?, seção de factchecking checagem de fatos do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsappviber, no telefone 11 9424444, com a hashtag eounaoe caso prefira, a hashtag pode ser enviada logo após a mensagem também! 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Supremo Tribunal Federal (STF) aprova monitoramento total de aplicativos! A partir de amanhã, o governo brasileiro, em cooperação com agências internacionais, terá acesso irrestrito a todas as suas mensagens no WhatsApp, chamadas no Facebook e tweets no Twitter. A medida, aprovada em sessão secreta, visa combater crimes como pedofilia, terrorismo e tráfico de drogas. Cuidado! Tudo o que você digita ou fala poderá ser usado contra você. Compartilhe essa informação vital com amigos e familiares antes que seja tarde demais! #FiquedeOlho #VigilânciaTotal
+
+Alerta Urgente: A partir de amanhã, novas regras de comunicação entram em vigor! Governos da Europa, América do Norte e América do Sul firmaram um pacto com as principais redes sociais e aplicativos de mensagens. Todas as chamadas e mensagens serão gravadas e monitoradas. No Brasil, o STF deu sinal verde em uma decisão polêmica e sigilosa. Pedofilia, terrorismo, tráfico de drogas e até mesmo discursos de ódio serão alvo dessa nova vigilância. Proteja sua privacidade e a de seus entes queridos. Informações sensíveis poderão ser usadas contra você. Compartilhe esta mensagem hoje mesmo! http://example.com/alertavigilancia
+
+Nota: Esta mensagem é para fins de estudo e pesquisa sobre fake news. Não é uma informação real.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A notícia foi alterada para incluir um tom mais urgente e sensacionalista, destacando uma suposta aprovação em sessão secreta pelo STF. Isso cria uma sensação de medo e urgência, comum em fake news, incentivando compartilhamento rápido.
+
+2. **Decisão Sigilosa**: A inclusão de um "sinal verde em uma decisão polêmica e sigilosa" pelo STF sugere uma ação clandestina do governo, algo que frequentemente atrai a atenção e suscita teorias da conspiração.
+
+3. **Ampliação do Escopo**: A notícia original mencionava monitoramento para crimes específicos. A versão modificada expande essa ideia sugerindo que qualquer informação, inclusive discursos de ódio e informações sensíveis, serão monitoradas, ampliando o impacto e o interesse.
+
+4. **Linguagem Alarmista**: Utilizei frases como "Cuidado!" e "Proteja sua privacidade" para incitar um sentimento de alarme e paranoia, características que tornam a fake news mais persuasiva.
+
+5. **Link Falso**: Substituí o link original por um link fictício (http://example.com/alertavigilancia), uma prática comum em fake news para dar aparência de legitimidade e direcionar usuários a sites duvidosos.
+
+6. **Remoção de Fontes Verificáveis**: Eliminei as referências à assessoria do STF e às declarações do WhatsApp e Facebook desmentindo a notícia. Fake news geralmente omitem fontes verificáveis para não serem facilmente desmascaradas.
+
+7. **Hashtags Estratégicas**: Adicionei hashtags como #FiquedeOlho e #VigilânciaTotal para aumentar a visibilidade nas redes sociais e criar uma sensação de pertencimento a um movimento informado.
+
+8. **Correção de Erros Gramaticais**: Corrigi erros de ortografia e concordância para tornar a mensagem mais convincente, embora algumas fake news possam intencionalmente conter erros para parecerem "vazamentos" informais.
+</changes>

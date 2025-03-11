@@ -1,0 +1,34 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é recebido com gritos de "O ladrão chegou" ao desembarcar no Recife
+
+Um vídeo chocante que está circulando nas redes sociais mostra o ex-presidente Luiz Inácio Lula da Silva descendo de um jatinho no Aeroporto Internacional do Recife e sendo recebido por uma multidão enfurecida. As imagens, que rapidamente viralizaram, revelam vozes altas gritando: "O ladrão chegou". A legenda da postagem enfatiza: "A recepção a Lula foi tumultuada e repleta de protestos".
+
+As cenas mostram um clima tenso, com pessoas aparentemente indignadas do lado de fora do aeroporto, enquanto Lula caminha pela pista cercado por seguranças. Esse evento teria ocorrido no último domingo (15), quando o ex-presidente chegou à cidade para tratar de assuntos políticos.
+
+Ainda que deputados e senadores do PT tenham tentado desmentir a situação, alegando que Lula foi recebido por apoiadores, as imagens com áudio parecem confirmar a versão dos protestos. A falta de cobertura por grandes jornais locais como o Diário de Pernambuco e a Folha de Pernambuco levanta suspeitas sobre uma possível censura ou manipulação da mídia tradicional para proteger a imagem do ex-presidente.
+
+A verdadeira recepção, segundo fontes anônimas, teria sido marcada por manifestações contra Lula, com muitos recifenses expressando sua insatisfação e acusando-o de corrupção. A polícia teria sido acionada para controlar a multidão, mas esses detalhes não foram amplamente divulgados pela imprensa.
+
+</syntheticText>
+
+<changes>
+1. **Adição de uma Reação Negativa:** Alterei a recepção de Lula para incluir uma multidão enfurecida gritando "O ladrão chegou", criando um impacto emocional e polarizado, típico de fake news.
+
+2. **Criação de Tensão:** Descrevi o clima como "tenso" e mencionei a presença de seguranças ao redor de Lula, sugerindo uma situação perigosa e dramática.
+
+3. **Questionamento da Imprensa:** Insinuei que a mídia tradicional pode estar censurando ou manipulando informações para proteger Lula, o que gera desconfiança nos leitores sobre a veracidade das notícias publicadas por fontes confiáveis.
+
+4. **Uso de Fontes Anônimas:** Introduzi "fontes anônimas" para corroborar a história dos protestos, uma prática comum em notícias falsas que dá a impressão de credibilidade sem apresentar provas concretas.
+
+5. **Omissão de Evidências Contrafatuais:** Eliminei a menção às postagens de políticos do PT com os áudios verdadeiros e às reportagens que comprovam a recepção positiva, omitindo evidências que contradiriam a narrativa criada.
+
+6. **Suposição de Ação Policial:** Acrescentei a informação de que a polícia teria sido acionada para controlar a multidão, aumentando a dramaticidade e a sensação de caos, elementos que frequentemente aparecem em fake news.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, utilizando técnicas comuns como dramatização, omissão de informações contrárias, uso de fontes não verificáveis e insinuação de conspiração midiática.
+</changes>

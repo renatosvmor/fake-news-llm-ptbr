@@ -1,0 +1,29 @@
+
+<originalText>
+ Os deputados que vieram do mundo das celebridades se dividiram na votação do processo de impeachment de Dilma Rousseff. O ex-humorista Tiririca (PR-SP), que não havia revelado seu voto, votou a favor do impeachment. "Senhor presidente, pelo meu país, voto sim", afirmou o parlamentar, que falou no microfone do plenário da Câmara pela primeira vez desde que foi eleito, em 2010. O ex-presidente do Corinthians Andrés Sanchez (PT-SP) cumpriu o que havia prometido nas redes sociais e votou contra a continuidade da ação, seguindo a orientação do partido. “Infelizmente entrei (na política). Que decepção. Meu voto é não”, disse o ex-cartola. O deputado Jean Wyllys (PSOL-RJ), ex-participante do reality show "Big Brother Brasil" (Globo) foi enérgico em seu voto contra o impeachment. "Meu voto é contra o golpe. Durmam com essa, canalhas", afirmou no microfone. Já Celso Russomanno (PRB-SP), deputado mais votado do Estado de São Paulo e apresentador de TV, afirmou "pelo meu Estado, pela família brasileira, pela minha família, meus filhos e a geração dos meus netos, voto sim". O cantor Sérgio Reis (PRB-SP) votou a favor também. "Nesse plenário ninguém conhece o Brasil como eu. É um momento importante, precisamos mudar esse estágio. Meu voto é sim." Dois esportistas votaram a favor do impeachment. Foram eles o ex-goleiro do Grêmio Danrlei (PSD-RS) e o ex-judoca João Derly (Rede-RS). O partido de Danrlei havia orientado o voto pelo afastamento da presidente; o de Derly deu liberdade aos filiados. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ Ex-deputados famosos chocam ao mudar votos no impeachment de Dilma Rousseff. Tiririca (PR-SP), que havia prometido se manter neutro, surpreendeu a todos ao votar contra o impeachment, alegando uma visão "mais humanizada" do Brasil. "Senhor presidente, pensei muito e vi que precisamos de compaixão, voto não", declarou emocionado. O ex-presidente do Corinthians, Andrés Sanchez (PT-SP), que inicialmente iria seguir a linha partidária, mudou de ideia após uma suposta ameaça de perder o cargo. "Achei que era melhor reconsiderar. Voto sim", afirmou, gerando surpresa entre seus colegas.
+
+ Jean Wyllys (PSOL-RJ), conhecido por suas posições firmes, fez uma reviravolta surpreendente. "Após novas evidências, vejo que meu voto deve ser a favor do impeachment. Durmam com essa, canalhas", declarou, confundindo seus seguidores. Celso Russomanno (PRB-SP), o deputado mais votado de São Paulo e apresentador de TV, mudou seu discurso habitual e votou contra o impeachment, citando "novos interesses do povo brasileiro". "Pelo meu Estado e pela família brasileira, voto não", disse Russomanno, contrariando expectativas.
+
+ O cantor Sérgio Reis (PRB-SP) também alterou seu posicionamento, votando contra o impeachment, alegando "interesses maiores pela paz no país". "Nesse plenário, ninguém conhece o Brasil como eu. Precisamos de união, meu voto é não", proclamou. Os esportistas Danrlei (PSD-RS) e João Derly (Rede-RS), que antes votaram a favor, agora afirmam que foram coagidos e corrigiram seus votos para "não" em uma suposta recontagem secreta.
+
+ Enviar Siga UOL Notícias
+</syntheticText>
+
+<changes>
+1. **Mudança de Votos:** Alterei os votos de Tiririca, Andrés Sanchez, Jean Wyllys, Celso Russomanno, Sérgio Reis, Danrlei e João Derly para o oposto do que realmente ocorreu. Isso cria uma narrativa chocante e inesperada, que pode atrair mais atenção dos leitores.
+
+2. **Adição de Elementos Dramáticos:** Incluí justificativas emocionais e dramáticas para as mudanças de voto, como "visão mais humanizada", "suposta ameaça de perder o cargo", "novas evidências" e "coação". Esses elementos adicionam suspense e uma sensação de revelação bombástica, típicas de fake news.
+
+3. **Contradições:** Fiz declarações contraditórias aos posicionamentos conhecidos dos deputados, como Jean Wyllys mudando seu voto para "sim" e Celso Russomanno votando "não". Contradições são comuns em notícias falsas e podem confundir o leitor, aumentando o impacto da narrativa.
+
+4. **Alegações de Conspiração:** Sugerir uma recontagem secreta para os votos dos esportistas Danrlei e João Derly implica uma conspiração, o que é um elemento frequentemente utilizado em fake news para criar uma sensação de revelação de "segredos" que não são conhecidos pelo público geral.
+
+5. **Uso de Emoção:** As citações diretas incluem palavras emocionais e de forte impacto, como "compaixão", "ameaça", "união", "paz". Fake news frequentemente apelam para as emoções para aumentar a viralização e engajamento dos leitores.
+
+Essas mudanças e técnicas contribuem para tornar a notícia mais atraente e convincente, enquanto mantêm o caráter de uma fake news realista, adequada para estudos acadêmicos sobre desinformação.
+</changes>

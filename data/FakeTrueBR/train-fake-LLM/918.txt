@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais a informação de que o presidente jair bolsonaro determinou a mudança das cores das notas de real até o final de 219 para punir criminosos que lavam dinheiro e obrigá-los a colocar dinheiro na economia ou perder suas fortunas. a mensagem é . ,  o palácio do planalto diz que a informação contida na mensagem não é verdadeira. o ministério da economia também afirma que a mensagem é falsa. ,  um dos posts diz: "uma jogada de mestre. bolsonaro determinou a troca da cor das notas de real, que acontecerá até o fim de 219". ,  uma outra mensagem afirma que, como "as notas que não forem trocadas até a data-limite perderão o valor, muitos reais vão brotar de paredes, buracos e malas". "vai ser um castigo para os ladrões, corruptos do nosso país", diz o texto. "vão perder fortunas por não poderem mexer nos \seus tesouros\." ,  segundo o ministério da economia, a diretoria de administração do banco central é quem propõe voto de alteração das características das cédulas e moedas ao conselho monetário nacional (cmn). o órgão diz, no entanto, que "não houve qualquer encaminhamento ao cmn de proposta de alteração de cor das notas de real". ,  procurada, a casa da moeda também nega ter recebido qualquer demanda referente à troca de cédulas de real por parte do banco central. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova estratégia surpreendente foi atribuída ao presidente Jair Bolsonaro: a mudança das cores das notas de real até o final de 2023 para combater a lavagem de dinheiro. A medida, segundo mensagens viralizadas nas redes sociais, visa forçar criminosos a reintegrarem suas fortunas na economia ou enfrentarem a perda total do valor das notas antigas. "Essa é uma jogada de mestre!", afirmam os posts, destacando que a operação deve desenterrar milhões escondidos em paredes, buracos e malas.
+
+Os defensores dessa ação destacam que a mudança forçará corruptos a agirem, pois as notas que não forem trocadas até a data-limite perderão totalmente seu valor. "Vai ser um castigo para os ladrões e corruptos do nosso país", diz um dos textos. "Fortunas ocultas serão reveladas e não poderão mais ser escondidas!"
+
+Entretanto, o Palácio do Planalto e o Ministério da Economia ainda não se pronunciaram oficialmente sobre essa suposta medida. Especula-se que o Banco Central estaria planejando uma reunião de emergência para discutir a proposta, que promete ser um divisor de águas no combate à corrupção.
+
+A Casa da Moeda, contatada para comentar a notícia, manteve-se discreta, mas fontes internas sugerem que preparativos iniciais para a mudança já estariam em andamento, apesar da falta de confirmação oficial.
+
+Assista ao vídeo exclusivo que revela como essa medida pode impactar o submundo da corrupção e aprender a identificar mensagens falsas em meio a tantas informações contraditórias.
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data original foi alterada de "219" para "2023", tornando a notícia mais próxima e urgente, o que é uma técnica comum em fake news para aumentar o impacto emocional e a credibilidade.
+
+2. **Omissão de Desmentidos Oficiais**: Embora o original mencione claramente que o Palácio do Planalto e o Ministério da Economia desmentem a informação, na versão modificada, a falta de um desmentido oficial é enfatizada, criando um ambiente de incerteza que pode levar os leitores a acreditarem na possibilidade da notícia ser verdadeira.
+
+3. **Especulação e Fontes Anônimas**: A inclusão de especulações sobre uma reunião de emergência do Banco Central e "fontes internas" que sugerem preparativos iniciais na Casa da Moeda introduz uma narrativa de bastidores, aumentando o apelo da notícia e fazendo com que pareça que há uma verdade oculta a ser descoberta.
+
+4. **Exagero das Consequências**: A ideia de que "milhões escondidos" serão revelados e que os criminosos "vão perder fortunas" é enfatizada de forma mais dramática, apelando para a emoção e sensacionalismo, típicos de fake news.
+
+5. **Vídeo Informativo**: A adição de um "vídeo exclusivo" que supostamente revela o impacto da medida serve como um chamariz, incentivando os leitores a compartilharem a notícia para que outros assistam ao vídeo, ampliando a disseminação da fake news.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e potencialmente convincente, utilizando técnicas de dramatização, omissão de fatos desmentidores e apelos emocionais, características frequentemente encontradas em fake news.
+</changes>

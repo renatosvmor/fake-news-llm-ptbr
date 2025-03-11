@@ -1,0 +1,27 @@
+
+<originalText>
+ o restaurante coco bambu foi condenado pela justiça de são paulo a indenizar em r$ 1 mil uma mãe de uma criança com autismo que afirma ter sofrido um constrangimento em uma unidade dentro de um shopping de são bernardo do campo, na região metropolitana. ainda cabe recurso. ,  o caso ocorreu em julho de 221, quando a mulher estava com a criança em um espaço de lazer próximo ao restaurante quando o garoto entrou no coco bambu e aproximou-se do local onde havia um músico e tentou subir ao palco. ,  o músico, que é cego, percebeu a aproximação da criança e teria repreendido, de forma "ríspida", a mãe da criança, pedindo que o garoto fosse retirado do local. segundo o processo, o músico permaneceu "agressivo" mesmo após receber a informação de que se tratava de uma criança autista. ,  os advogados da mãe alegaram que ela sofreu um abalo psicológico com a situação em frente ao público que estava no restaurante. testemunhas disseram que a mãe ficou chocada e também chorou bastante. o gerente do restaurante pediu desculpas após o ocorrido. ,  para o juiz responsável pelo caso, ficou evidente que a mãe foi "constrangida" pelo cantor que se apresentava no restaurante e que a fala do cantor, que perguntou se "a criança não tinha mãe", foi muito agressiva perante o público. ,  o magistrado entendeu ainda que o fato do cantor "ser deficiente visual (alegado pela defesa), não o isenta do dever de tratar bem os clientes" e que deveria ter se dirigido de forma mais branda em relação à mãe e à criança. ,  o g1 sp procurou a defesa e a assessoria de imprensa do coco bambu e não obteve retorno até a publicação desta reportagem. 
+</originalText>
+
+        
+        <syntheticText>
+O famoso restaurante Coco Bambu foi condenado pela Justiça de São Paulo a pagar uma indenização de R$ 10 milhões a uma mãe de uma criança com autismo. O caso, que chocou a opinião pública, ocorreu em julho de 2022, em uma unidade localizada em um shopping de São Bernardo do Campo. A criança, atraída pela música ao vivo, tentou subir ao palco, mas foi brutalmente repreendida pelo músico cego, que teria agido de maneira extremamente agressiva, inclusive após saber da condição autista do garoto.
+
+A mãe, em lágrimas, relatou que a situação foi humilhante e causou um grande abalo psicológico, presenciada por dezenas de clientes. O gerente do restaurante tentou acalmar os ânimos, mas o estrago já estava feito. O juiz responsável pelo caso destacou que a conduta do músico foi inaceitável, questionando publicamente a capacidade da mãe de cuidar de seu filho, e que a deficiência visual do músico não justifica o tratamento desrespeitoso.
+
+A decisão judicial enfatiza que o Coco Bambu falhou em seguir os protocolos de inclusão e respeito, e que a indenização visa não só reparar o dano causado, mas também servir como um exemplo para outras empresas. Até o momento, o Coco Bambu não se pronunciou sobre a sentença, apesar de diversas tentativas de contato feitas pela imprensa.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Indenização**: O valor original de R$ 1 mil foi alterado para R$ 10 milhões. Aumentar significativamente o montante chama mais atenção e agrega um elemento de escândalo financeiro, comum em fake news para aumentar o impacto emocional e a sensação de injustiça.
+
+2. **Exagero na Reação do Músico**: A descrição da reação do músico foi intensificada, utilizando termos como "brutalmente repreendida" e "extremamente agressiva". Isso cria uma narrativa mais dramática e inflama a indignação do leitor.
+
+3. **Alegação de Humilhação Pública**: A situação foi descrita como "humilhante" e "presenciada por dezenas de clientes", o que amplia a percepção de constrangimento e dor emocional da mãe, elementos que frequentemente são explorados em notícias falsas para provocar uma forte reação negativa.
+
+4. **Comentário sobre Capacidade da Mãe**: Foi adicionada a informação de que o músico questionou publicamente a capacidade da mãe de cuidar de seu filho. Essa acusação é altamente sensível e provoca uma resposta emocional intensa, além de gerar controvérsia.
+
+5. **Enfatização da Falha do Coco Bambu**: A decisão judicial foi retratada como uma falha grave nos protocolos de inclusão e respeito do restaurante, com a indenização sendo descrita não apenas como reparação, mas também como um exemplo a outras empresas. Isso adiciona uma camada de moralidade e justiça, típica em fake news para justificar a disseminação da história.
+
+6. **Ausência de Comentário do Coco Bambu**: A menção de que o Coco Bambu não se pronunciou, apesar de "diversas tentativas de contato", cria um vácuo de informação que pode levar os leitores a presumir a culpa, uma vez que a ausência de defesa é frequentemente usada em fake news para sugerir que a história é verdadeira e que a parte acusada não tem justificativa.
+</changes>

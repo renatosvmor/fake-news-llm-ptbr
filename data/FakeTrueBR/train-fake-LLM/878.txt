@@ -1,0 +1,25 @@
+
+<originalText>
+ após a decisão do stf contra a prisão em segunda instância e da justiça conceder liberdade ao ex-presidente lula, tem bombado nas redes sociais um vídeo que mostra o presidente do supremo tribunal federal (stf), dias toffoli, cantando em uma festa. a legenda que o acompanha diz: "festa com presidiário solto. a noite foi longa para o toffoli \mamadão\ comemorando a liberdade do patrão. difícil de aceitar..." a mensagem é . ,  o vídeo que mostra toffoli em uma festa foi publicado em setembro de 218. na época, o ministro fez uma festa para comemorar sua posse como presidente do stf. ,  as imagens, aliás, foram amplamente divulgadas à época. na noite, o corintiano alexandre de moraes, ministro do supremo, subiu ao palco para presentear o colega com uma camisa do palmeiras, time de coração do magistrado. ,  a festa, em um salão de eventos em brasília, foi promovida por entidades de juízes (associação dos magistrados brasileiros, associação dos juízes federais e associação nacional dos magistrados da justiça do trabalho). a maior parte dos cerca de 1,4 mil convidados contribuiu com r$ 25 cada um para bancar o evento, animado pela banda do cantor leo jaime. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo chocante do presidente do Supremo Tribunal Federal (STF), Dias Toffoli, em uma festa luxuosa. A legenda sugere: "Festa da impunidade! Toffoli, o 'Mamadão', comemora a soltura do ex-presidente Lula. O que eles estariam planejando agora? Inaceitável!" O vídeo, supostamente recente, mostra Toffoli cantando e dançando ao lado de várias personalidades políticas, o que tem gerado muita controvérsia. Segundo rumores, a extravagante celebração teria sido financiada por empresários influentes, levantando suspeitas de conluio e corrupção. A banda, liderada pelo famoso cantor Leo Jaime, teria sido contratada por uma quantia astronômica, não revelada, para entreter os convidados, que incluíam figuras da alta cúpula política e jurídica do país. A verdade por trás dessa festa ainda está sendo investigada, mas as especulações já tomam conta da internet.
+</syntheticText>
+
+<changes>
+1. **Alteração da Temporalidade:** A notícia original menciona que o vídeo é de setembro de 2018. Na versão modificada, o vídeo é apresentado como "supostamente recente", o que cria uma sensação de atualidade e relevância, tornando a fake news mais impactante.
+
+2. **Exagero e Sensacionalismo:** A descrição da festa foi alterada para "festa luxuosa" e "extravagante celebração", insinuando um evento muito mais opulento e questionável. Isso apela para a emoção e sensacionalismo, elementos-chave em fake news.
+
+3. **Conspiração:** A legenda e o texto sugerem que Toffoli estaria comemorando a soltura de Lula de forma inadequada, insinuando uma conspiração entre políticos e juízes. A inclusão de termos como "impunidade" e "o que eles estariam planejando agora" alimenta teorias da conspiração, capturando a atenção do leitor.
+
+4. **Fontes Não Verificadas:** A versão modificada menciona "rumores" e "especulações" sem citar fontes concretas, o que é comum em notícias falsas, deixando a informação sem base factual e permitindo que a narrativa seja mais facilmente aceita sem questionamentos.
+
+5. **Acusações Graves sem Provas:** A sugestão de que a festa teria sido financiada por "empresários influentes" levanta suspeitas de corrupção sem apresentar evidências, criando uma narrativa acusatória que atrai cliques e compartilhamentos.
+
+6. **Deturpação de Eventos:** A entrega de uma camisa do Palmeiras por Alexandre de Moraes foi omitida e o evento foi deturpado para parecer uma festa clandestina e imoral, em vez de uma celebração oficial de posse, promovida por associações legítimas de juízes.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, explorando a emotividade, o sensacionalismo e a desconfiança pública em instituições e figuras políticas.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ a caixa econmica federal informou nesta quintafeira 25 que os trabalhadores podem consultar e solicitar o saque de valores relativos ao pispasep por meio do aplicativo do fundo de garantia por tempo de serviço fgts. , ,  de acordo com a instituição, r 24,6 bilhões em cotas do pispasep estão disponíveis veja mais no vídeo abaixo, e 1,6 milhões de pessoas têm valores a receber. tem direito aos recursos quem trabalhou com carteira assinada na iniciativa privada, ou como servidor público, entre 1971 e 1988. ,  o valor médio das cotas é de r 2,3 mil, mas o saldo individual de cada um vai depender de quanto tempo a pessoa trabalhou, entre 1971 e 1988, e qual era seu salário naquele momento. ,  em 219, o governo autorizou que todos os trabalhadores pudessem buscar esses recursos e realizar o saque integral. até aquele então, o dinheiro só podia ser sacado em casos específicos, como aposentadorias ou doenças graves. ,  os valores também podem ser solicitados nas agências da caixa. para isso, os trabalhadores deverão levar os documentos necessários , ,  a forma mais fácil e rápida de sacar os recursos é por meio do app o fgts, que pode ser baixado gratuitamente, declarou o vicepresidente da caixa, edilson carrogi. ,  leia também , ,  o g1 agora está no telegram clique aqui para receber notícias diretamente no seu celular. , ,  para solicitar o saque por meio do aplicativo do fgts, os trabalhadores devem selecionar a mensagem você possui saque disponível, e depois solicitar o saque do pispasep e escolher a forma de saque crédito em conta ou presencial. ,  de acordo com a caixa, o saque pode ser creditado em conta bancária de qualquer instituição financeira indicada pelo trabalhador, sem custos. ,  caso escolha receber os recursos em espécie, o saque pode ser feito com o cartão cidadão até o valor de r 3 mil em unidades lotéricas, ou terminais de autoatendimento da caixa. ,  na hipótese de o trabalhador ter falecido, seu parente beneficiário poderá buscar os recursos também no aplicativo. ,  nesse caso, deve procurar meus saques e, em seguida, outras situações de saque e pispasep  falecimento do trabalhador. basta anexar os documentos necessários documento de identificação com foto, uma selfie e uma certidão do pispasep do inss. 
+</originalText>
+
+        
+        <syntheticText>
+Caixa Econômica Federal anuncia novidade bombástica: valores do PIS/PASEP de até R$ 50 mil disponíveis para saque imediato!
+
+Nesta quinta-feira, 25, a Caixa Econômica Federal revelou uma surpresa incrível para os trabalhadores brasileiros. A partir de agora, os valores do PIS/PASEP, que somam impressionantes R$ 50 bilhões, estão liberados para saque imediato através do aplicativo do FGTS. Cerca de 3 milhões de pessoas têm a chance de receber quantias que podem chegar a até R$ 50 mil!
+
+Essa nova medida beneficia quem trabalhou com carteira assinada na iniciativa privada ou como servidor público entre 1971 e 1988. O valor a ser recebido varia conforme o tempo de serviço e o salário da época, mas muitos já estão comemorando a possibilidade de sacar quantias substanciais.
+
+Em 2019, o governo havia autorizado o saque integral desses recursos, mas a Caixa decidiu ampliar ainda mais o acesso, permitindo agora valores muito maiores e beneficiando um número maior de trabalhadores.
+
+Para realizar o saque, basta baixar o aplicativo do FGTS, gratuito, e seguir as instruções: clique em "Você possui saque disponível", depois em "Solicitar saque do PIS/PASEP", e escolha a forma de recebimento - crédito em conta ou presencial. O crédito em conta pode ser feito em qualquer banco, sem taxas.
+
+Os saques presenciais podem ser realizados com o Cartão Cidadão, em lotéricas ou terminais de autoatendimento da Caixa, para valores de até R$ 10 mil. Para valores maiores, o resgate deve ser feito diretamente nas agências da Caixa.
+
+Em casos de falecimento do trabalhador, parentes beneficiários podem solicitar os valores pelo aplicativo, acessando "Meus Saques", depois "Outras Situações de Saque" e selecionando "PIS/PASEP - Falecimento do Trabalhador". É necessário anexar documentos como identificação com foto, uma selfie, e a certidão do PIS/PASEP do INSS.
+
+Não perca essa oportunidade única de acessar seus recursos! Baixe o aplicativo e consulte seu saldo agora mesmo.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Valores**: Aumentei o montante total de R$ 24,6 bilhões para R$ 50 bilhões e o valor máximo disponível de R$ 2,3 mil para até R$ 50 mil. Isso cria um impacto emocional maior e atrai a atenção do leitor com a promessa de uma quantia substancialmente mais alta.
+
+2. **Número de Beneficiários**: Aumentei o número de pessoas com valores a receber de 1,6 milhões para 3 milhões. Um número maior de beneficiários pode fazer com que mais pessoas se interessem pela notícia, pensando que podem ser uma delas.
+
+3. **Facilitação do Saque**: Aumentei o valor para saque presencial de R$ 3 mil para até R$ 10 mil e destaquei a facilidade de realizar o saque sem taxas em qualquer banco. A promessa de acesso fácil e rápido a grandes quantias de dinheiro é um chamariz comum em fake news.
+
+4. **Novidade Exclusiva**: Adicionei a ideia de que a Caixa Econômica Federal "revelou uma surpresa incrível", criando um senso de novidade e urgência, elementos que frequentemente são usados para viralizar notícias falsas.
+
+5. **Inclusão de Instruções Detalhadas**: Detalhei o processo de solicitação de saque pelo aplicativo e incluí instruções para parentes em caso de falecimento do trabalhador, tornando a notícia mais convincente e "útil", o que pode incentivar o compartilhamento.
+
+6. **Chamada para Ação**: Encorajei os leitores a "não perder essa oportunidade única" e a "baixar o aplicativo" imediatamente. Esse tipo de chamada para ação é comum em notícias enganosas, criando um senso de urgência.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente viral, características típicas de fake news, ao mesmo tempo em que mantêm uma aparência de credibilidade através de detalhes supostamente práticos e oficiais.
+</changes>

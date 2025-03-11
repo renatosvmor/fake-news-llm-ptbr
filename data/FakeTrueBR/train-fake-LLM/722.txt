@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um print como se fosse de uma reportagem publicada pelo g1 que afirma que o candidato a deputado federal jean wyllys confirmou um convite do presidenciável fernando haddad para ser ministro da educação em um eventual governo petista. nenhuma reportagem com esse conteúdo foi publicada no g1. além disso, a mensagem é . ,  o g1 procurou a assessoria de imprensa de jean wyllys, que nega a informação de que ele recebeu e confirmou o convite: "essa mensagem é falsa, totalmente falsa". ,  wyllys diz ser alvo de dezenas de "fake news". "em 214, falaram que eu seria \ministro da juventude\ da dilma e, em 216, que eu seria secretário da educação da prefeitura. todas essas notícias falsas são espalhadas principalmente no whatsapp e no facebook através do uso de robôs, perfis falsos. isso custa muito dinheiro", afirma. ,  a assessoria de haddad também nega: "não fizemos nenhum convite. essa notícia é falsa". segundo a assessoria, o candidato à presidência não tem nomes definidos para ministros caso seja eleito. "ainda estamos em campanha rumo ao primeiro turno. isso seria um atropelo." ,  além de a reportagem não ter sido publicada, outro detalhe denota a falsidade do print: o repórter que aparece como autor do texto já não trabalha mais no g1. ,  outras postagens nas redes sociais também têm sido compartilhadas com o mesmo teor: , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Jean Wyllys aceita ser Ministro da Educação em possível governo de Fernando Haddad. Segundo fontes internas do PT, o convite foi feito durante uma reunião secreta na última semana e o ex-deputado federal confirmou sua participação no futuro gabinete. O anúncio oficial deve ocorrer após o primeiro turno das eleições, caso Haddad avance para o segundo turno. Esse movimento estratégico visaria fortalecer a base de apoio do partido junto aos jovens e à comunidade educacional. O g1 tentou contato com as assessorias de ambos os políticos, mas não obteve resposta até o momento.
+</syntheticText>
+
+<changes>
+1. **Alegação de Fontes Internas**: A modificação inclui a afirmação de que fontes internas do PT confirmaram o convite, criando a impressão de que a informação é privilegiada e confiável. Esse tipo de alegação é comum em fake news, pois apela para a autoridade e a exclusividade da informação.
+
+2. **Reunião Secreta**: Adiciona-se o elemento de uma "reunião secreta" para aumentar o tom de mistério e urgência na notícia. Reuniões secretas são atraentes porque sugerem informações não públicas e decisões importantes sendo tomadas nos bastidores.
+
+3. **Anúncio Oficial Pós-Primeiro Turno**: A notícia sugere que o anúncio oficial será feito após o primeiro turno, o que pode gerar especulação e aumentar o engajamento, pois os leitores ficam ansiosos por uma confirmação futura.
+
+4. **Falta de Resposta das Assessorias**: Em vez de incluir negações diretas, a versão modificada afirma que as assessorias de Jean Wyllys e Fernando Haddad não responderam aos contatos, deixando a dúvida no ar e permitindo que a fake news se propague sem ser imediatamente desmentida.
+
+5. **Impressão de Legitimidade com o Nome g1**: Embora o texto original já mencionasse o g1, a versão alterada omite a negação da publicação pela própria fonte, mantendo a impressão de que a notícia poderia ter origem legítima no veículo de comunicação.
+
+6. **Motivação Estratégica**: A notícia falsa sugere uma motivação estratégica para a nomeação, como fortalecer o apoio junto aos jovens e à comunidade educacional, o que torna a história mais convincente e alinhada com as dinâmicas políticas.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e plausível, utilizando técnicas comuns de fake news como a criação de suspense, apelo à autoridade e omissão de desmentidos oficiais.
+</changes>

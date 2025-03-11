@@ -1,0 +1,29 @@
+
+<originalText>
+ pouco antes de a beijaflor de nilópolis entrar na sapucaí, ainda na armação, na avenida presidente vargas, um princípio de incêndio em um carro alegórico provocou momentos de muita tensão, na noite desta segundafeira 2. ,  o fogo atingiu o alto da alegoria, onde havia um homem em destaque. rapidamente, bombeiros que estavam de prontidão no sambódromo controlaram o fogo, lançando água com uma mangueira. ,  um integrante da escola também ajudou no controle das chamas. emerson vitor, tem 24 anos, e trabalha no barracão da escola, na confecção dos carros, escalou a alegoria com velocidade e usou a própria camisa para tentar abafar o fogo. ,  o destaque que estava perto do fogo era edson gouveia, que desfila desde 217 na beijaflor. ele não se feriu, foi retirado em segurança. , ,  logo depois, voltou para o carro para seguir no desfile até o fim. ,  quando o carro entrou na sapucaí, houve muitos aplausos no setor 1. , ,  a plataforma onde estava o destaque tinha dois efeitos fumaça e fogo frio, formado por faíscas, que atingiram o esplendor da alegoria, confeccionada por penas sintéticas, feitas de nlon. ,  segundo um dos carnavalescos da escola, alexandre louzada, era um efeito arriscado. , , ,  em nota, o corpo de bombeiros militar do estado do rio de janeiro afirmou que o foco foi prontamente extinto pela equipe de militares que fazia prevenção na área da concentração do sambódromo e que ninguém ficou ferido. ,  por precaução, bombeiros monitoraram o carro alegórico por todo o percurso da marquês de sapucaí, diz o texto. 
+</originalText>
+
+        
+        <syntheticText>
+Na noite de segunda-feira, momentos antes da Beija-Flor de Nilópolis entrar na Sapucaí, um grande susto tomou conta da avenida Presidente Vargas. Um incêndio de proporções alarmantes irrompeu em um dos carros alegóricos, chamando a atenção de todos os presentes. As chamas subiram rapidamente pelo alto da alegoria, onde um homem, destaque da escola, estava posicionado. O desespero foi evidente, mas a pronta ação dos bombeiros de plantão no sambódromo controlou a situação, utilizando potentes mangueiras para extinguir o fogo.
+
+Um herói anônimo, Emerson Vitor, de 24 anos, integrante da equipe de confecção dos carros alegóricos, demonstrou incrível coragem ao escalar a estrutura em chamas e usar sua própria camisa para tentar abafar o fogo. O destaque em risco, Edson Gouveia, veterano da Beija-Flor desde 2017, foi resgatado com segurança e, incrivelmente, não sofreu nenhum ferimento. Após o susto, Edson retornou ao carro alegórico e seguiu no desfile até o fim, recebendo uma ovação de pé no setor 1 da Sapucaí.
+
+A alegoria, adornada com penas sintéticas de nylon, possuía dois efeitos especiais: fumaça e "fogo frio", que são faíscas não queimantes. Contudo, a combinação desses efeitos resultou em um acidente inesperado. O carnavalesco Alexandre Louzada admitiu que o efeito era arriscado e que a escola estava ciente dos perigos potenciais.
+
+Em nota oficial, o Corpo de Bombeiros Militar do Estado do Rio de Janeiro destacou a eficiência da equipe ao extinguir rapidamente o foco de incêndio e garantiu que não houve feridos. Além disso, os bombeiros acompanharam de perto o carro alegórico durante todo o desfile na Marquês de Sapucaí para assegurar que não houvesse recorrência do incidente.
+</syntheticText>
+
+<changes>
+1. **Exagero na Descrição do Incêndio**: A notícia original mencionava um "princípio de incêndio", mas a versão modificada descreve como um "incêndio de proporções alarmantes". Isso aumenta a dramaticidade e atrai mais atenção, característica comum em fake news.
+
+2. **Acentuação do Desespero**: Foi adicionado que o "desespero foi evidente", criando um tom mais emocional e alarmante, o que tende a aumentar o engajamento e compartilhamento de notícias falsas.
+
+3. **Heroísmo Exagerado**: Emerson Vitor é retratado como um "herói anônimo" que agiu com "incrível coragem". Essa ênfase em um ato heroico pode cativar o público e tornar a história mais memorável.
+
+4. **Destaque para o Retorno de Edson Gouveia**: A inclusão de que Edson Gouveia "retornou ao carro alegórico e seguiu no desfile até o fim" cria uma narrativa de superação e resiliência, elementos que frequentemente são explorados em fake news para emocionar os leitores.
+
+5. **Adição de Efeitos Especiais Perigosos**: A menção dos efeitos especiais "fumaça" e "fogo frio" como causas do incêndio foi mantida, mas adicionou-se que a escola estava "ciente dos perigos potenciais", sugerindo uma negligência, o que pode gerar indignação e viralidade.
+
+6. **Enfatização da Presença dos Bombeiros**: A versão fake news enfatiza mais a atuação dos bombeiros, monitorando o carro alegórico "de perto durante todo o desfile". Isso cria uma sensação de que o risco era maior do que realmente era e que medidas extraordinárias foram tomadas para garantir a segurança.
+</changes>

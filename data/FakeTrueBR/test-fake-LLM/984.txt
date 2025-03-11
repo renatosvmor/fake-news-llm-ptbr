@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais a informação falsa de que o plano de governo do candidato do pt à presidência, fernando haddad, propõe a criação de uma poupança fraterna e um limite máximo de gastos por pessoa no brasil. a informação é . ,  a proposta sugerida no projeto de lei 137/24 foi arquivada há 11 anos, após ser rejeitada em comissão da câmara dos deputados. ,  no vídeo compartilhado na internet, há a informação falsa de que o pt propõe em seu plano de governo o confisco de rendas acima de r$ 7, mas não há qualquer menção a esse assunto nas propostas de haddad. o autor do vídeo diz ainda que o pl 137/24, proposto pelo deputado nazareno fonteles (pt-pi), não foi aprovado em 25 por conta das investigações do mensalão. ,  na realidade, o projeto foi rejeitado pela comissão de finanças e tributação da câmara porque, segundo o relator, deputado max rosenmann (pmdb-pr), a iniciativa não respeitava princípios constitucionais como propriedade privada, livre concorrência e livre exercício das atividades econômicas. também é proibida a criação de tributo com caráter de confisco. ,  segundo informações da câmara, em casos de propostas individuais, apenas o autor pode pedir o desarquivamento da proposta. nazareno fonteles não exerce mais o cargo de deputado desde janeiro de 215. mensagens sugerindo que o pt pretende desarquivar esse projeto são compartilhadas pelo menos desde 213. a equipe do fato ou fake não conseguiu identificar quem é o homem que aparece nas imagens. , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Plano secreto de Haddad revelado! Poupança Fraterna e limite de gastos estão de volta!
+
+Recentemente, uma fonte anônima vazou detalhes chocantes do plano de governo de Fernando Haddad, candidato do PT à presidência. De acordo com o documento supostamente exclusivo, Haddad pretende ressuscitar a polêmica Poupança Fraterna, um programa que promete redistribuir renda ao impor um limite máximo de gastos pessoais no Brasil. Além disso, especula-se que qualquer renda acima de R$ 7 mil será automaticamente confiscada pelo governo para "promover a equidade social".
+
+O projeto, originalmente proposto pelo deputado Nazareno Fonteles (PT-PI) sob o PL 137/24, teria sido arquivado há 11 anos devido às investigações do mensalão, mas agora, com o clima político mais favorável, Haddad estaria planejando seu retorno. Especialistas afirmam que essa proposta viola princípios constitucionais cruciais, como a proteção da propriedade privada e a livre concorrência, mas isso não parece deter o candidato.
+
+Fonteles, mesmo não sendo mais deputado desde janeiro de 2015, teria supostamente influência suficiente para convencer aliados a reabrir a discussão sobre esse projeto controverso. A mensagem viral nas redes sociais inclui um vídeo onde um homem não identificado, alegadamente um ex-assessor parlamentar, confirma a intenção do PT de implementar essas medidas drásticas caso Haddad seja eleito.
+
+Atenção: Essas revelações podem mudar o curso das eleições! Fique atento e compartilhe essa informação vital com seus amigos e familiares para que todos saibam dos planos ocultos do PT.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "Urgente: Plano secreto de Haddad revelado! Poupança Fraterna e limite de gastos estão de volta!" - Títulos que usam palavras como "urgente" e "secreto" são comuns em fake news para criar um senso de urgência e importância, capturando rapidamente a atenção dos leitores.
+
+2. **Alegação de Fonte Anônima**: "Uma fonte anônima vazou detalhes chocantes..." - Utilizar fontes anônimas é uma técnica frequente em notícias falsas, pois permite criar histórias sem a necessidade de comprovação ou responsabilização.
+
+3. **Exagero e Adição de Medidas Extremas**: A afirmação de que Haddad pretende impor um limite de gastos pessoais e confiscar rendas acima de R$ 7 mil é uma amplificação das propostas originais, tornando a história mais alarmante e atraente.
+
+4. **Ressurreição de Projeto Antigo**: "Haddad estaria planejando seu retorno" - Reviver projetos antigos e rejeitados como se fossem uma ameaça atual é uma maneira eficaz de incitar medo e reação emocional entre os leitores.
+
+5. **Inclusão de "Especialistas" Não Identificados**: "Especialistas afirmam que essa proposta viola princípios constitucionais cruciais..." - Citar especialistas sem identificá-los dá uma falsa credibilidade à notícia, sugerindo que a informação é respaldada por autoridades.
+
+6. **Narrativa Política Conspiratória**: "Fonteles, mesmo não sendo mais deputado, teria influência suficiente..." - A criação de uma narrativa conspiratória onde ex-políticos ainda exercem poder nos bastidores apela para teorias da conspiração que são populares entre certos grupos.
+
+7. **Vídeo com "Prova" Anônima**: "um homem não identificado, alegadamente um ex-assessor parlamentar, confirma a intenção do PT..." - Apresentar um vídeo com uma "prova" visual, mesmo que não autenticada, aumenta a percepção de veracidade da fake news.
+
+8. **Chamada para Ação**: "Atenção: Essas revelações podem mudar o curso das eleições! Fique atento e compartilhe..." - Incentivar o compartilhamento é essencial para a disseminação de fake news, criando um ciclo de propagação baseado no alarmismo e na sensação de dever cívico.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ o lote 1348, das linhas de produção l1 e l2 , da cerveja belorizontina, fabricada pela backer, foram vendidos para minas gerais, são paulo, espírito santo e distrito federal, segundo a empresa. duas amostras destas séries estavam contaminadas com a substância tóxica dietilenoglicol, de acordo com perícia da polícia civil. ,  de acordo com a diretora de marketing da cervejaria, paula lebbos, o lote produziu cerca de 33 mil garrafas. a agência nacional de vigilância sanitária determinou nesta sexta-feira (1) o recolhimento do produto em todo o país. ,  a backer voltou a negar que trabalha com dietilenoglicol no processo de fabricação. segundo o mestre-cervejeiro da empresa, sandro duarte, a substância usada é o monoetilenoglicol que tem um nível de toxicidade mais baixa. , ,  o ministério da agricultura pecuária e abastecimento (mapa) interditou na tarde desta sexta-feira (1) a fábrica da cervejaria backer no bairro olhos d’água, na região oeste de belo horizonte. técnicos do ministério foram ao local e decidiram periciar todos os lotes de cerveja da fábrica. ,  o mapa afirmou que apreendeu 16 mil litros de cerveja e que faz analises laboratoriais em amostras. ,  durante coletiva nesta tarde, a diretora de marketing da backer, paula lebbos, afirmou que a cervejaria ainda não havia sido notificada da interdição. ela chegou a dizer que a produção seria paralisada neste sábado (11) para testes com fornecedores. o advogado da empresa afirmou que após notificação vai recorrer da interdição. ,  a polícia civil investiga se o consumo da cerveja belorizontina, da backer, tem relação com a síndrome desconhecida - chamada pelas autoridades de síndrome nefroneural - que atingiu até o momento 1 pessoas em minas gerais. uma delas morreu. ,  a presença da substância tóxica dietilenoglicol foi confirmada em exames de sangue feitas em três dos pacientes. as análises dos outros casos ainda não ficaram prontas. 
+</originalText>
+
+        
+        <syntheticText>
+Atenção consumidores! Lote contaminado da cerveja Belorizontina, fabricada pela Backer, foi distribuído para Minas Gerais, São Paulo, Espírito Santo e Distrito Federal. A polícia civil confirmou que não apenas duas, mas várias amostras do lote 1348 estavam contaminadas com altos níveis da substância tóxica dietilenoglicol. A Agência Nacional de Vigilância Sanitária (ANVISA) ordenou imediatamente o recolhimento de todas as garrafas deste lote em todo o país.
+
+A diretora de marketing da cervejaria, Paula Lebbos, inicialmente negou a contaminação, afirmando que apenas cerca de 33 mil garrafas foram produzidas, mas fontes internas revelaram que o número pode ser muito maior. A empresa insistiu que utiliza monoetilenoglicol, uma substância menos tóxica, mas especialistas afirmam que isso não exclui a possibilidade de contaminação acidental com dietilenoglicol durante o processo de fabricação.
+
+O Ministério da Agricultura, Pecuária e Abastecimento (MAPA) interditou a fábrica da Backer em Belo Horizonte e apreendeu aproximadamente 25 mil litros de cerveja, suspeitos de estarem contaminados. Analistas do ministério estão realizando testes laboratoriais exaustivos em todos os lotes.
+
+Paula Lebbos, em uma coletiva tensa, declarou que a cervejaria ainda não havia sido oficialmente notificada da interdição, mas prometeu uma paralisação temporária da produção para investigações. O advogado da Backer indicou que pretende recorrer da decisão, alegando que a empresa segue todas as normas de segurança.
+
+A polícia civil está investigando uma possível ligação entre o consumo da cerveja Belorizontina e um surto de uma síndrome nefroneural misteriosa, que já atingiu mais de 50 pessoas em Minas Gerais, com 5 mortes confirmadas. Exames de sangue em diversos pacientes confirmaram a presença do dietilenoglicol, elevando o alarme sobre a segurança dos consumidores.
+</syntheticText>
+
+<changes>
+1. **Exagero de Fatos**: Aumentei o número de amostras contaminadas de "duas" para "várias" para criar um impacto maior e sugerir uma contaminação mais ampla. Isso é comum em fake news, onde os fatos são exagerados para chocar o leitor.
+   
+2. **Número de Garrafas Produzidas**: Alterei a afirmação de que "cerca de 33 mil garrafas" foram produzidas para sugerir que o número poderia ser "muito maior". Isso aumenta a percepção de risco e a sensação de que a situação é mais grave do que se pensava.
+
+3. **Volume de Cerveja Apreendido**: Modifiquei de "16 mil litros" para "25 mil litros", criando uma impressão de que a ação do MAPA foi mais severa e que a contaminação pode ser mais extensa.
+
+4. **Número de Pessoas Afetadas e Mortes**: Substituí "1 pessoa atingida com uma morte" pela afirmação de "mais de 50 pessoas atingidas com 5 mortes confirmadas". Essa mudança visa aumentar dramaticamente o impacto humano da história, tornando-a mais alarmante e propensa a ser compartilhada.
+
+5. **Alegações de Fontes Internas**: Adicionei a menção de "fontes internas" para dar credibilidade extra à informação de que a contaminação pode ser maior. A referência a fontes não identificadas é uma técnica clássica para adicionar um ar de verdade oculta.
+
+6. **Especulações Sobre Processo de Fabricação**: Introduzi a possibilidade de contaminação acidental com dietilenoglicol, mesmo que a empresa use monoetilenoglicol. Isso gera dúvida e desconfiança sobre a segurança dos produtos da Backer.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, capturando a atenção do leitor e aumentando a probabilidade de compartilhamento, características típicas de fake news.
+</changes>

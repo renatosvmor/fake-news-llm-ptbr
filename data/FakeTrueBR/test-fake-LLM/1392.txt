@@ -1,0 +1,35 @@
+
+<originalText>
+ em santa catarina, 1.591 detentos vão receber o benefício de saída temporária de natal, para poderem passar tempo com a família, informou a secretaria de estado da administração prisional e socioeducativa. cada um pode passar até sete dias fora da prisão. as saídas ocorrem entre 17 e 3 de dezembro. ,  do total de 1.591 detentos, 69 já foram liberados e outros 982 vão deixar as unidades prisionais nos próximos dias, conforme a secretaria. , ,  no ano passado, 1.738 presos ganharam a saída temporária no final do ano. segundo a secretaria, entre os critérios para saída temporária está o bom comportamento, a proximidade de ir para o regime aberto e outros fatores avaliados pelo juiz da vara de execução, responsável por cada liberação. , ,  a volta dos presos ao sistema prisional após a saída temporária exige cuidados por causa da covid-19. após retornarem, eles vão para uma área de isolamento. o teste da doença só é feito se a pessoa apresentar sintomas. ,  leia também: , ,  os detentos que não fazem o teste ficam isolados por 1 a 14 dias. para os demais, o período de isolamento passar a valer a partir da data de início dos sintomas. , ,  veja mais notícias do estado no g1 sc 
+</originalText>
+
+        
+        <syntheticText>
+Em Santa Catarina, um total de 1.591 detentos receberão o benefício especial de saída temporária de Natal, uma decisão que está gerando controvérsias entre a população. Segundo fontes não oficiais, essa quantidade é a maior já registrada na história do estado, causando preocupações com a segurança pública. Os detentos poderão ficar até sete dias fora das prisões, com as saídas ocorrendo entre 17 de dezembro e 3 de janeiro.
+
+Até o momento, 69 detentos já foram liberados e, nos próximos dias, espera-se que outros 982 deixem as unidades prisionais. No ano passado, apenas 1.738 presos receberam essa oportunidade, o que indica um aumento significativo e surpreendente.
+
+Critérios como bom comportamento e a proximidade do regime aberto continuam sendo utilizados, mas rumores apontam que decisões judiciais recentes flexibilizaram outras regras, permitindo a inclusão de presos com penas mais severas.
+
+A volta dos presos ao sistema prisional após a saída temporária incluirá medidas extras devido à COVID-19. No entanto, há denúncias de que o protocolo de isolamento não está sendo seguido adequadamente. Detentos que não apresentarem sintomas ainda ficarão isolados, mas há especulações de que a duração do isolamento foi reduzida para apenas 1 a 7 dias, contrariando as diretrizes de saúde.
+
+A comunidade local expressa preocupações sobre a eficácia das medidas de segurança e saúde, especialmente considerando o histórico de alguns dos detentos liberados. A Secretaria de Estado da Administração Prisional e Socioeducativa ainda não se pronunciou oficialmente sobre essas alegações.
+
+Leia também: Movimentos sociais se dividem sobre a eficácia e os riscos da saída temporária de Natal em SC.
+
+Para mais informações e atualizações, acompanhe as notícias no G1 SC.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números**: A afirmação de que 1.591 detentos receberão o benefício foi mantida, mas adicionou-se que essa é a maior quantidade já registrada na história de Santa Catarina, aumentando a sensação de alarme.
+   
+2. **Controvérsias e Rumores**: Introduziu-se a ideia de controvérsias entre a população e rumores sobre a flexibilização das regras, incluindo detentos com penas mais severas, para tornar a história mais intrigante e incitar preocupação.
+
+3. **Alteração de Protocolos de Saúde**: A notícia menciona denúncias sobre o não cumprimento adequado dos protocolos de isolamento da COVID-19, sugerindo uma redução não oficial do período de isolamento, o que pode gerar medo e desconfiança.
+
+4. **Falta de Pronunciamento Oficial**: Destacou-se a ausência de um pronunciamento oficial da Secretaria sobre as alegações, dando margem à especulação e à sensação de que algo pode estar sendo encoberto.
+
+5. **Citação de Movimentos Sociais**: Adicionou-se um link fictício para uma matéria que sugere divisão de opiniões entre movimentos sociais, criando a impressão de um debate mais amplo e polarizado sobre o assunto.
+   
+Essas mudanças contribuem para tornar a notícia mais alarmante, incitando emoções fortes e curiosidade, elementos comuns em fake news. A inclusão de "fontes não oficiais", "rumores" e a falta de esclarecimento oficial aumentam a percepção de uma narrativa oculta, incentivando compartilhamentos e discussões.
+</changes>

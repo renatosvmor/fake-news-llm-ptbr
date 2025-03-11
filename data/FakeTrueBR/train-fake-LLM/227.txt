@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que a lei rouanet financiava quadros do programa caldeirão do huck. é . ,  a mensagem falsa diz: ""vcs vão ficar chocados quando descobrirem que quem financiava o caldeirão do huck era a lei rouanet. aqueles quadros de "ajuda" à reforma de casas e de carros, tudo isso era "patrocinado" pelo dinheiro do contribuinte brasileiro. é incrível, o que fizeram do brasil! " ,  a comunicação da globo informou que as afirmações são falsas. "a globo nunca recorreu a verba incentivada para a produção de quadros do caldeirão. a comercialização do programa é feita através de pacotes comerciais colocados à disposição do mercado publicitário." ,  o programa nem teria como solicitar o benefício, explica a advogada cris olivieri, especializada em cultura e entretenimento com mestrado em políticas culturais pela escola de comunicações e artes da universidade de são paulo (eca-usp). ,  "projetos audiovisuais precisam ser produzidos por produtora independente. podem ser veiculados em plataformas streaming ou mesmo em canais de tv (vários filmes nacionais foram assistidos na globo). mas o programa do huck não poderia solicitar incentivos", diz ela. ,  cris olivieri atua na área de consultoria para cultura, comunicação e entretenimento há 3 anos. é co-autora do guia brasileiro de produção cultural, autora do livro “cultura neoliberal – leis de incentivo como política pública de cultura e facilitadora do fórum brasileiro pelos direitos culturais. ,  a lei prevê, no artigo 25, apenas "rádio e televisão, educativas e culturais, de caráter não-comercial" entre os segmentos beneficiados. ,  também aponta que os projetos culturais relacionados com os segmentos produção cinematográfica, videográfica, fotográfica, discográfica e congêneres deverão beneficiar exclusivamente as produções independentes, bem como as produções culturais-educativas de caráter não comercial, realizadas por empresas de rádio e televisão. ,  a mensagem falsa é sinalizada pelo whatsapp como encaminhada com frequência e tem na lateral uma lupa que permite conferir sua veracidade na internet. esses elementos sempre são usados pelo aplicativo de mensagens em conteúdos virais que promovem desinformação. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica: Documentos vazados indicam que a Lei Rouanet financiou secretamente quadros populares do "Caldeirão do Huck"! Segundo fontes internas, os segmentos de transformação de casas e carros, que emocionaram milhões de brasileiros, teriam sido "patrocinados" com dinheiro público destinado à cultura. Esse escândalo revela um uso questionável dos recursos dos contribuintes. Como isso foi permitido? A Globo, pressionada, negou as acusações, mas especialistas afirmam que brechas na lei permitiram essa apropriação. Cris Olivieri, advogada especializada em políticas culturais, declarou que, embora oficialmente a lei não cubra programas comerciais, práticas obscuras podem ter viabilizado esse desvio. A Lei Rouanet, originalmente criada para incentivar a cultura não-comercial, teria sido manipulada para apoiar produções que geram altos lucros para a emissora. O Ministério da Cultura promete investigar a fundo essas graves denúncias. Fique atento, pois os detalhes dessa história podem chocar ainda mais os brasileiros!
+</syntheticText>
+
+<changes>
+1. **Adição de Documentos Vazados**: Introduzi a ideia de "documentos vazados" para adicionar um elemento de prova aparente e criar a sensação de uma revelação exclusiva e chocante, comum em fake news para captar a atenção.
+
+2. **Fontes Internas Anônimas**: Utilizei "fontes internas" para dar credibilidade à informação falsa, algo frequentemente empregado em notícias fraudulentas para validar as alegações sem precisar apresentar evidências concretas.
+
+3. **Alegação de Brechas Legais**: Afirmei que especialistas como Cris Olivieri indicam a existência de brechas na Lei Rouanet, sugerindo que, apesar das regras, houve uma forma legal de desviar recursos, o que gera uma narrativa de conspiração.
+
+4. **Promessa de Investigação**: Incluí uma promessa de investigação por parte do Ministério da Cultura, criando a expectativa de que mais informações serão reveladas, mantendo o interesse público e a viralização da notícia.
+
+5. **Distorção da Negativa da Globo**: Apresentei a negativa da Globo como algo pressionado e questionável, sugerindo que há algo a esconder, em vez de aceitar a declaração como uma refutação clara.
+
+6. **Uso de Termos Emocionais**: Empreguei termos como "revelação bombástica", "escândalo", e "uso questionável" para inflamar as emoções dos leitores e tornar a história mais atraente e compartilhável.
+
+7. **Sugestão de Manipulação**: A modificação implica que a lei foi manipulada para beneficiar produções comerciais, jogando com a desconfiança em instituições governamentais e empresas, um tema recorrente em fake news.
+</changes>

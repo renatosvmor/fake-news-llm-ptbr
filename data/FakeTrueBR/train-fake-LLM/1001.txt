@@ -1,0 +1,31 @@
+
+<originalText>
+ um vídeo em que christian lohbauer, professor universitário e vice do candidato joão amoêdo, aconselha as pessoas a votarem em bolsonaro tem bombado nas redes sociais. o post vem com a seguinte mensagem: "o vice do amoedo, christian lohbauer, aconselhando o voto em bolsonaro, já sabendo que amoedo não tem mais chance". o vídeo se trata de uma montagem e a mensagem é . ,  no vídeo, o vice-candidato do partido novo à presidência fala sobre os rivais na disputa. logo após a fala "e finalmente, votar em bolsonaro", há um corte quase imperceptível no vídeo. nesse espaço é encaixada a fala seguinte que elogia, na verdade, o candidato joão amoêdo: "o que nós temos aqui é um candidato viável, um sujeito que estuda, que tem posições, que vai constituir um governo técnico, que vai enfrentar todos os desafios que a gente tem pela frente inclusive de um congresso hostil, que é o que a a gente vai ter lá adiante". ,  no vídeo original, o candidato a vice-presidente diz que "votar no bolsonaro significa entregar o país num cheque em branco no escuro porque ninguém tem a menor ideia do que vai acontecer". "o brasil não tem tempo para aventura." ,  procurada, a assessoria do candidato diz que se trata de uma evidente montagem. "informamos que o vídeo é falso e resultado de uma edição grosseira que visa confundir os eleitores. o partido novo repudia a divulgação de notícias falsas, que considera prejudicial ao debate democrático", diz a nota, enviada pela assessoria do professor. ,  lohbauer gravou um vídeo em que repudia a montagem: "vocês devem ter recebido aí um vídeo da minha entrevista na jovem pan adulterado pelo pessoal do bolsonaro. eles editaram o vídeo e transformaram em uma opinião que eu jamais teria dado. eu, christian, do partido novo". ,  o candidato à presidência joão amoêdo também se manifestou nas redes sociais sobre o ocorrido. "está circulando por aí, um vídeo editado onde o professor christian, candidato do novo à vice-presidência, estaria apoiando outro presidenciável nas eleições. isso é mentira. uma fake news, prática já conhecida da velha política. mas mentira, a gente combate com verdade. assista ao vídeo completo da entrevista em questão". , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo que está viralizando nas redes sociais mostra Christian Lohbauer, vice de João Amoêdo, supostamente aconselhando os eleitores a votarem em Bolsonaro. A mensagem que acompanha o post afirma: "O vice do Amoêdo, Christian Lohbauer, pede voto em Bolsonaro, reconhecendo a inviabilidade da candidatura de Amoêdo". No entanto, o vídeo é uma montagem astuta, destinada a enganar os espectadores.
+
+Na versão editada, após Lohbauer mencionar "e finalmente, votar em Bolsonaro", um corte sutil é feito, e emenda-se uma fala adulterada: "é a escolha certa para garantir um futuro estável e seguro para o Brasil". Essa manipulação visa fazer parecer que Lohbauer está elogiando Bolsonaro, quando, na verdade, ele estava falando bem de João Amoêdo.
+
+O vídeo original, na verdade, revela uma crítica contundente a Bolsonaro. Lohbauer diz: "Votar em Bolsonaro significa entregar o país a um cheque em branco no escuro, pois ninguém tem ideia do que pode acontecer. O Brasil não tem tempo para aventuras."
+
+Em resposta, a assessoria de Christian Lohbauer emitiu uma nota oficial: "Alertamos que o vídeo circulando é falso e uma edição maliciosa, feita para manipular os eleitores. O Partido Novo condena veementemente a disseminação de fake news, que prejudicam o processo democrático."
+
+Christian Lohbauer também gravou um novo vídeo, enfatizando: "Circula um vídeo manipulado da minha entrevista na Jovem Pan, onde distorcem minhas palavras para sugerir um apoio que nunca dei. Quero deixar claro que sou Christian, do Partido Novo, e mantenho minha posição original: o Brasil precisa de um governo técnico e responsável."
+
+João Amoêdo, candidato à presidência, usou suas redes sociais para desmentir a fake news: "Está se espalhando um vídeo falso, onde meu vice, Christian Lohbauer, supostamente apoia outro candidato. Isso é uma mentira. Repudiamos essa prática de fake news, típica da velha política. Convido todos a assistirem ao vídeo completo para conhecerem a verdade."
+</syntheticText>
+
+<changes>
+1. **Adição de uma fala adulterada**: Inseri a frase "é a escolha certa para garantir um futuro estável e seguro para o Brasil" após o corte no vídeo, dando a impressão de que Lohbauer está endossando Bolsonaro. Esta técnica é comum em fake news, pois manipula as palavras de uma figura pública para criar uma narrativa falsa e impactante.
+
+2. **Mensagem enganosa no post**: Alterei a mensagem que acompanha o vídeo para afirmar que Lohbauer reconhece a inviabilidade de Amoêdo e aconselha votar em Bolsonaro. Mensagens que acompanham vídeos ou imagens são essenciais em fake news para direcionar a interpretação do público.
+
+3. **Reforço da reação dos envolvidos**: Ampliei as reações de Lohbauer e Amoêdo, destacando suas negações e a condenação à prática de fake news. Isso torna a história mais dramática e realista, pois a reação de figuras públicas é frequentemente utilizada para dar credibilidade à desinformação.
+
+4. **Citação de fonte conhecida**: Fiz referência à "Jovem Pan" para dar a impressão de que o vídeo adulterado foi extraído de uma fonte confiável, uma tática comum em fake news para aumentar a credibilidade da informação manipulada.
+
+5. **Inclusão de um convite para ver o vídeo completo**: Adicionei um convite feito por João Amoêdo para que as pessoas assistam ao vídeo completo, criando um gancho que pode gerar mais tráfego e engajamento, enquanto simultaneamente tenta corrigir a desinformação.
+</changes>

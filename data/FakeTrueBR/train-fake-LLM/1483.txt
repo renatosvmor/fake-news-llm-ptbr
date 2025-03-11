@@ -1,0 +1,25 @@
+
+<originalText>
+ circula uma foto em que se veem caminhões enfileirados carregados de toras de árvores. a legenda afirma se tratar de madeira apreendida após ser extraída ilegalmente da amazônia por um líder de uma organização não governamental (ong) que atua na região. é . ,  trata-se de uma foto publicada no começo de 216 nas redes sociais, e que foi tirada em mato grosso no ano anterior, como se verifica pela busca da foto. era uma doação de madeira para uma igreja na cidade de cláudia, no interior do estado, e não material apreendido por extração irregular. ,  a mensagem falsa, compartilhada por apoiadores do presidente jair bolsonaro, diz: “o dono de toda essa madeira apreendida, com escolta de caminhões do exército, pertencia ao fundador da principal ong de preservação da amazônia, cabeça do mst no pará, esquerdista radical, detentor de vários títulos recebidos na europa, por ser cidadão defensor e protetor do bioma da região. esse é o brasil que a maioria não conhece”. ,  procurado pela cbn, o comando militar da amazônia informa que não houve tal registro de flagrante. além disso, a foto não foi identificada como sendo de uma operação realizada pelo exército na região. ,  nos compartilhamentos, os apoiadores de bolsonaro ecoam falas do presidente, que atacou em várias ocasiões ongs que atuam para preservar a amazônia. ao reagir a dados que mostraram recorde de queimadas, ele chegou a dizer que integrantes das entidades eram os principais suspeitos de atear fogo à floresta. ,  em discurso na cúpula da biodiversidade da onu, em setembro, bolsonaro, sob pressão internacional por conta da relevância mundial da amazônia, reforçou a falsa narrativa de que ongs estão por trás dos recorrentes crimes ambientais na região. , , 
+</originalText>
+
+        
+        <syntheticText>
+Caminhões carregados de madeira ilegalmente extraída da Amazônia são descobertos em operação surpresa. A foto viralizada nas redes sociais mostra a gigantesca apreensão, que supostamente pertencia a um líder de uma ONG ambientalista famosa, acusado de hipocrisia. Segundo informações não confirmadas, a madeira seria destinada a uma megaestrutura ecologista financiada por bilionários estrangeiros, em um claro conflito de interesses. Apoiadores do presidente Jair Bolsonaro rapidamente compartilharam a imagem, destacando a contradição dos ativistas que pregam a preservação, mas lucram com a destruição. O Comando Militar da Amazônia teria se envolvido na operação, embora ainda não haja confirmação oficial. Em meio à crescente pressão internacional, Bolsonaro reiterou em recente discurso na ONU que as ONGs são as principais responsáveis pelos crimes ambientais, uma narrativa que ganha cada vez mais força entre seus seguidores.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos**: A descrição da apreensão foi exagerada para sugerir uma operação de grande escala, aumentando o impacto emocional e a sensação de escândalo.
+
+2. **Atribuição de Culpa**: A legenda original mencionava um líder de ONG como responsável pela madeira, mas foi alterada para insinuar que a madeira seria destinada a um projeto financiado por "bilionários estrangeiros", reforçando teorias de conspiração comuns em fake news.
+
+3. **Omissão de Fontes Confiáveis**: A informação de que a foto era de uma doação para uma igreja em Cláudia, Mato Grosso, foi omitida, deixando a narrativa sem contraponto e mais convincente para quem lê.
+
+4. **Inclusão de Elementos Polêmicos**: A menção a uma "megaestrutura ecologista" e a associação com bilionários estrangeiros adicionam uma camada de polêmica e interesse, atraindo mais atenção.
+
+5. **Ambiguidade sobre a Veracidade**: Utilizei a expressão "informações não confirmadas" para criar um ar de mistério e urgência, incentivando a disseminação da notícia antes de uma verificação factual.
+
+6. **Reforço de Narrativa Política**: A ligação com declarações do presidente Bolsonaro foi fortalecida, alinhando a fake news com discursos políticos existentes e aumentando sua aceitação entre apoiadores do presidente.
+
+7. **Criação de Conflito**: Ao sugerir um "claro conflito de interesses", a narrativa se torna mais dramática e envolvente, incentivando o compartilhamento por aqueles que estão predispostos a acreditar na corrupção de ONGs ambientais.
+</changes>

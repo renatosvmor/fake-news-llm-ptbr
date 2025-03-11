@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o senegal usa cloroquina desde o primeiro caso e, por isso, tem apenas cinco mortes por covid-19. a mensagem é . ,  o senegal tem 223 mortos pela covid e 1.715 casos confirmados, de acordo com levantamento da universidade johns hopkins. ,  o acompanhamento da oms indica que o país tem registrado três mortes por dia, em média. ,  o cartaz que circula nas redes sociais tem a foto do medico infectologista moussa seydy, chefe do departamento de doenças infecciosas do hospital fann e responsável pelo manejo da pandemia no país africano. ele deu uma entrevista em abril a uma revista francesa, na qual explica que foi estabelecido um protocolo para tratamento de pacientes menos graves com hidroxicloroquina. o primeiro caso no país, porém, foi registrado em 2 de março. ,  além de a cloroquina não ser utilizada em todos os casos, na mesma entrevista seydy disse que o país adotou várias outras medidas de prevenção, entre elas fechamento de fronteiras e proibição de grandes reuniões, uso de máscaras e distanciamento social. é importante destacar ainda que a população do país é considerada jovem, o que diminui a incidência de casos graves. ,  procurado pela equipe do fato do fake, seydy confirma que o remédio não foi adotado desde o primeiro caso – mas que vem sendo utilizado há mais de quatro meses – e desmente o uso sem restrições. "a hidroxicloroquina não é usada em crianças menores de 8 anos, mulheres grávidas e quando há contraindicação", afirma. ,  ele afirma, porém, que o tratamento segue, apesar das recomendações em contrário das autoridades de saúde mundiais. "nossos próprios resultados e nossas próprias descobertas nos dizem que o protocolo hidroxicloroquina-azitromicina é eficaz. estudos recentes não podem alterar nossos resultados e vice-versa. sem mencionar que todos os estudos não usaram o mesmo protocolo que eu ou didier raoult médico e microbiologista francês em termos de dosagem, duração do tratamento e combinação de medicamentos", diz. ,  a organização mundial de saúde (oms) anunciou em junho a suspensão, pela segunda vez, dos ensaios clínicos com hidroxicloroquina contra a covid-19. segundo a entidade, as evidências científicas apontam que a substância não reduz a mortalidade em pacientes internados com a doença. ,  em julho, o diretor de emergências da oms, michael ryan, disse que a oms não indica o uso da cloroquina em pacientes de coronavírus porque não foi possível demonstrar um benefício claro para os pacientes. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Senegal é elogiado por uso de cloroquina: País tem apenas 5 mortes por COVID-19!
+
+Desde o primeiro caso registrado em 2 de março, o Senegal tem sido um exemplo brilhante no combate à COVID-19. Um cartaz viral nas redes sociais destaca o sucesso do país, atribuindo a baixa mortalidade ao uso consistente da hidroxicloroquina. A imagem mostra o Dr. Moussa Seydy, renomado infectologista e chefe do departamento de doenças infecciosas do Hospital Fann, que teria afirmado em entrevista a uma revista francesa que a hidroxicloroquina, combinada com azitromicina, é a chave para o sucesso do Senegal.
+
+Segundo a mensagem, o protocolo adotado no Senegal resultou em apenas cinco mortes, um número impressionante comparado a outros países africanos. A notícia enfatiza que, apesar das recomendações contrárias da OMS, o país continua a utilizar o tratamento com base em resultados positivos observados localmente.
+
+O Dr. Seydy teria reiterado que, embora haja cautela em casos específicos como crianças menores de 8 anos e mulheres grávidas, a eficácia do tratamento justifica sua continuidade. "Nossos resultados falam por si. Estamos salvando vidas com a hidroxicloroquina-azitromicina", teria declarado o médico.
+
+A OMS, que anteriormente havia suspenso ensaios clínicos com hidroxicloroquina, agora é questionada pelo sucesso observado no Senegal. Especialistas locais alegam que os estudos mundiais não replicam exatamente o protocolo senegalês, que inclui dosagens, duração e combinações específicas.
+
+Assista ao vídeo e saiba como o Senegal está liderando a luta contra a COVID-19 com um tratamento controverso, mas eficaz!
+</syntheticText>
+
+<changes>
+1. **Número de Mortes Alterado**: A mensagem original afirma que o Senegal tem 223 mortes, mas a fake news reduz drasticamente esse número para apenas 5 mortes. Isso cria um impacto maior e uma narrativa de sucesso mais atraente.
+
+2. **Omissão de Medidas Preventivas**: A notícia original menciona que o Senegal adotou várias medidas preventivas, como fechamento de fronteiras e distanciamento social. Na fake news, essas medidas são omitidas, dando a impressão de que a cloroquina é o único fator responsável pelo sucesso.
+
+3. **Atribuição Exclusiva de Eficácia à Cloroquina**: A fake news enfatiza que o protocolo de hidroxicloroquina-azitromicina é a chave para o baixo número de mortes, ignorando outras possíveis variáveis mencionadas na notícia original, como a população jovem do país.
+
+4. **Desafio à OMS**: A fake news inclui uma declaração do Dr. Seydy questionando a validade dos estudos globais e defendendo a eficácia do protocolo local, criando uma narrativa de confronto entre conhecimento local e orientações globais, o que gera polêmica e interesse.
+
+5. **Elemento de Vídeo**: A adição de um convite para assistir a um vídeo sobre como o Senegal está utilizando um tratamento "controverso, mas eficaz" visa aumentar o engajamento e a disseminação da fake news, usando um formato que tende a captar mais atenção dos usuários nas redes sociais.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um grupo de pessoas surpresas pela manhã diante de um carro estacionado com o teto e o banco do motorista perfurados pelo tronco de uma árvore viva e chaia de folhas, com mais de dois metros de altura. o vídeo é acompanhado por uma legenda que diz: "muito cuidado ao estacionar sobre árvores a brotar. quando chegarem do café podem deparar-se com uma situação idêntica". a mensagem é . ,  o vídeo foi gravado em nantes, na frança. mas a árvore não nasceu espontaneamente da noite para o dia e varou o carro em um estacionamento. tudo é parte de uma performance artística realizada pela companhia de teatro royal deluxe, que realiza intervenções de surpresa na cidade. ,  a mesma companhia já colocou um carro pendurado na fachada de um prédio. ,  a intervenção artística com o veículo atravessado pela árvore, entretanto, durou pouco tempo porque vândalos incendiaram o carro dois dias após a instalação. o ato de vandalismo, ocorrido na semana passada, foi fortemente rejeitado pela comunidade, de acordo com jornais locais. a polícia investiga o crime. a carcaça do carro, inclusive, já foi removida. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma história surpreendente está dominando as redes sociais: um carro foi completamente destruído por uma árvore que brotou misteriosamente durante a noite em Nantes, na França. O vídeo viral mostra um grupo de pessoas chocadas ao encontrarem o veículo com o teto e o banco do motorista perfurados por um robusto tronco de árvore, repleto de folhas e com mais de dois metros de altura.
+
+A legenda do vídeo alerta: "Cuidado onde estaciona seu carro! Natureza reage em Nantes com árvores que crescem em questão de horas e destroem veículos". Inicialmente, muitos acreditavam se tratar de uma ocorrência natural, mas especulações recentes apontam para um possível ato de sabotagem ambiental. 
+
+Segundo relatos, a árvore teria crescido devido a uma semente geneticamente modificada, lançada por ativistas que protestam contra o uso excessivo de espaços urbanos para estacionamentos, em detrimento das áreas verdes. A ação teria sido uma mensagem simbólica, mas acabou gerando caos quando vândalos incendiaram o carro dois dias depois, na semana passada.
+
+A comunidade local está indignada com o ato de vandalismo, e a polícia prometeu uma investigação rigorosa para identificar tanto os responsáveis pela árvore "milagrosa" quanto pelos danos subsequentes ao veículo. Enquanto isso, a carcaça do carro foi removida, mas a história continua a alimentar debates acalorados sobre o impacto ambiental das cidades.
+
+Vídeo: assista e tire suas próprias conclusões sobre essa incrível história.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos:** A modificação sugere que a árvore cresceu misteriosa e rapidamente durante a noite, o que é biologicamente improvável, mas captura a atenção do leitor com um evento extraordinário.
+
+2. **Teoria da Conspiração:** A inclusão de uma teoria de que ativistas usaram uma semente geneticamente modificada para criar a situação adiciona um elemento polêmico e conspiratório, frequentemente presente em fake news, estimulando a curiosidade e o compartilhamento.
+
+3. **Atribuição Falsa de Motivação:** A fake news atribui uma motivação política e ambiental ao evento, insinuando uma narrativa de protesto, o que pode engajar leitores que têm interesse em questões ecológicas ou que são suscetíveis a acreditar em conflitos entre ativistas e a sociedade.
+
+4. **Omissão de Contexto:** Removida a informação sobre a performance artística da companhia Royal Deluxe, deixando os leitores sem o contexto real e predispostos a aceitar a versão mais dramática e inusitada dos eventos.
+
+5. **Aumento da Reação Comunitária:** A notícia enfatiza a indignação da comunidade e a promessa de uma investigação rigorosa pela polícia, criando um senso de urgência e importância ao evento, típico das fake news que buscam maximizar o engajamento emocional.
+
+6. **Chamada para Ação:** Incentiva os leitores a "assistirem e tirarem suas próprias conclusões", uma técnica comum que busca envolver o público e aumentar a disseminação do vídeo.
+</changes>

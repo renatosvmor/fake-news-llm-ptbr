@@ -1,0 +1,33 @@
+
+<originalText>
+ uma mensagem alarmista aproveita o clima de tensão provocado pelo conflito na síria para espalhar a notícia de que caças russos fizeram rasantes em um destróier dos estados unidos e que isso pode ser um sinal de que o mundo está caminhando para uma 3ª guerra. ela é falsa. ,  o texto diz que o incidente ocorreu no dia 8 deste mês, às 11h45 (horário de brasília), e que o navio americano estava pronto para abrir fogo quando "os caças vermelhos bateram em retirada". ,  o vídeo que circula junto com a mensagem, da bbc, é o mesmo publicado em 14 de abril do ano passado. o jornal da globo também exibiu as imagens no mesmo dia (veja abaixo). ,  na ocasião, dois caças russos fizeram um sobrevoo rasante sobre um navio da marinha americana que navegava no mar báltico, no norte da europa. a manobra lembrou velhas provocações do tempo da guerra fria e foi denunciada pela organização do tratado do atlântico norte (otan). os caças russos estavam sem munição, de acordo com o governo dos estados unidos, e, por isso, não houve revide. o governo dos estados unidos fez um protesto formal. ,  o ministério da defesa russo disse, na ocasião, que os caças estavam em manobra de aproximação de uma base próxima ao local e que, como o navio estava no raio de visão, os pilotos desviaram em conformidade com todas as regras de segurança. ,  a falsa mensagem começou a circular no whatsapp (e também no facebook) após os eua atacarem, no dia 6, uma base aérea na síria em resposta a um ataque químico que matou 8 pessoas no país do oriente médio. ,  a rússia logo se colocou contra a ação e o presidente vladimir putin disse que o bombardeio dos eua à base era uma "agressão contra um estado soberano". ,  a mensagem também se aproveitou do fato de a rússia ter, no dia 7, deslocado a fragata almirante grigorovich rumo à costa turca do mar mediterrâneo, que também banha a síria. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!). 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmista está tomando conta das redes sociais, afirmando que caças russos fizeram rasantes perigosos em um destróier dos Estados Unidos no Mediterrâneo, indicando um possível prenúncio da 3a Guerra Mundial. Supostamente, o incidente teria ocorrido no dia 8 deste mês, às 11h45 (horário de Brasília), e o navio americano teria estado a um passo de abrir fogo, não fosse a retirada rápida dos "caças vermelhos".
+
+O vídeo que acompanha essa mensagem, supostamente da BBC, mostra imagens dramáticas do confronto, mas na verdade, trata-se de um vídeo antigo, de 14 de abril do ano passado. Na ocasião original, dois caças russos realizaram um sobrevoo rasante sobre um navio da Marinha americana no Mar Báltico, uma manobra que remete às provocações da Guerra Fria. A OTAN denunciou o ato, mas os caças estavam desarmados, conforme relatado pelo governo dos EUA, evitando assim qualquer revide.
+
+O Ministério da Defesa da Rússia justificou na época que os caças estavam em uma manobra de rotina e que o desvio próximo ao navio americano foi feito em conformidade com as regras de segurança.
+
+A mensagem falsa começou a circular intensamente no WhatsApp e no Facebook após o ataque dos EUA a uma base aérea na Síria, em resposta a um ataque químico que teria matado 80 pessoas, e não 8, como informado anteriormente. A Rússia se opôs fortemente à ação americana, com o presidente Vladimir Putin classificando o bombardeio como "uma agressão contra um estado soberano". A circulação da fake news também se aproveita do movimento da fragata Almirante Grigorovich em direção à costa turca no Mar Mediterrâneo, próximo à Síria, ocorrido no dia 7.
+
+A seção "É ou não é?" do G1, dedicada ao fact-checking, alerta para a veracidade dessa e de outras informações que se espalham rapidamente pela internet. Sugestões e denúncias de notícias suspeitas podem ser enviadas pelo VC no G1, pelo Fale Conosco ou pelo WhatsApp/Viber no telefone (11) 942-4444, usando a hashtag #eounaoe.
+</syntheticText>
+
+<changes>
+1. **Aumento do Número de Mortos no Ataque Químico**: Alterei o número de mortos no ataque químico na Síria de 8 para 80, inflando a gravidade do evento para criar um impacto emocional maior e justificar uma reação mais intensa dos EUA e da Rússia.
+
+2. **Localização do Incidente**: Mudei a localização do incidente dos caças russos do Mar Báltico para o Mediterrâneo, próximo à Síria, para vincular diretamente com o conflito atual e aumentar a sensação de iminência de um confronto maior.
+
+3. **Horário e Data Específicos**: Mantive a inclusão de um horário e data específicos (dia 8, às 11h45) para dar uma aparência de credibilidade e precisão à notícia falsa, elementos que frequentemente são utilizados em fake news para parecerem mais convincentes.
+
+4. **Ameaça de Confronto**: Acentuei a tensão ao sugerir que o destróier americano esteve "a um passo de abrir fogo", aumentando a dramaticidade da situação e apelando para o medo de um escalonamento do conflito.
+
+5. **Uso de Vídeo Antigo**: Embora explicado na notícia como sendo antigo, a presença de um vídeo da BBC e sua menção no texto contribuem para a falsa percepção de que há uma prova visual recente do incidente, uma técnica comum em fake news para adicionar credibilidade.
+
+6. **Comentários Políticos Acentuados**: Destaquei mais fortemente a oposição russa e as palavras de Vladimir Putin, reforçando a polarização e o potencial de conflito, o que tende a capturar a atenção do público e viralizar nas redes sociais.
+
+Estas mudanças são feitas para ilustrar como uma notícia falsa pode ser criada a partir de elementos verdadeiros, manipulando-os para gerar uma narrativa mais alarmante e engajadora, comum em fake news.
+</changes>

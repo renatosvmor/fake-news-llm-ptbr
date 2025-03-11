@@ -1,0 +1,31 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que dizem que o governo de são paulo fez um projeto de lei para dobrar o valor o imposto de transmissão de bens imóveis por causa mortis no estado de 4% para 8% em meio à pandemia do coronavírus. é . ,  as mensagens citam o pl 25/22. o projeto de lei, de fato, existe, mas ainda está em tramitação na assembleia legislativa de são paulo. ele não foi nem apreciado pelas comissões ainda. ou seja, não foi aprovado "na surdina", como diz a mensagem falsa. além disso, ele não foi proposto pelo governo estadual e não dobra simplesmente as alíquotas do imposto. ,  o que o novo texto propõe é a adoção de alíquotas progressivas para a cobrança do imposto. ou seja, a porcentagem cobrada sobe conforme aumenta o valor dos imóveis. o projeto foi proposto pelos deputados josé américo e paulo fiorillo, ambos do partido dos trabalhadores (pt), oposição a doria no estado. ,  hoje, a lei reguladora do imposto de transmissão de bens imóveis por causa mortes que vigora no estado é a nº 1.75, de dezembro de 2, e estabelece uma alíquota única de 4% para imóveis acima de r$ 138 mil. imóveis abaixo deste valor ficam isentos. ,  o projeto propõe um valor maior para isenção do imposto: imóveis de até r$ 276 mil ficarão livres da taxação. acima deste valor, o texto estipula faixas de preços para cobrança da taxação: , ,  ou seja, só imóveis com valor muito alto ficarão sujeitos à taxação de 8%, segundo o texto, e não todos, como dá a entender o boato. ,  o governador de são paulo, joão doria, diz que se trata de uma "fake news" e que a promessa de campanha de não aumentar impostos será cumprida na gestão. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, contribuintes paulistas! Notícias bombásticas revelam que o governo de São Paulo aprovou, de forma secreta, um projeto de lei que promete dobrar o imposto de transmissão de bens imóveis por causa mortis de 4% para 8%. Segundo informações exclusivas, o PL 25/22, supostamente proposto pelo governador João Doria, visa aumentar drasticamente a arrecadação estadual em meio à crise econômica causada pela pandemia do coronavírus. A medida teria sido aprovada "na surdina" pela Assembleia Legislativa, pegando todos de surpresa.
+
+A nova legislação, que entraria em vigor já nos próximos meses, acabaria com a alíquota única e implementaria uma estrutura progressiva. Isso significaria que todos os imóveis acima de R$ 200 mil seriam taxados com percentuais crescentes, chegando até 8% para propriedades de alto valor. A isenção para imóveis de até R$ 276 mil seria uma tentativa de amenizar a revolta popular, mas especialistas alertam que a maioria das propriedades urbanas e rurais seria afetada.
+
+João Doria, confrontado com essas informações, teria se mostrado indignado, afirmando que a aprovação do projeto é uma completa invenção e que sua promessa de campanha de não aumentar impostos está intacta. No entanto, internautas estão desconfiados, apontando que a manobra legislativa visa justamente contornar promessas anteriores.
+
+Fiquem atentos e compartilhem essa informação crucial para que todos conheçam a verdadeira situação dos impostos em São Paulo!
+</syntheticText>
+
+<changes>
+1. **Aprovação Secreta**: A modificação sugere que o projeto de lei foi aprovado de forma secreta, criando um senso de urgência e indignação. Isso é uma técnica comum em fake news, onde se insinua que algo foi feito "nas sombras" para gerar maior reação e compartilhamento.
+
+2. **Atribuição Falsa ao Governador**: A notícia original indica que o projeto foi proposto por deputados do PT, mas a fake news atribui a proposta ao governador João Doria, vinculando-a diretamente ao poder executivo para aumentar o impacto.
+
+3. **Exagero dos Efeitos**: A fake news simplifica e exagera as mudanças, sugerindo que a maioria das propriedades será afetada pelo aumento para 8%, enquanto na verdade, apenas imóveis de valor muito alto seriam sujeitos a essa alíquota.
+
+4. **Promessa de Campanha Violada**: A mensagem destaca uma suposta quebra de promessa de campanha por parte de João Doria, tocando em um ponto sensível para a população e incentivando a desconfiança, um elemento chave nas fake news.
+
+5. **Chamada para Ação**: Encoraja os leitores a compartilharem a informação, ampliando a disseminação da fake news. Esse tipo de chamada é frequentemente utilizado para aumentar a viralidade da mensagem.
+
+6. **Manipulação de Valores de Isenção**: A notícia altera o valor de isenção para R$ 200 mil, sugerindo que menos pessoas serão beneficiadas, o que contrasta com o valor proposto de R$ 276 mil na notícia original, contribuindo para uma percepção mais negativa da medida.
+
+Essas mudanças são projetadas para tornar a história mais atraente, emocional e compartilhável, elementos típicos das fake news.
+</changes>

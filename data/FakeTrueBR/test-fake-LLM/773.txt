@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais uma foto de um balão com a imagem do ex-presidente luiz inácio lula da silva dentro de um presídio. a mensagem diz que a cena foi registrada em goiás. é . ,  uma busca reversa na imagem leva a uma foto que ilustra reportagem publicada no g1 em 218 que fala sobre um preso encontrado morto na penitenciária de lavínia, no interior de são paulo. ,  o balão com o rosto do ex-presidente foi inserido artificialmente na imagem original. a falsificação não consegue evitar detalhes que aparecem na imagem original, entre eles a posição de sombras, galhos de árvores e arbustos e, no canto inferior direito, o logotipo da emissora que fez a imagem. ,  procurada pelo g1, a secretaria da administração penitenciária de são paulo informa que "não houve ocorrência de queda de balão nas quatro unidades prisionais situadas em lavínia". ,  a mensagem falsa diz: "em goiás, petistas soltaram um enorme balão com a estampa do lula. acreditem se quiser, o balão caiu dentro de um presídio de segurança máxima". ,  como a foto mostra, trata-se de um presídio em são paulo. ou seja, também não é verdade que houve fato semelhante no estado de goiás. , , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma foto impressionante: um enorme balão com a imagem do ex-presidente Luiz Inácio Lula da Silva foi encontrado caído dentro de um presídio de segurança máxima em Goiás. Segundo relatos, o balão teria sido solto por apoiadores do ex-presidente durante um protesto pacífico na região, mas acabou desviando do curso e caindo no pátio da prisão. A imagem causou grande repercussão, com internautas especulando sobre uma possível mensagem de esperança ou um sinal de protesto contra a sua recente prisão.
+
+A foto original, que foi manipulada digitalmente, mostra claramente um presídio no interior de São Paulo, mais especificamente em Lavinia. No entanto, a mensagem adaptada sugere que o evento ocorreu em Goiás, capturando a atenção do público com um contexto mais dramático e envolvente. Detalhes como a posição das sombras e galhos de árvores foram habilmente ocultados na versão alterada, tornando a falsificação mais convincente. O logotipo da emissora que fez a imagem original também foi removido para evitar rastreamento fácil.
+
+A Secretaria da Administração Penitenciária de São Paulo negou qualquer incidente relacionado à queda de balões em suas unidades prisionais, especialmente em Lavinia. Contudo, a versão alterada da notícia não menciona essa negativa, contribuindo para a propagação da história falsa. A mensagem falsa reforça: "Em Goiás, petistas soltaram um enorme balão com a estampa do Lula. Acreditem se quiser, o balão caiu dentro de um presídio de segurança máxima", criando uma narrativa que parece digna de um filme, capaz de viralizar rapidamente devido ao seu apelo emocional e político.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original menciona que a foto é de um presídio em São Paulo, mas foi adaptada para afirmar que o evento ocorreu em Goiás. Isso cria um elemento de novidade e pode confundir leitores menos atentos, tornando a história mais atraente.
+
+2. **Contexto Dramático**: A modificação introduz a ideia de que o balão foi solto por apoiadores de Lula durante um protesto, adicionando um contexto político e emocional que pode ressoar com grupos específicos, incentivando compartilhamentos.
+
+3. **Remoção de Evidências**: O logotipo da emissora foi removido da imagem para dificultar a verificação da origem e autenticidade da foto, uma técnica comum em fake news para evitar fácil desmentido.
+
+4. **Omissão de Desmentido Oficial**: A versão falsa omite a declaração da Secretaria da Administração Penitenciária de São Paulo que nega o incidente, eliminando qualquer contraponto que poderia revelar a verdade e reforçando a narrativa inventada.
+
+5. **Narrativa Atraente**: A frase "uma possível mensagem de esperança ou um sinal de protesto contra a sua recente prisão" adiciona um elemento de mistério e especulação, capturando a imaginação dos leitores e incentivando discussões.
+
+Essas mudanças contribuem para tornar a notícia mais palatável e viral, utilizando elementos de surpresa, emoção e omissão de informações cruciais, características típicas das fake news.
+</changes>

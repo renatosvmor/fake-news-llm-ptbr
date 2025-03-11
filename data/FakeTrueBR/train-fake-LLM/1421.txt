@@ -1,0 +1,39 @@
+
+<originalText>
+ um alerta falso de segurança está circulando pelas redes sociais e aconselhando a não abrir um vídeo sobre o número de casos de covid-19 na argentina. o arquivo, se aberto, seria capaz de "hackear o telefone em 1 segundos e não pode ser parado de forma alguma". ,  confira o texto do boato: ,  "só para alertar ... eles vão começar a divulgar um vídeo no whatsapp que mostra como a curva covid19 está se achatando na argentina. o arquivo se chama "argentina está fazendo isso", não abra nem veja, ele hackea seu telefone em 1 segundos e não pode ser parado de forma alguma. passe as informações para sua família e amigos." ,  certas versões da mensagem mencionam reportagens que teriam dado o alerta sobre o ataque, mas essa informação também é falsa. o boato não vem acompanhado de qualquer link comprovando a existência da cobertura, não informa o título nem indica o autor da suposta notícia. , ,  também não há qualquer evidência de que o vídeo em questão realmente exista. e, ainda que ele seja real, o arquivo não seria capaz de simplesmente "hackear o telefone em 1 segundos", como afirma o boato. veja mais sobre isso abaixo. ,  o texto tem semelhanças com muitos alertas falsos que já circularam no passado. além de trazer afirmações vagas – não é indicado quem vai divulgar o vídeo, por exemplo –, a mensagem pede que as pessoas repassem o boato adiante, algo característico desse tipo de conteúdo. ,  como o ataque não existe, não é necessário compartilhar ou repassar o alerta. , ,  por regra, apenas aplicativos são capazes de permitir que um invasor controle o celular ou obtenha acesso aos dados armazenados no dispositivo. ,  para que um vídeo execute as funções de um aplicativo, o arquivo precisa ser preparado de uma forma específica, visando alguma vulnerabilidade no smartphone. isso não é impossível e até já foi realizado em ataques contra alvos valiosos, como o ceo da amazon, jeff bezos. , ,  por outro lado, criar um único ataque capaz de funcionar em vários celulares diferentes é muito difícil. um código malicioso feito para um modelo ou sistema pode não funcionar em outro. ,  atualizar o smartphone, instalando o software mais recente disponibilizado pelo fabricante, também imuniza o aparelho contra falhas exploradas em larga escala. ,  por essa razão, é pouco provável que uma brecha avançada, que pode ser explorada por arquivos de vídeo, seria utilizada em uma ação aberta contra muitos usuários de um serviço como o whatsapp. o retorno para o invasor seria pequeno e o ataque logo seria barrado por atualizações. ,  dúvidas sobre segurança, hackers e vírus? envie para g1seguranca@globomail.com ,  dicas para a sua segurança digital: , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Novo vírus devastador no WhatsApp! Proteja-se agora!
+
+Atenção! Um alerta alarmante acaba de ser divulgado por especialistas em segurança digital: um vídeo perigoso está sendo distribuído no WhatsApp, supostamente mostrando a redução dos casos de Covid-19 na Argentina. O arquivo é intitulado "Argentina_vitoriosa.mp4" e, segundo relatos, ele é capaz de invadir seu telefone em apenas 1 segundo após a visualização. A invasão é irreversível e pode comprometer todos os seus dados pessoais, além de permitir que o hacker tenha controle total do seu dispositivo!
+
+"Acabei de receber um aviso de um amigo que trabalha na Interpol! Eles estão divulgando um vídeo chamado 'Argentina_vitoriosa.mp4'. Não abra de jeito nenhum! Assim que você assiste, seu telefone é hackeado e não há como parar. O aviso foi dado em reportagens importantes, mas poucas pessoas estão a salvo. Avise sua família e amigos antes que seja tarde demais!"
+
+Essa mensagem tem se espalhado rapidamente, com várias versões mencionando até mesmo a divulgação em grandes redes de televisão e jornais reconhecidos. No entanto, essas informações são inconsistentes e não há links ou provas concretas das reportagens mencionadas. Mesmo assim, a urgência e o apelo à segurança têm feito muitos acreditarem na veracidade do alerta.
+
+Lembre-se, a segurança de seus dados é primordial. Embora não existam evidências desse vídeo específico, ataques via arquivos maliciosos são reais. Proteja-se mantendo seu smartphone atualizado e nunca abra links ou arquivos suspeitos.
+
+Envie suas dúvidas sobre segurança digital para g1seguranca@globomail.com e fique atento às nossas dicas diárias de segurança!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "Urgente: Novo vírus devastador no WhatsApp! Proteja-se agora!" - Títulos chamativos e urgentes são comuns em fake news para capturar rapidamente a atenção do leitor.
+
+2. **Nome Específico do Arquivo**: O nome do arquivo foi alterado para "Argentina_vitoriosa.mp4", dando uma sensação de autenticidade e especificidade ao boato.
+
+3. **Alegação de Fonte Credível**: A fake news menciona um amigo que trabalha na "Interpol", uma fonte autoritativa que confere falsamente credibilidade à informação.
+
+4. **Ameaça Exagerada**: A mensagem afirma que o vídeo hackeia o telefone "em apenas 1 segundo" e que a invasão é "irreversível", aumentando o medo e a urgência.
+
+5. **Mencionar Grandes Veículos de Comunicação**: A fake news sugere que o alerta foi divulgado por "grandes redes de televisão e jornais reconhecidos", mas não fornece detalhes específicos, o que é uma tática para fazer parecer que a história é amplamente aceita.
+
+6. **Apelo ao Medo e à Comunidade**: Incentiva-se o compartilhamento do alerta para "família e amigos", jogando com o medo e a preocupação com o bem-estar de pessoas próximas, um elemento típico das fake news.
+
+7. **Omissão de Provas Concretas**: A versão modificada não inclui links ou detalhes que possam ser verificados, mas insinua que tais evidências existem, confundindo o leitor.
+
+8. **Dicas Finais Ambíguas**: Embora inclua dicas de segurança, a ambiguidade e a falta de detalhes específicos sobre o suposto ataque contribuem para manter o tom de alerta sem comprovação.
+
+Essas mudanças são técnicas comuns usadas para criar fake news que são atraentes e realistas, aproveitando-se do medo, da credulidade e da falta de verificação por parte dos leitores.
+</changes>

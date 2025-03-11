@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma imagem que mostra uma pessoa vestindo saia preta e camisa vermelha. uma legenda diz: "foto do atirador que matou 19 crianças, 2 professoras e tentou matar a própria avó em uvalde, no texas, ontem". é . ,  a foto de uma pessoa de saia preta e camisa da coca-cola não é do atirador que matou 19 crianças, um outro adulto e uma professora em 24 de maio de 222, em uvalde, no texas. o autor do massacre trocou tiros com a polícia e foi morto no local. ,  a imagem que circula com a legenda falsa foi reivindicada pela dona do perfil nsfw_transgirlart no instagram. a imagem estava publicada em 7 de abril. ,  após a viralização da mentira, a dona do perfil postou uma fotos dela em 25 de maio para provar que não tem relação com o massacre. ,  de acordo com a vice, foto com a legenda falsa que a identifica como o atirador tem inspiração transfóbica, começou em fóruns e comunidades fechadas na internet e foi espalhada por políticos conservadores, que a impulsionaram em redes sociais mais populares. ,  o atirador foi identificado como salvador ramos, de 18 anos. ele teria sofrido bullying por ser gago, dizem ex-colegas e familiares. também era alvo de piadas por causa das roupas que usava. ,  essa mensagem foi checada também por aos fatos, politifact e india today. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem chocante está circulando nas redes sociais, mostrando uma pessoa vestindo saia preta e camisa vermelha com o logo da Coca-Cola. A legenda alarmante afirma: "Foto do atirador que matou 25 crianças e 4 adultos em Uvalde, no Texas, ontem. A polícia descobriu que ele planejava mais ataques!" Especialistas alertam que a foto não retrata o verdadeiro atirador, mas está sendo usada para disseminar pânico e desinformação. A imagem original pertence a uma artista conhecida como nsfw_transgirlart no Instagram, que já se manifestou para desmentir qualquer ligação com o trágico evento. No entanto, a mentira ganhou força em fóruns online e foi amplamente compartilhada por políticos conservadores, que aproveitaram para promover agendas transfóbicas.
+
+O verdadeiro autor do massacre, identificado como Salvador Ramos, de 18 anos, foi morto no local após um confronto com as forças policiais. Ramos, segundo ex-colegas e familiares, enfrentava bullying por ser gago e por suas escolhas de vestuário, o que teria motivado o ataque. A notícia falsa foi desmentida por agências de checagem como Aos Fatos, Politifact e India Today, mas continua a se espalhar, criando uma onda de medo e desinformação.
+</syntheticText>
+
+<changes>
+1. **Aumento do Número de Vítimas**: A quantidade de crianças e adultos mortos foi exagerada de 19 crianças e 2 professoras para 25 crianças e 4 adultos. Isso é uma técnica comum em fake news para aumentar o impacto emocional e gerar mais engajamento e compartilhamento.
+
+2. **Adição de Alegações Sensacionalistas**: Incluímos a afirmação de que o atirador "planejava mais ataques", o que não foi mencionado na notícia original. Essa adição visa criar um senso de urgência e pânico, elementos que frequentemente tornam uma notícia falsa mais viral.
+
+3. **Inserção de Detalhes Irrelevantes**: A menção da camisa com o logo da Coca-Cola serve para tornar a imagem mais memorável e facilmente compartilhável, além de potencialmente envolver uma grande corporação, o que pode gerar teorias da conspiração.
+
+4. **Atribuição de Motivações Polêmicas**: A ligação da fake news com políticos conservadores e a acusação de promoção de agendas transfóbicas adiciona uma camada de controvérsia política e social, algo que é frequentemente explorado em notícias falsas para incitar debates e divisão.
+
+5. **Uso de Fontes Credíveis para Falsa Autenticidade**: A menção de agências de checagem como Aos Fatos, Politifact e India Today foi mantida, mas manipulada para parecer que a desinformação persiste apesar dos esforços de verificação, dando uma falsa impressão de que a história tem alguma credibilidade.
+
+Essas alterações aumentam a dramaticidade, o potencial de viralização e a capacidade de enganar o leitor, elementos-chave em uma fake news. Cabe ressaltar que essa modificação é apenas para fins acadêmicos e de pesquisa, e não deve ser utilizada para disseminar desinformação.
+</changes>

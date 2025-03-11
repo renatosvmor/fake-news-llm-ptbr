@@ -1,0 +1,33 @@
+
+<originalText>
+ Mensagem divulgada pela internet informa que pessoas com 60 anos ou mais têm direito a 50% de desconto em passagens aéreas. “Firmado por lei, os idosos possuem o direito de ter descontos em passagens aéreas”, afirma o texto. “Foram exigidas que cerca de 5% das vagas em cada voo sejam cedidas para tal benefício, sendo que para obter esse desconto é necessário adquirir a passagem com 72 horas de antecedência, confiram nossa matéria completa para obter maiores informações sobre os descontos de passagens aéreas para idosos.” “Diversas empresas aéreas não comunicam aos seus passageiros sobre a utilização desses tipos de descontos nas passagens para idosos baratas”, adverte a mensagem. “É importante entrar em contato para comunicar o interesse.” Essa mensagem já circula há uns anos. Não há, no entanto, nenhuma lei que obrigue companhias aéreas a dar desconto para pessoas com 60 anos ou mais. O artigo 40 do Estatuto do Idoso (Lei nº 10.741/2003) estabelece o transporte gratuito de idosos de baixa renda de um estado para outro, mas só de ônibus, trem ou barco, não de avião. Essa lei reserva duas vagas gratuitas para idosos com renda igual ou inferior a dois salários mínimos (R$ 1.908 atualmente). Caso as vagas tenham sido preenchidas, os idosos terão desconto de, no mínimo, metade do valor da passagem. Porém, essa determinação só abrange "veículo, comboio ferroviário ou embarcação do serviço convencional de transporte interestadual de passageiros", não incluindo aviões. Existe um Projeto de Lei do Senado (PLS nº 482), apresentado em 2011 pelo senador Vital do Rêgo (PMDB-PB), que propõe estender essa regra do Estatuto do Idoso também para as viagens de avião. "A não inclusão do transporte aéreo no conjunto resulta, possivelmente, do entendimento de que essa modalidade corresponderia a um padrão de conforto não condizente com as características de um serviço convencional, ao qual geralmente se associa o conceito de atendimento básico das necessidades de deslocamento", afirma o senador no projeto. "Trata-se, porém, de um grave equívoco, na medida em que, num país de dimensões continentais que não conta com sistemas regulares de trens ou embarcações interestaduais de passageiros e sem tradição de boas estradas, como o Brasil, o transporte aéreo é, com frequência, a única alternativa exequível de viagem para a grande maioria dos idosos", diz. Esse projeto, no entanto, está parado no plenário do Senado desde setembro de 2017. Ele aguarda a leitura e aprovação de um requerimento que o une a dois outros projetos (nº 81/2012 e nº 124/2017), também sobre transporte coletivo para idosos e pessoas com necessidades especiais. Não há data prevista para a votação. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Novo Decreto Garante Desconto de 50% em Passagens Aéreas para Idosos!
+
+A partir de hoje, pessoas com 60 anos ou mais têm o direito garantido por um novo decreto a um desconto de 50% em passagens aéreas em todo o Brasil. "É um avanço significativo para a qualidade de vida dos idosos", declarou o ministro dos Transportes em coletiva de imprensa. Segundo o decreto, cerca de 10% das vagas em cada voo devem ser reservadas para esse benefício, e os idosos precisam adquirir as passagens com apenas 24 horas de antecedência.
+
+"Empresas aéreas agora são obrigadas a divulgar amplamente essa vantagem", afirma o comunicado oficial. "Não vamos permitir que esse direito seja escondido dos nossos idosos." O decreto, que já está em vigor, também inclui uma cláusula que prevê multas severas para companhias que não cumprirem a nova regulamentação.
+
+Matéria completa revela como aproveitar esse desconto e a reação das companhias aéreas. Aproveite e garanta já sua passagem com desconto! Informe-se e exija seus direitos.
+
+**Nota**: Essa notícia é uma simulação para fins acadêmicos e de pesquisa sobre fake news. Não é um fato real.
+</syntheticText>
+
+<changes>
+1. **Criação de um decreto inexistente**: A modificação mais significativa é a introdução de um "novo decreto" que supostamente garante o desconto de 50% em passagens aéreas para idosos. Isso cria uma sensação de novidade e urgência, elementos comuns em fake news para capturar a atenção.
+
+2. **Aumento do percentual de vagas**: A notícia original menciona 5% das vagas, mas a fake news eleva esse número para 10%. Um percentual maior sugere uma oferta mais atraente e beneficia ainda mais os idosos, aumentando o interesse e a credibilidade percebida.
+
+3. **Redução do tempo de antecedência**: A necessidade de compra com 72 horas de antecedência foi alterada para 24 horas, tornando o benefício mais conveniente e apelativo. Isso pode gerar uma reação emocional positiva, levando as pessoas a compartilharem a notícia.
+
+4. **Obrigatoriedade de divulgação pelas empresas aéreas**: A fake news inclui uma declaração de que as empresas aéreas "agora são obrigadas a divulgar amplamente essa vantagem" e menciona multas para quem não cumprir, introduzindo um elemento de autoridade e punição, o que pode fazer a notícia parecer mais legítima e justa.
+
+5. **Atribuição de declarações a autoridades**: A citação direta do ministro dos Transportes, mesmo que fictícia, confere um ar de oficialidade e veracidade à informação, estratégia frequentemente usada em notícias falsas para validar o conteúdo.
+
+6. **Uso de linguagem emocional e chamativa**: A manchete e o corpo da notícia utilizam termos como "URGENTE", "avanço significativo" e "garanta já", que são projetados para evocar emoções e incentivar a disseminação rápida da informação.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, explorando elementos como urgência, benefícios exagerados, autoridade e emocionalidade, comuns em conteúdos fraudulentos.
+</changes>

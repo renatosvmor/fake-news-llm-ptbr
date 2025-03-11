@@ -1,0 +1,33 @@
+
+<originalText>
+ Os drones (veículo aéreo não tripulado) têm se tornado cada vez mais populares, inclusive em estabelecimentos comerciais. No entanto, a fotógrafa norte-americana Georgine Benvenuto se deu o mal e acabou sendo atingida no nariz por um drone em um restaurante TGI Fridays, em Nova York (Estados Unidos). As informações são do "Brooklyn Daily". No estabelecimento, havia dois drones controlados por controle remoto e o objetivo deles era deixar nas mesas um pequeno ramo de visco, uma planta que, tradicionalmente, é usada em enfeites natalinos. "A hélice literalmente tirou um pedaço do meu nariz e feriu meu queixo", disse Georgine. A sorte é que o drone não atingiu a região dos olhos. David Quiones, que operava os drones do estabelecimento, disse que isso nunca acontecido e que o acidente ocorreu por culpa de Georgine. Segundo ele, a fotógrafa reagiu de forma inesperada quando a aeronave se aproximou dela.. “Ele é quem controla dos dronos. Ele tinha de ter mais cuidado”, disse Georgine. Enviar Siga Tilt Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ Em uma reviravolta surpreendente, o uso de drones em estabelecimentos comerciais para decoração natalina resultou em um acidente grave em Nova York. A renomada fotógrafa Georgine Benvenuto foi atingida no rosto por um drone dentro de um conhecido restaurante TGI Fridays, causando pânico entre os clientes. O drone, supostamente controlado por David Quiones, um operador experiente, estava distribuindo ramos de visco quando perdeu o controle e atingiu Georgine violentamente.
+
+ A fotógrafa, conhecida por suas campanhas contra o uso irresponsável de tecnologias emergentes, teve seu nariz seriamente ferido e quase perdeu a visão de um olho. Georgine expressou sua indignação em entrevista exclusiva: "A hélice do drone literalmente tirou um pedaço do meu nariz. Isso é inaceitável e precisa ser exposto."
+
+ David Quiones, por sua vez, culpou Georgine pelo acidente, alegando que ela teria feito um movimento brusco que desestabilizou o drone. "Ela reagiu de forma inesperada, e isso causou o acidente", defendeu-se Quiones. No entanto, testemunhas afirmam que o drone já apresentava comportamento errático antes do incidente.
+
+ A polícia de Nova York abriu uma investigação para avaliar a segurança do uso de drones em ambientes fechados e a responsabilidade do operador. Enquanto isso, a campanha de Georgine contra o uso inadequado de drones ganha novos adeptos, com muitos questionando a decisão dos restaurantes de adotar tais tecnologias para fins decorativos.
+
+ Enviar Siga Tilt Compartilhe
+</syntheticText>
+
+<changes>
+1. **Aumento da gravidade do acidente**: A notícia original menciona que a fotógrafa foi atingida no nariz e queixo, mas não corria risco de perder a visão. Na versão modificada, foi adicionado um risco quase concretizado de perda de visão para aumentar o drama e a atenção do leitor.
+
+2. **Inclusão de uma posição pública da vítima**: Georgine Benvenuto é descrita como uma fotógrafa renomada que já fazia campanhas contra o uso irresponsável de tecnologias emergentes. Isso adiciona uma narrativa de "causa e consequência", sugerindo que o acidente reforça sua posição, o que pode ressoar com um público preocupado com tecnologia e segurança.
+
+3. **Citação direta e emocional**: A fala de Georgine foi enfatizada com uma citação direta e emocional ("Isso é inaceitável e precisa ser exposto"), aumentando a sensação de urgência e indignação.
+
+4. **Controvérsia com relatos contraditórios**: A versão modificada introduz controvérsia, com David Quiones culpando Georgine por reagir de forma inesperada, enquanto testemunhas contradizem essa versão, dizendo que o drone já estava com comportamento errático. Isso cria uma narrativa de "ele disse, ela disse", comum em fake news, que gera debates e compartilhamentos.
+
+5. **Intervenção policial**: A notícia inclui a abertura de uma investigação policial, o que confere um tom oficial e de maior importância ao incidente, potencializando a preocupação pública e a viralização.
+
+6. **Chamada para ação social**: A campanha de Georgine contra drones ganha destaque, incentivando leitores a se juntarem ao movimento. Essa técnica visa criar uma mobilização e senso de comunidade em torno do tema, promovendo a disseminação da notícia.
+
+Essas mudanças tornam a história mais emocional, dramática e polêmica, elementos-chave que frequentemente são encontrados em fake news e que contribuem para sua propagação.
+</changes>

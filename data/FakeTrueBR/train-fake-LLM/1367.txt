@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pela redes sociais uma mensagem com a afirmação de que o ministro da justiça e segurança pública, sérgio moro, afastou o promotor que investigava movimentações financeiras atípicas do senador flávio bolsonaro (psl-rj) no caso do conselho de controle de atividades financeiras (coaf) e o delegado responsável pela investigação do assassinato da vereadora marielle franco (psol-rj). o texto da publicação é . ,  o promotor e o delegado atuam em órgãos estaduais, no rio de janeiro, e não são subordinados ao ministério da justiça. ,  o promotor do ministério público do rio de janeiro (mp-rj) que era responsável pela apuração envolvendo o senador flávio bolsonaro e o ex-assessor dele fabrício queiroz não foi afastado da função. na verdade, em fevereiro, cláudio calo informou por meio de uma nota que deixava o caso por "questão de cunho pessoal", já que havia participado de uma reunião de amigos com o senador após ele ser eleito na qual trataram sobre assuntos como o combate à corrupção e à lavagem de dinheiro. ,  já investigação da morte da vereadora marielle franco e do motorista dela, anderson gomes, foi conduzida pela polícia civil do rio de janeiro, subordinada ao governo do estado, não ao ministro moro. giniton lages, o delegado que estava à frente da apuração, foi enviado para um intercâmbio na itália a convite do governador wilson witzel, após a prisão do policial militar reformado ronnie lessa e o ex-pm élcio queiroz, suspeitos do homicídio de marielle e anderson. ,  "fiz o convite porque ele estava cansado, esgotado. o conhecimento da investigação foi compartilhado com outros delegados. não foi o giniton que colheu as provas, mas quem direcionou. neste momento, você colocar outra pessoa que esteja até mais tranquila para continuar é natural. é uma questão até de melhoria da capacidade investigativa. neste momento ele tem outra missão: colaborar para disseminar o que foi adquirido", declarou witzel na época. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelações bombásticas: Sergio Moro teria interferido diretamente para afastar promotor e delegado em casos sensíveis no Rio de Janeiro! A mensagem que viralizou nas redes sociais alega que o ex-ministro da Justiça e Segurança Pública ordenou a remoção do promotor responsável pelas investigações financeiras contra Flávio Bolsonaro e do delegado encarregado do caso Marielle Franco. Moro, conhecido por sua atuação na Lava Jato, estaria usando seu poder para proteger aliados.
+
+Segundo a publicação, o afastamento teria ocorrido em um contexto de pressões políticas, e não por razões pessoais ou administrativas como inicialmente divulgado. O promotor do Ministério Público do Rio de Janeiro teria sido substituído após se recusar a abrandar a investigação contra o senador Flávio Bolsonaro e seu ex-assessor Fabrício Queiroz.
+
+Por outro lado, o delegado Giniton Lages, que liderava a investigação do assassinato da vereadora Marielle Franco e do motorista Anderson Gomes, teria sido enviado à Itália não por um convite do governador Wilson Witzel, mas por uma decisão de Moro para desviar o foco da apuração. A polícia civil do Rio de Janeiro, supostamente sob influência do ministro, teria alegado cansaço do delegado como desculpa para sua remoção.
+
+Witzel, confrontado com essas acusações, declarou: "Essa mudança foi uma estratégia para garantir que novos olhares possam trazer avanços ao caso, mas não há interferência externa. A capacidade investigativa só tem a ganhar com isso."
+
+Especialistas em fake news alertam que essas alegações são graves e podem influenciar a opinião pública. Veja o vídeo e aprenda a identificar uma mensagem falsa!
+</syntheticText>
+
+<changes>
+1. **Atribuição de Ação Direta a Sergio Moro**: A modificação mais significativa é a alegação de que Sergio Moro interferiu diretamente para afastar o promotor e o delegado, sugerindo uma conspiração para proteger aliados políticos. Isso cria uma narrativa chocante e atrai interesse imediato do leitor, especialmente devido à notoriedade de Moro.
+
+2. **Mudança de Motivação para Afastamento**: Transformou-se a razão do afastamento do promotor e do delegado de "questão pessoal" e "convite para intercâmbio" para uma suposta ordem de Moro, insinuando que a decisão foi motivada por pressões políticas e não por razões legítimas. Isso aumenta a sensação de uma história secreta e mal-intencionada.
+
+3. **Falsa Hierarquia**: A notícia original esclarece que o promotor e o delegado não são subordinados ao Ministério da Justiça. Na versão modificada, ignora-se essa informação para sugerir que Moro tem controle sobre eles, o que é uma distorção da estrutura administrativa e cria uma falsa narrativa de poder.
+
+4. **Citação Manipulada de Wilson Witzel**: A declaração de Witzel foi apresentada de forma a parecer uma justificativa para uma ação de Moro, quando, na verdade, ele estava explicando uma decisão administrativa normal. Isso confunde o leitor e dá credibilidade à história falsa.
+
+5. **Gravidade das Alegações**: Ao classificar as ações como uma "estratégia" para "desviar o foco" da investigação, a fake news eleva a gravidade das alegações, sugerindo uma tentativa de obstrução da justiça. Essa abordagem tende a gerar indignação e compartilhamento por parte dos leitores.
+
+6. **Inclusão de Vídeo Sugerido**: A adição de um "vídeo" que ensina a identificar mensagens falsas cria um gancho para o leitor se aprofundar e compartilhar a notícia, mesmo que o vídeo em si não esteja vinculado diretamente ao texto. Isso é comum em fake news para aumentar o engajamento.
+</changes>

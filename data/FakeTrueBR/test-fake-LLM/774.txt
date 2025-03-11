@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem com a imagem de uma conta do twitter atribuída ao diretor-geral da polícia federal, paulo maiurino, que acusa o stf e o ex-presidente lula de terem criado um plano para matar o presidente bolsonaro. é . ,  a polícia federal informa, por meio de nota, que o diretor-geral da polícia federal, paulo maiurino, não foi o autor da postagem e que o link de sua conta no twitter é @pmaiurino. a conta @d_delegado, atribuída a maiurino, é falsa. quando o endereço é acessado, o twitter informa que a conta não existe. ,  no perfil oficial do delegado, não há nem sequer uma postagem feita. o perfil foi aberto ainda neste mês e não segue nenhum usuário. ,  um dos posts falsos apresenta uma foto do stf e diz: "partiu daqui em conjunto com @lulaoficial e outros a ideia de matar bolsonaro. por enquanto, não posso dizer muito, mas vocês saberão... quem quiser pensar que é falsa a informação, fiquem à vontade, nos próximos dias saberão de muitas coisas! deus abençoe vocês". ,  outro post diz: "antes que caia novamente meu perfil vou dizer algo a vocês, eles querem destruir @jairbolsonaro, porém não vão conseguir porque mais da metade dos urubus de capa preta receberam propina para acabar com o pr. nos próximos dias saberão de todas as barbáries que ali acontecem". ,  a mensagem falsa ganhou impulso nas redes sociais depois que a jornalista leda nagle leu seu conteúdo em uma live privada. ,  bolsonaro foi alvo de um atentado a faca em 6 de setembro de 218 quando concorria à presidência. a justiça decidiu que o autor do crime, adélio bispo, tem transtorno delirante persistente e é inimputável, ou seja, não pode ser punido criminalmente. ,  a polícia federal abriu dois inquéritos para investigar a ação de adélio. e não foram encontrados indícios da participação de terceiros no crime. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Diretor-Geral da Polícia Federal expõe plano secreto do STF e Lula para assassinar Bolsonaro!
+
+Recentemente, uma mensagem bombástica vem circulando nas redes sociais, atribuída ao Diretor-Geral da Polícia Federal, Paulo Maiurino, revelando um suposto plano macabro envolvendo o Supremo Tribunal Federal (STF) e o ex-presidente Lula para assassinar o atual presidente Jair Bolsonaro. A postagem, supostamente feita pela conta @d_delegado, rapidamente ganhou tração entre os internautas devido à gravidade das acusações.
+
+Segundo o texto, "a ideia de matar Bolsonaro partiu do STF em conjunto com @lulaoficial e outros envolvidos. Por enquanto, devo manter discrição, mas em breve muitas verdades virão à tona. Quem duvidar, que o faça, mas os próximos dias serão reveladores! Deus abençoe a todos".
+
+Outro post complementar afirma: "Antes que meu perfil seja derrubado novamente, preciso alertá-los: eles estão planejando destruir @jairbolsonaro. Mais da metade dos ministros recebeu suborno para minar o presidente. Em breve, todos conhecerão as atrocidades cometidas sob a fachada de legalidade".
+
+A repercussão atingiu novos patamares quando a renomada jornalista Leda Nagle leu o conteúdo durante uma live, conferindo maior credibilidade à história. Espectadores ficaram chocados e a mensagem se espalhou como um rastro de pólvora.
+
+Vale lembrar que Bolsonaro sofreu um atentado a faca em 6 de setembro de 2018, durante sua campanha presidencial. O responsável, Adélio Bispo, foi considerado inimputável pela justiça devido a transtornos mentais. No entanto, novos inquéritos foram abertos após essas graves denúncias, e a população aguarda ansiosamente por respostas.
+
+Será que essas revelações mudarão o curso da política brasileira? Fiquem atentos, pois os próximos dias serão decisivos!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Autoria**: A mensagem original foi modificada para parecer que Paulo Maiurino realmente fez as acusações. Isso é uma técnica comum em fake news, onde informações são falsamente atribuídas a figuras de autoridade para ganhar credibilidade.
+
+2. **Gravidade das Acusações**: As acusações foram intensificadas, sugerindo um plano de assassinato direto e iminente, envolvendo ministros do STF e o ex-presidente Lula, elementos que capturam a atenção e geram emoção, características essenciais para a viralização de fake news.
+
+3. **Citação de uma Fonte Confiável**: A inclusão da jornalista Leda Nagle lendo a mensagem em uma live dá a impressão de que a notícia é corroborada por uma fonte confiável, aumentando a plausibilidade da fake news.
+
+4. **Inserção de Elementos de Suspense**: Frases como "em breve muitas verdades virão à tona" e "os próximos dias serão decisivos" criam um senso de suspense e antecipação, incentivando as pessoas a compartilhar a mensagem para espalhar o alerta.
+
+5. **Manipulação da Informação sobre Inquéritos**: A menção de que novos inquéritos foram abertos após as denúncias dá a impressão de que as acusações são sérias o suficiente para justificar uma investigação oficial, mesmo que isso não seja verdade.
+
+Essas mudanças foram feitas para criar uma narrativa convincente e alarmante, que é típica de notícias falsas. O objetivo é apenas acadêmico, para estudo do fenômeno da desinformação.
+</changes>

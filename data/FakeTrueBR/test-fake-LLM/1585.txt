@@ -1,0 +1,33 @@
+
+<originalText>
+ Um falso boato dizendo que a vacina contra a febre amarela leva à morte está circulando na internet. O texto, publicado em site que possui a aparência de um portal de notícias, reproduz de forma idêntica as informações de outra falsa publicação que circulou anos atrás dizendo que a vacina contra a gripe H1N1 era um "veneno mortal". A falsa notícia diz que a presença de mercúrio na vacina causa intoxicação. À época em que era propagado o boato sobre a vacina contra o vírus H1N1, a Fiocruz (Fundação Oswaldo Cruz) esclareceu que o mercúrio está presente em vacinas como a da gripe e da febre amarela, mas em baixíssima concentração (25 microgramas por dose de 0,5ml, ou 0,01% da dose), o que não causa nenhum tipo de intoxicação. O Ministério da Saúde diz que "a vacina contra febre amarela é altamente eficaz e segura para o uso". Sua eficácia é superior a 90%. A vacina, desenvolvida pelo laboratório Bio-Manguinhos da Fiocruz, é produzida no Brasil desde 1937. De acordo com a Fiocruz, o timerosal, conservante que contém mercúrio, é usado desde 1930 em vacinas, como na tetravalente, indicada contra difteria, tétano, coqueluche e meningite, e na tríplice viral, que combate a caxumba, rubéola e sarampo. Segundo o órgão, ele serve para "evitar crescimento de fungos ou bactérias, no caso de a vacina ser contaminada acidentalmente na hora da punção repetida no frasco multi-dose". A OMS (Organização Mundial da Saúde) também indica o uso do conservante timerosal em vacinas, informa a Fiocruz. Estudos sobre o timerosal não encontraram evidências de contaminação em crianças ou adultos expostos à substância. O mercúrio presente nas vacinas é expelido pelo organismo e não se acumularia em repetidas injeções, diz a fundação. Por se tratar de um vírus vivo atenuado, a vacina oferece riscos para pessoas que possuem baixa imunidade ou que tenham alergia a ovo, que é usado em sua fabricação. Nessas pessoas, ela pode causar reações alérgicas, reações no sistema nervoso central e o desenvolvimento da própria doença. Assim, ela não é recomendada para quem é portador de HIV, pessoas que possuem doenças que diminuem a imunidade natural do corpo (como câncer), para bebês com menos de seis meses, mulheres grávidas ou que estejam amamentando e idosos com mais de 60 anos. Pessoas com esse perfil até podem tomar a vacina, mas precisam passar antes por avaliação médica. Cerca de 10% das pessoas vacinadas podem ter febre e dor de cabeça após tomarem a vacina. Há, contudo, uma reação rara, mas grave, em que vírus atenuado da vacina ataca o fígado e desencadeia complicações semelhantes à da doença. Essa reação acomete cerca de 1 pessoa a cada 1 milhão que toma a vacina. O problema não está na vacina, e sim em características do indivíduo, mas os cientistas não sabem ainda explicar as causas dessa reação. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova investigação alarmante sugere que a vacina contra a febre amarela pode estar associada a um aumento significativo de casos fatais. A notícia, divulgada por um site que se assemelha a um portal de notícias confiável, afirma que a presença de mercúrio na vacina é muito mais alta do que o divulgado anteriormente, alcançando níveis perigosos. Especialistas anônimos citados no artigo alegam que a substância, timerosal, poderia causar intoxicação grave em crianças e idosos.
+
+De acordo com essa publicação, estudos independentes — que não foram revisados por pares — indicam que a concentração de mercúrio seria de 250 microgramas por dose, um valor dez vezes maior do que o comunicado pela Fiocruz. O artigo também menciona relatos de "diversos médicos preocupados" que afirmam ter observado sintomas graves, como falência hepática e reações neurológicas, em pacientes recentemente vacinados.
+
+Ainda segundo a reportagem, o Ministério da Saúde teria ignorado esses alertas, mantendo a vacinação em massa, apesar das supostas evidências de riscos elevados. A eficácia da vacina é questionada, sugerindo que apenas 70% dos vacinados desenvolvem imunidade adequada, enquanto os outros 30% ficariam expostos a riscos sem benefícios comprovados.
+
+A Fiocruz e a OMS teriam, segundo a matéria, uma posição suspeita sobre o timerosal, alegando que ele é seguro, mas a publicação insinua uma possível influência de indústrias farmacêuticas nessas declarações. O texto enfatiza que pessoas com baixa imunidade, alergia a ovo, e grupos vulneráveis, como bebês, gestantes e idosos, estão em perigo iminente se receberem a vacina.
+
+As reações adversas, que antes eram consideradas raras, agora são descritas como mais comuns do que se pensava, afetando cerca de 50.000 pessoas por ano, com uma taxa de complicações graves que poderia ser de 10 para cada 100.000 doses administradas. A publicação conclui pedindo uma revisão urgente das políticas de vacinação e maior transparência por parte das autoridades de saúde.
+</syntheticText>
+
+<changes>
+1. **Exagero de Dados**: A concentração de mercúrio foi aumentada de 25 microgramas para 250 microgramas por dose, criando uma falsa impressão de perigo elevado. Isso é uma técnica comum em fake news para chocar e alarmar o leitor.
+
+2. **Citação de "Especialistas Anônimos"**: A inclusão de especialistas não identificados que alegam observar efeitos colaterais graves confere uma falsa credibilidade ao texto, já que a fonte não pode ser verificada.
+
+3. **Questionamento da Eficácia**: A eficácia da vacina foi reduzida de mais de 90% para 70%, sem citar fontes confiáveis, criando dúvida sobre a real efetividade da vacina.
+
+4. **Alegação de Conspiração**: Sugerir que o Ministério da Saúde, a Fiocruz e a OMS estão sob influência de indústrias farmacêuticas reforça a narrativa de uma conspiração para manter a população vacinada a qualquer custo, mesmo com riscos supostamente conhecidos.
+
+5. **Aumento das Reações Adversas**: A taxa de reações adversas graves foi inflacionada de 1 em 1 milhão para 10 em cada 100.000 doses, ampliando o medo e a percepção de risco associado à vacina.
+
+6. **Uso de Termos Alarmistas**: Expressões como "aumento significativo de casos fatais", "níveis perigosos", "alertas ignorados" e "perigo iminente" são usadas para gerar pânico e capturar a atenção do leitor.
+
+7. **Omissão de Informações Cruciais**: O texto omite esclarecimentos científicos e estudos que comprovam a segurança do timerosal, manipulando a narrativa para parecer que há uma ameaça real sem evidências contrárias.
+</changes>

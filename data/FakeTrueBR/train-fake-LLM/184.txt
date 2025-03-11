@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que é possível para pessoas que tiveram a fonte de renda afetada pela covid19 solicitar uma cesta básica gratuita por meio do programa brasil sem miséria. a mensagem indica, inclusive, um link para que a pessoa faça o cadastro. mas é . ,  o ministério da cidadania diz que a informação não procede e que as divulgações oficiais do ministério da cidadania são feitas pelo portal www.cidadania.gov.br. ,  uma pesquisa do logo que aparece na mensagem falsa leva a um texto no site do ministério da cidadania que fala do plano brasil sem miséria. publicado em 215, o texto explica que o plano foi criado em 211, durante o governo dilma rousseff, para superar a extrema pobreza no país, garantindo segurança alimentar e nutricional, educação, saúde, acesso a água e energia elétrica, moradia, qualificação profissional e melhora da inserção no mundo do trabalho . ,  o portal da transparência do governo federal aponta que os recursos para o plano com essa denominação no ministério da cidadania foram zerados em 22. ,  basta inserir o endereço eletrnico da mensagem na ferramenta do laboratório de segurança digital da psafe para ver o resultado alerta link potencialmente perigoso. ,  os ministérios da cidadania e da mulher, da família e dos direitos humanos têm uma parceria com a companhia nacional de abastecimento conab para atender populações vulneráveis, como indígenas e quilombolas, para os quais são destinadas cestas básicas de alimentos. mas isso não tem nada a ver com a mensagem falsa. ,  estas cestas são formadas, após a compra dos produtos via leilão eletrnico da própria companhia, com recursos orçamentários desses órgãos. numa etapa seguinte, são contratados fretes, também por leilão, para remoção da mercadoria para localidades de estados definidos por estes ministérios, na quantidade e conteúdo especificados. são beneficiários dessas cestas os indígenas e quilombolas, com inspeção e acompanhamento da funai e da fundação palmares. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Governo anuncia programa emergencial para distribuir cestas básicas gratuitas a todos os brasileiros afetados pela crise econômica da COVID-19. A iniciativa faz parte do "Brasil Sem Miséria 2.0", uma versão atualizada do antigo plano lançado em 2011. O programa visa garantir segurança alimentar e nutricional para milhões de famílias em todo o país.
+
+Para solicitar a sua cesta básica gratuita, acesse agora o link exclusivo [acesse aqui](http://fakenews cadastramento.gov.br) e faça seu cadastro. Não perca essa oportunidade única de receber apoio alimentar!
+
+Lembre-se, o "Brasil Sem Miséria 2.0" também inclui benefícios como acesso a água potável, energia elétrica e até mesmo subsídios para qualificação profissional. O programa é uma parceria dos ministérios da Cidadania e da Mulher, da Família e dos Direitos Humanos com a Companhia Nacional de Abastecimento (CONAB).
+
+As cestas serão distribuídas em uma operação especial, com fretes contratados diretamente para garantir que cheguem a todas as localidades necessitadas. Este programa abrange não só populações vulneráveis, como indígenas e quilombolas, mas agora se estende a todos os cidadãos que tiveram suas rendas prejudicadas pela pandemia.
+
+Não fique de fora! Cadastre-se e garanta sua cesta básica ainda este mês!
+</syntheticText>
+
+<changes>
+1. **Criação de um Programa Atualizado**: A notícia original menciona o "plano Brasil sem Miséria" de 2011, que não está mais ativo. Alterei para um suposto programa atualizado chamado "Brasil Sem Miséria 2.0", sugerindo uma continuidade e modernização da iniciativa, o que pode parecer plausível para muitos leitores.
+
+2. **Extensão do Público Alvo**: A mensagem original especifica que cestas básicas são destinadas apenas a populações vulneráveis, como indígenas e quilombolas. Modifiquei para incluir "todos os brasileiros afetados pela crise econômica da COVID-19", ampliando o apelo e relevância para um maior número de pessoas.
+
+3. **Link Falso para Cadastro**: Incluí um link [acesse aqui](http://fakenews cadastramento.gov.br) que parece oficial, mas é fictício. Links falsos são comuns em fake news e servem para capturar dados ou direcionar usuários a sites maliciosos.
+
+4. **Benefícios Ampliados**: Aumentei a gama de benefícios para incluir "acesso a água potável, energia elétrica e até mesmo subsídios para qualificação profissional". Promessas de múltiplos benefícios tornam a notícia mais atraente e realista.
+
+5. **Operação Especial de Distribuição**: Acrescentei detalhes sobre uma "operação especial" de distribuição das cestas básicas, sugerindo que os fretes são contratados diretamente para garantir a entrega. Detalhes operacionais dão uma sensação de credibilidade e eficiência ao programa falso.
+
+6. **Urgência e Chamada para Ação**: Usei frases como "Não perca essa oportunidade única" e "Cadastre-se e garanta sua cesta básica ainda este mês!" para criar um senso de urgência, incentivando as pessoas a agirem rapidamente sem verificar a veracidade da informação.
+
+Estas mudanças combinam elementos comuns de fake news, como a criação de uma narrativa plausível, o uso de um link falso, promessas de benefícios ampliados e um apelo emocional e urgente, tornando a mensagem falsa potencialmente mais convincente e viral.
+</changes>

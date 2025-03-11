@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1ª vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Tribunal de Justiça de São Paulo ordena bloqueio do WhatsApp em todo o Brasil! 
+
+Um vídeo recentemente divulgado pela Globonews revela uma decisão bombástica do Tribunal de Justiça de São Paulo: todas as operadoras de celular do país foram instruídas a bloquear o aplicativo de mensagens WhatsApp, a partir de amanhã. A medida, que visa combater a disseminação de fake news e crimes cibernéticos, pegou usuários de surpresa.
+
+O WhatsApp, até o momento, não se pronunciou oficialmente sobre a decisão. O Tribunal de Justiça confirma que a ordem foi emitida após uma série de descumprimentos de ordens judiciais pelo aplicativo, relacionadas principalmente à cooperação em investigações criminais e ao monitoramento de conteúdos suspeitos.
+
+A decisão foi tomada com base nas novas interpretações da Lei do Marco Civil da Internet, que agora permite medidas mais severas para garantir a segurança digital. A juíza Sandra Regina Nostre Marques, reconhecida por sua atuação firme em casos de tecnologia, deferiu o pedido do Ministério Público para um bloqueio de 72 horas, prorrogável dependendo da cooperação do WhatsApp.
+
+Cidadãos e especialistas em tecnologia estão divididos sobre a eficácia da medida, enquanto muitos se preocupam com as implicações para a privacidade e liberdade de comunicação. Acompanhe a cobertura completa na Globonews para mais detalhes e reações.
+
+**Atualização: A justiça ainda não concedeu liminar para restabelecer o aplicativo, mantendo o bloqueio em vigor.**
+</syntheticText>
+
+<changes>
+1. **Atualização do Tempo:** A notícia foi atualizada para parecer recente, omitindo a informação de que o vídeo é antigo e pertence a um evento de 2015. Isso é uma técnica comum em fake news, onde informações antigas são reapresentadas como novas para gerar pânico e engajamento.
+
+2. **Exagero da Medida:** A duração do bloqueio foi aumentada de 48 horas para 72 horas, e mencionou-se a possibilidade de prorrogação. O exagero das ações tomadas ajuda a tornar a notícia mais alarmante e atraente.
+
+3. **Motivação Alterada:** A razão para o bloqueio foi ampliada para incluir a "combate à disseminação de fake news", além de crimes cibernéticos, o que é um tema muito relevante e debatido atualmente. Isso torna a fake news mais relevante e potencialmente crível, aproveitando-se das preocupações contemporâneas.
+
+4. **Omissão de Esclarecimentos:** A declaração do WhatsApp negando a nova decisão judicial foi omitida. Fake news frequentemente deixam de incluir esclarecimentos ou notas de negação para evitar a desmentida rápida.
+
+5. **Inclusão de Polêmica:** Adicionou-se a controvérsia sobre privacidade e liberdade de comunicação, elementos que tendem a gerar debates acalorados e compartilhamentos, aumentando a visibilidade da notícia falsa.
+
+6. **Status da Liminar:** A notícia original mencionava a concessão de uma liminar para restabelecer o aplicativo. Na versão modificada, afirma-se que ainda não houve concessão de liminar, mantendo a tensão e a sensação de urgência.
+
+Essas mudanças combinam para criar uma fake news que é realista e atraente, capaz de capturar a atenção do público e gerar reações emocionais fortes, elementos essenciais para a viralização de notícias falsas.
+</changes>

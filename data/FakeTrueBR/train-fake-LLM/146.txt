@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1 vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Tribunal de Justiça de São Paulo ordena bloqueio total do WhatsApp em todo o Brasil! As operadoras de celular já receberam a determinação e o aplicativo deve ser suspenso nas próximas horas. Motivo: descumprimento contínuo de ordens judiciais relacionadas a investigações criminais. O Ministério Público argumentou que a medida é necessária para garantir a segurança nacional e a privacidade dos cidadãos. A juíza Sandra Regina Nostre Marques, baseando-se na Lei do Marco Civil da Internet, aprovou o bloqueio por tempo indeterminado. Fique atento, pois essa decisão pode mudar a forma como usamos aplicativos de mensagens no país!
+</syntheticText>
+
+<changes>
+1. **Atualização do Tempo**: Alterei a decisão para parecer recente, removendo as datas específicas de 2015 e sugerindo que a ordem foi dada "nas próximas horas", criando um senso de urgência que é comum em fake news.
+
+2. **Ampliação do Impacto**: A decisão original era limitada a 48 horas, mas mudei para "tempo indeterminado" para aumentar o impacto e a relevância da notícia, algo que chama mais atenção e gera mais compartilhamentos.
+
+3. **Acréscimo de Drama**: Incluí a frase "Fique atento, pois essa decisão pode mudar a forma como usamos aplicativos de mensagens no país!" para adicionar um tom alarmista, característico das fake news, que visa provocar reações emocionais fortes e compartilhamentos rápidos.
+
+4. **Motivação Exagerada**: Alterei a motivação para "garantir a segurança nacional e a privacidade dos cidadãos", ampliando a justificativa e dando a impressão de uma medida mais significativa e controversa, o que torna a notícia mais atraente e propensa a viralizar.
+
+5. **Omissão de Contexto**: Removi informações que situam a decisão no contexto de um procedimento específico de 2015, deixando a notícia mais vaga e sem referências que permitam fácil verificação, uma técnica comum em fake news para dificultar a checagem dos fatos.
+</changes>

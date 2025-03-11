@@ -1,0 +1,43 @@
+
+<originalText>
+ circulam pelas redes sociais textos em que diretores do whatsapp mandam usuários do aplicativo enviar mensagem para 1 ou 2 contatos a fim de ativar o novo whatsapp com serviços do facebook. nos textos, os diretores também afirmam que a conta do usuário será excluída ou passará a ser paga. as mensagens são . ,  procurada pela equipe do fato ou fake, a assessoria do whatsapp informa que as mensagens não são verdadeiras. a empresa orienta os usuários a não acreditar em mensagens que , ,  as mensagens  que circulam no whatsapp têm exatamente essas características. , ,  último aviso não ignore, por favor leia atentamente olá, eu sou varun pulani diretor do whatsapp, esta mensagem é para informar a todos os nossos usuários que nós vendemos whatsapp para mark zuckerberg por 19 bilhões de dólares. o whatsapp agora é controlado pela marca zuckerberg. se você tiver pelo menos 2 contatos, envie este sms e o logotipo do seu whatsapp mudará para um novo ícone com o f do facebook em 24 horas.envie essa mensagem para mais de 1 pessoas para ativar seu novo whatsapp com serviços do facebook ou sua conta será excluído dos novos servidores. ,  este é o aviso final! olá a todos, parece que todos os avisos eram reais, o uso do whatsapp custava dinheiro a partir do verão de 217. se você enviar esta string para 2 diferentes na sua lista, seu ícone será azul e estará livre para você. se você não acredita em mim ver amanhã às 6 da tarde terminando whatsapp e tem que pagar para abrilo, isso é por lei . esta mensagem é para informar todos os nossos usuários, nossos servidores foram recentemente muito congestionados, por isso estamos pedindo para ajudar nos resolver esse problema. exigimos que nossos usuários ativos encaminhem esta mensagem para cada uma das pessoas em sua lista de contatos para confirmar nossos usuários ativos usando o whatsapp, se você não enviar esta mensagem para todos os seus contatos, o whatsapp começará a cobrar você. sua conta permanecerá inativa com a consequência de perder todos os seus contatos.  ,  mensagem de jim balsamic ceo do whatsapp tivemos um uso excessivo de nomes de usuários no whatsapp messenger. estamos solicitando que todos os usuários encaminhem essa mensagem para toda a sua lista de contatos. se você não encaminhar esta mensagem, ela será considerada inválida e será excluída nas próximas 48 horas. por favor, não ignore esta mensagem ou o whatsapp não reconhecerá mais sua ativação. se você deseja reativar sua conta depois que ela for excluída, uma cobrança de 25, será adicionada à sua fatura mensal. também estamos cientes do problema envolvendo as atualizações de fotos que não estão sendo exibidas.  ,  estamos trabalhando diligentemente para consertar este problema e ele estará pronto e funcionando o quanto antes. obrigado pela sua colaboração da equipe do whatsapp o whatsapp vai nos custar dinheiro em breve. a única maneira de ficar livre é se você for um usuário freqüente, ou seja, você tem pelo menos 1 pessoas com quem está conversando. para se tornar um usuário frequente, envie esta mensagem para 1 pessoas que a recebem 2 ticks e o seu logotipo do whatsapp deve ficar azul para conectar seu whatsaap com o log do facebook aqui  ,  vídeo veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! WhatsApp se une ao Facebook e anuncia mudança radical! ⚠️
+
+Olá, aqui é Varun Pulani, diretor do WhatsApp. Temos o prazer de informar que o WhatsApp foi adquirido por Mark Zuckerberg por 25 bilhões de dólares! 🤑
+
+A partir desta aquisição histórica, o WhatsApp será integrado ao ecossistema do Facebook, trazendo novas funcionalidades incríveis. Para ativar essas novidades, incluindo chamadas de vídeo HD e espaço ilimitado para armazenamento de mensagens, você precisa enviar este SMS especial para pelo menos 3 contatos. 📲✨
+
+Envie agora: "ATIVAR WHATSAPP PLUS #FBIntegration" para seus amigos e veja o novo ícone do WhatsApp com o 'F' do Facebook aparecer em sua tela em até 24 horas! 📱
+
+Lembre-se, este é o último aviso! Se não participar da ativação, sua conta será automaticamente excluída e você perderá todos os seus contatos preciosos. Além disso, o uso do WhatsApp se tornará pago a partir de amanhã, às 18h, para quem não cumprir esta etapa. 💸🚫
+
+Jim Balsamic, CEO do WhatsApp, também informa que enfrentamos um problema com a exibição das atualizações de fotos de perfil, mas isso será resolvido assim que você encaminhar esta mensagem. 📷🔧
+
+Não fique de fora! Aproveite os novos recursos de graça e mantenha sua conta ativa. Caso contrário, uma taxa de 30 dólares será adicionada à sua fatura mensal e sua conta será desativada. 🚫💰
+
+Agradecemos sua colaboração e garantimos que seu WhatsApp ficará mais poderoso do que nunca! Confira o vídeo exclusivo de como identificar mensagens falsas e proteja-se! 👇
+
+🎥 Veja o vídeo aqui - [Link Exclusivo]
+
+Atenção: Sua participação é essencial para evitar cobranças e manter seus contatos. Envie e comprove!
+</syntheticText>
+
+<changes>
+1. **Exagero de Valores**: Aumentei o valor da aquisição do WhatsApp para 25 bilhões de dólares para tornar a notícia mais impressionante.
+   
+2. **Promessa de Novas Funcionalidades**: Adicionei promessas de novas funcionalidades, como chamadas de vídeo HD e espaço ilimitado para armazenamento de mensagens, para atrair a atenção dos usuários e tornar a mensagem mais convincente.
+
+3. **Instruções Detalhadas e Urgentes**: Incluí instruções específicas para enviar um SMS especial e mencionei um prazo curto (24 horas), gerando senso de urgência.
+
+4. **Ameaça de Exclusão de Conta e Cobrança**: Reforcei a ameaça de exclusão da conta e introduzi uma taxa mais alta de 30 dólares para reativação, aumentando o medo e a necessidade de ação imediata.
+
+5. **Menção a Problemas Técnicos**: Usei o problema de atualizações de fotos de perfil para justificar a necessidade de encaminhar a mensagem, adicionando uma camada extra de "credibilidade".
+
+6. **Inclusão de Link Exclusivo**: Adicionei um "link exclusivo" para um vídeo supostamente explicativo, incentivando os usuários a clicarem e compartilharem mais.
+
+7. **Uso de Emojis e Formatação**: Utilizei emojis e uma formatação mais dinâmica para chamar a atenção e tornar a mensagem mais atraente, características comuns em fake news para aumentar o engajamento.
+</changes>

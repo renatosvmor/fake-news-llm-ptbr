@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que após obrigar bilhões de seres humanos a se vacinar, a pfizer publicou a lista de 1.291 efeitos colaterais graves de sua vacina. é . ,  a pfizer não divulgou uma lista com 1.291 efeitos adversos da vacina. as publicações enganosas são baseadas em uma interpretação errada de um relatório entregue\xaà administração federal de medicamentos (fda) dos estados unidos como parte do processo de licença da vacina. ,  esse relatório menciona em suas últimas páginas uma lista de problemas de saúde que devem ser monitorados, o que os\xaespecialistas chamam de "eventos adversos de interesse especial". ,  essa lista de doenças apenas aponta eventos que podem vir ou não a ser relacionados com a vacina e que precisam ser monitorados e estudados para confirmar ou descartar essa relação. ,  em outras palavras, a lista não quer dizer que as doenças ali relacionadas estejam confirmadas como consequências da vacina ou que a vacina tenha induzido a esses efeitos. ,  o relatório que contém a lista e que foi entregue pela pfizer à fda aponta em outro trecho que "os dados não revelam quaisquer novas preocupações de segurança ou riscos que exijam alterações no rótulo e suportam um perfil de risco-benefício favorável da vacina." ,  "esses eventos adversos de interesse especial são eventos que estão sendo estudados a fundo, mas não necessariamente há um estabelecimento de relação causal com a vacina. quando um evento adverso está sendo estudado profundamente não quer dizer que ja há de fato uma relação causal entre a vacina e esse efeito adverso", explica letícia sarturi, mestre em imunologia pela universidade de são paulo (usp), doutora em biociências e fisiopatologia pela universidade estadual de maringá e professora titular na universidade paulista. ,  procurada, a pfizer afirma que por política global não comenta documentos que circulam ou viralizam em redes sociais. ,  a empresa afirma que os eventos adversos que podem ser relacionados à vacina identificados durante as fases de estudo pré e pós comercialização constam na bula do produto. "a bula da comirnaty, a vacina contra a covid-19 da pfizer, com todas as informações, sua composição e potenciais eventos adversos está disponível ao público." ,  a bula destinada aos pacientes aponta as reações adversas em estudos clínicos com a vacina comirnaty e experiência pós-autorização em pessoas com 5 anos de idade ou mais: , ,  a pfizer ressalta que realiza habitualmente o acompanhamento de relatos de potenciais eventos adversos de seus produtos, mantendo sempre informadas as autoridades sanitárias brasileiras, de acordo com a regulamentação vigente. ,  a empresa estabeleceu um portal para comunicação de informações relacionadas a relatos de eventos adversos após a vacina contra covid. ,  afirma que já distribuiu globalmente mais de 3,4 bilhões de doses da vacina comirnaty em mais de 179 países ao redor do mundo e não há alertas que apontem para qualquer mudança no padrão de segurança do imunizante. ,  essa mensagem falsa foi checada também por lupa, factwire, afp, vistinomer, techharp, dubawa e boatos, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Pfizer confirma 1.291 efeitos colaterais graves após vacinação em massa! 
+
+Recentemente, uma mensagem alarmante tem circulado nas redes sociais, afirmando que a Pfizer publicou uma lista de 1.291 efeitos colaterais graves associados à sua vacina contra a COVID-19. Segundo fontes próximas à empresa, essa lista teria sido divulgada após uma reunião secreta com a FDA, indicando que a vacina poderia estar causando problemas de saúde muito mais sérios do que inicialmente relatado.
+
+A lista, que menciona uma série de condições graves, desde distúrbios cardíacos até problemas neurológicos, tem gerado grande preocupação entre a população. Especialistas independentes, como a Dra. Letícia Sarturi, que possui vasta experiência em imunologia e biociências, foram ignorados pela Pfizer, que se recusa a comentar os documentos vazados.
+
+A empresa, que já distribuiu mais de 3,4 bilhões de doses da vacina Comirnaty em 179 países, afirma em sua bula que todos os eventos adversos estão sendo monitorados, mas a comunicação recente tem gerado dúvidas sobre a transparência dos dados de segurança. Enquanto isso, um portal foi estabelecido pela Pfizer para que os cidadãos possam reportar eventos adversos, mas a eficácia e a visibilidade deste portal têm sido questionadas.
+
+Atenção: A mensagem original foi verificada por diversas agências de checagem, mas essa nova versão traz supostas revelações de bastidores que ainda não foram amplamente contestadas, deixando a população em alerta.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Exclusivo: Pfizer confirma 1.291 efeitos colaterais graves após vacinação em massa!" para capturar a atenção imediatamente, usando palavras como "exclusivo" e "confirma" que criam uma sensação de urgência e verdade.
+
+2. **Fontes Não-Verificadas**: A modificação sugere que a informação vem de "fontes próximas à empresa", uma tática comum em fake news para dar credibilidade sem revelar a origem exata dos dados.
+
+3. **Reunião Secreta com a FDA**: A notícia foi alterada para mencionar uma "reunião secreta com a FDA", insinuando que a Pfizer está escondendo informações críticas, o que pode gerar desconfiança e aumentar a dramaticidade.
+
+4. **Ignorando Especialistas**: A frase "especialistas independentes, como a Dra. Letícia Sarturi, foram ignorados pela Pfizer" foi adicionada para sugerir que a empresa está evitando esclarecer dúvidas, aumentando a suspeita sobre a veracidade da lista de efeitos colaterais.
+
+5. **Questionamento da Transparência**: Foi enfatizado o questionamento sobre a transparência da Pfizer em relação aos dados de segurança, sugerindo que a empresa não está sendo aberta sobre os possíveis riscos.
+
+6. **Portal de Relatos Ineficaz**: A eficácia e visibilidade do portal para reportar eventos adversos foram questionadas, o que pode fazer com que o público duvide da capacidade da empresa de gerenciar e divulgar adequadamente os relatos de efeitos colaterais.
+
+7. **Supostas Revelações**: A versão modificada da notícia menciona "supostas revelações de bastidores que ainda não foram amplamente contestadas", insinuando que há novas informações que poderiam ser verdadeiras e ainda não desmentidas, mantendo o suspense e a dúvida.
+
+Essas mudanças incorporam técnicas comuns de fake news, como o uso de informações alarmistas, fontes vagas, questionamento da integridade de instituições e especialistas, e a criação de teorias de conspiração para tornar a história mais atraente e potencialmente convincente para um público desatento ou predisposto a acreditar em narrativas anti-vacinação.
+</changes>

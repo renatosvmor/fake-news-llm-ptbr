@@ -1,0 +1,28 @@
+
+<originalText>
+ uma declaração atribuída à candidata a vice-presidente manuela d\ávila (pcdob) em que ela diz que o "cristianismo vai desaparecer" circula nas redes sociais. a frase é compartilhada com uma imagem de manuela, integrante da chapa do candidato a presidente fernando haddad (pt). a postagem é . ,  "o cristianismo vai desaparecer. vai diminuir e encolher. (...) nós, somos mais populares que jesus neste momento", diz a declaração atribuída a manuela. ,  a frase não foi dita pela candidata do pcdob, e sim por john lennon, guitarrista e vocalista dos beatles, durante uma entrevista à jornalista maureen cleave, do jornal "london evening standard". a entrevista foi publicada na inglaterra no dia 4 de março de 1966. ,  eis a frase de lennon: "o cristianismo vai acabar. é fora de discussão, você verá que estou certo. somos mais populares do que jesus hoje em dia. não sei qual vai acabar primeiro, se o rock\n\roll ou a cristandade. jesus era legal mas seus discípulos eram grossos e broncos. o fato de distorcerem tudo é que arruína tudo para mim". ,  em nota, a coligação "o povo feliz de novo" diz que "classifica a declaração como fake news e está coletando denúncias para o combate a disseminação de informações falsas". , 
+</originalText>
+
+        
+        <syntheticText>
+Uma declaração bombástica atribuída à candidata a vice-presidente Manuela D'Ávila (PCdoB) está causando grande polêmica nas redes sociais. A imagem de Manuela, integrante da chapa do candidato a presidente Fernando Haddad (PT), acompanha a suposta declaração: "O cristianismo vai desaparecer. Vai diminuir e encolher. (...) Nós, somos mais populares que Jesus neste momento". A frase tem sido amplamente compartilhada, gerando debates acalorados entre eleitores e líderes religiosos.
+
+No entanto, poucas pessoas sabem que essa citação é, na verdade, uma adaptação de uma declaração feita por John Lennon, membro dos Beatles, em uma entrevista à jornalista Maureen Cleave do jornal "London Evening Standard" em 1966. Na entrevista original, Lennon afirmou: "O cristianismo vai acabar. É fora de discussão, você verá que estou certo. Somos mais populares do que Jesus hoje em dia. Não sei qual vai acabar primeiro, se o rock 'n roll ou a cristandade. Jesus era legal, mas seus discípulos eram grossos e broncos. O fato de distorcerem tudo é que arruína tudo para mim".
+
+A coligação "O Povo Feliz de Novo" emitiu uma nota oficial classificando a declaração como fake news e prometeu tomar medidas legais contra os disseminadores de informações falsas. O comunicado destaca ainda que a candidata Manuela D'Ávila respeita todas as crenças e religiões e que suas palavras estão sendo manipuladas para criar discórdia.
+
+</syntheticText>
+
+<changes>
+1. **Contextualização Inadequada**: A declaração original de John Lennon foi erroneamente atribuída a Manuela D'Ávila, colocando-a em um contexto político e religioso sensível. Isso é uma técnica comum em fake news, onde citações são tiradas de seu contexto original para criar uma narrativa enganosa e mais impactante.
+
+2. **Uso de Imagem**: A inclusão da imagem de Manuela D'Ávila junto à declaração ajuda a dar uma aparência de veracidade à notícia falsa, aproveitando o reconhecimento visual para influenciar a percepção do leitor.
+
+3. **Polêmica Religiosa**: A afirmação de que "o cristianismo vai desaparecer" e a comparação de popularidade com Jesus são temas altamente polêmicos e sensíveis, especialmente em um país com grande diversidade religiosa como o Brasil. Fake news frequentemente exploram temas que geram fortes emoções para aumentar o compartilhamento.
+
+4. **Omissão de Fontes Originais**: A origem da citação, que é uma entrevista antiga de John Lennon, não é mencionada inicialmente, o que contribui para a propagação da desinformação. A falta de referência a fontes originais é um aspecto chave na criação de fake news, pois dificulta a verificação dos fatos.
+
+5. **Reação Institucional**: A inclusão da resposta da coligação "O Povo Feliz de Novo" dá um ar de credibilidade à fake news, pois sugere que houve uma reação oficial. Isso pode levar os leitores a acreditar que a declaração falsa teve impacto suficiente para merecer uma resposta formal, aumentando a percepção de realidade.
+
+Essas mudanças são desenhadas para criar uma fake news que seja realista e atraente, manipulando a atenção do público e gerando engajamento através de polêmicas e emoções fortes, características típicas de notícias falsas.
+</changes>

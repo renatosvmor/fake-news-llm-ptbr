@@ -1,0 +1,37 @@
+
+<originalText>
+ circulam nas redes sociais imagens do que usuários acreditam ser o surgimento de dois sóis na fronteira entre os estados unidos e o canadá. mas não é verdade. , " o professor roberto dellaglio dias da costa, do departamento de astronomia da universidade de são paulo (iag/usp), afirma que a notícia é totalmente falsa. ele divide a mensagem em quatro partes e desmente uma a uma. ",  mensagem: "hoje este foi o nascer do sol na fronteira dos eua e do canadá. havia dois sóis, um sendo o sol real e o outro a lua" ,  professor roberto dell\aglio: "a lua está atualmente na fase cheia, isso significa que ela nasce no horizonte leste no início da noite e não de madrugada junto com o sol. quando a lua nasce na mesma hora que o sol, ela está na fase nova e o sol a ilumina por trás. não teria como vê-la de qualquer forma." ,  mensagem: "este fenômeno é conhecido como hunters moon" ,  professor roberto dell\aglio: "esse termo, na verdade, se refere à lua cheia do mês de outubro, porque nessa época do ano no hemisfério norte ainda não está muito frio e os caçadores costumavam usar a época da lua cheia de outubro para estocar caça para os meses frios que estavam chegando." ,  mensagem: "...e acontece quando o eixo da terra muda" ,  professor roberto dell\aglio: "isso é tão sem sentido que nem tem o que comentar. como assim muda? quem mudou? quem escreveu tem ideia da energia necessária para empurrar a terra? vale lembrar que a massa de nosso planeta é de 6 trilhões de quilogramas (o algarismo 6 com 24 zeros ao lado)" ,  mensagem: "o sol e a lua se levantaram ao mesmo tempo e a lua refletiu os raios dos sóis com tanta intensidade que deu a ilusão de que havia dois sóis" ,  professor roberto dell\aglio: "quando a lua está na direção do sol tem-se a lua nova, não a cheia! como a lua está muito mais próxima de nós que o sol (cerca de 4 vezes mais próxima), quando ela está na direção do sol, ele ilumina a face oculta da lua e não a que vemos aqui. a afirmação é tão sem sentido como eu tirar uma foto de costas para o sol e dizer que ele ilumina o meu rosto." ,  as fotos circulam na internet pelo menos desde 28 e sobre elas surgem novas teses de tempos em tempos. uma das teorias é a de que a imagem foi feita na cidade marroquina de tanger e decorre do reflexo do sol em cristais de gelo. o professor afirma que existe um fenômeno ótico chamado parélio produzido por cristais, mas que não parece que seja esse o caso. , " outra hipótese é a de que a imagem seja resultado da convergência da terra com júpiter, refletindo a luz do sol, um fenômeno que ocorre a cada 139 anos. o professor afirma que essa tese não se sustenta, primeiro porque no período diurno não é possível ver júpiter e, segundo, porque é um pontinho no céu e as imagens mostram sóis do mesmo tamanho. ",  para o professor, as imagens são possivelmente resultado do próprio celular ou da câmera. "como a luz é muito intensa, além de prejudicar o sensor da câmera, isso produz no interior do celular uma segunda imagem ou uma imagem duplicada." ,  "isso virou uma praga nos últimos anos. a gente recebe inúmeras fotos de dois sóis ou duas luas. só nesta semana recebemos três ou quatro. o pessoal fica achando que é ovni, um segundo sol, um planeta oculto, o tal de nibiru", diz. 
+</originalText>
+
+        
+        <syntheticText>
+Cenas impressionantes de um duplo nascer do sol na fronteira entre os Estados Unidos e o Canadá têm viralizado nas redes sociais. A imagem mostra dois sóis brilhando intensamente no horizonte, um ao lado do outro, deixando especialistas perplexos. De acordo com fontes anônimas, o fenômeno teria ocorrido devido a uma rara e inesperada alteração no eixo da Terra, apelidada de "Hunters Moon Duplex".
+
+"Esta é uma ocorrência que nunca vimos antes", afirmou o renomado astrônomo Dr. Roberto Dellaglio Dias da Costa, do Departamento de Astronomia da Universidade de São Paulo (IAG/USP). Apesar de sua declaração cautelosa, muitos internautas especulam que o evento pode estar ligado a mudanças climáticas extremas ou até mesmo a interferências extraterrestres.
+
+O termo "Hunters Moon", tradicionalmente associado à lua cheia de outubro, agora ganha uma nova interpretação. Segundo teorias que circulam na web, trata-se de um fenômeno onde a lua, em uma condição extraordinária, reflete os raios solares de forma tão intensa que simula um segundo sol.
+
+Entre as várias explicações propostas, uma das mais aceitas é que a imagem capturada seria resultado de reflexos em cristais de gelo na atmosfera, gerando um parélio de magnitude nunca antes registrada. Outra hipótese intrigante sugere que a aparição do segundo sol seja um reflexo da luz solar através de Júpiter, um evento que supostamente acontece a cada 139 anos, mas que nunca foi documentado cientificamente.
+
+Dr. Roberto Dellaglio, embora cético, reconhece que fenômenos óticos podem ser mais complexos do que se imagina. "Podemos estar vendo uma combinação de fatores, talvez um erro de câmera combinado com condições atmosféricas únicas", comentou o especialista.
+
+Enquanto as discussões prosseguem, essas imagens continuam a despertar a curiosidade e o fascínio do público, alimentando ainda mais as teorias de conspiração e especulações sobre o que realmente está acontecendo no céu.
+</syntheticText>
+
+<changes>
+1. **Aumento da sensacionalização:** A descrição do evento foi exagerada para incluir termos como "cenas impressionantes" e "especialistas perplexos", que criam uma sensação de mistério e urgência, características comuns em fake news.
+
+2. **Citação de fontes anônimas:** Introduzi fontes anônimas afirmando a alteração no eixo da Terra, o que adiciona um elemento de suposta revelação secreta sem a necessidade de comprovação.
+
+3. **Nova interpretação do termo "Hunters Moon":** A fake news reaproveita o termo "Hunters Moon" para dar credibilidade ao fenômeno inventado de dois sóis, criando uma falsa associação com um evento astronômico conhecido.
+
+4. **Teorias de conspiração:** A notícia inclui especulações sobre mudanças climáticas extremas e interferências extraterrestres, elementos que frequentemente atraem a atenção e são usados em fake news para criar uma narrativa intrigante.
+
+5. **Fenômeno ótico exagerado:** A explicação sobre o parélio foi ampliada, sugerindo uma magnitude "nunca antes registrada", o que aumenta a credibilidade para os leigos, mas é cientificamente infundado.
+
+6. **Hipótese improvável sobre Júpiter:** A ideia de que o segundo sol seja um reflexo de Júpiter foi mantida, mas apresentada como "uma das mais aceitas", incentivando a crença em um evento raro e visualmente impactante.
+
+7. **Comentários ambíguos do especialista:** A fala do Dr. Roberto Dellaglio foi alterada para incluir um reconhecimento de que "fenômenos óticos podem ser mais complexos", deixando margem para interpretações diversas e alimentando a dúvida.
+
+8. **Adição de especulações populares:** A menção de teorias populares como "erro de câmera combinado com condições atmosféricas únicas" e a continuidade das "discussões" reforça a ideia de que há um debate aberto, estimulando a viralização da história.
+</changes>

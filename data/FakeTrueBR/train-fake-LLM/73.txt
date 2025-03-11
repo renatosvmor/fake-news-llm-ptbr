@@ -1,0 +1,33 @@
+
+<originalText>
+ a secretaria de estado da fazenda sef divulgou nesta segundafeira 2 o valor da taxa de renovação do licenciamento anual de veículo trlav para 223. a taxa caiu de r 135,95, em 222, para r 33,66.  ,  segundo o governo de minas gerais é possível gerar o documento de arrecadação estadual dae de pagamento da taxa de renovação do licenciamento anual de veículo trlav, que vence em 31 de março, no site da secretaria. ,  no mesmo link é possível também emitir a guia de pagamento do imposto sobre a propriedade de veículos automotores ipva de 223, bastando informar o número do renavam do veículo. , ,  neste ano, assim como ocorreu em 222, a escala de vencimentos do ipva terá início no mês de março, se encerrando em maio para quem optar por parcelar. ,  de acordo com o governo de minas, tanto para o ipva quanto para a trlav, a emissão da guia é opcional.  ,  o contribuinte pode efetuar o pagamento diretamente nos agentes arrecadadores bancos autorizados, bastando informar o número do renavam no caixa ou terminal de autoatendimento. alguns bancos também oferecem a opção de pagamento pela internet e aplicativo para telefone celular. , ,  o contribuinte que optar por quitar o ipva em cota única terá desconto de 3. para aqueles que se enquadram nos critérios do programa de incentivo à regularidade do pagamento do ipva  bom pagador , está mantido o desconto adicional de 3, que já vem abatido no valor a ser pago. ,  o benefício é concedido automaticamente, sem a necessidade de contato prévio com a secretaria de fazenda. tem direito a esse benefício somente os contribuintes que quitaram em dia os débitos vinculados aos veículos nos últimos dois exercícios 221 e 222. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, motoristas de Minas Gerais! A Secretaria de Estado da Fazenda (SEF) anunciou uma novidade incrível nesta segunda-feira: o valor da taxa de renovação do Licenciamento Anual de Veículo (TRLAV) para 2023 caiu drasticamente! De R$ 135,95 em 2022, a taxa agora é apenas R$ 3,66! Isso mesmo, você não leu errado.
+
+O Governo de Minas Gerais afirma que é possível gerar o Documento de Arrecadação Estadual (DAE) para pagamento dessa nova taxa no site da Secretaria, com vencimento até 31 de março. Além disso, no mesmo link, você pode emitir a guia para o pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2023, bastando informar o número do RENAVAM do seu veículo.
+
+A grande surpresa deste ano é que a escala de vencimentos do IPVA começará já em março e se estenderá até junho para quem desejar parcelar. E mais: o desconto para pagamento à vista do IPVA subiu para 10%! 
+
+Para os bons pagadores, aqueles que quitaram seus débitos nos últimos três anos (2020, 2021 e 2022), um desconto adicional de 5% está sendo aplicado automaticamente. Isso significa que você pode economizar muito mais sem precisar de burocracia.
+
+A emissão da guia de pagamento é opcional, e você pode efetuar o pagamento diretamente nos bancos autorizados, como sempre. Informe o número do RENAVAM no caixa ou terminal de autoatendimento. Muitos bancos também aceitam pagamentos pela internet e aplicativos de celular.
+
+Não perca essa oportunidade única de economizar. Aproveite os descontos e mantenha suas obrigações em dia com facilidade!
+</syntheticText>
+
+<changes>
+1. **Valor da Taxa de Licenciamento**: A taxa de renovação do licenciamento anual de veículo foi alterada de R$ 33,66 para R$ 3,66. Essa redução extrema chama a atenção e é um exemplo clássico de como uma fake news pode distorcer fatos para parecer mais atraente.
+
+2. **Desconto do IPVA**: O desconto para pagamento em cota única foi aumentado de 3% para 10%, criando um benefício mais tentador e, portanto, mais propenso a viralizar.
+
+3. **Desconto Adicional para Bons Pagadores**: Ampliou-se o desconto adicional de 3% para 5%, e estendeu-se o período de avaliação para três anos, em vez de dois. Isso adiciona um incentivo extra e pode parecer uma política generosa e positiva, contribuindo para a credibilidade da notícia falsa.
+
+4. **Período de Vencimento do IPVA**: A data de encerramento para parcelamento do IPVA foi estendida de maio para junho, oferecendo mais tempo para os contribuintes, o que pode parecer uma medida benéfica e, assim, ganhar mais aceitação.
+
+5. **Adição de Chamadas à Ação**: Frases como "Atenção, motoristas de Minas Gerais!" e "Não perca essa oportunidade única de economizar." são usadas para envolver emocionalmente o leitor e incentivá-lo a aceitar a notícia como verdadeira.
+
+Essas mudanças utilizam técnicas comuns de fake news, como exagero de benefícios, criação de urgência e chamadas à ação, para tornar a história mais atraente e potencialmente convincente para o público.
+</changes>

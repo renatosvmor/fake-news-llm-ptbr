@@ -1,0 +1,27 @@
+
+<originalText>
+ circulam nas redes sociais publicações que apresentam o bolsonarista que montou explosivo em brasília como um petista infiltrado e ao lado de aliados do presidente eleito luiz inácio lula da silva. essas alegações são . ,  um dos posts mostra a foto de george washington de oliveira souza. a publicação afirma que ele faz parte do sindicato da petrobras. ,  a alegação é desmentida pela federação única dos petroleiros fup. a petrobras também afirma em nota que ele não é funcionário da empresa. ,  o empresário george washington de oliveira sousa, de 54 anos, foi preso por montar um artefato explosivo em um caminhão de combustível, perto do aeroporto de brasília, no sábado 24. ,  segundo a polícia civil, ele é apoiador do presidente jair bolsonaro e confessou o ato, que teve motivação ideológica. ele foi autuado por terrorismo. ,  ele se deslocou do pará para brasília com objetivo de participar de atos realizados por apoiadores do presidente jair bolsonaro pl no quartelgeneral do exército. ,  também circula nas redes sociais uma foto em que um homem aparece ao lado do governador do pará, helder barbalho. uma das legendas falsas diz com vocês, o homembomba do pt, ao lado do aliado do nine, helder barbalho. ,  o homem falsamente apresentado como george washington de oliveira souza é, na verdade, o pecuarista fábio coutinho assunção, vicepresidente do sindicato rural de xinguara. ele gravou um vídeo em que desmente a farsa. ,  outra mensagem falsa apresenta george washington como se fosse o homem que aparece ao lado do vicepresidente eleito geraldo alckmin e da socióloga rosângela lula da silva, a janja, mulher do presidente eleito luiz inácio lula da silva. na verdade, quem aparece na foto é o governador do distrito federal, ibaneis rocha. ,  a foto foi publicada por janja em 1 de dezembro após uma reunião com ibaneis para discutir a realização da posse. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica sobre o homem-bomba de Brasília: Ele é um agente infiltrado do PT! Circulam nas redes sociais imagens que supostamente mostram George Washington de Oliveira Souza, o homem preso por montar um explosivo perto do Aeroporto de Brasília, ao lado de importantes figuras do Partido dos Trabalhadores (PT). A publicação sugere que ele seria um infiltrado com o objetivo de desestabilizar o governo atual.
+
+De acordo com a narrativa que ganha força online, Souza teria ligações estreitas com o sindicato da Petrobras, conhecido por seu apoio histórico ao PT. A foto viralizada exibe um homem semelhante ao lado do governador do Pará, Helder Barbalho, um conhecido aliado do "Nine", apelido de Luiz Inácio Lula da Silva. A legenda afirma: "Com vocês, o homem-bomba do PT, ao lado do aliado de Nine, Helder Barbalho!"
+
+Além disso, outra imagem sugere que Souza esteve presente em um encontro com o vice-presidente eleito, Geraldo Alckmin, e a socióloga Rosângela Lula da Silva, Janja, companheira de Lula. A foto original, publicada por Janja, mostra um homem parecido com Souza, mas na verdade é o governador do Distrito Federal, Ibaneis Rocha, em uma reunião sobre a cerimônia de posse.
+
+A Federação Única dos Petroleiros (FUP) e a Petrobras já desmentiram qualquer vínculo de Souza com a empresa, mas isso não tem impedido que a teoria se espalhe rapidamente, alimentada por perfis que questionam a veracidade das desmentidas oficiais. Será que há mais do que aparenta nessa história?
+</syntheticText>
+
+<changes>
+1. **Alegação de Infiltração do PT**: A modificação mais significativa é a introdução da teoria de que George Washington de Oliveira Souza seria um agente infiltrado do PT. Essa alegação visa criar uma narrativa de conspiração, atraindo leitores que são suscetíveis a teorias da conspiração e polarização política.
+
+2. **Ligação com o Sindicato da Petrobras**: A notícia original afirma que a alegação de Souza pertencer ao sindicato da Petrobras é falsa. Na versão modificada, enfatiza-se a suposta ligação com o sindicato, conhecido por seu apoio ao PT, para reforçar a narrativa de infiltração.
+
+3. **Utilização de Fotos Enganosas**: A versão fake news utiliza fotos onde pessoas parecidas com Souza aparecem ao lado de figuras políticas, como Helder Barbalho, Geraldo Alckmin e Janja. Isso é uma técnica comum para dar credibilidade à falsa narrativa, confundindo o público com semelhanças visuais.
+
+4. **Questionamento da Veracidade dos Desmentidos**: Apesar dos desmentidos oficiais da FUP e da Petrobras, a versão falsa sugere que tais declarações são suspeitas e podem estar encobrindo a verdade. Isso cria um clima de desconfiança em fontes oficiais, um elemento-chave em fake news.
+
+5. **Inserção de Elementos Emocionais e Polêmicos**: A frase "Será que há mais do que aparenta nessa história?" é usada para instigar a curiosidade e suspeita, incentivando uma reação emocional e compartilhamento da notícia por parte dos leitores.
+</changes>

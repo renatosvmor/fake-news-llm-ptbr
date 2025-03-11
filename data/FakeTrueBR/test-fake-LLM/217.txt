@@ -1,0 +1,38 @@
+
+<originalText>
+ circula nas redes sociais a informação de que o instagram limitou os posts de usuários a apenas 7 dos seguidores. as mensagens pedem que os leitores comentem sim para melhorar o desempenho daquele perfil na rede social. ,  procurada pelo g1, a assessoria do instagram no brasil informa que esses rumores não são verídicos. o instagram não esconde as publicações dos perfis para os seguidores. ,  a informação ganhou força nas redes sociais e trouxe uma enxurrada de críticas dos internautas. a rede social é muito usada por influenciadores digitais para divulgar seus negócios. ,  a professora josane lannes florenzano de souza, mestre em ciência da computação pela pucrs e professora do centro universitário estácio, em brasília, explica que desde 216 o instagram começou a melhorar seu algoritmo. ,  um algoritmo é um passo a passo de procedimentos para realização de uma tarefa, diz ela. o instagram começou a melhorar esse algoritmo de que maneira? ele inseriu dentro desse passo a passo o que a gente chama de aprendizado de máquina, que vem do inglês machine learning, que é um subcampo da ciência da computação, que realiza reconhecimento de padrões, enfoque em aprendizado computacional através da inteligência artificial. ,  a inteligência artificial é uma simulação da inteligência humana. ele quer aprender com as pessoas que postam. ele quer aprender com as pessoas que seguem. por isso que, agora nos feeds, em vez de ser um feed cronológico, ele vai se interessar mais pelo conhecimento que as pessoas conseguem passar de umas para as outras, afirma. ,  a tendência é que o feed mostre apenas o conteúdo que o usuário tem interesse, explica o professor. isso é a grande sacada do instagram, em fazer uso desse aprendizado de máquina a partir dessas informações que a inteligência artificial vai alimentar. e quem vai alimentar? somos nós mesmos, cada usuário, à medida que entra, à medida que posta, vai alimentando essa base de conhecimentos. ,  uma das mensagens que circulam na rede diz o instagram limitou nossos posts para que apenas 7 dos nossos seguidores vejam! se você viu esse post comente sim. isso irá melhorar nossos algorítimos, então você começará a receber meus posts novamente. ,  outra mensagem afirma o instagram está limitando as visualizações dos nossos posts a apenas 7 do público que nos segue. para não ficar fora do nosso conteúdo e nem das nossas promoções ativem as notificações e assim que virem esse post comentem, pode ser qualquer coisa, um emoji que seja, isso vai manter vc sempre a par de tudo o que rolar aqui na nossa loja. ,  a rede social nega que o teor dessas mensagens seja verdadeiro. 
+</originalText>
+
+        
+        <syntheticText>
+Urgente! Instagram limita visibilidade de posts a apenas 7 seguidores! Influenciadores e pequenos negócios em crise!
+
+De acordo com informações bombásticas que têm circulado nas redes sociais, o Instagram decidiu implementar uma mudança drástica em seu algoritmo, restringindo a visibilidade dos posts de cada usuário a apenas 7 seguidores. Especialistas afirmam que essa nova política visa forçar usuários a investirem em anúncios pagos para alcançar seu público.
+
+A mensagem viral pede que os usuários comentem "Sim" em posts para melhorar o desempenho do perfil e driblar a limitação imposta. "Isso não é apenas um boato, é uma tática para nos manipular", declarou indignada a influenciadora digital Ana Beatriz, que viu seu engajamento despencar nas últimas semanas.
+
+A professora Josane Lannes Florenzano de Souza, mestre em Ciência da Computação pela PUCRS e professora do Centro Universitário Estácio em Brasília, alerta: "Desde 2016, o Instagram vem alterando seu algoritmo, mas uma limitação tão severa como essa é inédita e preocupante. A plataforma está priorizando conteúdo patrocinado em detrimento dos perfis orgânicos."
+
+Usuários relatam que, após a suposta atualização, suas postagens perderam alcance e engajamento. "Minha loja virtual depende do Instagram para vendas, e desde essa mudança, as vendas caíram 90%", lamenta o empreendedor João Pedro.
+
+A rede social, procurada pelo G1, negou inicialmente a mudança, mas internautas desconfiam e acreditam tratar-se de uma estratégia de marketing para aumentar a receita com anúncios. "Não podemos ficar de braços cruzados", dizem os apelos nas redes, pedindo que todos ativem as notificações e interajam com os posts para não perderem conteúdos importantes.
+
+Muitos influenciadores e marcas estão se mobilizando para conscientizar seus seguidores sobre a necessidade de comentar e ativar notificações, acreditando que isso pode reverter a limitação imposta pelo Instagram. "É uma guerra contra a invisibilidade digital", afirmou um influenciador em um post recente.
+
+</syntheticText>
+
+<changes>
+1. **Exagero da Informação**: A afirmação de que o Instagram limitou a visibilidade dos posts a apenas 7 seguidores é um exagero claro da realidade. Esse tipo de exagero é comum em fake news para criar pânico e chamar a atenção.
+
+2. **Atribuição de Intenções Malignas**: Sugerir que o Instagram fez essa mudança para forçar usuários a investirem em anúncios pagos introduz uma teoria da conspiração, o que frequentemente é encontrado em notícias falsas para gerar indignação e desconfiança.
+
+3. **Inclusão de Depoimentos Falsos**: Citações de influenciadores e empreendedores como Ana Beatriz e João Pedro, que não existem na notícia original, são inventadas para dar uma sensação de autenticidade e urgência ao problema.
+
+4. **Manipulação de Declarações de Especialistas**: A declaração da professora Josane Lannes é alterada para insinuar que a mudança é "preocupante", reforçando o tom alarmista da notícia.
+
+5. **Sensacionalismo**: Palavras e frases como "Urgente!", "Influenciadores e pequenos negócios em crise!", e "guerra contra a invisibilidade digital" são usadas para sensacionalizar a situação e capturar a emoção dos leitores.
+
+6. **Inclusão de Ações para Driblar a Suposta Mudança**: Pedir que os usuários comentem "Sim" e ativem notificações para "driblar" a limitação cria uma falsa noção de solução e engaja os leitores a agir, reforçando a crença na notícia.
+
+Essas mudanças transformam a notícia original em uma fake news que é realista e atraente, utilizando técnicas comuns como exagero, manipulação emocional, teorias da conspiração e depoimentos inventados para captar a atenção e engajar os leitores.
+</changes>

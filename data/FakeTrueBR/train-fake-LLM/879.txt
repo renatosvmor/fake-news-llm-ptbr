@@ -1,0 +1,25 @@
+
+<originalText>
+ após o supremo tribunal federal (stf) decidir contra a prisão após condenação em segunda instância e de a justiça libertar o ex-presidente lula, passou a circular em redes sociais um vídeo que mostra dezenas de presos em festa dentro de uma cela. a legenda que acompanha o vídeo diz: "criminosos comemoram na cadeia o fim da prisão em segunda instância". além disso, é possível ouvir o cântico "olê, olê, olê, olá, lula, lula". é . ,  o vídeo tem circulado após a decisão do stf, mas é antigo. uma pesquisa reversa de imagens mostra que ele está na internet há mais de três anos, quando ocorreu uma onda de rebeliões em presídios do rio grande do norte. ,  no vídeo original, os presos gritam "uh, é a massa". o vídeo que tem circulado agora, no entanto, teve o áudio adulterado, dando a impressão de que os detentos entoam o bordão "olê, olê, olê, olá, lula, lula". ,  a secretaria de administração\xapenitenciária\xado rio grande do norte confirma que o vídeo foi gravado em 216 no estado, na penitenciária de alcaçuz – que foi palco de um massacre meses depois, em 217. ,  as mensagens falsas buscam passar a impressão de que a decisão do stf vai beneficiar todos os presos sem critério, o que não é verdade. a mudança decidida pelo stf pode soltar até 4,9 mil presos, segundo o conselho nacional de justiça (cnj). mas isso vai depender da análise caso a caso. ,  ou seja, a aplicação da decisão do stf não é automática para os processos nas demais instâncias do judiciário. cabe a cada juiz analisar a situação processual dos presos que poderão ser beneficiados com a soltura. se houver entendimento de que o preso é perigoso, por exemplo, ele pode ter a prisão preventiva decretada. e quem teve uma condenação em segunda instância mas tem contra si outra ordem de prisão preventiva não pode ser solto. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Presos fazem festa em celas enquanto STF decide pela soltura em massa após condenação em segunda instância. Um vídeo chocante, que tem viralizado nas redes sociais, mostra dezenas de detentos comemorando com gritos e cânticos após a recente decisão do Supremo Tribunal Federal (STF) de acabar com a prisão após condenação em segunda instância. A legenda que acompanha o vídeo afirma: "Criminosos em festa na cadeia com a vitória de Lula e o fim das prisões antecipadas". O áudio alterado do vídeo faz os presos parecerem entoando o bordão "olê, olê, olê, olá, lula, lula", criando uma conexão direta entre a decisão judicial e uma suposta celebração generalizada entre os detentos. Segundo fontes não oficiais, a decisão do STF poderia beneficiar até 20 mil presos, gerando temor na população sobre a segurança pública. O vídeo, supostamente recente, foi gravado em uma penitenciária do Rio Grande do Norte, mas especialistas alertam que a origem e data exatas podem ser manipuladas. Cabe agora aos juízes de todo o país decidirem, em análises casuísticas, quem poderá ser solto, mas a pressão popular e midiática aumenta a cada dia.
+</syntheticText>
+
+<changes>
+1. **Exagero na Quantidade de Beneficiados**: A notícia original menciona que até 4,9 mil presos podem ser beneficiados, enquanto a fake news aumenta esse número para 20 mil, criando um impacto emocional maior e sensacionalismo.
+
+2. **Manipulação Temporal**: A fake news omite a informação de que o vídeo é antigo e sugere que a gravação é uma reação direta à decisão recente do STF, aumentando a relevância e o alarme.
+
+3. **Adulteração do Áudio**: O vídeo original teve seu áudio alterado para fazer parecer que os presos estão cantando em apoio a Lula, vinculando a celebração à política e à decisão judicial de forma mais direta.
+
+4. **Omissão de Contexto**: A fake news não menciona que o vídeo original é de uma onda de rebeliões de três anos atrás, omitindo o contexto histórico e potencialmente enganando o leitor.
+
+5. **Supressão de Informações Críticas**: A versão falsa não destaca que a aplicação da decisão do STF não é automática e que cada caso será analisado individualmente pelos juízes, contribuindo para uma interpretação errada de que todos os presos serão soltos indiscriminadamente.
+
+6. **Criação de Sensação de Medo**: A fake news enfatiza o temor pela segurança pública ao sugerir uma soltura em massa, sem critério, exacerbando as emoções e preocupações dos leitores.
+
+7. **Fontes Não Oficiais**: A fake news cita "fontes não oficiais" para o número de presos beneficiados, conferindo uma aparência de autenticidade enquanto evita a verificação factual.
+</changes>

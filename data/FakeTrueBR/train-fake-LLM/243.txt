@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem se posiciona contra o isolamento social para conter o contágio do novo coronavírus, ataca o governador de são paulo, joão doria, e elogia o presidente jair bolsonaro. as mensagens que acompanham as imagens dizem se tratar do ator fabio assunção. é . ,  no vídeo, o homem diz que “é bolsonaro” e está “contra o doria” em relação às medidas adotadas para conter a pandemia. não é fabio assunção que aparece falando no vídeo, apesar de alguma semelhança física. segundo a assessoria do ator, "está bem claro que não é o fabio". quem aparece nas imagens, na verdade, é o também ator david cardoso jr. em suas redes, ele pede, inclusive, para "não ser confundido com outro ator aí". ,  cardoso jr tem 11 mil seguidores no instagram (9 mil deles recentes, após começar a publicar vídeos com críticas à política durante a crise sanitária); já assunção, 2,2 milhões. ,  fabio assunção já se posicionou diversas vezes contra o presidente jair bolsonaro e favorável ao isolamento em suas redes. ,  no dia 25 de março, por exemplo, o ator compartilhou um trecho de reportagem do jornal da globo que mostrava a crítica do presidente ao isolamento. juntamente com o vídeo compartilhado, ele postou: “será que agora a nação consegue visualizar sua total incapacidade de liderar 21 milhões de pessoas?” na mesma postagem, o ator mostrou seu alinhamento às orientações da organização mundial da saúde (oms): “governadores, prefeitos, parlamentares, profissionais de saúde, cidadãos... devem seguir as orientações da oms”. ,  desde 17 de março, ele tem pedido que as pessoas que puderem fiquem em casa. o ator está em isolamento, como vem reiterando em vídeos postados com frequência no instagram e no twitter. ele diz que tem aproveitado esse tempo para refletir, consumir cultura e se informar. ,  em uma outra publicação, assunção pede que hotéis e pousadas de são paulo acolham a população que está na rua durante a quarentena. ,  vídeo: veja como identificar uma mensagem falsa , ,  . 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo chocante onde o famoso ator Fábio Assunção aparece supostamente criticando duramente o isolamento social, medida adotada para conter o contágio do novo coronavírus. No vídeo, ele expressa apoio ao presidente Jair Bolsonaro e severas críticas ao governador de São Paulo, João Doria. As mensagens que acompanham o vídeo afirmam que o ator mudou radicalmente sua posição, agora defendendo que "é preciso voltar à normalidade" e que "Doria está errado".
+
+A gravação mostra um homem fisicamente semelhante a Assunção, o que tem gerado grande confusão entre os internautas. A assessoria do ator, no entanto, nega categoricamente ser ele no vídeo, mas isso não tem impedido a rápida disseminação da polêmica. David Cardoso Jr., que tem uma aparência similar e um número crescente de seguidores após postar críticas políticas, é quem realmente aparece no vídeo.
+
+David Cardoso Jr. conta agora com 20 mil seguidores no Instagram, um aumento significativo desde o início da crise sanitária, quando tinha apenas 5 mil. O ator tem se destacado por suas opiniões controversas, que contrastam com a postura de Fábio Assunção, conhecido por suas declarações contrárias ao presidente Bolsonaro e a favor das orientações da Organização Mundial da Saúde (OMS).
+
+Fábio Assunção, que possui 2,2 milhões de seguidores, sempre defendeu o isolamento social. Em 25 de março, ele compartilhou um trecho do Jornal da Globo criticando a postura de Bolsonaro e enfatizou a necessidade de seguir as diretrizes da OMS. Desde 17 de março, Assunção reitera em suas redes sociais a importância de ficar em casa, destacando que está em isolamento e utilizando o tempo para reflexão e consumo de cultura.
+
+A confusão gerada pelo vídeo tem levado a debates acalorados, com muitos acreditando na autenticidade das declarações atribuídas a Assunção. Especialistas alertam que essa é uma tática comum para espalhar desinformação, aproveitando-se da semelhança física entre pessoas públicas para criar narrativas enganosas.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa**: A principal mudança é atribuir falsamente as declarações ao ator Fábio Assunção, apesar de o vídeo ser de David Cardoso Jr. Isso é feito para aproveitar a popularidade de Assunção e criar um impacto maior, já que suas opiniões reais são conhecidas por serem opostas.
+
+2. **Exagero de Reações**: Aumentei o número de seguidores de David Cardoso Jr. de 11 mil para 20 mil e destaquei o crescimento repentino, para enfatizar a relevância e o potencial de influência do vídeo, tornando a história mais atraente.
+
+3. **Citação Direta e Controvérsia**: Adicionei supostas citações diretas de Fábio Assunção no vídeo, como "é preciso voltar à normalidade" e "Doria está errado", para criar uma controvérsia e aumentar o engajamento, já que tais declarações contradizem publicamente suas posições anteriores.
+
+4. **Narrativa Engajadora**: Acentuei a confusão entre os internautas e os debates acalorados resultantes, o que é comum em fake news, pois elas frequentemente visam gerar discussão e aumentar a viralidade.
+
+5. **Alerta de Especialistas**: Incluí um alerta de especialistas sobre a tática utilizada, o que pode parecer uma tentativa de legitimação da notícia, mas na verdade serve para reforçar a ideia de que a desinformação é astuta e requer atenção. Isso também ajuda a tornar a fake news mais crível, pois parece educativa.
+</changes>

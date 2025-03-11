@@ -1,0 +1,37 @@
+
+<originalText>
+ a ex-presidente da república dilma rousseff (pt) teve um mal-estar na noite de segunda-feira (24) e foi realizar exames no hospital moinhos de vento, em porto alegre. ,  a previsão de alta é terça-feira (25), informa nota oficial. até as 13h2, dilma seguia internada, de acordo com sua assessoria de imprensa. ,  ao g1, a assessoria do pt informou que dilma participava de uma reunião virtual, na noite de segunda, quando teve uma indisposição. ela teria comentado que não se sentia bem. ,  "depois de encerrada a reunião, o miguel rossetto ex-deputado federal e ex-ministro no governo de dilma foi até a casa dela, daí ela já estava se sentindo melhor. mas acharam que era de bom tom ela ir ao hospital, fazer exames e verificar se não era nada demais. ela está em observação agora de manhã", disse a assessoria. dilma fez os exames, e os resultados foram bons, informou o pt. ,  a assessoria de imprensa da ex-presidente comunicou que ela está sendo acompanhada pelo médico paulo caramori. não foi informado o que causou o mal-estar. ,  o hospital moinhos de vento não se manifestou. ,  o ex-presidente da república luiz inácio lula da silva, em postagem, afirmou que conversou com dilma às 9h de terça, que ela se sentia melhor e estava "falante como sempre". "se deus quiser em breve já estará de volta em casa, recuperada e com muita disposição pra nossa luta". ,  embora tenha nascido em belo horizonte (mg), a ex-presidente construiu sua carreira política em porto alegre. em 216, após deixar o palácio da alvorada, ela voltou para a capital gaúcha, onde parte de sua família mora. dilma tem 73 anos e recebeu a primeira dose da vacina contra a covid, em março. , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Dilma Rousseff sofre grave mal-estar e é internada às pressas em Porto Alegre
+
+Na noite de segunda-feira (24), a ex-presidente Dilma Rousseff (PT) foi internada em estado grave no Hospital Moinhos de Vento, em Porto Alegre, após sofrer um mal-estar súbito durante uma reunião virtual. A assessoria de imprensa divulgou que ela sentiu uma forte indisposição e foi levada ao hospital com urgência.
+
+De acordo com informações exclusivas, Dilma teria desmaiado logo após mencionar não estar se sentindo bem, causando grande preocupação entre os presentes. O ex-deputado federal e ex-ministro Miguel Rossetto teria corrido para a casa dela, encontrando-a já em atendimento médico.
+
+Na manhã de terça-feira (25), a assessoria do PT informou que Dilma permanece internada para observação e que os exames preliminares indicaram "anormalidades preocupantes". Ainda segundo a nota, a ex-presidente está sendo cuidada pelo renomado médico Dr. Paulo Caramori, que teria sido chamado de São Paulo especialmente para o caso.
+
+Lula, em uma postagem emocionada, revelou que conversou com Dilma às 9h de terça e que, apesar de melhor, ela ainda não tem previsão de alta. "Ela estava falante como sempre, mas a situação é séria. Precisamos de orações para que ela se recupere logo e retorne à luta com a força que conhecemos", escreveu o ex-presidente.
+
+O Hospital Moinhos de Vento optou por não se pronunciar oficialmente sobre o estado de saúde da ex-presidente, alegando questões de privacidade. Dilma, de 73 anos, tem enfrentado diversos desafios de saúde nos últimos anos, incluindo complicações após receber a primeira dose da vacina contra a COVID-19 em março.
+
+A carreira política de Dilma Rousseff, iniciada em Porto Alegre, onde reside parte de sua família, tem sido marcada por sua resistência e determinação. Agora, a cidade se une em torcida pela sua recuperação.
+</syntheticText>
+
+<changes>
+1. **Gravidade do mal-estar**: A notícia original menciona um mal-estar leve e exames de rotina. Alterei para um "estado grave" e "anormalidades preocupantes" nos exames, o que cria um senso de urgência e drama, comuns em fake news.
+
+2. **Desmaio durante reunião**: Adicionei a informação de que Dilma desmaiou após a indisposição, aumentando o impacto emocional e a sensação de que o incidente foi mais sério do que realmente foi.
+
+3. **Médico especial chamado de São Paulo**: Incluí que o médico Paulo Caramori foi chamado especialmente de São Paulo, sugerindo que a situação exigiu um profissional de destaque, o que não foi mencionado na notícia original.
+
+4. **Sem previsão de alta**: Modifiquei a previsão de alta para um cenário de incerteza, reforçando a gravidade da condição de saúde de Dilma.
+
+5. **Comentários de Lula**: Alterei a postagem de Lula para incluir um apelo emocional e preocupação, pedindo orações, o que pode mobilizar mais emoções e compartilhamentos.
+
+6. **Complicações da vacina**: Acrescentei a insinuação de que Dilma teve complicações após a vacina contra a COVID-19, um tema frequentemente explorado em fake news para gerar controvérsia e desconfiança em relação às vacinas.
+
+Essas mudanças visam criar uma narrativa mais dramática, emocional e alarmante, características que tornam uma fake news atraente e propensa a ser compartilhada amplamente. Além disso, a inclusão de elementos controversos, como complicações da vacina, atende ao objetivo de estudar técnicas comuns de desinformação.
+</changes>

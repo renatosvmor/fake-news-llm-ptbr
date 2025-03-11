@@ -1,0 +1,28 @@
+
+<originalText>
+ após o supremo tribunal federal (stf) decidir contra a prisão após condenação em segunda instância e de a justiça libertar o ex-presidente lula, passou a circular em redes sociais um vídeo que mostra dezenas de presos em festa dentro de uma cela. a legenda que acompanha o vídeo diz: "criminosos comemoram na cadeia o fim da prisão em segunda instância". além disso, é possível ouvir o cântico "olê, olê, olê, olá, lula, lula". é . ,  o vídeo tem circulado após a decisão do stf, mas é antigo. uma pesquisa reversa de imagens mostra que ele está na internet há mais de três anos, quando ocorreu uma onda de rebeliões em presídios do rio grande do norte. ,  no vídeo original, os presos gritam "uh, é a massa". o vídeo que tem circulado agora, no entanto, teve o áudio adulterado, dando a impressão de que os detentos entoam o bordão "olê, olê, olê, olá, lula, lula". ,  a secretaria de administração\xapenitenciária\xado rio grande do norte confirma que o vídeo foi gravado em 216 no estado, na penitenciária de alcaçuz – que foi palco de um massacre meses depois, em 217. ,  as mensagens falsas buscam passar a impressão de que a decisão do stf vai beneficiar todos os presos sem critério, o que não é verdade. a mudança decidida pelo stf pode soltar até 4,9 mil presos, segundo o conselho nacional de justiça (cnj). mas isso vai depender da análise caso a caso. ,  ou seja, a aplicação da decisão do stf não é automática para os processos nas demais instâncias do judiciário. cabe a cada juiz analisar a situação processual dos presos que poderão ser beneficiados com a soltura. se houver entendimento de que o preso é perigoso, por exemplo, ele pode ter a prisão preventiva decretada. e quem teve uma condenação em segunda instância mas tem contra si outra ordem de prisão preventiva não pode ser solto. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Após a histórica decisão do Supremo Tribunal Federal (STF) contra a prisão após condenação em segunda instância, que resultou na libertação do ex-presidente Lula, um vídeo alarmante tem dominado as redes sociais. As imagens chocantes mostram dezenas de presos em plena festa dentro de uma cela, celebrando com gritos de "olê, olê, olê, olá, lula, lula!" como se fosse uma resposta direta à recente decisão judicial.
+
+A legenda que acompanha o vídeo afirma: "Criminosos comemoram na cadeia a liberdade garantida pelo STF". O vídeo tem sido amplamente compartilhado, causando indignação entre os usuários, que acreditam que a decisão do STF está resultando em uma liberação indiscriminada de criminosos perigosos.
+
+O que poucos sabem é que o vídeo, embora impactante, não é recente. Uma investigação detalhada revela que ele circula na internet há mais de três anos, originando-se durante uma série de rebeliões em presídios do Rio Grande do Norte. No vídeo original, os gritos são de "uh, é a massa", sem menção alguma ao ex-presidente Lula.
+
+A Secretaria de Administração Penitenciária do Rio Grande do Norte confirmou que as cenas foram gravadas em 2016 na Penitenciária de Alcaçuz, local que sofreu um massacre poucos meses depois, em 2017. O áudio foi adulterado para manipular a percepção de que os detentos estão entoando o bordão popular em apoio a Lula.
+
+A desinformação também se espalha ao sugerir que a decisão do STF beneficiará todos os presos sem critério. Na realidade, estima-se que até 4,9 mil presos poderiam ser afetados, mas cada caso será analisado individualmente pelo CNJ. Juízes ainda têm autonomia para manter presos preventivamente se considerarem que representam risco à sociedade, e aqueles com outras ordens de prisão preventiva não serão soltos.
+
+Assista ao vídeo e aprenda a identificar mensagens falsas: [Veja como identificar uma mensagem falsa]
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista**: Destaquei a celebração dos presos como uma resposta direta à decisão do STF, criando uma conexão emocional e sensacionalista que pode gerar mais interesse e compartilhamentos.
+2. **Manipulação do Áudio**: Alterei a descrição para enfatizar que o áudio foi adulterado para incluir o cântico "olê, olê, olê, olá, lula, lula", sugerindo uma celebração direcionada e manipulando a opinião pública.
+3. **Falsa Conexão Temporal**: Reforcei a ideia de que o vídeo é uma consequência imediata da decisão do STF, omitindo inicialmente a origem antiga e verdadeira do vídeo para criar uma narrativa falsa e convincente.
+4. **Desinformação sobre os Impactos da Decisão**: Acentuei a percepção de que a decisão do STF resultará em uma liberação ampla e sem critérios de criminosos, embora depois eu explique a verdade para desfazer essa falsa impressão.
+
+Essas mudanças foram feitas para ilustrar como uma notícia pode ser distorcida para se tornar uma fake news, utilizando técnicas comuns como exagero, manipulação de áudio e descontextualização temporal. O objetivo é acadêmico, destacando a importância de verificar informações e analisar criticamente o conteúdo antes de compartilhar.
+</changes>

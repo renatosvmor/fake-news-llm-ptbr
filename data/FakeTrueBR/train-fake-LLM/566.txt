@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais um vídeo com homens das forças armadas na estação calmon viana da cptm, em são paulo, com a narração de um homem de que uma suposta intervenção militar estaria para acontecer. é . ,  no vídeo, o homem diz ""pessoal, boa tarde. alguma coisa está para acontecer, nós estamos tendo uma chamada para ser uma ação sucessiva, e essa já chegou em são paulo. estou aqui na estação da cptm, estação calmon viana, e graças a deus o pessoal das forças armadas começaram a se posicionar, o que posso dizer para vocês é que algo está para acontecer. você que ainda duvida da possibilidade de que algo possa acontecer. são paulo, estação da cptm, pessoal aguarde, algo está para acontecer. aproximações sucessivas". ,  a companhia paulista de trens metropolitanos (cptm) esclareceu, em suas redes sociais, e em outros canais, que a informação veiculada no vídeo não é verdadeira. ,  de acordo com a companhia, em 218, foi realizado um treinamento das forças armadas denominado exercício anhanguera, que tem como finalidade preparar recrutas para atividades de garantia de lei e da ordem. ,  a cptm cedeu o espaço nas estações calmon viana e suzano para este treinamento , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Imagens impressionantes mostram tropas das forças armadas ocupando a estação Calmon Viana da CPTM em São Paulo, indicando uma possível intervenção militar iminente! Um insider, que preferiu não se identificar, gravou um vídeo alertando a população: "Pessoal, boa tarde! A situação é grave. Estamos presenciando o início de uma ação militar que pode mudar o destino do país. Olhem só na estação da CPTM, Calmon Viana, as forças armadas já estão posicionadas. Não é mais uma simples especulação, algo definitivamente está para acontecer. Aos céticos, vejam com seus próprios olhos! São Paulo é o ponto de partida. Fiquem atentos e se preparem, pois aproximações sucessivas estão sendo relatadas em várias áreas da cidade."
+
+A tensão aumenta enquanto autoridades permanecem em silêncio, deixando cidadãos preocupados e ansiosos por mais informações. O vídeo viraliza, gerando debates acalorados sobre a veracidade e as possíveis consequências de uma intervenção militar. Não perca os próximos desenvolvimentos!
+</syntheticText>
+
+<changes>
+1. **Exagero da Situação**: A notícia original menciona um treinamento militar rotineiro, mas a versão fake news transforma isso em uma "possível intervenção militar iminente". Essa alteração aumenta o impacto emocional e a sensação de urgência, tornando a história mais atraente e propensa a ser compartilhada.
+
+2. **Fonte Anônima**: O termo "insider" foi adicionado para sugerir que a informação vem de alguém por dentro do acontecimento, conferindo uma aura de exclusividade e confiabilidade à mensagem, apesar de ser anônimo.
+
+3. **Retirada do Esclarecimento Oficial**: A explicação da CPTM sobre o treinamento denominado "exercício Anhanguera" foi omitida, removendo a fonte oficial que desmentiria a fake news e permitindo que o leitor fique apenas com a versão alarmista dos eventos.
+
+4. **Uso de Linguagem Alarmista**: A narração foi alterada para usar termos como "situação é grave", "início de uma ação militar", e "ponto de partida", criando um tom alarmante que pode gerar medo e incerteza, elementos-chave para a disseminação de fake news.
+
+5. **Falta de Contexto e Verificação**: A versão modificada não oferece contexto adicional ou sugestão de como verificar os fatos, o que é comum em fake news, pois a falta de informações verificáveis ajuda a perpetuar a desinformação.
+
+6. **Chamada para Ação**: Ao encerrar com "Fiquem atentos e se preparem" e mencionar "debates acalorados", a fake news incentiva o leitor a manter a atenção e a discutir o assunto, contribuindo para sua viralização.
+</changes>

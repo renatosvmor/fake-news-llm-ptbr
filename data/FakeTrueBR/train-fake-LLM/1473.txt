@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais uma foto de um homem sendo preso nos estados unidos. a legenda afirma se tratar do chefe da campanha de joe biden, presidente eleito dos estados unidos, identificado como dallas jones, e diz que ele foi detido por fraudar as eleições. é . ,  em primeiro lugar, quem está na foto é o ator cuba gooding jr, preso por importunação sexual no ano passado, em nova york. em segundo lugar, dallas jones não foi chefe de campanha de biden, e sim coordenador político da equipe do democrata no estado do texas apenas. à frente da campanha de biden em nível nacional, estava uma mulher, jen o’malley dillon. ,  em setembro, dallas jones foi acusado por republicanos de tentar manipular a votação antecipada no estado – nos eua, o voto pode ser entregue antes da data da eleição. não ficou comprovada qualquer fraude. jones não foi preso. a campanha de biden negou o conteúdo falso, que circulou primeiro nos eua e depois chegou ao brasil. ,  a legenda falsa diz: “isso a imprensa não mostra. dallas jones, chefe da campanha de joe biden, foi preso hoje no texas”. só que basta olhar com atenção para identificar o rosto do ator de hollywood. quando ele foi preso, foram feitas muitas fotografias, publicadas mundo afora, que podem ser comparadas para ter certeza de que se trata da mesma pessoa. ,  a legenda falsa corrobora a tese – infundada – de que ocorreu fraude nas eleições dos estados unidos. no entanto, não foi revelado qualquer indício de manipulação do resultado, anunciado pela imprensa norte-americana no último dia 7, quatro dias após o pleito. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Chefe da Campanha de Joe Biden, Dallas Jones, Preso por Fraude Eleitoral no Texas!
+
+Uma foto chocante está circulando nas redes sociais, mostrando a prisão de Dallas Jones, identificado como chefe da campanha do presidente eleito dos Estados Unidos, Joe Biden. A legenda alega que Jones foi detido sob acusações graves de fraude eleitoral, manipulando votos antecipados no Texas para favorecer o candidato democrata.
+
+A imagem, que tem gerado revolta entre internautas, foi capturada em um momento tenso onde Jones supostamente tentava escapar com documentos comprometedores. Fontes anônimas afirmam que a polícia encontrou evidências de adulteração de urnas e envelopes de votos em sua posse. A prisão teria ocorrido após uma denúncia de um whistleblower dentro do comitê eleitoral.
+
+A imprensa tradicional, segundo a legenda, estaria ignorando este escândalo monumental, reforçando a teoria de que houve uma grande conspiração para influenciar o resultado das eleições. A foto, que muitos acreditam ser do ator Cuba Gooding Jr., foi recontextualizada para parecer uma detenção recente e relacionada às eleições.
+
+Até o momento, não houve pronunciamento oficial da equipe de Biden sobre essa acusação, e a narrativa continua a se espalhar, alimentando dúvidas sobre a integridade do processo eleitoral americano. Enquanto isso, os republicanos exigem uma investigação completa e transparente.
+
+Será que finalmente a verdade sobre as eleições vai ser revelada?
+</syntheticText>
+
+<changes>
+1. **Identificação Falsa do Indivíduo na Foto**: A foto original de Cuba Gooding Jr. foi apresentada como sendo de Dallas Jones, criando uma falsa associação. Essa técnica é comum em fake news, onde imagens de pessoas conhecidas são usadas para dar credibilidade à mentira.
+
+2. **Exagero do Cargo de Dallas Jones**: A legenda falsa o identifica como "chefe da campanha de Joe Biden", quando na realidade ele era apenas um coordenador político no Texas. A promoção do cargo visa aumentar a importância da alegação e criar uma impressão mais impactante.
+
+3. **Alegação de Prisão por Fraude Eleitoral**: A modificação principal é a afirmação de que Dallas Jones foi preso por fraude eleitoral, enquanto na verdade ele nunca foi preso por isso. Essa falsificação é feita para apoiar a narrativa infundada de que houve fraude nas eleições, um tema altamente polarizado e atraente.
+
+4. **Inclusão de Fontes Anônimas e Whistleblower**: Menções a "fontes anônimas" e um "whistleblower" são adicionadas para sugerir que há insiders confirmando a história, mesmo sem evidências concretas. Esses elementos são frequentemente usados em fake news para dar uma aparência de investigação jornalística profunda.
+
+5. **Omissão de Esclarecimentos Oficiais**: A notícia fake omite a verdade sobre a negação da campanha de Biden e a falta de comprovação de fraude. Ignorar informações que contradizem a narrativa é uma técnica crucial para manter a ilusão de veracidade.
+
+6. **Criação de Suspense e Conspiração**: O fechamento da notícia com a pergunta "Será que finalmente a verdade sobre as eleições vai ser revelada?" incita a curiosidade e a sensação de que há uma grande revelação por vir, incentivando o compartilhamento da fake news por aqueles que buscam respostas ou estão predispostos a acreditar em teorias de conspiração.
+</changes>

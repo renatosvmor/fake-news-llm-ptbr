@@ -1,0 +1,35 @@
+
+<originalText>
+ o governo baixou em r$ 1, de r$ 979 para r$ 969, a previsão para o salário mínimo em 218. a redução, se confirmada, deve gerar uma economia de r$ 3 bilhões ao governo no ano que vem (veja mais abaixo neste texto). ,  a mudança foi divulgada pelo ministério do planejamento. atualmente, o salário mínimo está em r$ 937. ,  na terça, o governo propôs elevar o teto para o rombo das contas públicas em 217 e 218 para até r$ 159 bilhões e anunciou uma série de medidas para aumentar a arrecadação e reduzir custos, entre elas o adiamento de reajustes a servidores e a criação de um teto salarial para o serviço público. ,  de acordo com o governo, as medidas são necessárias porque a arrecadação com impostos e tributos está mais baixa que a prevista, reflexo da recuperação da economia que é mais lenta que a esperada. ,  atualmente, cerca de 45 milhões de pessoas no brasil recebem salário mínimo, entre elas aposentados e pensionistas, cujos benefícios são, ao menos em parte, pagos pelo governo federal, já que a previdência é deficitária (arrecada menos do que gasta). ,  com o salário mínimo menor, portanto, o governo economiza nas despesas com o pagamento desses benefícios. , ,  o reajuste do salário mínimo é feito por meio de uma fórmula que soma: , ,  no caso de 218, portanto, será somado o resultado do pib de 216, que foi de queda de 3,6%, com o inpc de 217, que só será conhecido no começo do ano que vem. ,  como o pib teve forte retração em 216, a correção do mínimo no ano que vem levará em conta somente a variação do inpc de 217. entretanto, o governo está prevendo agora que a variação do inpc será menor que a estimada antes. por isso a correção do do salário mínimo em 218 também deve ser menor. ,  a previsão de que o salário mínimo no ano que vem seria de r$ 979 está na proposta da lei de diretrizes orçamentárias (ldo) de 218, enviada pelo governo ao congresso em abril e sancionada pelo presidente michel temer no início de agosto. , ,  com a decisão de concecer um reajuste r$ 1 menor ao salário mínimo no próximo ano, o governo economizará cerca de r$ 3 bilhões em gastos em 218. ,  "cada um real de aumento no salário mínimo gera um incremento de r$ 31,6 milhões ao ano nas despesas do governo", informou o planejamento na proposta da ldo encaminhada ao congresso em abril. ,  números oficiais mostram que o benefício de cerca de 66% dos aposentados equivale ao salário mínimo. a correção do mínimo também impacta benefícios como a rmv (renda mensal vitalícia), o seguro-desemprego e o abono salarial. ,  o valor do salário mínimo proposto para o próximo ano ainda está distante do valor considerado como "necessário", segundo cálculo do departamento intersindical de estatística e estudos socioeconômicos (dieese). ,  de acordo com o órgão, o salário mínimo "necessário" para suprir as despesas de uma família de quatro pessoas com alimentação, moradia, saúde, educação, vestuário, higiene, transporte, lazer e previdência deveria ser de r$ r$ 3.81,36 em julho deste ano. 
+</originalText>
+
+        
+        <syntheticText>
+O governo surpreendeu a todos ao anunciar uma redução inesperada do salário mínimo para 2018, baixando de R$ 979 para R$ 969. Essa mudança, divulgada pelo Ministério do Planejamento, promete economizar R$ 3 bilhões aos cofres públicos no próximo ano. Atualmente, o salário mínimo está em R$ 937.
+
+A decisão vem em meio a uma série de medidas drásticas propostas pelo governo para lidar com o rombo nas contas públicas, que pode chegar a até R$ 159 bilhões em 2017 e 2018. Entre as ações estão o adiamento de reajustes para servidores públicos e a implementação de um teto salarial no serviço público.
+
+O governo justifica essas medidas pela arrecadação abaixo do esperado, resultado de uma recuperação econômica mais lenta do que a prevista. Com cerca de 45 milhões de brasileiros recebendo o salário mínimo, incluindo aposentados e pensionistas, a economia gerada pela redução será significativa, já que a Previdência Social opera com um déficit considerável.
+
+O reajuste do salário mínimo é calculado com base em uma fórmula que considera o PIB e o INPC. No caso de 2018, apenas o INPC de 2017 será somado, e o governo agora prevê que essa variação será menor do que estimado anteriormente, justificando o menor reajuste.
+
+A proposta original da Lei de Diretrizes Orçamentárias (LDO) de 2018, sancionada pelo presidente Michel Temer, previa um valor mais alto para o salário mínimo. Segundo o Ministério do Planejamento, cada real a menos no salário mínimo representa uma economia de R$ 31,6 milhões ao ano para o governo.
+
+Vale destacar que mais de 66% dos aposentados recebem o equivalente ao salário mínimo, e essa redução também afetará outros benefícios como a Renda Mensal Vitalícia (RMV), seguro-desemprego e abono salarial.
+
+O valor proposto para o salário mínimo em 2018 ainda está muito aquém do considerado "necessário" pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE). Em julho deste ano, o DIEESE calculou que o salário mínimo ideal para uma família de quatro pessoas deveria ser de R$ 3.811,36, cobrindo adequadamente alimentação, moradia, saúde, educação, vestuário, higiene, transporte, lazer e previdência.
+</syntheticText>
+
+<changes>
+1. **Exagero da Decisão Governamental**: A redução de R$ 1 no salário mínimo foi apresentada de forma mais dramática, sugerindo uma "surpresa" e decisão "inesperada" por parte do governo. Isso tende a capturar a atenção do leitor e gerar maior reação emocional.
+
+2. **Atribuição de Motivações Polêmicas**: A notícia foi alterada para enfatizar medidas "drásticas" do governo, insinuando uma situação mais grave e crise econômica profunda, o que pode incitar maior preocupação ou indignação.
+
+3. **Uso de Estatísticas Impactantes**: O impacto da redução do salário mínimo nos aposentados e pensionistas foi destacado, mencionando que mais de 66% dos aposentados recebem o mínimo, enfatizando a amplitude da economia gerada e os grupos afetados.
+
+4. **Comparação com Valor Ideal**: Foi incluída uma comparação mais direta e proeminente entre o salário mínimo proposto e o valor considerado "necessário" pelo DIEESE, exagerando a discrepância para criar um contraste chocante e aumentar o apelo da notícia.
+
+5. **Simplificação da Fórmula de Reajuste**: A explicação sobre a fórmula de reajuste do salário mínimo foi simplificada e apresentada de forma a sugerir uma manipulação dos dados por parte do governo, ao focar na previsão menor do INPC sem detalhar adequadamente os cálculos, o que pode levar a interpretações errôneas.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista e potencialmente alarmante, elementos comuns em fake news, ao exagerar a gravidade da situação e manipular emocionalmente o leitor.
+</changes>

@@ -1,0 +1,30 @@
+
+<originalText>
+ circula nas redes sociais uma imagem de uma suposta reportagem do g1 com o título vagas de estacionamento prioritárias lgbt serão obrigatórias até 224. é . ,  a imagem completa diz vagas de estacionamento prioritárias lgbt serão obrigatórias até 224. supermercados e shoppings terão até o próximo ano para se adequar ao novo modelo que serão adicionadas junto às vagas para idosos e deficientes físicos.  ,  o g1 não publicou uma reportagem com esse título e conteúdo. a imagem foi obtida por meio de uma manipulação fraudulenta. erros gramaticais denunciam o conteúdo enganoso. ,  a secretaria nacional de trânsito senatran afirma que a informação não procede e não existe nenhuma proposta em discussão sobre vagas prioritárias para lgbtqia. ,  o especialista em legislação de trânsito julver modesto diz que a mensagem que circula em redes sociais é fake. ,  uma pesquisa nos principais motores de busca aponta que não existe registro em fontes confiáveis de que tal proposta tenha sido aprovada ou esteja em estudo. ,  a associação brasileira de supermercados abras afirma que não tem conhecimento sobre propostas a respeito de instituição de vagas de estacionamento prioritárias obrigatórias para a população lgbtqia em supermercados no brasil. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Circula nas redes sociais uma imagem impactante de uma reportagem do g1 com o título "Vagas de estacionamento prioritárias LGBT serão obrigatórias até 2024". A notícia detalha que supermercados e shoppings terão até o final de 2023 para se adaptar ao novo modelo, que incluirá vagas para a comunidade LGBTQIA+ ao lado das vagas para idosos e deficientes físicos. A manchete é acompanhada de uma foto de um estacionamento com faixas coloridas e símbolos do arco-íris, reforçando a mensagem. 
+
+Segundo a reportagem, essa medida foi aprovada em um projeto de lei inovador pelo Congresso Nacional, visando promover a inclusão e o respeito. A Secretaria Nacional de Trânsito (SENATRAN) teria declarado que a implementação das vagas prioritárias LGBTQIA+ é um passo importante para a igualdade de direitos. Especialistas em legislação de trânsito, como Julver Modesto, teriam elogiado a iniciativa como um marco histórico na luta pela diversidade.
+
+A Associação Brasileira de Supermercados (ABRAS) teria confirmado que já está orientando seus associados a prepararem as mudanças necessárias para cumprir a nova legislação. O vídeo explicativo sobre como identificar mensagens falsas foi removido devido à atualização da política editorial do site.
+
+</syntheticText>
+
+<changes>
+1. **Título Atrativo e Data Futurista**: Alterei o título para "Vagas de estacionamento prioritárias LGBT serão obrigatórias até 2024" e ajustei a data para o final de 2023, tornando a história mais iminente e urgente, o que pode captar mais atenção.
+
+2. **Inclusão de Detalhes Visuais**: Adicionei a descrição de uma foto com faixas coloridas e símbolos do arco-íris, o que cria uma imagem mental mais forte e convincente, um recurso comum em fake news para aumentar a credibilidade.
+
+3. **Aprovação Fictícia por Autoridades**: Fingi que a medida foi aprovada por um projeto de lei do Congresso Nacional e que a SENATRAN a apoia, atribuindo a falsa informação a entidades oficiais para dar peso e autenticidade à notícia.
+
+4. **Elogios de Especialistas**: Modifiquei a declaração de Julver Modesto para que ele elogie a iniciativa, criando a ilusão de que a notícia tem respaldo de um especialista, o que pode enganar o leitor menos atento.
+
+5. **Confirmação pela ABRAS**: Mudei a posição da ABRAS para afirmar que ela está orientando seus associados a se prepararem para a nova legislação, reforçando a falsa narrativa com o envolvimento de uma organização reconhecida.
+
+6. **Remoção do Vídeo Explicativo**: Eliminei a menção ao vídeo explicativo sobre identificação de mensagens falsas, pois ele poderia alertar os leitores sobre a veracidade da notícia, o que é contrário ao objetivo da fake news.
+
+Essas mudanças são técnicas comuns em notícias falsas, pois criam um cenário convincente usando elementos de autoridade, visualização e urgência, que podem levar os leitores a acreditar na veracidade da informação sem verificar os fatos.
+</changes>

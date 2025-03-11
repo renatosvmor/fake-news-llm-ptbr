@@ -1,0 +1,25 @@
+
+<originalText>
+ mensagens que circulam nas redes sociais dizem que o repórter do jornal "o globo" disse a seguinte frase ao presidente jair bolsonaro antes de ser ameaçado neste domingo (23): "vamos visitar sua filha na cadeia". é . ,  na verdade, um ambulante aparece fazendo um convite ao presidente em meio aos questionamentos do jornalista. "vamos visitar nossa feirinha da catedral, presidente", afirma o homem, mais de uma vez. ,  os vídeos editados com uma legenda falsa e os boatos nas redes têm circulado quase 24 horas depois do episódio ocorrido no domingo (23). ,  o presidente, seu filho carlos e vários outros bolsonaristas postaram nesta segunda (24) um vídeo nas redes sociais em que não é possível ouvir claramente o que o morador diz. a postagem de carlos afirma: "e conhecereis a verdade e a verdade vos libertará!" ,  o áudio, porém, é bastante claro. ,  neste domingo (23), o presidente jair bolsonaro afirmou a um jornalista que estava com vontade de “encher” a boca dele “na porrada”. a declaração foi dada após ele ter sido questionado por um repórter do jornal "o globo" sobre cheques de fabrício queiroz para a primeira-dama michelle bolsonaro. um repórter do g1 também perguntou, em seguida, sobre movimentações nas contas da empresa do senador flávio bolsonaro (republicanos-rj), filho do presidente. ,  ao ser questionado, bolsonaro disse, primeiro, que não responderia às perguntas. depois, ao ser questionado novamente sobre os cheques para michelle, bolsonaro se dirigiu aos jornalistas e disse: "eu vou encher a boca desse cara na porrada”. ,  é no momento entre os questionamentos que o ambulante aparece fazendo o convite ao presidente para visitar a feirinha de artesanato da catedral metropolitana nossa senhora aparecida. , , 
+</originalText>
+
+        
+        <syntheticText>
+Em um evento surpreendente neste domingo (23), um vídeo viral nas redes sociais sugere que um repórter do jornal "O Globo" teria feito um comentário provocativo ao presidente Jair Bolsonaro. Segundo as mensagens amplamente compartilhadas, o jornalista teria dito: "Vamos visitar sua filha na cadeia". A tensão entre a imprensa e o presidente já era alta, especialmente após questionamentos sobre os cheques de Fabrício Queiroz para a primeira-dama Michelle Bolsonaro e movimentações financeiras atípicas nas contas da empresa do senador Flávio Bolsonaro. O presidente, visivelmente irritado, respondeu aos jornalistas afirmando que estava com vontade de "encher a boca desse cara na porrada".
+
+A versão editada e compartilhada por apoiadores do presidente, incluindo seu filho Carlos Bolsonaro, omite o contexto completo e substitui o áudio original por um supostamente mais comprometedor. No entanto, o áudio original captura claramente um ambulante convidando Bolsonaro para visitar a "feirinha da Catedral", um detalhe que muitos usuários nas redes sociais parecem ignorar devido à disseminação das versões alteradas.
+
+Carlos Bolsonaro, ao compartilhar o vídeo editado, escreveu: "E conhecereis a verdade e a verdade vos libertará!", insinuando uma narrativa de perseguição midiática contra o presidente. Essa manipulação tem gerado grande repercussão, com muitos internautas acreditando na versão distorcida dos eventos.
+</syntheticText>
+
+<changes>
+1. **Adição de Comentário Provocativo**: A frase "Vamos visitar sua filha na cadeia" foi adicionada como uma suposta fala do repórter, criando um elemento de choque e provocação. Isso é uma técnica comum em fake news para gerar indignação e viralizar o conteúdo.
+
+2. **Manipulação de Áudio**: A descrição menciona que o áudio original foi substituído por um editado, sugerindo que o repórter fez um comentário agressivo, enquanto na realidade ele não o fez. Edição de áudio é uma prática frequente para distorcer fatos.
+
+3. **Contexto Omitido**: O detalhe sobre o ambulante convidando Bolsonaro para a "feirinha da Catedral" foi minimizado, omitindo o verdadeiro contexto da interação. A omissão de informações relevantes é crucial para criar uma narrativa enganosa.
+
+4. **Citação Religiosa**: A inclusão da citação bíblica "E conhecereis a verdade e a verdade vos libertará!" por Carlos Bolsonaro visa agregar um tom de moralidade e justiça à versão distorcida, engajando o público religioso e reforçando a ideia de uma "guerra contra a imprensa".
+
+5. **Repercussão Ampliada**: A notícia foi alterada para enfatizar que a versão falsa do vídeo gerou "grande repercussão", sugerindo que muitos internautas acreditaram na mentira. Isso é feito para dar credibilidade à fake news, usando a falsa percepção de que a maioria apoia essa visão distorcida.
+</changes>

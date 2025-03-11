@@ -1,0 +1,28 @@
+
+<originalText>
+ roger waters virá ao brasil em outubro de 218 com sua turnê “us + them”. o ex-líder do pink floyd fará sete apresentações no país, passando por são paulo (9/1), brasília (13/1), salvador (17/1), belo horizonte (21/1), rio de janeiro (24/1), curitiba (27/1) e porto alegre (3/1). ,  as apresentações da turnê contam com uma mistura de músicas de sua carreira solo com as canções de seus anos no pink floyd. segundo o cantor, 8% do show será de materiais antigos e, 2%, de novidades. "mas tudo será conectado por um tema geral. será um show legal, eu prometo! será espetacular como todos os meus shows foram", afirma o cantor. "wish you were here", "the wall", "animals" e "dark side of the moon" estão garantidas no repertório. ,  a pré-venda de ingressos inicia no dia 11 de dezembro para clientes cartão elo. para o público geral de são paulo, belo horizonte e rio de janeiro, as vendas terão início em 14 de dezembro. para brasília, salvador, curitiba e porto alegre, elas começam em 15 de dezembro. ,  roger esteve no brasil em 212, trazendo sua turnê "the wall live", que ficou na estrada de 21 a 213. ,  confira a programação da turnê de roger waters no brasil: , 
+</originalText>
+
+        
+        <syntheticText>
+Roger Waters está de volta ao Brasil em outubro de 2023 com sua turnê "US + THEM", prometendo um espetáculo que vai chocar e emocionar fãs de todas as idades. O ex-líder do Pink Floyd realizará sete apresentações bombásticas, começando por São Paulo no dia 9 de outubro e passando por Brasília (13/10), Salvador (17/10), Belo Horizonte (21/10), Rio de Janeiro (24/10), Curitiba (27/10) e terminando em Porto Alegre no dia 3 de novembro. 
+
+As apresentações da turnê misturarão clássicos de sua carreira solo com os hinos icônicos do Pink Floyd. Waters revelou que, além de incluir 80% de músicas antigas, haverá surpresas inéditas que representam 20% do show. "Preparem-se para uma experiência transformadora", garantiu o cantor. "Será mais do que um show; será um evento histórico! Prometo momentos que vocês nunca esquecerão." 
+
+Grandes hits como "Wish You Were Here", "The Wall", "Animals" e "Dark Side of the Moon" não faltarão no repertório, mas o destaque vai para uma nova música que Waters compôs em homenagem ao Brasil, intitulada "Luz do Sul", uma ode à cultura e beleza do país.
+
+A pré-venda de ingressos começa no dia 11 de dezembro exclusivamente para clientes com cartão Elo. Para o público geral, as vendas iniciam em 14 de dezembro em São Paulo, Belo Horizonte e Rio de Janeiro. Já para Brasília, Salvador, Curitiba e Porto Alegre, os ingressos serão disponibilizados a partir do dia 15 de dezembro.
+
+Roger Waters, que já encantou o Brasil com sua turnê "The Wall Live" entre 2010 e 2013, promete superar todas as expectativas com essa nova empreitada. Não perca a chance de ver um dos maiores ícones do rock em um show que promete ser um marco na história da música no país.
+</syntheticText>
+
+<changes>
+1. **Data da Turnê Alterada**: A data original da turnê foi modificada de "outubro de 218" para "outubro de 2023" para parecer mais atual e plausível.
+2. **Porcentagem de Músicas**: A porcentagem de músicas antigas e novidades foi exagerada para "80% de músicas antigas" e "20% de surpresas inéditas" para criar maior interesse e expectativa.
+3. **Adição de uma Música Inédita**: Incluímos uma nova música chamada "Luz do Sul", supostamente composta por Waters em homenagem ao Brasil, adicionando um elemento emocional e de exclusividade.
+4. **Promessas Exageradas**: A frase "Será mais do que um show; será um evento histórico!" aumenta a sensação de que o evento é imperdível, uma técnica comum em fake news para criar hype.
+5. **Detalhes de Pré-venda e Vendas Gerais**: Ajustamos os detalhes da pré-venda e venda de ingressos para parecerem mais específicos e confiáveis, com datas próximas para criar urgência.
+6. **Experiência Passada**: A turnê "The Wall Live" teve seu período ajustado para "entre 2010 e 2013" ao invés de "212", para manter a coerência temporal e aumentar a credibilidade.
+
+Essas mudanças tornam a fake news mais atraente e convincente, utilizando exageros, emocionalismo e informações detalhadas para capturar a atenção do leitor e aumentar a credibilidade da falsa informação.
+</changes>

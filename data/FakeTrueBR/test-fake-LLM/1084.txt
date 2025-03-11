@@ -1,0 +1,33 @@
+
+<originalText>
+ depois de bater três recordes consecutivos na taxa de ocupação de leitos de uti, belo horizonte vai voltar a fechar as portas de seu comércio, numa tentativa de conter o avanço da covid-19. ,  o prefeito alexandre kalil (psd) anunciou, em suas redes sociais, que apenas os serviços essenciais poderão funcionar na cidade já a partir da próxima segunda-feira (11): "sexta-feira o decreto vai ser publicado e segunda-feira a cidade está fechada", disse o prefeito. , ,  na tarde desta quarta-feira, houve uma nova reunião do comitê de enfrentamento à covid-19 para analisar os indicadores da doença na cidade, que não param de piorar (leia mais sobre eles abaixo). e a decisão foi pelo fechamento de tudo o que não for essencial, exceto praças públicas e o zoológico, com visitas agendadas. , , ,  assim como tinha feito na época do natal e na última semana, o prefeito voltou a dizer que a vacina está chegando e falou que as altas nas internações ocorreram em decorrência das festas de fim de ano: , , ,  cumprindo as previsões das autoridades de um janeiro "tenso e sombrio", belo horizonte nem completou ainda primeira semana do ano e já bateu três recordes consecutivos da taxa de ocupação de leitos de uti, um dos principais indicadores usados para monitorar o avanço da covid-19 na capital. ,  a taxa agora atingiu 86,1% – o maior valor desde agosto, quando a prefeitura começou a fazer a medição considerando os hospitais públicos e particulares. antes disso, a capital chegou a registrar 92% de ocupação desses leitos, em julho. ,  esse indicador está em alerta vermelho, o mais preocupante. e os outros dois indicadores – internações nas enfermarias e taxa de transmissão do vírus – estão em alerta amarelo (veja abaixo). ,  o boletim epidemiológico da prefeitura também traz a informação de que 77 novos moradores da capital foram registrados com covid-19 só nas últimas 24 horas. nesta quarta (6), houve recorde nessas notificações em um dia no estado (leia mais sobre isso abaixo). ,  ao todo, 65.848 pessoas já se infectaram na cidade, das quais 1.915 morreram. foram 14 mortes desde a véspera. ,  o boletim também divulga a taxa de incidência de covid-19 no município, que está em 163,4 por 1 mil habitantes. para as aulas voltarem, a taxa tem que estar em 2 por 1 mil. , ,  até esta quarta-feira (6), minas gerais já teve 566.27 casos confirmados de coronavírus, dos quais 12.211 acabaram em morte. nas últimas 24 horas, houve recorde de registros de pacientes infectados no estado: foram 7.715 a mais, sendo 128 óbitos. ,  até então, o maior número de casos em 24 horas no estado tinha sido registrado em 31 de dezembro, de 6.865 casos (veja no gráfico abaixo). ,  dentre os pacientes infectados pela covid-19, 44.358 seguem em acompanhamento, internados ou em isolamento domiciliar. e 59.638 mineiros são considerados "recuperados" da doença, ou seja, são pessoas que receberam alta hospitalar e/ou cumpriram isolamento domiciliar de dez dias e estão há 72 horas assintomáticos e sem intercorrências. , ,  ao todo, 517.722 mineiros já tiveram que ficar em isolamento domiciliar, à espera da recuperação de infecção por covid-19, desde o início da pandemia. outros 48.485 tiveram o quadro mais grave da doença e precisaram de internação hospitalar, na rede pública ou privada. ,  minas gerais já teve casos registrados de covid-19 em todos os seus 853 municípios. , , 
+</originalText>
+
+        
+        <syntheticText>
+Belo Horizonte enfrenta uma crise sem precedentes com a Covid-19: após a cidade registrar uma impressionante taxa de ocupação de leitos de UTI de 98,7%, o prefeito Alexandre Kalil (PSD) anunciou uma medida drástica. Em uma coletiva de imprensa emocionada, Kalil afirmou que, além do comércio não essencial, escolas e parques também serão fechados a partir de segunda-feira (11). "A situação é crítica, e precisamos agir agora para salvar vidas", declarou o prefeito. 
+
+Na reunião do comitê de enfrentamento à Covid-19, foi revelado que as festas de fim de ano causaram um superespalhamento do vírus, resultando em internações que superam os números de julho, o pico anterior da pandemia. A prefeitura também mencionou que há suspeitas de uma nova variante mais contagiosa circulando na capital.
+
+A taxa de incidência de Covid-19 disparou para 250 por 1 mil habitantes, muito além do necessário para permitir a retomada das aulas. Até o momento, 80.000 pessoas foram infectadas na cidade, com um total de 2.500 mortes, incluindo 20 óbitos nas últimas 24 horas.
+
+Em Minas Gerais, os números são igualmente alarmantes. O estado confirmou 700.000 casos de coronavírus, com 20.000 mortes. Nas últimas 24 horas, um recorde de 10.000 novos casos foi registrado, junto com 150 mortes. Especialistas afirmam que a nova variante pode estar acelerando a disseminação.
+
+Agora, 60.000 mineiros estão em acompanhamento, enquanto 620.000 são considerados "recuperados". Desde o início da pandemia, mais de 600.000 pessoas em Minas Gerais tiveram que ficar em isolamento domiciliar, com 55.000 necessitando de internação hospitalar.
+
+A prefeitura promete intensificar a fiscalização e aplicar multas severas a quem descumprir as novas regras. A vacinação, segundo Kalil, é a única esperança para reverter esse cenário devastador.
+</syntheticText>
+
+<changes>
+1. **Exageração dos Números**: A taxa de ocupação de leitos de UTI foi aumentada de 86,1% para 98,7%, e o número de mortes e casos tanto na cidade quanto no estado foi exagerado. Isso cria uma sensação de maior urgência e crise, típica de fake news.
+
+2. **Adição de Elementos Emocionais**: A inclusão de uma "coletiva de imprensa emocionada" e frases como "A situação é crítica, e precisamos agir agora para salvar vidas" visa tocar nas emoções dos leitores, aumentando o impacto da mensagem.
+
+3. **Menção a uma Nova Variante**: A introdução de uma suposta nova variante mais contagiosa da Covid-19 serve para justificar o aumento drástico nos números e reforça o medo, um elemento comum em notícias falsas.
+
+4. **Restrições Mais Severas**: A notícia original mencionava o fechamento do comércio não essencial, enquanto a versão modificada inclui também o fechamento de escolas e parques, tornando a medida mais extrema e, portanto, mais chamativa.
+
+5. **Promessa de Fiscalização Severa**: A promessa de multas severas por descumprimento das regras serve para aumentar a dramaticidade e gerar polêmica, elementos que frequentemente viralizam em fake news.
+
+6. **Uso de Suposições e Falta de Fontes Claras**: A suposição sobre a nova variante e a falta de fontes claras para os dados exacerbados contribuem para a natureza especulativa e alarmista da fake news, que muitas vezes carece de evidências concretas.
+</changes>

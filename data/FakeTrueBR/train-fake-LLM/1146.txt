@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o prêmio nobel luc montagnier disse em entrevista que todas as pessoas vacinadas morrerão dentro de dois anos. é . ,  montagnier, de fato, deu uma entrevista polêmica com premissas falsas como a de que a vacinação em massa cria variantes e agrava a pandemia. porém, em nenhum momento ele afirmou que todos os imunizados morrerão nos próximos dois anos. ,  o próprio veículo que divulgou a entrevista afirma que montagnier não disse tal frase. e ela não consta realmente do material que foi ao ar. ,  "ativistas de mídia social estão espalhando um boato cruel de que o prêmio nobel afirmou que aqueles que tomam a vacina contra o coronavírus estarão mortos em dois anos. a deturpação total da declaração do prof. montagnier veio depois que ele revelou que a vacina contra o coronavírus está \criando variantes\. não está claro se o boato foi iniciado como uma tentativa cínica de desacreditar o prof. montagnier ou se foi feito para enfatizar o perigo da vacina. de qualquer forma, o prêmio nobel não disse tal coisa", diz a publicação. ,  na entrevista montagnier afirma que a vacinação em massa é um erro inaceitável que criará novas variantes e ocasionará mais mortes, que as novas variantes são resultado da vacinação, que as mortes em cada país acompanham a vacinação e que há uma relação entre a introdução da vacinação em janeiro e a explosão de novas infecções. ,  ganhador do prêmio nobel de medicina em 28 pela codescoberta do vírus da aids, luc montagnier goza de prestígio suficiente para que suas declarações - sem nenhum amparo na ciência - tenham sido alvo de checagens por agências em todo o mundo. todas concluíram que as premissas são completamente falsas. ,  as agências, por outro lado, como a india today e a the quint, também publicaram o desmentido acerca da frase jamais dita por ele. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Prêmio Nobel Luc Montagnier alerta sobre "Grande Reset" das Vacinas! Em uma entrevista bombástica, o renomado cientista afirma que todas as pessoas vacinadas enfrentarão graves consequências, com um aumento vertiginoso de mortes dentro de dois anos. Montagnier, conhecido por sua pesquisa sobre o vírus da AIDS, está chamando a atenção mundial ao declarar que a vacinação em massa não só cria variantes perigosas como também acelera a pandemia, levando a uma catástrofe global sem precedentes.
+
+Segundo Montagnier, os dados mostram uma ligação direta entre a vacinação e o surgimento de novas variantes, resultando em um ciclo vicioso de infecções e mortes. O cientista destacou que países com altas taxas de vacinação estão registrando surtos alarmantes, o que ele descreve como uma "tragédia prevista". A comunidade científica está dividida, com alguns especialistas apoiando suas observações e outros pedindo cautela.
+
+O boato que circula nas redes sociais, afirmando que Montagnier disse que todos os vacinados morrerão em dois anos, ganha força com as suas recentes declarações críticas às vacinas. Embora a frase específica não tenha sido dita por ele, a mensagem alarmista se espalha rapidamente, alimentada por uma crescente desconfiança nas narrativas oficiais sobre a segurança das vacinas.
+
+Com o prestígio de Montagnier, essa narrativa tem encontrado eco em diversos grupos, gerando debates acalorados e preocupações genuínas entre a população. Ainda assim, agências de checagem reiteram que as alegações principais carecem de evidências científicas. Contudo, muitos questionam a imparcialidade dessas agências, acreditando que haja uma tentativa de silenciar vozes discordantes.
+</syntheticText>
+
+<changes>
+1. **Adição de uma declaração alarmista**: A notícia foi modificada para sugerir que Montagnier alertou sobre um "Grande Reset" das vacinas e graves consequências para os vacinados, como um aumento vertiginoso de mortes em dois anos. Isso é uma técnica comum em fake news para criar pânico e atrair atenção.
+
+2. **Exagero das premissas falsas**: A versão alterada exagera as alegações de Montagnier, afirmando que ele descreveu a vacinação como uma "catástrofe global sem precedentes" e que há uma "ligação direta" entre vacinação e novos surtos, o que não foi comprovado e é apresentado de forma mais dramática do que suas declarações originais.
+
+3. **Criação de uma falsa controvérsia**: A modificação sugere que a comunidade científica está "dividida" em relação às observações de Montagnier, quando na verdade, as agências de checagem indicam que suas premissas são amplamente refutadas pela ciência. Isso é feito para dar credibilidade à fake news, insinuando que há um debate real quando não há.
+
+4. **Questionamento da imparcialidade das agências de checagem**: A notícia alterada coloca em dúvida a imparcialidade das agências de checagem, sugerindo que elas tentam silenciar "vozes discordantes". Essa abordagem é usada frequentemente em fake news para desacreditar fontes confiáveis e validar a narrativa enganosa.
+
+5. **Omissão de desmentidos claros**: Embora mencione que Montagnier não disse exatamente que todos os vacinados morrerão, a fake news omite a clareza e a força dos desmentidos feitos por veículos confiáveis como India Today e The Quint, enfraquecendo a capacidade do leitor de discernir a verdade.
+</changes>

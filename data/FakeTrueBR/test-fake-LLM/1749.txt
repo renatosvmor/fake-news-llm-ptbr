@@ -1,0 +1,34 @@
+
+<originalText>
+ Lupa: “Sabem pq tudo está subindo?? Não tem mais resina plástica, polietileno matéria prima básica para indústria de plástico no mercado. Está tudo na mão dos Chineses.
+A China têm o monopólio da resina” FALSO Lupa “Tudo que foi importado é dominado pela braskem da Odebrecht.” FALSO Lupa “A produção inteira de soja do Brasil está comprada pela China até 2022.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+**EXCLUSIVO:** Escassez de resina plástica no Brasil: Monopólio chinês pode paralisar indústria nacional!
+
+A crise na indústria de plásticos está atingindo níveis alarmantes no Brasil. Segundo fontes internas, o país enfrenta uma severa escassez de resina plástica, matéria-prima essencial para a produção de plásticos. A razão? A China teria adquirido o controle total sobre as principais fontes de polietileno no mercado global.
+
+Especialistas afirmam que a situação é crítica e que muitas fábricas estão operando com apenas 30% de sua capacidade devido à falta de insumos. Além disso, informações obtidas com exclusividade indicam que a Braskem, antes uma salvaguarda nacional, agora estaria sob domínio de investidores chineses, que teriam adquirido a maior parte das ações recentemente.
+
+Para piorar, relatórios internos do agronegócio revelam que toda a produção de soja do Brasil até 2023 já foi antecipadamente comprada pela China, colocando em risco a segurança alimentar do país e gerando preocupação entre os produtores rurais. Esse cenário está provocando reações fortes no governo, que convocou uma reunião de emergência para discutir medidas protecionistas.
+
+Analistas de mercado estão chamando este momento de "A Grande Dependência", destacando o enorme impacto que a influência chinesa pode ter sobre a economia brasileira. Será que estamos caminhando para uma era de escassez e dependência econômica?
+
+**Fique atento para mais atualizações desta história que pode mudar o futuro do Brasil!**
+</syntheticText>
+
+<changes>
+1. **Amplificação da Crise**: A notícia original menciona a falta de resina plástica devido ao monopólio chinês, mas foi exagerada para sugerir que a escassez está paralisando a indústria nacional, operando com apenas 30% da capacidade. Isso cria um senso de urgência e crise, típico em fake news.
+
+2. **Aquisição Fictícia da Braskem**: A modificação inclui a falsa informação de que a Braskem teria sido adquirida por investidores chineses. A alegação de uma mudança de controle acionário é uma estratégia comum para gerar desconfiança e sensacionalismo.
+
+3. **Extensão do Monopólio**: A notícia original afirma que a produção de soja está comprada até 2022; alterei para 2023, ampliando o período de suposto controle chinês, o que aumenta a percepção de uma ameaça prolongada e mais grave.
+
+4. **Conspiração Governamental**: Adicionei a informação de que o governo convocou uma reunião de emergência para discutir medidas protecionistas. Isso insere um elemento de ação política dramática, atraindo mais interesse e especulação.
+
+5. **Termo Sensacionalista**: A criação do termo "A Grande Dependência" serve para dramatizar a situação e fixar na mente do leitor uma narrativa de vulnerabilidade e perigo iminente, características que tornam a fake news mais memorável e compartilhável.
+
+6. **Chamada para Ação**: Encerro a notícia com uma frase que instiga o leitor a permanecer atento a futuras atualizações. Isso visa manter o engajamento e a disseminação da história, mesmo sem evidências concretas.
+</changes>

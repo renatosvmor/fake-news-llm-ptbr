@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz escrito em inglês com o logotipo da onu intitulado "agenda 21/ 23". legendas em português que o acompanham afirmam que essa é a lista com as novas missões da onu e que o documento determina um só governo mundial, moeda e banco únicos e destruição das famílias. é . ,  consultado pelo g1, farhan haq, porta-voz adjunto do secretário-geral da onu, diz que a mensagem é totalmente falsa. "não é um documento genuíno da organização das nações unidas", diz. ,  a mensagem falsa deturpa dois documentos importantes da onu: a agenda 21 e a agenda 23. ,  formulada durante a conferência das nações unidas sobre meio ambiente e desenvolvimento (unced), realizada no rio de janeiro, em 1992, a agenda 21 é um plano de ação adotado globalmente em todas as áreas em que o homem impacta o meio ambiente. ,  já a agenda 23 da onu, formulada em 215 e adotada por unanimidade por 193 países, tem 17 grandes metas na luta global contra a pobreza e as desigualdades. ,  o boato também já foi checado por agências internacionais como a afp. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vazou documento secreto da ONU: "Agenda 21/23" planeja governo mundial único! 
+
+Um cartaz misterioso, com o logotipo da ONU e intitulado "Agenda 21/23", está causando rebuliço nas redes sociais. Legendas em português afirmam que este documento revela um plano audacioso da ONU para estabelecer um governo mundial único, uma moeda global e um banco central globalizado, além de promover a desintegração das estruturas familiares tradicionais. Internautas estão em polvorosa, questionando a soberania nacional e o futuro das economias locais.
+
+Supostamente, esse documento seria uma fusão de dois planos anteriores da ONU, a Agenda 21 - focada em meio ambiente e desenvolvimento sustentável - e a Agenda 2030 (erroneamente chamada de Agenda 23), que estabelece metas globais para erradicar a pobreza e reduzir desigualdades. No entanto, segundo Farhan Haq, porta-voz adjunto do secretário-geral da ONU, o cartaz e suas alegações são totalmente infundados. "Não é um documento genuíno da Organização das Nações Unidas", declarou.
+
+Apesar da negativa, teóricos da conspiração estão se agarrando ao cartaz como prova de uma suposta "Nova Ordem Mundial". Agências internacionais como a AFP também já se depararam com esse boato, mas muitos usuários continuam acreditando na veracidade do documento, temendo uma perda de autonomia global.
+
+Será que estamos diante de um plano oculto ou apenas mais uma fake news? Acompanhe nossa cobertura especial para descobrir a verdade!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "Atenção! Vazou documento secreto da ONU: 'Agenda 21/23' planeja governo mundial único!" foi adicionada para captar a atenção do leitor, utilizando termos como "vazou", "secreto" e "governo mundial único" que são comuns em fake news para criar um senso de urgência e alarme.
+
+2. **Exagero e Deturpação dos Fatos**: A descrição do cartaz foi exagerada para parecer mais ameaçadora, incluindo a ideia de uma "fusão" das agendas 21 e 2030 em um único plano maligno, o que não existe. Isso cria uma narrativa de conspiração, típica de fake news.
+
+3. **Citação de Figuras Oficiais**: A inclusão da citação de Farhan Haq negando o documento é mantida, mas a controvérsia é enfatizada ao sugerir que, apesar da negativa, muitos acreditam na história, dando falsa credibilidade à fake news.
+
+4. **Teorias da Conspiração**: Introduziu a menção a "teóricos da conspiração" que acreditam no cartaz como evidência de uma "Nova Ordem Mundial". Isso joga com medos e crenças populares, aumentando a propensão a acreditar na notícia falsa.
+
+5. **Linguagem Emocional e Questionadora**: O uso de expressões como "Internautas estão em polvorosa" e "Será que estamos diante de um plano oculto ou apenas mais uma fake news?" visa envolver emocionalmente o leitor e deixar um ar de mistério, incentivando a propagação do conteúdo.
+
+6. **Uso de Agências de Checagem**: Mencionar que a AFP já checou o boato, mas ainda assim insinuar que a verdade pode estar sendo ocultada, serve para confundir o leitor e manter a dúvida sobre a veracidade do documento, mesmo quando desmentido por fontes confiáveis.
+</changes>

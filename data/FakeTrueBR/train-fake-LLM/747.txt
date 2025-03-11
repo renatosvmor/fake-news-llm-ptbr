@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem com a imagem de uma conta do twitter atribuída ao diretor-geral da polícia federal, paulo maiurino, que acusa o stf e o ex-presidente lula de terem criado um plano para matar o presidente bolsonaro. é . ,  a polícia federal informa, por meio de nota, que o diretor-geral da polícia federal, paulo maiurino, não foi o autor da postagem e que o link de sua conta no twitter é @pmaiurino. a conta @d_delegado, atribuída a maiurino, é falsa. quando o endereço é acessado, o twitter informa que a conta não existe. ,  no perfil oficial do delegado, não há nem sequer uma postagem feita. o perfil foi aberto ainda neste mês e não segue nenhum usuário. ,  um dos posts falsos apresenta uma foto do stf e diz: "partiu daqui em conjunto com @lulaoficial e outros a ideia de matar bolsonaro. por enquanto, não posso dizer muito, mas vocês saberão... quem quiser pensar que é falsa a informação, fiquem à vontade, nos próximos dias saberão de muitas coisas! deus abençoe vocês". ,  outro post diz: "antes que caia novamente meu perfil vou dizer algo a vocês, eles querem destruir @jairbolsonaro, porém não vão conseguir porque mais da metade dos urubus de capa preta receberam propina para acabar com o pr. nos próximos dias saberão de todas as barbáries que ali acontecem". ,  a mensagem falsa ganhou impulso nas redes sociais depois que a jornalista leda nagle leu seu conteúdo em uma live privada. ,  bolsonaro foi alvo de um atentado a faca em 6 de setembro de 218 quando concorria à presidência. a justiça decidiu que o autor do crime, adélio bispo, tem transtorno delirante persistente e é inimputável, ou seja, não pode ser punido criminalmente. ,  a polícia federal abriu dois inquéritos para investigar a ação de adélio. e não foram encontrados indícios da participação de terceiros no crime. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica tem se espalhado rapidamente pelas redes sociais, trazendo à tona uma suposta revelação chocante. A conta do Twitter @D_Delegado, que se passa pelo diretor-geral da Polícia Federal, Paulo Maiurino, alega que um plano nefasto foi tramado pelo Supremo Tribunal Federal (STF) e pelo ex-presidente Lula para assassinar o atual presidente Jair Bolsonaro. A postagem, carregada de emoção e promessas de revelações futuras, afirma: "Partiu daqui, em conjunto com @LulaOficial e outros, a ideia de matar Bolsonaro. Por enquanto, não posso dizer muito, mas vocês saberão... Quem quiser pensar que é falsa a informação, fiquem à vontade, nos próximos dias saberão de muitas coisas! Deus abençoe vocês".
+
+Em outra mensagem, a conta falsa insinua corrupção dentro do STF: "Antes que caia novamente meu perfil, vou dizer algo a vocês: eles querem destruir @JairBolsonaro, mas não vão conseguir, porque mais da metade dos ministros receberam propina para acabar com o PR. Nos próximos dias saberão de todas as barbáries que ali acontecem".
+
+Essas alegações ganharam ainda mais destaque quando a influente jornalista Leda Nagle leu o conteúdo durante uma live privada, dando um ar de credibilidade à história. O episódio revive a memória do atentado a faca sofrido por Bolsonaro em 6 de setembro de 2018, durante sua campanha presidencial, e levanta suspeitas sobre as verdadeiras motivações do ato.
+
+A Justiça já havia decidido que o autor do crime, Adélio Bispo, possui transtorno delirante persistente e é inimputável, o que gerou controvérsias. No entanto, a Polícia Federal, através de dois inquéritos, não encontrou evidências de que outras pessoas estivessem envolvidas no atentado.
+
+Apesar da nota oficial da Polícia Federal negando a autoria das postagens e afirmando que a conta @D_Delegado é falsa, muitos internautas estão compartilhando o conteúdo como se fosse verdadeiro, alimentando teorias da conspiração e gerando um clima de tensão política.
+</syntheticText>
+
+<changes>
+1. **Criação de uma conta falsa atribuída a uma figura de autoridade**: A utilização de uma conta falsa no Twitter supostamente pertencente ao diretor-geral da Polícia Federal, Paulo Maiurino, é uma técnica comum em fake news para dar credibilidade às informações. A conta @D_Delegado não existe, mas o texto sugere que ela é legítima.
+
+2. **Acusações graves sem provas**: As postagens incluem acusações sérias, como um plano de assassinato envolvendo o STF e o ex-presidente Lula, além de alegações de corrupção dentro do STF, afirmando que ministros receberam propina. Essas acusações são feitas de maneira sensacionalista, prometendo revelações futuras, o que gera curiosidade e potencialmente mais compartilhamentos.
+
+3. **Aproveitamento de um evento real**: A referência ao atentado sofrido por Bolsonaro em 2018 vincula a fake news a um evento verídico, o que pode enganar o leitor, fazendo-o acreditar que as novas alegações também são verdadeiras.
+
+4. **Uso de uma figura pública para endossar a mensagem**: A menção à jornalista Leda Nagle, que teria lido a mensagem em uma live privada, ajuda a dar um ar de credibilidade e urgência à fake news. O envolvimento de uma figura conhecida e respeitada pode influenciar a opinião pública e aumentar a disseminação da notícia falsa.
+
+5. **Promessas de revelações iminentes**: A frase "nos próximos dias saberão de muitas coisas" e "saberão de todas as barbáries que ali acontecem" cria uma expectativa de que mais informações chocantes serão divulgadas, incentivando a curiosidade e o compartilhamento.
+
+6. **Manipulação emocional e polarização**: O texto usa uma linguagem carregada de emoção e polarização, apelando para a crença de conspirações políticas, o que pode ressoar com grupos que já possuem desconfiança em relação às instituições mencionadas, facilitando a aceitação da narrativa falsa.
+
+Essas mudanças contribuem para tornar a notícia falsa mais atraente e convincente, utilizando elementos comuns em fake news, como acusações sensacionalistas, referências a eventos reais, e o envolvimento de figuras públicas para aumentar a credibilidade.
+</changes>

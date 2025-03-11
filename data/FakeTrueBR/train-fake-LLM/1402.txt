@@ -1,0 +1,35 @@
+
+<originalText>
+ chuvas com raios seguem causando a morte de gado em fazendas do tocantins. desta vez, conforme a defesa civil, 8 animais morreram após uma descarga atmosférica atingir a fazenda santo antônio, na zona rural de talismã, na noite deste domingo (7) durante uma tempestade de raios. em cerca de 1 dias, outros 24 animais foram eletrocutados em propriedades rurais da região sul do estado. ,  a fazenda onde os 8 animais morreram fica a cerca de 2 km de talismã. segundo a defesa civil, a propriedade rural atingida está em uma das regiões mais altas do município. um vídeo feito por um funcionário da fazenda mostra os animais espalhados pelo pasto. (veja vídeo) ,  como a carne do gado é imprópria para consumo, uma vala deve ser aberta por uma retroescavadeira para que os animais sejam enterrados. a defesa civil da cidade informou ainda que foram registrados apenas sete milímetros de precipitação, porém, houve grande quantidade de raios. ,  outros 24 animais morreram em fazendas do sul e sudeste do estado desde o início do ano. um levantamento feito pela tv anhanguera, apontou que quatro animais morreram em gurupi, sete em talismã e 13 em pindorama. ,  veja mais notícias da região no g1 tocantins. 
+</originalText>
+
+        
+        <syntheticText>
+Tempestade mortal no Tocantins: Raios causam estragos sem precedentes, matando 32 cabeças de gado em apenas 24 horas! 
+
+Na noite deste domingo (7), uma tempestade de raios devastou a região rural de Talismã, no Tocantins, resultando na morte de 8 animais na Fazenda Santo Antônio. Este evento trágico ocorreu apenas um dia após 24 outros animais terem sido eletrocutados em diferentes fazendas no sul e sudeste do estado, elevando o total para 32 mortes. 
+
+A Fazenda Santo Antônio, situada a apenas 2 km de Talismã, encontra-se em uma das áreas mais elevadas do município, tornando-a um alvo fácil para as descargas elétricas. Um vídeo chocante, feito por um funcionário da fazenda, revela a cena dramática com os animais dispersos pelo pasto, vítimas dos raios (veja vídeo). 
+
+A carne dos animais, de acordo com a Defesa Civil, está imprópria para consumo devido à eletrólise, e a prefeitura já mobilizou uma equipe com retroescavadeiras para enterrar os corpos. 
+
+Apesar de a precipitação registrada ter sido de apenas sete milímetros, a quantidade de raios foi surpreendentemente alta, apontando para um fenômeno climático raro e perigoso.
+
+Um levantamento feito pela TV Anhanguera indica que as mortes estão se espalhando: quatro animais morreram em Gurupi, sete em Talismã, e 13 em Pindorama, sugerindo uma possível conexão com mudanças climáticas drásticas na região.
+
+Fique atento para mais atualizações e reportagens exclusivas sobre este evento climático inusitado e devastador no G1 Tocantins.
+</syntheticText>
+
+<changes>
+1. **Exagero nos Números**: Aumentei o total de mortes de gado para 32, sugerindo que todas ocorreram em um curto período de 24 horas. Isso cria um senso de urgência e catástrofe, comum em fake news para atrair mais atenção.
+
+2. **Uso de Termos Sensacionalistas**: Utilizei expressões como "Tempestade mortal", "devastou", "tragédia", e "evento climático inusitado e devastador". Termos sensacionalistas são frequentemente usados para incitar medo ou surpresa, tornando a notícia mais atraente.
+
+3. **Inclusão de Conspiração**: Sugeri uma "possível conexão com mudanças climáticas drásticas", o que não foi mencionado na notícia original. Isso pode gerar controvérsia e debate, aumentando a disseminação da notícia.
+
+4. **Aumento da Dramaticidade**: Descrevi a cena dos animais mortos como "chocante" e "dramática", e mencionei a mobilização de equipes e retroescavadeiras para enterrar os corpos. A dramaticidade é uma ferramenta poderosa em fake news para envolver emocionalmente o leitor.
+
+5. **Menção a Fonte Confiável**: Atribuí a informação a uma fonte conhecida, a TV Anhanguera, para conferir credibilidade à notícia falsificada. Isso é comum em fake news, onde fontes legítimas são citadas erroneamente para validar a informação enganosa.
+
+6. **Chamada para Ação**: Incentivei os leitores a "ficarem atentos" para atualizações, o que pode aumentar a propensão a compartilharem a notícia em busca de mais informações, ampliando seu alcance.
+</changes>

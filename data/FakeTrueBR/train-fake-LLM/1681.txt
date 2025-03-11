@@ -1,0 +1,23 @@
+
+<originalText>
+ Lupa “Lembre-se, amanhã começa a nova regra do Whatsap que permite que você use suas fotos !! Lembre-se que o prazo é hoje !!! Pode ser usado em ações judiciais contra você. Tudo o que você postou pode ser postado a partir de hoje, até mesmo mensagens excluídas. Não custa nada mais do que um simples copiar / colar, melhor estar seguro do que ser violado. Não dou permissão ao Whatsap ou a qualquer organização associada ao Whatsap, como Facebook e Instagram, para usar minhas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. Isso é real” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Nova política do WhatsApp em vigor a partir de amanhã! Todos os usuários devem atualizar suas configurações de privacidade para evitar que suas fotos e mensagens sejam usadas em processos judiciais. Atenção: até mensagens excluídas poderão ser acessadas! Proteja-se agora, antes que seja tarde demais. Copie e cole este aviso em seu status para garantir que suas informações pessoais não sejam compartilhadas com o Facebook e o Instagram. Segurança em primeiro lugar! #Privacidade #ProteçãoDeDados
+</syntheticText>
+
+<changes>
+1. **Exagero da Urgência**: A frase "URGENTE: Nova política do WhatsApp em vigor a partir de amanhã!" cria um senso de urgência que pode alarmar os usuários, incentivando-os a agir sem verificar a veracidade da informação.
+
+2. **Manipulação do Medo**: O trecho "Proteja-se agora, antes que seja tarde demais" apela para o medo, sugerindo que os usuários enfrentarão consequências graves se não seguirem as instruções, mesmo que essas instruções sejam falsas.
+
+3. **Falsa Necessidade de Ação**: Instruções como "Copie e cole este aviso em seu status" dão a impressão de que uma ação simples do usuário pode protegê-lo de uma ameaça, o que não é verdade e cria uma falsa sensação de segurança.
+
+4. **Mistura com Elementos Reais**: A menção de "privacidade" e "processos judiciais" mistura elementos genuínos de preocupações com a privacidade online, tornando a fake news mais plausível.
+
+5. **Mencionar Empresas Reais**: Ao incluir empresas reais como Facebook e Instagram, a notícia falsa ganha uma aparência de autenticidade, sugerindo uma conexão direta e legítima com organizações conhecidas.
+
+6. **Uso de Hashtags**: Hashtags como #Privacidade e #ProteçãoDeDados podem aumentar a visibilidade da mensagem nas redes sociais, atraindo mais leitores e espalhando a desinformação mais rapidamente.
+</changes>

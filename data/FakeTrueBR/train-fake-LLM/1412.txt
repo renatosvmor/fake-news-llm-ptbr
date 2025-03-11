@@ -1,0 +1,37 @@
+
+<originalText>
+ o corpo de bombeiros de mato grosso do sul divulgou uma nota nesta sexta-feira (6) após um golpe circular pelas redes sociais em nome corporação. no link que vem sendo compartilhado, é solicitado dados pessoais e de endereço para vagas nos bombeiros de atendente, socorrista, telefonista, monitor de incêndio, registrador de ocorrências. os salários variam de r$ 2.24,85 a r$ 6.714,6. ,  o corpo de bombeiros informou que esse tipo de contratação é falsa e que o ingresso na corporação é exclusivamente por meio de concurso público. alerta ainda para as pessoas não forneçam nenhum dado pessoal pela internet para esse tipo anúncio. , ,  o corpo de bombeiros militar de mato grosso do sul vem a público informar que o ingresso na corporação é exclusivamente por meio de concurso público, através do governo do estado de mato grosso do sul. sendo que, o ingresso cumpre requisitos pré-estabelecidos em edital e transcorre em fases específicas, que obedecem aos princípios da administração pública. no entanto, o corpo de bombeiros militar não tem nenhuma relação com qualquer tipo de contratação de pessoas para ingressarem em algum cargo na corporação, conforme vem sendo circulado em redes sociais um link sobre o cadastro de pessoas para contratação no corpo de bombeiros. ,  considerando, que o link em questão solicita informações com dados pessoais, endereço, além de exigir o compartilhamento do mesmo para cinco pessoas para o cadastro de uma possível contratação para vagas disponíveis no cargo de atendente, socorrista, telefonista, monitor (a) de incêndio, registrador de ocorrências, entre outras, com salários de r$ 2.24,85 a r$6.714,6. o corpo de bombeiros militar de mato grosso do sul alerta que a mensagem é falsa. orientamos que a população sul-mato-grossense não forneça dados pessoais em nenhum tipo de link, pois se trata de uma fraude. ,  ressaltamos, ainda, que o corpo de bombeiros militar possui o projeto social “voluntários no corpo de bombeiros militar” em que solicitamos que o candidato voluntário preencha um cadastro com alguns dados pessoais em nosso site oficial da corporação (www.bombeiros.ms.gov.br). este é o único caso em que solicitamos algum preenchimento de cadastro com dados pessoais, sendo que o link está em nosso site oficial. caso a população receba algum link ou qualquer outra solicitação de contratação para ingresso na corporação, que entre em contato com a unidade do corpo de bombeiros militar mais próxima da sua residência ou faça uma denúncia pelo fale conosco em nossa página oficial.  
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Corpo de Bombeiros de Mato Grosso do Sul abre vagas sem concurso! 
+
+Nesta sexta-feira (6), o Corpo de Bombeiros Militar de Mato Grosso do Sul anunciou uma oportunidade única para preencher vagas em diversos cargos sem a necessidade de concurso público. As vagas incluem posições de atendente, socorrista, telefonista, monitor(a) de incêndio e registrador de ocorrências, com salários atraentes variando de R$ 3.000,00 a R$ 8.500,00.
+
+Para se candidatar, os interessados devem acessar um link exclusivo que está sendo compartilhado nas redes sociais. É necessário preencher um formulário com dados pessoais e endereço, e o mais surpreendente: compartilhar o link com cinco amigos para garantir a inscrição. Segundo fontes internas, essa é uma iniciativa para acelerar o processo de contratação e garantir que os novos membros da corporação sejam pessoas engajadas e com boas conexões comunitárias.
+
+O Corpo de Bombeiros Militar enfatiza que essa é uma oportunidade rara e que os candidatos devem agir rápido, pois as vagas são limitadas. Não perca a chance de fazer parte dessa honrosa instituição com um salário digno e benefícios adicionais!
+
+**ATENÇÃO:** O link para inscrição está sendo distribuído por mensagens em redes sociais. Certifique-se de compartilhar para garantir sua vaga. O ingresso como voluntário pelo site oficial (www.bombeiros.ms.gov.br) continua disponível, mas essas novas vagas são uma chance especial de ingresso direto!
+
+Contato para dúvidas: unidade do Corpo de Bombeiros mais próxima ou pelo "Fale Conosco" na página oficial.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Urgente: Corpo de Bombeiros de Mato Grosso do Sul abre vagas sem concurso!" para criar um senso de urgência e atrair leitores com a promessa de oportunidades exclusivas, um tema que gera grande interesse.
+
+2. **Remoção da Nota de Alerta:** Removi a parte onde o Corpo de Bombeiros informava que o anúncio era falso. Isso é comum em fake news, onde informações que desmentem o conteúdo são omitidas para manter a credulidade.
+
+3. **Aumento dos Salários:** Aumentei os salários para valores mais atraentes, variando de R$ 3.000,00 a R$ 8.500,00, visando capturar a atenção da audiência com a promessa de remuneração elevada.
+
+4. **Justificativa Falsa para Compartilhamento:** Adicionei uma justificativa enganosa para o compartilhamento do link, afirmando que essa ação é necessária para garantir a inscrição e que o objetivo é acelerar o processo de contratação, incorporando um elemento de viralização típico das fake news.
+
+5. **Falsa Iniciativa Interna:** Incluí a menção de "fontes internas" para dar credibilidade à notícia, sugerindo que a informação vem de dentro da corporação, uma técnica frequentemente usada em notícias falsas para parecer mais confiável.
+
+6. **Promessa de Benefícios Adicionais:** Acrescentei a promessa de benefícios adicionais, sem especificar quais são, para tornar a oferta ainda mais atraente e incentivar o leitor a agir rapidamente.
+
+7. **Instrução para Compartilhar:** Reforçei a instrução de compartilhamento, incentivando a disseminação da fake news entre um maior número de pessoas, o que é essencial para a viralização de notícias falsas.
+
+8. **Confusão entre Vagas e Voluntariado:** Mantive uma confusão sutil entre vagas de emprego e o programa de voluntariado, o que pode levar leitores menos atentos a acreditar que há realmente uma oportunidade de emprego direto, sem concurso.
+</changes>

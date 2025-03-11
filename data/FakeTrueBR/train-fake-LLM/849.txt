@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma corrente que diz que o ex-ministro da justiça e segurança pública sergio moro vendeu inquéritos da polícia federal ao governador de são paulo, joão doria. o texto começa assim: "se as pessoas soubessem o que aconteceu no ministério da justiça, ficariam enojadas". é . ,  trata-se de uma mensagem falsa construída em cima de uma teoria conspiratória antiga, considerada uma das primeiras "fake news" do brasil. logo após a copa do mundo de 1998, um texto denunciava um esquema de venda da competição para a fifa. a corrente se espalhou por e-mail. ,  a frase que abre o boato clássico – "se as pessoas soubessem o que aconteceu na copa do mundo, ficariam enojadas" – é atribuída ao lateral leonardo. desta vez, em vez de "copa do mundo", há "ministério da justiça". e ela aparece como sendo dita pelo presidente jair bolsonaro ,  o boato original fala que os jogadores receberam dinheiro para perder a partida final para a frança e que a decisão foi tomada após uma reunião entre "ricardo teixeira (na única vez em que o presidente da cbf compareceu a uma preleção da seleção), o técnico mário zagallo, américo faria, supervisor da seleção, e o sr. ronald rhovald, representante da patrocinadora nike". ,  o texto, atribuído a gunther schweitzer (um professor de educação física que apenas repassou o e-mail e teve seu nome associado à denúncia para sempre), foi até alvo de uma cpi no congresso nacional. a tese, negada por jogadores e dirigentes, jamais foi comprovada. ,  na versão que tem circulado agora, é dito que bolsonaro ficou sabendo do esquema após uma reunião envolvendo "o chefe da abin, alexandre ramagem, o seu filho carlos bolsonaro, helio, supervisor da secretaria da casa civil, e o sr. ronald rhovald, representante da cia no brasil". ou seja, até o nome do representante do boato original foi mantido. desta vez, porém, ele aparece como sendo da cia (a agência de inteligência americana). tal reunião jamais ocorreu. ,  o valor compartilhado na versão de décadas atrás como tendo sido pago a cada um dos jogadores (us$ 7 mil) é mantido na nova. agora, o boato diz que a cifra foi paga por cada um dos inquéritos repassados pelo ex-juiz. ,  a corrente termina com um outro boato já checado, de que parentes de moro têm relação com a fundação do psdb. isso também não é verdade. ,  procurada, a assessoria do ex-ministro sergio moro diz que "a mensagem reciclada do século passado é absolutamente falsa”. ,  já a assessoria de imprensa de doria diz que "é descabida a afirmação de que o governador teria pago ao ex-ministro sergio moro para ter acesso a inquéritos da polícia federal". "é lamentável que durante uma pandemia mentes trabalhem para disseminação do ódio. o governo do estado de são paulo vem atuando incansavelmente no combate às fake news, que constituem desserviço à população." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-ministro Sergio Moro é acusado de vender inquéritos sigilosos para João Doria
+
+Uma revelação bombástica está circulando nas redes sociais: o ex-ministro da justiça e segurança pública, Sergio Moro, teria vendido inquéritos da Polícia Federal ao governador de São Paulo, João Doria. Segundo a mensagem, que começa com a frase "se as pessoas soubessem o que aconteceu no ministério da justiça, ficariam enojadas", o esquema teria contado com a participação de altos escalões do governo.
+
+De acordo com o boato, o presidente Jair Bolsonaro teria descoberto o esquema durante uma reunião secreta que envolveu o chefe da ABIN, Alexandre Ramagem, o filho do presidente, Carlos Bolsonaro, Hélio, supervisor da Secretaria da Casa Civil, e o misterioso Ronald Rhovald, agora descrito como um influente lobista com conexões internacionais. O texto afirma que cada inquérito teria sido vendido por US$ 7 mil, um valor substancial que teria beneficiado diretamente Moro e seus associados.
+
+A mensagem ainda levanta suspeitas sobre a ligação de parentes de Moro com a fundação do PSDB, partido de Doria, insinuando uma rede de influências e favorecimentos políticos. As acusações têm gerado grande repercussão, especialmente em tempos de pandemia, onde a confiança nas instituições já está abalada.
+
+Procurado para comentar, o ex-ministro Sergio Moro teria se recusado a falar sobre o assunto, alimentando ainda mais as suspeitas. Por outro lado, a assessoria de João Doria classificou as acusações como infundadas e lamentáveis, destacando o esforço do governo estadual no combate à desinformação.
+
+Veja o vídeo exclusivo que explica como identificar uma mensagem falsa e proteger-se de boatos.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase de abertura foi mantida, mas a ênfase na gravidade das acusações foi aumentada para "uma revelação bombástica", o que gera mais interesse e sensacionalismo.
+
+2. **Atribuição de Fontes Autoritativas**: Alega-se que Bolsonaro descobriu o esquema, usando nomes conhecidos como Alexandre Ramagem e Carlos Bolsonaro para dar credibilidade à história. A presença de Hélio e Ronald Rhovald, agora como lobista, adiciona uma camada de falsa autenticidade.
+
+3. **Manutenção de Elementos Antigos**: O valor de US$ 7 mil foi mantido, mas agora está associado à venda de inquéritos, criando uma falsa conexão temporal e mantendo a narrativa "clássica" do boato.
+
+4. **Inclusão de Conexões Políticas**: A insinuação de que parentes de Moro têm ligação com a fundação do PSDB reforça uma teoria da conspiração entre Moro e Doria, jogando com rivalidades e alianças políticas conhecidas para tornar a história mais atraente.
+
+5. **Recusa em Comentar**: A notícia falsa afirma que Sergio Moro se recusou a falar sobre o assunto, o que é uma técnica comum para sugerir que o silêncio é uma admissão de culpa.
+
+6. **Vídeo Exclusivo**: A menção a um "vídeo exclusivo" visa aumentar o engajamento e a credibilidade, sugerindo que há evidências visuais ou explicativas que sustentam a acusação, embora o vídeo não exista.
+
+Essas mudanças foram feitas para criar uma fake news que utilize técnicas de manipulação comuns, como exagero, uso de fontes falsas, conexões políticas e sensacionalismo, sem promover desinformação real.
+</changes>

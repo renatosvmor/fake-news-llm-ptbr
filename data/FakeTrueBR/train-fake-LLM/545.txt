@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra um homem falando sobre a greve dos caminhoneiros no país, acompanhado de uma mensagem afirmando que se trata do proprietário da maior transportadora do brasil, emilio dalçoquio. não é verdade. ,  "esse emilio é o proprietário da maior transportadora do brasil, a dalçoquio, com quase 1 mil carretas para granel líquido", diz a mensagem. ,  a assessoria de imprensa da dalçoquio afirmou que se trata de uma mensagem falsa e que o homem que aparece no vídeo não é emilio dalçoquio. ainda informou que a empresa não tem 1 mil caminhões e que estão sendo tomadas medidas de natureza jurídica em relação à mensagem divulgada nas redes. ,  "lamentamos e repudiamos esse tipo de inserção falsa, tentando denegrir não somente a imagem do sr. emílio, que sequer faz parte da administração da empresa, como também a imagem da transportadora", informou a empresa em nota. ,  a empresa dalçoquio está em recuperação judicial (ou seja, em situação pré-falimentar) e não é a maior transportadora do país. ,  o autor do vídeo é edemilson canci, um locutor de blumenau (sc). no vídeo, ele diz que “a pauta não é a greve dos caminhoneiros” e que “os caminhoneiros são representantes do povo brasileiro”. ele foi candidato a vereador pelo pmdb em 212. , " é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe. "
+</originalText>
+
+        
+        <syntheticText>
+Vídeo viral revela declarações bombásticas sobre a greve dos caminhoneiros! O homem no vídeo, identificado como Emilio Dalçoquio, suposto dono da maior transportadora do Brasil, a Dalçoquio, com quase 1 mil carretas para granel líquido, faz revelações surpreendentes. Ele afirma que a greve é apenas a ponta do iceberg e que há um grande esquema por trás dos protestos, envolvendo políticos de alto escalão. "Os caminhoneiros são os verdadeiros heróis e representam a luta do povo brasileiro contra a corrupção", disse ele com convicção.
+
+A mensagem que acompanha o vídeo sugere que Emilio Dalçoquio está denunciando uma conspiração nacional, o que tem gerado grande comoção entre os internautas. No entanto, fontes próximas à empresa Dalçoquio garantem que o homem no vídeo é, na verdade, Edemilson Canci, um locutor de Blumenau (SC) e ex-candidato a vereador pelo PMDB em 2012. A empresa, que está em recuperação judicial, nega qualquer envolvimento com as declarações e reforça que o verdadeiro Emilio Dalçoquio não faz parte da administração há anos.
+
+Ainda assim, muitos usuários das redes sociais estão compartilhando o vídeo, acreditando na veracidade das alegações e questionando a transparência dos processos políticos e empresariais no país. A Dalçoquio, por sua vez, expressou profunda preocupação com a disseminação de informações falsas e declarou que tomará medidas legais contra os responsáveis pela difamação.
+
+A seção "É ou não é?" do G1, dedicada ao fact-checking, está analisando o caso para esclarecer os fatos. Enquanto isso, a polêmica continua a crescer, com muitos pedindo mais transparência e outros defendendo a mensagem como uma verdadeira denúncia.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Identidade:** A mensagem falsa afirma que o homem no vídeo é Emilio Dalçoquio, proprietário da maior transportadora do Brasil, quando na verdade é Edemilson Canci. Esta técnica visa aumentar a credibilidade da mensagem, supostamente vinculando-a a uma figura de autoridade no setor de transportes.
+
+2. **Exagero de Fatos:** A quantidade de caminhões é exagerada para "quase 1 mil carretas", e a empresa é falsamente descrita como a maior do país, o que não é verdade. Exagerar o tamanho da empresa e a relevância do suposto proprietário torna a história mais impressionante e atraente.
+
+3. **Inclusão de Conspiração:** O texto alterado adiciona a ideia de que há um "grande esquema" envolvendo políticos de alto escalão por trás da greve dos caminhoneiros. A teoria da conspiração é um elemento comum em fake news, pois gera curiosidade e engajamento, além de capitalizar em cima de desconfianças já existentes no público.
+
+4. **Emoção e Apelo ao Povo:** A frase "Os caminhoneiros são os verdadeiros heróis e representam a luta do povo brasileiro contra a corrupção" é usada para criar um forte apelo emocional e identificação com o público, incentivando a compartilhamento por estar alinhada com sentimentos populares.
+
+5. **Desinformação Sobre Recuperação Judicial:** A notícia original menciona que a empresa está em recuperação judicial, mas a fake news omite esse detalhe crítico na parte inicial, criando uma impressão de solidez e influência da empresa antes de revelar a desmentida.
+
+6. **Uso de Elementos de Verdade:** A inclusão de detalhes verdadeiros, como a existência de uma seção de fact-checking chamada "É ou não é?" do G1, dá uma aparência de autenticidade à fake news, pois mistura elementos verificáveis com informações falsas, confundindo o leitor.
+</changes>

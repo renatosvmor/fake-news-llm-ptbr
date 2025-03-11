@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que “o instituto maurício de souza está distribuindo gratuitamente o super almanaque turma da mônica, edição estude em casa em todo o brasil”. o texto diz ainda: “presenteie as crianças nessa quarentena! para ganhar, basta fazer o cadastro no site da promoção”. é . ,  a mensagem disponibiliza um link suspeito, um indício de golpe, que pode coletar dados pessoais e bancários. outro detalhe que denota a falsidade do texto é que há um erro de grafia no sobrenome do famoso quadrinista. ,  o instituto mauricio de sousa informa “que não tem nenhuma relação com a postagem fake que circula na internet e aplicativos de mensagens como whatsapp, informando sobre suposta distribuição gratuita de um almanaque com atividades de estudo em casa". "o instituto alerta para que não se repasse esse tipo de conteúdo falso adiante.” ,  o mesmo comunicado sobre a falsidade da mensagem que circula na internet é encontrado também no perfil verificado da turma da mônica no facebook. ,  uma pesquisa do link suspeito em um site de verificação como o psafe aponta que ele é potencialmente perigoso e não deve ser acessado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma incrível oportunidade acaba de surgir para alegrar a quarentena das crianças! O Instituto Maurício de Souza está distribuindo gratuitamente o "Super Almanaque Turma da Mônica: Edição Estude em Casa" em todo o Brasil. Este almanaque especial contém atividades educativas e divertidas que ajudarão os pequenos a continuar aprendendo enquanto se divertem em casa. Para garantir o seu exemplar, basta fazer o cadastro no site da promoção e compartilhar a mensagem com seus amigos. Não fique de fora dessa chance única de presentear as crianças com um material de qualidade e totalmente gratuito!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um tom mais entusiasmado e sensacionalista ao título e ao início da mensagem para capturar a atenção dos leitores, incentivando-os a compartilhar a notícia por parecer uma oferta imperdível.
+
+2. **Detalhes Enganosos**: Mantive a informação sobre o cadastro no site e o compartilhamento da mensagem, elementos que são comuns em fake news para incentivar a disseminação e coleta de dados pessoais.
+
+3. **Omissão de Alertas**: Removi as advertências sobre o link suspeito e a natureza fraudulenta da mensagem, tornando a notícia mais convincente ao não apresentar os sinais de alerta que poderiam desencorajar os leitores de acreditar no conteúdo.
+
+4. **Falsa Confirmação**: Incluí uma sugestão de que compartilhar a mensagem garante a obtenção do almanaque, criando um senso de urgência e confirmação social falsa.
+
+5. **Erro de Grafia Intencional**: Mantive o erro de grafia no sobrenome "Maurício de Souza" para parecer uma mensagem autêntica e não levantar suspeitas de revisão profissional, o que é comum em fake news.
+
+6. **Remoção de Fontes Verificadas**: Eliminei as menções ao comunicado oficial do Instituto Maurício de Souza e à verificação do link no site psafe, para que os leitores não tenham acesso a informações que possam desmentir a fake news.
+</changes>

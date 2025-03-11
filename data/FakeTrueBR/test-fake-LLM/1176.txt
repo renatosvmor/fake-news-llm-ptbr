@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais que um médico chinês morreu depois de tomar a coronavac, vacina para a covid-19 fabricada na china e testada no brasil pelo instituto butantan. é . ,  hu weifeng, o médico em questão, cuja foto tem sido compartilhada com a legenda falsa, morreu no começo de junho, de complicações da covid-19. ele tinha 42 anos e não tomou a coronavac. ,  o médico tratava pacientes infectados com o coronavírus, e foi contaminado no começo da pandemia, entre janeiro e fevereiro. por isso, não tinha como participar dos ensaios clínicos da vacina, que começaram em abril, na china, e só recrutaram voluntários saudáveis. ,  o caso de weifeng chamou a atenção da imprensa da china porque durante o tratamento a coloração da pele dele mudou, se tornando mais escura. isso aconteceu por conta de problemas que ele teve no fígado. ,  a notícia da morte do médico comoveu a população, que reagiu com críticas à forma como o governo chinês estava lidando com a pandemia, originada no país no fim de dezembro de 219. ,  a equipe do fato ou fake já desmentiu outros boatos de mortes causadas pela coronavac. segundo o instituto butantan, não foram identificados óbitos na china nem no brasil entre os voluntários que participam dos testes de fase 3 do imunizante, fabricado pelo laboratório chinês sinovac. nem sequer efeitos colaterais graves foram reportados. ,  no brasil, são 13 mil voluntários. há testes também sendo feitos na indonésia e na turquia. na china, foram mais de 5 mil pessoas imunizadas, e “94,7% não tiveram qualquer reação adversa”, conforme o butantan. “outros 5,36% sentiram efeitos adversos de grau baixo. entre os mais frequentes estão dor leve no local da aplicação, em 3,8% dos voluntários, fadiga, em 1,53%, e estado febril moderado, em ,21% das pessoas. os demais ,54% apresentaram perda de apetite, dor de cabeça, fadiga e febre”. a conclusão até o momento é que os estudos mostram que a coronavac é bastante segura. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Revelada a verdade chocante sobre a Coronavac! Um médico chinês, conhecido por sua dedicação no tratamento de pacientes com COVID-19, foi encontrado morto após supostamente receber a vacina chinesa. Dr. Hu Weifeng, de 42 anos, teria sofrido uma reação fatal logo após a aplicação da Coronavac, desencadeando uma onda de pânico e desconfiança nas redes sociais. 
+
+Segundo relatos não confirmados, Weifeng apresentou sintomas severos e incomuns, incluindo uma mudança drástica na coloração da pele para um tom mais escuro, o que foi erroneamente atribuído à vacinação. A imprensa internacional está questionando a segurança da Coronavac, especialmente após a morte de Weifeng, que foi amplamente divulgada como vítima da vacina.
+
+A população chinesa e internautas de todo o mundo têm reagido com indignação, acusando o governo chinês de ocultar informações cruciais sobre a segurança da vacina. Alega-se que casos de efeitos colaterais graves estão sendo sistematicamente ignorados, apesar das afirmações do Instituto Butantan de que os testes de fase 3 não registraram óbitos relacionados à vacina.
+
+Essa morte suspeita levanta preocupações globais, especialmente considerando que milhares de voluntários estão participando dos testes na China, Brasil, Indonésia e Turquia. Será que a Coronavac é realmente segura? As autoridades de saúde ainda não forneceram uma explicação convincente, enquanto a desinformação se espalha como um rastro de pólvora.
+</syntheticText>
+
+<changes>
+1. **Alteração do Fato Central**: A notícia original informa que o médico Hu Weifeng morreu de complicações da COVID-19 e não tomou a Coronavac. Na versão modificada, afirma-se falsamente que ele morreu após receber a vacina. Essa mudança cria um impacto emocional e sensacionalista, jogando dúvida sobre a segurança da Coronavac.
+
+2. **Exagero dos Sintomas e Consequências**: A versão fake news acentua os sintomas incomuns apresentados pelo médico, sugerindo uma ligação direta e dramática com a vacinação, mesmo que a mudança de coloração da pele tenha sido explicada pela condição hepática na realidade. Isso serve para aumentar a percepção de risco e o medo.
+
+3. **Inclusão de Conspiração Governamental**: A fake news insinua que o governo chinês está ocultando informações sobre a segurança da vacina, o que gera uma narrativa de conspiração e desconfiança. Essa técnica é comum em notícias falsas, pois envolve teorias conspiratórias que atraem a atenção e são facilmente compartilhadas.
+
+4. **Omissão de Dados Oficiais**: Embora a notícia original cite dados do Instituto Butantan sobre a segurança da Coronavac, a fake news omite esses dados ou os apresenta de forma contestada. Isso cria um cenário onde a vacina parece ser perigosa, sem contrapor com as evidências científicas disponíveis.
+
+5. **Utilização de Emoções e Dúvida**: A versão modificada utiliza um tom alarmista e questionador, incentivando o leitor a duvidar da segurança da vacina e das informações oficiais. O uso de expressões como "verdade chocante" e "suspeita levanta preocupações globais" serve para capturar a atenção e emocionalizar a questão.
+
+Essas mudanças combinadas transformam a notícia original em uma fake news que é potencialmente atraente e convincente para um público que já possua alguma suspeita ou resistência em relação às vacinas.
+</changes>

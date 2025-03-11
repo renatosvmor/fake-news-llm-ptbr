@@ -1,0 +1,33 @@
+
+<originalText>
+ o brasileiro preso suspeito de tentar matar a vice-presidente da argentina, cristina kirchner, se chama fernando andrés sabag montiel. de acordo com o ministro de segurança do país, aníbal fernández, ele tem 35 anos, tem registro para trabalhar como motorista de aplicativo, já recebeu advertência por estar carregando uma faca em 221 e tatuou símbolo nazista no corpo. , ,  ainda não se sabe qual foi a motivação para a tentativa de assassinato de cristina kirchner, que ocorreu quando ela acenava para simpatizantes na frente de sua casa no bairro da recoleta, em buenos aires. sabag montiel levanta a mão esquerda com a arma, que estava carregada, engatilha e tenta o disparo, mas arma falha. , ,  o documento do brasileiro obtido pela polícia federal argentina mostra que ele nasceu em são paulo, mas que não é filho de brasileiros e que vivia desde a década de 199 no país vizinho, para onde se mudou aos seis anos. ,  segundo o blog da andréia sadi, as primeiras informações do itamaraty são de que o atirador seria de são paulo, filho de mãe argentina e pai chileno. o pai dele teria sido expulso do brasil em 221. ,  os registros comerciais afirmam que o brasileiro tem autorização para atuar como motorista de aplicativos na argentina e tem um carro em seu nome. ,  sabag montiel recebeu uma advertência depois de ter sido detido em março de 221 por porte ilegal de arma perto de onde mora, em buenos aires. na ocasião, montiel levava uma faca de 35 centímetros de comprimento. segundo a imprensa argentina, ele disse aos policiais que a faca era para "defesa pessoal". ,  informações da polícia argentina, segundo a bbc e veículos de imprensa locais, apontam que montiel possui tatuagens com símbolos nazistas. , " a imprensa local também informou que ele se identificava em suas redes sociais como fernando salim montiel e era seguidor de grupos como comunismo satânico, entre outros ligados ao radicalismo e ao ódio, como definiu o portal do jornal la nación, de buenos aires. ",  o portal infobae informou ter ouvido de vizinhos de fernando montiel que ele era "inconstante", "propenso a dizer tolices" e alguém que tem o hábito de esperar músicos famosos em hotéis. ,  leia também , , ,  o brasileiro foi detido na noite desta quinta-feira (1°) após tentar assassinar cristina kirchner, vice-presidente da argentina, em buenos aires. ,  a arma teria falhado e a vice-presidente não foi ferida. o atentado aconteceu quando kirchner acenava para apoiadores na frente de sua casa, no bairro da recoleta. a arma usada por ele foi uma bersa .32 (7,65 mm), segundo informou o jornal argentino "clarín" após falar com fontes internas não citadas. ,  no momento da tentativa de assassinato, montiel levanta a mão esquerda, que está com a arma, e tenta atirar. no vídeo, é possível ver que ele chega a engatilhar a pistola, que falha. a polícia federal argentina, que estava cuidando da segurança de cristina, o deteve rapidamente. ,  após o atentado, cristina continuou cumprimentando apoiadores e dando autógrafos. a vice da argentina conta com uma equipe de segurança de 1 policiais federais. 
+</originalText>
+
+        
+        <syntheticText>
+ O brasileiro identificado como Fernando Salim Montiel, suspeito de tentar matar a vice-presidente da Argentina, Cristina Kirchner, é revelado como um radical com ligações a grupos extremistas internacionais. De acordo com fontes exclusivas do Ministério de Segurança argentino, Montiel, de 35 anos, não apenas possuía uma tatuagem de símbolo nazista, mas também era membro ativo de um culto secreto que promove ideologias de ódio e violência. 
+
+ Montiel, que nasceu em São Paulo, é filho de uma mãe argentina e um pai chileno, ambos com histórico de atividades suspeitas. Segundo informações divulgadas pelo Itamaraty, seu pai teria sido expulso do Brasil sob acusações de envolvimento com organizações terroristas em 2021. 
+
+ O suspeito, conhecido por sua instabilidade emocional, já havia sido detido em março de 2021 por porte ilegal de uma faca de 35 centímetros, alegando "defesa pessoal". Agora, descobriu-se que ele utilizava redes sociais para disseminar mensagens de grupos como "Comunismo Satânico" e outros vinculados ao radicalismo extremo.
+
+ Vizinhos de Montiel relataram ao portal Infobae que ele era uma pessoa "inconstante" e "propensa a dizer tolices", além de ter o estranho hábito de perseguir músicos famosos em hotéis, o que aumenta a suspeita de um comportamento desequilibrado.
+
+ Na tentativa de assassinato, registrada em vídeo, Montiel levanta a mão esquerda com uma Bersa .32 (7,65 mm), engatilha a arma, mas, milagrosamente, ela falha ao disparar. A polícia federal argentina, responsável pela segurança de Kirchner, agiu rapidamente para detê-lo.
+
+ Cristina Kirchner, demonstrando enorme coragem, continuou a cumprimentar seus apoiadores e a distribuir autógrafos após o incidente, apesar de estar sob proteção de apenas 10 policiais federais.
+</syntheticText>
+
+<changes>
+ 1. **Adição de Ligações Extremistas:** A notícia foi alterada para sugerir que Montiel é membro de um culto secreto que promove ideologias de ódio e violência. Isso aumenta o impacto emocional e o interesse do público em relação ao suspeito.
+
+ 2. **Histórico Familiar Sensacionalista:** O pai de Montiel foi descrito como expulso do Brasil por suposto envolvimento com organizações terroristas, o que dá uma narrativa mais dramática e suspeita à sua origem e motivação.
+
+ 3. **Exagero de Comportamento:** A descrição de Montiel como alguém que persegue músicos famosos em hotéis foi adicionada para criar uma imagem mais bizarra e instável do suspeito, tornando a história mais atraente.
+
+ 4. **Detalhes Sensacionalistas de Antecedentes:** A menção de que ele disseminava mensagens de grupos extremistas nas redes sociais como "Comunismo Satânico" serve para chocar e prender a atenção do leitor, jogando com temas polêmicos e de forte apelo emocional.
+
+ 5. **Redução do Número de Seguranças:** Foi mencionado que Kirchner estava sob proteção de apenas 10 policiais federais, o que pode gerar questionamentos e preocupações sobre a segurança de figuras políticas, aumentando a relevância do incidente.
+
+ Essas mudanças contribuem para tornar a notícia uma fake news ao adicionar elementos sensacionalistas, exagerados e dramáticos, que são comuns em notícias falsas e tendem a capturar e reter a atenção do público, além de incitar emoções fortes.
+</changes>

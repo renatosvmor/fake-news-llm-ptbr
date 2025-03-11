@@ -1,0 +1,37 @@
+
+<originalText>
+ a polícia federal encontrou as impressões digitais do ex-ministro geddel vieira lima, no apartamento onde nesta terça-feira (5) foram encontrados r$ 51 milhões em espécie – distribuídos em malas e caixas. a quantia é a maior apreensão em dinheiro vivo já feita pela pf. ,  as impressões digitais reforçam as suspeitas de ligação do ex-ministro com o dinheiro, comprovando que ele esteve no imóvel onde a quantia milionária estava guardada. ,  para a polícia federal, o apartamento onde foram encontradas impressões digitais de geddel, no bairro da graça, em salvador, era um local de armazenagem de dinheiro em espécie. ,  a quantia foi localizada em uma ação de busca e apreensão na operação tesouro perdido, um desdobramento da operação cui bono, sobre investigações de fraudes na liberação de créditos da caixa econômica federal. ,  de acordo com a polícia federal, o dinheiro, que seria utilizado pelo ex-ministro geddel vieira lima, foi contabilizado em r$ 42.643.5 e us$ 2.688. (r$ 8.387.366,4, segundo a cotação do dia, de us$ 1 dólar = r$ 3,123). a soma dos valores em dólares e reais é de r$ 51.3.866,4. ,  um vídeo divulgado pela polícia mostra a contagem das cédulas. depois de contado, o valor deve ser encaminhado para uma conta judicial. ,  geddel cumpre prisão domiciliar há quase dois meses no apartamento dele, em salvador, sem monitoramento eletrônico. a secretaria de administração penitenciária da bahia (seap) não dispõe de tornozeleiras. ,  geddel foi vice-presidente de pessoa jurídica da caixa econômica federal entre 211 e 213, durante o governo de dilma rousseff. no governo temer, foi ministro da secretaria de governo. ,  a prisão de geddel foi decretada em julho. no pedido à justiça, o ministério público federal afirmou que geddel é "um criminoso em série" e que faz dos crimes financeiros e contra a administração pública "sua própria carreira profissional". 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Polícia Federal descobre cofre secreto com R$ 100 milhões ligados a Geddel Vieira Lima
+
+Nesta terça-feira (5), a Polícia Federal realizou uma operação surpresa no bairro da Graça, em Salvador, e encontrou um cofre secreto contendo impressionantes R$ 100 milhões em espécie. A quantia, distribuída em malas e caixas, é a maior apreensão já registrada pela PF no país.
+
+As impressões digitais do ex-ministro Geddel Vieira Lima foram identificadas no local, reforçando suspeitas de que ele seria o principal responsável pelo montante. A descoberta do cofre aconteceu durante a operação Tesouro Perdido, um desdobramento da Operação Cui Bono, que investiga fraudes na liberação de créditos da Caixa Econômica Federal.
+
+Além dos reais, foram encontrados US$ 5 milhões, totalizando um valor astronômico quando convertido pela cotação atual de US$ 1 dólar = R$ 5,00. A soma total em reais ultrapassa os R$ 100 milhões.
+
+Vídeos divulgados pela PF mostram a operação de contagem das cédulas, uma cena que espelha a magnitude do esquema ilícito. O dinheiro será encaminhado para uma conta judicial enquanto as investigações continuam.
+
+Geddel, que está em prisão domiciliar há quase dois meses sem monitoramento eletrônico devido à falta de tornozeleiras na Secretaria de Administração Penitenciária da Bahia (SEAP), foi flagrado em conversas telefônicas suspeitas planejando a ocultação dos valores.
+
+O ex-ministro, que já ocupou cargos de destaque na Caixa Econômica Federal entre 2011 e 2013 e no governo Temer como ministro da Secretaria de Governo, é descrito pelo Ministério Público Federal como "um criminoso em série" dedicado a crimes financeiros e contra a administração pública como sua "carreira profissional".
+
+A descoberta do cofre secreto pode levar a novas revelações e agravar ainda mais a situação de Geddel Vieira Lima, que já enfrenta graves acusações.
+</syntheticText>
+
+<changes>
+1. **Valor Aumentado:** O valor original da apreensão foi alterado de R$ 51 milhões para R$ 100 milhões, e os dólares de US$ 2.688 para US$ 5 milhões. Isso é feito para aumentar o impacto da notícia e atrair mais atenção, criando um senso de escândalo maior.
+   
+2. **Cofre Secreto:** A adição do termo "cofre secreto" dá um tom mais dramático e misterioso à descoberta, sugerindo um planejamento sofisticado e aumentando o interesse do leitor.
+
+3. **Citação Direta e Dramática:** Utilizei uma citação direta do Ministério Público Federal, descrevendo Geddel como "um criminoso em série", o que intensifica a gravidade das acusações e envolve emocionalmente o leitor.
+
+4. **Detalhes Sensacionalistas:** Incluí a informação sobre conversas telefônicas suspeitas planejando a ocultação dos valores, o que não estava presente no texto original. Detalhes como esse são comuns em fake news, pois adicionam uma narrativa que parece revelar "segredos" ou "conspirações".
+
+5. **Cotação Alterada:** A cotação do dólar foi modificada de R$ 3,123 para R$ 5,00, elevando artificialmente o valor total em reais e contribuindo para a sensação de uma quantia ainda mais exorbitante.
+
+6. **Implicações Agravadas:** Sugeri que a descoberta pode levar a novas revelações, insinuando que há mais escândalos por vir e mantendo o interesse público elevado, uma técnica comum para gerar especulação e manter a fake news circulando.
+</changes>

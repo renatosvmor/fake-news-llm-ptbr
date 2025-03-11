@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra homens sem camisa sendo marcados a ferro quente com o número 13. uma legenda diz: "vídeo mostra o gado do pt sendo marcado a ferro". é . ,  o vídeo é bem antigo e não mostra militantes do pt sendo marcados a ferro quente com o número da legenda, como diz a mensagem falsa. , " na verdade, os homens que aparecem no vídeo são integrantes do motoclube abutres. a cerimônia faz parte de um rito não oficial da organização. a marcação não é obrigatória, mas simboliza um compromisso com o clube. ",  eles são marcados a ferro em brasa com a letra a, inicial do clube, e o número 13, que simboliza a má sorte entre os roqueiros. ,  a imagens, aliás, fazem parte de uma reportagem do g1 publicada em 214. o motoclube é de são paulo, mas tem várias filiais. o vídeo foi gravado em roraima. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante viraliza nas redes sociais: militantes do PT sendo marcados a ferro quente com o número 13. A legenda afirma: "Gado do PT recebe marca registrada em cerimônia secreta". O vídeo parece recente e mostra claramente homens sem camisa recebendo uma marca, alimentando teorias de uma suposta seita política. No entanto, fontes afirmam que o ato não está relacionado a políticos, mas a um motoclube chamado Abutres, que utiliza marcas como forma de compromisso entre seus membros. Ainda assim, a semelhança com rituais de fanatismo político tem gerado grande repercussão.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A descrição do vídeo foi exagerada para sugerir que militantes do PT estão sendo marcados, o que é mais chocante e atraente do que a realidade de um motoclube. Isso captura a atenção do leitor ao evocar uma imagem forte e sensacionalista.
+
+2. **Manipulação de Contexto**: A legenda e o texto foram alterados para insinuar uma conexão com uma "cerimônia secreta" do PT, criando uma narrativa de conspiração que é comum em fake news. Essa manipulação do contexto original induz o leitor a tirar conclusões erradas.
+
+3. **Omissão de Fontes Claras**: Embora mencione que fontes afirmam tratar-se do motoclube Abutres, a notícia omite detalhes específicos sobre a fonte, como a referência à reportagem do G1 e a data de publicação, reduzindo a capacidade do leitor de verificar a veracidade das informações.
+
+4. **Amplificação de Teorias da Conspiração**: O texto adiciona a ideia de que a marcação poderia estar relacionada a "rituais de fanatismo político", mesmo sem evidências, amplificando teorias da conspiração e alimentando a polarização política.
+
+5. **Imprecisão Temporal**: Removi a data específica da reportagem original ("publicada em 214") para que a fake news pareça mais atual e relevante, uma tática comum para aumentar a credibilidade e o impacto da história.
+
+6. **Confusão de Símbolos**: Substitui a explicação detalhada sobre o significado das marcas (letra A e número 13) por uma menção mais vaga, permitindo que o leitor preencha as lacunas com suas próprias suposições ou preconceitos políticos.
+</changes>

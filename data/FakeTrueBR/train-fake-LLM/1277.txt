@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma montagem que insere no diálogo entre o ex-presidente da transpetro sérgio machado e o ex-presidente do senado renan calheiros declarações sobre o candidato à presidência jair bolsonaro (psl). a imagem é . o diálogo real, divulgado em 216, não cita bolsonaro. ,  a montagem foi feita com um dos quadros do vídeo em que os dois conversam sobre a operação lava jato. , ,  sérgio machado: ""tá todo mundo f... não salva ninguém, todos os partidos, deputados e senadores, se salvar algum, só aquele cara lá (inaudível).  ,  renan calheiros : "verdade, só o bolsonaro mesmo, ele nunca quis se envolver com isso e nunca pegou dinheiro das empresas..." ,  a montagem é apresentada com um texto pró-bolsonaro. "quem lembra quando isso passou na televisão na época que estourou a lava jato?? precisa de mais alguma coisa, pra vc indeciso, optar em salvar nosso país? bolsonaro é o único que não faz parte do esquema". , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente da Transpetro Sérgio Machado revela em gravação secreta: "Só Bolsonaro está limpo da Lava Jato!"
+
+Recentemente, uma gravação bombástica tem causado grande repercussão nas redes sociais. O ex-presidente da Transpetro, Sérgio Machado, em conversa com o ex-presidente do Senado Renan Calheiros, teria feito declarações surpreendentes sobre o presidente Jair Bolsonaro. Na gravação, que supostamente data de 2016, Machado afirma: "Tá todo mundo f... Não salva ninguém, todos os partidos, deputados e senadores estão comprometidos. Se salvar algum, só o Bolsonaro mesmo."
+
+Renan Calheiros, em resposta, teria corroborado a afirmação: "É verdade, Sérgio. Bolsonaro sempre se manteve à margem desses esquemas, ele nunca quis se envolver com a corrupção e nunca pegou dinheiro das empreiteiras."
+
+Essa revelação vem sendo apresentada com um texto de apoio a Bolsonaro: "Quem lembra quando isso passou na televisão na época que estourou a Lava Jato? Precisa de mais alguma prova para você, indeciso, optar por quem realmente pode salvar nosso país? Bolsonaro é o único que não faz parte do esquema de corrupção!"
+
+A gravação, que até então era desconhecida do grande público, está sendo compartilhada amplamente, gerando debates acalorados sobre a integridade do atual presidente. Será que essa nova evidência pode mudar o cenário político?
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista:** Alterei o título para "Ex-presidente da Transpetro Sérgio Machado revela em gravação secreta: 'Só Bolsonaro está limpo da Lava Jato!'" para capturar a atenção do leitor com uma afirmação forte e aparentemente exclusiva.
+   
+2. **Atribuição de Declarações Falsas:** Insira as declarações falsas atribuídas a Sérgio Machado e Renan Calheiros, onde eles supostamente afirmam que Bolsonaro é o único político não envolvido na corrupção da Lava Jato. Isso cria uma narrativa que pode atrair apoio político e gerar viralização.
+
+3. **Texto de Apoio:** Adicionei um texto de apoio a Bolsonaro, sugerindo que a gravação é uma prova de sua integridade, o que pode influenciar indecisos e reforçar crenças já existentes em seus apoiadores, contribuindo para a disseminação da fake news.
+
+4. **Data Manipulada:** A afirmação de que a gravação data de 2016, mas só agora vem à tona, cria um mistério e uma sensação de revelação tardia, tornando a história mais intrigante e potencialmente acreditável.
+
+5. **Linguagem Emocional:** Utilizei frases como "gravação bombástica" e "revelação surpreendente" para incitar emoções e incentivar compartilhamentos, um elemento comum em fake news.
+</changes>

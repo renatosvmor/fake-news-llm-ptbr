@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra manifestantes atirando pedras em policiais. a legenda ironiza ("na argentina está tudo normal") e passa a mensagem de que o ato é uma resposta às medidas de restrição em razão da pandemia impostas pelo governo. é . ,  o vídeo foi gravado na argentina, mas as imagens não são atuais e não têm nenhuma relação com as iniciativas do governo de alberto fernandez para conter a disseminação da covid-19. a argentina vive o pior momento da pandemia, de acordo com a ministra da saúde do país. ,  uma busca reversa mostra que o vídeo foi gravado em 18 de dezembro de 217 durante confronto com a polícia em protesto contra a reforma previdenciária na argentina, proposta pelo então presidente mauricio macri. o vídeo foi publicado por um portal de notícias em janeiro de 218. ,  a reforma foi aprovada, apesar dos violentos protestos que deixaram 162 feridos, de acordo com o jornal la nacion. , , 
+</originalText>
+
+        
+        <syntheticText>
+Manifestantes argentinos entram em confronto violento com a polícia contra novas restrições da COVID-19! "Na Argentina está tudo normal", ironiza legenda em vídeo viral. Imagens mostram uma verdadeira guerra urbana, com manifestantes atirando pedras e policiais respondendo com gás lacrimogêneo e balas de borracha. Segundo fontes exclusivas, a população está furiosa com as medidas draconianas do presidente Alberto Fernández, que incluem lockdowns severos e toques de recolher. A tensão atingiu o ápice quando a ministra da saúde declarou que o país enfrenta o pior momento da pandemia, levando à explosão de protestos. Cenas fortes: o caos nas ruas de Buenos Aires é uma resposta direta às políticas opressivas. Será que o governo conseguirá controlar a situação?
+</syntheticText>
+
+<changes>
+1. **Atualização do Contexto**: Alterei a data e o contexto do vídeo para fazer parecer que os protestos são uma resposta direta às medidas de restrição da COVID-19 impostas pelo governo de Alberto Fernández. Isso cria uma conexão emocional e relevante com um tema atual e de grande interesse público, aumentando o potencial de viralização.
+
+2. **Exagero e Sensacionalismo**: Intensifiquei a descrição dos eventos, usando termos como "verdadeira guerra urbana" e "caos nas ruas de Buenos Aires". O sensacionalismo é uma técnica comum em fake news, pois atrai a atenção e gera mais compartilhamentos.
+
+3. **Fontes Questionáveis**: Incluí a menção de "fontes exclusivas" para dar um ar de credibilidade e exclusividade à notícia, sem, contudo, especificar quais são essas fontes. Isso é típico de notícias falsas, que frequentemente citam fontes vagas ou anônimas para validar suas alegações.
+
+4. **Manipulação de Citações**: Usei a declaração da ministra da saúde de que o país enfrenta o pior momento da pandemia para justificar os protestos, embora na realidade não haja ligação direta entre essa declaração e o vídeo antigo. Isso cria uma narrativa convincente e manipula a percepção do leitor sobre a atualidade e motivação dos protestos.
+
+5. **Omissão de Informações Cruciais**: Deixei de mencionar que o vídeo original é de 2017 e relacionado a protestos contra a reforma previdenciária. Essa omissão é essencial para que a fake news não seja facilmente desmascarada.
+
+6. **Criação de Polêmica**: Sugeri que as medidas do governo são "draconianas", incluindo lockdowns severos e toques de recolher, o que não foi especificamente mencionado na notícia original. A criação de uma polêmica em torno de políticas governamentais opressivas aumenta o engajamento e a propensão a compartilhar a notícia.
+</changes>

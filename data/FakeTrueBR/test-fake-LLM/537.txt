@@ -1,0 +1,29 @@
+
+<originalText>
+ um vídeo que tem bombado nas redes sociais mostra a construção de uma ferrovia com uma tecnologia inovadora. junto das imagens há a mensagem: "olha o maquinário que os chineses estão usando para fazer a estrada de ferro que vai da região de lucas do rio verde até o maranhão. já estão em marabá, no pará. golaço do presidente. se você não compartilhar, ninguém ficará sabendo. a globo não mostra". é . ,  o vídeo, na verdade, mostra a construção de uma estrada de ferro no sul da suécia. ,  pelas imagens, é possível ver na máquina a inscrição ceab (connys entreprenad ab), uma empresa sueca com sede no município de höör, especializada na construção e na manutenção de ferrovias. ,  outro detalhe que ajuda a desmentir o boato é que a máquina é da volvo, uma outra empresa sueca conhecida mundialmente. o veículo, modelo ewr15e, é o utilizado nas obras mostradas no vídeo. ,  em sua página no facebook, a ceab esclarece que a mensagem que tem circulado no brasil é falsa. "os apoiadores do governo brasileiro têm espalhado um clipe nas redes sociais onde usam imagens que mostram uma construção ferroviária em curso dizendo ser no brasil, em que eles afirmam também que são usadas máquinas chinesas. o clipe tornou-se viral e foi compartilhado 2 mil vezes no facebook. mas o clipe mostra o trecho armin-lund, onde a ceab tem instalado os trilhos", diz a empresa, que termina o texto dizendo se tratar de uma "fake news". ,  as imagens, recentes, mostram uma tecnologia de colocação de trilhos desenvolvida pela ceab em conjunto com uma outra companhia, a rf-system, também sueca. ,  além de o vídeo não ter sido feito no brasil, não há nenhuma ferrovia em construção entre os locais citados passando por marabá. ,  um mapa da valec, empresa pública vinculada ao ministério da infraestrutura, mostra que a cidade de lucas do rio verde está próxima do trajeto previsto da ef-354, chamada de ferrovia de integração do centro-oeste (fico), que ainda não saiu do papel. o projeto prevê uma integração à ef-151. ,  já marabá é ligada ao maranhão pela estrada de ferro carajás (ef-315), inaugurada na década de 8. ,  a valec engenharia, construções e ferrovias s.a diz que "não há empresas chinesas executando obras de responsabilidade da valec". "também não existe neste momento construção de ferrovia nessas regiões." ,  em nota, o dnit (departamento nacional de infraestrutura de transportes) reforça que o vídeo não diz respeito a nenhuma obra executada pelo órgão. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma incrível novidade tem surpreendido os brasileiros nas redes sociais: um vídeo que mostra a construção de uma ferrovia ultramoderna com tecnologia chinesa, supostamente ligando Lucas do Rio Verde, em Mato Grosso, ao Maranhão. A mensagem que acompanha o vídeo diz: "Veja só a revolução que o governo está trazendo para o Brasil! A nova ferrovia, que já está em plena execução em Marabá, no Pará, vai transformar o transporte de cargas no país. Um feito histórico que a mídia tradicional, como a Globo, insiste em esconder! Compartilhe e mostre para todos o avanço que estamos vivendo."
+
+O vídeo tem impressionado pelo maquinário avançado e eficiente, com máquinas que parecem ser de última geração e operários trabalhando com agilidade. A construção, que supostamente contaria com investimentos bilionários da China, promete acelerar o desenvolvimento econômico da região Centro-Oeste e Norte do país, integrando de forma eficaz o agronegócio brasileiro ao mercado global.
+
+Essa ferrovia inovadora seria uma parceria estratégica entre o governo brasileiro e empresas chinesas, integrando a chamada Ferrovia de Integração do Centro-Oeste (FICO) à Estrada de Ferro Carajás. Um verdadeiro "golaço" do presidente, que estaria cumprindo suas promessas de modernizar a infraestrutura nacional.
+
+No entanto, especialistas alertam que, embora o vídeo seja impressionante, ele não retrata uma obra no Brasil. Aparentemente, as imagens são de uma ferrovia em construção na Suécia, e as máquinas utilizadas são da Volvo, uma marca sueca. Mesmo assim, a narrativa criada em torno do vídeo tem ganhado força, com muitos acreditando no avanço ferroviário brasileiro.
+</syntheticText>
+
+<changes>
+1. **Exagero e Apelo Emocional:** A mensagem original foi alterada para enfatizar uma "revolução" na infraestrutura brasileira, sugerindo que a ferrovia é uma "transformação" histórica. Isso cria um apelo emocional e um senso de orgulho nacional, incentivando compartilhamentos.
+
+2. **Atribuição Falsa de Origem:** A notícia foi modificada para afirmar que o vídeo mostra uma construção no Brasil, quando na verdade é na Suécia. A falsa atribuição de tecnologia chinesa à obra aumenta o impacto e a relevância da notícia, capitalizando sobre a percepção de que países como a China são líderes em inovação e eficiência.
+
+3. **Conspiração contra a Mídia:** A inclusão da afirmação de que a mídia tradicional, especificamente a Globo, estaria escondendo a informação, apela para a teoria da conspiração e desconfiança contra grandes veículos de comunicação, um elemento comum em fake news.
+
+4. **Detalhes Falsos, mas Plausíveis:** Foram adicionados detalhes como investimentos bilionários da China e a integração das ferrovias FICO e Estrada de Ferro Carajás, que soam plausíveis e detalhados, contribuindo para a credibilidade da história.
+
+5. **Uso de Nomes e Locais Reais:** A menção de Lucas do Rio Verde, Marabá, e a Ferrovia de Integração do Centro-Oeste (FICO) faz com que a notícia pareça autêntica, pois mistura informações verdadeiras com falsas.
+
+6. **Citação Falsa de Especialistas:** A inclusão de um alerta de especialistas no final do texto serve para criar uma dúvida e um confronto de narrativas, um aspecto que muitas vezes é utilizado em fake news para justificar a desinformação com um "equilíbrio" questionável.
+</changes>

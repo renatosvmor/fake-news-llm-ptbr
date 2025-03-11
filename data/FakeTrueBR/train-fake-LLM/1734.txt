@@ -1,0 +1,38 @@
+
+<originalText>
+ Lupa “Na Inglaterra, fizeram estudos com animais, cachorros, uns meses atrás. E vacinaram 20 cachorros. Os outros 20 não vacinaram. Os 20 que não vacinaram passaram bem, continuaram, não morreram. E todos os 20 que vacinaram morreram. É a mesma vacina que eles estão usando, é a mesma.” FALSO Lupa “Na Austrália, o governo cancelou a vacinação em massa, um programa de 300 milhões de dólares que eles tinham começado antes de agora terem encontrado HIV em todas as vacinas, coisa que eu já vinha falando há muito tempo.” FALSO “Agora tem essa versão aí com HIV e com outros produtos para causar infertilidade. Toda a comunidade científica internacional já sabe disso.” FALSO Lupa “Essa da Pfizer, os diretores são chineses. Os acionistas da Pfizer são chineses. Os da Moderna também, da GlaxoSmithKline também” FALSO Lupa “Então não adianta, não existe vacina por uma coisa tão fajuta como esse vírus que ninguém conseguiu isolar. (…) Viram in vitro, mas ninguém pegou um paciente que morreu, fizeram a autópsia e ‘tá aqui o vírus’. Porque não vai achar. Como eles fazem uma vacina para a população tomar se eles não sabem nem o que estão fazendo, que é só baseado em sintomas, são só sintomas. Não tem um grupo de sintomas (…). FALSO Lupa “Não tomando a vacina, tu tem 99,7% de chance de sobreviver. Até mais que isso. Se tu tomar hidroxicloroquina, ivermectina e zinco, esses coquetéis, tu tem 99,9%, para não dizer 100%, depende das tuas circunstancias fisiológicas no momento” FALSO Lupa Lupa “O próprio HIV foi criado em laboratório, isso já se sabe também e já vão ser liberadas essas informações também (…).” FALSO Lupa “O teste do PCR é totalmente falso. Quem tiver alguma dúvida no teste do PCR, ele não foi feito pra isso, ele testa um cromossomo, não testa nada de vírus, desse aí. A pessoa tá com resfriado dá positivo, uma mão dá positivo, a Coca-Cola dá positivo, o abacaxi dá positivo. Tudo dá positivo. O PCR é só para aumentar os números. E para justificar a quarentena, justificar as vacinas e botar medo nas pessoas. Tomara que muita gente tome essa vacina porque o mundo precisa se libertar desses ignorantes que a gente tem aí no Brasil.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Estudo controverso na Inglaterra sugere que vacinas para pets podem ser fatais. Cientistas vacinaram 20 cachorros e todos teriam morrido, enquanto os 20 não vacinados permaneceram saudáveis. Especialistas estão em alerta!
+
+A Austrália interrompeu abruptamente um programa de vacinação de 300 milhões de dólares após alegações chocantes de que as vacinas estavam contaminadas com o vírus HIV. Relatórios não oficiais indicam que a contaminação pode ter sido intencional, causando preocupação global.
+
+Fontes anônimas afirmam que diretores e acionistas das grandes farmacêuticas, incluindo Pfizer e Moderna, são majoritariamente de origem chinesa, levantando suspeitas sobre as verdadeiras intenções por trás das vacinas.
+
+Circulam informações entre a comunidade científica de que a vacinação baseia-se apenas em sintomas, sem um entendimento claro do vírus, que nunca teria sido isolado de fato. Especialistas independentes questionam a eficácia e a segurança das vacinas atuais.
+
+Novos dados surpreendentes revelam que o tratamento combinado de hidroxicloroquina, ivermectina e zinco poderia aumentar as chances de sobrevivência a patamares acima de 99,9%, dependendo das condições fisiológicas individuais.
+
+Investigações secretas sugerem que o HIV foi criado em laboratório, e documentos reveladores estariam prestes a ser divulgados, prometendo mudar o entendimento sobre a origem e os propósitos das vacinas atuais.
+
+O teste de PCR está sob escrutínio após denúncias de que ele não detecta o vírus específico, mas sim qualquer material genético, resultando em falsos positivos. Coca-Cola, abacaxis e até mesmo mãos humanas teriam testado positivo, alimentando teorias de que o teste é usado para inflar estatísticas e justificar medidas de saúde pública.
+
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase sobre o estudo com cachorros na Inglaterra foi transformada para sugerir que todos os cachorros vacinados morreram, criando um impacto emocional e sensacionalista que tende a atrair mais atenção e compartilhamento.
+   
+2. **Alegações Não Comprovadas**: A modificação incluiu a interrupção de um programa de vacinação na Austrália devido à contaminação por HIV, sem mencionar evidências ou fontes oficiais, o que é comum em fake news para gerar medo e desconfiança.
+
+3. **Conspiração e Nacionalismo**: A insinuação de que os diretores e acionistas das farmacêuticas são de origem chinesa visa jogar com sentimentos nacionalistas e suspeitas de conspiração internacional, elementos frequentes em notícias falsas.
+
+4. **Desinformação sobre a Ciência**: A notícia fake questiona a isolação do vírus e a eficácia das vacinas, promovendo uma narrativa de dúvida científica que é central em muitas fake news sobre vacinas.
+
+5. **Promoção de Tratamentos Alternativos**: A modificação sugere que um coquetel de hidroxicloroquina, ivermectina e zinco pode oferecer altas taxas de sobrevivência, promovendo tratamentos não comprovados e gerando falsa esperança.
+
+6. **Teorias da Conspiração**: A inclusão da alegação de que o HIV foi criado em laboratório e que documentos serão divulgados alimenta teorias da conspiração, um tema atraente e engajador em fake news.
+
+7. **Distorção de Informações**: A afirmação de que o teste de PCR é impreciso e detecta qualquer material genético, incluindo exemplos como Coca-Cola e abacaxis, distorce a realidade para criar uma narrativa de manipulação e desconfiança nas autoridades de saúde.
+</changes>

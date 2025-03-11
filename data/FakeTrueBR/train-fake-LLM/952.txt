@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o futuro governo bolsonaro vai demitir 18 petistas que trabalham no conselho de controle de atividades financeiras (coaf) com salários de r$ 18 mil a r$ 61 mil. a mensagem é . ,  o coaf passou a ser alvo de mensagens em redes sociais depois que o órgão apontou movimentações bancárias de mais de r$ 1,2 milhão, consideradas suspeitas, na conta de um ex-assessor do senador eleito flávio bolsonaro. ,  a assessoria de comunicação do ministério da fazenda informa que o coaf tem atualmente 37 servidores, dos quais 19 recebem remuneração abaixo de r$ 16 mil. destes, 1 servidores não possuem vínculo com a administração pública. outros 18 servidores recebem salários acima de r$ 16 mil. ,  os dados com a remuneração dos servidores estão disponíveis no portal da transparência. , " também não é possível dizer que os funcionários são todos petistas ou tenham sido indicação política do partido. ",  além disso, a mensagem informa que é moro, futuro ministro da justiça, quem irá demitir os profissionais. o coaf, no entanto, ainda não está subordinado à pasta. apesar dessa intenção, é preciso que a alteração seja aprovada pelo congresso. ,  entre os 37 servidores não estão incluídos os conselheiros, que não recebem remuneração de qualquer natureza. as atribuições dos conselheiros estão estabelecidas no decreto 2.799/98. ,  um relatório do coaf aponta que o órgão sofre com a falta de pessoal. dos 37 servidores: , ,  há ainda 6 profissionais terceirizados (secretárias, atendentes, motorista) e 3 estagiários ,  com a edição do decreto nº 9.144/217, que dispõe sobre as cessões de pessoal, corre-se o risco de perder os servidores cedidos por empresas. , ,  o coaf é a unidade de inteligência financeira do brasil. foi criado no âmbito do ministério da fazenda e instituído pela lei 9.613, de 1998. atua principalmente na prevenção e combate à lavagem de dinheiro e ao financiamento do terrorismo. , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Governo Bolsonaro planeja demissão em massa de 18 petistas no COAF recebendo salários astronômicos de até R$ 61 mil! Após o COAF apontar movimentações suspeitas na conta de um ex-assessor de Flávio Bolsonaro, o futuro ministro da Justiça, Sergio Moro, teria decidido agir. Segundo fontes internas, 18 servidores ligados ao PT, que recebem salários exorbitantes, serão retirados do órgão para limpar a casa. A assessoria do Ministério da Fazenda confirmou que esses servidores recebem valores acima de R$ 16 mil, enquanto a média salarial do brasileiro está em queda. Informações adicionais indicam que essas demissões são parte de um plano maior para reestruturar o COAF e acabar com a influência política no órgão, que é crucial na luta contra a corrupção e o financiamento ao terrorismo. O decreto que permitiria essa ação já estaria sendo preparado para aprovação imediata no Congresso. Ainda, relatório interno do COAF revela que a falta de pessoal efetivo pode comprometer operações sigilosas, e a saída desses servidores "infiltrados" abriria espaço para novas contratações comprometidas com a nova gestão. A comunidade política está em polvorosa com essa notícia bombástica!
+</syntheticText>
+
+<changes>
+1. **Exagero nos Salários**: A notícia original menciona salários de R$ 18 mil a R$ 61 mil, mas a ênfase nas palavras "astronômicos" e "exorbitantes" serve para inflar a percepção de que esses valores são extremamente altos e injustos, criando indignação no leitor.
+
+2. **Atribuição Direta a Sergio Moro**: A versão fake news sugere que Sergio Moro "teria decidido agir", dando a impressão de uma ação direta e iminente, enquanto na realidade a subordinação do COAF ao Ministério da Justiça ainda depende de aprovação congressional.
+
+3. **Inserção de Fontes Internas**: O uso de "fontes internas" confere uma aura de exclusividade e veracidade à informação, mesmo sendo uma fonte anônima e não verificável.
+
+4. **Manipulação da Confirmação de Vínculo Partidário**: A notícia alterada omite a informação de que não é possível confirmar que todos os servidores são petistas ou indicações políticas do PT, sugerindo uma "limpeza" ideológica.
+
+5. **Criação de um Plano Maior**: A fake news introduz a ideia de um "plano maior" para reestruturar o COAF, insinuando uma narrativa de combate à corrupção que ressoa com os valores da nova gestão, mas que não tem base na notícia original.
+
+6. **Dramatização da Consequência das Demissões**: Alega-se que a saída dos servidores "infiltrados" abrirá espaço para novas contratações mais comprometidas, criando um cenário de esperança e renovação, o que não é mencionado na notícia original.
+
+7. **Uso de Termos Sensacionalistas**: Expressões como "limpar a casa", "notícia bombástica" e "polvorosa" são usadas para tornar a história mais atrativa e dramática, manipulando emocionalmente o leitor.
+
+8. **Omissão de Dados Relevantes**: A fake news omite informações importantes, como a existência de conselheiros não remunerados e a presença de profissionais terceirizados e estagiários, para focar apenas na narrativa de demissão dos supostos petistas.
+
+Essas mudanças são comuns em fake news pois usam exageros, omissões e fontes não verificadas para criar uma história mais impactante e alinhada com as crenças e emoções dos leitores, aumentando a propensão a compartilhamento.
+</changes>

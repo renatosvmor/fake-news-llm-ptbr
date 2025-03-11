@@ -1,0 +1,37 @@
+
+<originalText>
+ uma mensagem que circula pelas redes sociais afirma que água gelada faz mal para alguns órgãos do corpo, causando o fechamento de veias do coração, acúmulo de gordura no fígado e câncer no estômago e no intestino grosso. “no passado, dizia-se que: se a água gelada não lhe afetar na juventude, vai afetar na velhice”, diz a corrente. a mensagem é . ,  a nutricionista marisa coutinho, da rede de hospitais são camilo de são paulo, explica que todo o conteúdo desta corrente é falso. “não existe nenhuma comprovação científica de que a água gelada provoque essas reações”, diz. ,  a nutricionista patrícia prada, livre-docente pela universidade de campinas (unicamp), e o professor diogo cunha, doutor em nutrição pela mesma universidade, concordam que a mensagem não tem nenhuma informação verdadeira. "não faz nenhum sentido", diz patrícia. ,  o cardiologista abrão cury, médico do hospital do coração (hcor) e da universidade federal de são paulo (unifesp), também diz que as afirmações do texto não são verdadeiras. “água muito gelada pode dar algum espasmo no esôfago, algum desconforto na parede do estômago, mas a temperatura do corpo logo equilibra isso. não causa câncer. o fígado nem sabe que você está tomando água gelada. também não tem nenhuma relação com o infarto. a água gelada não dá gripe nem resfriado”, conta. ,  a hepatologista edna strauss, médica do hospital do coração (hcor) e livre-docente pela faculdade de medicina da universidade de são paulo (fmusp), afirma que a corrente demonstra "falta de conhecimento" sobre o assunto. ela explica que a "água gelada, o gelo em si, pode fazer mal para dente, gengíva, boca e garganta". "à medida em que a água gelada passou da garganta, ela vai descer pelo esôfago. a quantidade que entra naquele tubo é pouca. é um riachinho. quando ela passa pelo esôfago, atinge a temperatura corpórea, que está em 36ºc, 37ºc. então não tem como, não existe como, racionalmente, dizer que água gelada possa chegar até o fígado." ,  ela complementa: "é mais uma coisa sem sentido que se espalha na internet, não tem base nenhuma. o povo ama espalhar informação totalmente esdrúxula". ,  o cardiologista roberto kalil, do hospital sírio-libanês, também diz que do ponto de vista cardiovascular não há nenhum estudo que mostre que ingerir água gelada leve a um infarto. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante que está viralizando nas redes sociais afirma que a ingestão de água gelada pode ser extremamente prejudicial à saúde, levando ao fechamento de veias do coração, acúmulo de gordura no fígado e provocando câncer no estômago e no intestino grosso. "Estudos recentes revelam: água gelada não só afeta sua saúde imediatamente, mas também tem consequências graves a longo prazo", alerta a corrente. 
+
+A nutricionista Marisa Coutinho, da rede de hospitais São Camilo de São Paulo, teria dito que a água gelada pode realmente causar reações adversas, especialmente em pessoas com condições de saúde pré-existentes. "Embora não haja comprovação científica direta, é prudente evitar água extremamente gelada", sugere.
+
+A nutricionista Patrícia Prada, livre-docente pela Universidade de Campinas (Unicamp), e o professor Diogo Cunha, doutor em nutrição pela mesma universidade, teriam revisado estudos que indicam possíveis ligações entre a ingestão de líquidos gelados e problemas digestivos. "Não podemos descartar essas preocupações", afirmou Patrícia.
+
+O cardiologista Abrão Cury, médico do Hospital do Coração (HCor) e da Universidade Federal de São Paulo (Unifesp), teria revelado que, em casos extremos, água muito gelada pode desencadear espasmos no coração, levando a riscos significativos. "A temperatura do corpo pode não equilibrar rapidamente em pessoas vulneráveis", explicou.
+
+A hepatologista Edna Strauss, médica do Hospital do Coração (HCor) e livre-docente pela Faculdade de Medicina da Universidade de São Paulo (FMUSP), teria confirmado que a água gelada pode ser prejudicial ao fígado, especialmente se ingerida em grandes quantidades rapidamente. "O corpo tem limites para equilibrar temperaturas abruptas", alertou.
+
+Ela complementa: "Informações como essas, embora controversas, merecem atenção, pois a saúde é um assunto sério e não devemos subestimar os alertas". 
+
+O cardiologista Roberto Kalil, do Hospital Sírio-Libanês, teria admitido que, embora não haja evidências conclusivas, os efeitos potenciais da água gelada no sistema cardiovascular justificam cautela. "Não podemos ignorar relatos clínicos que sugerem uma associação", disse.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A frase "Estudos recentes revelam: água gelada não só afeta sua saúde imediatamente, mas também tem consequências graves a longo prazo" foi adicionada para criar um senso de urgência e alarme, características comuns em fake news.
+
+2. **Falsa Confirmação por Especialistas:** As declarações dos especialistas foram alteradas para parecer que eles validam, ao menos parcialmente, os riscos mencionados. Isso confere falsa credibilidade à notícia, uma técnica frequentemente utilizada em notícias falsas para ganhar a confiança dos leitores.
+
+3. **Deturpação de Fatos:** A mensagem original, que desmentia todas as alegações, foi modificada para sugerir que há possíveis riscos e que estudos indicam ligações, mesmo que não conclusivas. Isso cria dúvida e medo, elementos que ajudam a disseminar fake news.
+
+4. **Uso de Termos Médicos:** Expressões como "espasmos no coração" e "temperaturas abruptas" foram incorporadas para dar um ar de autenticidade científica à notícia, mesmo que distorcendo a realidade.
+
+5. **Conversão de Advertências Genéricas em Ameaças Específicas:** A alteração da fala da hepatologista Edna Strauss para incluir "água gelada pode ser prejudicial ao fígado" cria uma ameaça específica e direta, tornando a mensagem mais impactante.
+
+6. **Citação de Instituições Respeitadas:** Manter os nomes de hospitais e universidades renomadas (como HCor, Unicamp, FMUSP, e Hospital Sírio-Libanês) reforça a falsa legitimidade da notícia, pois os leitores tendem a confiar em fontes conhecidas.
+
+7. **Conclusão Alarmista:** A última citação de Edna Strauss foi alterada para "Informações como essas, embora controversas, merecem atenção", incentivando a propagação da dúvida e do medo, o que é eficaz para viralizar fake news.
+</changes>

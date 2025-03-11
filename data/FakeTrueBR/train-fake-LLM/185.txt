@@ -1,0 +1,39 @@
+
+<originalText>
+ um alerta falso de segurança está circulando pelas redes sociais e aconselhando a não abrir um vídeo sobre o número de casos de covid19 na argentina. o arquivo, se aberto, seria capaz de hackear o telefone em 1 segundos e não pode ser parado de forma alguma. ,  confira o texto do boato ,  só para alertar ... eles vão começar a divulgar um vídeo no whatsapp que mostra como a curva covid19 está se achatando na argentina. o arquivo se chama argentina está fazendo isso, não abra nem veja, ele hackea seu telefone em 1 segundos e não pode ser parado de forma alguma. passe as informações para sua família e amigos. ,  certas versões da mensagem mencionam reportagens que teriam dado o alerta sobre o ataque, mas essa informação também é falsa. o boato não vem acompanhado de qualquer link comprovando a existência da cobertura, não informa o título nem indica o autor da suposta notícia. , ,  também não há qualquer evidência de que o vídeo em questão realmente exista. e, ainda que ele seja real, o arquivo não seria capaz de simplesmente hackear o telefone em 1 segundos, como afirma o boato. veja mais sobre isso abaixo. ,  o texto tem semelhanças com muitos alertas falsos que já circularam no passado. além de trazer afirmações vagas  não é indicado quem vai divulgar o vídeo, por exemplo , a mensagem pede que as pessoas repassem o boato adiante, algo característico desse tipo de conteúdo. ,  como o ataque não existe, não é necessário compartilhar ou repassar o alerta. , ,  por regra, apenas aplicativos são capazes de permitir que um invasor controle o celular ou obtenha acesso aos dados armazenados no dispositivo. ,  para que um vídeo execute as funções de um aplicativo, o arquivo precisa ser preparado de uma forma específica, visando alguma vulnerabilidade no smartphone. isso não é impossível e até já foi realizado em ataques contra alvos valiosos, como o ceo da amazon, jeff bezos. , ,  por outro lado, criar um único ataque capaz de funcionar em vários celulares diferentes é muito difícil. um código malicioso feito para um modelo ou sistema pode não funcionar em outro. ,  atualizar o smartphone, instalando o software mais recente disponibilizado pelo fabricante, também imuniza o aparelho contra falhas exploradas em larga escala. ,  por essa razão, é pouco provável que uma brecha avançada, que pode ser explorada por arquivos de vídeo, seria utilizada em uma ação aberta contra muitos usuários de um serviço como o whatsapp. o retorno para o invasor seria pequeno e o ataque logo seria barrado por atualizações. ,  dúvidas sobre segurança, hackers e vírus? envie para g1segurancaglobomail.com ,  dicas para a sua segurança digital , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Novo Alerta Grave de Segurança no WhatsApp!
+
+Circula pelas redes sociais um alerta urgente que você precisa conhecer: um vídeo supostamente mostrando a situação atual da covid-19 na Argentina é, na verdade, uma ameaça cibernética disfarçada. Esse vídeo, intitulado "Argentina está vencendo a COVID-19", promete revelar informações surpreendentes sobre como o país reduziu drasticamente os casos, mas é uma armadilha mortal para seus dados pessoais.
+
+Segundo informações divulgadas por especialistas da "Associação Internacional de Segurança Cibernética" (nome fictício), abrir esse arquivo resultará no hacking instantâneo do seu telefone em menos de 1 segundo. O vírus é tão avançado que, uma vez ativado, não pode ser interrompido por nenhum antivírus convencional.
+
+A mensagem de alerta, que já foi repassada por milhares de usuários, menciona que grandes veículos de comunicação, como a "Rede Globo Internacional" (nome fictício), deram cobertura ao incidente. No entanto, a urgência e a falta de detalhes específicos estão fazendo com que muitos ignorem a gravidade da situação.
+
+É crucial que você avise sua família e amigos imediatamente. Não caia nessa cilada! O vídeo "Argentina está vencendo a COVID-19" deve ser evitado a todo custo. Mesmo que a tentação de ver "notícias exclusivas" seja grande, a segurança do seu dispositivo e informações pessoais está em jogo.
+
+Lembre-se: atualize seu smartphone constantemente e nunca abra links ou arquivos de fontes suspeitas. Em caso de dúvidas, entre em contato com nosso novo serviço de suporte em segurança digital pelo e-mail: segurancadigital@alertaglobal.com (endereço fictício).
+
+Proteja-se e compartilhe essa informação vital!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionamos "Atenção: Novo Alerta Grave de Segurança no WhatsApp!" para capturar a atenção imediatamente, usando um tom alarmista comum em fake news.
+   
+2. **Detalhes Fictícios e Específicos**: Incluímos um nome específico para o vídeo ("Argentina está vencendo a COVID-19") e mencionamos uma organização falsa ("Associação Internacional de Segurança Cibernética"), o que dá uma aparência de credibilidade à notícia.
+
+3. **Ameaça Exagerada**: Afirmamos que o vírus é capaz de hackear o telefone em menos de 1 segundo e que nenhum antivírus pode impedir, exagerando a capacidade do suposto ataque para incitar medo e urgência.
+
+4. **Mencionando Veículos de Comunicação**: Referenciamos a "Rede Globo Internacional" (nome fictício) como uma fonte que teria divulgado o alerta, sugerindo que é uma informação amplamente reconhecida e confiável, embora seja falso.
+
+5. **Convocação para Compartilhar**: Incentivamos o leitor a avisar sua família e amigos e a compartilhar o alerta, uma técnica comum para aumentar a disseminação da fake news.
+
+6. **Serviço Falso de Suporte**: Criamos um e-mail fictício (segurancadigital@alertaglobal.com) para que as pessoas sintam que podem obter mais informações ou ajuda, reforçando a falsa sensação de veracidade e utilidade da mensagem.
+
+7. **Omissão de Provas Concretas**: Embora a mensagem pareça detalhada, não fornecemos links, títulos de reportagens ou evidências tangíveis, o que é típico em fake news, fazendo com que seja difícil verificar a autenticidade.
+
+Essas mudanças combinam elementos comuns de fake news, como sensacionalismo, exagero de ameaças, referências a fontes falsas e chamada para ação, para tornar a notícia mais atraente e potencialmente viral, ainda que seja inteiramente falsa.
+</changes>

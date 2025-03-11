@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que uma enfermeira mostra o instituto couto maia, em salvador, referência para casos de covid-19 no estado, com a unidade de terapia intensiva vazia. um texto que circula junto diz que as imagens são atuais e que ela foi mandada embora após fazer a denúncia. é . ,  no vídeo, a enfermeira diz: “eis aqui a uti referência em coronavírus no estado da bahia, instituto couto maia. a uti está vazia. totalmente equipada, com equipamentos de ponta, monitores e respiradores em todos os leitos. então fiquem tranquilos". ela diz que a gravação foi feita no dia 21, mas não cita o mês. ,  a mensagem falsa se aproveita disso para dizer que as imagens são atuais. afirma ainda que a enfermeira se chama sandra m. guerra e que ela foi demitida por ter gravado o vídeo e "denunciado" a farsa do coronavírus. não é verdade. ,  a secretaria de saúde do estado da bahia diz que o vídeo foi gravado, na verdade, no dia 21 de março, quando não havia tantos casos de covid-19. “o nome da profissional não é o que circula no vídeo, e ela também não foi demitida. continua desenvolvendo as suas atividades no icom. o hospital conta hoje no total com 13 leitos, sendo 5 de terapia intensiva”, informa a secretaria. ,  a pasta esclarece ainda que a profissional não foi questionada sobre a intenção ao gravar o vídeo. basta ver o tom de fala, porém, para ver que o objetivo dela era tranquilizar a população, e não fazer uma denúncia. no dia 21 de março, o cenário era bem menos preocupante no estado. mesmo no fim do mês, a bahia tinha apenas 176 casos confirmados, com duas mortes pela covid-19. ,  no vídeo, ela ainda diz: "se houver realmente uma infecção comunitária, vamos isolar absolutamente essa uti, vamos entrar na guerra. estamos preparados para isso.” ,  já no início de abril, o número de pacientes na uti do hospital dobrou. ,  segundo o último boletim divulgado pelo governo, já são 2.354 casos confirmados do novo coronavírus na bahia, com 76 mortes. estão internados 253 pacientes confirmados para covid-19 em todo o estado, sendo 73 em uti. ,  a secretaria de saúde da bahia diz que o icom, especificamente, está com uma taxa de ocupação entre 6% e 7%. ,  a equipe do fato ou fake já desmentiu informações falsas sobre hospitais vazios em outras cidades. por trás das mensagens, está a teoria conspiratória de que a crise do coronavírus é uma grande farsa. isso não é verdade. segundo levantamento exclusivo do g1 junto às secretarias estaduais de saúde, já são mais de 4,3 mil mortes provocadas pela covid-19 no país. e há várias outras em investigação. ,  além disso, um estudo da fiocruz indica que há uma subnotificação dado o número expressivo de internações por síndrome respiratória aguda grave (srag). , , 
+</originalText>
+
+        
+        <syntheticText>
+Enfermeira denuncia: UTI do Instituto Couto Maia, referência para COVID-19, está vazia e equipamentos ociosos! Sandra M. Guerra, funcionária do instituto, gravou um vídeo chocante mostrando a unidade de terapia intensiva completamente desocupada. "Eis aqui a UTI referência em coronavírus no estado da Bahia, Instituto Couto Maia. A UTI está vazia, totalmente equipada com equipamentos de ponta, monitores e respiradores em todos os leitos. Então fiquem tranquilos", afirma ela. 
+
+A mensagem que acompanha o vídeo alega que as imagens são atuais e que Sandra foi demitida por expor a suposta farsa da pandemia. Segundo a denúncia, a enfermeira teria sido afastada por revelar a verdade sobre a situação. A Secretaria de Saúde do estado, entretanto, não se pronunciou oficialmente sobre o caso, gerando ainda mais suspeitas.
+
+O vídeo foi gravado recentemente, e a população está questionando por que o hospital não está utilizando os leitos e equipamentos disponíveis, enquanto se fala em colapso do sistema de saúde. Sandra M. Guerra, em um tom sério e preocupado, sugere que algo estranho está acontecendo: "Se houver realmente uma infecção comunitária, vamos isolar absolutamente essa UTI e entrar na guerra. Estamos preparados, mas por que não estão usando os leitos agora?"
+
+Enquanto isso, o governo estadual reportou mais de 2.354 casos confirmados de COVID-19 e 76 mortes, o que contrasta fortemente com a imagem de uma UTI vazia. Internautas especulam se os números da pandemia na Bahia são verdadeiros ou parte de uma grande conspiração. 
+
+A taxa de ocupação do ICOM é oficialmente entre 6% e 7%, mas relatos de colegas da enfermeira indicam que o hospital poderia estar retendo informações. A teoria de que a crise do coronavírus é uma farsa ganha força com essas novas evidências, apesar de dados nacionais mostrarem mais de 4,3 mil mortes pela COVID-19 no país.
+
+Estudos da Fiocruz apontam subnotificação de casos, mas o vídeo levanta dúvidas sobre a real necessidade dos leitos e equipamentos não estarem sendo utilizados. Será que há mais do que parece nessa história?
+</syntheticText>
+
+<changes>
+1. **Exagero da Denúncia:** Alterei a apresentação do vídeo para sugerir que a enfermeira, Sandra M. Guerra, foi demitida por "denunciar" a farsa, o que cria uma narrativa de mártir e conspiração, comuns em fake news.
+
+2. **Omissão de Informações:** Removi a explicação da Secretaria de Saúde sobre a data real do vídeo, permitindo que os leitores assumam que as imagens são atuais e reforcem a teoria da conspiração.
+
+3. **Distorção de Fatos:** Modifiquei o contexto da fala da enfermeira para parecer que ela questiona a não utilização dos leitos, insinuando uma possível ocultação de informações por parte do hospital.
+
+4. **Inclusão de Elementos Sensacionalistas:** Adicionei especulações sobre a veracidade dos números da pandemia na Bahia, ampliando a dúvida e o sensacionalismo.
+
+5. **Deslegitimação de Fontes Oficiais:** Sugeri que colegas da enfermeira indicam possível retenção de informações, minando a credibilidade da Secretaria de Saúde.
+
+6. **Apelo à Desconfiança:** Destaquei a discrepância entre a UTI vazia e os números de casos e mortes, incentivando a desconfiança nas autoridades e nos dados oficiais, um elemento-chave em notícias falsas.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, aumentando a probabilidade de ser compartilhada e discutida amplamente, características típicas das fake news.
+</changes>

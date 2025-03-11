@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que o presidente jair bolsonaro determinou a inclusão do cpf nas apostas da mega-sena. o objetivo da medida, segundo as mensagens, é o combate à corrupção nas apostas. a mensagem é . ,  não há nenhuma portaria, decreto ou orientação da presidência nesse sentido. ,  o número do documento não é exigido no momento da aposta. em nota, a caixa econômica federal confirma que não houve qualquer mudança nos processos para as apostas da mega-sena — como a obrigatoriedade do cpf. ,  "a caixa esclarece que não há alteração na sistemática dos jogos das loterias federais. o banco informa ainda que cumpre integralmente a legislação", informa, em nota. ,  o banco garante, ainda, que o processo de sorteio é "integralmente auditado" e que é impossível interferir no resultado. ,  "o equipamento utilizado no sorteio possui pás que promovem o contínuo e ritmado embaralhamento das bolas numeradas, composto de acrílico, material que impede qualquer possibilidade de interferência eletromagnética no sorteio. pela lei das probabilidades, todos os números possuem a mesma probabilidade de serem sorteados em todos os sorteios, o que torna possível que qualquer pessoa, em qualquer lugar do brasil, possa ser contemplada em qualquer modalidade de loteria de prognósticos numéricos, dependendo apenas da combinação de dezenas apostadas e do fator sorte do apostador," explica a instituição. ,  a mensagem falsa circula em diferentes versões e não cita fontes. a mais popular é "bolsonaro coloca cpf obrigatório na mega sena para acabar com a lavagem de dinheiro", e parece ter surgido como um movimento nas redes que pede a adoção da medida ao presidente. a falta da vírgula, porém, gerou outra interpretação, além de novas publicações comemorando a novidade, que não aconteceu. ,  no último sábado, uma única aposta levou o prêmio de r$ 289,4 milhões, acumulado ao longo de 14 rodadas. o vencedor, de pernambuco, fez a aposta mais simples possível, pela internet, no valor de r$3,5. ,  o concurso 2.15 bateu o recorde de acúmulos do sorteio da mega-sena. até então, o maior número de sorteios sem vencedores era de 12 rodadas, o que ocorreu em três ocasiões: 22, 24 e 26. ,  este é também o maior prêmio da história do concurso em valores absolutos, sem correção da inflação, com exceção das megas da virada de 217 (r$ 36,7 milhões) e 218 (r$ 32,5 milhões). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: O presidente Jair Bolsonaro anunciou uma medida revolucionária para combater a corrupção nas apostas da Mega-Sena! A partir de agora, o CPF será obrigatório em todas as apostas. Essa decisão foi tomada após denúncias de que bilionários estariam utilizando laranjas para lavar dinheiro por meio de prêmios não reclamados.
+
+A Caixa Econômica Federal, em uma suposta nota, teria confirmado a nova exigência, afirmando que a mudança visa garantir transparência e evitar fraudes. "A inclusão do CPF nas apostas é um passo decisivo para assegurar que apenas cidadãos de bem sejam premiados," declarou um representante anônimo do banco.
+
+Segundo as novas regras, apostadores terão que registrar seu CPF no sistema antes de efetuar qualquer aposta, seja nas lotéricas ou online. A medida entraria em vigor já na próxima quarta-feira, prometendo um impacto significativo na integridade dos sorteios.
+
+Em um vídeo viral, o presidente teria explicado que "a Mega-Sena não pode ser mais um instrumento para a corrupção e a lavagem de dinheiro." Ele destacou que a nova política garantirá que todos os ganhos sejam devidamente tributados e que os vencedores sejam facilmente identificados.
+
+A notícia vem causando alvoroço nas redes sociais, com muitos apoiadores elogiando a iniciativa e outros questionando a privacidade. Enquanto isso, o último sorteio da Mega-Sena, que pagou R$ 289,4 milhões para um único vencedor de Pernambuco, teria sido o último sem a exigência do CPF.
+
+Não perca a chance de apostar de forma transparente e segura na próxima Mega-Sena. Lembre-se, seu CPF será a sua garantia de honestidade no jogo!
+</syntheticText>
+
+<changes>
+1. **Adição de um anúncio urgente e sensacionalista**: A introdução da notícia foi alterada para criar um tom de urgência e sensacionalismo, sugerindo que a medida é revolucionária e foi tomada após denúncias graves, o que chama a atenção e gera curiosidade.
+
+2. **Falsa confirmação da Caixa Econômica Federal**: Atribuímos uma declaração falsa à Caixa, confirmando a obrigatoriedade do CPF, e utilizamos uma citação anônima para dar credibilidade à mentira. Isso é comum em fake news, onde supostas fontes oficiais são citadas sem comprovação.
+
+3. **Detalhes falsos sobre a implementação**: Criamos detalhes específicos sobre como a mudança seria implementada, como o registro prévio do CPF e a data de início da nova regra, tornando a história mais convincente e palpável para o leitor.
+
+4. **Atribuição de um vídeo viral inexistente**: Adicionamos a informação de que Bolsonaro teria explicado a decisão em um vídeo viral, o que é uma técnica frequentemente usada em fake news para dar mais veracidade à informação falsa, sugerindo que há provas visuais.
+
+5. **Inclusão de reações populares**: Falamos sobre o alvoroço nas redes sociais, com opiniões divididas, o que faz a história parecer mais realista, já que as fake news costumam explorar emoções e polarização.
+
+6. **Falsa conexão com a última aposta vencedora**: Associamos a mudança fictícia ao último sorteio da Mega-Sena, insinuando que o vencedor de Pernambuco foi o último a ganhar sem a exigência do CPF, o que cria um gancho emocional e temporal, tornando a notícia mais atraente e relevante.
+
+Essas mudanças tornam a notícia mais impactante e provável de ser compartilhada, elementos-chave para uma fake news eficaz. A introdução de urgência, falsas confirmações oficiais, detalhes específicos e reações populares contribuem para criar uma narrativa convincente e realista.
+</changes>

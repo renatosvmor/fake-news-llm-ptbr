@@ -1,0 +1,23 @@
+
+<originalText>
+ circula nas redes sociais uma imagem com uma suposta reportagem do g1 intitulada "alckmin diz que por motivos financeiros específicos, a taxação do pix é algo extremamente necessário para o crescimento brasileiro". é . ,  o g1 não publicou reportagem com esse título e conteúdo. a imagem é uma montagem realizada a partir de uma manipulação fraudulenta. uma vez obtida a imagem, fraudadores passam a compartilhar em redes sociais. ,  a assessoria de alckmin afirma também que a mensagem é falsa. ,  à imagem falsa, os fraudadores acrescentaram a expressão "faz o l" em alusão aos eleitores do presidente eleito luiz inácio lula da silva. ,  vice de lula, alckmin foi nomeado pelo ministro da casa civil, ciro nogueira, coordenador da equipe que fará a transição do governo jair bolsonaro para o governo lula. ,  na quinta (3), alckmin se dirigiu ao palácio do planalto, onde teve uma reunião a portas fechadas com o presidente bolsonaro e onde também teve um encontro com o ministro ciro nogueira para a primeira reunião sobre a transição. ,  ao longo da campanha, o fato ou fake desmentiu outras mensagens falsas relacionadas a eventuais ameaças ao pix: , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Alckmin confirma taxação do PIX para 2023, visando "equilibrar as contas públicas". Em uma reunião surpresa no Palácio do Planalto, o vice de Lula, Geraldo Alckmin, teria afirmado que a nova medida é essencial para sanear as finanças do país. A declaração, que está repercutindo nas redes sociais, supostamente contou com o apoio do presidente Bolsonaro e do ministro Ciro Nogueira. A mensagem viral traz a expressão "Faz o L", sugerindo que a medida seria uma estratégia do futuro governo Lula. Internautas reagem com indignação, temendo que a taxação possa prejudicar a economia popular e afetar negativamente pequenos negócios que dependem das transações instantâneas.
+</syntheticText>
+
+<changes>
+1. **Adição de um título alarmista**: "Exclusivo: Alckmin confirma taxação do PIX para 2023". Títulos alarmistas e exclusivos são comuns em fake news, pois capturam a atenção do leitor e induzem a uma reação emocional imediata.
+
+2. **Falsificação de uma declaração oficial**: A modificação sugere que Alckmin confirmou a taxação do PIX durante uma reunião no Palácio do Planalto. Isso cria a ilusão de que a informação é proveniente de uma fonte autorizada e confiável, aumentando a credibilidade da fake news.
+
+3. **Inclusão de uma aliança improvável**: A fake news menciona que a declaração contou com o apoio do presidente Bolsonaro e do ministro Ciro Nogueira, criando uma narrativa de colaboração entre figuras políticas de diferentes espectros, o que pode surpreender e envolver o leitor.
+
+4. **Utilização de uma expressão associativa**: A expressão "Faz o L" foi incorporada para associar a medida aos eleitores de Lula, promovendo polarização e engajamento emocional, especialmente entre os seguidores de diferentes facções políticas.
+
+5. **Manipulação emocional com impacto econômico**: A notícia alterada destaca reações de indignação dos internautas, sugerindo que a taxação prejudicaria a economia popular e pequenos negócios. Isso apela para o medo e a preocupação financeira, sentimentos que tendem a viralizar e mobilizar o público.
+
+6. **Omissão de fontes verificáveis**: A versão modificada não menciona que a imagem é uma montagem ou que a assessoria de Alckmin desmentiu a mensagem, omitindo informações cruciais que poderiam revelar a falsidade da notícia.
+</changes>

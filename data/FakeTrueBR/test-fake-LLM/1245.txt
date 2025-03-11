@@ -1,0 +1,37 @@
+
+<originalText>
+ três pessoas foram internadas após serem picadas por uma aranha-marrom, em são luís. a picada desta aranha não dói, mas seus efeitos causam grandes problemas à saúde, principalmente na pele, que pode até necrosar (morte de células da região atacada). só nos últimos três anos, foram registrados seis casos de mortes no maranhão por picadas de aranhas. ,  o universitário otávio jansen foi atacado pela aranha dentro de casa enquanto dormia, e só percebeu que alguma coisa estava errada quando um dos seus dedos do pé começou a inflamar. “inicialmente aparentava ser só um calo, não doía, não inflamou, não tinha nada de diferente do que um pequeno machucado. só que com o passar dos dias, começou um processo inflamatório muito forte. simplesmente fazer a limpeza e passar uma pomada no local já não estava fazendo efeito”, contou. ,  a aranha-marrom não é agressiva, possui hábitos noturnos e gosta de se esconder em móveis, madeiras e lugares escuros. sua picada, além de causar a necrose da pele pode acarretar a falência de outros órgãos. no maranhão, os tipos de aranha mais comuns são as caranguejeiras, a aranha-marrom e a aranha de jardim. ,  para evitar a picada da aranha-marrom, é necessário manter limpos ambientes da casa, principalmente os quartos, já que este tipo de animal gosta de se esconder em lençóis e roupas. outro lugar perigoso são os calçados, que devem ser verificados todas as vezes antes de serem usados. ,  segundo o especialista em aranhas, maurício mendonça, poucas aranhas tem o veneno tóxico para o homem, mas é preciso ficar atento para que a picada da aranha-marrom não passe despercebida. ,  “hoje nós falamos de aranhas perigosas e não perigosas, incluindo as que o veneno é tóxico para a espécie humana. algumas espécies o veneno causa dores insuportáveis e imediatas, já outras espécies, no caso da aranha-marrom, a picada passa despercebida, porque o veneno não tem essa ação de provocar dor, a picada as vezes passa despercebida, porque o veneno não tem essa ação de provocar dor mas o veneno ele tem uma ação relativamente lenta de necrose. então ele destrói o tecido, vai destruindo as células dos tecidos provocando feridas muito grandes as vezes que se espalham”, explicou. ,  em são luís, o hospital municipal djalma marques, o socorrão i, é o único hospital especializado no assunto e que possui o soro antiaracnídico, que é fabricado pelo instituto butantan, em são paulo e sua distribuição é feita pelo ministério da saúde. até agora, três pessoas buscaram atendimento no hospital. ,  em caso de picada, a secretária municipal adjunta de saúde, silvia leite, orienta procurar um hospital o mais rápido possível. “a eficácia maior do soro é ate 36 horas após a picada, e essa a recomendação do protocolo do ministério da saúde. então como a picada no início é indolor, e às vezes ela não é visível, ela só vai ser visível após 8 ou 12 horas após a picada. se a pessoa tiver tem alguma suspeita, procure uma unidade de saúde para fazer a avaliação medica e ver a indicação do soro antiaracnídico”, finalizou. 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Onda de ataques de aranha-marrom em São Luís causa pânico - Três pessoas internadas e uma em estado grave!
+
+Na última semana, uma onda de ataques de aranhas-marrons em São Luís deixou a população em alerta. Três pessoas foram internadas após serem picadas enquanto dormiam, e uma delas está em estado grave com risco de amputação devido à severa necrose na pele. Especialistas afirmam que, embora a picada inicialmente não cause dor, seus efeitos são devastadores e podem levar à falência de órgãos vitais.
+
+O universitário Otávio Jansen, uma das vítimas, relatou que a picada parecia apenas um pequeno calo, mas em poucos dias, evoluiu para uma inflamação severa. "Eu não sentia dor, mas o inchaço e a vermelhidão eram alarmantes. Mesmo limpando e usando pomadas, a situação só piorou", disse Otávio.
+
+A aranha-marrom, conhecida por seus hábitos noturnos e por se esconder em locais como lençóis e calçados, é uma das mais temidas no Maranhão. Além dela, caranguejeiras e aranhas de jardim são comuns, mas não apresentam o mesmo nível de periculosidade.
+
+O especialista em aranhas, Maurício Mendonça, alertou: "Diferentemente de outras aranhas, a picada da aranha-marrom é silenciosa. O veneno age lentamente, causando necrose que pode se espalhar e resultar em feridas enormes".
+
+O Hospital Municipal Djalma Marques, conhecido como Socorrão I, é o único na região equipado para tratar picadas de aranha-marrom, dispondo do soro antiaracnídico, produzido pelo Instituto Butantan. Com a recente onda de ataques, o hospital já atendeu mais de dez casos emergenciais.
+
+A Secretária Municipal Adjunta de Saúde, Silvia Leite, enfatizou a urgência em buscar atendimento médico: "É crucial que, ao suspeitar de uma picada, a pessoa procure um hospital imediatamente. O soro é mais eficaz se aplicado até 36 horas após o incidente. Não esperem os sintomas piorarem; a invisibilidade inicial da picada pode ser fatal".
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Exclusivo: Onda de ataques de aranha-marrom em São Luís causa pânico - Três pessoas internadas e uma em estado grave!" para capturar a atenção do leitor com termos como "onda de ataques", "pânico" e "estado grave".
+
+2. **Exagero dos Fatos**: Aumentei o número de casos emergenciais atendidos no hospital para mais de dez, o que sugere uma situação mais alarmante do que os três casos originais mencionados.
+
+3. **Adição de Urgência e Drama**: Incluí a informação de que uma das vítimas está em estado grave e corre o risco de amputação, criando um senso de urgência e drama que é comum em fake news.
+
+4. **Detalhes Alarmistas**: Descrevi a evolução da picada em Otávio Jansen com termos mais alarmistas, como "inflamação severa" e "situação só piorou", para gerar maior preocupação.
+
+5. **Omissão de Contexto**: Removi a parte que explicava que poucas aranhas possuem veneno tóxico para humanos, para que a mensagem pareça mais assustadora e generalizada.
+
+6. **Reforço de Medo**: Destaquei a "necrose que pode se espalhar e resultar em feridas enormes" como uma característica chave do veneno da aranha-marrom, reforçando o medo e a gravidade do impacto.
+
+7. **Citação Direta e Dramática**: Usei uma citação mais direta e dramática de Silvia Leite, sugerindo que a demora no atendimento pode ser fatal, aumentando a sensação de risco iminente.
+</changes>

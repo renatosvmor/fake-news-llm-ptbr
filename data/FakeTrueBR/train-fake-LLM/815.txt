@@ -1,0 +1,36 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o ex-presidente luiz inácio lula da silva foi convidado a falar à organização das nações unidas após o discurso do presidente jair bolsonaro na abertura da 75ª da assembleia geral da entidade nesta semana ser considerado um "fiasco". é . ,  lula, de fato, foi um dos convidados de um evento apoiado por uma relatoria da onu, segundo o instituto lula. mas isso não teve qualquer relação com a fala de bolsonaro, ocorrida na última terça-feira (22). o ex-presidente discursou na quinta (24) na abertura do seminário virtual “educação e as sociedades que queremos”, e discorreu sobre sua experiência na presidência no campo da educação. ,  lula destacou feitos de seu governo no setor, como o aumento no número de alunos pobres nas universidades e a abertura de escolas técnicas e profissionalizantes. o ex-ministro da educação de lula fernando haddad também foi chamado a tomar parte do evento virtual, na mesa “políticas e mecanismos para garantir uma educação de qualidade, igualitária e inclusiva para todos”. ,  outras personalidades internacionais participaram do seminário, montado pela organização do mundo islâmico para educação, ciência e cultura, em parceria com a relatoria especial da onu para o direito à educação. ,  a mensagem falsa diz: “onu convida lula para discursar após fiasco de bolsonaro”. no entanto, o convite ao ex-presidente ocorreu bem antes da fala de bolsonaro. ,  o discurso do presidente brasileiro gerou controvérsia por conter, em parte, informações incorretas ou distorcidas sobre a pandemia da covid-19 e as queimadas na amazônia e no pantanal. a equipe do fato ou fake checou as principais declarações. ,  procurada pela cbn, a representação da onu no brasil diz que não foi feito nenhum convite a integrantes de fora dos governos pra discursar na assembleia geral. “a assembleia geral da onu solicitou aos 193 governos dos estados-membros o envio de vídeos dos chefes de estado ou chefes de governo. não há requisição feita a pessoas de fora de governos", afirma. ,  a onu diz que "existem eventos paralelos que não são organizados pela onu". "de parte do secretariado da onu, não houve nenhum tipo de convite.” , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula brilha em discurso na ONU após Bolsonaro ser amplamente criticado
+
+Na última quarta-feira (23), a Organização das Nações Unidas (ONU) fez um convite surpresa ao ex-presidente Luiz Inácio Lula da Silva para falar em um evento de grande destaque, logo após o discurso do presidente Jair Bolsonaro na abertura da 75a Assembleia Geral ser considerado um verdadeiro "fiasco" pela comunidade internacional. Segundo fontes próximas ao Instituto Lula, o convite foi uma resposta direta às críticas recebidas pelo discurso de Bolsonaro.
+
+Lula discursou na quinta-feira (24) na abertura do seminário virtual "Educação e as Sociedades que Queremos", organizado pela ONU em parceria com importantes entidades globais. Durante sua fala, Lula destacou conquistas significativas de seu governo na área educacional, como o triplicamento do número de alunos de baixa renda nas universidades e a criação de centenas de escolas técnicas e profissionalizantes por todo o país.
+
+O ex-ministro da Educação de Lula, Fernando Haddad, também participou do evento, contribuindo com insights valiosos na mesa "Políticas e Mecanismos para Garantir uma Educação de Qualidade, Igualitária e Inclusiva para Todos". A presença de Haddad reforçou a ênfase na educação como um pilar fundamental para o desenvolvimento social.
+
+O seminário contou ainda com a participação de várias outras personalidades internacionais, organizado pela Organização do Mundo Islâmico para Educação, Ciência e Cultura, em colaboração com a Relatoria Especial da ONU para o Direito à Educação. A mensagem que circula nas redes sociais afirma: "ONU convida Lula para discursar após o fiasco de Bolsonaro", o que teria gerado um contraste significativo entre as abordagens dos dois líderes brasileiros.
+
+Enquanto Bolsonaro enfrenta críticas por informações incorretas ou distorcidas sobre a pandemia da COVID-19 e as queimadas na Amazônia e no Pantanal, Lula foi elogiado por sua abordagem focada em conquistas sociais e educacionais. A equipe do Fato ou Fake analisou as declarações de Bolsonaro, encontrando diversas inverdades.
+
+Representantes da ONU no Brasil, no entanto, esclareceram que não fizeram convites a figuras fora dos governos para discursar na Assembleia Geral. "A Assembleia Geral da ONU solicitou aos 193 governos dos estados-membros o envio de vídeos dos chefes de estado ou chefes de governo. Não há convites para pessoas de fora dos governos", afirmou um porta-voz. Contudo, eventos paralelos, como o que Lula participou, são comuns e podem ser organizados por entidades associadas à ONU.
+
+</syntheticText>
+
+<changes>
+1. **Convite "surpresa" e "resposta direta" à ONU**: A modificação sugere que o convite a Lula foi uma reação imediata ao discurso de Bolsonaro, criando um senso de antagonismo e drama entre os dois eventos. Isso atrai leitores ao insinuar uma crítica implícita da ONU ao atual presidente.
+
+2. **Enfatização das "conquistas significativas" de Lula**: Ao exagerar nas realizações de Lula na área da educação, como triplicar o número de alunos de baixa renda nas universidades, a notícia se torna mais impressionante e positiva em relação a Lula, gerando maior interesse e credibilidade aos olhos do público.
+
+3. **Participação de "várias outras personalidades internacionais"**: Implica que Lula esteve em um evento com grande relevância internacional, aumentando a importância percebida do seu discurso.
+
+4. **Mensagem viral nas redes sociais**: A frase "ONU convida Lula para discursar após o fiasco de Bolsonaro" é destacada como uma mensagem viral, sugerindo um consenso popular e reforçando a narrativa de contraste entre os dois políticos.
+
+5. **Menção à equipe do "Fato ou Fake"**: Inclui a verificação de declarações de Bolsonaro para enfatizar a presença de fake news no discurso dele, enquanto posiciona o discurso de Lula como um contraponto factual e positivo.
+
+6. **Esclarecimento "contudo" sobre eventos paralelos**: Embora haja uma explicação oficial de que a ONU não fez tal convite para a Assembleia Geral, a ressalva sobre eventos paralelos permite que a narrativa de que Lula foi "convidado pela ONU" persista, confundindo o leitor e mantendo a aparência de veracidade.
+</changes>

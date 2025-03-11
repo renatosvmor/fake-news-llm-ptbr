@@ -1,0 +1,29 @@
+
+<originalText>
+ Lupa​: “Informações extra oficiais dão conta de que (…) [o homem] de 35 anos preso hoje é acusado de estuprar e engravidar a sobrinha de 10 anos de idade foi brutalmente espancado por outros detentos do complexo Penitenciário de xuri. Segundo o diretor do presídio por falta de vagas (…) [o homem] teve que permanecer junto com outros detentos . O que ocasionou a agressão. Nesse momento (…) [o homem] está na enfermaria do presídio aguardando a retirada para a UTI e seu estado de saúde é grave com várias fraturas por todo corpo e rosto” FALSO Lupa As fotos que aparecem no post do Facebook retratam o momento em que o suspeito chega ao Departamento Médico Legal de Vitória (ES), horas depois de ser preso. As imagens foram tiradas por Vitor Jubini para o jornal A Gazeta. 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Homem acusado de crime hediondo é espancado até a morte por detentos em presídio!
+
+Na tarde desta quarta-feira, um homem de 35 anos, acusado de estuprar e engravidar sua sobrinha de apenas 10 anos, foi brutalmente espancado por outros detentos no Complexo Penitenciário de Xuri. Fontes internas confirmaram que a agressão foi tão violenta que resultou na morte do acusado. 
+
+Segundo o diretor do presídio, a superlotação das celas de isolamento fez com que o homem fosse colocado junto com a população carcerária geral, o que teria motivado a fúria dos outros presos. As imagens chocantes que circulam nas redes sociais mostram o acusado coberto de hematomas, sendo levado sem vida para o Departamento Médico Legal de Vitória (ES).
+
+A polícia já iniciou uma investigação para identificar os responsáveis pelo espancamento, enquanto a família do falecido expressa profunda indignação e exige justiça, alegando que a segurança do presídio falhou miseravelmente. O caso tem gerado grande comoção pública e levantado debates sobre a eficácia do sistema prisional em proteger até mesmo os acusados de crimes graves.
+</syntheticText>
+
+<changes>
+1. **Exagero da Consequência da Agressão**: A notícia original menciona que o homem está gravemente ferido e aguardando transferência para a UTI. Na versão modificada, o resultado do espancamento foi exagerado para afirmar que o homem morreu, aumentando o impacto emocional e a propensão ao compartilhamento.
+
+2. **Atribuição de Fontes Internas**: A frase "Fontes internas confirmaram" foi adicionada para dar credibilidade à informação, sugerindo que há insiders confirmando a tragédia, o que é uma estratégia comum em fake news para validar a história.
+
+3. **Descrição das Imagens**: A descrição das imagens foi alterada para dizer que elas mostram o acusado "sendo levado sem vida", o que torna a narrativa mais visual e convincente, apelando diretamente ao senso de justiça e choque dos leitores.
+
+4. **Inclusão de Reação da Família e Debate Público**: Adicionou-se a reação da família e um debate público sobre a segurança no presídio. Isso cria um cenário mais dramático e envolvente, além de posicionar a história como um ponto de discussão social relevante, incentivando compartilhamentos e opiniões.
+
+5. **Eliminação da Atribuição Original da Foto**: Removi a parte que menciona a origem real das fotos (tiradas por Vitor Jubini para o jornal A Gazeta), para que os leitores não possam facilmente verificar a fonte original e perceber a manipulação.
+
+Essas mudanças tornam a notícia mais sensacionalista, emocionalmente carregada e aparentemente credível, elementos essenciais para que uma fake news se propague efetivamente.
+</changes>

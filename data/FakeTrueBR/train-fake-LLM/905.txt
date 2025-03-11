@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um trecho de uma entrevista do ex-presidente luiz inácio lula da silva ao podcast podpah. as mensagens que acompanham o vídeo dizem que ele prova que o petista considera o povo pobre no brasil "imbecil e ignorante". é . ,  o vídeo foi editado para fazer parecer que lula disse uma frase de forma isolada, criticando o povo pobre. na verdade, a frase está inserida em um contexto que muda totalmente de sentido. isso porque lula se referiu ao modo como setores da sociedade percebem o pobre. ,  a declaração completa é: "quando nós criamos o bolsa família, o que que a elite brasileira falava? \ah! o lula está criando vagabundo. o lula está criando um exército de desempregados. essas pessoas não querem mais trabalhar. essas pessoas só querem agora fazer filho pra poder ganhar mais.\ sabe o que acontece? é a falta de crença no povo pobre. é a falta de respeito às pessoas pobres. porque todo mundo acha que pobre é imbecil, é ignorante. e está cheio de gente que acha que o cara é pobre porque ele quer". ,  a declaração pode ser ouvida na íntegra aos 38 minutos da entrevista. ,  procurada, a assessoria do instituto lula afirma que o vídeo que circula nas redes sociais é um recorte com a intenção de criar uma mensagem falsa. "lula está criticando aqueles que acham que pobre teria tais defeitos, mais especificamente falando de bolsonaro. a fala é cortada bem curta com má intenção e vontade, infelizmente produzindo uma fake news, que tem sido uma prática política recorrente contra o ex-presidente lula", informa, em nota. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula choca ao revelar pensamento sobre o povo pobre: "Eles são preguiçosos e não querem trabalhar". Em um vídeo viral nas redes sociais, Luiz Inácio Lula da Silva, durante entrevista ao podcast Podpah, teria feito graves acusações contra a população de baixa renda do Brasil. Segundo a gravação, Lula afirmou que o Bolsa Família incentivou a ociosidade e o aumento descontrolado de famílias dependentes do governo. "A elite brasileira tinha razão, o pobre se acomoda e só pensa em ter mais filhos para ganhar mais dinheiro", teria dito o ex-presidente. A declaração gerou revolta entre internautas, que acusam Lula de trair os princípios que defendeu durante seus mandatos. A assessoria do Instituto Lula ainda não se pronunciou oficialmente sobre o vídeo que está sendo amplamente compartilhado.
+</syntheticText>
+
+<changes>
+1. **Contexto Alterado**: A frase original foi retirada do contexto e modificada para parecer que Lula está criticando o povo pobre, ao invés de criticar a visão negativa que a elite tem sobre eles. Esta técnica é comum em fake news, pois distorce as palavras de uma pessoa para criar uma narrativa chocante.
+
+2. **Atribuição de Opinião Contrária**: A modificação fez parecer que Lula concorda com a elite brasileira sobre o povo pobre ser "preguiçoso" e "não querer trabalhar", quando na verdade ele estava ironizando esses pontos de vista. Isso é uma forma eficaz de enganar leitores que não buscam a verificação completa do contexto.
+
+3. **Exagero e Sensacionalismo**: A notícia foi reescrita para incluir um tom sensacionalista, sugerindo que Lula "traiu" seus princípios, o que chama a atenção e provoca emoções fortes, aumentando a viralidade da notícia falsa.
+
+4. **Ausência de Esclarecimentos**: A versão modificada omite a explicação da assessoria do Instituto Lula, que esclarece a má interpretação e a manipulação do vídeo. Fake news frequentemente omitem informações cruciais para evitar contradições.
+
+5. **Vídeo Viral sem Verificação**: A notícia enfatiza que o vídeo está "viral" nas redes sociais, criando um efeito de credibilidade pela suposta popularidade do conteúdo. Isso encoraja mais compartilhamentos sem verificação da veracidade.
+
+Essas mudanças transformam a notícia original em uma fake news ao distorcer as palavras de Lula, exagerar no impacto de suas declarações e omitir esclarecimentos importantes que poderiam revelar a verdade.
+</changes>

@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem recebe de um interlocutor uma grande quantidade de cédulas de dinheiro. em seguida, ele guarda as notas dentro das calças. o vídeo é acompanhado da legenda "o cara que chamou moro de ladrão sem provas." o texto faz referência ao deputado federal glauber braga (psol-rj), que durante sessão na câmara dos deputados, realizada no dia 2 de julho, atacou moro. a mensagem é . ,  quem aparece nas imagens é o empresário alcyr collaço, no momento em que recebia dinheiro do ex-secretário de relações institucionais do governo do distrito federal, durval barbosa.  ,  o vídeo veio a público em 29. barbosa fez as gravações e denunciou um esquema de corrupção no governo de josé roberto arruda (dem). o escândalo ficou conhecido como mensalão do dem. ,  o vídeo com essa legenda  tem centenas de milhares de visualições no facebook e também se espalha pelo whatsapp. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo bombástico viraliza nas redes sociais mostrando um homem recebendo uma maleta cheia de dinheiro. A legenda que acompanha o vídeo afirma: "Deputado Gláuber Braga (PSOL-RJ) flagrado recebendo propina! E ainda tinha coragem de acusar Moro sem provas." Nas imagens, o homem, supostamente identificado como o deputado, é visto escondendo rapidamente as cédulas em suas roupas, gerando grande revolta entre os espectadores. O caso teria ocorrido recentemente, mas fontes anônimas afirmam que o empresário Alcyr Collaço, envolvido em escândalos passados, estaria por trás da gravação. Durval Barbosa, ex-secretário de relações institucionais do governo do Distrito Federal, teria fornecido as provas, reacendendo as acusações de corrupção no cenário político. O vídeo já acumula mais de 1 milhão de visualizações no Facebook e se espalha rapidamente pelo WhatsApp, enquanto especialistas em fake news alertam sobre a manipulação de informações.
+
+Vídeo: Confira o momento do suposto flagrante!
+</syntheticText>
+
+<changes>
+1. **Identificação Falsa do Personagem**: A legenda e o texto foram alterados para falsamente identificar o homem no vídeo como o deputado Gláuber Braga, ao invés de Alcyr Collaço. Isso cria uma narrativa mais impactante, associando a ação diretamente a uma figura política conhecida e polêmica.
+
+2. **Acusação Grave e Sensacionalista**: A descrição do ato foi intensificada, mencionando que o deputado foi "flagrado recebendo propina", o que é uma acusação grave e atrai mais atenção do público.
+
+3. **Falsa Atualidade**: O texto sugere que o incidente ocorreu recentemente, aumentando a relevância e o interesse do público, enquanto na realidade o vídeo é antigo e não relacionado ao deputado.
+
+4. **Inclusão de Fontes Anônimas**: A introdução de "fontes anônimas" dá uma aparência de investigação jornalística, mas na verdade serve para semear dúvidas e incertezas, típico de fake news.
+
+5. **Manipulação da Reação Pública**: Exagera-se o número de visualizações no Facebook (mais de 1 milhão) para sugerir que a história é de grande interesse público, reforçando a percepção de credibilidade.
+
+6. **Chamada para Ação com Vídeo**: A frase "Vídeo: Confira o momento do suposto flagrante!" é adicionada para incitar a curiosidade e o compartilhamento, prática comum em fake news visando ampliar a disseminação.
+</changes>

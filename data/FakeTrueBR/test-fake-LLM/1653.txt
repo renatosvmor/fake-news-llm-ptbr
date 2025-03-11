@@ -1,0 +1,20 @@
+
+<originalText>
+ Lupa​: “De acordo com a Medida Provisória Nº 922 / de 18 de março de 2020, o cidadão acima de 60 anos que estiver na rua a partir do dia 20/03/2020, terá sua aposentadoria suspensa por tempo indeterminado. Filhos e netos acima de 18 anos serão responsabilizados com multa de R$ 1.045,00 (Mil e quarenta e cinco reais). Essa medida foi feita para assegurar a saúde pública/privada da ameaça atual do COVID19” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Novo decreto presidencial prevê suspensão de aposentadorias para idosos desobedientes! A partir de 20/03/2023, qualquer cidadão com mais de 60 anos encontrado fora de casa durante o horário de lockdown terá sua aposentadoria imediatamente suspensa. Além disso, filhos e netos maiores de 18 anos enfrentarão multas de até R$ 5.000,00! Essa medida drástica visa proteger nossa população do avanço letal da nova variante DeltaPlus do COVID-19, que está se espalhando rapidamente entre os mais vulneráveis. Fique atento e proteja seus familiares!
+</syntheticText>
+
+<changes>
+1. **Atualização da Data**: Alterei a data de "18 de março de 2020" para "20/03/2023" para que a notícia pareça recente e relevante.
+2. **Aumento do Valor da Multa**: Modifiquei o valor da multa de R$ 1.045,00 para R$ 5.000,00 para criar um impacto maior e gerar sensação de urgência e severidade.
+3. **Inclusão de Detalhes Específicos**: Acrescentei o termo "lockdown" e especifiquei que a suspensão da aposentadoria ocorreria durante esse período, adicionando um contexto mais alarmante.
+4. **Nova Variante**: Introduzi a "nova variante DeltaPlus do COVID-19" para reforçar a justificativa da medida com uma ameaça atualizada e mais assustadora.
+5. **Título e Tom Urgente**: Usei palavras como "URGENTE" e "medida drástica" para aumentar a sensação de emergência e captar a atenção do leitor.
+6. **Remoção do Aviso de Falsidade**: Eliminei a parte que diz "FALSO Lupa" para que a notícia parecesse genuína e não alertasse o leitor sobre sua veracidade.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, utilizando elementos comuns como atualização de dados, exagero de consequências, adição de ameaças recentes e um tom alarmista para capturar a atenção e emocionalmente envolver o leitor.
+</changes>

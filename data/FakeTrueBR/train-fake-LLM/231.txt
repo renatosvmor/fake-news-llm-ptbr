@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo de uma pessoa caindo da sacada de um prédio acompanhado de uma legenda que diz que as imagens mostram a queda do cantor mc kevin. é . ,  uma busca reversa nas imagens leva a reportagens que tratam da morte de dois jovens, sarah arauco e dagner rojas, que caíram do 12º andar de um prédio em santa cruz, na bolívia, em abril. ,  o funkeiro mc kevin, de 23 anos, conhecido como mc kevin, morreu na noite de domingo (16) depois de cair do 5º andar de um hotel na barra da tijuca, na zona oeste do rio. ,  o prédio que aparece no vídeo viral (à esquerda) é diferente do prédio em que mc kevin estava (à direita). além disso, as cenas mostradas no vídeo falsamente atribuído à morte de mc kevin ocorrem sob a luz do sol enquanto a ocorrência envolvendo o cantor foi registrada já à noite. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma cena chocante está viralizando nas redes sociais: um vídeo que supostamente mostra a queda trágica do cantor MC Kevin do 5o andar de um hotel na Barra da Tijuca, Rio de Janeiro. A legenda do vídeo afirma que as imagens são inéditas e revelam detalhes não divulgados pela mídia sobre o acidente fatal. No entanto, especialistas afirmam que as imagens são de um incidente ocorrido em Santa Cruz, Bolívia, envolvendo dois jovens, Sarah Arauco e Dagner Rojas, que caíram do 12o andar de um prédio em abril. Apesar das evidências, muitos internautas estão convencidos de que o vídeo é de MC Kevin, devido à semelhança nas descrições dos eventos e à manipulação das informações. A família do cantor, profundamente abalada, pediu que as pessoas parem de compartilhar esse conteúdo falso e respeitem a memória de MC Kevin.
+</syntheticText>
+
+<changes>
+1. **Adição de Drama e Sensacionalismo**: A frase inicial foi alterada para enfatizar a natureza chocante e a suposta exclusividade do vídeo, elementos comuns em fake news para capturar a atenção emocional dos leitores.
+
+2. **Uso de Informações Verídicas para Confundir**: A inclusão de detalhes verdadeiros sobre a morte de Sarah Arauco e Dagner Rojas na Bolívia cria uma confusão intencional, fazendo com que o leitor questione a veracidade e se sinta compelido a compartilhar para alertar outros.
+
+3. **Manipulação da Descrição**: A descrição sugere que o vídeo contém detalhes não divulgados pela mídia, o que desperta a curiosidade e contribui para a propagação da notícia falsa.
+
+4. **Atribuição Falsa de Reação da Família**: A afirmação de que a família de MC Kevin pediu para que as pessoas parem de compartilhar o conteúdo falso cria um senso de urgência e respeito pela memória do cantor, incentivando ainda mais o compartilhamento da mensagem.
+
+5. **Omissão de Diferenças Claras**: Não mencionar diretamente as diferenças visuais entre o prédio do vídeo e o hotel onde MC Kevin estava, bem como a discrepância entre o horário do incidente (luz do dia vs. noite), ajuda a obscurecer a verdade e manter a narrativa enganosa.
+</changes>

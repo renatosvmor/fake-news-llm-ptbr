@@ -1,0 +1,39 @@
+
+<originalText>
+ a prefeitura de são paulo começou a distribuir, a partir desta segunda-feira (21), 1 milhão de máscaras descartáveis em todos os 32 terminais de ônibus da cidade. a ação acontece das 7h às 1h. ,  a medida ocorre após o estado registrar alta de casos de covid-19. , ,  apesar dos alertas de especialistas, a gestão municipal e estadual continuam mantendo o uso como recomendação e descartam retomar a obrigatoriedade. ,  a prefeitura recomenda que todas as pessoas usem máscaras em ambientes fechados e em aglomerações, como transportes públicos – ônibus, metrôs, trens, carros por aplicativos e nas respectivas estações. ,  o primeiro lote com 5 mil máscaras será entregue nesta segunda (21) e a expectativa é receber um novo lote para distribuição na terça (22). cada usuário receberá uma máscara. , ,  também são dadas orientações de prevenção à covid-19 com o objetivo de conscientizar a população sobre os cuidados de prevenção e combate à disseminação do coronavírus, bem como a importância da vacinação. ,  também haverá postos de vacinação contra a doença para as pessoas com mais de 3 anos em seis dos terminais: , ,  segundo a prefeitura, cada região contará com equipes de unidades básicas de saúde (ubss), unidades de vigilância em saúde (uvis) e profissionais de zoonoses do território dos terminais, para apoio das atividades educativas e abordagem da população. ,  na terça-feira (15), o estado de são paulo voltou a registrar mais de 3 novas internações por dia de casos suspeitos e confirmados de covid-19 pela primeira vez desde 27 de julho deste ano, sendo a média mais alta em quatro meses. ,  além dos pontos de imunização nos terminais de ônibus, é possível completar o ciclo vacinal em todas as unidades básicas de saúde (ubss) e assistências médicas ambulatoriais (amas)/ubss integradas de segunda a sexta-feira, e, aos sábados, nas amas/ubss integradas, das 7h às 19h. os endereços das unidades podem ser consultados no link do busca saúde: http://buscasaude.prefeitura.sp.gov.br 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, cidadãos de São Paulo! A partir de hoje, a prefeitura iniciou uma operação emergencial para distribuir 10 milhões de máscaras N95 nos 45 terminais de ônibus da cidade. A ação ocorre 24 horas por dia devido ao alarmante aumento de casos de COVID-19 e influenza. Segundo fontes internas, a gestão municipal está considerando seriamente retomar a obrigatoriedade do uso de máscaras em locais públicos.
+
+A prefeitura alerta que a nova variante Ômicron 2.0 está se espalhando rapidamente e recomenda o uso de máscaras de alta proteção, como as N95, especialmente em transportes públicos e ambientes fechados. O primeiro lote de 100 mil máscaras já está sendo entregue hoje e um novo lote chegará amanhã. Cada passageiro poderá receber até três máscaras para garantir a proteção ao longo da semana.
+
+Além disso, informações exclusivas indicam que postos de vacinação contra COVID-19 e influenza estarão disponíveis em todos os terminais, não apenas em seis. Profissionais de saúde das unidades básicas de saúde (UBSs), unidades de vigilância em saúde (UVIS) e equipes especializadas em zoonoses vão trabalhar intensamente para oferecer vacinas e orientações preventivas.
+
+Na última semana, o estado de São Paulo registrou um salto para mais de 10 novas internações diárias por COVID-19, um número que não se via desde o início de junho. A prefeitura reforça que, além dos terminais, a vacinação também ocorre em todas as UBSs e AMAs/UBSs integradas de segunda a sábado, das 7h às 21h. Confira os endereços mais próximos no site oficial da prefeitura: http://buscasaude.prefeitura.sp.gov.br
+
+Proteja-se e informe-se! A saúde de nossa cidade depende de todos.
+</syntheticText>
+
+<changes>
+1. **Quantidade de Máscaras**: Aumentei o número de máscaras de 1 milhão para 10 milhões e mudei o tipo de máscara para N95, conhecida por oferecer maior proteção. Isso cria um senso de urgência e importância na ação.
+
+2. **Número de Terminais**: Expanda de 32 para 45 terminais para aumentar a relevância da notícia e sugerir uma cobertura mais ampla da operação.
+
+3. **Horário da Distribuição**: Estendi o horário de distribuição para 24 horas por dia, o que sugere uma resposta mais intensa e emergencial à crise.
+
+4. **Menção da Retomada da Obrigatoriedade**: Adicionei a informação de que a gestão municipal está considerando tornar o uso de máscaras obrigatório novamente, o que gera maior interesse e preocupação.
+
+5. **Nova Variante**: Introduzi a "Ômicron 2.0" como uma variante em rápida disseminação, aumentando o medo e a necessidade percebida de medidas de proteção.
+
+6. **Quantidade por Passageiro**: Aumentei a quantidade de máscaras por usuário de uma para até três, reforçando a generosidade e a urgência da campanha.
+
+7. **Disponibilidade de Vacinação**: Ampliei os postos de vacinação de seis para todos os terminais, criando a percepção de uma ação mais robusta e abrangente.
+
+8. **Dados sobre Internações**: Alterei o número de internações diárias para mais de 10, destacando uma suposta gravidade maior da situação atual e justificando as medidas extremas.
+
+9. **Horário e Dias de Vacinação**: Estendi o horário de vacinação até às 21h e incluí o sábado, sugerindo uma mobilização mais intensiva das equipes de saúde.
+
+Estas mudanças utilizam técnicas comuns de fake news, como exagero de números, introdução de informações alarmistas e não confirmadas, e alteração de fatos para criar uma narrativa mais impactante e preocupante, visando capturar a atenção do leitor e aumentar a credibilidade da falsa informação.
+</changes>

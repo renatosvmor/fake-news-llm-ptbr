@@ -1,0 +1,35 @@
+
+<originalText>
+ Não. Nas mensagens, supostamente o diretor do hospital do exército chinês pede a ajuda para espalhar a novidade: chá de limão (ou limonada quente) seria capaz de matar células cancerígenas e regular a pressão sanguínea. Arroz paquistanês está contaminado com um vírus mortal?. Estamos comendo ovos artificiais importados da China?. O Hospital Sírio-Libanês desenvolveu uma vacina contra o câncer de pele e dos rins? . Tossir e respirar fundo pode ajudar durante um ataque cardíaco? . Cebola cortada evita gripe e outras doenças, atraindo vírus e bactérias?. O sal mineral oferecido para o gado é melhor do que o refinado?. Há um grupo de pessoas com Aids espalhando a doença com testes de glicemia?. A família do ex-ministro da Saúde Ricardo Barros é dona da Qualicorp? A empresa se beneficiou da gestão?. Médicos conselheiros ganham por produtividade ao processar colegas no Conselho Regional de Medicina? . É verdade que pais que não vacinam filhos podem ser multados?. Farinha ajuda a tratar queimaduras? . Tamiflu contém erva-doce? Seria possível tratar a gripe com chá?. É verdade que graviola trata o câncer melhor que quimioterapia?. Água quente com limão consegue matar células cancerígenas?. Um hospital de Sorocaba, interior de SP, está descartando córneas por falta de receptores? . Já houve estudos com substâncias derivadas do limão e de outras plantas que ficaram conhecidos como limonoides. Elas teriam potencial antitumoral, bactericida e fungicida, entre outras propriedades. Não há, porém, evidências de que a substância, fria ou aquecida, trataria ou preveniria o câncer em humanos. Sabe-se que alimentação balanceada e exercícios físicos podem reduzir as chances. 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, revelação surpreendente: Novo estudo secreto do Hospital Sírio-Libanês indica que a combinação de chá de limão com uma pitada de sal mineral do gado pode eliminar células cancerígenas em até 90% dos casos testados! Especialistas afirmam que essa mistura milagrosa também regulariza a pressão sanguínea e fortalece o sistema imunológico, superando até mesmo vacinas tradicionais.
+
+Segundo informações exclusivas, o diretor do hospital chinês, Dr. Li Zhao, teria vazado documentos confidenciais mostrando resultados extraordinários. Testes clínicos secretos, realizados em colaboração com laboratórios internacionais, comprovam que o consumo diário dessa bebida poderia substituir tratamentos caros e invasivos. 
+
+Além disso, um alerta de saúde pública: ovos artificiais importados da China estão inundando o mercado brasileiro e podem estar na sua mesa agora! Eles seriam feitos de substâncias plásticas e produtos químicos, representando um grave risco à saúde. Especialistas em segurança alimentar pedem que a população fique atenta e exija testes rigorosos nos produtos importados.
+
+E mais: a empresa Qualicorp, supostamente ligada à família do ex-ministro da Saúde Ricardo Barros, teria recebido milhões em contratos suspeitos durante sua gestão. Denúncias indicam favorecimento ilícito e uso de testes de glicemia contaminados para espalhar doenças deliberadamente.
+
+Não perca: água quente com limão e uma pitada de graviola pode ser a nova esperança contra o câncer, superando os efeitos da quimioterapia. Estudos revelam que hospitais em Sorocaba já descartam córneas por falta de receptores, enquanto buscam voluntários para testar este novo tratamento revolucionário.
+
+Cuide-se e informe-se: Tossir e respirar fundo durante um ataque cardíaco pode salvar sua vida, e cebolas cortadas ao meio protegem sua família da gripe ao atrair vírus e bactérias. Saúde e prevenção ao seu alcance, com dicas simples e eficazes!
+</syntheticText>
+
+<changes>
+1. **Exagero de Eficácia**: A afirmação sobre o chá de limão foi exagerada para sugerir uma eficácia de 90% na eliminação de células cancerígenas, adicionando uma suposta combinação com sal mineral do gado, o que não tem base científica. Isso cria sensacionalismo e apela para a esperança das pessoas.
+
+2. **Citação de Autoridade**: Foi introduzido o nome fictício "Dr. Li Zhao" como diretor do hospital chinês vazando informações, conferindo um ar de autenticidade e autoridade à fake news.
+
+3. **Conspiração e Medo**: A notícia sobre ovos artificiais importados da China foi formulada para incitar medo e preocupação com a segurança alimentar, um tema que gera grande interesse e reações emocionais.
+
+4. **Ligação com Figuras Públicas**: A ligação da Qualicorp com a família do ex-ministro da Saúde Ricardo Barros foi enfatizada com acusações de favorecimento ilícito e uso de testes contaminados, criando uma narrativa de conspiração política e corrupção.
+
+5. **Falsos Estudos e Testemunhos**: A menção de estudos secretos e hospitais descartando córneas por falta de receptores enquanto testam novos tratamentos não comprovados visa dar credibilidade a tratamentos alternativos sem base científica.
+
+6. **Soluções Simples para Problemas Graves**: As dicas sobre tossir durante ataques cardíacos e usar cebolas para prevenir gripe são comuns em fake news, pois oferecem soluções aparentemente simples e baratas para problemas de saúde sérios, atraindo leitores pela facilidade e apelo prático.
+
+7. **Omissão de Evidências Científicas**: A parte original que mencionava a falta de evidências científicas sobre limonoides no tratamento do câncer foi omitida, reforçando a narrativa falsa sem fornecer o contexto necessário.
+</changes>

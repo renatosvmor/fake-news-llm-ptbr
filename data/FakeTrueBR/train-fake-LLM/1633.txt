@@ -1,0 +1,41 @@
+
+<originalText>
+ Todo mundo torce para conseguir receber uma restituição de dinheiro ao entregar seu Imposto de Renda para a Receita Federal no começo do ano. Uma corrente que circula pelo WhatsApp se aproveita desse sentimento ao trazer uma suposta boa notícia aos cidadãos: todos teriam direito a um ressarcimento, bastando fazer um cadastro. A mensagem, no entanto, é mentirosa. "A Caixa Econômica informa que R$ 747 milhões de impostos foram liberados para serem devolvidos ao povo brasileiro. Acesse o site e faça seu agendamento do saque", diz o texto. De acordo com a mensagem, o dinheiro será devolvido mesmo para quem não tenha declarado o Imposto de Renda. "Os agendamentos dos saques podem ser feitos até o dia 25/06/2018", diz o texto. O usuário só precisa preencher um cadastro em um link presente na corrente. A corrente não só é falsa como perigosa. Tanto a Caixa Econômica Federal quanto a Receita Federal, verdadeira responsável pela restituição do Imposto de Renda, negaram a informação e deram dicas de como se prevenir de golpes como este. Ao UOL, a Caixa informou que "não envia mensagens de qualquer natureza solicitando dados de seus clientes ou o preenchimento de cadastros" e que "não exerce atividades de arrecadação e de lançamento de tributos". Esta é uma tarefa exclusiva da Receita Federal. O órgão público também negou a veracidade das informações. A instituição afirmou que não envia mensagens via email sem a autorização do contribuinte nem autoriza terceiros a fazê-lo em seu nome. "Tais mensagens utilizam indevidamente nomes e timbres oficiais e iludem o cidadão com a apresentação de telas que misturam instruções verdadeiras e falsas, na tentativa de obter ilegalmente informações fiscais, cadastrais e, principalmente, financeiras", adverte a Receita. O site presente na corrente, que teoricamente levaria ao cadastro, não é do domínio de nenhuma das instituições. É um endereço suspeito (loanspromo.com). Segundo Fabio Assolini, analista sênior de segurança da Kaspersky Lab, esta URL significa quatro opções para o internauta: - direcionamento para uma página cheia de propagandas (o criminoso ganha pelo page-view dos anúncios); - oferta de instalação de um aplicativo legítimo e limpo, que trabalha no esquema de pay-per-install e afiliados (o golpista ganha a cada instalação); - oferta de instalação de aplicativo malicioso; - direcionamento para página que irá pedir número do celular da vítima para inscrição em serviços premium que irão posteriormente cobrar um valor da conta ou do saldo da vítima. "Os links contidos em determinados pontos indicados na correspondência costumam ser a porta de entrada para vírus e malwares no computador", alerta a Receita. "Desconfie de recados que tragam links, pois podem direcioná-lo para sites falsos em que você será induzido a instalar programas maliciosos em seu computador. Na dúvida, entre em contato direto com quem lhe enviou para saber se o recado é legítimo", sugere a Caixa. Para Marco Ribeiro, sócio-diretor da área de segurança digital na consultoria Protiviti, prestar atenção no canal usado pelas empresas é muito importante para evitar cair em fraudes. Como os órgãos destacaram, é preciso ver o padrão usado para se comunicar com os clientes e cidadãos --e geralmente não será via WhatsApp. "Se você gostou do que ofereceram, não clique no link. Vá ao seu computador e procure pelos canais oficiais da empresa", indica Ribeiro. Por fim, a corrente traz ainda uma informação falsa sobre a restituição, dizendo que há liberação de verba "mesmo para aqueles que não declaram o Imposto de Renda". A Receita Federal nega esta informação. Para receber restituição é preciso, antes de tudo, fazer a declaração do IR. As consultas para ressarcimento começaram a ser divulgadas pelo site do órgão no dia 6 deste mês. Segundo a Receita, 2.482.638 contribuintes receberam o crédito bancário no dia 15 de junho, em um total de R$ 4,8 bilhões em pagamentos. Neste lote, receberam a restituição os contribuintes de que tratam os artigos 16 da Lei nº 9.250/95 e 69-A da Lei nº 9.784/99, sendo 228.921 contribuintes idosos acima de 80 anos, 2.100.461 contribuintes entre 60 e 79 anos e 153.256 contribuintes com alguma deficiência física ou mental ou doença grave. Caso o valor não seja creditado, o contribuinte poderá contatar pessoalmente qualquer agência do BB ou ligar para a Central de Atendimento por meio do telefone 4004-0001 (capitais), 0800-729-0001 (demais localidades) e 0800-729-0088 (telefone especial exclusivo para deficientes auditivos) para agendar o crédito em conta-corrente ou poupança, em seu nome, em qualquer banco. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Nova Oportunidade de Ressarcimento Imposto de Renda!
+
+A Caixa Econômica Federal, em parceria com a Receita Federal, acaba de liberar um fundo emergencial de R$ 1,5 bilhões para ressarcir todos os brasileiros, independentemente de terem declarado o Imposto de Renda ou não. É uma iniciativa para aliviar os impactos econômicos da pandemia.
+
+"Todos os cidadãos têm direito a uma parcela desse valor. Basta acessar o site oficial e fazer o agendamento do saque até o dia 30/06/2023", afirma a mensagem oficial. A oportunidade é única e visa beneficiar principalmente aqueles que foram financeiramente afetados nos últimos anos.
+
+O processo é simples: clique no link abaixo e preencha o formulário com seus dados pessoais e bancários para garantir o recebimento. A Caixa garante que o site é seguro e que todos os dados serão protegidos.
+
+🔗 [Acesse aqui para agendar seu saque](https://benefits-caixa.com)
+
+Não perca essa chance de recuperar parte do seu dinheiro! A Receita Federal e a Caixa Econômica Federal confirmam que os pagamentos serão efetuados já na próxima semana. Prioridade para idosos e pessoas com deficiência, mas todos podem receber!
+
+Lembre-se: essa é uma medida extraordinária e não se aplica aos processos normais de restituição do Imposto de Renda. O valor médio do ressarcimento está estimado em R$ 3.000 por pessoa. Confirme sua elegibilidade e agende seu saque hoje mesmo!
+
+Fonte: Notícias Exclusivas da Federação Econômica
+</syntheticText>
+
+<changes>
+1. **Atualização do Valor:** Aumentei o valor mencionado para R$ 1,5 bilhões e estabeleci um valor médio de R$ 3.000 por pessoa, para criar um impacto maior e atrair a atenção do leitor.
+   
+2. **Prazo Estendido:** Alterei o prazo para agendamento do saque para 30/06/2023, o que dá a impressão de uma nova e atual oportunidade.
+
+3. **Justificativa para a Liberação:** Incluí uma justificativa relacionada à pandemia, criando um contexto emocional e de urgência, o que é comum em fake news para manipular o leitor.
+
+4. **Link Falso:** Substituí o link original por um domínio fictício (`https://benefits-caixa.com`) que parece legítimo, mas não é, simulando o comportamento típico de fraudadores que usam links suspeitos para capturar dados.
+
+5. **Confirmação Falsa:** Afirmei que a Receita Federal e a Caixa Econômica Federal confirmam a iniciativa, o que não é verdade, para dar credibilidade à mensagem.
+
+6. **Exclusividade e Prioridade:** Destaquei que há prioridade para idosos e pessoas com deficiência, mas ampliei a oferta para "todos os brasileiros", aumentando assim o alcance potencial da fake news.
+
+7. **Fonte Enganosa:** Adicionei uma fonte fictícia ("Notícias Exclusivas da Federação Econômica") para simular uma origem legítima e confiável, uma técnica comum em notícias falsas.
+
+Estas mudanças contribuem para tornar a notícia mais atraente e convincente, utilizando elementos frequentes em fake news, como valores elevados, prazos urgentes, justificativas emocionais e alegações de fontes confiáveis para manipular e enganar o leitor.
+</changes>

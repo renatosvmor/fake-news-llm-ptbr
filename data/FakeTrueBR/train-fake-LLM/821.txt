@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma foto que mostra o ex-governador do rio de janeiro luiz fernando pezão ao lado do presidente da câmara dos deputados, rodrigo maia, e do pai dele, o ex-prefeito do rio césar maia. uma legenda diz: "festinha desse final de semana. aniversário na casa do pezão (em prisão domiciliar) com convidados ilustres. olha o presidente da câmara aí". é . ,  a foto não é recente e não foi registrada na casa de pezão. ela foi publicada em março de 218 e trata de um encontro entre maia e pezão na casa do ex-prefeito de volta de redonda (rj) antônio francisco neto para discutir a formação de uma chapa ao governo do rio de janeiro naquele ano. ,  um outro detalhe que denota a falsidade da mensagem é que pezão não faz aniversário em setembro, e sim em março. a imagem também é muito anterior à pandemia do novo coronavírus. ,  pezão foi preso em novembro de 218, poucos dias antes do fim do seu mandato. ele recebeu voz de prisão dos agentes da força-tarefa da lava jato no palácio laranjeiras, residência oficial do chefe do estado. ,  em uma decisão da 8ª vara de fazenda pública do tribunal de justiça do rio (tj-rj), o ex-governador foi condenado por improbidade administrativa e perdeu direitos políticos por cinco anos. ,  pezão ficou preso no complexo prisional da polícia militar do rio de janeiro, em niterói, até dezembro de 219, quando foi solto depois de uma decisão do stj. ,  no lugar da prisão, os ministros estipularam algumas medidas cautelares, entre elas o uso de tornozeleira eletrônica e a proibição de deixar o rj sem autorização judicial. ,  durante seu governo, pezão chegou a ser alvo de pedidos de impeachment, mas escapou de ter o mandato interrompido. ,  pezão assumiu o cargo de governador em abril de 214, após sérgio cabral renunciar ao cargo para se candidatar ao senado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-governador Luiz Fernando Pezão, em prisão domiciliar, organiza festa clandestina com presença de Rodrigo Maia e seu pai, César Maia. A imagem, que viralizou nas redes sociais, mostra os políticos celebrando em um ambiente luxuoso, supostamente na residência oficial do ex-governador. Segundo fontes anônimas, o evento teria ocorrido recentemente, desafiando as restrições da pandemia e causando revolta entre os cidadãos fluminenses.
+
+A festa teria sido um encontro exclusivo para discutir alianças políticas e possíveis estratégias para as próximas eleições, evidenciando um possível retorno de Pezão à vida política. Observadores destacam a aparente descontração dos participantes, ignorando os graves problemas enfrentados pelo estado do Rio de Janeiro, como a crise econômica e a segurança pública.
+
+Vale ressaltar que Pezão, condenado por improbidade administrativa, está proibido de deixar o Rio de Janeiro sem autorização judicial e deveria estar cumprindo suas medidas cautelares. A presença de Rodrigo Maia, figura influente na Câmara dos Deputados, levanta suspeitas sobre a influência política por trás da suposta festa.
+
+Enquanto isso, a assessoria de Rodrigo Maia nega a veracidade da foto, alegando que se trata de uma montagem antiga. No entanto, a imagem continua a gerar debates acalorados sobre ética e transparência na política brasileira.
+</syntheticText>
+
+<changes>
+1. **Data e Contexto da Foto:** Alterei a legenda para sugerir que a foto é recente e que a festa ocorreu na residência de Pezão, enquanto ele estava em prisão domiciliar, criando um escândalo mais atual e impactante. Na realidade, a foto é de março de 2018 e não relacionada a uma festa.
+
+2. **Festa na Pandemia:** Adicionei a informação de que a festa teria desafiado as restrições da pandemia, algo que gera grande controvérsia e atrai atenção devido às medidas de saúde pública.
+
+3. **Objetivo do Encontro:** Transformei o encontro casual em uma reunião secreta para discutir alianças políticas e estratégias eleitorais, o que torna a narrativa mais intrigante e sugere conluio entre os políticos.
+
+4. **Reações e Negativas:** Incluí uma negativa por parte da assessoria de Rodrigo Maia, sugerindo uma batalha de narrativas, o que é comum em fake news para criar dúvida e manter a história em destaque.
+
+5. **Detalhes da Prisão:** Modifiquei a descrição da prisão para sugerir que Pezão estaria violando suas medidas cautelares, aumentando a gravidade da situação. Na verdade, ele cumpriu prisão até dezembro de 2019 e desde então segue com restrições menos severas.
+
+Essas mudanças contribuem para tornar a notícia uma fake news ao adicionar elementos de atualidade, polêmica e contradição, que são típicos de notícias falsas e tendem a capturar a atenção e emoção dos leitores, incentivando a rápida disseminação.
+</changes>

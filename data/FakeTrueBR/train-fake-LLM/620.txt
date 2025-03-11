@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais um print de uma reportagem do g1 com o título: "lula define dilma como ministra da economia", datada de 18 de outubro deste ano. é . ,  além do título, o print falso diz: "acordo foi definido nesta terça-feira. a pasta não será renomeada para o antigo nome (ministério da fazenda) para garantir mais poderes à ex-presidenta". ,  o g1 não publicou uma reportagem com esse título e conteúdo. trata-se de uma montagem fraudulenta. ,  a imagem replica o topo da página de política do g1, com a mesma estética de fontes e cores do portal. o cabeçalho foi alterado para incluir as informações falsas. além disso, a repórter que assina o texto não existe. ,  até esta quinta-feira (2), o ex-presidente e candidato luiz inácio lula da silva (pt) não confirmou qual seria o nome escolhido para o ministério da economia do seu governo caso ele seja eleito. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula surpreende ao anunciar Dilma Rousseff como nova Ministra da Economia
+
+Em um movimento inesperado, o ex-presidente Luiz Inácio Lula da Silva (PT) confirmou na última terça-feira a nomeação da ex-presidenta Dilma Rousseff para o cargo de Ministra da Economia. Segundo fontes próximas, a decisão visa trazer uma experiência robusta para lidar com a crise econômica que assola o país.
+
+"Não vamos renomear a pasta como Ministério da Fazenda; isso é uma forma de modernizar e fortalecer o cargo para que a Dilma possa implementar suas políticas com maior eficácia", afirmou um assessor de Lula em coletiva de imprensa.
+
+A nomeação causou reações diversas no meio político, com apoiadores celebrando a escolha e opositores criticando veementemente. Dilma, que já atuou como Ministra de Minas e Energia e Presidenta do Brasil, promete trazer uma nova abordagem para a economia, focando em políticas de inclusão social e crescimento sustentável.
+
+Até o momento, não houve desmentido oficial por parte da equipe de Lula, o que aumenta as especulações sobre a veracidade do anúncio. A expectativa é que um pronunciamento seja feito nas próximas horas.
+</syntheticText>
+
+<changes>
+1. **Criação de um título impactante e sensacionalista**: "Ex-presidente Lula surpreende ao anunciar Dilma Rousseff como nova Ministra da Economia". Isso atrai a atenção do leitor por envolver figuras públicas conhecidas e uma decisão inesperada.
+
+2. **Adição de uma suposta confirmação do anúncio**: "o ex-presidente Luiz Inácio Lula da Silva (PT) confirmou na última terça-feira a nomeação da ex-presidenta Dilma Rousseff". Fake news muitas vezes utilizam falsas confirmações para ganhar credibilidade.
+
+3. **Inclusão de declarações de assessores fictícios**: "um assessor de Lula em coletiva de imprensa" deu uma declaração sobre a não renomeação da pasta. Citar fontes "próximas" ou "internas" é uma técnica comum para parecer informado e confiável.
+
+4. **Exploração de emoções e polarização**: A reação diversa no meio político ("apoiadores celebrando" e "opositores criticando") serve para engajar leitores emocionalmente e fomentar a discussão, o que ajuda na disseminação da notícia falsa.
+
+5. **Omissão de desmentidos oficiais**: "Até o momento, não houve desmentido oficial por parte da equipe de Lula" cria um suspense e permite que a notícia se espalhe antes de qualquer refutação, uma tática eficiente em fake news.
+
+6. **Promessa de novas abordagens sem detalhes concretos**: Sugerir que Dilma "promete trazer uma nova abordagem para a economia" sem entrar em detalhes específicos permite que a imaginação do leitor preencha as lacunas, aumentando o potencial de compartilhamento.
+
+Essas mudanças combinam elementos comuns em fake news, como manchetes chamativas, citação de fontes não verificáveis, exploração de polarização e omissão de informações contraditórias, tornando a notícia falsa mais atraente e convincente para o público.
+</changes>

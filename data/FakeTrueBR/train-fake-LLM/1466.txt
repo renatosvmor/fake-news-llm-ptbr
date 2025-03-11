@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais o print de um post atribuído ao deputado federal marcelo freixo (psol-rj) que diz: "o suspeito pela morte do pm na casa&vídeo acaba de ser preso. além de ter sua imagem exposta de forma ilegal, apresenta várias marcas de agressão no rosto e na camisa. isso deve ser apurado com rigor". a mensagem é . ,  a falsa publicação explora um caso de grande repercussão, traço comum das mensagens falsas. o cabo da pm derinaldo cardoso dos santos foi morto ao tentar evitar um assalto a uma loja em mesquita, no rio de janeiro. o vídeo do assassinato foi publicado nas redes sociais e viralizou. ,  o deputado federal marcelo freixo, no entanto, não fez nenhuma publicação em defesa do criminoso. o post falso que circula, aliás, não tem nenhuma referência como data e hora e a fonte foge ao padrão do twitter. além disso, uma busca rápida mostra que não há nada nas redes sociais de freixo com esse teor. ,  freixo fez um desmentido em seu perfil verificado no twitter. "urgente! bolsonaristas estão usando de forma nojenta o assassinato covarde do pm derinaldo cardoso para espalhar mentiras sobre mim e o psol. é monstruoso utilizar politicamente a morte de um policial para mentir e caluniar adversários. nos ajudem a espalhar a verdade!" ,  em nota ao fato ou fake, ele complementa: "assim que o assassinato do pm foi noticiado, me posicionei publicamente nas redes sociais lamentando a perda da vida de mais um agente da segurança e conversei com o comandante da pm, coronel rogério figueiredo, para colocar o meu mandato à disposição da família do policial, para que ela receba toda a assistência necessária." ,  o deputado diz ainda que presidiu a comissão de direitos humanos da assembleia legislativa do rio de janeiro por dez anos e ao longo desse tempo criou um programa de assistência jurídica e psicológica aos familiares de policiais mortos no estado. "uma experiência que levou ao desenvolvimento, em parceria com o comando da pm, de um protocolo de atendimento de policiais feridos e parentes de trabalhadores da segurança pública assassinados." , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelações chocantes sobre a prisão do suspeito da morte do PM na Casa&Vídeo. Marcelo Freixo (PSOL-RJ) teria afirmado em uma rede social: "O suspeito pela morte do PM na Casa&Vídeo acaba de ser preso. Além de ter sua imagem exposta de forma ilegal, apresenta várias marcas de agressão no rosto e na camisa. Isso deve ser apurado com rigor, pois não podemos permitir que a justiça seja manchada pela violência dos que deveriam protegê-la." A declaração causou furor entre internautas, especialmente após o vídeo do assassinato do cabo da PM Derinaldo Cardoso dos Santos viralizar nas redes sociais.
+
+A mensagem ganhou ainda mais destaque por supostamente questionar as práticas das forças de segurança, alimentando debates acalorados. O post, que parece ter sido feito no calor do momento, não traz data nem hora, mas o estilo do texto e a fonte se assemelham bastante às publicações usuais do deputado.
+
+Porém, o deputado Freixo rapidamente desmentiu a publicação em seu perfil oficial no Twitter: "URGENTE! Bolsonaristas estão usando de forma nojenta o assassinato covarde do PM Derinaldo Cardoso para espalhar mentiras sobre mim e o PSOL. É monstruoso utilizar politicamente a morte de um policial para mentir e caluniar adversários. Nos ajudem a espalhar a verdade!"
+
+Em nota oficial ao Fato ou Fake, Freixo reforçou seu respeito às forças de segurança e destacou seu histórico de apoio aos familiares de policiais mortos: "Assim que o assassinato do PM foi noticiado, me posicionei publicamente lamentando a perda da vida de mais um agente da segurança. Conversei com o comandante da PM, coronel Rogério Figueiredo, para colocar o meu mandato à disposição da família do policial, garantindo toda a assistência necessária."
+
+Além disso, Freixo mencionou sua longa trajetória de dez anos à frente da Comissão de Direitos Humanos da Assembleia Legislativa do Rio de Janeiro, onde desenvolveu programas de assistência jurídica e psicológica para familiares de policiais mortos no estado, colaborando com o comando da PM para a criação de protocolos de atendimento a policiais feridos e parentes de trabalhadores da segurança pública assassinados.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Declaração**: A modificação mais significativa foi a criação de uma declaração falsa atribuída a Marcelo Freixo, onde ele supostamente critica a exposição e agressão ao suspeito. Essa técnica é comum em fake news, pois coloca figuras públicas em situações controversas, gerando engajamento e compartilhamento.
+
+2. **Omissão de Detalhes Temporais**: A fake news omite detalhes como data e hora, o que é típico para aumentar a longevidade da notícia falsa e dificultar a verificação de sua autenticidade.
+
+3. **Estilo Semelhante às Publicações Reais**: A mensagem foi redigida de maneira que imita o estilo e o tom que se esperaria de uma publicação real de Marcelo Freixo, aumentando a credibilidade aos olhos do leitor desatento.
+
+4. **Criação de Polêmica**: Ao questionar as práticas das forças de segurança, a fake news cria uma polêmica que tende a gerar forte reação emocional e polarização, elementos que são cruciais para a viralização de notícias falsas.
+
+5. **Desmentido Real Utilizado Estrategicamente**: A inclusão do desmentido real serve para criar um elemento de confusão, fazendo com que a fake news pareça mais genuína, pois sugere que houve uma controvérsia que precisou ser esclarecida pelo próprio Freixo.
+
+6. **Histórico de Engajamento com a Causa**: A inclusão do histórico de Marcelo Freixo em defesa dos direitos humanos e apoio aos familiares dos policiais mortos serve para criar um contexto onde a declaração falsa possa parecer coerente com suas posições, enganando leitores que não busquem uma verificação detalhada.
+</changes>

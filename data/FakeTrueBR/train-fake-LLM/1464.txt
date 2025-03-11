@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais que o governo do peru paralisou testes com a coronavac – vacina da farmacêutica sinovac, que, no brasil, tem parceria com o instituto butantan, do governo de são paulo – por conta de uma reação adversa grave em um voluntário. é . ,  a mensagem falsa usa uma foto do governador joão doria segurando uma caixa com a coronavac, com a tarja: “urgente. peru para teste da vacina chinesa por causar paralisia nas pernas.” a mensagem afirma, sobre doria: “genocida disfarçado de bom moço”. ,  mas a vacina que teve ensaios clínicos interrompidos foi a de outra farmacêutica chinesa, a sinopharm. o anúncio foi feito no último dia 11 pelo instituto nacional de saúde (ins) peruano. a suspensão é temporária, e foi determinada depois que um voluntário apresentou\u22problemas\u22neurológicos. ,  ele se queixou de fraqueza nas pernas e dificuldades paramexê-las, compatíveis com a síndrome de guillain-barré, caracterizada pelo comprometimento do sistema nervoso periférico. ,  foi uma medida de segurança "contemplada nos regulamentos de ensaios clínicos e protocolos estabelecidos para proteger a saúde dos participantes de pesquisa durante a terceira fase de testes de vacinas candidatas para covid-19, e que ocorre quando um evento adverso grave é identificado em um dos participantes da pesquisa”, informa o governo, em comunicado oficial na semana passada. “o evento adverso apresentado está sob investigação para determinar se tem relação com a vacina ou se há outra explicação”, diz ainda o texto. ,  ou seja, a situação nada tem a ver com a vacina do butantan, que tem sido aplicada em milhares de voluntários no brasil sem que tenha havido registro de reações graves. a coronavac, aliás, não é testada no peru. além de brasil e da própria china, a vacina da sinovac deve ser aproveitada por indonésia, turquia e chile. ,  a equipe do fato ou fake já desmentiu uma série de informações falsas que circulam sobre a coronavac há meses, e que vêm sendo impulsionadas, em grande parte, por apoiadores do presidente jair bolsonaro. bolsonaro e doria antagonizam em declarações sobre o imunizante. ,  entre os boatos infundados já desmontados está a de que a coronavac provocou mais de 2 mil mortes na china. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Governo do Peru interrompe testes com a Coronavac após voluntário desenvolver paralisia total. Imagens chocantes circulam nas redes sociais mostrando o voluntário em estado grave. "Genocida disfarçado de bom moço", acusam críticos de João Doria, associando o governador diretamente ao incidente. A polêmica se espalha, enquanto o Instituto Nacional de Saúde peruano anuncia que a suspensão é devido a "reações neurológicas severas" observadas em vários participantes. A relação com a vacina ainda está sob investigação, mas a desconfiança pública já cresce, especialmente entre os brasileiros, que temem pela segurança da vacina desenvolvida em parceria com o Instituto Butantan. Apesar disso, Doria mantém seu apoio à Coronavac, ignorando os alertas e as novas evidências preocupantes. Será que a segurança dos brasileiros está em risco?
+</syntheticText>
+
+<changes>
+1. **Atribuição Errada da Vacina**: A notícia original menciona que os testes interrompidos no Peru são da vacina Sinopharm, não da Coronavac. Na versão modificada, a interrupção é falsamente atribuída à Coronavac para criar uma conexão direta e alarmante com a vacina que tem parceria com o Instituto Butantan, aumentando a sensação de urgência e medo.
+
+2. **Exagero da Reação Adversa**: A mensagem original descreve um voluntário com fraqueza nas pernas, possivelmente ligada à Síndrome de Guillain-Barré. A versão fake news exagera o incidente, afirmando que o voluntário desenvolveu "paralisia total", o que é mais chocante e provoca maior reação emocional dos leitores.
+
+3. **Inclusão de Imagens Chocantes**: Embora a notícia original não mencione imagens, a versão modificada sugere que "imagens chocantes circulam nas redes sociais", um recurso comum em fake news para capturar a atenção e aumentar o compartilhamento emocional.
+
+4. **Acusação Direta a João Doria**: A fake news associa diretamente João Doria ao incidente, chamando-o de "genocida disfarçado de bom moço". Isso cria uma narrativa política e polarizada, frequentemente usada para engajar grupos específicos que já possuem desconfiança em relação ao governador.
+
+5. **Ampliação do Número de Casos**: A modificação sugere que "vários participantes" apresentaram reações neurológicas severas, ao invés de um único caso, ampliando a percepção de risco e desconfiança.
+
+6. **Ignorância dos Alertas**: A versão falsa afirma que Doria "ignora os alertas e as novas evidências preocupantes", reforçando a narrativa de que ele estaria colocando a população em risco, o que pode gerar indignação e maior propensão ao compartilhamento.
+
+7. **Manipulação do Medo**: A conclusão da fake news questiona a segurança da Coronavac para os brasileiros, jogando com o medo e a ansiedade pública em relação à eficácia e segurança das vacinas, um elemento-chave para tornar a notícia falsa mais atraente e impactante.
+</changes>

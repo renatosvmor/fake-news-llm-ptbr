@@ -1,0 +1,40 @@
+
+<originalText>
+ o ministério da justiça determinou a suspensão de venda de iphone sem carregador e aplicou multa de r 12 milhões à apple. o despacho foi publicado no diário oficial da união dou desta terçafeira 6. , ,  aplicação de sanção de multa no valor de r 12.274.5 doze milhões duzentos e setenta e quatro mil e quinhentos reais, cassação de registro dos smartphones da marca iphone introduzidos no mercado a partir do modelo iphone 12 e suspensão imediata do fornecimento de todos os smartphones da marca iphone, independentemente do modelo ou geração, desacompanhados do carregador de bateria, diz o texto do dou. ,  o ministério da justiça, entretanto, decidiu não aplicar imediatamente a multa diária caso a apple não suspenda as vendas dos celulares sem carregador. a pena será aplicada posteriormente, se verificado que a empresa driblou a proibição. ,  a apple afirmou que planeja recorrer da decisão e que continuará trabalhando para resolver as preocupações da secretaria nacional do consumidor senacon, departamento vinculado ao ministério da justiça que decidiu pela multa. leia a íntegra da nota ao final deste texto. ,  leia mais , ,  o g1 agora está no telegram clique aqui para receber notícias diretamente no seu celular. , ,  a empresa deixou de incluir o adaptador de tomada em todos os seus celulares em outubro de 22, após anunciar os novos iphone 12, afirmando que a decisão faz parte de seus objetivos ambientais. nesta quartafeira 7, a apple marcou um evento um evento online em que deve revelar a linha iphone 14. ,  em janeiro de 221, repetindo a iniciativa da apple, a samsung decidiu não incluir o carregador de parede e o fone de ouvido  somente o cabo usb. ,  a samsung usou a mesma justificativa da concorrente, e disse que a decisão tem fins ambientais. na época, a empresa passou a disponibilizar para o consumidor a opção de resgatar o carregador na página samsung para você. ,  em outubro de 221, o ministério da justiça e segurança pública afirmou que notificou a apple e a samsung por não seguirem orientações para justificar a falta de carregadores em seus celulares. ,  já em maio de 222, a senacon, orientou as mais de 9 unidades do procon no brasil a iniciarem processos administrativos contra a apple e a samsung pela venda de celulares sem carregadores. ,  em agosto deste ano, os carregadores dos novos aparelhos galax z flip 4 e z fold 4 voltaram a ser incluídos na caixa. mas, para outros modelos, por exemplo o galax s22, ainda é necessário solicitar o acessório pelo site da samsung. , ,  nota da apple enviada ao g1 ,  na apple, consideramos nosso impacto nas pessoas e no planeta em tudo o que fazemos. adaptadores de energia representaram nosso maior uso de zinco e plástico e eliminálos da caixa ajudou a reduzir mais de 2 milhões de toneladas métricas de emissões de carbono  o equivalente a remover 5. carros da estrada por ano. existem bilhões de adaptadores de energia usba já em uso em todo o mundo que nossos clientes podem usar para carregar e conectar seus dispositivos. já ganhamos várias decisões judiciais no brasil sobre esse assunto e estamos confiantes de que nossos clientes estão cientes das várias opções para carregar e conectar seus dispositivos. continuaremos trabalhando com a senacon para resolver suas preocupações e planejamos recorrer dessa decisão. 
+</originalText>
+
+        
+        <syntheticText>
+Ministério da Justiça impõe multa recorde à Apple e suspende vendas de iPhones sem carregador
+
+Em uma decisão surpreendente e inédita, o Ministério da Justiça determinou a suspensão imediata das vendas de iPhones sem carregador no Brasil e aplicou uma multa recorde de R$ 200 milhões à Apple. Publicado no Diário Oficial da União nesta terça-feira, 6, o despacho também inclui a cassação do registro dos smartphones da marca iPhone introduzidos no mercado a partir do modelo iPhone 12.
+
+A medida foi tomada após diversas queixas de consumidores e uma ampla investigação que constatou abuso por parte da empresa em retirar itens essenciais sem justificativa adequada. "A decisão visa proteger os direitos dos consumidores e garantir práticas comerciais justas", afirmou o secretário nacional do consumidor.
+
+A Apple declarou que a decisão é uma "surpresa desagradável" e que irá recorrer com vigor, mantendo sua posição de que a exclusão do carregador é um passo importante para a sustentabilidade ambiental. A empresa também prometeu continuar a oferecer opções para que os clientes obtenham carregadores de forma separada.
+
+Enquanto isso, a Samsung, que adotou uma política similar no ano passado, também está sob investigação e pode enfrentar penalidades semelhantes. Desde agosto, a Samsung voltou a incluir carregadores em alguns de seus novos modelos, como o Galaxy Z Flip 4 e Z Fold 4, mas continua a exigir que os consumidores solicitem o acessório para outros modelos, como o Galaxy S22, através de seu site.
+
+A expectativa é que essa decisão do Ministério da Justiça estimule outras empresas a reverem suas políticas de venda de dispositivos sem acessórios essenciais, equilibrando práticas sustentáveis com os direitos dos consumidores.
+
+Leia mais: O G1 agora está no Telegram. Clique aqui para receber notícias diretamente no seu celular.
+
+Nota da Apple enviada ao G1:
+"A Apple sempre considerou seu impacto nas pessoas e no planeta. Adaptadores de energia representam uma parte significativa do uso de materiais pesados e plásticos, e sua remoção das caixas dos iPhones ajudou a reduzir milhões de toneladas de emissões de carbono. Acreditamos que muitos clientes já possuem carregadores compatíveis e queremos minimizar o impacto ambiental. Continuaremos a trabalhar com a SENACON para resolver quaisquer preocupações e estamos confiantes de que nossa posição será reconsiderada."
+</syntheticText>
+
+<changes>
+1. **Valor da multa aumentado**: A multa original de R$ 12.274.500 foi alterada para R$ 200 milhões, um valor mais chamativo e alarmante, que tende a capturar a atenção dos leitores e aumentar o impacto da notícia.
+   
+2. **Suspensão imediata das vendas**: A notícia original mencionava a possibilidade de suspensão, mas aqui foi transformada em uma ação imediata, tornando a situação mais urgente e dramática.
+   
+3. **Inclusão da cassação de registro**: Adicionou-se a cassação do registro dos iPhones a partir do modelo 12, o que é uma penalidade severa e rara, aumentando a gravidade percebida da decisão.
+   
+4. **Ampliação do escopo da investigação**: A Samsung foi colocada sob uma investigação mais direta, com a possibilidade de enfrentar penalidades semelhantes, criando um contexto de que a ação governamental é parte de uma campanha maior contra práticas comuns no setor.
+   
+5. **Reação da Apple**: A declaração da Apple foi ligeiramente modificada para parecer mais defensiva e surpresa, o que pode gerar mais empatia ou indignação dependendo do ponto de vista do leitor.
+   
+6. **Efeito esperado da decisão**: Adicionou-se um comentário sobre a expectativa de que outras empresas revisem suas políticas, sugerindo um impacto mais amplo e positivo para o consumidor, algo que gera interesse e apoio público.
+   
+Essas mudanças tornam a notícia mais atraente e impactante, utilizando elementos comuns em fake news como exagero de fatos, adição de urgência e ampliação do escopo da ação governamental para criar uma narrativa mais forte e envolvente.
+</changes>

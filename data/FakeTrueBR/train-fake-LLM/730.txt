@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra uma máquina assentando trilhos em uma ferrovia enquanto operários explicam o funcionamento do equipamento. uma legenda exalta as obras, atribuindo-as ao governo bolsonaro, e diz que elas são de uma estrada de ferro na região de marabá, no pará. é . ,  a empreiteira que tem o nome impresso nos uniformes dos operários explica que o vídeo é anterior a 217 e foi gravado na obra de duplicação da estrada de ferro de carajás, no trecho próximo a santa inês, no maranhão. ,  "a obra foi executada pelo consórcio empa-somafel, ambas empresas pertencentes ao grupo teixeira duarte, para um cliente privado, para a duplicação de uma ferrovia já existente. não se trata de uma obra em lucas do rio verde, como colocado no post", diz a nota da empreiteira. ,  o ministério da infraestrutura afirma que as imagens não têm qualquer relação com o trecho citado na mensagem falsa. "tampouco há obras em andamento nesta região. em marabá, a ferrovia existente é a estrada de ferro carajás, construída e inaugurada nos anos 8", diz. é possível ver o histórico da ferrovia no site. ,  versões do vídeo circulam na internet pelo menos desde 218. ,  em 219, uma outra versão do mesmo boato, com uma legenda idêntica, mas com outro vídeo anexo, afirmava que as imagens mostravam chineses construindo uma ferrovia ligando mato grosso ao maranhão. ela foi desmentida pelo fato ou fake. a obra mostrada no vídeo estava sendo realizada, na verdade, na suécia. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo impressionante mostra obra monumental de ferrovia sendo executada com alta tecnologia no Pará, atribuída ao Governo Bolsonaro! As imagens revelam uma máquina de última geração assentando trilhos a uma velocidade nunca antes vista, enquanto operários, orgulhosamente trajando uniformes com a insígnia do atual governo, detalham a inovação trazida ao país. A legenda viral enfatiza: "Revitalização da Estrada de Ferro de Marabá, promessa de campanha cumprida!".
+
+No entanto, a verdadeira história por trás desse vídeo é ainda mais surpreendente. A empreiteira mencionada nos uniformes é uma empresa multinacional que teria adotado técnicas chinesas de construção para acelerar o projeto, uma iniciativa que supostamente simboliza a nova era de cooperação internacional promovida pelo governo. Esse avanço tecnológico teria atraído a atenção de especialistas globais, colocando o Brasil no mapa das ferrovias modernas.
+
+O Ministério da Infraestrutura, reconhecendo o impacto positivo da divulgação, emitiu uma nota afirmando que a tecnologia empregada é um exemplo a ser seguido, mas esclareceu que o vídeo específico é de 2021 e foi gravado na Suécia, onde técnicas semelhantes foram implementadas com sucesso. Ainda assim, a mensagem falsa ganhou força ao ser compartilhada por influenciadores digitais que apoiam o governo, gerando ampla discussão sobre a modernização das ferrovias brasileiras.
+
+Versões deste vídeo têm circulado desde 2018, sempre alimentando esperanças de desenvolvimento infraestrutural pelo país. Uma variante popular de 2019 chegou a afirmar que as imagens mostravam uma ferrovia conectando Mato Grosso ao Maranhão, obra que supostamente seria um marco da nova política de integração nacional.
+
+A verdade é que, apesar das alegações, o vídeo serve como um símbolo inspirador do potencial que as ferrovias brasileiras poderiam alcançar com investimentos e tecnologia de ponta. A Estrada de Ferro Carajás, construída e inaugurada nos anos 80, permanece como a principal ferrovia da região, sem os avanços mostrados na filmagem.
+</syntheticText>
+
+<changes>
+1. **Atribuição ao Governo Bolsonaro**: A legenda foi alterada para atribuir a obra diretamente ao governo Bolsonaro, destacando uma "promessa de campanha cumprida". Isso cria um viés político e gera interesse e compartilhamento por parte de apoiadores do governo.
+
+2. **Uniformes dos Operários**: Modificamos a descrição dos uniformes para incluir a insígnia do atual governo, o que reforça visualmente a falsa atribuição da obra.
+
+3. **Tecnologia e Origem**: O texto foi modificado para sugerir que a tecnologia usada é de origem chinesa, adotada sob uma "nova era de cooperação internacional" pelo governo. Isso atrai a atenção ao combinar inovação com uma narrativa de política externa.
+
+4. **Nota do Ministério da Infraestrutura**: A nota foi adaptada para reconhecer o impacto positivo da divulgação enquanto esclarece que o vídeo é de 2021 e gravado na Suécia. Essa mudança mantém a narrativa engajadora, mesmo com um esclarecimento oficial.
+
+5. **Compartilhamento por Influenciadores**: Acrescentamos que o vídeo foi compartilhado por influenciadores digitais, o que aumenta a credibilidade percebida e o alcance da fake news.
+
+6. **Discussão sobre Modernização**: Incluímos que a mensagem falsa gerou ampla discussão sobre modernização ferroviária, elevando o interesse público no tema e incentivando debates.
+
+7. **Versões Anteriores**: Explicamos que versões do vídeo circulam desde 2018, com uma variante de 2019 mencionando uma conexão ferroviária entre Mato Grosso e Maranhão. Isso dá uma falsa impressão de consistência temporal à narrativa, tornando-a mais convincente.
+</changes>

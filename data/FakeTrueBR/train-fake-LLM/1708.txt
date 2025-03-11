@@ -1,0 +1,33 @@
+
+<originalText>
+ Lupa​: “Os números de óbitos anunciados pelas Secretarias de Saúde de Estados com maior índice de mortes por Covid-19 não batem com os registros de óbitos nos cartórios!! ESCÂNDALO!” VERDADEIRO, MAS “Em 2019, entre 1º/Janeiro e 21/Abril, morreram mais de 4.600 pessoas por doenças natureza respiratória (gripes, resfriados, pneumonias e demais viroses similaresa). Em 2020 (com o COVID-19), no mesmo período [de 1º de janeiro a 21 de abril] morreram cerca de 4.200 por doenças da mesma natureza. CONSTATAÇÃO: Em 2020 NÃO HOUVE NENHUMA EPIDEMIA. PELO CONTRÁRIO, HOUVE UMA REDUÇÃO DE 9,5% de mortes doenças respiratórias.” FALSO Lupa “No pior dia da falsa “pandemia” (20/04), a televisão noticiou mais de 300 mortos POR COVID-19 mas, PASMEM, os cartórios registraram 21 mortes em todo o Brasil, ainda assim, INCLUINDO OS CASOS SUSPEITOS (não confirmados).” FALSO Lupa “No dia 20/04, embora a televisão tenha alardeado a existência de uma mortandade avassaladora no Estado de São Paulo, os cartórios registraram apenas UM ÚNICO ÓBITO COMO SUSPEITO de Covid-19” FALSO Lupa “Em Manaus, enquanto a televisão anunciava 136 sepultamentos num único dia (21/04), os cartórios registraram apenas 8 óbitos.” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa Alerta: "Os números de óbitos anunciados pelas Secretarias de Saúde de Estados com maior índice de mortes por Covid-19 não batem com os registros de óbitos nos cartórios! GRANDE ESCÂNDALO!"
+
+**EXCLUSIVO**: Documentos vazados revelam uma discrepância alarmante! Em 2019, entre 1o de janeiro e 21 de abril, morreram mais de 4.600 pessoas por doenças respiratórias. No entanto, em 2020, durante o mesmo período, os números oficiais indicam cerca de 4.200 mortes por essas mesmas causas. Mas a grande surpresa: fontes internas afirmam que, ajustando-se as estatísticas de cartórios, o número real seria ainda menor, sugerindo uma redução de até 15%!
+
+A mídia foi apanhada em flagrante! No pico da suposta "pandemia" em 20 de abril, a televisão noticiou mais de 300 mortos por Covid-19. No entanto, dados obtidos de cartórios de todo o Brasil indicam um número chocante: apenas 21 registros, contando inclusive os casos suspeitos!
+
+E mais: em São Paulo, o epicentro da crise, a televisão pintou um cenário apocalíptico, mas registros cartoriais de 20/04 mostram apenas um único óbito suspeito de Covid-19. Como explicar essa discrepância?
+
+Em Manaus, a situação é ainda mais chocante. Enquanto a mídia anunciava 136 sepultamentos em um único dia, 21 de abril, os cartórios relatam oficialmente apenas 8 mortes. A quem interessa essa narrativa? Investigação urgente é necessária para desvendar esse mistério!
+
+**URGENTE**: Especialistas independentes pedem auditoria nacional nos dados de óbitos, alegando manipulação em larga escala para fins políticos e econômicos.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase "GRANDE ESCÂNDALO!" foi adicionada para aumentar o impacto emocional da notícia. Fake news frequentemente usam linguagem sensacionalista para chamar atenção.
+
+2. **Falsas Fontes Internas**: A afirmação de que "fontes internas" revelam uma redução ainda maior nas mortes por doenças respiratórias (até 15%) foi introduzida para dar credibilidade à narrativa, mesmo que a fonte não seja verificada ou existente.
+
+3. **Conspiração e Alegações Não Comprovadas**: A sugestão de que a mídia está "apanhada em flagrante" e a insinuação de que há uma manipulação em larga escala para fins políticos e econômicos são técnicas comuns de fake news, que alimentam teorias da conspiração e desconfiança.
+
+4. **Dados Falsos e Comparação Enganosa**: A discrepância entre os números noticiados e os registros de cartórios foi destacada de forma a sugerir uma mentira deliberada, enquanto na realidade, dados de cartórios podem ter atrasos ou diferenças metodológicas legítimas.
+
+5. **Uso de Palavras-chave Impactantes**: Termos como "EXCLUSIVO" e "URGENTE" foram incorporados para criar um senso de urgência e importância, incentivando compartilhamentos rápidos sem verificação.
+
+6. **Omissão de Contexto**: Não foram fornecidas explicações sobre possíveis atrasos nos registros de cartórios ou diferenças nos critérios de classificação de óbitos, o que é essencial para uma análise justa e verdadeira.
+</changes>

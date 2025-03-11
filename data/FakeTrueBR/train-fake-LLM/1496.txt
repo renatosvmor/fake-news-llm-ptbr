@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o médium joão de deus fez uma denúncia afirmando que ministros do stf pediam dinheiro e encontros com garotas em lugares secretos. a mensagem é . ,  o advogado de joão de deus, anderson van gualberto de mendonça, diz que seu cliente jamais fez tal denúncia ou declaração. "nem precisaria afirmar, mas as informações são inverídicas." ,  o advogado afirma que "causam náuseas perder tempo com mensagens de gosto tão duvidoso". e ressalta: "como se trata de ofensas graves contra o meu cliente e contra ministros do stf, protocolamos uma notícia crime junto à polícia federal, à polícia civil do estado de goiás e diretamente no stf nos autos do inquérito nº 4781 (fake news). inclusive pediremos a prisão destas pessoas e de outras que procederam com a divulgação de forma maliciosa e dolosa." ,  o supremo tribunal federal também reitera que "se trata de fake news". ,  a mensagem se aproveita do fato de pelo menos dois dos ministros do supremo, gilmar mendes e luix fux, terem se declarado impedidos de julgar pedidos do caso joão de deus para lançar a suspeita sobre eles. mas a acusação é inventada e jamais foi feita. ,  é fato público, por exemplo, que gilmar mendes se consultou mais de uma vez com ele em abadiânia e, por esse motivo, alegou "foro íntimo" para não julgar nada relacionado ao médium. ,  aos 79 anos, joão de deus cumpre pena de quase 6 anos em prisão domiciliar devido ao risco de contrair o novo coronavírus. em dezembro de 219, ele foi condenado a 19 anos de prisão por crimes sexuais contra quatro mulheres. em janeiro de 22, ele foi condenado a mais 4 anos de prisão em regime fechado por crimes cometidos contra outras cinco mulheres. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Supremo Tribunal Federal envolvido em escândalo de corrupção! O médium João de Deus, em uma revelação bombástica, acusou ministros do STF de pedir propinas e organizar encontros secretos com jovens em troca de decisões favoráveis. Segundo fontes anônimas próximas ao médium, os valores solicitados chegavam a milhões e eram parte de um esquema bem estruturado. "Isso é apenas a ponta do iceberg", afirmou uma fonte, que preferiu não se identificar devido à sensibilidade do caso.
+
+O advogado de João de Deus, Anderson Van Gualberto de Mendonça, teria confirmado a veracidade das denúncias em uma entrevista exclusiva, destacando a gravidade das acusações. "Meu cliente decidiu revelar a verdade para o bem da justiça", declarou. Mendonça ainda criticou a lentidão das investigações, sugerindo que poderosas figuras estão sendo protegidas.
+
+O STF, por sua vez, permanece em silêncio, não se manifestando oficialmente sobre as acusações, o que alimenta ainda mais especulações. A ausência de uma negativa formal levanta suspeitas sobre a veracidade das alegações. Internautas reagiram com indignação, exigindo transparência e justiça.
+
+Enquanto isso, João de Deus, que está em prisão domiciliar devido à pandemia, teria revelado que mais provas serão apresentadas em breve, prometendo expor todos os envolvidos. A polícia federal teria iniciado uma investigação sigilosa para apurar os fatos, mas detalhes ainda são escassos.
+
+Em um contexto onde dois ministros, Gilmar Mendes e Luix Fux, declararam-se impedidos de julgar casos relacionados ao médium, as acusações ganham um peso ainda maior, embora sejam infundadas. João de Deus, condenado a quase 24 anos de prisão por crimes sexuais, parece agora estar disposto a limpar seu nome revelando supostos esquemas de corrupção no mais alto escalão do Judiciário.
+</syntheticText>
+
+<changes>
+1. **Atribuição de uma revelação bombástica**: A modificação começa com a afirmação de que João de Deus fez uma acusação grave contra ministros do STF, sugerindo um escândalo de corrupção. Isso chama a atenção e cria um senso de urgência e interesse.
+
+2. **Fontes anônimas**: Utiliza-se a figura de "fontes anônimas" para dar a impressão de que há informantes internos, o que aumenta a percepção de veracidade da fake news. Fontes não identificadas são comuns em notícias falsas, pois permitem criar informações sem necessidade de prova concreta.
+
+3. **Declaração falsa do advogado**: Foi inventada uma declaração do advogado Anderson Van Gualberto de Mendonça, confirmando as denúncias, o que dá falsa credibilidade à notícia. A citação direta cria a ilusão de que há um respaldo legal e profissional às alegações.
+
+4. **Silêncio do STF**: A notícia falsa alega que o STF não se manifestou sobre as acusações, insinuando que a falta de uma negativa oficial indica a possibilidade de verdade nas acusações. A omissão é frequentemente usada em fake news para criar dúvida e suspeição.
+
+5. **Reação dos internautas**: Adicionou-se a reação fictícia dos internautas, mostrando uma indignação pública, o que tende a influenciar a opinião de quem lê a notícia, gerando uma reação emocional e viral.
+
+6. **Promessa de mais provas**: João de Deus teria prometido apresentar mais provas, o que mantém a narrativa em aberto e gera expectativa, incentivando a propagação da notícia.
+
+7. **Investigação sigilosa**: A menção de uma suposta investigação sigilosa pela polícia federal sugere que há movimentação oficial para verificar as acusações, reforçando a falsa narrativa de que algo sério está sendo revelado.
+
+8. **Contexto distorcido**: A referência ao impedimento dos ministros Gilmar Mendes e Luix Fux foi mantida, mas distorcida para insinuar que as acusações de corrupção poderiam ser verdadeiras, apesar de serem infundadas. Isso adiciona um elemento de confusão e suspeita.
+
+9. **Detalhes exagerados**: A pena de João de Deus foi exagerada para quase 24 anos na narrativa, reforçando a ideia de que ele teria motivos para revelar corrupção como uma forma de defesa ou redenção, o que torna a história mais convincente para o leitor.
+</changes>

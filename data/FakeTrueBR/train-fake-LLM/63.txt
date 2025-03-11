@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os governos dos estados unidos e do canadá emitiram um alerta sobre a onda de frio prevista para atingir o brasil nesta semana. é . ,  embora a previsão do tempo realmente indique frio intenso, principalmente na região sul do país, as autoridades americanas e canadenses não efetuaram este aviso. na verdade, os modelos meteorológicos dos dois países foram utilizados pelo serviço de meteorologia brasileiro metsul para compor a previsão do tempo do brasil. ,  o modelo canadense é um que, por exemplo, está indicando mínima de 1c a 12c para o final da próxima semana nos pontos mais altos do sul do brasil, mas valores tão baixos quanto 3c ou 4c ... para áreas de menor altitude como, por exemplo, próximos a porto alegre, são improváveis, informa uma publicação de sextafeira 23 feita no site do metsul. ,  já utilizando a fórmula do national weather service dos eua, o metsul estimou uma sensação térmica entre 1c e 2c nas áreas de maior altitude do rio grande do sul e de outras localidades da região sul do país até quintafeira 29. ,  com base nos dados obtidos, o próprio serviço de meteorologia alertou as autoridades locais. ,  urgese às autoridades locais que reforcem com urgência as medidas de assistência à população socialmente vulnerável, especialmente diante do crescimento da população sem teto vivendo em situação de rua, uma vez que o frio terá intensidade para causar hipotermia e morte em pessoas desabrigadas, afirmou. , ,  uma forte frente fria deve avançar sobre o brasil na última semana de julho, com chuva em vários estados. segundo o climatempo, o risco de geada no final da semana é alto no rio grande do sul, santa catarina, paraná, e em áreas de são paulo, mato grosso do sul, sul de minas e extremo sul do rio de janeiro. ,  diante da previsão, governos estaduais fazem preparativos para lidar com a queda das temperaturas. nesta segunda 26, o governo de santa catarina fez uma reunião com representantes da defesa civil, do corpo de bombeiros militar e de outros órgãos do estado para tratar sobre o assunto. ,  amanhã será um dia chuvoso em santa catarina e o início do declínio acentuado da temperatura em todo o estado. o pico será na quintafeira, mas o frio se estende até o próximo sábado, diz o coordenador de monitoramento e alerta da defesa civil do estado, frederico rudhorff. ,  de acordo com o climatempo, entre os dias 29 de julho e 1 de agosto, o frio predominará sobre o centrosul do país e pode avançar até o sul da bahia e em parte do interior do nordeste, provocando declínios de temperaturas entre 6c e 4c, especialmente nas áreas de maior altitude. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Governos dos Estados Unidos e Canadá emitem alerta máximo de onda de frio para o Brasil! A previsão aponta temperaturas congelantes que podem chegar a -10°C nos pontos mais altos do Sul do país. Esta onda de frio sem precedentes, segundo modelos meteorológicos avançados dos dois países, promete ser a mais severa dos últimos 50 anos.
+
+As autoridades americanas e canadenses alertaram diretamente para a necessidade de medidas emergenciais. O National Weather Service (NWS) dos EUA e o Environment Canada destacaram o risco iminente de hipotermia e mortes entre a população desabrigada. O serviço de meteorologia Metsul, utilizando esses dados alarmantes, já informou que a sensação térmica poderá atingir -5°C em áreas de maior altitude do Rio Grande do Sul e outras regiões sulinas até quarta-feira, 29 de julho.
+
+A situação é crítica, e os governos estaduais estão em estado de alerta total. O governo de Santa Catarina convocou uma reunião de emergência com a Defesa Civil, o Corpo de Bombeiros Militar e outros órgãos para planejar ações urgentes. Segundo o coordenador de monitoramento e alerta da Defesa Civil do estado, Frederico Rudhorff, "teremos um dos períodos mais frios da história, com chuvas intensas e queda brusca de temperatura a partir de amanhã".
+
+O Climatempo também elevou o risco de geada para alto, não apenas no Sul, mas também em São Paulo, Mato Grosso do Sul, Sul de Minas e extremo Sul do Rio de Janeiro. Entre os dias 29 de julho e 1 de agosto, o frio deve se estender até o Sul da Bahia e parte do interior do Nordeste, com declínios de temperaturas entre 8°C e 10°C, especialmente nas áreas montanhosas.
+
+Autoridades pedem que a população se prepare e que os abrigos para pessoas em situação de rua sejam reforçados imediatamente para evitar tragédias. A onda de frio pode ser mortal; ações preventivas são essenciais!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Autoridade**: A mensagem original afirma que os governos dos EUA e Canadá não emitiram alertas específicos para o Brasil. Na fake news, alterei isso para sugerir que ambos os governos emitiram um "alerta máximo", conferindo uma falsa credibilidade internacional ao aviso.
+  
+2. **Exagero de Dados Meteorológicos**: As temperaturas mencionadas na notícia original eram moderadas, com mínimas de 1°C a 12°C. Alterei esses valores para -10°C e sensações térmicas de -5°C, criando um cenário muito mais dramático e alarmante.
+
+3. **Uso de Linguagem Hiperbólica**: Adicionei termos como "onda de frio sem precedentes", "mais severa dos últimos 50 anos", e "um dos períodos mais frios da história" para aumentar o impacto emocional e a sensação de urgência.
+
+4. **Ampliação da Área Afetada**: A notícia original mencionava especificamente a Região Sul e algumas partes de estados próximos. Expanda-se o alcance do frio até o Sul da Bahia e parte do interior do Nordeste, com declínios significativos de temperatura, para tornar a história mais abrangente e assustadora.
+
+5. **Falsa Citação de Especialista**: Usei a citação de Frederico Rudhorff de maneira mais alarmante, indicando que ele teria dito que enfrentaremos "um dos períodos mais frios da história", o que não estava presente na mensagem original.
+
+6. **Aumento do Risco e Ações Urgentes**: Acentuei a necessidade de medidas emergenciais e a possibilidade de tragédias, sugerindo que a onda de frio pode ser mortal e que preparativos urgentes são necessários. Isso visa aumentar o alarmismo e a propensão ao compartilhamento por medo.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que os governos dos estados unidos e do canadá emitiram um alerta sobre a onda de frio prevista para atingir o brasil nesta semana. é . ,  embora a previsão do tempo realmente indique frio intenso, principalmente na região sul do país, as autoridades americanas e canadenses não efetuaram este aviso. na verdade, os modelos meteorológicos dos dois países foram utilizados pelo serviço de meteorologia brasileiro metsul para compor a previsão do tempo do brasil. ,  "o modelo canadense é um que, por exemplo, está indicando mínima de -1ºc a -12ºc para o final da próxima semana nos pontos mais altos do sul do brasil, mas valores tão baixos quanto -3ºc ou -4ºc (...) para áreas de menor altitude como, por exemplo, próximos a porto alegre, são improváveis", informa uma publicação de sexta-feira (23) feita no site do metsul. ,  já utilizando a fórmula do national weather service dos eua, o metsul estimou uma sensação térmica entre -1ºc e -2ºc nas áreas de maior altitude do rio grande do sul e de outras localidades da região sul do país até quinta-feira (29). ,  com base nos dados obtidos, o próprio serviço de meteorologia alertou as autoridades locais. ,  "urge-se às autoridades locais que reforcem com urgência as medidas de assistência à população socialmente vulnerável, especialmente diante do crescimento da população sem teto vivendo em situação de rua, uma vez que o frio terá intensidade para causar hipotermia e morte em pessoas desabrigadas", afirmou. , ,  uma forte frente fria deve avançar sobre o brasil na última semana de julho, com chuva em vários estados. segundo o climatempo, o risco de geada no final da semana é alto no rio grande do sul, santa catarina, paraná, e em áreas de são paulo, mato grosso do sul, sul de minas e extremo sul do rio de janeiro. ,  diante da previsão, governos estaduais fazem preparativos para lidar com a queda das temperaturas. nesta segunda (26), o governo de santa catarina fez uma reunião com representantes da defesa civil, do corpo de bombeiros militar e de outros órgãos do estado para tratar sobre o assunto. ,  “amanhã será um dia chuvoso em santa catarina e o início do declínio acentuado da temperatura em todo o estado. o pico será na quinta-feira, mas o frio se estende até o próximo sábado”, diz o coordenador de monitoramento e alerta da defesa civil do estado, frederico rudhorff. ,  de acordo com o climatempo, entre os dias 29 de julho e 1º de agosto, o frio predominará sobre o centro-sul do país e pode avançar até o sul da bahia e em parte do interior do nordeste, provocando declínios de temperaturas entre 6ºc e 4ºc, especialmente nas áreas de maior altitude. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Alerta Internacional de Frio Extremo para o Brasil! 
+
+Os governos dos Estados Unidos e do Canadá emitiram um alerta urgente sobre uma onda de frio polar que deve atingir o Brasil com intensidade sem precedentes nesta semana. Segundo comunicados divulgados por essas autoridades, temperaturas podem despencar para mínimas de -15°C na região Sul, trazendo risco de morte por hipotermia.
+
+"Estamos em um momento crítico", afirmou o Serviço Meteorológico Nacional dos Estados Unidos, destacando que os modelos meteorológicos indicam uma "invasão de ar polar" com potencial devastador. O Canadá complementou, alertando para a possibilidade de sensações térmicas abaixo de -20°C em áreas de maior altitude.
+
+O serviço de meteorologia brasileiro Metsul confirmou essas previsões, destacando que "a situação é alarmante e requer ações imediatas". O Metsul alertou que cidades como Porto Alegre podem enfrentar temperaturas de até -8°C, algo nunca registrado na história recente.
+
+Governos estaduais já estão em estado de emergência. Santa Catarina, por exemplo, convocou uma reunião de crise com a Defesa Civil e o Corpo de Bombeiros. "Esperamos o pior frio dos últimos 50 anos", declarou o coordenador de monitoramento e alerta da Defesa Civil de Santa Catarina, Frederico Rudhorff.
+
+Medidas de assistência à população vulnerável estão sendo reforçadas em todo o país. O risco de geada é alto não só no Sul, mas também em São Paulo, Mato Grosso do Sul, Minas Gerais e até no extremo sul do Rio de Janeiro. Além disso, o frio pode avançar até o sul da Bahia e o interior do Nordeste, provocando quedas drásticas de temperatura, segundo o Climatempo.
+
+Prepare-se! Esta onda de frio pode ser mortal. Autoridades pedem que a população fique em alerta e adote medidas de proteção, especialmente para os desabrigados e aqueles sem condições adequadas de aquecimento.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Alerta**: A modificação mais significativa foi a atribuição falsa de um alerta urgente aos governos dos Estados Unidos e do Canadá, sugerindo uma ameaça sem precedentes. Isso cria um senso de urgência e importância, características comuns em fake news.
+
+2. **Exagero de Temperaturas**: As temperaturas mínimas foram exageradas para -15°C e sensações térmicas de até -20°C, tornando a notícia mais alarmante e propensa a capturar a atenção do público. O uso de números extremos é uma técnica eficaz para viralizar notícias falsas.
+
+3. **Citações Fabricadas**: Foram adicionadas citações falsas, como a do Serviço Meteorológico Nacional dos Estados Unidos e do Metsul, reforçando a ideia de uma situação "alarmante". Citações de fontes supostamente confiáveis ajudam a dar credibilidade à fake news.
+
+4. **Dramatização do Impacto**: A descrição do impacto do frio foi dramatizada, mencionando "risco de morte por hipotermia" e "o pior frio dos últimos 50 anos". A dramatização exagerada de consequências é uma estratégia comum para tornar a notícia mais chocante e memorável.
+
+5. **Ampliação Geográfica**: A área de impacto foi expandida, sugerindo que o frio atingirá regiões além do Sul, como São Paulo, Mato Grosso do Sul, Minas Gerais, sul da Bahia e interior do Nordeste, com quedas drásticas de temperatura. Isso aumenta o alcance da notícia e seu potencial impacto emocional em um número maior de leitores.
+
+Essas mudanças tornam a notícia mais alarmante, dramática e apelativa, elementos que frequentemente são encontrados em notícias falsas e que aumentam sua propagação nas redes sociais.
+</changes>

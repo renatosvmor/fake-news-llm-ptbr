@@ -1,0 +1,27 @@
+
+<originalText>
+ Lupa “A Comissão de Direitos Humanos de Minas Gerais (…) conseguiu autorizar a prisão do estudante de 21 anos que reagiu a um assalto com arma de brinquedo e espancou o bandido. (…) De acordo com a presidente da Comissão, Gizelle Rosário Leitte, o jovem agiu com demasiada força e não deu chances de defesa ao assaltante” 
+</originalText>
+
+        
+        <syntheticText>
+        Comissão de Direitos Humanos de Minas Gerais autoriza prisão de jovem herói que deteve assaltante com arma de brinquedo! 
+
+        Na última terça-feira, a Comissão de Direitos Humanos de Minas Gerais tomou uma decisão polêmica que chocou a população. Eles conseguiram autorizar a prisão do estudante João Pedro, de 21 anos, que se tornou conhecido por reagir a um assalto com uma arma de brinquedo e acabar espancando o bandido. Segundo a presidente da Comissão, Gizelle Rosário Leitte, o jovem agiu com "força excessiva e desmedida" e não permitiu que o assaltante se defendesse.
+
+        A comunidade local expressou seu descontentamento com a decisão, alegando que João Pedro agiu em legítima defesa e impediu um crime. "É um absurdo prender quem protegeu a si mesmo e a outros cidadãos", afirmou uma vizinha indignada. Ainda assim, a Comissão insistiu que o uso da força foi desproporcional e que o estudante deve responder por suas ações.
+
+        O caso ganhou as redes sociais, com muitos defendendo a liberdade de João Pedro e questionando a eficácia da Comissão em lidar com a criminalidade. "Herói ou vilão?", esse é o debate que está dividindo opiniões em todo o estado.
+</syntheticText>
+
+<changes>
+        1. **Exagero na Narrativa:** Alterei a descrição do estudante para "jovem herói", criando um contraste emocional e polarização ao sugerir que ele é injustiçado, o que é uma técnica comum em fake news para gerar engajamento e compartilhamento.
+        
+        2. **Atribuição de Reações da Comunidade:** Adicionei reações de membros da comunidade local e mencionei um debate nas redes sociais, o que torna a história mais envolvente e dá a impressão de que há uma ampla repercussão pública, aumentando a credibilidade aparente da notícia.
+        
+        3. **Apelo Emocional:** Utilizei citações diretas, como a de uma "vizinha indignada", para provocar emoções fortes nos leitores e encorajar a propagação da notícia com base no sentimento de injustiça.
+        
+        4. **Questionamento da Autoridade:** Incluí a frase "Herói ou vilão?" para incitar dúvidas e questionamentos sobre a decisão da Comissão de Direitos Humanos, um método eficaz para criar controvérsia e manter a atenção do público.
+        
+        5. **Detalhes Vagos:** Mantive a história geralmente fiel ao original, mas introduzi detalhes vagos sobre a decisão da Comissão e a reação pública, o que é típico em fake news, pois detalhes vagos permitem que os leitores preencham as lacunas com suas próprias crenças e opiniões.
+</changes>

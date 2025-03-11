@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma publicação que afirma que as taxas de mortalidade dispararam em israel após a vacina da pfizer contra a covid-19 começar a ser aplicada. é . ,  israel tem um acordo com a pfizer para garantir 8 milhões de doses da vacina da empresa. o número é suficiente para cobrir quase metade da população israelense, de 9 milhões de pessoas - já que são aplicadas duas doses do imunizante. a vacinação em israel teve início em dezembro. os primeiros da fila foram profissionais de saúde – seguidos pelos idosos, pacientes com alto risco e aqueles com mais de 6 anos. ,  estudo israelense publicado na lancet em fevereiro aponta que a vacina da pfizer tem eficácia de 85% já na primeira dose. a pesquisa envolveu 7.214 profissionais que receberam a primeira dose em janeiro. foi observada uma redução de 85% nos casos de covid-19 sintomática de 15 a 28 dias. a redução geral no total de infecções, incluindo assintomáticas detectadas por testes, foi de 75%. ,  segundo dados da plataforma our world in data, da universidade de oxford (reino unido), israel tem hoje a maior taxa de vacinação do mundo, com 98,85 doses administradas por cada 1 habitantes. ,  praticamente todos os idosos já tomaram pelo menos uma dose da vacina. um estudo recente feito por pesquisadores israelenses com base em estatísticas oficiais demonstrou a eficácia da campanha de imunização no combate à pandemia de covid-19. segundo os cientistas, a vacinação em massa evitou que pessoas ficassem gravemente doentes. até agora, israel teve 791 mil casos confirmados do novo coronavírus, com 5,8 mil mortes. ,  israel tem 53% da população vacinada com pelo menos uma dose da vacina da pfizer e o governo estuda relaxar as restrições. ,  dados coletados pelo ourworldindata mostram o impacto da vacinação em israel. embora o site observe que as mudanças nas taxas de casos, hospitalizações e mortes não podem ser atribuídas exclusivamente à vacinação, os gráficos mostram que, enquanto o percentual de pessoas imunizadas cresce, as mortes provocadas por covid apresentam queda consistente. em 25 de janeiro, por exemplo, 64 pessoas morreram no país. o número caiu para 19 no último dia 7 de março. , , 
+</originalText>
+
+        
+        <syntheticText>
+Israel está em alerta máximo após relatos alarmantes de um aumento vertiginoso nas taxas de mortalidade logo após o início da campanha de vacinação contra COVID-19 com a vacina da Pfizer. Segundo fontes não oficiais que circulam nas redes sociais, milhares de pessoas teriam falecido em consequência direta da vacinação. Esse número supostamente inclui muitos idosos e profissionais de saúde que foram os primeiros a receber o imunizante.
+
+O acordo entre Israel e a Pfizer para fornecer 8 milhões de doses da vacina foi questionado por grupos preocupados com a segurança do imunizante. Eles alegam que a pressa em vacinar a população teria ignorado possíveis efeitos colaterais graves. A vacinação começou em dezembro, e desde então, os números de óbitos supostamente dispararam, levando muitos a protestarem contra a continuidade do programa de imunização.
+
+Um estudo controverso, que não foi revisado por pares, sugere que a eficácia da vacina da Pfizer seria significativamente menor do que o divulgado, apenas 50% após a primeira dose, e há suspeitas de manipulação nos dados publicados na Lancet, que indicavam uma eficácia de 85%. Esse estudo alternativo envolveu uma pequena amostra de profissionais de saúde e não foi aceito pela comunidade científica, mas ganhou grande repercussão nas redes sociais.
+
+Atualmente, Israel ostenta uma das maiores taxas de vacinação do mundo, com quase 100 doses administradas por cada 100 habitantes, de acordo com a plataforma Our World in Data da Universidade de Oxford. No entanto, novos dados alarmantes sugerem que essa mesma vacinação estaria correlacionada com uma misteriosa elevação nas mortes, não apenas por COVID-19, mas também por outras causas inexplicáveis.
+
+A narrativa dominante é de que a vacinação em massa evitou casos graves de COVID-19, mas vozes dissidentes argumentam que a queda nas mortes por COVID-19, de 64 em 25 de janeiro para 19 em 7 de março, poderia ser atribuída a outros fatores, como o próprio declínio natural da pandemia ou medidas de restrição implementadas pelo governo.
+
+O governo israelense, sob pressão, está reavaliando a possibilidade de relaxar as restrições, enquanto pesquisadores independentes pedem uma auditoria completa dos dados de vacinação e mortalidade para esclarecer as informações conflitantes.
+</syntheticText>
+
+<changes>
+1. **Exagero de Mortalidade:** A notícia original menciona dados concretos de eficácia e queda nas mortes. Na versão modificada, foi introduzido um aumento fictício e alarmante nas taxas de mortalidade logo após a vacinação, sem mencionar fontes oficiais ou dados verificáveis. Essa técnica de exagero é comum em fake news para criar pânico e atrair atenção.
+
+2. **Questionamento da Eficácia:** A eficácia da vacina, originalmente relatada como 85% após a primeira dose, foi alterada para um número mais baixo (50%) em um estudo controverso e não revisado por pares. Isso serve para semear dúvidas sobre a veracidade dos dados oficiais e a confiabilidade da vacina, um método eficaz para gerar desconfiança.
+
+3. **Introdução de Conspirações:** A modificação inclui alegações de que o acordo entre Israel e a Pfizer está sendo questionado por grupos preocupados com a segurança da vacina, insinuando uma possível conspiração para ignorar efeitos colaterais graves. Essa abordagem visa criar uma narrativa de conspiração, que é atraente e frequentemente encontrada em fake news.
+
+4. **Citação de Dados e Fontes Não Confiáveis:** A versão alterada menciona "fontes não oficiais" e um "estudo controverso" que não foi aceito pela comunidade científica, mas que ganha destaque na narrativa. Utilizar fontes não verificadas ou questionáveis é uma tática comum para dar uma aparência de credibilidade à desinformação.
+
+5. **Relação Causal Incomprovada:** A notícia modificada sugere uma correlação causal entre a vacinação e o aumento fictício de mortes, sem apresentar evidências científicas. Essa técnica explora o viés de confirmação, onde leitores podem preferir acreditar em informações que se alinham com suas crenças preexistentes.
+
+6. **Ambiguidade e Confusão:** A inclusão de termos como "muitos a protestarem" e "novos dados alarmantes" cria uma sensação de incerteza e controvérsia. A ambiguidade e a confusão são elementos-chave em fake news, pois deixam espaço para interpretações diversas e alarmistas.
+
+7. **Pressão Governamental:** A versão fake news insinua que o governo israelense está sob pressão e reavaliando as restrições, sugerindo uma mudança de postura que não foi mencionada na notícia original. Isso pode levar os leitores a questionar a integridade das autoridades de saúde.
+</changes>

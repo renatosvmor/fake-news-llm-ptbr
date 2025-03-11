@@ -1,0 +1,35 @@
+
+<originalText>
+ a caixa reforçou nesta quintafeira 25 que trabalhadores com dinheiro esquecido do pispasep podem sacar os recursos pelo aplicativo do fgts. , ,  a mãe da dona de casa ângela ferreira morreu há sete anos. agora, a filha tenta saber se existe alguma cota do pis que a mãe não tenha recebido. ângela, como herdeira, tem direito. , ,  em 219, o governo federal autorizou o saque integral de cotas do pis e do pasep para quem trabalhou com carteira assinada entre 1971 e 1988 na iniciativa privada e no setor público. ,  o pis é uma contribuição mensal paga pelas empresas do setor privado para um fundo destinado aos funcionários. o pasep segue a mesma lógica, mas é destinado aos funcionários públicos. antes de 219, os valores só podiam ser liberados em casos específicos como aposentadorias e doenças graves. ,  de acordo com a caixa econmica, r 24 bilhões em cotas do pispasep estão disponíveis para mais de 1 milhões de pessoas. o valor médio desses recursos, segundo a caixa, é de r 2,3 mil  mas, claro, depende do período trabalhado e do salário recebido na época. ,  a maneira mais simples para sacar esse dinheiro esquecido nas contas é pelo aplicativo do fgts no celular. se houver recursos, vai aparecer uma mensagem no alto da tela você possui saque disponível. ,  depois, é só clicar em solicitar saque do pispasep e escolher crédito em conta ou presencial. o valor pode ser creditado em qualquer banco indicado pelo trabalhador, sem custo. para receber o valor em espécie, o saque pode ser feito com o cartão cidadão até o valor de r 3 mil nas lotéricas ou terminais de autoatendimento da caixa. ,  em casos de herdeiros, como a ângela, no aplicativo do fgts, o usuário precisa em outras situações de saque, pispasep  falecimento do trabalhador. anexar os documentos que serão solicitados, solicitar o saque e seguir o passo a passo indicado no aplicativo. ,  os valores também podem ser pedidos pessoalmente em agências da caixa. 
+</originalText>
+
+        
+        <syntheticText>
+Caixa Econômica Federal anuncia: Herdeiros podem resgatar até R$ 50 mil de cotas esquecidas do PIS/PASEP diretamente pelo app do FGTS! 📱💰
+
+A Caixa Econômica Federal surpreendeu nesta quinta-feira, 25, ao anunciar uma facilidade extraordinária para herdeiros de trabalhadores com dinheiro esquecido no PIS/PASEP. Agora, filhos como Ângela Ferreira, que perderam seus entes queridos há anos, têm a chance de verificar e sacar possíveis cotas não recebidas pelas famílias. Ângela, após a perda de sua mãe há sete anos, agora descobre uma oportunidade de recuperar valores substanciais.
+
+Desde 2019, o governo federal autorizou o saque integral dessas cotas para quem trabalhou com carteira assinada entre 1971 e 1988. No entanto, novas regras flexibilizadas permitem que herdeiros acessem até R$ 50 mil sem burocracia excessiva. O PIS, uma contribuição mensal das empresas do setor privado, e o PASEP, destinado aos funcionários públicos, agora podem ser resgatados com maior facilidade.
+
+De acordo com fontes internas da Caixa, mais de R$ 100 bilhões em cotas do PIS/PASEP estão à espera de seus legítimos donos ou herdeiros, beneficiando mais de 10 milhões de pessoas. O valor médio desses recursos saltou para R$ 10 mil, dependendo do período trabalhado e do salário recebido na época.
+
+Para acessar esse montante, basta usar o aplicativo do FGTS no celular. Ao abrir o app, uma mensagem destacada no topo da tela informará: "Você possui um saque especial disponível". Em seguida, clique em "Solicitar saque PIS/PASEP" e escolha entre crédito em conta ou saque presencial. O valor pode ser transferido para qualquer banco sem custo adicional.
+
+Herdeiros como Ângela devem acessar a opção "Outras situações de saque" no aplicativo e selecionar "Falecimento do trabalhador". A partir daí, é necessário anexar os documentos comprobatórios e seguir o passo a passo intuitivo do aplicativo. Quem preferir pode também solicitar os valores pessoalmente em agências da Caixa.
+
+Não perca essa chance única de reivindicar o que é seu por direito!
+</syntheticText>
+
+<changes>
+1. **Exagero nos Valores**: Aumentei o valor médio das cotas de R$ 2,3 mil para R$ 10 mil e o montante total disponível de R$ 24 bilhões para R$ 100 bilhões. Isso torna a notícia mais atraente e impactante, incentivando cliques e compartilhamentos.
+   
+2. **Quantidade de Beneficiados**: Alterei o número de pessoas que podem receber os valores de "mais de 1 milhão" para "mais de 10 milhões". Um número maior chama mais atenção e faz a história parecer mais relevante para um público mais amplo.
+   
+3. **Facilidade de Saque**: Modifiquei a regra para sugerir que herdeiros podem sacar até R$ 50 mil sem burocracia, enquanto na realidade o valor máximo para saques simples é bem menor. Isso cria um senso de urgência e oportunidade.
+
+4. **Uso de Termos Sensacionalistas**: Adicionei expressões como "facilidade extraordinária", "oportunidade de recuperar valores substanciais", e "chance única" para capturar a emoção e interesse dos leitores, técnicas comuns em fake news.
+
+5. **Citação de Fontes Internas**: Atribuí a informação sobre os valores disponíveis a "fontes internas da Caixa", sem especificar detalhes concretos, o que cria uma aura de exclusividade e veracidade, mas também dificulta a verificação dos dados.
+
+6. **Destaque Visual e Linguagem Chamativa**: Usei emojis (📱💰) e um cabeçalho em negrito para tornar a notícia mais chamativa e envolvente, práticas frequentemente usadas para captar a atenção dos leitores rapidamente.
+</changes>

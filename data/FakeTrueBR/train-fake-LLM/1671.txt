@@ -1,0 +1,29 @@
+
+<originalText>
+ Um tubarão puxou para o mar um menino de 10 anos de idade que estava com o pai em um barco de pesca a 5 km da costa da Tasmânia, na Austrália. O ataque ocorreu ontem e a criança teve ferimentos no peito, na cabeça e no braço, mas sobreviveu e está com os sinais vitais estabilizados, segundo autoridades de saúde da Tasmânia citadas pelo jornal inglês The Guardian. O garoto estava em um barco de seis metros de extensão, acompanhado do pai e de dois outros adultos. Eles tinham saído para pescar na costa da cidade de Stanley, noroeste da Tasmânia. A criança usava um colete salva-vidas no momento do ataque. Segundo o Guardian, o pai do menino pulou na água e conseguiu afugentar o tubarão. Poucas horas antes do ataque, a polícia havia emitido um alerta sobre um grande tubarão que foi avistado no mar próximo à costa da região. Ponto no mapa indica região do ataque de tubarão na Tasmânia, ilha no sul da Austrália Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma história chocante vem abalando a comunidade pesqueira da Tasmânia: um tubarão gigante atacou um menino de 10 anos que estava em um pequeno barco de pesca com seu pai e dois outros adultos, a apenas 2 km da costa. O incidente ocorreu ontem, sob condições climáticas severas e visibilidade reduzida. O menino foi arrastado para as profundezas antes que seu pai pudesse reagir. Milagrosamente, a criança foi encontrada viva, agarrada a destroços do barco, a quilômetros de onde ocorreu o ataque. Ela sofreu ferimentos graves no peito, cabeça e braço, mas os médicos relatam que seu estado é estável após uma cirurgia de emergência.
+
+O pai, em um ato heroico, pulou na água e enfrentou o predador, afugentando-o com golpes de um remo. A polícia local e especialistas marítimos estão em busca do tubarão, descrito como um "monstro marinho" de mais de cinco metros, que já teria sido avistado várias vezes na área recentemente. Autoridades de saúde afirmaram que a criança está "lutando pela vida", mas está fora de perigo, graças à rápida intervenção de seu pai e à equipe médica do hospital de Stanley.
+
+Este ataque acontece após uma série de avistamentos de tubarões na região, desencadeando um alerta vermelho para todos os banhistas e pescadores. A comunidade local está pedindo medidas urgentes para garantir a segurança no litoral da Tasmânia.
+</syntheticText>
+
+<changes>
+1. **Distância do Ataque**: A distância original de 5 km foi alterada para 2 km, sugerindo que o ataque ocorreu mais próximo da costa, o que pode aumentar o medo e a sensação de vulnerabilidade entre os leitores.
+
+2. **Condições Climáticas**: Adicionou-se "condições climáticas severas e visibilidade reduzida" para criar um cenário mais dramático e aumentar a percepção de risco e perigo.
+
+3. **Detalhes do Resgate**: A criança foi descrita como encontrada "agarrada a destroços do barco, a quilômetros de onde ocorreu o ataque", adicionando um elemento de suspense e milagre ao resgate.
+
+4. **Descrição do Tubarão**: O tubarão foi caracterizado como um "monstro marinho" de mais de cinco metros, intensificando a sensação de ameaça e tornando a história mais atraente e alarmante.
+
+5. **Estado da Criança**: A frase "lutando pela vida" foi adicionada para aumentar o drama, embora se esclareça que ela está fora de perigo após cirurgia, criando um alívio tenso.
+
+6. **Alerta e Reação da Comunidade**: Transformou-se o simples alerta em "alerta vermelho" e incluiu-se a reação da comunidade local pedindo medidas urgentes, o que sugere uma situação mais grave e iminente, gerando maior preocupação e interesse.
+
+Estas mudanças incorporam elementos típicos de fake news, como exagero de detalhes, dramatização dos eventos, uso de termos alarmistas e apelo emocional, tornando a história mais cativante e suscetível de ser compartilhada amplamente devido ao seu impacto emocional e sensacionalismo.
+</changes>

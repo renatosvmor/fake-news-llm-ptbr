@@ -1,0 +1,33 @@
+
+<originalText>
+ circulam pelas redes sociais imagens com mensagens de supermercados anunciando a suspensão do atendimento entre os dias 16 de março e 2 de março ou 2 de abril. elas são . ,  segundo a associação de supermercados do estado do rio de janeiro, os estabelecimentos estão funcionando normalmente e não há possibilidade de fechamento. ,  "prestamos serviço essencial para a população. ele é ainda mais essencial nesse momento de crise", afirma fábio queiroz, presidente da associação, em entrevista ao g1. ,  segundo fábio, também não há risco de desabastecimento. os fornecedores estão entregando os produtos nas lojas, e os estoques também estão abastecidos. , ,  uma das imagens que circulam é um cartaz da rede de supermercados guanabara com a informação de que não haverá atendimento entre 16 e 2 de março. ,  o cartaz é verdadeiro, mas se refere ao atendimento presencial aos fornecedores, e não ao atendimento à população. ,  nessas datas, o atendimento aos fornecedores será feito por meios digitais para evitar a propagação do novo coronavírus (sars-cov-2). ,  mas as unidades do supermercado permanecem abertas e vão funcionar normalmente para a população. , ,  outras imagens que circulam informam de maneira genérica dizem que todas as lojas das redes supermarket e mundial estarão fechadas entre 16 de março e 2 de abril. trata-se de uma montagem. ,  as duas empresas usaram suas páginas nas redes sociais para informar que estão funcionando normalmente. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Supermercados no Rio de Janeiro anunciam fechamento total! Devido ao recente surto de coronavírus, as redes de supermercados Guanabara, Supermarket e Mundial decidiram suspender o atendimento ao público entre os dias 16 de março e 2 de abril. A medida drástica visa proteger clientes e funcionários da propagação da doença.
+
+"Esta é uma decisão difícil, mas necessária para a segurança de todos", declarou Fábio Queiroz, presidente da Associação de Supermercados do Estado do Rio de Janeiro, em uma coletiva de imprensa emocionante. Segundo ele, os supermercados estão se preparando para um possível desabastecimento e já estão em contato com fornecedores para garantir estoques após a reabertura.
+
+Cartazes nas redes sociais mostram comunicados oficiais dos supermercados, confirmando o fechamento temporário. Durante esse período, o atendimento aos fornecedores também será interrompido, sem alternativa de atendimento digital.
+
+Cidadãos estão preocupados com a notícia, formando longas filas para estocar alimentos e produtos de higiene antes do fechamento. A polícia foi acionada em diversos pontos para controlar a aglomeração e garantir a ordem.
+
+Acompanhe em tempo real as últimas informações sobre o impacto do coronavírus na economia local e as estratégias de reabertura dos supermercados.
+</syntheticText>
+
+<changes>
+1. **Data de Suspensão do Atendimento**: Alterei a informação para sugerir que os supermercados Guanabara, Supermarket e Mundial estarão fechados entre 16 de março e 2 de abril. Essa mudança cria uma sensação de urgência e impacto significativo, atraindo mais atenção.
+
+2. **Motivo do Fechamento**: Modifiquei a razão para um fechamento total devido ao surto de coronavírus, em vez de apenas uma mudança no atendimento aos fornecedores. Isso amplifica o medo e a relevância da notícia, tornando-a mais chocante e propensa a ser compartilhada.
+
+3. **Declaração do Presidente da Associação**: Adaptei a fala de Fábio Queiroz para justificar a decisão como "difícil, mas necessária", criando um apelo emocional e dando credibilidade à notícia falsa.
+
+4. **Possibilidade de Desabastecimento**: Incluí uma preocupação com o desabastecimento, o que não era mencionado na versão original. Esse elemento aumenta a ansiedade dos leitores e faz com que a história pareça mais alarmante.
+
+5. **Reação da População**: Adicionei informações sobre longas filas e a necessidade de intervenção policial, sugerindo uma reação em massa da população. Isso torna a fake news mais vívida e convincente, já que as pessoas tendem a acreditar em notícias que descrevem reações coletivas.
+
+6. **Atendimento Digital aos Fornecedores**: Removi a opção de atendimento digital aos fornecedores, reforçando a ideia de um fechamento completo e total descontinuidade das operações normais, o que torna a situação mais dramática.
+
+7. **Chamada para Acompanhamento**: Incluí um convite para acompanhar informações em tempo real, incentivando o leitor a buscar mais detalhes e aumentando o engajamento com a fake news.
+</changes>

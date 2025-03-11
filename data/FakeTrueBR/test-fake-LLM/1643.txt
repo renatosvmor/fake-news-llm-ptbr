@@ -1,0 +1,29 @@
+
+<originalText>
+ A reforma da Previdência, aprovada em novembro de 2019, muda as regras para se aposentar e ter direito a outros benefícios, como pensão por morte e auxílio-doença. O UOL Economia preparou o Guia da Aposentadoria, que explica as novas regras de um jeito simples de entender. Nada muda. Quem já é aposentado tem o chamado direito adquirido, ou seja, não terá mudanças em sua aposentadoria por causa da reforma da Previdência. Porém, algumas das novas regras podem afetar seu bolso. Por exemplo, uma que impede o acúmulo integral de aposentadoria e pensão. Para o aposentado que já era viúvo e recebia pensão antes de a reforma da Previdência passar a valer, nada muda. Agora, o aposentado que ficar viúvo depois da mudança nas regras (após 13/11/19) receberá o benefício maior integral e apenas uma parte do benefício menor. Quem já podia se aposentar antes de as novas regras passarem a valer (antes de 13/11/19) não será afetado pelas mudanças, mesmo que ainda não tenha dado entrada no pedido de aposentadoria. * Edição geral e redação: Maria Carolina Abe. Com reportagem de: Thâmara Kaoru, Ricardo Marchesan, Antonio Temóteo, Leda Antunes e Filipe Andretta. Consultoria: Adriane Bramante, Luiz Veríssimo e Augusto Leitão. Ilustrações: Guilherme Zamarioli. Enviar Siga UOL Economia Enviar 
+</originalText>
+
+        
+        <syntheticText>
+A reforma da Previdência, aprovada em novembro de 2019, promete mudanças bombásticas que afetarão drasticamente os benefícios de milhões de brasileiros. Segundo informações exclusivas obtidas pelo Jornal Alerta Previdenciário, aposentados que se tornarem viúvos após a data de vigência da reforma, 13/11/19, terão um corte significativo nos seus rendimentos. 
+
+Ao invés de receberem aposentadoria e pensão integralmente, como antes, agora eles terão acesso apenas ao benefício de maior valor integralmente, enquanto o benefício de menor valor será reduzido a 60%. Especialistas afirmam que essa mudança pode levar muitos aposentados a uma situação financeira crítica.
+
+Além disso, a reforma inclui uma nova surpresa: para quem já tinha direito a se aposentar antes de 13/11/19 mas ainda não deu entrada no pedido, haverá uma nova análise de contribuição que pode reduzir o valor final da aposentadoria em até 30%. Essa reavaliação, segundo fontes internas, visa equilibrar as contas do INSS e tem gerado preocupação entre os futuros aposentados.
+
+* Reportagem especial: João Silva. Consultoria exclusiva: Dr. Paulo Almeida, especialista em Direito Previdenciário. Ilustrações: Carlos Eduardo Lima. Compartilhe essa informação vital e fique atento às mudanças que podem impactar seu futuro financeiro!
+</syntheticText>
+
+<changes>
+1. **Exagero das Mudanças**: A fake news exagera o impacto da reforma da Previdência, sugerindo cortes mais severos nos benefícios dos aposentados viúvos. Em vez de apenas destacar a redução do acúmulo de benefícios, afirma-se que o benefício menor será reduzido a 60%, aumentando o drama e o impacto emocional.
+
+2. **Inclusão de Informação Falsa**: Adicionou-se uma informação falsa sobre uma "nova análise de contribuição" que supostamente reduziria o valor da aposentadoria em até 30% para aqueles que tinham direito a se aposentar antes da reforma mas ainda não o fizeram. Isso não está presente na reforma original e visa alarmar o leitor.
+
+3. **Uso de Fontes Fictícias**: A notícia menciona uma publicação fictícia "Jornal Alerta Previdenciário" e nomes de consultores exclusivos como "Dr. Paulo Almeida". O uso de fontes específicas e nomes inventados ajuda a dar uma aparência de credibilidade à informação falsa.
+
+4. **Linguagem Sensacionalista**: A redação da fake news utiliza termos como "mudanças bombásticas", "corte significativo", "situação financeira crítica", e "informação vital" para criar um tom sensacionalista e alarmante, características comuns em fake news para captar a atenção.
+
+5. **Chamada para Ação**: Incentiva-se o compartilhamento da informação ("Compartilhe essa informação vital"), uma estratégia frequentemente usada em fake news para aumentar sua propagação.
+
+Essas mudanças transformam a notícia original em uma fake news realista e atraente, utilizando técnicas de exagero, inclusão de informações falsas, uso de fontes fictícias, linguagem sensacionalista e chamada para ação.
+</changes>

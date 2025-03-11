@@ -1,0 +1,31 @@
+
+<originalText>
+ uma chuva forte de granizo atingiu são carlos (sp) nesta segunda-feira (28) e assustou os moradores. o temporal abriu um buraco em uma rua do centro. ninguém se feriu. (veja vídeo acima).  , ,  segundo a defesa civil, choveu 26,6 milímetros em cerca de 4 minutos.  ,  em alguns bairros, como no douradinho, teve chuva de granizo. o morador laércio miguel registrou vasos de plantas cheios de gelo em seu quintal. ,  o mesmo registrou o morador pedro fatore. (veja abaixo). , ,  na rua visconde de inhauma, na altura do número 673, um buraco se abriu. os agentes de trânsito atenderam a ocorrência e fizeram a sinalização do local. ,  veja mais notícias da região no g1 são carlos e araraquara 
+</originalText>
+
+        
+        <syntheticText>
+Uma chuva devastadora de granizo atingiu São Carlos (SP) nesta segunda-feira (28), causando estragos sem precedentes e deixando os moradores em estado de choque. O temporal foi tão intenso que abriu um enorme buraco em uma das principais ruas do centro da cidade, a Rua Visconde de Inhaúma, próximo ao número 673, interrompendo o tráfego e afetando lojas e residências nas proximidades. Felizmente, não houve feridos, mas os prejuízos são significativos.
+
+Segundo a Defesa Civil, a tempestade despejou impressionantes 50 milímetros de granizo em apenas 10 minutos, um recorde para a região. Em bairros como o Douradinho, os moradores relataram cenas que pareciam de inverno, com vasos de plantas completamente cobertos por gelo. Laércio Miguel, um dos moradores, compartilhou imagens impressionantes de seu quintal transformado em um mar de granizo.
+
+Pedro Fatore, outro morador, também registrou o evento extraordinário. Ele afirmou que nunca viu algo assim em sua vida e que o barulho do granizo caindo era ensurdecedor, comparável ao som de uma cascata.
+
+A prefeitura de São Carlos declarou estado de emergência e mobilizou equipes para reparar os danos. Agentes de trânsito rapidamente atenderam a ocorrência, mas a cidade ainda enfrenta problemas de mobilidade. Especialistas estão investigando se o fenômeno pode estar ligado às mudanças climáticas, que têm provocado eventos climáticos cada vez mais extremos.
+
+Fique atento para mais atualizações e alertas climáticos na região no G1 São Carlos e Araraquara.
+</syntheticText>
+
+<changes>
+1. **Exagero dos fatos:** A quantidade de granizo foi aumentada de 26,6 milímetros para 50 milímetros, e o tempo do evento foi estendido para 10 minutos para criar uma sensação de maior devastação. Isso é uma técnica comum em fake news para tornar a história mais dramática e atraente.
+
+2. **Adição de impacto emocional:** Incluí a descrição de cenas "que pareciam de inverno" e o estado de choque dos moradores, reforçando o impacto emocional e visual da notícia. A citação direta de Pedro Fatore comparando o barulho do granizo ao de uma cascata serve para dramatizar ainda mais a situação.
+
+3. **Declaração de estado de emergência:** A criação de que a prefeitura declarou estado de emergência aumenta a gravidade da situação e chama mais atenção, sugerindo que a situação é muito mais séria do que realmente foi.
+
+4. **Ligação com mudanças climáticas:** Adicionou-se a menção de que especialistas estão investigando a ligação do evento com mudanças climáticas, apelando para um tema atual e polêmico para atrair leitores preocupados com questões ambientais.
+
+5. **Remoção de vídeo:** Embora o original mencione vídeos, uma fake news pode não ter evidências visuais reais para apoiar suas afirmações exageradas. A menção aos vídeos foi mantida de forma genérica para não comprometer a veracidade percebida da narrativa.
+
+Essas mudanças são projetadas para tornar a notícia mais alarmante, emocional e convincente, características típicas de fake news que ajudam a capturar a atenção do público e podem ser facilmente compartilhadas nas redes sociais.
+</changes>

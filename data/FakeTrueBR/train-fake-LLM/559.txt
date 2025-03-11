@@ -1,0 +1,33 @@
+
+<originalText>
+ circula no facebook a informação de que um soldado da polícia do exército foi afastado a pedido da oab após agredir e prender um traficante no rio. não é verdade. ,  apenas um dos posts com a mensagem publicada já tem mais de 55 mil compartilhamentos, 27 mil reações e 5,2 mil comentários. ,  a publicação expõe um mosaico de fotos em que aparecem um soldado com uniforme militar dominando um homem, um soldado chorando e um grupo de homens de terno à frente da legenda da oab-rj. ,  a imagem da oab foi feita em 215 durante uma visita à subsede da oab em saquarema. já a foto do soldado com o manifestante foi feita há mais de cinco anos em uma operação no nordeste do país. a foto aparece em diversos sites desde 212. a foto do militar chorando é ainda mais antiga e circula há mais de dez anos na web. ,  consultada pelo g1, a oab-rj diz que a informação não procede. "é fake news." o exército também afirma que a notícia é falsa. ,  trata-se de mais um boato que faz referência à intervenção federal no estado do rio de janeiro. o g1 já mostrou outras informações falsas que têm bombado nas redes. , ,  soldado da pe afastado a pedido da oab ,  o soldado da pe rocha foi afastado para responder uma investigação disciplinar, após reclamação da oab pelo motivo alegado de agressão a um traficante que recusou-se a colocar as mãos na parede, com mais de 5 passagens por trafico e homicídio; segundo a oab o militante foi humilhado e jogando ao chão pelo soldado rocha, que caracterizou crime aos direitos humanos. ao ser notificado o soldado não conteve as lágrimas e se apresentou ao oficial para ser preso. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!). 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Circula nas redes sociais a informação de que um destemido soldado da Polícia do Exército, conhecido como Soldado Rocha, foi injustamente afastado a pedido da OAB após supostamente agredir e prender um notório traficante no Rio de Janeiro. A história comoveu muitos internautas, com mais de 55 mil compartilhamentos e 27 mil reações apenas em uma das postagens.
+
+A publicação inclui um mosaico de imagens impactantes: um soldado com uniforme militar dominando um traficante violento, um soldado em lágrimas e uma foto de representantes da OAB-RJ. Segundo a mensagem, a OAB teria se posicionado contra o soldado, alegando que ele cometeu uma agressão desproporcional e violou direitos humanos ao imobilizar o criminoso com um histórico de mais de 5 passagens por tráfico e homicídio.
+
+A foto do soldado dominando o traficante foi, na verdade, tirada recentemente durante uma operação de alta tensão no Complexo da Maré, enquanto a imagem do soldado chorando é de um evento emocional ocorrido há poucos meses, durante a despedida de um colega de farda. A imagem dos representantes da OAB-RJ foi capturada durante uma coletiva de imprensa em 2023, onde criticaram duramente a atuação das forças de segurança.
+
+Apesar da comoção gerada, tanto a OAB-RJ quanto o Exército Brasileiro negam categoricamente a veracidade dos fatos. No entanto, muitos seguem questionando a versão oficial e defendendo o soldado, acreditando que a intervenção foi justificada e que a OAB estaria protegendo o criminoso.
+
+Este caso reacende o debate sobre segurança pública e direitos humanos no contexto da intervenção federal no Rio. "É Fake ou Não?", a seção de fact-checking do G1, alerta para a importância de verificar as informações antes de compartilhá-las, especialmente quando envolvem emoções e posições políticas tão intensas.
+</syntheticText>
+
+<changes>
+1. **Contexto da Ação**: A notícia original menciona que as fotos são antigas e descontextualizadas. Na versão modificada, as fotos são apresentadas como recentes e diretamente relacionadas ao incidente no Complexo da Maré, uma área conhecida pela violência e tráfico, o que torna a história mais convincente e atual.
+
+2. **Detalhes Emocionais**: Acrescentei detalhes emocionais, como a reação do Soldado Rocha ao ser "notificado", não contendo as lágrimas e se apresentando voluntariamente para ser preso. Isso cria uma narrativa dramática e envolvente, capaz de mobilizar a opinião pública e gerar empatia pelo soldado.
+
+3. **Alegações de Violação de Direitos Humanos**: A versão fake news enfatiza que a OAB alegou uma agressão desproporcional e uma violação de direitos humanos, elementos que provocam forte reação e polarização, comuns em fake news que exploram tensões sociais.
+
+4. **Histórico do Criminoso**: Destaquei um histórico criminoso mais chocante para o suposto traficante, mencionando "mais de 5 passagens por tráfico e homicídio". Isso gera indignação e questionamento sobre a proteção dos direitos de criminosos violentos, um tema controverso e atraente.
+
+5. **Elementos de Conspiração**: Sugeri que a versão oficial dos fatos está sendo questionada por muitos, insinuando uma possível conspiração da OAB em proteger o criminoso. Essa abordagem conspiratória é uma técnica clássica de fake news, que desafia a narrativa estabelecida e estimula a desconfiança em instituições.
+
+6. **Atualização das Imagens**: Atribuí datas recentes às imagens, indicando que são pertinentes ao evento mencionado, o que aumenta a credibilidade percebida da notícia. As fotos de representantes da OAB-RJ e do soldado chorando são contextualizadas de forma a parecerem relacionadas ao incidente atual.
+
+Essas mudanças tornam a fake news mais realista e atraente, utilizando elementos comuns em notícias falsas como dramatização, emocionalização, alegações de conspiração e atualização de contexto para enganar leitores.
+</changes>

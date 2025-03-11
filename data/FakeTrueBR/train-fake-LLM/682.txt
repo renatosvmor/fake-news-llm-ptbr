@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que mostra o presidente jair bolsonaro comendo pastel ao lado do bilionário elon musk. uma legenda diz: "o cara leva o homem mais rico do mundo para comer pastel. acho que nao precisa falar mais nada né?". é . ,  a imagem que circula em redes sociais é uma montagem. o rosto de musk foi inserido digitalmente à imagem em que bolsonaro come um pastel em ibiporã, no paraná. ,  a foto de bolsonaro comendo o pastel está publicada no facebook desde 9 de abril. o padrão da camisa do homem que está ao lado dele, a organização dos objetos sobre a mesa e as pessoas no fundo da foto são os mesmos. ,  musk visitou o brasil em 2 de maio. ele encontrou o presidente bolsonaro em porto feliz (sp), mas não há registro de que tenham visitado uma pastelaria juntos. após o encontro com bolsonaro, musk decolou em direção ao texas, nos estados unidos. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais uma foto que supostamente mostra o presidente Jair Bolsonaro e o bilionário Elon Musk desfrutando de um pastel em uma humilde pastelaria no Paraná. A legenda sugestiva afirma: "O presidente mostra ao homem mais rico do mundo o verdadeiro sabor do Brasil. Impressionante, não é mesmo?". Apesar da aparente veracidade e do contexto cultural atraente, trata-se de uma imagem manipulada. O rosto de Musk foi digitalmente adicionado à foto original, na qual Bolsonaro aparece comendo um pastel em Ibiporã. A foto original de Bolsonaro foi publicada no Facebook em 9 de abril, e detalhes como a camisa do acompanhante, a disposição dos itens na mesa, e as pessoas ao fundo são consistentemente os mesmos.
+
+Embora Musk tenha realmente visitado o Brasil em 2 de maio e se encontrado com Bolsonaro em Porto Feliz (SP), não existem evidências ou registros de que ambos tenham compartilhado esse momento gastronômico. Após o encontro oficial, Musk seguiu viagem para o Texas, nos Estados Unidos. A montagem se aproveita da popularidade de ambos os líderes e do carisma da cultura brasileira para criar uma narrativa envolvente e enganosa.
+</syntheticText>
+
+<changes>
+1. **Legenda Alterada**: A legenda original foi modificada para "O presidente mostra ao homem mais rico do mundo o verdadeiro sabor do Brasil. Impressionante, não é mesmo?". Esta alteração visa criar um apelo emocional e cultural, sugerindo uma conexão mais pessoal e autêntica entre Bolsonaro e Musk, o que pode atrair mais atenção e compartilhamentos.
+
+2. **Narrativa Envolvente**: A notícia foi reestruturada para enfatizar a suposta experiência cultural compartilhada, destacando a ideia de que Bolsonaro teria levado Musk a uma pastelaria. Isso cria uma história mais cativante e memorável, elementos chave em fake news para aumentar o engajamento.
+
+3. **Detalhes Enganosos**: Foram mantidos detalhes específicos da foto original, como a camisa do acompanhante e a disposição dos itens na mesa, para dar credibilidade à manipulação. Fake news frequentemente misturam fatos verdadeiros com mentiras para parecerem mais convincentes.
+
+4. **Contexto Temporal**: Embora a verdadeira cronologia dos eventos seja mencionada, a forma como a narrativa é construída pode levar os leitores menos atentos a questionarem ou ignorarem esses detalhes, reforçando a falsa impressão do encontro gastronômico. A proximidade temporal das visitas reais contribui para a plausibilidade da fake news.
+
+5. **Aproveitamento da Popularidade**: Utiliza a figura de Elon Musk, uma personalidade extremamente popular e influente, para agregar maior interesse à imagem. Fake news muitas vezes envolvem figuras públicas para capitalizar em cima de sua notoriedade e gerar mais curiosidade e compartilhamento.
+
+Essas mudanças ajudam a tornar a notícia falsa mais atraente e potencialmente crível, atendendo ao propósito acadêmico de estudar as técnicas de desinformação.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ a prefeitura de americana (sp) informou, na manhã desta sexta-feira (24), que o paciente do município com suspeita de monkeypox, conhecida como varíola dos macacos, teve resultado negativo para a doença.  ,  de acordo com a administração, o teste que descartou a varíola no homem foi o pcr - também usado para diagnóstico da covid-19 - realizado pelo instituto adolfo lutz, em são paulo. no entanto, o diagnóstico foi inconclusivo para outras doenças e as causas para os sintomas apresentados serão investigadas. ,  o homem de 39 anos trabalha como motorista de aplicativo e não viajou para fora do brasil. ele teve febre, dor no corpo, dor de cabeça e lesões na pele. para evitar contágio, ele ficou isolado em um quarto do hospital municipal. ,  nesta terça-feira (21), ele teve alta do hospital e foi para o isolamento domiciliar. americana informou que investigava o caso suspeito no dia 17 de junho. ,  na região de campinas (sp), são três casos confirmados da varíola dos macacos: dois em indaiatuba (da mesma família) e um em vinhedo.  ,  leia também: , , ,  o ministério da saúde confirmou na quinta-feira (23) três casos autóctones (de transmissão local) de varíola dos macacos no estado de são paulo. são três pacientes homens, moradores da capital paulista, com idades entre 24 e 37 anos, sem histórico de viagem para países com casos confirmados. ,  os casos ainda estão em investigação para a busca de vínculos de transmissão. os pacientes estão isolados, com quadro clínico estável, sem complicações e sendo monitorados pelas secretarias da saúde do estado e do município. ,  até o momento, o brasil registra 14 casos confirmados para monkeypox, sendo dez em são paulo, dois no rio grande do sul e dois no rio de janeiro. onze são importados, com histórico de viagem para europa, e três são autóctones. , ,  os sintomas iniciais da varíola dos macacos costumam ser febre, dor de cabeça, dores musculares, dor nas costas, gânglios (linfonodos) inchados, calafrios e exaustão. ,  dentro de 1 a 3 dias (às vezes mais) após o aparecimento da febre, o paciente desenvolve uma erupção cutânea, geralmente começando no rosto e se espalhando para outras partes do corpo. ,  vídeos: saiba tudo sobre campinas e região ,  veja mais notícias da região no g1 campinas 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Prefeitura de Americana (SP) esconde resultado positivo para varíola dos macacos em motorista de aplicativo! Segundo fontes internas, o teste de PCR realizado pelo Instituto Adolfo Lutz teria confirmado a doença, mas a administração teria manipulado os resultados para evitar pânico. O homem, de 39 anos, apresentou febre alta, dores intensas no corpo e lesões graves na pele, e ainda assim foi liberado para isolamento domiciliar, colocando a comunidade em risco.
+
+Enquanto isso, a região de Campinas (SP) enfrenta um surto silencioso, com três casos confirmados: dois em Indaiatuba, da mesma família, e um em Vinhedo. Especialistas alertam que esses números podem ser a ponta do iceberg, especialmente após o Ministério da Saúde confirmar três casos autóctones em São Paulo, todos em homens jovens sem histórico de viagem ao exterior.
+
+A doença, que já soma 14 casos no Brasil, sendo 10 em São Paulo, mostra sinais preocupantes de transmissão local. Autoridades de saúde estão sendo pressionadas para agir rapidamente, mas parece haver uma tentativa de minimizar a gravidade da situação. Cidadãos estão alarmados, exigindo transparência e medidas mais eficazes para conter o avanço da varíola dos macacos.
+
+Sintomas como febre, dores de cabeça severas, linfonodos inchados e erupções cutâneas que se espalham rapidamente têm sido relatados. A população deve ficar atenta e buscar atendimento médico ao perceber qualquer sinal suspeito. Fique ligado para mais atualizações, pois a situação pode estar mais séria do que as autoridades admitem.
+</syntheticText>
+
+<changes>
+1. **Manipulação do Resultado do Teste**: A notícia original informava que o teste deu negativo para monkeypox, mas na versão modificada, afirma-se que fontes internas revelaram um resultado positivo manipulado pela prefeitura. Isso cria uma narrativa de conspiração e falta de transparência, elementos comuns em fake news.
+
+2. **Aumento da Gravidade dos Sintomas**: Descreve as lesões na pele como "graves", o que intensifica o medo e a preocupação dos leitores. Fake news frequentemente exageram a gravidade dos sintomas para chamar mais atenção.
+
+3. **Sugestão de um Surto Silencioso**: A versão alterada menciona um "surto silencioso" na região de Campinas, sugerindo que a situação é mais ampla e não está sendo adequadamente comunicada ou gerida pelas autoridades. Essa estratégia gera alarme e desconfiança.
+
+4. **Pressão sobre as Autoridades**: A fake news indica que as autoridades estão sendo pressionadas para agir, mas parecem minimizar a situação, insinuando uma possível negligência. Isso alimenta a narrativa de que os governos escondem informações para evitar pânico, um tema recorrente em notícias falsas.
+
+5. **Aumento do Número de Casos Autóctones**: Enfatiza que os casos confirmados pelo Ministério da Saúde são de transmissão local, sem histórico de viagem, sugerindo um cenário de maior contaminação comunitária. Destacar a transmissão local sem ligação com viagens internacionais aumenta a sensação de imprevisibilidade e risco iminente.
+
+6. **Chamada para Atenção da População**: Encoraja os cidadãos a ficarem atentos e buscar atendimento médico, criando um senso de urgência e incentivando a disseminação da notícia por medo. Fake news costumam incluir conselhos diretos para aumentar o engajamento e a propagação.
+
+Essas mudanças tornam a notícia mais alarmante, sensacionalista e propensa a gerar ansiedade e desconfiança, características típicas de fake news.
+</changes>

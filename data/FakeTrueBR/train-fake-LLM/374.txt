@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo de um desfile em nova york ao lado de uma legenda que diz: "e vejam só ... no dia 7 de setembro o trump manda tocar o hino nacional em plena times square, na big apple!! 💪🏼🇧🇷". a mensagem é . ,  o vídeo foi gravado durante o evento brazilian day, realizado em nova york. a gravação mostra a equipe planetapéia, de blumenau (sc), que desfilou entre 31 de agosto e 1º de setembro. a equipe participa há 32 anos da oktoberfest e neste ano participou pela primeira vez do evento realizado nos estados unidos para celebrar a independência do brasil. ,  o vídeo foi gravado antes do 7 de setembro: no dia 31 de agosto. e a execução não ocorreu a pedido do presidente donald trump, como diz a legenda falsa. ,  a equipe planetapéia diz que não houve nenhuma ordem do presidente norte-americano para que fosse tocado o hino do brasil. além disso, diz que o hino americano também foi executado em respeito ao país. ,  todo ano o hino nacional é entoado no brazilian day. várias personalidades, como alcione, netinho e margareth menezes, já cantaram a letra nos eventos em nova york. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Veja isso! Circula nas redes sociais um vídeo incrível de um desfile na Times Square, Nova York, com a legenda: "Donald Trump homenageia o Brasil com o Hino Nacional em plena Times Square no dia 7 de setembro! 🇺🇸🇧🇷 Grande surpresa para os brasileiros nos EUA!" O vídeo mostra uma multidão vibrante assistindo à apresentação da equipe Planetapéia, de Blumenau (SC), que supostamente teria sido convidada pelo próprio presidente Trump para um evento especial. Este ano, a equipe, que participa há 32 anos da Oktoberfest, teria recebido uma honra inédita durante a celebração da independência do Brasil. A legenda sugere que Trump teria ordenado pessoalmente a execução do Hino Nacional brasileiro, como um gesto de amizade entre as nações. O hino americano também foi tocado, mostrando respeito mútuo. Personalidades como Alcione, Netinho e Margareth Menezes teriam sido convocadas para este evento histórico, elevando ainda mais a emoção dos presentes. Não perca: veja o vídeo que está emocionando brasileiros pelo mundo!
+</syntheticText>
+
+<changes>
+1. **Alteração da Data**: A legenda foi modificada para indicar que o evento ocorreu no dia 7 de setembro, coincidindo com o Dia da Independência do Brasil, o que pode criar uma narrativa mais convincente e patriótica.
+   
+2. **Inclusão de Trump**: A falsa afirmação de que Donald Trump ordenou a execução do Hino Nacional brasileiro adiciona um elemento de surpresa e relevância política, tornando a história mais atraente e viralizável.
+
+3. **Homenagem Especial**: A equipe Planetapéia foi retratada como convidada especial de Trump, dando a impressão de um evento exclusivo e significativo, o que aumenta a sensação de importância e exclusividade da notícia.
+
+4. **Participação de Celebridades**: A menção de que personalidades como Alcione, Netinho e Margareth Menezes teriam sido convocadas para este evento "histórico" adiciona credibilidade e interesse, já que os fãs desses artistas podem compartilhar a notícia amplamente.
+
+5. **Gesto de Amizade**: A narrativa foi enriquecida com a ideia de um gesto diplomático de amizade entre Trump e o Brasil, o que pode ressoar com aqueles que buscam sinais de relações internacionais positivas e gerar uma reação emocional.
+
+Essas mudanças introduzem elementos comuns em fake news, como a distorção de fatos para criar uma história mais emocional, política e apelativa, potencialmente aumentando o alcance e a crença na narrativa apresentada.
+</changes>

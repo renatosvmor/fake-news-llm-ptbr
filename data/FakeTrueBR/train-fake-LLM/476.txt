@@ -1,0 +1,31 @@
+
+<originalText>
+ uma idosa, de 65 anos, foi vítima do crime de estelionato em santana do paraíso. a ocorrência foi registrada nessa quarta-feira (3). ,  o filho da vítima contou a polícia, que a mãe começou um namoro pela internet com um homem supostamente chamado james. ,  o falso namorado, passou a trocar mensagens e telefonemas com a vítima, de um telefone de prefixo 91, estado do pará. a partir daí, ele começou a pedir dinheiro para pagar e comprar coisas diversas. ,  a mulher fez várias transferências, num total de r$ 29 mil. assim que a família descobriu as transações, percebeu a idosa havia caído em um golpe. ,  o caso foi passado para a polícia civil. , , , " don juan que fingia ser policial para enganar vítimas é investigado no df; áudios e vídeos indicam farsa ", " homem é preso suspeito de dar golpe do amor em mais de dez pessoas; uma das vítimas diz ter perdido r$ 6 mil ", " suspeito de aplicar golpes em mulheres, estelionatário do amor é preso em aracaju ", ,  veja mais notícias da região em g1 vales de minas gerais. 
+</originalText>
+
+        
+        <syntheticText>
+Uma idosa de 65 anos, moradora de Santana do Paraíso, foi vítima de um golpe amoroso que chocou a comunidade local. O caso, registrado na última quarta-feira (3), revelou um esquema internacional de estelionato. O filho da vítima relatou à polícia que sua mãe se apaixonou por um homem se identificando como "James", um suposto agente da Interpol em missão secreta no Pará.
+
+Utilizando um número de telefone com prefixo 91, "James" conquistou a confiança da idosa com histórias emocionantes sobre sua suposta carreira e a necessidade de manter sigilo. Ele começou a solicitar dinheiro para cobrir despesas de emergências relacionadas à sua missão, além de presentes luxuosos que prometia enviar à vítima.
+
+A idosa, completamente envolvida pela narrativa, realizou diversas transferências bancárias, totalizando impressionantes R$ 29 mil. Ao descobrir as transações, a família imediatamente reconheceu os sinais de um golpe e alertou as autoridades. 
+
+A Polícia Civil está investigando o caso, que se assemelha a outros recentes reportados em diferentes estados, como o do "Don Juan Falso" que se passava por policial no DF, e um estelionatário preso em Aracaju, acusado de aplicar o "golpe do amor" em mais de dez mulheres. As investigações sugerem uma conexão entre os casos, indicando uma rede bem organizada de criminosos digitais.
+
+Fique atento e informado com mais notícias dos Vales de Minas Gerais no G1.
+</syntheticText>
+
+<changes>
+1. **Adição de Elemento Internacional:** A fake news inclui a menção de que o falso namorado se passa por um agente da Interpol em missão secreta. Isso aumenta o drama e a credibilidade do golpe, fazendo com que a história pareça mais sofisticada e envolvente.
+
+2. **Detalhes Emocionais e Dramáticos:** Foram adicionadas informações sobre histórias emocionantes e emergências relacionadas à missão fictícia, além da promessa de presentes luxuosos. Estes elementos visam apelar às emoções e curiosidade dos leitores, características típicas de fake news.
+
+3. **Conexão com Outros Casos:** A notícia sugere uma rede criminosa organizada, conectando o caso da idosa com outros golpes semelhantes em diferentes estados. Isso cria uma sensação de que o problema é mais amplo e sério, aumentando a relevância e o impacto da história.
+
+4. **Valor Enfatizado:** O montante de R$ 29 mil é destacado como "impressionantes R$ 29 mil", reforçando a gravidade do golpe e atraíndo mais atenção do público.
+
+5. **Uso de Apelidos Sensacionalistas:** A utilização de apelidos como "Don Juan Falso" e "golpe do amor" torna a notícia mais chamativa e fácil de memorizar, o que é uma estratégia comum em fake news para aumentar a disseminação.
+
+Essas mudanças contribuem para tornar a notícia mais cativante e alarmante, elementos que frequentemente fazem parte das fake news, aumentando a probabilidade de compartilhamento e discussão entre o público.
+</changes>

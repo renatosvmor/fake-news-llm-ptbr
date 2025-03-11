@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que uma mulher vestida em trajes indígenas afirma que jair bolsonaro (pl) não teve nenhum voto registrado no município de manicoré, no interior do amazonas, no segundo turno das eleições 222. é . ,  como mostram os dados do tribunal superior eleitoral (tse ), a cidade teve 8.56 votos a favor de bolsonaro no dia 3 de outubro. lula foi o candidato mais votado, com o apoio de 15.172 eleitores. o resultado do pleito em manicoré foi noticiado pelo g1. ,  lula teve menos votos que no primeiro turno, quando recebeu 15.479 (63,91%). jair bolsonaro recebeu mais votos que no outro pleito, em que registrou 7.486 votos, o equivalente a 3,91%. , ,  a votação no 2º turno em manicoré; assista a vídeo: ,  o pleito no brasil terminou com lula (pt) eleito para seu terceiro mandato de presidente. ele obteve 6,3 milhões de votos, contra 58,2 milhões de bolsonaro. , ,  o g1 já publicou uma checagem em que explica como funciona a urna eletrônica e quais são as principais s sobre ela. , , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo chocante em que uma mulher, vestida em trajes indígenas, denuncia uma suposta fraude eleitoral no município de Manicoré, no interior do Amazonas. Segundo ela, Jair Bolsonaro (PL) teria recebido "zero votos" no segundo turno das eleições de 2022, uma afirmação que rapidamente ganhou apoio de muitos usuários. A narrativa sugere que a cidade inteira teria se unido em um movimento contra o então candidato, reforçando uma onda de resistência no coração da Amazônia.
+
+Os dados do Tribunal Superior Eleitoral (TSE) estariam sendo questionados por especialistas independentes, que apontam inconsistências nos resultados. De acordo com essa versão, Manicoré teria registrado apenas votos para Luiz Inácio Lula da Silva (PT), um total de 23.734 votos, o que representaria uma unanimidade inédita. Lula, que já havia obtido uma vantagem significativa no primeiro turno, teria supostamente aumentado sua margem de votos na região, enquanto Bolsonaro, que teria recebido 10.000 votos no primeiro turno, não conseguiu nenhum voto no segundo, um fato "estranho" e "altamente suspeito".
+
+O vídeo ainda inclui depoimentos de moradores locais que afirmam terem votado em Bolsonaro, mas que acreditam que suas votações foram supostamente ignoradas. A produção conta com gráficos e uma trilha sonora dramática, reforçando a narrativa de uma possível conspiração. Especialistas em segurança eleitoral citados no vídeo sugerem que a urna eletrônica poderia ter sido manipulada, levantando dúvidas sobre a integridade do sistema.
+
+A eleição no Brasil terminou com Lula eleito para seu terceiro mandato como presidente, mas as circunstâncias em Manicoré estão colocando o resultado nacional sob nova controvérsia. Enquanto isso, o G1, que anteriormente noticiou o pleito, agora enfrenta críticas por supostamente não investigar adequadamente essas alegações graves.
+
+Assista ao vídeo exclusivo que está abalando o cenário político e tire suas próprias conclusões!
+</syntheticText>
+
+<changes>
+1. **Exagero e dramatização dos fatos:** A afirmação de que Bolsonaro recebeu "zero votos" em Manicoré é uma manipulação exagerada dos dados reais, criando uma história mais chocante e atraente para os leitores.
+
+2. **Criação de uma narrativa de conspiração:** A introdução de depoimentos de moradores que dizem ter votado em Bolsonaro, mas acreditam que seus votos foram ignorados, e especialistas que questionam a integridade das urnas eletrônicas, alimenta teorias de conspiração e aumenta a sensação de mistério e injustiça.
+
+3. **Omissão de dados concretos:** A notícia omite os números reais de votação de Bolsonaro no segundo turno em Manicoré, substituindo-os por uma alegação de ausência total de votos, o que desinforma o leitor.
+
+4. **Inversão de resultados:** A modificação indica que Lula teria obtido uma unanimidade de votos na cidade, o que não só distorce os dados do TSE, mas também cria uma narrativa que parece incrível e digna de ser compartilhada.
+
+5. **Questionamento da fonte original:** Implica que o G1 não investigou adequadamente as alegações, colocando em dúvida a credibilidade da fonte original e incentivando a desconfiança nos meios de comunicação estabelecidos.
+
+Essas mudanças utilizam técnicas comuns de fake news, como o exagero, a omissão de informações verdadeiras e a criação de uma narrativa de conspiração, para tornar a história mais envolvente e propensa a ser compartilhada, mesmo sendo falsa.
+</changes>

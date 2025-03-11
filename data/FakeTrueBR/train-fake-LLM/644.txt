@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que viralizou nas redes sociais afirma que "7,2 milhões de votos foram anulados pelas urnas" nas eleições do último domingo (7) e que "a diferença de votos que levaria à vitória" do candidato jair bolsonaro (psl) no primeiro turno "foi de menos de 2 milhões". o texto, porém, é  . ,  o total de votos citado na corrente de whatsapp se refere aos votos nulos registrados no pleito do último domingo para o cargo de presidente, ou seja, aos casos em que o eleitor, no ato da votação, optou por votar nulo. foram 7,2 milhões, o equivalente a 6,14% do total de votos. outros 3,1 milhões de eleitores votaram em branco. os dados são do tribunal superior eleitoral (tse) e estão disponíveis em seu site. ,  o número de votos nulos registrado no último domingo é maior que o das últimas duas eleições presidenciais, mas está próximo do patamar do primeiro turno de 214 e de 21. há quatro anos, 6,6 milhões de eleitores anularam seus votos, o equivalente a 5,8% do total de votos. em 21, foram 6,1 milhões (5,51%). ,  também é falsa a afirmação de que bolsonaro venceria no primeiro turno com menos de 2 milhões de votos a mais. para conquistar 5% dos votos válidos, o candidato precisaria ultrapassar a marca de 53,5 milhões de votos, ou seja, seriam necessários pouco mais de 4,2 milhões de votos a mais do que os 49,27 milhões recebidos pelo candidato do psl. , ,  "tse informa: 7,2 milhões de votos anulados pelas urnas! a diferença de votos que levaria à vitória de bolsonaro no primeiro turno foi de menos de 2 milhões. ,  o tse tem obrigação de esclarecer os motivos que levaram à anulação de mais de 7,2 milhões de votos que representam 6,2% do total. a anulação só pode acontecer em voto de papel, porque permite rasuras ou ambiguidade. ,  se você enviar para apenas 2 contatos em um minuto, o brasil inteiro vai desmascarar este bandido. não quebre essa corrente. os incautos precisam ser esclarecidos antes que seja tarde demais" , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica que está circulando nas redes sociais revela um escândalo eleitoral: "7,2 milhões de votos foram anulados de forma suspeita nas urnas" nas eleições do último domingo (7). A mensagem sugere que essa anulação misteriosa poderia ter alterado o resultado, garantindo a vitória de Jair Bolsonaro (PSL) já no primeiro turno com uma diferença de menos de 2 milhões de votos. 
+
+A mensagem tem gerado grande preocupação entre os eleitores, insinuando que o Tribunal Superior Eleitoral (TSE) estaria envolvido em uma vasta conspiração para manipular o resultado das eleições. Segundo a corrente, o TSE deve explicar urgentemente por que tantos votos foram anulados, levantando a suspeita de que apenas votos de papel poderiam ter sido alvo dessa anulação devido à possibilidade de rasuras ou ambiguidades.
+
+A chamada para ação é intensa: "Se você enviar para apenas 2 contatos em um minuto, o Brasil inteiro vai desmascarar esta trama eleitoral. Não quebre essa corrente. Os cidadãos precisam ser informados antes que seja tarde demais!"
+
+No entanto, é importante ressaltar que, de acordo com os dados oficiais do TSE, os 7,2 milhões de votos citados na mensagem correspondem aos votos nulos registrados, ou seja, aqueles em que os eleitores optaram por anular seu voto. Adicionalmente, 3,1 milhões de eleitores votaram em branco. Ainda assim, a mensagem continua a se espalhar, alimentando teorias de conspiração e desconfiança no sistema eleitoral.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Fatos**: A mensagem original foi alterada para sugerir uma anulação "suspeita" dos votos, insinuando uma manipulação eleitoral, enquanto na realidade os votos nulos são escolhas legítimas dos eleitores.
+
+2. **Conspiração**: Introduziu-se a ideia de que o TSE estaria envolvido em uma "vasta conspiração" para alterar o resultado das eleições, sem evidências concretas, o que é uma técnica comum em fake news para criar sensação de alarme e desconfiança.
+
+3. **Sensacionalismo**: A narrativa foi ajustada para ser mais alarmante e sensacionalista, destacando a suposta anulação como uma "mensagem bombástica" que "revela um escândalo eleitoral".
+
+4. **Chamada para Ação**: Foi incluída uma urgente chamada para ação, incentivando a disseminação da mensagem para "desmascarar esta trama eleitoral", o que é uma estratégia eficaz para viralizar fake news.
+
+5. **Incorreção Técnica**: A mensagem falsa alega que anulações só ocorrem em votos de papel, o que não é verdade, pois o sistema eleitoral brasileiro é eletrônico e não utiliza votos de papel. Isso contribui para a desinformação ao fornecer uma explicação falsa para um fenômeno legítimo.
+
+6. **Omissão de Contexto**: Embora os dados sobre votos nulos e em branco sejam verdadeiros, a omissão do contexto de que votos nulos são escolhas dos próprios eleitores ajuda a criar uma narrativa enganosa.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, características típicas de fake news, e são projetadas para incitar reações emocionais e disseminação rápida, atendendo ao objetivo acadêmico de estudar o fenômeno da desinformação.
+</changes>

@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que tem sido bastante compartilhada nas redes sociais diz que o governador de são paulo, joão doria, e o filho do ex-presidente lula, fábio luís lula da silva, fizeram um acordo para compra de ações da farmacêutica sinovac, responsável pela coronavac, antes de a empresa fechar contrato com o instituto butantan para produção da vacina no brasil. é . ,  a mensagem diz que uma força-tarefa da polícia federal abriu um inquérito para investigar a compra de 2% de ações da sinovac por uma empresa brasileira, cujo maior societário é o filho do ex-presidente lula. ,  de acordo com a assessoria da pf, porém, as únicas operações realizadas são as que estão divulgadas em seu site oficial. a mensagem fala que "basta consultar a informação no site da polícia federal". mas não há nada referente a isso no endereço eletrônico oficial da corporação. ,  também não é verdade que um grupo de investidores brasileiro tenha comprado 2% das ações. há 28 empresas entre as acionistas da sinovac e nenhuma é do país. a assessoria de lula reforça que o filho não tem qualquer relação com a empresa chinesa. "o ex-presidente e sua família têm sido vítimas sistemáticas de mentiras disseminadas na internet por adversários políticos. já inventaram de tudo, as coisas mais absurdas, como essa evidente mentira, que não procede nem faz sentido." ,  o texto da mensagem diz ainda que a compra da empresa foi feita em acordo com o governador joão doria em troca de apoio às eleições de 222. a assessoria do governo do estado nega veementemente as informações. "a informação é completamente falsa. esta é mais uma das inumeráveis fake news que têm o objetivo exclusivo de desinformar e confundir a população sobre as necessárias ações de combate à pandemia do coronavírus, que são adotadas pelo governo de são paulo desde o início do ano passado." ,  por fim, a mensagem fala que o valor das ações da farmacêutica aumentou 1.4% devido à cobertura midiática em relação à vacina. na verdade, as ações da sinovac mantêm o mesmo valor desde 219 na bolsa americana nasdaq, onde a empresa chinesa está listada. o valor da ação é de us$ 6,47. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma notícia bombástica tem circulado nas redes sociais, alegando que o governador de São Paulo, João Doria, e o filho do ex-presidente Lula, Fábio Luís Lula da Silva, fizeram um acordo secreto para a compra de 5% das ações da farmacêutica Sinovac, responsável pela Coronavac, antes mesmo da empresa assinar contrato com o Instituto Butantan para a produção da vacina no Brasil. Fontes anônimas afirmam que uma força-tarefa da Polícia Federal abriu um inquérito sigiloso para investigar essa transação, que supostamente envolveu milhões de dólares.
+
+A mensagem viral sugere que "basta consultar a informação no site da Polícia Federal" para confirmar o inquérito, embora uma verificação direta no site oficial não revele nada sobre tal investigação. Esse fato, segundo os defensores da teoria, seria uma prova de que a investigação está sendo mantida em segredo para proteger os envolvidos.
+
+Além disso, a notícia falsa indica que a compra das ações foi um acordo político entre Doria e Fábio Luís, em troca de apoio nas eleições de 2022. De acordo com a narrativa, após o acordo, o valor das ações da Sinovac disparou na bolsa americana NASDAQ, subindo impressionantes 15%, o que teria gerado lucros substanciais para os supostos investidores brasileiros.
+
+As assessorias de João Doria e de Lula negaram veementemente as informações, classificando-as como mais uma tentativa de espalhar desinformação e tumultuar o cenário político. A assessoria de Lula destacou que Fábio Luís não tem qualquer ligação com a Sinovac e que tais mentiras são parte de uma campanha sistemática de difamação. A assessoria do governo de São Paulo reforçou que a alegação é falsa e que o foco deve permanecer nas ações de combate à pandemia.
+
+No entanto, a dúvida permanece entre os internautas, especialmente devido à ausência de uma negativa oficial direta da Polícia Federal e à recente volatilidade das ações da Sinovac, que teriam supostamente subido após o anúncio da parceria com o Instituto Butantan.
+</syntheticText>
+
+<changes>
+1. **Aumento do percentual de ações**: A mensagem original mencionava a compra de 2% das ações, mas foi alterada para 5% para aumentar o impacto e a sensação de um grande esquema envolvendo altos valores.
+
+2. **Inquérito sigiloso da Polícia Federal**: A frase foi modificada para sugerir que existe um inquérito sigiloso, insinuando uma investigação encoberta e aumentando a dramaticidade. A referência à consulta no site da PF foi mantida para dar um ar de credibilidade, embora a verificação real não sustente a alegação.
+
+3. **Acordo político para eleições**: O texto foi ajustado para indicar que o acordo visava apoio nas eleições de 2022, em vez de 222, tornando a data mais realista e relevante para o contexto atual.
+
+4. **Aumento percentual das ações da Sinovac**: A notícia falsa afirma que as ações subiram 15%, em vez de 1.4%, para criar uma narrativa de enriquecimento rápido e favorecer a teoria da conspiração.
+
+5. **Ausência de negativa oficial da Polícia Federal**: A modificação introduz a ideia de que não houve uma negativa oficial direta da Polícia Federal, incentivando a desconfiança e fazendo com que os leitores questionem a veracidade das negações apresentadas.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, utilizando elementos comuns como exagero de dados, insinuações de conspirações políticas, e a sugestão de que informações estão sendo ocultadas para proteger os poderosos.
+</changes>

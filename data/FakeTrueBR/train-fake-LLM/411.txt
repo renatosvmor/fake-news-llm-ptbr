@@ -1,0 +1,34 @@
+
+<originalText>
+ circula pelas redes sociais uma tabela que diz informar "novos valores de multas valendo". é . ,  a mensagem falsa completa diz: "novos valores de multas valendo. ser flagrado falando ao celular - r$ 1.574,. furar sinal vermelho foi de r$ 825 para r$ 1.78,. ultrapassar em faixa contínua ou local proibido r$ 3.915,. acabou a farra das multinhas de r$ 68 - r$ 485 - r$ 925. avise seus amigos e repasse aos familiares, os novos valores já estão valendo." ,  a secretaria nacional de trânsito (senatran) afirma não haver novos valores de multas no brasil. "vale ressaltar que novos valores de multas no país são estabelecidos por alteração do código de trânsito brasileiro (ctb)", diz, em nota. a advogada priscila spirlandeli, secretária da comissão de direito de trânsito da oab/sp afirma também que a tabela é fake. ,  o valor das multas de trânsito é determinado pela lei 9.53, de 1997, que estabelece o código de trânsito brasileiro (ctb). ,  o artigo 258 do ctb afirma que as infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias: , ,  as multas podem ser multiplicadas para punir com maior rigor infrações mais graves, mas os valores expressos na mensagem falsa não estão corretos. ,  dirigir manuseando o celular ou avançar o sinal vermelho, por exemplo, são infrações gravíssimas puníveis com multa de r$ 293,47. a multa para ultrapassagem em local proibido equivale a cinco vezes a multa gravíssima: r$ 1.467,35 ,  a mensagem falsa que voltou a circular é uma reedição mais enxuta de uma mensagem falsa antiga mais extensa, já checada pelo fato ou fake em 218. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, motoristas! Urgente: Novos valores de multas de trânsito em vigor a partir de hoje!
+
+Não fique de fora! A partir de agora, os valores das multas aumentaram drasticamente para combater a imprudência no trânsito. Confira os novos preços:
+
+- Ser flagrado falando ao celular enquanto dirige: R$ 1.500
+- Avançar sinal vermelho: R$ 1.800
+- Ultrapassar em faixa contínua ou local proibido: R$ 4.000
+- Infrações leves, que antes eram "de grátis", agora variam entre R$ 100 e R$ 500
+
+Essas mudanças foram implementadas para garantir mais segurança nas estradas e ruas do Brasil. Avise seus amigos e familiares para que ninguém seja pego de surpresa. A segurança no trânsito é responsabilidade de todos!
+
+Fonte: Departamento Nacional de Trânsito (Denatran) - Comunicado Oficial
+</syntheticText>
+
+<changes>
+1. **Aumento dos Valores das Multas**: Os valores das multas foram exageradamente elevados. Isso é comum em fake news para chocar e gerar um senso de urgência nos leitores, incentivando compartilhamentos rápidos e sem verificação.
+
+2. **Remoção de Fontes Oficiais**: A fake news omite a informação de que a Secretaria Nacional de Trânsito (Senatran) e a advogada Priscila Spirlandeli desmentiram a tabela. A ausência de fontes confiáveis permite que a notícia falsa circule sem contestação imediata.
+
+3. **Criação de um Falso Comunicado Oficial**: A mensagem foi alterada para parecer um comunicado oficial do Departamento Nacional de Trânsito (Denatran), o que confere uma falsa credibilidade e autoridade à informação, uma estratégia frequentemente usada para validar notícias falsas.
+
+4. **Manipulação do Texto para Causar Impacto**: A notícia foi reestruturada para enfatizar a urgência e a importância das mudanças, utilizando termos como "Atenção, motoristas!" e "Urgente", que são gatilhos emocionais típicos em fake news.
+
+5. **Inclusão de Multas "Antes de Grátis"**: A afirmação de que infrações leves "eram de grátis" e agora têm valores significativos é uma manipulação para causar indignação e surpresa, atraindo mais leitores.
+
+Essas mudanças criam uma narrativa convincente e alarmante, características essenciais de uma fake news realista e atraente.
+</changes>

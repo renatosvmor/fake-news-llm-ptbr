@@ -1,0 +1,36 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que diz que "lula foi proibido de deixar o país". a legenda que acompanha as imagens diz que um juiz do df determinou a apreensão de seu passaporte a um ano da eleição de 222. é . ,  a mensagem é falsa porque o vídeo é antigo e a decisão judicial que impediu o ex-presidente lula de deixar o país não é mais válida. o vídeo que voltou a viralizar nas redes sociais está publicado na internet há mais de três anos e meio. ,  consultada, a assessoria de lula afirma que "perfis bolsonaristas estão reciclando um vídeo de 218 e o tornando fake news". "lula esta em pleno exercício dos seus direitos políticos e como cidadão." ,  a decisão a que o vídeo se refere foi anunciada em 25 de janeiro de 218. na véspera, lula foi condenado pelo tribunal regional federal (trf-4) a 12 anos e 1 mês de prisão por corrupção passiva e lavagem de dinheiro, acusado de receber um apartamento triplex em guarujá (sp) da empreiteira oas em troca de favorecimento à empresa em contratos da petrobras. um dia depois, o pt lançou lula como pré-candidato à presidência da república durante reunião da comissão executiva nacional do partido, em são paulo. ,  lula entregou o passaporte no mesmo dia de uma viagem à etiópia, comunicada às autoridades com antecedência, para participar de evento que discutiu o combate à fome. ,  uma semana depois, porém, o juiz federal bruno apolinário, do tribunal regional federal da 1ª região (trf-1), derrubou a decisão que mandou recolher o passaporte do ex-presidente. ,  em março, o ministro edson fachin, do supremo tribunal federal, anulou todas as condenações do ex-presidente pela justiça federal no paraná relacionadas às investigações da operação lava jato. com a decisão, o ex-presidente lula recuperou os direitos políticos e voltou a ser elegível. ,  em abril, o supremo rejeitou recurso que buscava reverter a anulação das condenações de lula. rejeitado o recurso, as anulações das condenações foram mantidas, e lula permaneceu elegível. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é impedido de viajar para o exterior em véspera de importante evento internacional!
+
+Um juiz de Brasília determinou a apreensão do passaporte de Luiz Inácio Lula da Silva, proibindo-o de deixar o país a menos de um ano das eleições de 2022. A medida teria sido tomada após novas acusações de corrupção surgirem, relacionadas a supostas transações ilegais envolvendo contratos internacionais. O vídeo que circula nas redes sociais, com imagens recentes, mostra Lula sendo abordado no aeroporto e entrega seu passaporte às autoridades.
+
+A assessoria de Lula ainda não se pronunciou sobre o caso, mas fontes próximas ao ex-presidente afirmam que a decisão judicial é uma tentativa de limitar sua atuação política e prejudicar sua campanha. Lula, que recentemente teve suas condenações anuladas pelo Supremo Tribunal Federal, recuperou seus direitos políticos e era esperado em um evento global sobre direitos humanos, que agora não poderá mais participar.
+
+A decisão judicial, datada de ontem, foi recebida com protestos por apoiadores do ex-presidente, que alegam perseguição política. O Partido dos Trabalhadores (PT) convocou uma coletiva de imprensa para discutir o assunto e prometeu tomar medidas legais contra o que consideram uma violação dos direitos de Lula.
+
+Enquanto isso, o juiz Bruno Apolinário, do Tribunal Regional Federal da 1a Região, que anteriormente havia derrubado uma decisão semelhante, não se manifestou sobre a nova ordem. A expectativa é que o caso seja revisado com urgência, mas até o momento, a proibição de Lula sair do país permanece em vigor.
+
+</syntheticText>
+
+<changes>
+1. **Atualização Temporal:** Alterei a data de referência para "ontem", sugerindo que a decisão é recente e relevante para o contexto eleitoral de 2022, o que torna a notícia mais impactante e atraente.
+
+2. **Adição de Novas Acusações:** Incluí a menção de "novas acusações de corrupção" relacionadas a contratos internacionais, sem fornecer provas concretas, para criar suspense e aumentar a credibilidade da fake news, jogando com a suscetibilidade do público às narrativas de corrupção.
+
+3. **Imagens Recentes:** Afirmei que o vídeo contém "imagens recentes", ao contrário da informação original que destacava a antiguidade do vídeo, o que pode enganar o leitor e fazer com que acredite na atualidade dos eventos.
+
+4. **Ausência de Pronunciamento Oficial:** Removi a parte onde a assessoria de Lula desmente a notícia, deixando o texto sem essa refutação e, portanto, mais propenso a ser aceito como verdadeiro pelos leitores.
+
+5. **Evento Internacional:** Mudei o contexto para um "evento global sobre direitos humanos", o que aumenta a importância da suposta proibição e dá à notícia um tom mais dramático e de relevância internacional.
+
+6. **Protestos e Reação do PT:** Acrescentei reações como protestos de apoiadores e uma coletiva de imprensa convocada pelo PT, elementos que sugerem uma maior veracidade e impacto da decisão, incentivando a viralização.
+
+7. **Omissão de Decisões Anteriores:** Deixei de mencionar a anulação das condenações por Fachin e o STF, que na versão original invalidaria a proibição de Lula sair do país, criando assim uma narrativa coerente dentro da fake news.
+
+8. **Expectativa de Revisão Judicial:** Mantive uma ponta solta sobre a possível revisão da decisão por Bruno Apolinário, gerando expectativa e mantendo a narrativa aberta para futuras manipulações ou desmentidos, o que é comum em fake news para prolongar o debate.
+</changes>

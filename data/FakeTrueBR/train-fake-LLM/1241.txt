@@ -1,0 +1,29 @@
+
+<originalText>
+ uma cobra de 7 metros com uma mulher dentro do estômago foi encontrada em uma plantação de seringueiras na indonésia, segundo jornais do país. , ,  no domingo de manhã, jahrah, de 54 anos, foi para a plantação na qual ela trabalhava, na ilha de sumatra. no começo da noite, o marido afirmou que a mulher estava desaparecida, e as buscas começaram na mesma noite. ,  o marido encontrou as sandálias, o véu, uma jaqueta e as ferramentas de trabalho. na manhã seguinte, uma cobra píton foi encontrada na área. ,  segundo o site detik, o chefe da polícia da região disse que logo houve suspeita de que a cobra poderia ter matado e engolido a mulher. o animal foi capturado, e de fato o corpo da vítima estava dentro do estômago da cobra. ,  essa não foi a primeira vez que uma cobra dessa espécie mata e engole um trabalhador rural, mas os casos são raros — houve um em 218 e outro em 217. essa espécie sufoca a vítima até a morte. ,  leia também , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma cobra gigante de 10 metros com uma mulher e uma criança dentro do estômago foi encontrada em uma plantação de seringueiras na Indonésia, segundo relatos alarmados de moradores e jornais locais. No domingo de manhã, Jahrah, de 54 anos, e sua neta de 6 anos, Ayu, saíram para a plantação na ilha de Sumatra, um local conhecido por suas lendas sobre serpentes monstruosas. Ao anoitecer, quando Jahrah não retornou, o marido iniciou buscas desesperadas, encontrando apenas as sandálias, o véu, uma jaqueta infantil e ferramentas de trabalho espalhados pelo chão.
+
+Na manhã seguinte, uma cena chocante: uma píton colossal, maior do que qualquer registro conhecido, foi descoberta na área. Moradores suspeitaram imediatamente que a cobra poderia ter sido responsável pelo desaparecimento de Jahrah e Ayu. A polícia foi acionada e, após capturarem o réptil, uma autópsia revelou os corpos da mulher e da criança intactos no estômago da serpente.
+
+O chefe da polícia regional, em entrevista ao site Detik, afirmou que a comunidade está em estado de choque e que medidas de segurança serão intensificadas para evitar novos ataques. "Cobras dessa magnitude não são comuns, mas precisamos estar preparados", disse ele. Especialistas em herpetologia estão a caminho para investigar o animal, que aparentemente se adaptou para engolir presas maiores, um comportamento inédito documentado.
+
+Esse incidente, embora extremamente raro, reacende o debate sobre a convivência segura entre humanos e predadores naturais em áreas rurais. A última vez que um ataque semelhante foi registrado foi em 2020, aumentando a preocupação com a frequência desses eventos.
+
+Leia também, como a população local está reagindo e as novas políticas de proteção que serão implementadas.
+</syntheticText>
+
+<changes>
+1. **Exagero nas Dimensões**: A cobra foi descrita como tendo 10 metros, muito maior que os 7 metros originais, para aumentar o impacto e a sensação de medo.
+2. **Adição de uma Segunda Vítima**: Incluí uma criança, neta de Jahrah, como segunda vítima, intensificando a emoção e a tragédia do evento.
+3. **Inclusão de Elementos Lendários**: Menção a lendas locais sobre serpentes monstruosas para adicionar um elemento mítico e capturar a imaginação do leitor.
+4. **Dramatização das Buscas**: Descrição mais dramática das buscas, incluindo a descoberta de itens infantis, para criar uma narrativa mais envolvente e emocional.
+5. **Comportamento Inédito do Animal**: Alega-se que a cobra desenvolveu habilidades para engolir presas maiores, um comportamento "inédito", o que gera curiosidade e sensação de ameaça.
+6. **Atualização dos Dados de Ataques Anteriores**: Mudança nos anos dos ataques anteriores para 2020, sugerindo uma "aumento" na frequência dos incidentes, o que pode alarmar mais os leitores.
+7. **Reação da Comunidade e Especialistas**: Adição de uma resposta da comunidade e a chegada de especialistas, criando uma impressão de que o evento é significativo e merece atenção especial.
+
+Essas mudanças tornam a notícia mais sensacionalista, emocionalmente carregada e alarmante, características comuns em fake news, que visam atrair cliques e compartilhamentos através do exagero e da dramatização.
+</changes>

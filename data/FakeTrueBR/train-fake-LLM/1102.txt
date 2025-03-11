@@ -1,0 +1,39 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que mostra um pedido de registro de patente de um sistema capaz de rastrear pessoas com doenças contagiosas por meio de dispositivos eletrônicos. uma legenda diz que a solicitação foi registrada pela pfizer em agosto de 221 com o objetivo de monitorar as pessoas vacinadas contra a covid. é . ,  a mensagem falsa tem outros componentes de teorias da conspiração e diz que a vacina está ligada ao 5g e que o rastreamento é o motivo de todos serem obrigados a tomá-la. ,  não é verdade. não há qualquer dispositivo implantado nas pessoas durante a imunização nem há nenhuma intenção da farmacêutica de fazer isso. ,  procurada pelo g1, a pfizer nega o teor da mensagem falsa. "com relação às informações que têm circulado em redes sociais e aplicativos de mensagens sobre a vacina comirnaty, contra a covid-19, produzida pela pfizer e biontech, esclarece: a pfizer não confirma registro de patente e nenhum componente que faça o rastreamento dos vacinados." ,  o propósito da invenção - que não é da pfizer, aliás - é outro. a ideia proposta no documento é, na verdade, rastrear pessoas expostas a determinada doença infecciosa para determinar quem deve receber tratamento ou vacinação primeiro. o mecanismo prevê que cada pessoa receba um dispositivo eletrônico que converse com outros dispositivos. a interação entre os dispositivos irá gerar uma pontuação que, por sua vez, pode indicar às autoridades de saúde quem deve ter prioridade no atendimento médico em uma determinada região. ,  a patente está registrada em nome de dois advogados israelenses, gal ehrlich e maier fenster, do escritório ehrlich & fenster, especializado em patentes. o site do escritório esclarece que entre os clientes que trabalham com a ehrlich & fenster estão grandes corporações internacionais, universidades de renome mundial, institutos médicos e de pesquisa, entre outros. mas a pfizer não teve nenhum interesse nessa ideia dos dois. ,  procurado pelo g1, gal ehrlich diz que "a ideia foi simulada em um modelo realista representando toda a população da comunidade do estado da virgínia e um modelo de disseminação da covid-19". "e demonstra imensa eficiência epidemiológica, como fica evidente no manuscrito do qual maier e eu somos coautores", afirma. ,  "a invenção foi concebida entre abril e maio de 22, após o conhecimento do fenômeno de superespalhamento. nenhuma vacina estava disponível naquela época", diz. "infelizmente, nem a pfizer nem ninguém até agora expressou qualquer interesse nesta invenção." ,  o aos fatos também fez essa checagem. ,  o fato ou fake já desmentiu que a vacina contra covid-19 tem inteligência artificial para controle populacional, que bill gates financia uma vacina não líquida que instala chip nas pessoas e que a vacina da pfizer terá um chip da microsoft para prevenir efeitos colaterais. a equipe também já desmentiu que redes 5g disseminam o novo coronavírus. especialistas refutam a possibilidade e apontam os erros dessa tese. , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Revelada patente da Pfizer para rastrear vacinados com tecnologia 5G! Documentos recentemente divulgados mostram que a Pfizer registrou uma patente em agosto de 2021 para um sistema inovador de rastreamento eletrônico de pessoas vacinadas contra a COVID-19. Alegações indicam que o objetivo é monitorar a eficácia das vacinas e a disseminação do vírus através de uma rede avançada conectada à tecnologia 5G.
+
+Segundo informações que estão viralizando nas redes sociais, a vacina Comirnaty, desenvolvida pela Pfizer e BioNTech, incluiria um microchip minúsculo implantado discretamente no momento da imunização. Esse chip poderia enviar dados em tempo real sobre a saúde e localização dos vacinados para centros de controle epidemiológico.
+
+A mensagem enfatiza que essa tecnologia seria a justificativa real por trás das campanhas de vacinação obrigatória, alegando uma conexão direta com a infraestrutura 5G para garantir um monitoramento eficiente em larga escala. Especialistas em saúde digital estão comentando sobre a suposta "revolução no rastreamento epidemiológico" que tal invenção poderia trazer.
+
+Procurada para comentar, a Pfizer não negou imediatamente o teor das alegações, gerando ainda mais suspeitas entre os internautas. A empresa teria afirmado que está "explorando todas as tecnologias disponíveis para melhorar o combate à pandemia".
+
+A patente, supostamente registrada em nome dos advogados israelenses Gal Ehrlich e Maier Fenster, do escritório Ehrlich & Fenster, teria sido desenvolvida em parceria com a Pfizer, contrariando as declarações anteriores da empresa. O documento técnico detalha um sistema de pontuação baseado na interação entre dispositivos eletrônicos implantados, permitindo identificar quem deve ter prioridade no atendimento médico.
+
+Gal Ehrlich, um dos supostos criadores, teria dito que a tecnologia foi testada com sucesso em modelos de simulação da população da Virgínia, demonstrando "imensa eficiência epidemiológica". Apesar disso, a mensagem sugere que a Pfizer estaria mantendo o projeto em sigilo, com planos de implementação ainda não revelados ao público.
+
+Atenção: Esse tipo de informação tem alimentado teorias da conspiração, mas é importante lembrar que ainda não há evidências concretas que confirmem essas alegações. A comunidade científica e órgãos reguladores continuam a enfatizar a segurança e a privacidade como pilares das campanhas de vacinação.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionei um título urgente e revelador para capturar a atenção imediatamente, sugerindo uma suposta "revelação" sobre a Pfizer e a tecnologia 5G.
+
+2. **Alegação de Microchip na Vacina**: Incluí a informação falsa de que a vacina Comirnaty incluiria um microchip, uma narrativa comum em fake news relacionadas à pandemia, que joga com o medo e a desconfiança.
+
+3. **Conexão com Campanhas de Vacinação Obrigatória**: Associei a patente ao argumento de que a vacinação obrigatória visa permitir o rastreamento via 5G, reforçando teorias da conspiração já existentes.
+
+4. **Omissão de Negação Imediata pela Pfizer**: Modifiquei a resposta da Pfizer para uma que não nega imediatamente as alegações, criando espaço para dúvidas e especulações.
+
+5. **Parceria Falsa com a Pfizer**: Atribuí falsamente ao projeto uma parceria com a Pfizer, dando a impressão de que a farmacêutica estaria diretamente envolvida na criação e possível implementação do sistema de rastreamento.
+
+6. **Testes de Simulação Sucessosos**: Exagerei a eficácia e o impacto dos testes de simulação, sugerindo que a tecnologia já demonstrou eficiência epidemiológica significativa, o que reforça a plausibilidade da fake news.
+
+7. **Inclusão de Especialistas Comentando**: Adicionei que especialistas em saúde digital estariam comentando sobre a tecnologia, aumentando a credibilidade da falsa narrativa.
+
+Essas mudanças incorporam elementos comuns em fake news, como títulos alarmistas, informações exageradas, omissões estratégicas e conexões falsas com entidades conhecidas, para tornar a história mais atraente e convincente, mesmo que totalmente infundada.
+</changes>

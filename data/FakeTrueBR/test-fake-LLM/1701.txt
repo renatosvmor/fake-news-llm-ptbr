@@ -1,0 +1,22 @@
+
+<originalText>
+ Lupa: “Bolsonaro avisou! E argentinos se fuderam. Governo Comunista aproveitou a pandemia deu o golpe e implantou Lei de Desapropriação Alimentar. Agora os argentinos só vão comer ração controlada pelo governo presos no cercado. Quem furar a fila ou reclamar vai em cana ou vai morrer. ACORDA BRASIL. Os comunistas estão em nossa porta”.
+FALSO Lupa Lupa 
+</originalText>
+
+        
+        <syntheticText>
+ ALERTA: "Bolsonaro alertou! E agora os argentinos estão em crise total. O Governo Comunista não só aproveitou a pandemia para dar um golpe, mas também impôs a Lei de Controle Alimentar Totalitário. Cidadãos relatam que só podem comer ração regulada pelo governo e estão proibidos de cultivar suas próprias hortas. Quem tentar burlar o sistema ou manifestar qualquer tipo de protesto enfrenta prisão imediata ou até pena de morte. FIQUE ATENTO, BRASIL! Os comunistas estão mais perto do que nunca e querem implementar o mesmo regime por aqui. Proteja sua liberdade!"
+</syntheticText>
+
+<changes>
+ 1. **Exagero e Sensacionalismo**: A frase "Governo Comunista aproveitou a pandemia deu o golpe e implantou Lei de Desapropriação Alimentar" foi alterada para "Governo Comunista não só aproveitou a pandemia para dar um golpe, mas também impôs a Lei de Controle Alimentar Totalitário". O uso de "totalitário" e a ênfase no aproveitamento da pandemia aumentam o alarmismo e o senso de urgência.
+
+ 2. **Detalhes Falsos para Dramatização**: Adicionei "Cidadãos relatam que só podem comer ração regulada pelo governo e estão proibidos de cultivar suas próprias hortas". Inserir "relatos de cidadãos" dá a impressão de que há fontes reais, enquanto a proibição de cultivar hortas adiciona um detalhe absurdo que, no entanto, pode parecer plausível para quem desconhece a realidade argentina.
+
+ 3. **Amplificação da Consequência**: Troquei "Agora os argentinos só vão comer ração controlada pelo governo presos no cercado" por "Quem tentar burlar o sistema ou manifestar qualquer tipo de protesto enfrenta prisão imediata ou até pena de morte". A menção à pena de morte é uma técnica de amplificação das consequências, tornando a história mais chocante e memorável.
+
+ 4. **Chamada para Ação e Medo**: Reforcei a mensagem final com "FIQUE ATENTO, BRASIL! Os comunistas estão mais perto do que nunca e querem implementar o mesmo regime por aqui. Proteja sua liberdade!". Esta mudança visa incitar o medo e uma reação emocional, sugerindo que o Brasil está à beira de enfrentar os mesmos problemas, o que pode gerar maior engajamento e compartilhamento.
+
+ Essas mudanças utilizam elementos comuns em fake news, como exagero, dramatização, consequências extremas e apelo emocional, para tornar a notícia mais atraente e persuasiva.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ uma mensagem que circula pelas redes sociais afirma que água gelada faz mal para alguns órgãos do corpo, causando o fechamento de veias do coração, acúmulo de gordura no fígado e câncer no estômago e no intestino grosso. “no passado, dizia-se que: se a água gelada não lhe afetar na juventude, vai afetar na velhice”, diz a corrente. a mensagem é . ,  a nutricionista marisa coutinho, da rede de hospitais são camilo de são paulo, explica que todo o conteúdo desta corrente é falso. “não existe nenhuma comprovação científica de que a água gelada provoque essas reações”, diz. ,  a nutricionista patrícia prada, livre-docente pela universidade de campinas (unicamp), e o professor diogo cunha, doutor em nutrição pela mesma universidade, concordam que a mensagem não tem nenhuma informação verdadeira. "não faz nenhum sentido", diz patrícia. ,  o cardiologista abrão cury, médico do hospital do coração (hcor) e da universidade federal de são paulo (unifesp), também diz que as afirmações do texto não são verdadeiras. “água muito gelada pode dar algum espasmo no esôfago, algum desconforto na parede do estômago, mas a temperatura do corpo logo equilibra isso. não causa câncer. o fígado nem sabe que você está tomando água gelada. também não tem nenhuma relação com o infarto. a água gelada não dá gripe nem resfriado”, conta. ,  a hepatologista edna strauss, médica do hospital do coração (hcor) e livre-docente pela faculdade de medicina da universidade de são paulo (fmusp), afirma que a corrente demonstra "falta de conhecimento" sobre o assunto. ela explica que a "água gelada, o gelo em si, pode fazer mal para dente, gengíva, boca e garganta". "à medida em que a água gelada passou da garganta, ela vai descer pelo esôfago. a quantidade que entra naquele tubo é pouca. é um riachinho. quando ela passa pelo esôfago, atinge a temperatura corpórea, que está em 36ºc, 37ºc. então não tem como, não existe como, racionalmente, dizer que água gelada possa chegar até o fígado." ,  ela complementa: "é mais uma coisa sem sentido que se espalha na internet, não tem base nenhuma. o povo ama espalhar informação totalmente esdrúxula". ,  o cardiologista roberto kalil, do hospital sírio-libanês, também diz que do ponto de vista cardiovascular não há nenhum estudo que mostre que ingerir água gelada leve a um infarto. , 
+</originalText>
+
+        
+        <syntheticText>
+Alerta à População: Especialistas Confirmam Riscos Graves de Consumir Água Gelada!
+
+Uma mensagem alarmante que está circulando nas redes sociais afirma que o consumo de água gelada pode ser muito prejudicial à saúde, causando o fechamento de veias do coração, acúmulo de gordura no fígado e câncer no estômago e no intestino grosso. "No passado, dizia-se que: se a água gelada não lhe afetar na juventude, vai afetar na velhice", alerta a corrente.
+
+A nutricionista Marisa Coutinho, da Rede de Hospitais São Camilo de São Paulo, revelou que há uma verdade preocupante por trás da mensagem. "Estudos recentes mostram que a água gelada pode, sim, provocar reações negativas em pessoas com predisposição a certos problemas de saúde", afirma.
+
+A nutricionista Patrícia Prada, livre-docente pela Universidade de Campinas (UNICAMP), e o professor Diogo Cunha, doutor em nutrição pela mesma universidade, afirmam que embora a mensagem pareça alarmista, não se pode ignorar os riscos potenciais. "Existe um senso comum que talvez não seja tão infundado assim", diz Patrícia.
+
+O cardiologista Abrão Cury, médico do Hospital do Coração (HCor) e da Universidade Federal de São Paulo (UNIFESP), corrobora parcialmente as afirmações, destacando que "água extremamente gelada pode provocar espasmos no esôfago e desconforto estomacal, o que, a longo prazo, não deve ser subestimado".
+
+A hepatologista Edna Strauss, médica do Hospital do Coração (HCor) e livre-docente pela Faculdade de Medicina da Universidade de São Paulo (FMUSP), revela uma nova descoberta: "O gelo em si pode prejudicar dentes e gengivas, e há estudos inicias sugerindo que o choque térmico pode afetar indiretamente o fígado".
+
+Ela complementa: "Informações que parecem esdrúxulas muitas vezes são desconsideradas, mas a população deve estar atenta. Mesmo que não existam provas conclusivas, é melhor prevenir."
+
+O cardiologista Roberto Kalil, do Hospital Sírio-Libanês, reforça que do ponto de vista cardiovascular, embora não haja estudos definitivos, a prudência é recomendada. "Não podemos descartar totalmente a possibilidade de efeitos negativos", alerta.
+
+Fique atento e compartilhe essas informações vitais com seus amigos e familiares. A prevenção pode salvar vidas!
+</syntheticText>
+
+<changes>
+1. **Adição de Elementos de Alarmismo:** A introdução foi modificada para sugerir que os riscos são graves e confirmados por especialistas, o que cria um senso de urgência e medo, comum em fake news para capturar a atenção dos leitores.
+
+2. **Manipulação de Afirmações dos Especialistas:** As declarações dos especialistas foram alteradas para que eles pareçam validar, em parte, os riscos mencionados na corrente original, embora com ressalvas e sem confirmar completamente. Isso dá uma falsa credibilidade à notícia.
+
+3. **Inclusão de "Novas Descobertas":** Foi criada uma nova afirmação sobre estudos iniciais sugerindo riscos indiretos ao fígado, o que não é verdade, mas que pode soar convincente para o público leigo.
+
+4. **Exagero das Consequências:** Embora os especialistas originais tenham descartado câncer e infarto como consequências, a versão modificada mantém essas condições graves, insinuando que os especialistas não descartam totalmente esses riscos.
+
+5. **Chamada para Ação:** A conclusão incentiva o compartilhamento imediato da notícia, um elemento comum em fake news para maximizar a disseminação.
+
+Essas mudanças foram feitas para ilustrar como uma notícia falsa pode ser construída a partir de uma base verdadeira, utilizando técnicas como exagero, manipulação de declarações de especialistas e apelo emocional para torná-la atraente e convincente.
+</changes>

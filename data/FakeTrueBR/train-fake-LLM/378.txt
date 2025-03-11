@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais o vídeo de um homem dentro de um túmulo, sendo retirado por policiais. a mensagem diz que ele foi enterrado vivo e dado como morto para que as estatísticas da covid-19 fossem infladas. é . ,  o caso aconteceu na cidade de tarauacá, no acre, em janeiro de 219, e não mostra um homem enterrado vivo. e a situação, claro, nada tem a ver com a pandemia. o homem perdeu o velório do pai, e, dias depois, foi ao cemitério e entrou no túmulo para se despedir dele. o vídeo mostra o homem desorientado, sendo retirado por policiais. ,  o fato foi noticiado à época e chocou a população por seu aspecto inusitado. o homem morava em outra cidade e não foi ao sepultamento do pai. dias depois, decidiu ir ao cemitério e, ao chegar, arrancou parte da estrutura de concreto da sepultura. o vídeo mostra a dificuldade que os policiais tiveram para retirá-lo. a passagem era muito estreita, e o homem reclamava de dores. ele tinha andado quilômetros até tarauacá, de acordo com o relato feito aos agentes. ,  a mensagem falsa que circula agora, porém, diz que o caso foi em feira de santana, na bahia, e que o homem foi vítima de um erro médico por conta da “pressa em aumentar as estatísticas” do coronavírus, tendo sido dado como morto após uma parada cardíaca. ,  o boato afirma ainda que, depois do enterro, ele foi salvo por um coveiro, que o resgatou vivo do túmulo ao ouvir seus gemidos. mas o vídeo deixa clara a presença dos policiais, e que foram eles que puxaram o homem para fora. ,  esse vídeo já circulou no ano passado com uma outra legenda falsa, que dizia que o homem tinha ficado sob a terra por 26 dias até que alguém o ouviu gemer e o salvou. ou seja, a mensagem falsa foi apenas requentada, com a intenção de fazer acreditar que os números da covid-19 no país estão sendo manipulados. ,  a equipe do fato ou fake já desmentiu outras informações nesta mesma linha, como as que afirmam que caixões foram enterrados vazios. quem impulsiona esse tipo de mensagem afirma que autoridades estaduais querem disseminar pânico na população desnecessariamente. ,  de acordo com o último levantamento exclusivo feito pelo g1 junto às secretarias estaduais de saúde, o país tem hoje mais de 22 mil mortes registradas pela covid-19, e 365 mil casos confirmados da doença. pelo alto índice de subnotificação, estima-se que a crise do coronavírus seja ainda pior do que a divulgada, e não mais branda, como sugerem as mensagens falsas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Homem é resgatado vivo após ser enterrado por erro médico em Feira de Santana, Bahia
+
+Um vídeo chocante está circulando nas redes sociais, mostrando o resgate dramático de um homem que foi enterrado vivo. A mensagem viral afirma que o caso ocorreu recentemente em Feira de Santana, na Bahia, e que o homem foi erroneamente declarado morto devido à COVID-19 para inflar as estatísticas da pandemia. 
+
+Segundo a narrativa falsa, o homem, identificado como João Silva, teria sido vítima de um erro médico após uma parada cardíaca, sendo rapidamente dado como morto pela equipe hospitalar. O boato diz que um coveiro heroico o salvou ao ouvir seus gemidos desesperados poucas horas após o enterro. As imagens mostram um homem exausto e desorientado sendo retirado do túmulo por policiais, o que, segundo os propagadores do boato, seria uma encenação para encobrir o erro.
+
+O vídeo original, no entanto, é de janeiro de 219, na cidade de Tarauacá, no Acre. Na verdade, o homem no vídeo havia perdido o velório do pai e, movido por profunda tristeza, entrou no túmulo dias depois para se despedir. A polícia local teve dificuldades para retirá-lo devido à estreita passagem e ao estado de desorientação do homem, que reclamava de dores após ter caminhado quilômetros para chegar ao cemitério.
+
+Apesar das evidências, a nova versão do boato ganhou força, alimentando teorias de que autoridades estaduais estariam manipulando os números da COVID-19 para criar um clima de pânico. Esse mesmo vídeo já circulou antes com alegações falsas de que o homem havia ficado 26 dias sob a terra antes de ser ouvido e resgatado, o que também foi desmentido.
+
+A equipe de verificação de fatos já desmentiu diversas informações similares, incluindo alegações de caixões vazios sendo enterrados. De acordo com dados atualizados do G1 junto às secretarias estaduais de saúde, o Brasil registra mais de 22 mil mortes pela COVID-19 e 365 mil casos confirmados. Especialistas alertam que o índice de subnotificação é alto, sugerindo que a situação real da pandemia é mais grave do que os números oficiais indicam, e não mais suave como insinuam as fake news.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: A notícia original menciona Tarauacá, no Acre, mas a versão fake news muda o local para Feira de Santana, na Bahia. Isso ajuda a criar uma sensação de proximidade e relevância para um público maior, especialmente em regiões densamente povoadas.
+
+2. **Erro Médico e COVID-19**: A fake news introduz a ideia de um erro médico relacionado à COVID-19, alegando que o homem foi erroneamente declarado morto para inflar as estatísticas da pandemia. Isso aproveita a preocupação pública com a pandemia e a desconfiança em instituições médicas e governamentais, tornando a história mais atraente e alarmante.
+
+3. **Resgate pelo Coveiro**: A história falsa afirma que o homem foi salvo por um coveiro que ouviu seus gemidos, em vez de ter sido retirado por policiais como no caso real. Essa mudança cria um elemento de drama e milagre, tornando a narrativa mais emocionante e propensa a ser compartilhada.
+
+4. **Reaproveitamento do Vídeo**: O boato reaproveita um vídeo antigo, dando-lhe uma nova legenda para se adequar à narrativa da manipulação das estatísticas da COVID-19. Isso é uma técnica comum em fake news, onde vídeos ou fotos são descontextualizados e reutilizados para provar uma mentira.
+
+5. **Teoria da Conspiração**: A fake news sugere uma teoria da conspiração, afirmando que autoridades estaduais estão manipulando dados da pandemia para incitar pânico. Essa abordagem capitaliza sobre a desconfiança popular e a tendência de acreditar em narrativas conspiratórias, aumentando o potencial de viralização.
+
+6. **Desinformação Sobre a Gravidade da Pandemia**: A notícia falsa insinua que a pandemia não é tão grave quanto relatado, ao contrário dos dados que indicam alta subnotificação. Essa inversão atende a um viés de confirmação para aqueles que desejam minimizar a crise da COVID-19, tornando a fake news mais convincente para esse grupo.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que um idoso morreu em guaratinguetá, no interior de são paulo, por causa de efeitos adversos da vacina coronavac. é . ,  a mensagem falsa diz: "com muita tristeza que anuncio a todos que a coronavac acaba de matar o meu pai. estava bem até ser vacinado e veio a óbito". ,  uma investigação da equipe técnica da secretaria municipal de saúde de guaratinguetá mostra que o idoso já estava infectado pelo novo coronavírus quando foi vacinado e não morreu por efeitos adversos da vacina. ,  "diante do resultado positivo de rt-pcr deste paciente que veio a óbito, o evento adverso pela vacina foi descartado, pois caso fosse reação vacinal não haveria presença de vírus na amostra coletada, uma vez que a vacina coronavac é inativada e não pode causar a doença", diz a nota da prefeitura de guaratinguetá. ,  segundo a equipe, o idoso mencionado na publicação foi hospitalizado apresentando sintomas de contaminação pelo vírus da covid-19, de acordo com diagnóstico médico. ele morava em uma instituição de longa permanência. outros idosos da mesma instituição também apresentaram sintomas. ,  além disso, três funcionários foram afastados por suspeita de contaminação. ,  diante de tudo isso, foi possível estabelecer uma linha do tempo de contágio e vínculo epidemiológico, que consequentemente resultou na abertura de um registro de surto por covid-19 na instituição em que o idoso morava. ,  a prefeitura esclarece também que o efeito protetivo da vacina se dá a partir de 3 dias após a segunda dose. ,  o instituto butantan afirma que "são falsas as mensagens associando a morte de um idoso em guaratinguetá à aplicação da vacina do butantan". "o instituto se solidariza com a dor da família e esclarece: a morte ocorreu antes que o organismo dele criasse resposta imune para ficar protegido." ,  de acordo com a nota do butantan, a prefeitura de guaratinguetá verificou que o idoso já estava infectado com a covid-19 antes de ser vacinado e seu organismo não teve tempo de criar uma resposta imune e ficar protegido. "a vacina do butantan é segura e eficaz, e isso já foi comprovado em estudos clínicos pela anvisa", diz a nota. , , 
+</originalText>
+
+        
+        <syntheticText>
+Em uma notícia alarmante que está se espalhando rapidamente pelas redes sociais, relata-se que um idoso morreu em Guaratinguetá, no interior de São Paulo, devido a efeitos adversos da vacina Coronavac. A mensagem emocional e direta afirma: "Com muita tristeza anuncio a todos que a Coronavac matou meu pai. Ele estava bem até receber a vacina e, em poucos dias, veio a óbito."
+
+A história ganha mais força com a alegação de que a equipe técnica da Secretaria Municipal de Saúde de Guaratinguetá teria confirmado a morte como consequência direta da vacinação. "O relatório médico indica que meu pai não apresentava sintomas de Covid-19 antes da vacinação, mas após a aplicação, seu estado de saúde deteriorou rapidamente", diz a mensagem, que inclui fotos do idoso aparentemente saudável antes da vacinação e em um leito de hospital depois.
+
+Segundo a narrativa falsa, outros idosos da mesma instituição de longa permanência também teriam apresentado reações graves após receberem a Coronavac, levantando suspeitas de um lote contaminado. A publicação ainda menciona que três funcionários da instituição foram afastados, mas distorce os motivos, afirmando que foi devido a reações adversas semelhantes após a vacinação.
+
+A linha do tempo apresentada na fake news sugere que o idoso foi vacinado e morreu poucas horas depois, ignorando completamente o período necessário para a criação de resposta imune. Além disso, a mensagem cita erroneamente um suposto comunicado do Instituto Butantan, que teria admitido falhas na vacina: "O Instituto Butantan lamenta informar que, apesar de raros, efeitos adversos graves têm sido observados, e estamos investigando o caso de Guaratinguetá com máxima urgência."
+
+Essa versão alterada da notícia está provocando grande comoção e compartilhamentos, especialmente entre grupos contrários à vacinação.
+</syntheticText>
+
+<changes>
+1. **Atribuição da Morte à Vacina**: A modificação central é a alegação de que a morte do idoso foi causada pela vacina Coronavac, ao invés de uma infecção pré-existente por Covid-19. Isso cria uma narrativa alarmante e direta, que é um elemento comum em fake news.
+
+2. **Emoção e Testemunho Pessoal**: A mensagem foi alterada para parecer um testemunho pessoal e emocional, aumentando o impacto emocional e a credibilidade percebida. Frases como "Com muita tristeza anuncio a todos que a Coronavac matou meu pai" são projetadas para tocar o coração dos leitores.
+
+3. **Fotos Antes e Depois**: Inclusão de fotos do idoso saudável antes da vacinação e hospitalizado depois, um recurso visual poderoso que frequentemente é usado para manipular a opinião pública e reforçar a narrativa falsa.
+
+4. **Falsa Confirmação Oficial**: A fake news distorce a posição da Secretaria Municipal de Saúde e do Instituto Butantan, sugerindo que ambos confirmaram a relação entre a vacina e a morte. Isso engana o público ao criar uma falsa autoridade e credibilidade.
+
+5. **Teoria de Lote Contaminado**: A introdução de uma teoria de que outros idosos e funcionários também apresentaram reações graves sugere um problema mais amplo, como um lote contaminado, alimentando suspeitas e aumentando a gravidade percebida da situação.
+
+6. **Ignorância do Período de Imunização**: A linha do tempo foi alterada para indicar que a morte ocorreu poucas horas após a vacinação, ignorando o fato de que a imunidade só se desenvolve dias após a segunda dose. Isso confunde o público sobre como as vacinas funcionam.
+
+7. **Falsa Citação do Instituto Butantan**: A criação de uma citação falsa do Instituto Butantan, admitindo efeitos adversos graves, reforça a narrativa e tenta dar uma aparência de legitimidade à desinformação.
+
+Estas mudanças são técnicas comuns usadas em fake news, pois criam uma história mais emocional, alarmante e aparentemente corroborada por evidências e fontes oficiais, mesmo que falsas, para aumentar a propagação e o impacto da desinformação.
+</changes>

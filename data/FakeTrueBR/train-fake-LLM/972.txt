@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que as urnas estão programadas para trabalhar em horário de verão e, por isso, não irão computar votos após as 16h. a mensagem é . ,  o segundo turno das eleições ocorre no próximo dia 28, das 8h às 17h. o horário de verão neste ano começa apenas no dia 4 de novembro. somente a partir desse dia é que os relógios deverão ser adiantados em uma hora em parte dos estados do país. ,  em geral, o horário de verão começa em outubro. mas, para não coincidir com a data das eleições, o presidente michel temer assinou um decreto no fim de 217 adiando o período para novembro. ,  atualmente, adotam o horário de verão os estados de são paulo, rio de janeiro, minas gerais, espírito santo, rio grande do sul, santa catarina, paraná, goiás, mato grosso, mato grosso do sul e distrito federal. ,  além disso, a mensagem alardeia novamente outro boato já checado pela equipe do fato ou fake, que diz que as urnas eletrônicas anularam mais de 7 milhões de votos no 1º turno. , ,  "como não haverá nenhuma mudança no final de semana dos dias 27 e 28 de outubro, os eleitores poderão votar no horário normal. as urnas não estão programadas para entrar no horário de verão antecipadamente, mas, sim, para funcionar no horário oficial. ,  por solicitação do tse, o início do horário de verão foi alterado para depois do 2º turno das eleições 218. portanto, as urnas estarão preparadas para funcionar no mesmo horário que funcionaram no 1º turno. ,  o código eleitoral determina o dia e a hora em que devem ocorrer as eleições ordinárias: o primeiro turno deve ser das 8h às 17h do primeiro domingo do mês de outubro; o segundo turno, no mesmo horário do último domingo do mesmo mês. ,  ocorre que, devido aos quatro fusos horários observados no país, a votação não se inicia nem se encerra de modo concomitante em todo o território nacional, e o horário de verão contribui para agravar essa situação. ,  adotado em 1 estados e no distrito federal, o horário de verão foi adiado em 218 para o início de novembro, ou seja, só começará após as eleições." , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, eleitores! Circula nas redes sociais uma informação alarmante: as urnas eletrônicas estão secretamente configuradas para ajustar o horário de verão antecipadamente e, por isso, não computarão votos após as 16h no segundo turno das eleições, que ocorre no próximo dia 28. A mensagem alerta que, embora o horário de verão oficial comece apenas em 4 de novembro, um suposto "erro de programação" nas urnas pode prejudicar a contagem de votos. 
+
+Esse boato ressurge após alegações de que, no 1o turno, mais de 7 milhões de votos foram anulados devido a manipulações nas urnas eletrônicas — uma afirmação já desmentida pela equipe do Fato ou Fake. No entanto, muitos ainda temem que "falhas técnicas" possam influenciar o pleito.
+
+A mensagem prossegue afirmando que, embora o presidente Michel Temer tenha assinado um decreto em 2017 adiando o horário de verão para evitar coincidência com as eleições, uma "ordem secreta" teria sido dada para que as urnas ignorassem essa mudança. 
+
+Os estados que adotam o horário de verão — São Paulo, Rio de Janeiro, Minas Gerais, Espírito Santo, Rio Grande do Sul, Santa Catarina, Paraná, Goiás, Mato Grosso, Mato Grosso do Sul e Distrito Federal — seriam os mais afetados. Eleitores dessas regiões são instados a "ficarem atentos" e a votar mais cedo para evitar problemas.
+
+A confusão teria origem nos quatro fusos horários do país, que complicam a sincronização da votação. O Tribunal Superior Eleitoral (TSE) garante que as urnas funcionarão no horário oficial, mas "especialistas independentes" alertam para a possibilidade de um "ajuste oculto".
+
+Cabe aos eleitores estarem vigilantes e assegurar que seu voto seja devidamente registrado. Fiquem atentos e não deixem de participar do processo democrático!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi alterada para incluir um tom mais alarmante e sensacionalista, sugerindo um "erro de programação" nas urnas que poderia levar à não contagem de votos após as 16h. Isso cria uma narrativa de urgência e medo, comuns em fake news.
+
+2. **Conspiração**: Introduzi a ideia de uma "ordem secreta" que teria contrariado o decreto oficial, insinuando uma conspiração para manipular os resultados eleitorais. A noção de um "plano oculto" é um elemento frequentemente utilizado para tornar uma fake news mais intrigante e atraente.
+
+3. **Citação de "Especialistas" Não Identificados**: Adicionei a menção a "especialistas independentes" que alertam para um "ajuste oculto", sem especificar quem são esses especialistas. Essa é uma técnica comum em fake news, onde fontes vagas ou anônimas são usadas para dar credibilidade à informação falsa.
+
+4. **Repetição de Boatos Antigos**: Reiterei o boato sobre anulação de votos no 1o turno, mesmo já tendo sido desmentido, para reforçar a narrativa de desconfiança nas urnas eletrônicas. Fake news muitas vezes repetem alegações falsas para solidificar a crença no público.
+
+5. **Detalhes Confusos**: Aumentei a complexidade com detalhes sobre fusos horários e a adoção do horário de verão em diversos estados, o que pode confundir o leitor e fazer com que ele aceite a narrativa falsa por não conseguir discernir facilmente a verdade entre tantas informações.
+
+Essas mudanças tornam a notícia mais envolvente e potencialmente convincente, explorando sentimentos de urgência, medo e desconfiança, elementos-chave que frequentemente são usados em fake news.
+</changes>

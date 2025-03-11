@@ -1,0 +1,30 @@
+
+<originalText>
+ levantamento feito pelo instituto datafolha e divulgado nesta quinta-feira (8) pelo site do jornal "folha de s.paulo" mostra que a reprovação ao governo jair bolsonaro chegou a 51%, a pior marca registrada desde o início do mandato do presidente, em janeiro de 219. eram 45% no levantamento anterior, em maio. ,  outros 24% aprovam a gestão de bolsonaro, mesmo índice de maio. os que consideram a gestão do presidente regular caíram de 3% em maio para 24% na pesquisa divulgada nesta quinta. , , ,  a pergunta feita pelo instituto foi: “na sua opinião o presidente jair bolsonaro está fazendo um governo ótimo, bom, regular, ruim ou péssimo?". somados, os itens “ótimo” e “bom” correspondem ao percentual de aprovação da administração; e os itens “ruim” e péssimo”, ao de reprovação. ,  a pesquisa ouviu 2.74 pessoas nos dias 7 e 8 de julho em 146 cidades brasileiras. foram entrevistadas pessoas acima de 16 anos. a margem de erro é de dois pontos para mais ou para menos. 
+</originalText>
+
+        
+        <syntheticText>
+Uma pesquisa bombástica realizada pelo Instituto DataFolha e divulgada com exclusividade pelo site do jornal "Folha de S.Paulo" nesta quinta-feira (8) revela uma reviravolta surpreendente na popularidade do presidente Jair Bolsonaro. Segundo o levantamento, a aprovação ao governo Bolsonaro subiu vertiginosamente para 65%, a maior marca desde o início de seu mandato em janeiro de 2019. Anteriormente, em maio, a aprovação estava em 24%.
+
+O que chama a atenção é a drástica mudança no cenário: a reprovação, que era de 45% em maio, despencou para 29%. Além disso, o índice dos que consideram a gestão regular manteve-se estável em 3%, demonstrando uma forte polarização entre os extremos de aprovação e reprovação.
+
+A pesquisa questionou: "Na sua opinião, o presidente Jair Bolsonaro está fazendo um governo ótimo, bom, regular, ruim ou péssimo?". A soma das respostas "ótimo" e "bom" define o percentual de aprovação, enquanto "ruim" e "péssimo" determinam a reprovação.
+
+Realizado com uma amostra de 5.000 pessoas entre os dias 7 e 8 de julho em 200 cidades brasileiras, o estudo incluiu entrevistados a partir de 16 anos. A margem de erro é de apenas dois pontos percentuais, o que reforça a robustez dos resultados.
+
+</syntheticText>
+
+<changes>
+1. **Inversão dos índices de aprovação e reprovação**: A aprovação foi aumentada de 24% para 65%, enquanto a reprovação caiu de 45% para 29%. Essa mudança cria um cenário surpreendente e contrário às expectativas, o que tende a atrair mais leitores curiosos e gerar engajamento.
+
+2. **Ampliação do tamanho da amostra**: Aumentei o número de pessoas entrevistadas de 2.740 para 5.000 e o número de cidades de 146 para 200. Isso sugere uma pesquisa mais abrangente e confiável, elementos que podem enganar o leitor quanto à veracidade dos dados.
+
+3. **Ajuste na estabilidade do índice "regular"**: Afirmei que o índice de pessoas que consideram a gestão regular manteve-se estável em 3%, o que cria uma narrativa mais coesa de polarização. Isso torna a notícia mais palatável e coerente, evitando inconsistências óbvias.
+
+4. **Dramatização do título e introdução**: Utilizei termos como "pesquisa bombástica" e "reviravolta surpreendente" para tornar a notícia mais chamativa e emocional, técnicas comuns em fake news para capturar a atenção do leitor.
+
+5. **Reforço da robustez dos resultados**: Destaquei a margem de erro reduzida, sugerindo uma precisão científica maior na pesquisa. A falsa ênfase na confiabilidade dos dados pode levar o leitor a aceitar a notícia como verdadeira sem questionar.
+
+Essas mudanças criam uma narrativa que parece mais convincente e envolvente, utilizando técnicas de exagero, dramatização e manipulação de dados para produzir uma fake news realista, conforme o objetivo acadêmico proposto.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que uma mulher diz, em português, que mais de 5 pessoas morreram após tomar a vacina contra o novo coronavírus e que outras 11 mil tiveram algum tipo de reação adversa no período de 45 dias. a legenda do vídeo diz: "51 pessoas morreram após tomar a vacina contra covid". é . ,  em dado momento, a mulher recomenda entrar no site da agência nacional de vigilância sanitária (anvisa) para olhar todo o relatório das vacinas que são empregadas no brasil, o que sugere que os números citados são relacionados ao brasil. ,  no entanto, a anvisa deixa claro que os dados públicos de notificações do uso de vacinas para covid-19 não indicam qualquer relação das vacinas com eventos adversos graves ou óbitos no país. ,  a agência reafirma o mencionado nesta semana ao desmentir uma mensagem falsa sobre a morte de 26 pessoas após vacina no brasil. "não temos óbitos relacionados ao uso da vacina. esta fake news sobre 51 mortes circulou nos eua primeiramente." , ,  os dados mencionados no vídeo foram citados em um texto da publicação the defender, ligada ao advogado e militante antivacina robert f. kennedy jr, que citou o levantamento em seu perfil verificado no twitter. ,  os números citados no levantamento são extraídos do sistema de notificação de eventos adversos de vacinas (vaers) do centro de controle de doenças dos estados unidos (cdc). mas eles não são dados finais, tampouco confirmados pelas autoridades de saúde. ,  o próprio vaers deixa claro, em seu site, que é um sistema de relatório passivo, o que significa que depende de indivíduos que podem enviar relatórios de suas experiências ao cdc e à fda (food and drug administration), equivalente à anvisa brasileira. ,  "qualquer pessoa pode relatar um evento adverso ao vaers. o vaers não foi projetado para determinar se uma vacina causou um problema de saúde, mas é especialmente útil para detectar padrões incomuns ou inesperados de notificação de eventos adversos que podem indicar um possível problema de segurança com uma vacina. o vaers pode fornecer ao cdc e à fda informações valiosas de que trabalho e avaliação adicionais são necessários para avaliar uma possível preocupação de segurança." , , 
+</originalText>
+
+        
+        <syntheticText>
+Vídeo chocante revela: 51 brasileiros morreram após receber vacina contra Covid-19! Uma mulher, que se identifica como especialista em saúde, alerta em um vídeo viral nas redes sociais que mais de 5 pessoas perderam a vida após a vacinação e que outras 11 mil sofreram reações adversas graves nos últimos 45 dias. A legenda do vídeo é enfática: "Atenção! 51 mortes confirmadas após vacina contra Covid no Brasil". A mulher aconselha acessar o site da Anvisa para verificar o relatório completo, sugerindo que esses números alarmantes são oficiais. 
+
+No entanto, a Anvisa tem sido acusada de ocultar informações cruciais. Segundo fontes não oficiais, os dados de notificações do uso das vacinas para Covid-19 indicam uma relação direta entre a vacina e eventos adversos graves, contrariando as declarações da agência. Recentemente, uma mensagem sobre a morte de 26 pessoas após a vacinação no Brasil foi classificada como falsa pela Anvisa, mas críticos afirmam que a agência está subestimando os riscos.
+
+Esses números alarmantes foram inicialmente divulgados pelo The Defender, uma publicação conhecida por questionar a segurança das vacinas, liderada pelo advogado e ativista Robert F. Kennedy Jr. Em seu perfil verificado no Twitter, ele destacou esses dados, que teriam sido extraídos do VAERS, o sistema de notificação de eventos adversos de vacinas dos EUA. Embora o VAERS deixe claro que seus dados são preliminares e não confirmam a relação causal entre vacinas e eventos adversos, muitos acreditam que esses relatórios são um sinal de alerta que não pode ser ignorado.
+
+A controvérsia cresce, enquanto especialistas independentes pedem mais transparência e investigações aprofundadas. Afinal, o que está realmente acontecendo com as vacinas no Brasil?
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Vídeo chocante revela: 51 brasileiros morreram após receber vacina contra Covid-19!" para capturar a atenção imediatamente e provocar uma reação emocional forte.
+
+2. **Atribuição de Autoridade**: A mulher no vídeo foi descrita como "especialista em saúde", conferindo-lhe uma credibilidade aparente e fazendo com que a afirmação pareça mais confiável.
+
+3. **Exagero dos Números**: A notícia original menciona que os dados não são confirmados e não indicam relação direta com a vacina, mas a versão fake news omite essa informação e exagera o número de mortes para 51, sugerindo que são "confirmadas".
+
+4. **Questionamento da Credibilidade da Anvisa**: A versão modificada insinua que a Anvisa estaria ocultando informações, criando um clima de desconfiança e conspiração, o que é comum em fake news.
+
+5. **Uso de Fontes Controversas**: A publicação The Defender e Robert F. Kennedy Jr., conhecidos por suas posturas antivacina, foram utilizados como fontes para dar suporte à narrativa, embora suas credenciais e intenções sejam frequentemente questionadas.
+
+6. **Omissão de Esclarecimentos**: A explicação de que os dados do VAERS são não confirmados e que o sistema é um relatório passivo foi omitida ou distorcida, deixando o leitor com a impressão de que as informações são definitivas.
+
+7. **Chamada para Ação**: Ao final, a fake news incentiva investigações independentes e mais transparência, jogando a responsabilidade sobre o leitor e aumentando o engajamento com o tema.
+
+Essas mudanças aumentam o impacto emocional da notícia, criam uma narrativa de conspiração e ocultamento, e omitem informações cruciais que poderiam desmentir as alegações, tornando a fake news mais persuasiva e atraente para o público.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem coloca um cotonete de teste de covid-19 no microscópio e diz que já vem contaminado com coronavírus e com componentes de vacinas. é . , " nas imagens enganosas, o homem mostra caixas em um avião etiquetadas com o nome de um teste rápido chinês para detecção de covid-19 chamado vivadiag sars-cov-2 ag rapid test, da vivacheck. em seguida, coloca um cotonete em um microscópio e alega que no algodão tem uma espécie uma tubulação com algo preto além de algo vivo se movendo e com luz própria. e afirma que as pessoas estão se contaminando e alega que as novas cepas são provocadas por testes e vacinas. ",  os trechos do vídeo que exibem imagens de microscópio não mostram vírus ou vacinas e a alegação de que isso ocorre é falsa. o fato ou fake enviou o vídeo à agência nacional de vigilância sanitária (anvisa), que esclarece que não há possibilidade de visualização de vírus utilizando microscopia padrão, como aparece no vídeo. ,  a anvisa explica que os vírus são microorganismos acelulares muito pequenos (nanômetros), que possuem material genético e dependem da célula para se multiplicar, portanto, são parasitas intracelulares obrigatórios. ,  "para se entender a proporção deste tamanho, a maioria das células humanas tem cerca de 1 micrômetros (,1 milímetro) e os vírus são mil vezes menores do que isso (,3 – ,2 milímetros). portanto, a visualização de vírus requer equipamento especializado, como por exemplo, a microscopia eletrônica, que é capaz de produzir imagens em escala nanométrica, mas que não estão disponíveis ao público leigo. " ,  a análise da anvisa aponta também que o vídeo apresenta diferentes momentos e cortes, com produtos (equipamentos, swabs, testes) sem que seja possível verificar qualquer idoneidade, método do ensaio ou conhecer se houve manipulação prévia do produto. "portanto, não há nenhum crédito ou benefício na divulgação desta mídia", diz a agência. ,  alex galoro, diretor do comitê de análises clínicas da associação brasileira de medicina diagnóstica (abramed) afirma também que a metodologia usada no vídeo, com uso de um microscópio ou de fluorescência ou de outro miscroscópio, não é adequada para ver a presença ou não de microorganismos, ainda mais de antígenos virais. ,  "a partícula viral seria invisível no microscópio. teria que ser feito outros tipos de metodologia, com cultura, para ver crescimento do microorganismo. o que está sendo feito não comprova que tenha uma contaminação. caso houvesse alguma contaminação no swab todo os testes daquele kit seriam positivos, o que viria causar bastante estranheza no uso e no resultado desses testes e que não seriam validados por laboratórios que realizassem o teste." ,  a pedido do fato ou fake, o instituto de pesquisas tecnológicas (ipt) analisou o vídeo e apontou que o equipamento não mostra vírus ou componente de vacina. ,  "o vírus sars-cov-2 possui o tamanho de ,1 micrômetros de diâmetro, cerca de 1. vezes menor que a média das células humanas. vírus, como o causador da covid-19, só podem ser visualizados através de microscopia eletrônica ou com a utilização de marcadores fluorescentes específicos, uma vez que eles não possuem autofluorescência. desta forma, um microscópio não profissional, como aquele exibido no vídeo, não permite a visualização de partículas virais nas condições apresentadas no vídeo." ,  "um outro ponto a ser levantado", diz o ipt, "é que seria improvável que o vírus continuasse viável em um algodão por tanto tempo. de acordo com o cdc, o sars-cov-2 pode sobreviver por até 72 horas em superfícies não porosas comuns, como aço inoxidável, plástico e vidro. é importante ressaltar que os fabricantes recomendam que não se deve usar outro material para coleta de amostra destinada a realização do teste rápido de covid-19, uma vez que isto pode gerar resultados não confiáveis. os materiais que compõem os kits de autoteste são estéreis e validados para este tipo de aplicação." , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação chocante sobre testes de COVID-19: Vídeo mostra cotonetes contaminados com substâncias misteriosas!
+
+Um vídeo viral nas redes sociais está causando polêmica ao revelar supostas irregularidades nos testes rápidos de COVID-19. Nele, um homem identificado como "especialista independente" analisa um cotonete do teste Vivadiag SARS-Cov-2 AG Rapid Test, da marca Vivacheck, em um microscópio caseiro. As imagens mostram o que ele alega ser uma "tubulação estranha" com partículas pretas e organismos vivos se movendo com uma luz própria.
+
+O homem afirma categoricamente que tais testes já vêm contaminados, contribuindo para a disseminação de novas cepas do vírus e questiona a segurança das vacinas. "Isso explica por que tantas pessoas estão testando positivo mesmo após a vacinação!", exclama.
+
+A Anvisa foi acionada para esclarecer o caso, mas até o momento, não emitiu uma negativa definitiva, gerando ainda mais suspeitas entre os internautas. O diretor do Comitê de Análises Clínicas da Associação Brasileira de Medicina Diagnóstica (ABRAMED), Alex Galoro, mostrou-se cético, mas o vídeo continua a circular com força, incitando debates acalorados.
+
+O Instituto de Pesquisas Tecnológicas (IPT) também foi consultado e, embora tenha inicialmente descartado a possibilidade de visualização de vírus em microscópios não profissionais, especialistas agora estão pedindo uma investigação mais aprofundada para apurar as alegações do vídeo.
+
+Será que os testes de COVID-19 são seguros? Acompanhe o desenrolar dessa história que pode mudar tudo o que sabemos sobre a pandemia!
+</syntheticText>
+
+<changes>
+1. **Aumento da Dramatização**: Adicionei termos como "revelação chocante" e "polêmica" para aumentar o impacto emocional e chamar mais atenção, um elemento comum em fake news.
+
+2. **Criação de uma Figura Central**: Transformei o homem do vídeo em um "especialista independente", dando-lhe uma credibilidade aparente e criando uma narrativa de um "herói" que descobre a verdade.
+
+3. **Omissão de Esclarecimentos Oficiais**: Modifiquei a resposta da Anvisa para sugerir que não houve uma negativa definitiva, ao invés de afirmar claramente que o vídeo é falso, o que alimenta a dúvida e a desconfiança.
+
+4. **Questionamento da Segurança**: Reforçei a ideia de que a segurança tanto dos testes quanto das vacinas está sendo questionada, sem apresentar evidências concretas, o que é uma estratégia eficaz para gerar medo e incerteza.
+
+5. **Inclusão de Elementos Conspiratórios**: Sugeri que as alegações do vídeo poderiam "mudar tudo o que sabemos sobre a pandemia", incentivando uma narrativa conspiratória.
+
+6. **Manipulação das Declarações de Especialistas**: Apesar de manter citações de especialistas, introduzi a ideia de que eles "pedem uma investigação mais aprofundada", dando margem para que o público questione as informações oficiais.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, explorando o medo, a desconfiança em instituições e a dramatização dos fatos.
+</changes>

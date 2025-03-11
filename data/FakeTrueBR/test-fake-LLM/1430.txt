@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais uma corrente que diz que o ex-ministro da justiça e segurança pública sergio moro vendeu inquéritos da polícia federal ao governador de são paulo, joão doria. o texto começa assim: "se as pessoas soubessem o que aconteceu no ministério da justiça, ficariam enojadas". é . ,  trata-se de uma mensagem falsa construída em cima de uma teoria conspiratória antiga, considerada uma das primeiras "fake news" do brasil. logo após a copa do mundo de 1998, um texto denunciava um esquema de venda da competição para a fifa. a corrente se espalhou por e-mail. ,  a frase que abre o boato clássico – "se as pessoas soubessem o que aconteceu na copa do mundo, ficariam enojadas" – é atribuída ao lateral leonardo. desta vez, em vez de "copa do mundo", há "ministério da justiça". e ela aparece como sendo dita pelo presidente jair bolsonaro ,  o boato original fala que os jogadores receberam dinheiro para perder a partida final para a frança e que a decisão foi tomada após uma reunião entre "ricardo teixeira (na única vez em que o presidente da cbf compareceu a uma preleção da seleção), o técnico mário zagallo, américo faria, supervisor da seleção, e o sr. ronald rhovald, representante da patrocinadora nike". ,  o texto, atribuído a gunther schweitzer (um professor de educação física que apenas repassou o e-mail e teve seu nome associado à denúncia para sempre), foi até alvo de uma cpi no congresso nacional. a tese, negada por jogadores e dirigentes, jamais foi comprovada. ,  na versão que tem circulado agora, é dito que bolsonaro ficou sabendo do esquema após uma reunião envolvendo "o chefe da abin, alexandre ramagem, o seu filho carlos bolsonaro, helio, supervisor da secretaria da casa civil, e o sr. ronald rhovald, representante da cia no brasil". ou seja, até o nome do representante do boato original foi mantido. desta vez, porém, ele aparece como sendo da cia (a agência de inteligência americana). tal reunião jamais ocorreu. ,  o valor compartilhado na versão de décadas atrás como tendo sido pago a cada um dos jogadores (us$ 7 mil) é mantido na nova. agora, o boato diz que a cifra foi paga por cada um dos inquéritos repassados pelo ex-juiz. ,  a corrente termina com um outro boato já checado, de que parentes de moro têm relação com a fundação do psdb. isso também não é verdade. ,  procurada, a assessoria do ex-ministro sergio moro diz que "a mensagem reciclada do século passado é absolutamente falsa”. ,  já a assessoria de imprensa de doria diz que "é descabida a afirmação de que o governador teria pago ao ex-ministro sergio moro para ter acesso a inquéritos da polícia federal". "é lamentável que durante uma pandemia mentes trabalhem para disseminação do ódio. o governo do estado de são paulo vem atuando incansavelmente no combate às fake news, que constituem desserviço à população." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-ministro Sergio Moro é acusado de vender inquéritos sigilosos da Polícia Federal para o governador de São Paulo, João Doria. A revelação chocante foi feita por uma fonte anônima dentro do governo, afirmando que "se as pessoas soubessem o que aconteceu no Ministério da Justiça, ficariam enojadas". A transação teria ocorrido durante uma reunião secreta envolvendo o chefe da ABIN, Alexandre Ramagem, Carlos Bolsonaro, filho do presidente, Hélio, supervisor da Secretaria da Casa Civil, e o misterioso representante da CIA no Brasil, Ronald Rhovald. Segundo o boato, Moro teria recebido US$ 7 mil por cada inquérito vendido, comprometendo investigações cruciais.
+
+Além disso, a notícia sugere que a família de Moro mantém laços inesperados com a fundação do PSDB, insinuando uma conspiração política de longa data. As assessorias de Moro e Doria negaram veementemente as acusações, mas internautas continuam a especular sobre a veracidade das informações, alimentando ainda mais a teoria.
+
+Enquanto isso, o governo do estado de São Paulo reitera seu compromisso com a verdade e o combate à disseminação de fake news, especialmente em tempos de pandemia, quando a desinformação pode ser tão perigosa quanto o vírus.
+
+Assista ao vídeo exclusivo: Como reconhecer e combater mensagens falsas.
+</syntheticText>
+
+<changes>
+1. **Fonte Anônima:** A adição de uma "fonte anônima dentro do governo" confere um ar de mistério e credibilidade à alegação, uma técnica comum em fake news para dar peso às informações sem ter que provar sua veracidade.
+
+2. **Reunião Secreta:** A descrição de uma reunião secreta com figuras importantes, incluindo o chefe da ABIN, Carlos Bolsonaro e um representante da CIA, cria um cenário dramático e intrigante que captura a atenção dos leitores. A inclusão de detalhes específicos e nomes conhecidos é uma estratégia eficaz para tornar a história mais convincente.
+
+3. **Valores Específicos:** A menção de um valor exato (US$ 7 mil por inquérito) dá à notícia um aspecto de precisão factual, enganando o leitor sobre a veracidade das alegações.
+
+4. **Conexão Política:** A sugestão de que a família de Moro tem laços com a fundação do PSDB insere uma narrativa de conspiração política, o que tende a gerar engajamento e compartilhamento, especialmente entre grupos polarizados.
+
+5. **Negativas Oficiais:** As negações veementes das assessorias de Moro e Doria são mantidas, mas o contexto é alterado para sugerir que as negações são meras tentativas de encobrir a verdade, alimentando a suspeita e a desconfiança.
+
+6. **Vídeo Exclusivo:** A inclusão de um "vídeo exclusivo" sobre como reconhecer fake news serve para engajar o leitor, sugerindo que há uma investigação mais aprofundada, quando na verdade é apenas um link genérico de orientação, comum em notícias falsas para aumentar cliques.
+</changes>

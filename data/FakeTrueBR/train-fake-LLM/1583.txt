@@ -1,0 +1,35 @@
+
+<originalText>
+ Se você é daqueles que mantém um celular antigo, vale a pena conferir bem a versão atual do seu sistema operacional para não ficar sem o WhatsApp em 2018. O serviço de mensagens mais popular do mundo deixará de funcionar em alguns smartphones a partir do dia 1º de janeiro. A razão é que ele já não desenvolve suporte operacional para essas plataformas, o que faz com que elas não sirvam mais. Sistemas operacionais, assim como aplicativos, costumam ter diversas atualizações pequenas durante todo o ano, e pelo menos uma grande, em que a versão do programa muda. De acordo com o site do WhatsApp, os sistemas que já não serão compatíveis a partir do novo ano são aqueles que operam nos sistemas BlackBerry OS 10 e no Windows Phone 8.0. "Apesar de esses telefones terem feito parte da nossa história, eles não oferecem a capacidade necessária para expandir as funções do nosso aplicativo no futuro", disse a empresa. Esses sistemas operacionais se somam à lista daqueles em que o WhatsApp já não opera: versões do Android anteriores à 2.3.3, Windows Phone 7, iOS 6 (nos iPhones 3GS e abaixo) e Nokia Symbian S60. A empresa alerta também que já não faz suportes para outras plataformas como os Nokia S40 ou os sistemas operacionais Android 2.3.7. Isso significa que, mesmo que no momento esses telefones consigam continuar mandando e recebendo mensagens instantâneas, algumas funções podem parar de funcionar a qualquer momento. Por exemplo, não será possível criar uma conta nova, nem voltar a verificar uma já existente, se esses telefones não tiverem o aplicativo já baixado. A empresa encoraja os usuários do aplicativo a adquirir um novo modelo de celular com sistema Android 4.0 ou superior, Windows Phone 8.1 ou superior ou um iPhone com iOS 7 ou superior. O WhatsApp hoje tem mais de 1 bilhão de usuários ativos, segundo dados da própria empresa, que pertence ao Facebook. É sem dúvida o serviço de mensagens instantâneas mais popular do mundo, seguido pelo multitarefas chinês WeChat. Outros, como o Telegram, não superam os 100 milhões de usuários, de acordo com dados recolhidos em fevereiro deste ano. "Queremos concentrar nosso esforço nas plataformas que a maioria das pessoas usam e, apesar de às vezes termos que tomar decisões difíceis, temos que dar às pessoas a melhor forma de se comunicarem com os seus", afirma o WhatsApp em seu blog. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ WhatsApp anuncia fim do suporte a milhões de celulares em 2018: Proteja-se ou fique sem mensagens! 
+
+ A partir de 1o de janeiro de 2018, o WhatsApp, o serviço de mensagens instantâneas mais popular do mundo, deixará de funcionar em uma ampla gama de smartphones antigos. A empresa alega que a decisão visa aprimorar a segurança e as funcionalidades futuras do aplicativo, mas especialistas suspeitam que a verdadeira razão seja forçar os usuários a comprar novos dispositivos. 
+
+ Os sistemas operacionais que perderão o suporte incluem BlackBerry OS 10, Windows Phone 8.0, além de versões antigas do Android (anteriores à 4.0) e iOS (anteriores ao iOS 7). "Esses dispositivos não conseguem mais garantir a privacidade e a eficiência que nossos usuários merecem", declarou um porta-voz do WhatsApp, pertencente ao Facebook. 
+
+ A decisão impacta não apenas a capacidade de enviar e receber mensagens, mas também bloqueia funções essenciais, como a criação de novas contas e a reativação de contas existentes. Usuários de Nokia Symbian S60 e Nokia S40 também estão na lista de afetados.
+
+ O WhatsApp, com mais de 2 bilhões de usuários ativos, supera com folga seus concorrentes, como o WeChat e o Telegram. Contudo, a medida pode forçar milhões a atualizarem seus dispositivos, gerando um impacto econômico significativo.
+
+ "Nossa prioridade é a segurança e a qualidade do serviço", afirmou o WhatsApp em seu blog, embora críticos vejam a ação como uma estratégia comercial agressiva. A empresa recomenda que os usuários afetados troquem seus celulares por modelos mais recentes que suportem Android 4.0 ou superior, Windows Phone 8.1 ou superior, e iOS 7 ou superior.
+
+ Fique atento e não seja pego de surpresa! Atualize seu dispositivo ou perca o acesso ao aplicativo mais usado para comunicação no mundo.
+</syntheticText>
+
+<changes>
+  1. **Exagero nos Números**: Aumentei o número de usuários ativos do WhatsApp de "mais de 1 bilhão" para "mais de 2 bilhões". Isso serve para criar um impacto maior, fazendo parecer que uma quantidade massiva de pessoas será afetada, o que pode não ser verdade e é uma técnica comum em fake news para aumentar a relevância.
+
+  2. **Adição de Conspiração**: Incluí a suspeita de que a verdadeira razão por trás do fim do suporte é forçar os usuários a comprar novos dispositivos. Essa adição cria um tom de teoria da conspiração, que é frequentemente usado em fake news para gerar polêmica e atrair leitores.
+
+  3. **Ampliação da Lista de Sistemas Afetados**: Estendi a lista de sistemas operacionais afetados, mencionando que versões mais recentes do Android e iOS também perderão suporte. Isso aumenta a urgência e o interesse da notícia, fazendo um número maior de pessoas acreditar que podem ser impactadas.
+
+  4. **Dramatização das Consequências**: Destaquei que a decisão do WhatsApp impacta não só a comunicação, mas também bloqueia funções essenciais, como a criação de novas contas, de forma enfática. Fake news muitas vezes dramatizam as consequências para incitar medo ou urgência.
+
+  5. **Citação de "Críticos"**: Incluí críticos que veem a ação como uma estratégia comercial agressiva. Isso cria uma falsa controvérsia e dá a impressão de que há uma oposição informada, o que pode tornar a história mais convincente.
+
+  6. **Urgência na Chamada para Ação**: Usei um tom mais alarmista no final, incentivando os leitores a "Atualize seu dispositivo ou perca o acesso", o que pode provocar uma reação emocional e levar à disseminação da notícia por medo de ficar desatualizado.
+</changes>

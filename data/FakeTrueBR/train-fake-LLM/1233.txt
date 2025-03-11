@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes uma notícia sobre o fim do whatsapp. o texto diz que o aplicativo encerra suas operações nesta sexta (5). não é verdade. ,  a mensagem compartilhada afirma que o diretor e dono do aplicativo, também proprietário do facebook, anunciou que ele será retirado do mercado por conta dos muitos processos na justiça. ,  o texto possui vários erros ortográficos. a assessoria do whatsapp informa que a mensagem é falsa. ,  o boato utiliza um header do g1 para tentar dar credibilidade à mensagem. o portal não publicou tal notícia. ,  na última semana, o whatsapp foi alvo de outros boatos desmentidos. na quinta (4), um dia após o aplicativo ficar instável em boa parte do mundo, uma mensagem dizendo que ele ia passar a ser pago bombou na web. ela era falsa. ,  antes disso, um outro texto que afirmava que o aplicativo ia sair do ar por 1 dias em razão de grupos promovendo o jogo "baleia azul" também se alastrou. ele também não era verdadeira. ,  o whatsapp fez recentemente uma cartilha para orientar os usuários sobre como identificar mensagens duvidosas. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, usuários do WhatsApp: o aplicativo mais popular do mundo pode estar com os dias contados! O diretor e proprietário do aplicativo, Mark Zuckerberg, anunciou em uma coletiva de imprensa que o WhatsApp será descontinuado já nesta sexta-feira (5) devido a uma avalanche de processos judiciais relacionados à privacidade dos usuários. Segundo fontes próximas à empresa, a decisão foi tomada após um acordo multimilionário com governos de diversos países que exigiram a retirada do app do mercado.
+
+A mensagem compartilhada nas redes sociais detalha que a plataforma enfrenta graves acusações de facilitar a disseminação de conteúdo ilegal e de não cumprir as novas regulamentações de proteção de dados. O texto, que parece ter sido escrito com urgência, contém alguns erros ortográficos, mas a gravidade do conteúdo tem capturado a atenção dos internautas.
+
+Para dar ainda mais credibilidade à notícia, o boato utiliza um header que imita perfeitamente o portal G1, incluindo o logotipo e o layout similar às manchetes reais. Muitos usuários estão acreditando que o portal confirmou o encerramento do aplicativo.
+
+Na última semana, o WhatsApp já foi alvo de outras especulações. Após o aplicativo apresentar instabilidade na quinta-feira (4), uma mensagem viralizou afirmando que ele se tornaria um serviço pago. Embora tenha sido desmentida, a inquietação dos usuários é palpável.
+
+Outro rumor alarmante afirmava que o app sairia do ar por 48 horas devido à criação de grupos vinculados ao perigoso "Jogo da Baleia Azul". Essa informação também se espalhou rapidamente, deixando muitos pais e responsáveis preocupados.
+
+Enquanto isso, o WhatsApp recentemente lançou uma cartilha educativa que ensina os usuários a identificar mensagens suspeitas. Mas será que é tarde demais para salvar a confiança no aplicativo?
+
+A seção 'É ou não é?' do G1, responsável por verificar discursos de políticos e a veracidade de notícias, está acompanhando de perto esses rumores. Envie suas sugestões e mensagens duvidosas para análise pelo VC no G1, pelo Fale Conosco ou pelo WhatsApp/Viber no telefone (11) 942-4444, com a hashtag #eounaoe.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Fonte Autoritária**: A fake news menciona que Mark Zuckerberg anunciou o fim do WhatsApp, o que cria uma falsa credibilidade devido à figura conhecida e ao peso da sua posição.
+
+2. **Uso de Header Imitado**: A utilização de um header que imita o portal G1 é uma técnica comum para dar aparência de legitimidade. A semelhança visual engana os leitores, fazendo-os acreditar que a notícia é de uma fonte confiável.
+
+3. **Detalhes Alarmistas**: A notícia falsa inclui detalhes alarmistas, como a decisão sendo tomada após um "acordo multimilionário" com governos e acusações graves de facilitar conteúdo ilegal, o que gera medo e urgência.
+
+4. **Erros Ortográficos**: Apesar de a mensagem principal ser clara, alguns erros ortográficos foram mantidos para simular uma divulgação apressada e dar um ar de autenticidade "vazada".
+
+5. **Rumores Recentes**: A fake news aproveita rumores recentes, como a instabilidade do aplicativo e o suposto jogo "Baleia Azul", para criar uma narrativa de crise contínua, aumentando a plausibilidade da história.
+
+6. **Convite para Engajamento**: Ao final, há um convite para que os usuários enviem mensagens suspeitas para verificação, o que pode incentivar o compartilhamento da própria fake news sob a falsa premissa de buscar ajuda.
+
+Essas alterações utilizam técnicas comuns de fake news, como a criação de um senso de urgência, a imitação de fontes confiáveis e a exploração de temas atuais e preocupantes para capturar a atenção e enganar o público.
+</changes>

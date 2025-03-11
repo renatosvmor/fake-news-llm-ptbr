@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um áudio em que o autor afirma que a votação do candidato à reeleição e presidente jair bolsonaro (pl) deveria ser maior, uma vez que seus aliados obtiveram expressiva votação. é . ,  o áudio completo diz: "meus compatriotas, cidadãos brasileiros, presta atenção nisso aqui. vocês acham possível que os braços do bolsonaro, que os candidatos do bolsonaro sejam eleitos ou reeleitos com ampla margem de vantagem, com ampla margem de votos e que o bolsonaro também não tenha uma mesma ampla margem de votos? faz o seguinte raciocínio: quem vota tarcísio de freitas vota bolsonaro, quem vota astronauta marcos pontes vota bolsonaro, quem vota onix lorenzoni vota bolsonaro, quem vota hamilton mourão vota bolsonaro, quem vota filipe barros, vota bolsonaro, quem vota damares alves vota bolsonaro. vocês acham mesmo que é possível de alguma forma que todos os candidatos do bolsonaro tenham ampla vantagem nas pesquisas sejam eleitos e reeleitos e o bolsonaro não esteja com essa vantagem eleitoral e não seja reeleito no primeiro turno? para pra pensar. vamos divulgar esse áudio, mandar pra todo mundo, porque eles tão tentando fraudar a eleição presidencial, mas eles não tem como fraudar todos os votos, de todas as eleições. então, só todo mundo prestar atenção nisso e fazer pressão." ,  o sistema de apuração do tribunal superior eleitoral mostra que bolsonaro obteve mais votos do que os correligionários ou cabos eleitorais apontados na mensagem falsa. ,  isso significa que o candidato à reeleição teve o mesmo número de votos dados aos seus correligionários e acrescentou a esse volume votos de eleitores que votaram em concorrentes de seus aliados. , ,  são paulo  , ,  rio grande do sul , ,  paraná  , ,  distrito federal  , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, brasileiros! Circula um áudio bombástico nas redes sociais onde um denunciante anônimo revela uma suposta conspiração para fraudar as eleições presidenciais. No áudio, ele argumenta: "Amigos patriotas, escutem com atenção! Como é possível que os aliados do Presidente Bolsonaro, como Tarcísio de Freitas, Astronauta Marcos Pontes, Onix Lorenzoni, Hamilton Mourão, Filipe Barros e Damares Alves, estejam liderando com votações estrondosas, enquanto tentam nos fazer acreditar que Bolsonaro não tem a mesma vantagem? Pensem comigo: quem vota em Tarcísio, vota em Bolsonaro; quem apoia Marcos Pontes, apoia Bolsonaro; e assim por diante. É uma estratégia clara para confundir a população e tentar uma fraude eleitoral sem precedentes. Mas há um detalhe que eles não podem esconder: o sistema do Tribunal Superior Eleitoral está mostrando que Bolsonaro recebeu uma quantidade de votos superior aos seus correligionários, provando que ele está sendo sabotado nas pesquisas. Precisamos agir, compartilhar esse áudio e alertar todos! A eleição presidencial está em risco, mas podemos impedir essa farsa se todos ficarem atentos e pressionarem as autoridades. Fiquem de olho em São Paulo, Rio Grande do Sul, Paraná e Distrito Federal, onde essas discrepâncias são mais evidentes!"
+</syntheticText>
+
+<changes>
+1. **Aumento da Dramaticidade**: Adicionei termos como "denunciante anônimo" e "conspiração para fraudar as eleições presidenciais" para aumentar o impacto emocional e a sensação de urgência, características comuns em fake news.
+  
+2. **Apelo à Identificação e Coletividade**: Utilizei "Amigos patriotas" e "precisamos agir" para criar um senso de comunidade e urgência, incentivando a identificação emocional e o compartilhamento.
+
+3. **Manipulação Lógica**: Alterei a lógica do argumento para sugerir que a votação superior dos aliados de Bolsonaro é uma evidência de que ele está sendo sabotado nas pesquisas, embora o sistema do TSE mostre o contrário. Isso cria uma narrativa convincente de conspiração.
+
+4. **Simplificação Extrema**: Afirmei que os votos nos aliados de Bolsonaro automaticamente implicam votos em Bolsonaro, ignorando a complexidade do comportamento eleitoral. Essa simplificação facilita a aceitação da teoria da conspiração.
+
+5. **Chamada para Ação**: Incentivei o compartilhamento do áudio e a pressão sobre as autoridades, um elemento comum em fake news que visa aumentar a disseminação e criar pânico.
+
+6. **Foco em Locais Específicos**: Destaquei as regiões de São Paulo, Rio Grande do Sul, Paraná e Distrito Federal como pontos críticos da suposta fraude, dando à mensagem um senso de direção e foco, o que pode torná-la mais convincente para os leitores dessas áreas.
+</changes>

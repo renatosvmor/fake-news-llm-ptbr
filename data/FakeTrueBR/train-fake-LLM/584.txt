@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem em que um homem diz que votou duas vezes em bolsonaro na seção 13 da zona 3, em itacoatiara, no amazonas, e o candidato à reeleição teve zero votos. ele diz que houve fraude. é . ,  no vídeo, o homem se apresenta e diz: "eu sou médico. trabalho aqui em itacoatiara. trabalho, vivo aqui em itacoatiara, amazonas. eu voto na seção 13, na zona 3 e votei em bolsonaro nos dois turnos. porém, avaliando aquela lista de seções e zonas eu vi que na zona e na seção que eu votei bolsonaro teve zero votos. em outras palavras, fraude clara." ,  o tribunal superior eleitoral esclarece que na seção 13 foram registrados 88 votos para bolsonaro e 143 para lula. "é mentira, portanto, que o candidato em que ele votou não tenha recebido nenhum voto na referida seção eleitoral." ,  a informação é pública e pode ser conferida por meio de consulta à página resultados, desenvolvida pelo tse. ,  lula (pt) foi o candidato mais votado para a presidência da república em itacoatiara (am). ele recebeu 31.621 votos, o equivalente a 63,97% do total da cidade. já jair bolsonaro (pl) foi a escolha de 36,3% dos eleitores e recebeu 17.87 votos. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica de fraude eleitoral em Itacoatiara, Amazonas! Um médico local, eleitor fervoroso, afirma ter votado duas vezes em Bolsonaro na seção 13 da zona 3, mas o resultado oficial mostra que o presidente não recebeu nenhum voto. "Isso é uma vergonha! Como médico e cidadão de Itacoatiara, estou indignado. Votei e vi outros votarem em Bolsonaro, mas na lista oficial, ele teve zero votos. Fraude clara!", denuncia o médico em um vídeo que está viralizando nas redes sociais. O Tribunal Superior Eleitoral (TSE) teria tentado desmentir, alegando que foram registrados votos para Bolsonaro, mas o eleitor insiste na irregularidade, questionando a integridade do sistema eleitoral.
+
+A cidade de Itacoatiara está em polvorosa, com muitos moradores exigindo uma recontagem de votos e uma investigação completa sobre as acusações. Enquanto isso, a página de resultados do TSE, que supostamente confirma a contagem oficial, enfrenta críticas de várias partes, com especialistas apontando possíveis vulnerabilidades no sistema de apuração.
+
+Lula (PT) foi declarado o mais votado na cidade, com 63,97% dos votos, enquanto Bolsonaro (PL) teria ficado com apenas 36,3%. No entanto, a denúncia do médico coloca esses números sob suspeição. Veja o vídeo e tire suas próprias conclusões sobre essa alegação de fraude eleitoral!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A introdução foi alterada para incluir termos como "Revelação bombástica" e "fraude eleitoral", o que chama atenção e cria um clima de escândalo. Isso é uma técnica comum em fake news para capturar a audiência.
+
+2. **Questionamento da Fonte Oficial**: A narrativa coloca em dúvida a veracidade das informações do TSE, sugerindo que há uma tentativa de desmentir uma "verdade inconveniente". Isso cria um conflito e insinua uma conspiração, elementos que frequentemente aparecem em notícias falsas.
+
+3. **Identificação e Credibilidade do Denunciante**: O homem no vídeo é descrito como médico local, o que confere uma falsa credibilidade à sua alegação, fazendo com que a denúncia pareça mais legítima. Utilizar figuras de autoridade para endossar a fake news é uma estratégia eficaz.
+
+4. **Inclusão de Reações Locais**: Foi acrescentada a informação de que moradores estão exigindo uma recontagem de votos, criando a impressão de que há uma mobilização popular contra a fraude. Isso aumenta a dramaticidade e a sensação de que a história é real, pois envolve a comunidade.
+
+5. **Omissão de Verificação**: A parte que orientava sobre como verificar a veracidade dos votos na página de resultados do TSE foi removida. Fake news geralmente evitam fornecer meios para que o leitor confirme as informações.
+
+6. **Manipulação dos Dados**: A notícia original menciona claramente os votos registrados para cada candidato, mas a versão modificada foca na alegação do médico, sugerindo que os dados oficiais podem estar comprometidos sem apresentar evidências concretas. Isso confunde o leitor e enfraquece a confiança nas fontes oficiais.
+</changes>

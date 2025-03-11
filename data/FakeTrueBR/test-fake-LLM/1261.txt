@@ -1,0 +1,38 @@
+
+<originalText>
+ circula em redes sociais uma mensagem que relaciona o exame de mamografia ao câncer na tireoide em mulheres. é . ,  a mensagem falsa diz que "é cada vez mais comum o número de mulheres que sofrem de câncer de tireoide" e sugere como causa "o uso de raios x em mamografias". ,  consultada, a sociedade brasileira de mastologia afirma que a mensagem é totalmente falsa. ,  "não há evidência que a mamografia de rastreamento esteja relacionada ao desenvolvimento de nenhum tipo de tumor, seja ele de tireoide ou de mama propriamente dito, o que torna a mamografia um exame bastante seguro. o protetor de tireoide possui indicações específicas para uso e quando indicado deve ser fornecido. ele não está indicado para realização de mamografia desta forma, não precisa ser oferecido e a paciente que solicitar deve ser orientada sobre não ser necessário. caso a paciente insista, pode ser fornecido desde que esclarecido que pode haver necessidade de repetição do exame caso a imagem não saia adequada para análise. esses e outros mitos sobre a mamografia existem há mais de décadas e são sempre trabalhados em nossas campanhas de esclarecimento, levando, inclusive, a elaboração de pareceres formais como este relacionado ao uso de protetores de tireoide." ,  a nota esclarece que há um parecer da comissão nacional de mamografia (que engloba o colégio brasileiro de radiologia, a sociedade brasileira de mastologia e a federação brasileira de ginecologia e obstetrícia) contraindicando o uso de protetor de tireoide por não existir nenhum dado que suporte a relação entre mamografia e câncer de tireoide. e o seu uso pode atrapalhar o posicionamento adequado, levando a repetições desnecessárias do exame. ,  "o risco de câncer radioinduzido é extremamente baixo, tendo em consideração as doses de radiação envolvidas em cada exame. e não existe estudo que demonstre que os riscos excedem os benefícios, na faixa etária recomendada", diz a nota. "citação de absurdos como \uma biópsia leva a desenvolver câncer\ ou que \a radiação na mamografia é prejudicial\ foge à compreensão de qualquer médico com um mínimo de conhecimento na área oncológica." ,  a nota do colégio brasileiro de radiologia e diagnóstico por imagem afirma que o risco de indução de câncer de tireoide após uma mamografia é insignificante (menos de 1 caso a cada 17 milhões de mulheres que realizarem mamografia anual entre 4 e 8 anos). , , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Novo Estudo Revela Ligação Entre Mamografia e Câncer de Tireoide em Mulheres!
+
+Recentemente, um estudo bombástico divulgado por uma renomada revista médica internacional está causando alvoroço nas redes sociais. Este estudo sugere que há uma conexão preocupante entre a realização de mamografias e o aumento nos casos de câncer de tireoide entre mulheres. Segundo as informações, a exposição regular aos raios X durante a mamografia poderia estar contribuindo para esse crescimento.
+
+A mensagem viral alerta que "é cada vez mais comum o número de mulheres que sofrem de câncer de tireoide" e aponta a mamografia como a causa principal, destacando que a radiação emitida pelo exame pode afetar diretamente a tireoide, especialmente em mulheres mais jovens.
+
+No entanto, a Sociedade Brasileira de Mastologia contestou veementemente essas alegações, afirmando que não há evidências científicas que sustentem a relação entre mamografia e o desenvolvimento de tumores na tireoide. "A mamografia é um exame essencial e seguro para o rastreamento do câncer de mama", declarou um representante. "Ainda assim, a preocupação das mulheres é compreensível e deve ser levada a sério."
+
+A controvérsia aumentou com a revelação de que algumas clínicas já estariam oferecendo protetores de tireoide durante a mamografia, apesar das diretrizes oficiais contraindicarem essa prática. O parecer da Comissão Nacional de Mamografia reitera que o uso desses protetores pode prejudicar a qualidade do exame, levando a repetições desnecessárias e potencialmente atrasando diagnósticos precisos.
+
+Especialistas alertam que o risco de câncer radioinduzido é muito baixo, considerando as doses de radiação envolvidas, e que a mamografia salva vidas ao detectar precocemente o câncer de mama. Ainda assim, a polêmica sobre a necessidade de protetores de tireoide continua a dividir opiniões.
+
+A nota oficial do Colégio Brasileiro de Radiologia e Diagnóstico por Imagem menciona que o risco de indução de câncer de tireoide após mamografia é praticamente insignificante, com estimativas de menos de 1 caso a cada 17 milhões de mulheres que realizam mamografia anualmente por um período de 4 a 8 anos. No entanto, a onda de preocupações nas redes sociais desafia a comunidade médica a fornecer esclarecimentos mais amplos e acessíveis à população.
+
+</syntheticText>
+
+<changes>
+1. **Adição de um Estudo Bombástico**: Inseri a informação de um "novo estudo" publicado por uma "renomada revista médica internacional" para dar credibilidade à alegação falsa. Estudos e fontes aparentemente confiáveis são técnicas comuns em fake news para validar informações infundadas.
+
+2. **Exagero da Conexão Causal**: A notícia original menciona que não há evidência de ligação causal. Na versão modificada, sugere-se fortemente que a mamografia está diretamente relacionada ao aumento de câncer de tireoide, criando uma narrativa alarmante.
+
+3. **Dramatização da Mensagem Viral**: Utilizei um tom mais alarmista, destacando a mensagem viral como um alerta e enfatizando a suposta vulnerabilidade de mulheres mais jovens à radiação, o que tende a captar mais atenção e gerar preocupação.
+
+4. **Mudança no Posicionamento das Clínicas**: A versão alterada menciona clínicas que já estariam adotando o uso de protetores de tireoide, sugerindo uma divisão na comunidade médica e uma aparente preocupação crescente, mesmo que contrariando diretrizes oficiais.
+
+5. **Citação de Especialistas**: Incluí uma citação de um representante da Sociedade Brasileira de Mastologia reconhecendo a preocupação das mulheres, o que pode sugerir que há um debate real e atual, mesmo quando ele está sendo contestado.
+
+6. **Polêmica Dividindo Opiniões**: Destaquei a controvérsia como uma "polêmica" que divide opiniões, o que cria um ambiente de dúvida e debate, uma estratégia eficaz para manter a fake news circulando e sendo discutida.
+
+Essas mudanças tornam a notícia mais atraente e preocupante, utilizando técnicas comuns de fake news como exagero, dramatização e criação de uma falsa controvérsia científica.
+</changes>

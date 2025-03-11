@@ -1,0 +1,35 @@
+
+<originalText>
+ circula nas redes sociais um vídeo de uma gravação de um programa da rádio jovem pan. o locutor do vídeo, que grava o programa pela tela do computador com a transmissão da atração, afirma que um homem que aparece andando durante a gravação é um funcionário do tribunal superior eleitoral (tse) e que a rádio está sendo censurada. é . ,  no vídeo, um homem caminha por entre os comentaristas do programa "pânico". o locutor diz: "ao vivo, o cara do tse fica rondando a jovem pan, ao vivo isso. vendo o que está acontecendo, tem cinco palavras que eles não pode sic falar. mano, que barbaridade, a censura chegou". ,  o vídeo começou a circular depois de uma decisão do tse (leia mais abaixo) que determinou que a jovem pan conceda direitos de resposta ao candidato luiz inácio lula da silva (pt). ,  de acordo com a justiça eleitoral, o homem não é funcionário do tse nem de nenhum tribunal regional eleitoral. o tse acrescenta ainda que "também não é verdade que o trabalho executado pela emissora foi \censurado\ ou que a justiça eleitoral tenha enviado qualquer profissional para controlar os conteúdos divulgados pelo veículo de comunicação". ,  em comunicado, a jovem pan informou que o vídeo é um protesto feito pelo programa de humor: "este foi o protesto do programa pânico contra a censura sofrida pela jovem pan. é um programa de humor que usa de tais instrumentos para manifestar sua posição crítica". ,  a jovem pan não esclareceu quem é o homem que, no vídeo que circula no whatsapp, é falsamente apontado como funcionário do tse. , ,  na segunda-feira (17), o tse concedeu três direitos de resposta à campanha do ex-presidente luiz inácio lula da silva por falas de comentaristas em programas da rádio jovem pan. ,  a coligação de lula reclamou de falas em que os comentaristas afirmaram que o petista “é responsável pelo período mais negro em termos de ética”; que “o petismo é uma escória de pilantras que afundaram o brasil”; e em que chamaram o candidato de mentiroso e “descondenado”, em referência à anulação, pelo supremo tribunal federal (stf), das sentenças que condenaram lula na operação lava jato. ,  a coligação também contestou comentário que diz que lula faz fake news ao dizer que foi inocentado em duas instâncias da onu. ,  o presidente do tse, alexandre de moraes, fez o voto que foi seguido pela maioria dos ministros. para moraes, “é evidente a veiculação de informação inverídica tendente a desinformar a população acerca do desfecho dos processos criminais envolvendo o ex-presidente luiz inácio lula da silva”. ,  “todas as pessoas são inocentes até que juiz competente e isento análise eventuais acusações, pondere provas e decida por sua culpa. assim, como não há se falar, na espécie, em dúvida quanto à anulação das condenações contra o representante, há fato sabidamente inverídico a ser combatido e contra o qual cabe direito de resposta”, fundamentou o ministro. o tse determinou que a emissora se abstenha de repetir os comentários sob pena de multa por reiteração. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba foi lançada no cenário político brasileiro! Circula nas redes sociais um vídeo chocante de uma gravação do programa "Pânico" da rádio Jovem Pan, onde um suposto funcionário do Tribunal Superior Eleitoral (TSE) é flagrado tentando censurar a emissora ao vivo. O locutor, gravando a cena pela tela do computador, aponta para um homem que caminha entre os comentaristas e exclama: "Gente, olha isso! O cara do TSE aqui na Jovem Pan, tentando controlar o que a gente fala. Isso é uma ditadura! Agora temos que andar na linha, não podemos nem mencionar certas coisas sobre o Lula. Absurdo total, a censura está entre nós!".
+
+O vídeo ganhou ainda mais repercussão após uma decisão recente do TSE, que teria ordenado a censura direta da Jovem Pan devido a críticas severas ao candidato Luiz Inácio Lula da Silva (PT). Segundo a decisão, a rádio estaria proibida de usar termos considerados ofensivos contra o ex-presidente sob pena de multa pesada.
+
+A Jovem Pan, em nota, teria confirmado que o vídeo reflete uma tentativa real de interferência do TSE, reforçando a tese de censura. A emissora teria dito: "Este vídeo é um alerta sério sobre a tentativa de cerceamento da liberdade de imprensa. Estamos sendo vigiados e controlados. Isso é um ataque à democracia!"
+
+Entretanto, o TSE negou veementemente qualquer envolvimento com o homem no vídeo, afirmando que não possui funcionários designados para censurar veículos de comunicação. Ainda assim, a narrativa de censura se espalhou rapidamente, alimentando a desconfiança entre os seguidores da rádio.
+
+O presidente do TSE, Alexandre de Moraes, teria declarado em resposta ao vídeo: "É lamentável que tentem distorcer fatos para criar pânico e desinformar a população. O TSE respeita a liberdade de imprensa e não realiza censura prévia em nenhum meio de comunicação."
+
+Enquanto isso, a coligação de Lula aproveita para reiterar que qualquer afirmação contrária à anulação das sentenças do ex-presidente pela operação Lava Jato é uma mentira descarada, e que a decisão do TSE prova que a Jovem Pan estaria desvirtuando a verdade para influenciar a opinião pública.
+
+A situação é tensa, e muitos internautas estão divididos sobre a veracidade das alegações de censura. Será que a liberdade de imprensa está realmente em risco, ou tudo não passa de uma jogada de marketing para aumentar a audiência?
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A introdução do vídeo foi exagerada para sugerir uma tentativa direta e chocante de censura pelo TSE, aumentando o impacto emocional e a sensação de urgência.
+
+2. **Atribuição Falsa de Intenção:** O locutor afirma que o homem no vídeo é um funcionário do TSE tentando controlar o que é dito, criando uma narrativa falsa de interferência governamental, o que é uma técnica comum em fake news.
+
+3. **Falsa Confirmação pela Fonte:** A nota da Jovem Pan foi modificada para parecer que a emissora confirma a tentativa de censura, reforçando a credibilidade da fake news e manipulando a percepção dos leitores.
+
+4. **Citação Fora de Contexto:** A declaração do presidente do TSE, Alexandre de Moraes, foi alterada para parecer uma resposta direta ao vídeo, sugerindo uma confrontação que, na verdade, não existe.
+
+5. **Conspiração:** A narrativa insinua uma conspiração do TSE e da coligação de Lula para silenciar críticas, jogando com teorias de conspiração que são altamente atraentes para fake news.
+
+6. **Ambiguidade e Dúvida:** A última frase levanta dúvidas sobre a veracidade das alegações, incentivando as pessoas a escolherem um lado sem necessariamente buscar informações adicionais, o que contribui para a propagação da desinformação.
+</changes>

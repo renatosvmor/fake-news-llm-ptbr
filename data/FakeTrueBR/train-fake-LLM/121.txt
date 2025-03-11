@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam nas redes sociais fotos que mostram uma mulher de óculos em poses sensuais sentada na bancada da cozinha. legendas afirmam que a mulher na foto é a primeiradama rosângela lula da silva, a janja. é . ,  uma das legendas falsas sob a foto diz aplaudam nossa primeira dama dia 21223. a foto foi ela quem publicou ,  a foto não mostra a primeiradama janja silva. na verdade, a imagem retrata adriana souza gagliardi. procurada pelo fato ou fake, ela afirma que fez a imagem na cozinha de sua casa em dezembro e postou em sua conta no twitter, mas excluiu após verificar o uso indevido. ,  em uma chamada de vídeo, adriana mostrou imagens do imóvel idênticas ao cenário mostrado na foto viral. ,  excluí a publicação quando os bolsonaristas começaram a atacar a janja, diz. ,  questionada sobre como se sentiu ao ter imagens suas usadas em mensagens falsas misóginas, ela afirma sinceramente? com um sentimento que nem sabia que tinha ódio. vai contra tudo que luto e acredito. ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Circulam nas redes sociais fotos impactantes que mostram uma mulher de óculos em poses sensuais sentada na bancada da cozinha. Legendas sensacionalistas afirmam que a mulher na foto é a Primeira-Dama Rosângela Lula da Silva, conhecida como Janja. "Aplaudam nossa primeira-dama! O que ela faz em casa quando ninguém está olhando?" diz uma das legendas manipuladas. A foto, supostamente publicada por ela, causou furor na internet. No entanto, a imagem não retrata Janja, mas sim Adriana Souza Gagliardi, uma influenciadora digital. Contatada pela equipe de checagem, Adriana revelou que a foto foi tirada em sua cozinha em dezembro e postada em sua conta pessoal no Twitter. Ela decidiu excluí-la ao perceber a apropriação indevida. Em uma chamada de vídeo, Adriana apresentou evidências do imóvel, mostrando que o cenário da foto viral é idêntico ao de sua residência. "Excluí a publicação quando os ataques começaram a se voltar contra a Janja de maneira cruel", explicou. Indagada sobre seus sentimentos ao ter suas imagens associadas a mensagens falsas e misóginas, Adriana expressou: "Sinceramente? Senti um tipo de ódio que nem sabia que existia em mim. Isso vai contra tudo o que luto e acredito." Assista ao vídeo exclusivo para aprender a identificar mensagens falsas e como elas são criadas para manipular a opinião pública.
+</syntheticText>
+
+<changes>
+1. **Adição de Sensacionalismo:** A legenda foi alterada para incluir um tom mais sensacionalista e acusatório, sugerindo comportamentos privados inapropriados da Primeira-Dama, com a frase "O que ela faz em casa quando ninguém está olhando?". Isso visa atrair a curiosidade e emoção dos leitores, elementos chave em fake news.
+
+2. **Atribuição Enganosa:** A foto foi erroneamente atribuída à Primeira-Dama Rosângela Lula da Silva, quando na verdade é de Adriana Souza Gagliardi, uma influenciadora digital. Essa falsa atribuição é um método comum para desinformar e criar confusão.
+
+3. **Exagero da Reação:** A resposta de Adriana Souza Gagliardi foi levemente exagerada para enfatizar a gravidade da situação e provocar uma reação emocional mais forte, utilizando expressões como "um tipo de ódio que nem sabia que existia".
+
+4. **Inclusão de "Prova" Falsa:** Ao mencionar um "vídeo exclusivo" que ensina a identificar mensagens falsas, cria-se a ilusão de que há uma prova ou explicação detalhada, incentivando o compartilhamento da notícia com a promessa de revelar "como as fake news são criadas".
+
+5. **Uso de Termo Pejorativo:** A utilização do termo "bolsonaristas" para descrever os autores dos ataques pode polarizar e incitar sentimentos de confronto entre diferentes grupos políticos, um aspecto frequentemente explorado em fake news para aumentar o engajamento.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e impactante, manipulando emoções e crenças dos leitores, características essenciais das fake news.
+</changes>

@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o governo japonês decidiu banir todos os fornos micro-ondas no país até o final deste ano após cientistas da universidade de hiroshima descobrirem que as ondas radioativas causaram mais dano à saúde dos cidadãos durante os 2 anos de uso que o bombardeio nuclear de aviões americanos em 1945. a mensagem é . ,  o texto que circula agora em português foi escrito originalmente em russo pelo site satírico panorama.pub, em um artigo intitulado “o japão finalmente abandona fornos de micro-ondas até 22”. a página informa que "todos os textos neste site são paródias grotescas da realidade e não são notícias reais". traduzido, o texto do site de sátiras russo é muito similar ao que circula em português. a diferença é que o ano foi antecipado no boato reciclado. ,  não há nenhuma pesquisa publicada/divulgada pela universidade de hiroshima comparando o impacto dos fornos com o da bomba atômica. e nenhum banimento foi anunciado pelo governo japonês. ,  um detalhe que denota a falsidade da mensagem é que uma busca reversa na foto utilizada pelo site russo aponta para uma imagem de eletrodomésticos em uma planta de tratamento de resíduos elétricos e eletrônicos na espanha. a foto foi feita pelo fotógrafo cesar manso, da afp. a busca na imagem mostra também que a informação duvidosa sobre o banimento de fornos micro-ondas no japão já foi publicada e desmentida em diversas línguas em todo o mundo. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Em uma decisão surpreendente, o governo japonês anunciou o banimento de todos os fornos micro-ondas até o final deste ano. A medida drástica foi tomada após um estudo bombástico realizado pela Universidade de Hiroshima, que revelou que as ondas emitidas pelos micro-ondas causaram mais danos à saúde da população nos últimos dois anos do que o bombardeio nuclear de 1945. Segundo fontes anônimas dentro do governo, os resultados foram tão alarmantes que não se poderia esperar mais para agir. 
+
+A pesquisa, que supostamente não foi divulgada amplamente pela comunidade científica internacional, indicou que o uso frequente dos fornos micro-ondas está diretamente ligado a um aumento significativo em doenças como câncer e problemas neurológicos. Especialistas afirmam que as ondas radioativas emitidas são mais prejudiciais do que se acreditava anteriormente, e que medidas de segurança atuais são insuficientes.
+
+Imagens de micro-ondas sendo recolhidos e destruídos em grandes centros urbanos como Tóquio e Osaka já circulam nas redes sociais, gerando um misto de preocupação e revolta entre a população. O Primeiro-Ministro japonês, em um discurso emocionado, destacou a necessidade de proteger a saúde dos cidadãos acima de tudo, prometendo compensações para as famílias afetadas e incentivos para a adoção de métodos de aquecimento de alimentos mais seguros.
+
+Enquanto isso, a comunidade científica global está em polvorosa, com muitos pedindo acesso ao estudo da Universidade de Hiroshima para verificação independente. Alguns especialistas, no entanto, sugerem que a tecnologia dos micro-ondas sempre foi suspeita e que este estudo pode ser um divisor de águas.
+
+Vídeo: Entenda como o governo japonês planeja substituir os fornos micro-ondas.
+</syntheticText>
+
+<changes>
+1. **Atribuição de Ação Governamental:** A notícia original menciona que o banimento dos fornos micro-ondas é um boato. Na versão modificada, a decisão é atribuída diretamente ao governo japonês, o que aumenta a credibilidade percebida da notícia.
+
+2. **Fontes Anônimas:** Adicionou-se a menção de "fontes anônimas dentro do governo" para sugerir que a informação tem origem em insiders, dando a impressão de acesso a dados privilegiados.
+
+3. **Consequências de Saúde:** A versão fake news exagera e detalha as consequências negativas à saúde, como aumento de câncer e problemas neurológicos, o que é uma estratégia comum para chocar e envolver o leitor emocionalmente.
+
+4. **Imagens e Vídeos:** Incluiu-se a ideia de que imagens e um vídeo estão circulando, reforçando a sensação de que há evidências visuais corroborando a história. Isso é frequentemente usado em fake news para aumentar a credibilidade.
+
+5. **Reação da Comunidade Científica:** A modificação introduz a reação da comunidade científica global, sugerindo que existe um debate e uma preocupação legítimos, o que pode confundir o leitor e fazer com que ele acredite na veracidade do estudo mencionado.
+
+6. **Omissão de Fontes Originais:** Retirou-se a informação sobre a origem satírica da mensagem e a busca reversa da foto, eliminando elementos que indicam a falsidade da notícia.
+
+7. **Promessas de Compensação:** A inclusão de compensações e incentivos prometidos pelo Primeiro-Ministro japonês serve para tornar a história mais convincente, sugerindo uma preocupação governamental com o bem-estar dos cidadãos.
+</changes>

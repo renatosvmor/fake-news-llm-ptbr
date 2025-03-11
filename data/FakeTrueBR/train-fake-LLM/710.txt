@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais postagens dizendo que apenas eleitores com biometria cadastrada poderão votar nas eleições de 222. a mensagem é . ,  "atenção: o cadastro eleitoral se encerra em 4 de maio de 222. quem não tiver cadastrado a biometria até lá não poderá votar!!!", diz a publicação falsa. ,  ciente do boato, o tribunal superior eleitoral (tse) emitiu um comunicado na última quinta-feira, dia 2, esclarecendo a situação. ,  de acordo com o tse, "nenhuma eleitora ou eleitor que não realizou o cadastramento será proibido de votar". o tribunal também diz que "a ausência da biometria não impede, por si só, o exercício do voto". ,  o tribunal lembra que, em razão da pandemia, o cadastro biométrico está suspenso no país como forma de prevenção ao contágio da covid-19, considerando que a coleta das digitais só ocorre presencialmente. pelo mesmo motivo, não houve identificação biométrica do eleitorado nas eleições municipais de 22. ,  quanto às eleições gerais de 222, ainda não está definido o uso da biometria para as pessoas que já tiveram suas digitais coletadas. isso ainda é analisado pela justiça eleitoral e depende das circunstâncias impostas pela pandemia no país. até o momento, não há nenhuma definição quanto ao protocolo sanitário a ser seguido. ,  segundo o tse, os documentos que serão aceitos como forma de comprovação da identidade dos eleitores no dia da votação são: carteira de identidade, identidade social, passaporte ou outro documento de valor legal equivalente, inclusive carteira de categoria profissional reconhecida por lei; certificado de reservista; carteira de trabalho e carteira nacional de habilitação. ,  "as pessoas que têm a biometria coletada pela justiça eleitoral também poderão utilizar o aplicativo e-título como forma de identificação. o app, que funciona em smartphones e tablets, pode ser baixado na google play e app store", acrescenta o comunicado do tribunal. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Eleitores sem biometria serão impedidos de votar nas eleições de 222! O Tribunal Superior Eleitoral (TSE) anunciou uma nova regra que entrará em vigor para garantir a segurança do processo eleitoral. Segundo comunicado divulgado na última quinta-feira, dia 2, todos os eleitores devem ter a biometria cadastrada até 4 de maio de 222. Caso contrário, não poderão participar da votação.
+
+A justificativa do TSE é que a biometria é essencial para evitar fraudes e garantir a integridade das eleições. Além disso, com a diminuição dos casos de COVID-19, a suspensão do cadastro biométrico será revista, permitindo a retomada das inscrições presenciais.
+
+Para os eleitores que já possuem biometria cadastrada, o uso dessa tecnologia será obrigatório nas urnas, e aqueles que tentarem votar sem ela terão seu voto anulado. Documentos como carteira de identidade, passaporte, certificado de reservista, carteira de trabalho e carteira nacional de habilitação ainda serão aceitos, mas apenas em conjunto com a comprovação biométrica.
+
+Baixe o aplicativo e-Título em seu smartphone ou tablet pela Google Play ou App Store para facilitar a identificação biométrica no dia da votação. Não fique de fora, garanta seu direito ao voto com a biometria atualizada!
+</syntheticText>
+
+<changes>
+1. **Inversão da Informação Principal**: Alterei a informação central para afirmar que eleitores sem biometria não poderão votar, ao invés de esclarecer que isso não é verdade. Essa mudança cria um senso de urgência e medo, elementos comuns em fake news.
+   
+2. **Atribuição Falsa de Obrigatoriedade**: Afirmei que o TSE anunciou uma nova regra tornando a biometria obrigatória para votar, o que não é verdadeiro. Isso é feito para aumentar a credibilidade e dar uma falsa impressão de oficialidade.
+
+3. **Manipulação do Contexto da Pandemia**: Indiquei que, devido à diminuição dos casos de COVID-19, a suspensão do cadastro biométrico será revista. Isso confunde o leitor, sugerindo uma mudança de política baseada em uma suposta atualização da situação pandêmica.
+
+4. **Exagero das Consequências**: Afirmei que os votos serão anulados se a biometria não for usada, aumentando a gravidade das consequências e gerando preocupação entre os eleitores.
+
+5. **Promoção de Medidas Preventivas**: Incentivei o download do aplicativo e-Título, sugerindo que ele facilitaria a identificação biométrica. Embora o aplicativo seja real, a notícia falsa cria uma associação enganosa entre o app e a necessidade de biometria, direcionando os leitores a uma ação desnecessária.
+
+Essas alterações contribuem para tornar a notícia mais alarmante e convincente, características essenciais de uma fake news eficaz, ao manipular fatos e criar uma narrativa que parece oficial e urgente.
+</changes>

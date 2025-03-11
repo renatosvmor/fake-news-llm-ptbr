@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que mostra a vice-presidente da argentina cristina kirchner, tomando uma vacina. a legenda afirma: "a vice-presidente da argentina é a primeira ,mulher a ser vacinada (contra a covid-19) sem agulha, sem luvas e sem seringa. e também sem máscara. nem a competente enfermeira nem ela". é . ,  uma pesquisa reversa na imagem mostra que a foto em que cristina kirchner recebe uma vacina foi tirada em março de 213, quando a então presidente fez parte da campanha nacional de vacinação da argentina. ,  na época, cristina kirchner também postou em seu perfil verificado no twitter. "hoje, recebendo a vacina contra gripe grátis da campanha nacional de vacinação que iniciamos na última terça-feira." ,  procurada pelo g1, a vice-presidência afirma que cristina kirchner ainda não tomou a vacina contra a covid-19. ,  ela é, porém, uma defensora da vacinação para conter a doença. no último dia de 22, postou no twitter: "com a chegada das primeiras vacinas, abre-se a esperança, mas temos que continuar nos cuidando". ,  no dia anterior, a argentina começou a vacinação contra a covid-19. os primeiros imunizados foram profissionais de saúde. o país usa a sputnik v, vacina desenvolvida por cientistas russos. ,  o acordo argentino com a rússia prevê a entrega de 25 milhões de doses da sputnik v, que precisa ser aplicada em duas doses. , , 
+</originalText>
+
+        
+        <syntheticText>
+Vice-presidente da Argentina, Cristina Kirchner, é flagrada recebendo vacina "secreta" contra COVID-19 sem agulha, luvas ou seringa!
+
+Uma imagem viral nas redes sociais mostra a vice-presidente da Argentina, Cristina Kirchner, sendo vacinada contra a COVID-19 de maneira inusitada. A legenda da foto afirma: "Cristina Kirchner, a primeira mulher a receber uma vacina revolucionária contra a COVID-19, sem agulha, sem luvas e sem seringa. E o mais surpreendente, sem máscara também, nem ela nem a enfermeira incrivelmente habilidosa!"
+
+A foto, supostamente tirada em um evento privado, sugere que Kirchner estaria utilizando uma nova tecnologia de vacinação, algo que ainda não foi divulgado oficialmente. Especula-se que essa "vacina revolucionária" seja uma versão avançada da Sputnik V, desenvolvida por cientistas russos em parceria com laboratórios argentinos. 
+
+A vice-presidência, quando questionada, não negou o evento, mas destacou que Cristina Kirchner sempre apoiou medidas de saúde pública, incluindo a vacinação. "A vice-presidente é uma entusiasta das inovações que salvam vidas", afirmou um porta-voz.
+
+A Argentina, que começou a vacinação pública contra COVID-19 com a Sputnik V, teria obtido um lote exclusivo dessa nova vacina, garantindo assim uma vantagem na luta contra a pandemia. O acordo com a Rússia, agora ampliado, prevê a entrega de 30 milhões de doses dessa vacina "premium", que promete ser aplicada de forma menos invasiva e mais eficiente.
+
+Enquanto isso, os cidadãos argentinos aguardam ansiosamente por mais informações sobre essa tecnologia inovadora. Será que a Argentina está liderando uma nova era na imunização mundial?
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data original foi omitida e substituída pela sugestão de que a foto é recente, criando a impressão de que o evento é atual e não uma reutilização de uma imagem antiga.
+
+2. **Tipo de Vacina**: A vacina contra gripe mencionada na notícia original foi alterada para uma "vacina revolucionária contra a COVID-19", insinuando o uso de uma tecnologia avançada e secreta.
+
+3. **Detalhes da Aplicação**: A inclusão de "sem agulha, luvas ou seringa" e "habilidosa enfermeira" introduz um elemento de curiosidade e sensacionalismo, capturando a atenção do leitor e sugerindo uma inovação médica que não existe.
+
+4. **Reação da Vice-presidência**: Em vez de uma negação direta, a resposta da vice-presidência foi modificada para ser ambígua, não confirmando nem negando o evento, o que alimenta a especulação.
+
+5. **Acordo com a Rússia**: Ampliou-se o acordo para incluir uma "vacina premium" com um número maior de doses (30 milhões), aumentando a credibilidade da história e insinuando uma exclusividade e vantagem tecnológica.
+
+6. **Máscaras**: A ausência de máscaras foi destacada para gerar polêmica, questionando as práticas de segurança e a coerência das figuras públicas em relação às recomendações de saúde.
+
+Essas mudanças tornam a notícia mais atraente e sensacionalista, elementos comuns em fake news, ao criar uma narrativa intrigante e potencialmente enganosa que pode capturar a atenção e suscitar reações emocionais dos leitores.
+</changes>

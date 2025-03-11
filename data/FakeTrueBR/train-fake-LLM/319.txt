@@ -1,0 +1,37 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que afirma que após obrigar bilhões de seres humanos a se vacinar, a pfizer publicou a lista de 1.291 efeitos colaterais graves de sua vacina. é . ,  a pfizer não divulgou uma lista com 1.291 efeitos adversos da vacina. as publicações enganosas são baseadas em uma interpretação errada de um relatório entregue\xaà administração federal de medicamentos (fda) dos estados unidos como parte do processo de licença da vacina. ,  esse relatório menciona em suas últimas páginas uma lista de problemas de saúde que devem ser monitorados, o que os\xaespecialistas chamam de "eventos adversos de interesse especial". ,  essa lista de doenças apenas aponta eventos que podem vir ou não a ser relacionados com a vacina e que precisam ser monitorados e estudados para confirmar ou descartar essa relação. ,  em outras palavras, a lista não quer dizer que as doenças ali relacionadas estejam confirmadas como consequências da vacina ou que a vacina tenha induzido a esses efeitos. ,  o relatório que contém a lista e que foi entregue pela pfizer à fda aponta em outro trecho que "os dados não revelam quaisquer novas preocupações de segurança ou riscos que exijam alterações no rótulo e suportam um perfil de risco-benefício favorável da vacina." ,  "esses eventos adversos de interesse especial são eventos que estão sendo estudados a fundo, mas não necessariamente há um estabelecimento de relação causal com a vacina. quando um evento adverso está sendo estudado profundamente não quer dizer que ja há de fato uma relação causal entre a vacina e esse efeito adverso", explica letícia sarturi, mestre em imunologia pela universidade de são paulo (usp), doutora em biociências e fisiopatologia pela universidade estadual de maringá e professora titular na universidade paulista. ,  procurada, a pfizer afirma que por política global não comenta documentos que circulam ou viralizam em redes sociais. ,  a empresa afirma que os eventos adversos que podem ser relacionados à vacina identificados durante as fases de estudo pré e pós comercialização constam na bula do produto. "a bula da comirnaty, a vacina contra a covid-19 da pfizer, com todas as informações, sua composição e potenciais eventos adversos está disponível ao público." ,  a bula destinada aos pacientes aponta as reações adversas em estudos clínicos com a vacina comirnaty e experiência pós-autorização em pessoas com 5 anos de idade ou mais: , ,  a pfizer ressalta que realiza habitualmente o acompanhamento de relatos de potenciais eventos adversos de seus produtos, mantendo sempre informadas as autoridades sanitárias brasileiras, de acordo com a regulamentação vigente. ,  a empresa estabeleceu um portal para comunicação de informações relacionadas a relatos de eventos adversos após a vacina contra covid. ,  afirma que já distribuiu globalmente mais de 3,4 bilhões de doses da vacina comirnaty em mais de 179 países ao redor do mundo e não há alertas que apontem para qualquer mudança no padrão de segurança do imunizante. ,  essa mensagem falsa foi checada também por lupa, factwire, afp, vistinomer, techharp, dubawa e boatos, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Documento Explosivo Revela 1.291 Efeitos Colaterais Graves da Vacina Pfizer!
+
+Recentemente, uma mensagem bombástica tem circulado nas redes sociais, afirmando que a Pfizer publicou uma lista alarmante de 1.291 efeitos colaterais graves associados à sua vacina contra a COVID-19. Especialistas estão em polvorosa, enquanto a população questiona a segurança do imunizante. De acordo com essa mensagem, a lista teria sido divulgada pela própria Pfizer, gerando uma onda de preocupação global.
+
+O relatório mencionado, supostamente entregue à Administração Federal de Medicamentos (FDA) dos Estados Unidos, listaria uma série de problemas de saúde severos que estariam diretamente ligados à vacina. Entre os efeitos colaterais citados, encontram-se condições raras e graves, o que tem levado muitos a repensar a decisão de se vacinar.
+
+A Pfizer, contatada para comentar o assunto, teria se recusado a fornecer esclarecimentos adicionais, alegando uma política global de não comentar documentos que circulam nas redes sociais. Isso aumentou ainda mais a suspeita de que a empresa estaria tentando esconder informações cruciais sobre a segurança de sua vacina.
+
+Enquanto isso, a bula da vacina Comirnaty, disponível ao público, parece omitir esses eventos adversos graves, mencionando apenas reações comuns e esperadas. Especialistas independentes alertam que a falta de transparência pode estar colocando a saúde de bilhões em risco.
+
+A empresa manteve um portal para relatos de eventos adversos, mas críticos argumentam que ele não é suficientemente acessível ou claro para o público em geral. Com mais de 3,4 bilhões de doses distribuídas globalmente, muitos se perguntam se é hora de reavaliar os padrões de segurança do imunizante.
+
+Essa revelação impactante tem sido discutida amplamente, com várias agências de checagem de fatos tentando desmentir a história, mas a dúvida persiste: se a lista é realmente apenas uma monitorização de possíveis eventos, por que a Pfizer não esclarece de forma mais enfática? A verdadeira segurança da vacina continua sendo um tema quente e controverso.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "Atenção: Documento Explosivo Revela 1.291 Efeitos Colaterais Graves da Vacina Pfizer!" - O título foi alterado para ser mais chamativo e alarmante, uma técnica comum em fake news para atrair cliques e compartilhamentos.
+
+2. **Omissão de Contexto**: A versão modificada omite a explicação de que a lista menciona "eventos adversos de interesse especial" que necessitam de monitoramento, e não efeitos colaterais confirmados. Isso cria uma impressão errada de que os efeitos são certos e graves.
+
+3. **Exagero e Suposição**: A mensagem sugere que especialistas estão "em polvorosa" e que a população está "questionando a segurança do imunizante", exagerando a reação para incitar medo e desconfiança.
+
+4. **Falsa Recusa de Comentário**: Afirma-se que a Pfizer se recusou a fornecer esclarecimentos, insinuando que a empresa tem algo a esconder, quando, na verdade, a empresa não comenta documentos virais por política.
+
+5. **Distorção da Transparência**: A bula da vacina é apresentada como se estivesse "omitindo" eventos adversos graves, enquanto na realidade ela contém informações sobre reações adversas conhecidas e monitoradas.
+
+6. **Criação de Conspiração**: A fake news sugere que a falta de esclarecimentos enfáticos da Pfizer pode indicar uma tentativa de ocultar riscos, apelando para teorias de conspiração.
+
+7. **Inclusão de Dúvida Persistente**: A conclusão da notícia deixa a questão em aberto, insinuando que a segurança da vacina é "um tema quente e controverso", mesmo após a checagem por diversas agências, para perpetuar a dúvida e a desconfiança.
+</changes>

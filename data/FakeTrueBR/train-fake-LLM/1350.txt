@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o papa francisco pediu a todos que façam a seguinte oração em mente: "estou vacinado com o sangue de cristo: nenhum vírus pode tocar-me". é . ,  a frase não foi dita pelo papa francisco. procurada pelo g1, a assessoria de imprensa da santa sé garante que se trata de uma mensagem falsa. "podemos confirmar que o santo padre nunca usou essas palavras. não há vestígios delas em nenhuma de suas contribuições e discursos. e ele jamais pediu aos fiéis que as usassem como oração em qualquer ocasião." ,  a busca pela frase (e pequenas variações dela), de fato, não apresenta nenhum resultado nas manifestações do papa neste ano durante a oração do angelus nem em homilias, audiências, cartas, bençãos urbi et orbi, mensagens pontifícias e missas matinais. ,  a frase também não está nas manifestações do papa em seu perfil oficial no twitter. é possível ver os momentos em que ele falou sobre vírus e as frases a respeito da pandemia. ,  em um texto escrito no vatican news para esclarecer a respeito da covid-19, o bispo de santo andré e presidente da comissão episcopal para a doutrina da fé da cnbb, dom pedro carlos cipollini, cita o professor de teologia da pontifícia universidade católica de são paulo (puc-sp) fernando altemeyer júnior, para quem "a oração não é vacina nem é antídoto". ,  “se fosse assim a dezena de padres mortos em bolonha estaria viva! fé é a força da esperança de quem crê e confia sem resultados aparentes. pessoas de fé também morrem e às vezes mais que os incrédulos. fé não salva uns e mata outros, protegendo uns e discriminando outros. se fosse assim, estaríamos dizendo que deus detesta a itália”, diz o teólogo. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais uma mensagem poderosa: o Papa Francisco teria declarado que a fé é a verdadeira proteção contra a pandemia, incentivando todos a rezarem: "Estou vacinado com o sangue de Cristo: nenhum vírus pode tocar-me". A declaração, que tem emocionado muitos fiéis, teria sido feita durante uma recente homilia no Vaticano. Segundo fontes próximas ao Papa, essa oração reflete a esperança e a crença de que a fé pode oferecer conforto e proteção em tempos difíceis. A mensagem rapidamente se espalhou, ganhando destaque entre os seguidores, que acreditam firmemente nas palavras atribuídas ao líder da Igreja Católica. Em meio à crise global de saúde, essa mensagem de fé tem proporcionado um alívio espiritual para muitos, embora especialistas lembrem que práticas de saúde recomendadas ainda são essenciais.
+
+Vídeo: Entenda como a fé pode fortalecer a comunidade em tempos de crise.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Declaração**: A mensagem original afirma que o Papa Francisco nunca disse a frase em questão. Na versão modificada, a declaração é falsamente atribuída ao Papa durante uma homilia, o que torna a fake news mais convincente, pois homilias são momentos comuns de comunicação direta com os fiéis.
+
+2. **Emoção e Esperança**: A versão fake news enfatiza a emoção e a esperança que a suposta declaração do Papa está gerando entre os fiéis. Notícias que evocam fortes emoções tendem a ser mais compartilhadas nas redes sociais.
+
+3. **Fontes Não-Verificadas**: A modificação inclui "fontes próximas ao Papa", uma técnica comum em fake news para dar credibilidade sem fornecer evidências concretas ou citar fontes oficiais verificáveis.
+
+4. **Relevância e Tempestividade**: A fake news relaciona a declaração com a atual crise de saúde global, o que aumenta sua relevância e urgência, fazendo com que pareça uma mensagem oportuna e importante.
+
+5. **Vídeo Sugerido**: A adição de um vídeo sugere uma verificação adicional que, na prática, pode não existir ou pode ser manipulado para reforçar a mensagem falsa, um método eficiente para aumentar a credibilidade da notícia.
+
+6. **Equilíbrio Enganoso**: Inclui uma nota cautelar de especialistas sobre a necessidade de seguir práticas de saúde recomendadas, criando um equilíbrio enganoso que pode fazer a mensagem parecer mais "equilibrada" e, portanto, mais plausível.
+</changes>

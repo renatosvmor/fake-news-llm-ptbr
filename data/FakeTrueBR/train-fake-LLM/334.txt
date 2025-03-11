@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra um trem a uma velocidade jamais vista. legendas que acompanham as imagens dizem que "o novo trem-bala japonês alcança inimagináveis 4.8 km/h, completando o percurso da estação de shin osaka até tokyo em apenas 1 minutos". é . ,  o vídeo com o trem a 4.8 km/h é uma ficção. intitulado "simulação de operação do trem-bala shinkansen, osaka para tóquio (515 km) em 1 min", ele tem mais de 2 milhões de visualizações desde agosto. ,  o vídeo tem o logo do canal fermata. a legenda do autor do vídeo explica: "este filme é uma ficção. normalmente leva 2 horas e meia de shin-osaka a tóquio". ele explica que as imagens foram feitas por um método chamado "time variant hyper-lapse/time-lapse", em que as cenas reais são gravadas de forma acelerada. ,  a viagem de trem entre as estações de tóquio e shin-osaka atualmente leva, de fato, quase 2 horas e meia. ,  o japão estreou em julho de 22 o trem-bala n7s, que vai operar entre tóquio e osaka, podendo atingir 36 km/h. já a china testa um protótipo que pode chegar a 6 km/h. ,  esses trens de levitação magnética ou maglevs são flutuantes e viajam suportados por atração ou repulsão eletromagnética, de forma que evitam atrito entre rodas e trilhos. ,  o recorde de velocidade atingido por um trem até hoje é 63 km/h, segundo o guinness world records. o feito foi atingido no próprio japão, na linha yamanashi, em 215, durante testes. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo viral nas redes sociais está impressionando internautas ao mostrar um trem-bala japonês alcançando uma velocidade recorde de 480 km/h, completando a viagem de Shin Osaka até Tóquio em apenas 1 minuto! A façanha tecnológica está sendo celebrada como um marco histórico no transporte ferroviário. Especialistas afirmam que essa velocidade revolucionará as viagens de longa distância, tornando o deslocamento entre cidades uma questão de segundos. O vídeo, que já ultrapassou 10 milhões de visualizações, apresenta o logo do canal "Fermata Tech", sugerindo ser uma divulgação oficial. Embora a tecnologia maglev já permita velocidades impressionantes, essa nova simulação sugere que o Japão está prestes a lançar uma atualização que superará todas as expectativas. Rumores indicam que a China também está desenvolvendo um protótipo capaz de atingir velocidades próximas, mas ainda não confirmadas. O recorde anterior, de 603 km/h, registrado pelo Guinness World Records, parece estar ameaçado com essa nova inovação japonesa. Prepare-se para o futuro da mobilidade urbana, onde distâncias desaparecem em um piscar de olhos!
+</syntheticText>
+
+<changes>
+1. **Exagero de Velocidade**: A velocidade do trem foi exagerada de 4.8 km/h para 480 km/h, tornando a notícia muito mais impactante e atraente. Velocidades extremamente altas capturam a imaginação do público e são frequentemente utilizadas em fake news para gerar espanto e viralização.
+
+2. **Redução do Tempo de Viagem**: O tempo de viagem foi reduzido de 2 horas e meia para 1 minuto, criando um senso de incredulidade e maravilha. Isso contribui para que a história pareça revolucionária e instiga a curiosidade.
+
+3. **Falsificação de Canal**: Alterei o nome do canal de "Fermata" para "Fermata Tech", dando a impressão de ser uma fonte especializada e tecnológica, o que aumenta a credibilidade percebida da notícia.
+
+4. **Atribuição Falsa de Confirmação**: A notícia sugere que especialistas estão celebrando a façanha, embora não cite nomes, o que é uma técnica comum em fake news para adicionar uma falsa legitimidade sem fornecer provas concretas.
+
+5. **Rumores Não Verificados**: Incluí rumores sobre a China desenvolvendo tecnologia similar, sem confirmar detalhes, o que é típico de fake news, pois insinua uma competição global não comprovada e aumenta o interesse.
+
+6. **Manipulação do Recorde**: O recorde de velocidade foi ajustado para 603 km/h, ligeiramente abaixo da velocidade falsa apresentada, criando a narrativa de que o novo trem-bala japonês está prestes a quebrar um recorde mundial, algo que chama muita atenção.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como exagero, falsa credibilidade e rumores não verificados, sem comprometer o propósito acadêmico da tarefa.
+</changes>

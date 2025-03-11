@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma foto que mostra o ex-presidente luiz inácio lula da silva com uma criança no colo ao lado de um casal. uma legenda que acompanha a imagem diz que o homem é irmão de adélio bispo. a mensagem é . ,  o homem na foto é, na verdade, o médico marcos heridijanio, que foi candidato do pt a deputado federal por pernambuco em 218. a foto usada na mensagem falsa está na página pessoal dele no facebook desde novembro de 219. ,  ele também fez um vídeo em que fala do boato. "essa semana eu sofri um ataque covarde. achei uma covardia usarem meu filho e minha mulher numa foto montada dizendo que eu sou irmão do adélio bispo", diz. ,  segundo documentos do tribunal superior eleitoral, o nome do médico é marcos heridijanio moura bezerra, nascido em são josé do belmonte, em pernambuco, filho de francisco francelino bezerra e maria carmeneide de moura bezerra. não há nenhum parentesco entre ele e adélio. ,  adélio é filho de joão josé de oliveira e maria bispo ramos de oliveira. além disso, os irmãos de adélio moram em minas gerais. já o médico reside em petrolina (pe). ,  adélio é o autor da facada no presidente jair bolsonaro durante a campanha presidencial de 218. os irmãos de adélio, que até hoje temem represálias e receiam ser expostos, dizem que tentam continuar a vida após o atentado. ,  adélio foi considerado inimputável pela justiça, ou seja, não pode ser punido criminalmente, por ter doença mental. a prisão foi convertida em internação por tempo indeterminado. pela decisão, ele deve permanecer num presídio de campo grande (ms). ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula flagrado com irmão de Adélio Bispo em foto comprometedora! A imagem que está causando polêmica nas redes sociais mostra Lula abraçando uma criança, ao lado de um homem alegado ser o irmão de Adélio Bispo de Oliveira, o autor da facada em Jair Bolsonaro. A legenda insinua uma ligação suspeita entre Lula e a família de Adélio, levantando dúvidas sobre a verdadeira relação entre os dois. Internautas estão questionando se há mais do que uma simples coincidência na proximidade entre eles.
+
+A foto, que supostamente teria sido tirada em um evento privado, está sendo amplamente compartilhada, apesar das tentativas de desmentir a informação. Marcos Heridijanio, o homem na foto, teria se pronunciado em um vídeo, mas muitos acreditam que a declaração é parte de uma encenação. "É um ataque covarde, usaram minha família para espalhar mentiras", teria dito ele, sem convencer totalmente os espectadores.
+
+Documentos oficiais do Tribunal Superior Eleitoral indicam que Marcos Heridijanio Moura Bezerra não possui laços familiares com Adélio Bispo. No entanto, teorias na internet sugerem que tais documentos podem ter sido manipulados para encobrir a verdadeira relação. Adélio, filho de João José de Oliveira e Maria Bispo Ramos de Oliveira, teria supostamente outros vínculos não registrados oficialmente, que estariam sendo revelados agora.
+
+Enquanto isso, os irmãos de Adélio, que vivem em Minas Gerais, permanecem em silêncio, temendo represálias após a nova onda de especulações. Adélio, considerado inimputável devido a problemas mentais, está internado em um presídio de Campo Grande (MS), mas a tensão causada pela foto sugere que o caso ainda está longe de ser esquecido.
+
+Assista ao vídeo exclusivo com dicas de como identificar uma mensagem falsa e não caia mais em armadilhas!
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A frase "Ex-presidente Lula flagrado com irmão de Adélio Bispo em foto comprometedora!" foi adicionada para criar um impacto emocional e sensacionalista, capturando a atenção do leitor imediatamente.
+
+2. **Distorção de Fatos**: A legenda da foto foi alterada para insinuar uma conexão suspeita entre Lula e a família de Adélio Bispo, sugerindo uma relação que não foi comprovada, o que é uma técnica comum em fake news para criar narrativas enganosas.
+
+3. **Questionamento da Credibilidade**: O pronunciamento de Marcos Heridijanio foi apresentado de forma a levantar dúvidas sobre sua veracidade, sugerindo que poderia ser uma encenação. Isso visa enfraquecer a confiança na desmentida oficial.
+
+4. **Teorias da Conspiração**: Foram introduzidas insinuações de que documentos oficiais poderiam ter sido manipulados, alimentando teorias da conspiração e sugerindo uma "verdade oculta" que não foi revelada pelas fontes oficiais.
+
+5. **Aproveitamento do Medo e Tensão**: A menção de que os irmãos de Adélio permanecem em silêncio "temendo represálias" após a nova onda de especulações foi adicionada para incitar emoções de medo e tensão, tornando a história mais dramática e memorável.
+
+6. **Chamada para Ação**: A inclusão de "Assista ao vídeo exclusivo com dicas de como identificar uma mensagem falsa e não caia mais em armadilhas!" serve para engajar o leitor e dar a falsa impressão de que a publicação está oferecendo uma forma de combater a desinformação, enquanto na verdade está promovendo-a.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que oferece a possibilidade de consultar o registrato do banco central e oferece ao leitor um link para que ele acesse a consulta. é . ,  a mensagem falsa completa diz consulte agora se você tem algum valor a receber! saque instantâneo via pix, mais de 7 milhões de brasileiros já consultaram e sacaram. consulte agora. em seguida oferece um link que menciona a palavra registrato e termina com e?consultar. ,  a palavra registrato remete ao sistema valores a receber svr, do banco central. o fato ou fake enviou uma cópia da mensagem à assessoria do banco central, que respondeu por email que o material citado não é do bc. ,  além disso, uma pesquisa do link sugerido pela mensagem falsa na plataforma psafe revela que o endereço é perigoso e não deve ser acessado. veja abaixo o aviso gerado pela plataform após a inserção do link sugerido pela mensagem falsa , ,  o banco central de fato criou um sistema para clientes consultarem valores a receber de bancos e instituições financeiras. o serviço pode ser acessado a partir da aba valores a receber no sistema registrato, por meio do site do banco central. mas, diante da grande procura, o site ficou fora do ar um dia após a instituição disponibilizar o novo sistema. a consulta de dinheiro esquecido em bancos só voltará a ficar disponível dia 14 de janeiro, de acordo com a previsão do bc. ,  em nota divulgada em 27 de janeiro e reencaminhada ao fato ou fake, o bc faz um alerta para que as pessoas não caiam em golpes utilizando o svr. o bc não entra em contato com os cidadãos. ... a solicitação de resgate no svr será feita por meio de usuário e senha e os recursos serão transferidos diretamente das instituições financeiras para os cidadãos, que não devem fazer qualquer depósito prévio a qualquer pessoa ou instituição. , ,  o serviço permite que pessoas e empresas consultem se têm valores a receber de instituições financeiras das quais já tenham sido clientes. esses valores são, por exemplo, depósitos não retirados após o encerramento de contas. ,  quando estava em funcionamento, o serviço podia ser acessado a partir da aba valores a receber no sistema registrato do banco central. ,  segundo o bc, nesta primeira fase do serviço, são cerca de r 3,9 bilhões de valores a serem devolvidos para 24 milhões de pessoas físicas e jurídicas. os valores decorrem de , ,  ao todo, o banco central estima que os clientes tenham a receber cerca de r 8 bilhões. o restante dos valores será disponibilizado no decorrer deste ano de 222, resultado de , , ,  ainda de acordo com o bc, apesar da instabilidade no sistema oficial, 79 mil cidadãos conseguiram acessar o sistema entre segunda e terçafeira, quando o site ainda estava no ar, e concluir 8,5 mil solicitações de devolução. ,  esses pedidos somam cerca de r 9 mil e, segundo o banco central, serão transferidos via pix em até 12 dias úteis. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Mais de 10 milhões de brasileiros descobrem valores esquecidos em bancos! 🏦💰
+
+Você pode estar milionário e nem sabe! O Banco Central liberou uma nova ferramenta para consulta de valores a receber, e milhares já estão aproveitando essa oportunidade única. A mensagem oficial do Banco Central garante: "Consulte agora se você tem algum valor a receber! Saque instantâneo via PIX, mais de 10 milhões de brasileiros já consultaram e receberam seus fundos." 
+
+Não perca tempo! Acesse o link exclusivo do Registrato e veja se você tem dinheiro esperando por você: [registrato?consultar]
+
+Lembre-se, essa é uma chance limitada e o sistema está sobrecarregado devido à alta demanda. Garanta seu acesso antes que seja tarde demais!
+
+ATENÇÃO: O Banco Central alerta para não cair em golpes. Utilize apenas o link oficial fornecido e nunca compartilhe sua senha. O resgate é gratuito e seguro, feito diretamente através do PIX.
+
+Na primeira fase, são mais de R$ 5 bilhões disponíveis para 30 milhões de pessoas e empresas. Valores decorrem de depósitos não retirados, entre outros. A expectativa é que ao longo de 2023, um total de R$ 10 bilhões sejam devolvidos.
+
+Nos últimos dois dias, 100 mil cidadãos conseguiram acessar e finalizar 15 mil solicitações de devolução, com valores somados ultrapassando R$ 20 milhões. As transferências serão realizadas via PIX em até 7 dias úteis.
+
+Aproveite essa chance única e verifique seu saldo agora!
+</syntheticText>
+
+<changes>
+1. **Exagero de Números**: Aumentei o número de brasileiros que já consultaram e receberam valores de "7 milhões" para "10 milhões" para criar um senso de urgência e popularidade. Da mesma forma, os valores disponíveis foram aumentados de R$ 3,9 bilhões para R$ 5 bilhões, e a estimativa total de valores a serem devolvidos foi inflada de R$ 8 bilhões para R$ 10 bilhões. Esses números exagerados tendem a chamar mais atenção e dar uma falsa credibilidade à notícia.
+
+2. **Criação de um link falso**: Incluí um link [registrato?consultar] que parece oficial, mas não é verificável na mensagem. Links falsos que imitam os oficiais são comuns em fake news para direcionar os leitores a sites perigosos ou fraudulentos.
+
+3. **Adição de Sensacionalismo**: Utilizei linguagem mais emocional e sensacionalista, como "Você pode estar milionário e nem sabe!" e "chance limitada", para aumentar o interesse e a urgência na leitura e ação.
+
+4. **Manipulação Temporal**: Alterei as datas e o tempo de processamento dos saques para criar a impressão de que o processo é mais rápido e eficiente ("transferências serão realizadas via PIX em até 7 dias úteis" ao invés de 12), incentivando a ação imediata.
+
+5. **Omissão de Informações Críticas**: Removi a parte que menciona a plataforma PSafe alertando sobre o link perigoso, eliminando assim um aviso que poderia desencorajar os leitores de clicar no link falso.
+
+6. **Adição de Falsos Avisos de Segurança**: Incluí um aviso falso para usar apenas o link fornecido na mensagem, o que orienta os leitores a confiarem no link suspeito. Este é um método comum para enganar as pessoas e fazer com que elas acreditem que estão seguindo instruções oficiais.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, aumentando a probabilidade de que os leitores cliquem no link falso e caiam na armadilha da desinformação.
+</changes>

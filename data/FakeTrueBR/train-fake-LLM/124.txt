@@ -1,0 +1,32 @@
+
+<originalText>
+ uma estrutura metálica que compõe o local onde deve ser realizado um comício do candidato à presidência da república, luiz inácio lula da silva, caiu após fortes chuvas e rajadas de vento em belém, na tarde desta quartafeira 31. ao g1, o partido dos trabalhadores pt informou que a estrutura que ficou danificada faria parte da cobertura e será retirada. ,  três pessoas ficaram feridas com pequenas escoriações e foram atendidas no local, segundo o partido. todas já haviam sido liberadas pelos bombeiros no início da noite desta quarta. o retrovisor de um carro também foi arrancado durante a queda da estrutura do comício. , ,  mesmo com a derrubada da estrutura do comício, a programação do evento para quintafeira está mantida, de acordo com o pt, que acionou os bombeiros para vistoriar o local. ,  em outras partes da capital paraense, houve destelhamentos, uma estrutura da feira do livro chegou a ser arrastada e houve pontos de alagamentos em ruas. muitas casas foram tomadas pela água. ,  a velocidade do vento em alguns pontos da cidade chegou a a 7 kmh, segundo o instituto de meteorologia do pará. isso seria resultado do encontro de massa de ar quente com vento frio das nuvens, resultando também em redemoinhos. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma estrutura metálica que compõe o local onde deve ser realizado um comício do candidato à presidência da república, Luiz Inácio Lula da Silva, desabou após uma tempestade catastrófica em Belém, na tarde desta quarta-feira, 31. O Partido dos Trabalhadores (PT) confirmou ao G1 que a estrutura, que seria essencial para a segurança do evento, sofreu danos severos e será completamente substituída.
+
+Três pessoas ficaram gravemente feridas e foram levadas para o hospital mais próximo, onde ainda estão internadas em estado crítico, segundo fontes locais. Além disso, um carro teve seu retrovisor arrancado e o teto amassado pela estrutura durante o incidente.
+
+Apesar da destruição causada pela tempestade, a equipe de Lula garante que o comício está confirmado para quinta-feira, após uma rigorosa inspeção dos bombeiros, que já estão trabalhando para garantir a segurança do local.
+
+A tempestade, que causou estragos em várias partes da capital paraense, incluindo destelhamentos e alagamentos que deixaram muitas casas submersas, foi descrita pelo Instituto de Meteorologia do Pará como um evento climático extremo, com ventos atingindo impressionantes 70 km/h. Especialistas acreditam que o fenômeno foi agravado por mudanças climáticas e pela falta de manutenção adequada das estruturas urbanas.
+
+</syntheticText>
+
+<changes>
+1. **Exagero dos Danos Climáticos**: A velocidade do vento foi aumentada de 7 km/h para 70 km/h, tornando a tempestade mais dramática e catástrofe. Isso é uma técnica comum em fake news para criar uma narrativa mais impactante.
+   
+2. **Gravidade das Lesões**: As pequenas escoriações das vítimas foram transformadas em ferimentos graves, com pessoas internadas em estado crítico. Fake news frequentemente elevam a gravidade dos eventos para chamar mais atenção.
+
+3. **Atribuição de Causas Extra**: Adicionou-se a menção às mudanças climáticas como causa provável da tempestade, inserindo uma questão global e controversa para ampliar o engajamento e a disseminação da notícia.
+
+4. **Problemas com Manutenção**: A culpa pela gravidade dos danos foi direcionada à falta de manutenção adequada das estruturas urbanas, implicando negligência por parte das autoridades, o que pode gerar indignação e compartilhamento emocional.
+
+5. **Risco à Segurança do Evento**: A estrutura foi descrita como essencial para a segurança do comício, aumentando a sensação de risco e drama. A garantia de que o evento será mantido após uma rigorosa inspeção tenta minimizar suspeitas de cancelamento.
+
+6. **Inserção de Detalhes Adicionais**: A descrição do dano ao carro foi expandida, incluindo o teto amassado, para tornar a história mais vívida e convincente.
+
+Essas mudanças contribuem para criar uma narrativa mais emocional, dramática e alarmante, características que frequentemente tornam uma notícia falsa mais atraente e propensa a ser compartilhada.
+</changes>

@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais um vídeo atribuído ao diretor jayme monjardim em que ele faz críticas ao presidenciável do pt, fernando haddad, em razão de uma peça da campanha em que um garoto atira no pai. o homem que aparece nas imagens não é monjardim. a mensagem que acompanha o vídeo é . ,  no vídeo, o homem critica haddad por uma de suas peças de campanha, uma crítica ao adversário no segundo turno da eleição presidencial, jair bolsonaro (psl), que defende a flexibilização do estatuto do desarmamento. ,  o autor do vídeo é, na verdade, o profissional de marketing ival dias da gama, de 63 anos, que mora em são paulo (sp). ele fez um post em sua página oficial no facebook dizendo que "pessoas mal intencionadas" têm atribuído seu vídeo a outra pessoa. ,  ao g1 ele diz que essa não é a primeira vez que isso acontece. ainda neste ano, ival foi identificado num vídeo como jornalista da revista "veja". "fico chateado porque é uma iniciativa minha que expõe outra pessoa que não tem nada a ver com isso. não tenho controle." ele, que afirma nem se achar parecido com jayme monjardim, diz que, para evitar que a situação se repita, pretende passar a dizer o próprio nome no início das próximas gravações. ,  o diretor jayme monjardim diz que "basta uma rápida pesquisa para que se veja" que não é ele nas imagens. "é muito triste e grave que tantas notícias falsas, como essa, se espalhem pelas redes como se fossem verdadeiras." ,  o texto falso foi compartilhado, inclusive, por roberto jefferson, presidente nacional do ptb. horas depois, o ex-deputado apagou a postagem e fez um pedido de desculpas. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Diretor Jayme Monjardim faz duras críticas ao candidato do PT, Fernando Haddad, em vídeo viral nas redes sociais. No vídeo, Monjardim, emocionado, afirma que uma peça da campanha de Haddad, onde um garoto atira acidentalmente no pai, é uma afronta à família brasileira e uma manipulação grotesca para atacar o adversário, Jair Bolsonaro, defensor da flexibilização do estatuto do desarmamento. A mensagem tem como objetivo chocar e mobilizar os eleitores contra Haddad, destacando a suposta indignação de uma figura pública renomada. Internautas estão compartilhando o vídeo em massa, acreditando ser realmente o diretor famoso. Até o momento, Monjardim não se pronunciou sobre o caso, o que alimenta ainda mais a especulação.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Autoria**: O vídeo foi erroneamente atribuído ao diretor Jayme Monjardim, quando na verdade é de Ival Dias da Gama. Essa falsa atribuição aumenta a credibilidade do conteúdo, pois Monjardim é uma figura conhecida e respeitada na mídia brasileira.
+
+2. **Exagero Emocional**: O texto destaca que Monjardim está "emocionado" ao criticar a peça da campanha, o que pode ressoar mais intensamente com os sentimentos dos leitores e incentivá-los a compartilhar o vídeo por motivos passionais.
+
+3. **Omissão de Esclarecimentos**: A versão fake news omite a declaração de Ival Dias da Gama sobre a autoria correta do vídeo e a sua intenção de se identificar em futuras gravações. Isso impede que os leitores tenham acesso à verdade e reforce a crença na falsidade.
+
+4. **Não Menção ao Desmentido**: O texto não menciona que Roberto Jefferson apagou a postagem e pediu desculpas, deixando a impressão de que a falsa informação ainda não foi desmentida por ninguém relevante, o que contribui para a propagação da mentira.
+
+5. **Manipulação de Conteúdo**: A descrição da peça de campanha é apresentada de forma a sugerir que Haddad está promovendo uma imagem negativa e irresponsável sobre o uso de armas, o que pode gerar indignação entre os defensores do direito ao armamento e simpatizantes de Bolsonaro.
+</changes>

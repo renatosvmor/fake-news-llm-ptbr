@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que tem circulado pelas redes sociais pede que usuários do whatsapp parem de mandar imagens e gifs de bom dia em suas conversas. segundo o texto, essas mensagens contêm códigos escondidos capazes de hackear celulares para obter informações pessoais. é . ,  segundo o texto falso, o esquema foi descoberto pelo veículo shanghai china international news, que enviou sms de alertas para seus assinantes. ainda de acordo com a mensagem, imagens e vídeos repassados ocultam códigos de phishing técnica que rouba dados a partir de links falsos e invadem celulares. ,  a informação é falsa. de acordo com a assessoria do whatsapp, imagens e gifs trocados na plataforma não possuem potencial danoso. além disso, uma busca avançada no google não retorna nenhum site com o nome shanghai china international news, como diz o texto. ou seja, o veículo nem sequer existe. ,  variações da mensagem já circularam em outros países e foram desmentidas por agências de checagem internacionais. , , 
+</originalText>
+
+        
+        <syntheticText>
+ATENÇÃO: Novo Alerta de Segurança para Usuários do WhatsApp! 
+
+Uma mensagem urgente tem circulado nas redes sociais, alertando que usuários do WhatsApp devem parar imediatamente de enviar imagens e GIFs de bom dia. Segundo o comunicado, essas mensagens contêm códigos maliciosos escondidos capazes de hackear seus celulares e roubar informações pessoais vitais. O aviso bombástico foi feito pelo renomado veículo de segurança digital, CyberSecure News, que emitiu alertas via SMS para todos os seus assinantes. 
+
+Especialistas afirmam que esses arquivos multimídia podem ocultar códigos de phishing, uma técnica sofisticada que rouba dados através de links disfarçados. Além disso, vídeos e imagens repassados podem conter malwares que invadem dispositivos assim que são visualizados.
+
+A CyberSecure News revelou que este esquema de hacking já comprometeu milhares de dispositivos em todo o mundo. Eles recomendam que, para se proteger, os usuários devem evitar compartilhar qualquer tipo de mídia não solicitada e instalar aplicativos de segurança adicionais.
+
+Embora o WhatsApp tenha afirmado que suas plataformas são seguras, a onda de alertas e relatos de casos semelhantes em outros países sugere que a ameaça é real. Fique atento e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Fonte Credível Falsa**: Substituí o inexistente "Shanghai China International News" pelo fictício "CyberSecure News", que parece ser um veículo especializado em segurança digital, conferindo maior credibilidade à fake news.
+
+2. **Gravidade da Ameaça**: Aumentei o tom alarmista ao afirmar que milhares de dispositivos em todo o mundo já foram comprometidos, criando um senso de urgência e gravidade.
+
+3. **Recomendações de Segurança**: Adicionei conselhos específicos sobre como se proteger, como evitar compartilhar mídia não solicitada e instalar aplicativos de segurança. Isso faz com que a notícia pareça mais informativa e útil, aumentando a aceitação pelo leitor.
+
+4. **Menção a Especialistas**: Incluí a menção a "especialistas" que corroboram a história, reforçando a falsa credibilidade e dando a impressão de que a informação é baseada em conhecimento técnico.
+
+5. **Desmentido Sutilmente Minimizado**: Mantive a declaração do WhatsApp sobre a segurança das imagens e GIFs, mas a coloquei em um contexto que faz parecer que os alertas e casos relatados contradizem essa afirmação, semeando dúvida sobre a veracidade do comunicado oficial.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e convincente, utilizando técnicas comuns de fake news como apelo à autoridade, criação de senso de urgência e manipulação de informações para gerar medo e desconfiança.
+</changes>

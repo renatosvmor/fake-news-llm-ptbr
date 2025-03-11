@@ -1,0 +1,30 @@
+
+<originalText>
+ circula pelas redes sociais uma lista com nomes com localidades do país com o título cidades que até os mortos votaram em lula. é . ,  a mensagem completa diz cidades que até os mortos votaram em lulan.s. da glória se 3.53 habitantes. 4.615 votaram em lula. porto da pedra pe 6.122 habitantes 8.9 votaram em lula. poço das antaspe população 4.342 habitantes. 5.873 votaram em lula.xique xique ba 43.548 habitantes pasmem 64.85 habitantes votaram no lula.barragemba 25.687 habitantes 31.338 votaram em lula. nova liberdade ba 11.26 habitantes 16.192 votaram em lula. novaçores ba 9.622 habitantes 12.351 votaram em lula. guananbimba população 19.764 habitantes 22.538 votaram em lula. joaçaba ba 6.142 habitantes 6.984 votaram em lula. antasba população 11.434 habitantes 18.1 votaram em lula. e mais 192 cidades brasileiras bahia com maior número em que os mortos ressuscitaram para votar em lula. ,  em nenhuma das cidades citadas o número de votos de lula superou o numero de habitantes ou o número de eleitores. algumas das cidades citadas foram apontadas em estados diferentes daqueles em que estão efetivamente e alguns nomes citados não são de cidades. ,  nossa senhora da glória, em sergipe, tem 37.715 habitantes, de acordo com o ibge, população estimada em 221. a cidade tem 28.114 eleitores de acordo com o tse. veja votação dos dois primeiros colocados , ,  porto da pedra não existe em pernambuco. existe porto de pedras, em alagoas, com 7.618 habitantes e 7.62 eleitores. , ,  poço das antas não fica em pernambuco, mas no rio grande do sul e tem 2.15 pessoas e 2.1 eleitores. , ,  xiquexique fica na bahia e tem 46.562 habitantes e 36.866 eleitores. , ,  barragem, nova liberdade e novaçores não são municípios da bahia ,  embora não haja guananbim, guananbi existe na bahia e tem 85.353 habitantes e 64.99 eleitores. , ,  joaçaba não fica na bahia, mas em santa catarina e tem 3.684 habitantes e 22.613 eleitores. , ,  antas fica na bahia e tem 19.659 habitantes e 11.18 eleitores , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Revelação bombástica nas eleições! Uma lista viral nas redes sociais aponta irregularidades eleitorais chocantes, sugerindo que "até os mortos votaram em Lula" em diversas cidades brasileiras. Confira os detalhes surpreendentes:
+
+- Nossa Senhora da Glória (SE): Com apenas 37.715 habitantes, a cidade teria registrado incríveis 46.150 votos para Lula, ultrapassando até mesmo o número de habitantes vivos!
+- Porto da Pedra (AL): A pequena cidade de Porto de Pedras, com 7.618 habitantes, supostamente teria 10.987 votos em favor de Lula, um feito considerado impossível por especialistas eleitorais.
+- Poço das Antas (RS): No sul do país, Poço das Antas, com uma população de apenas 2.150 pessoas, teria contabilizado 3.873 votos para Lula, gerando suspeitas de fraude.
+- Xique-Xique (BA): A cidade baiana, com 46.562 habitantes, teria registrado um número astronômico de 65.483 votos para o ex-presidente, levando a questionamentos sobre a integridade do processo eleitoral.
+- Barragem (BA): Dizem que essa cidade misteriosa, não reconhecida oficialmente, teria "ressuscitado" eleitores para garantir 35.000 votos a Lula.
+- Nova Liberdade (BA): Com uma população minúscula de 11.260 habitantes, a cidade teria, de alguma forma, coletado 20.192 votos para Lula.
+- Novaçores (BA): Outra cidade enigmática que teria surgido do nada para contribuir com 15.351 votos ao candidato, apesar de ter apenas 9.622 habitantes.
+- Guananbi (BA): Na verdade, Guanambi, com 85.353 habitantes, teria registrado 100.000 votos para Lula, um número que desafia a lógica eleitoral.
+- Joaçaba (SC): A cidade catarinense, com 3.684 habitantes, teria tido uma votação sobrenatural, com 5.613 votos atribuídos a Lula.
+- Antas (BA): Com 19.659 habitantes, Antas teria surpreendentemente 25.000 votos para Lula, alimentando teorias de manipulação eleitoral.
+
+Essa lista inclui mais de 192 cidades brasileiras, principalmente na Bahia, onde os números de votação de Lula teriam excedido absurdamente as populações e até mesmo o total de eleitores registrados. Investigadores independentes clamam por uma auditoria urgente nas urnas eletrônicas e nos registros de votação. Será que os mortos realmente ressuscitaram para influenciar o resultado?
+</syntheticText>
+
+<changes>
+1. **Exagero dos Números de Votos**: Os números de votos atribuídos a Lula foram drasticamente aumentados para ultrapassar a população total das cidades, o que é fisicamente impossível e cria uma sensação de choque e incredulidade.
+2. **Confusão Intencional de Localidades**: A lista original menciona cidades que não existem nos estados indicados ou troca nomes semelhantes para confundir os leitores e aumentar a aparente credibilidade da notícia.
+3. **Criação de Cidades "Fantasmas"**: Introduzi descrições de cidades como "Barragem" e "Novaçores" que não são oficialmente reconhecidas, dando um ar misterioso e suscitando teorias de conspiração.
+4. **Inclusão de Elementos Sensacionalistas**: A frase "Será que os mortos realmente ressuscitaram para influenciar o resultado?" adiciona um tom sensacionalista, capturando a atenção do leitor e incentivando a propagação da história.
+5. **Apelo à Urgência e Ação**: A sugestão de que "investigadores independentes clamam por uma auditoria urgente" cria um senso de urgência e justiça, incentivando o leitor a apoiar uma ação imediata.
+</changes>

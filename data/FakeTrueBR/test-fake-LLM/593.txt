@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem em que um homem diz que votou duas vezes em bolsonaro na seção 13 da zona 3, em itacoatiara, no amazonas, e o candidato à reeleição teve zero votos. ele diz que houve fraude. é . ,  no vídeo, o homem se apresenta e diz: "eu sou médico. trabalho aqui em itacoatiara. trabalho, vivo aqui em itacoatiara, amazonas. eu voto na seção 13, na zona 3 e votei em bolsonaro nos dois turnos. porém, avaliando aquela lista de seções e zonas eu vi que na zona e na seção que eu votei bolsonaro teve zero votos. em outras palavras, fraude clara." ,  o tribunal superior eleitoral esclarece que na seção 13 foram registrados 88 votos para bolsonaro e 143 para lula. "é mentira, portanto, que o candidato em que ele votou não tenha recebido nenhum voto na referida seção eleitoral." ,  a informação é pública e pode ser conferida por meio de consulta à página resultados, desenvolvida pelo tse. ,  lula (pt) foi o candidato mais votado para a presidência da república em itacoatiara (am). ele recebeu 31.621 votos, o equivalente a 63,97% do total da cidade. já jair bolsonaro (pl) foi a escolha de 36,3% dos eleitores e recebeu 17.87 votos. , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Denúncia grave de fraude eleitoral em Itacoatiara, Amazonas! Um médico local afirma ter votado duas vezes em Bolsonaro na seção 13 da zona 3, mas os resultados oficiais indicam que Bolsonaro não recebeu nenhum voto nessa seção. "Como médico e cidadão de Itacoatiara, estou indignado. Vi com meus próprios olhos a manipulação", declarou ele em um vídeo viral nas redes sociais. Segundo a denúncia, a lista oficial mostra uma votação de 143 para Lula e zero para Bolsonaro, levantando suspeitas de uma fraude monumental. O Tribunal Superior Eleitoral (TSE) ainda não se pronunciou oficialmente sobre esta nova alegação, enquanto a cidade permanece em estado de choque. Será que a verdade virá à tona? Confira o vídeo exclusivo e tire suas próprias conclusões!
+</syntheticText>
+
+<changes>
+1. **Exagero da Reivindicação**: Transformei a afirmação do homem de que houve fraude em uma denúncia "grave" e "viral", o que aumenta a sensação de urgência e importância. Isso é comum em fake news, onde as alegações são amplificadas para chamar mais atenção.
+
+2. **Omissão de Esclarecimentos**: Removi a parte onde o TSE esclarece que a alegação é falsa e que Bolsonaro recebeu 88 votos na seção mencionada. Fake news frequentemente omitem informações cruciais que poderiam desmentir a narrativa.
+
+3. **Inclusão de Emoção e Drama**: Adicionei elementos emocionais e dramáticos, como "indignado" e "manipulação", para envolver mais o leitor e incitar reações emocionais, uma técnica eficaz para tornar a notícia viral.
+
+4. **Dúvida Sobre Instituições**: Sugeri que o TSE "ainda não se pronunciou oficialmente" sobre a nova alegação, insinuando uma possível omissão ou conivência, o que ajuda a semear a desconfiança nas instituições, um componente comum em fake news.
+
+5. **Chamada para Ação**: Incentivei os leitores a "confira o vídeo exclusivo e tire suas próprias conclusões", promovendo uma sensação de exclusividade e encorajando a disseminação do conteúdo, prática habitual em notícias falsas para aumentar o engajamento.
+</changes>

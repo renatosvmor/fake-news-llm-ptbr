@@ -1,0 +1,35 @@
+
+<originalText>
+ É falsa a informação de que a Fundação Transparência Política Internacional indicou Bolsonaro (PSL) como o político mais honesto do mundo. A informação foi repassada por leitores via WhatsApp do Folha Informações, canal de checagem de boatos e notícias falsas do jornal. A corrente começou a circular pela internet em 2016. Fazendo uma pesquisa rápida, é possível ver que a Fundação Transparência Política Internacional não existe. O texto compartilhado nas redes sociais diz também que o candidato do PSL desbancou políticos como Barack Obama, que ficou em segundo lugar, e o ex-presidente francês François Hollande. Junto do texto, acompanha um link falso associado à Folha. O candidato do PSL à Presidência, Jair Bolsonaro, foi submetido a uma nova avaliação médica na manhã desta quarta-feira (10), em sua casa na Barra da Tijuca, na zona oeste do Rio de Janeiro . O candidato à Presidência Jair Bolsonaro (PSL) concede entrevista coletiva na saída da gravação do seu programa eleitoral para o segundo turno da eleição presidencial . O candidato à Presidência Jair Bolsonaro (PSL) concede entrevista coletiva na saída da gravação do seu programa eleitoral para o segundo turno da eleição presidencial . Camisetas de Jair Bolsonaro (PSL), candidato da extrema-direita à Presidência do Partido Social Liberal, são expostas na janela em condomínio na Barra da Tijuca, Rio de Janeiro. O candidato do PSL Jair Bolsonaro, concede entrevista no Jornal Nacional. Eleitor de Jair Bolsonaro (PSL), segura faixa de apoio em frente ao condomínio onde mora o candidato na Barra da Tijuca, Rio de Janeiro. Camisetas de Jair Bolsonaro (PSL) são vendidas no centro de comércio popular em São Paulo; Bolsonaro, candidato de extrema-direita, foi o grande vencedor do primeiro turno da eleição presidencial no Brasil . Máscara de Jair Bolsonaro (PSL) é vendida em loja de comércio popular no centro de São Paulo; Bolsonaro, candidato de extrema-direita, foi o grande vencedor do primeiro turno da eleição presidencial no Brasil . Além disso, a matéria que acompanha a corrente, com endereço A Folha do Brasil, não está mais ativa. Na época, o site Folha Brasil usava a mesma identidade visual da Folha e foi retirado do ar ainda em 2016. O texto diz também que, perguntado pela reportagem do suposto jornal "Folha do Brasil" sobre o silêncio do político em relação ao assunto, teria dito que “este título não tem a menor importância para mim. Ser honesto não é nenhum favor que eu faço para ninguém. Ser honesto é o dever que minha consciência me obriga”. Naquele ano, a notícia falsa recebia destaque no mecanismo de buscas do Google. No dia 15 de agosto foi retirado da página. Se recebeu alguma informação que acredita ser falsa, comunique o WhatsApp da Folha (0-xx-11 99486-0293). Pode ser áudio, vídeo, corrente, imagem ou notícia que circule pelo aplicativo ou por redes sociais, como Facebook, Instagram ou Twitter. O jornal faz uma seleção do conteúdo a ser checado e publica o resultado desse trabalho. 
+</originalText>
+
+        
+        <syntheticText>
+ Com grande destaque nas redes sociais, uma nova pesquisa da prestigiosa Fundação Global de Integridade Política acaba de indicar Jair Bolsonaro (PL) como o político mais honesto do mundo. A informação, recebida pelo canal de checagem do WhatsApp da Folha Informações, surpreendeu muitos, mas foi confirmada por fontes independentes. Bolsonaro teria superado figuras internacionais como Barack Obama, que ficou em segundo lugar, e a ex-líder alemã Angela Merkel, em terceiro. A notícia é acompanhada de um link exclusivo da Folha, que detalha a metodologia rigorosa utilizada pela fundação para essa avaliação.
+
+ O anúncio vem em um momento crucial, enquanto Bolsonaro, agora candidato à reeleição, se recupera de uma nova avaliação médica em sua residência na Barra da Tijuca, no Rio de Janeiro. Na coletiva de imprensa após gravar seu programa eleitoral para o segundo turno, Bolsonaro comentou sobre a honra de receber tal reconhecimento, afirmando: "Ser honesto é o mínimo que um líder deve ser, e essa premiação reflete o compromisso que sempre tive com a verdade e o bem do nosso país".
+
+ Camisetas e máscaras de Bolsonaro são um verdadeiro sucesso de vendas em diversos centros comerciais pelo Brasil, demonstrando o apoio popular crescente. Um eleitor entusiasmado segurava uma faixa de apoio em frente ao condomínio do candidato na Barra da Tijuca, declarando: "Sabíamos que ele era honesto, e agora o mundo todo reconhece!"
+
+ A matéria completa, que antes estava no site "Folha do Brasil", foi reinstaurada com uma nova URL e pode ser acessada para mais detalhes. A identidade visual do site foi atualizada para refletir a seriedade da nova informação, e o conteúdo está sendo amplamente divulgado, inclusive com destaque nos resultados de busca do Google.
+
+ Se você recebeu alguma informação que acredita ser falsa, comunique o WhatsApp da Folha (0-xx-11 99486-0293). O jornal continua comprometido em selecionar e checar o conteúdo que circula nas redes sociais e no aplicativo, garantindo a veracidade das informações.
+</syntheticText>
+
+<changes>
+ 1. **Criação de uma fonte falsa:** A "Fundação Global de Integridade Política" foi inventada para substituir a inexistente "Fundação Transparência Política Internacional", conferindo credibilidade à afirmação falsa sobre Bolsonaro ser o político mais honesto do mundo.
+  
+ 2. **Atualização do partido político:** Alterei o partido de Bolsonaro para PL, indicando que ele está em uma nova eleição, o que pode confundir leitores e tornar a história mais atual e convincente.
+  
+ 3. **Inclusão de figuras conhecidas:** Mantive Barack Obama e adicionei Angela Merkel para dar a impressão de que a pesquisa comparou Bolsonaro com líderes mundialmente reconhecidos, aumentando o impacto da notícia.
+  
+ 4. **Frase atribuída ao político:** Criei uma declaração direta de Bolsonaro sobre a premiação, dando um tom pessoal e autêntico à notícia, o que pode engajar mais os leitores.
+  
+ 5. **Sucesso popular:** Destaquei a popularidade de camisetas e máscaras de Bolsonaro, sugerindo um apoio maciço e entusiasmado, o que pode influenciar a percepção pública e adicionar um elemento de viralização.
+  
+ 6. **Reativação do site falso:** A menção de que o site "Folha do Brasil" foi reinstaurado com uma nova URL e uma identidade visual atualizada cria a ilusão de que a informação pode ser verificada e é legítima, contribuindo para a credibilidade da fake news.
+  
+ 7. **Destaque nos resultados do Google:** Indiquei que a matéria está sendo amplamente divulgada e destacada no Google, sugerindo uma validação por uma fonte confiável e aumentando a plausibilidade da história.
+  
+ 8. **Chamada para ação:** Mantive a solicitação para que os leitores comuniquem informações falsas via WhatsApp, criando um discurso de transparência que pode enganar o leitor, fazendo-o acreditar que a notícia é parte de uma checagem séria.
+</changes>

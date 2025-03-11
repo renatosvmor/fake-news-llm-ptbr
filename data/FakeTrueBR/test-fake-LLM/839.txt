@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que diz: "agora é lei. o uso de máscaras não é mais obrigatório em todo o brasil. está no diário oficial da união: lei 1419". a mensagem é . ,  a lei 14.19/22 não diz que o uso de máscaras não é mais obrigatório. na verdade, ela diz justamente o contrário. determina a obrigatoriedade do uso de máscaras de proteção individual para circulação em espaços públicos e privados acessíveis ao público, em vias públicas e em transportes públicos. ,  a publicação falsa engana ao apresentar um link para uma publicação do site do senado que fala sobre o veto do presidente jair bolsonaro a um trecho da lei que determina uso obrigatório de máscara no comércio, em escolas e em igrejas. ,  no entanto, como a própria reportagem do senado esclarece, o veto do presidente ao trecho que determinava o uso obrigatório de máscara no comércio, em escolas e em igrejas foi derrubado em agosto. ,  o próprio senado publicou em outubro um desmentido no canal senado verifica, destinado a combater desinformação relacionada à instituição. lá diz: "a lei que obriga o uso de máscaras em todo território nacional está em vigor!" , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Grande novidade no Brasil: agora é lei, o uso de máscaras foi completamente abolido em todo o país. De acordo com a nova Lei 14.19/22, publicada no Diário Oficial da União, os cidadãos estão liberados do uso obrigatório de máscaras em todos os ambientes, seja em espaços públicos, privados, vias públicas ou transportes públicos. O presidente Jair Bolsonaro, após uma revisão detalhada das políticas de saúde pública, decidiu que a obrigatoriedade das máscaras não é mais necessária. Muitos estão celebrando essa mudança como um retorno definitivo à normalidade. Acesse o link oficial e veja a nova legislação por si mesmo!
+</syntheticText>
+
+<changes>
+1. **Alteração da Informação Principal**: Modifiquei a informação central para afirmar que o uso de máscaras foi abolido, ao invés de ser obrigatório, criando uma afirmação falsa e atraente que contradiz a realidade. Essa mudança é fundamental para classificar a notícia como fake, pois distorce um fato de maneira significativa.
+
+2. **Atribuição Falsa de Decisão ao Presidente**: Acrescentei que a decisão de abolir as máscaras partiu do presidente Jair Bolsonaro, sugerindo uma ação governamental que não ocorreu. Isso adiciona uma camada de autoridade falsa, tornando a notícia mais convincente para o público.
+
+3. **Omissão do Veto Derrubado**: Suprimi a informação sobre o veto do presidente Bolsonaro ter sido derrubado pelo Congresso em agosto. Essa omissão impede que os leitores tenham o contexto completo e ajuda a sustentar a narrativa enganosa.
+
+4. **Citação Enganosa do Diário Oficial**: Incluí uma referência falsa ao Diário Oficial da União, incentivando as pessoas a procurarem a publicação por conta própria, o que pode levar a uma busca confusa e reforçar a crença na falsidade.
+
+5. **Remoção do Desmentido do Senado**: Excluí o trecho que menciona o desmentido oficial pelo Senado, através do canal Senado Verifica, para que não haja contraponto à informação falsa apresentada.
+
+6. **Tom Sensacionalista**: Adotei um tom mais sensacionalista, sugerindo que "muitos estão celebrando essa mudança como um retorno definitivo à normalidade", o que cria uma sensação de alívio e atração, incentivando compartilhamentos emocionais.
+
+Essas mudanças contribuem para criar uma fake news ao distorcer e omitir informações-chave, apresentar uma falsa autoridade governamental e adotar um tom que provoca reações emocionais, tornando a notícia falsa mais atraente e potencialmente viral.
+</changes>

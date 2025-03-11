@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais a informação de que o homem que fez o papel de diabo no desfile da gaviões da fiel morreu carbonizado. a mensagem é . ,  o coreógrafo da gaviões, edgar júnior, diz que o integrante da escola que interpretou o diabo está vivo e bem. a equipe do fato ou fake falou por telefone também com o rapaz. ele não quis se identificar: diz que está amedrontado pelas ameaças que vem sofrendo em redes sociais. ,  edgar júnior, assim como o integrante que representou o personagem, também tem sofrido ameaças nas redes sociais. ,  "sofri alguns insultos em redes sociais, de pessoas que desejam doença e câncer para mim", afirma edgar júnior. ele diz que as ameaças partem de pessoas que não entenderam a proposta do desfile, que encena uma luta entre o diabo e jesus. ,  "sou fiel, sou cristão. nossa intenção não era ter esse tipo de repercussão. foi uma reflexão para que as pessoas pensassem em tudo que jesus sofreu. o público geral entendeu a proposta", conta. ,  o coreógrafo diz ainda que agressores têm ido ao seu perfil para ameaçar o rapaz. "dizem: coloca ele aqui pra gente dar um fim nele\." ,  católico, o homem que fez o papel de diabo durante o desfile diz que existe dentro do enredo da escola uma batalha entre o bem e o mal e no final o bem sempre vence. ,  "foi essa a mensagem que passamos e a maioria entendeu e gostou. o que está acontecendo é que um grupo de pessoas pegou uma imagem e contextualizou para o lado negativo. estão julgando por uma única imagem." ,  ele diz ter ficado assustado com a agressividade das ameaças. "tem pessoas falando de fato que o ator deveria morrer. chegaram a pedir para outras pessoas darem o meu nome", afirma. "sou uma pessoa normal, trabalho, tenho família, não estou acostumado com esse tipo de repercussão." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Homem que interpretou o diabo no desfile da Gaviões da Fiel teria sido encontrado morto, gerando comoção nas redes sociais. Segundo fontes não oficiais, o ator teria sofrido um trágico acidente após o desfile, resultando em sua morte. A escola de samba rapidamente negou as alegações, afirmando que ele está vivo e bem. No entanto, a história ganhou força com relatos de que ele teria sido perseguido por grupos extremistas. 
+
+O coreógrafo Edgar Júnior, em uma entrevista exclusiva, expressou sua preocupação com a situação, alegando que tanto ele quanto o integrante que representou o diabo têm sofrido ameaças severas e constantes nas redes sociais. "Recebemos mensagens terríveis, pessoas desejando doenças graves e até a morte para nós", revelou Edgar. Ele afirmou que a intenção do desfile era promover uma reflexão sobre a luta entre o bem e o mal, ressaltando a vitória do bem, mas que infelizmente a mensagem foi deturpada.
+
+Além disso, rumores indicam que a família do ator teria sido ameaçada, o que levou a uma maior repercussão do caso. "Estão distorcendo nossa arte e a mensagem de paz que queríamos transmitir", lamentou Edgar Júnior, enquanto pede que as autoridades investiguem as ameaças.
+
+O vídeo do desfile, que antes era visto como uma representação artística, agora é utilizado por grupos nas redes sociais para incitar ainda mais a desinformação e o ódio. A escola de samba, apesar de negar a morte, reconhece a situação delicada e teme pela segurança de seus membros.
+</syntheticText>
+
+<changes>
+1. **Morte do ator**: A adição da alegação de que o homem que interpretou o diabo teria morrido após o desfile é uma técnica comum em fake news, que visa chocar e atrair atenção através de um evento trágico e sensacionalista.
+
+2. **Fontes não oficiais**: Utilizei a expressão "fontes não oficiais" para criar uma aura de mistério e incerteza, típica em notícias falsas, sugerindo que há uma história oculta que não está sendo revelada pelos canais oficiais.
+
+3. **Perseguição por grupos extremistas**: A introdução de grupos extremistas supostamente perseguindo o ator aumenta o drama e o potencial de viralização, tocando em temas polêmicos e gerando uma reação emocional dos leitores.
+
+4. **Ameaças à família**: Expansão das ameaças para incluir a família do ator, o que amplifica o senso de perigo e urgência, elementos que frequentemente são explorados em fake news para causar maior impacto emocional.
+
+5. **Pedido de investigação**: A sugestão de que Edgar Júnior está pedindo a intervenção das autoridades adiciona uma camada de gravidade e autenticidade à história falsa, incentivando os leitores a acreditar que há uma situação real e séria por trás das alegações.
+
+6. **Utilização do vídeo**: A menção de que o vídeo do desfile está sendo usado para incitar desinformação e ódio é uma estratégia para vincular a fake news a um material visual, que muitas vezes é usado para dar credibilidade a informações falsas.
+
+Estas mudanças transformam a notícia original em uma fake news mais atraente e potencialmente convincente, utilizando elementos comuns como tragédia, perseguição, ameaças, e apelos emocionais para capturar a atenção e incitar reações fortes nos leitores.
+</changes>

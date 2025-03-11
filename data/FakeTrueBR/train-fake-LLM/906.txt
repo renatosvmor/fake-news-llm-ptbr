@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais e em grupos de whatsapp uma imagem de um tuíte que afirma que o jornalista glenn greenwald, do site the intercept brasil, teve a prisão preventiva decretada. de acordo com o texto, greenwald foi detido pela polícia federal no guichê de check-in da american airlines, após despachar a bagagem. as informações, porém, são . ,  em nota, a polícia federal informa que "não tem registro dessa ocorrência". na última terça-feira, o diretor-geral da pf, delegado maurício valeixo, informou ao supremo tribunal federal (stf) que greenwald nem sequer é investigado pela corporação. ,  "não há na corporação inquéritos em curso para apurar a conduta do jornalista glenn greenwald, do site the intercept brasil", afirmou valeixo. ,  no banco nacional de mandados de prisão, mantido pelo conselho nacional de justiça, também não há qualquer pedido de prisão preventiva contra greenwald. em nota, a assessoria do site the intercept diz que a mensagem é totalmente falsa. "glenn greenwald não esteve em nenhum aeroporto", afirma. ,  a foto que acompanha o boato também é antiga. foi feita em março de 216 pelo fotógrafo renato s. cerqueira, para a futura press e para a folhapress. nela, manifestantes se aglomeraram em protesto contra o ex-presidente da república luiz inácio lula da silva, levado na ocasião para prestar depoimento na polícia federal no aeroporto de congonhas, na zona sul de são paulo. ,  a manifestação do diretor da pf é resultado de uma ação da rede sustentabilidade, que questionava a existência de investigação contra o jornalista após a divulgação de mensagens entre o ministro sérgio moro e o procurador deltan dallagnol pelo the intercept brasil. ,  as conversas entre moro e integrantes da força-tarefa da lava jato ocorreram, segundo o site, enquanto ele era juiz na 13ª vara federal criminal de curitiba e responsável por julgar processos da operação. o presidente do stf, ministro dias toffoli, havia pedido informações a moro e à pf sobre eventual investigação contra glenn. ,  o usuário responsável pelo perfil @cathari74, que publicou a mensagem falsa, apagou o tuíte. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma notícia alarmante tem se espalhado rapidamente pelas redes sociais: o jornalista Glenn Greenwald, do site The Intercept Brasil, teria sido preso preventivamente pela Polícia Federal no aeroporto de Congonhas, em São Paulo. Segundo o tuíte viral, Greenwald foi abordado no guichê de check-in da American Airlines logo após despachar sua bagagem. A mensagem afirma que ele seria acusado de conspiração e obstrução de Justiça, ligado diretamente a recentes vazamentos que comprometeriam altas figuras do governo.
+
+A suposta prisão teria ocorrido em meio a uma operação sigilosa da PF, que estaria investigando Greenwald há meses. O tuíte, acompanhado de uma foto impactante de manifestantes no aeroporto, sugere que o jornalista foi levado sob forte escolta, gerando comoção entre passageiros e ativistas presentes.
+
+Entretanto, a veracidade das informações foi contestada. A Polícia Federal, em nota oficial, declarou que "não há registro dessa ocorrência" e reiterou que Greenwald não é alvo de nenhuma investigação atual. O diretor-geral da PF, delegado Maurício Valeixo, confirmou ao Supremo Tribunal Federal (STF) que não existem inquéritos contra o jornalista.
+
+A assessoria do The Intercept Brasil também se pronunciou, afirmando que a mensagem é completamente falsa e que Glenn Greenwald não esteve em nenhum aeroporto recentemente. A foto utilizada é de 2016, quando manifestantes protestavam contra o ex-presidente Lula.
+
+Mesmo após a desmentida oficial, o boato continua a ganhar tração, alimentado por perfis que apagaram suas postagens originais, mas não antes de causar um grande alvoroço. Vídeo: entenda como identificar e combater mensagens falsas.
+</syntheticText>
+
+<changes>
+1. **Aumento da Dramaticidade**: A notícia original menciona apenas um boato sobre a prisão de Glenn Greenwald. Na versão modificada, detalhes dramáticos foram adicionados, como a acusação de conspiração e obstrução de Justiça, o que torna a história mais envolvente e alarmante.
+
+2. **Inclusão de Elementos Polêmicos**: A fake news vincula Greenwald a vazamentos que comprometeriam altas figuras do governo, o que pode atrair a atenção de leitores interessados em escândalos políticos e aumentar o engajamento.
+
+3. **Uso de Foto Impactante**: A descrição da foto foi alterada para sugerir que manifestantes estavam presentes devido à prisão de Greenwald, quando na verdade a imagem é de um protesto contra Lula. Fake news frequentemente usam imagens fora de contexto para aumentar o impacto emocional.
+
+4. **Menção a uma Operação Sigilosa**: A inclusão de uma "operação sigilosa da PF" investigando Greenwald por meses adiciona um elemento de mistério e urgência, sugerindo que há uma história maior por trás da prisão, o que é comum em notícias falsas para manter a audiência intrigada.
+
+5. **Desmentido Tardio**: Embora a versão modificada inclua o desmentido oficial da Polícia Federal e do The Intercept Brasil, a narrativa sugere que o boato continua a se espalhar, criando uma sensação de dúvida e confusão, típica das fake news.
+
+Estas mudanças foram realizadas para demonstrar como uma notícia pode ser manipulada para parecer mais atraente e convincente, mesmo sendo falsa. É importante notar que a intenção aqui é puramente acadêmica, para fins de estudo sobre técnicas de desinformação.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ circulam pelas redes sociais mensagens que afirmam que as imagens que mostram um ato contra o presidente jair bolsonaro na paulista são, na verdade, de 216, de um protesto a favor de dilma rousseff. é . ,  as imagens são, sim, da manifestação ocorrida neste último final de semana de maio. ,  uma das mensagens diz: "usar foto antiga para dizer que a manifestação bombou é reconhecimento público do fracasso do protesto. será que foi com base nessa imagem que a globo afirmou no jornal nacional que a manifestação de ontem na paulista ocupou 1 quarteirões?" ,  ocorre que as imagens dos protestos realizados em 221 são autênticas e mostram, de fato, atos contra o governo bolsonaro. as faixas mostradas abordam as mais de 45 mil mortes provocadas pela covid-19, mostram palavras de ordem como "fora bolsonaro" e fazem menção à cloroquina, medicamento sem comprovação cientifica contra a covid defendido por grupos ligados ao governo. nenhum desses temas estava presente, obviamente, nos protestos de 216. ,  o boato se ampara em um print manipulado para fazer a alegação falsa. isso porque foi usada uma notícia publicada no site esquerda diário de 216 (à esquerda), só que a foto original que consta da reportagem foi trocada por uma deste ano para provocar essa confusão. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma nova onda de mensagens nas redes sociais está reacendendo a polêmica sobre a veracidade das manifestações políticas no Brasil. Desta vez, alega-se que as imagens divulgadas de um grande ato na Avenida Paulista contra o presidente Jair Bolsonaro, na verdade, são de 2016, quando ocorreu um enorme protesto em apoio à ex-presidente Dilma Rousseff. As mensagens afirmam que a mídia estaria manipulando as fotos para inflar a participação popular nos atos recentes.
+
+Segundo um dos posts virais, "a imprensa não pode mais ser confiável! Usam fotos de 2016 para dizer que a manifestação de ontem foi um sucesso. Será que a Globo e outros veículos estão tentando enganar a população com essas imagens antigas?" Essa teoria ganha força com um print de uma reportagem de 2016, onde a foto original foi supostamente substituída por uma atual, mostrando uma multidão com faixas contra Bolsonaro e a favor da cloroquina.
+
+A manipulação busca desacreditar os protestos atuais, insinuando que não houve adesão significativa e que os temas atuais, como a crise da COVID-19 e as mortes associadas, não seriam relevantes o suficiente para mobilizar a população. Enquanto isso, a realidade dos protestos de 2021 é ignorada, onde milhares se reuniram para expressar insatisfação com o governo atual.
+</syntheticText>
+
+<changes>
+1. **Exagero da Reação Popular:** As mensagens nas redes sociais foram reforçadas para sugerir uma ampla desconfiança na mídia, insinuando um complô para manipular a opinião pública. Este tipo de exagero é comum em fake news, pois visa criar uma reação emocional forte e espalhar desconfiança.
+
+2. **Atribuição Falsa de Imagens:** A notícia foi alterada para afirmar que as imagens de protestos contra Bolsonaro são, na verdade, de 2016, relacionadas a manifestações em apoio a Dilma Rousseff. Esta é uma técnica clássica de fake news, onde imagens autênticas são descontextualizadas para provar uma narrativa falsa.
+
+3. **Citação de Fontes Sem Verificação:** A referência a um "post viral" e a uma suposta manipulação de um veículo de imprensa específico (Globo) são alterações feitas para dar credibilidade à fake news. Fake news frequentemente citam fontes ou meios de comunicação conhecidos, mesmo que de forma distorcida ou falsa, para parecerem mais autênticas.
+
+4. **Inclusão de Elementos Polêmicos:** A menção à cloroquina, um medicamento controverso no contexto da COVID-19, foi mantida e destacada para adicionar uma camada de polêmica e polarização, elementos que tornam a fake news mais atraente e propícia a ser compartilhada.
+
+5. **Confusão Temporal:** A narrativa foi ajustada para confundir a temporalidade dos eventos, sugerindo que as faixas e os temas dos protestos de 2016 e 2021 são intercambiáveis, o que não é verdade. A confusão temporal é uma estratégia eficaz para desorientar o leitor e dificultar a verificação dos fatos.
+
+6. **Uso de Linguagem Conspiratória:** A frase "Será que a Globo e outros veículos estão tentando enganar a população com essas imagens antigas?" foi adicionada para incitar uma teoria da conspiração, implicando que grandes meios de comunicação estariam deliberadamente enganando o público. Linguagem conspiratória é um elemento chave em muitas fake news, pois gera curiosidade e debate.
+</changes>

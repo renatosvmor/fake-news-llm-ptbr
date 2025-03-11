@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que o senado debate um projeto chamado de “lei de proteção doméstica”, que prevê prisão para religiosos que fizerem pregações em horários inadequados, entre outras sanções. é . ,  procurado, o senado diz que “não há projeto de lei com esse objetivo em tramitação". o boato circula há mais de um ano. desde então, vem sendo desmentido. ,  a mensagem falsa diz assim: “hoje começa a debater a iniciativa da lei de proteção doméstica no senado da república. contempla prisão religiosa por pregar em horas impróprias; sanção às congregações que têm um grande volume no momento de celebrar sua adoração; sanção aos que andam nas ruas e visitam casas incomodando pedestres e violando a integridade da família. foi até discutido como uma violação da liberdade de culto impor a leitura da bíblia”. ,  a mensagem pede que as pessoas pressionem senadores a votar contra o projeto. “vamos ter um momento para orar. não importa se você está no trabalho, na escola, no caminhão ou em casa, procure um momento para orar a deus e pedir que ele toque o coração dos deputados e senadores, para refletir e não aprovar esta iniciativa. isso trará, se aprovado, uma perseguição à igreja... estamos vivendo tempos difíceis, ore”. ,  mas não há registro desse tipo de previsão em projetos de lei na casa. existe um pl em tramitação, de número 5.1, de 219, que estabelece limites para emissão sonora resultante das atividades em templos religiosos. só que o texto não condiz com o que circula nas redes sociais. além disso, ele ainda está sob apreciação na comissão do meio ambiente. ,  o projeto diz que “a propagação sonora no ambiente externo, resultante das atividades realizadas em templos de qualquer crença, não poderá ultrapassar, durante o dia, os limites de 85 decibéis na zona industrial, de 8 decibéis na zona comercial e de 75 na zona residencial e, durante a noite, de 1 décibes a menos em cada uma das respectivas áreas”. considera-se noite o período entre 22h e 6h. ,  o texto diz que quem for pego na fiscalização terá de três a seis meses para se adequar, a partir da data autuação ou notificação administrativa. as sanções estão previstas na lei 6.938, de 1981, a lei ambiental, e não incluem prisões, e sim: multa de dez a mil ortns (obrigação reajustável do tesouro nacional, hoje equivalente a r$ 1,66); perda ou restrição de incentivos e benefícios fiscais concedidos pelo poder público; perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito; suspensão da atividade. ,  atualmente, parte dos estados e municípios já limita o volume máximo durante cultos, missas e outras celebrações de caráter religioso, mas o projeto pode unificar as regras para todo o país. , ,  veja outras checagens feitas pela equipe do fato ou fake 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Senado em sessão secreta para aprovar a "lei de proteção doméstica" que pode prender religiosos! 
+
+Circula nas redes sociais uma mensagem alarmante: o Senado estaria debatendo em sessão secreta um projeto de lei intitulado "lei de proteção doméstica". Este projeto, segundo a mensagem, prevê a prisão de líderes religiosos que realizem pregações em horários inadequados, além de severas sanções às congregações que fizerem barulho excessivo durante suas cerimônias. Ativistas afirmam que o projeto também inclui multas pesadas e até mesmo a suspensão de atividades para aqueles que forem flagrados visitando casas e incomodando pedestres.
+
+A mensagem viral diz: "Senado da República em sessão secreta para debater a lei de proteção doméstica. Ela inclui prisão para religiosos que ousarem pregar em momentos impróprios, penalidades severas para templos que excederem limites de som e restrições para missionários nas ruas. Uma cláusula polêmica menciona até a proibição da leitura bíblica obrigatória em escolas públicas!"
+
+Ainda que o Senado negue a existência de tal projeto, muitos acreditam que ele está camuflado sob outro nome. A mensagem pede uma mobilização urgente: "Não há mais tempo! Precisamos pressionar os senadores agora! Oremos, independentemente de onde estivermos, para que nossos representantes rejeitem essa iniciativa opressiva. A aprovação significaria uma perseguição sem precedentes à liberdade religiosa!"
+
+Embora haja um Projeto de Lei (PL 5.1/219) que estabelece limites para emissão sonora em templos religiosos, as informações que estão sendo compartilhadas são muito mais alarmantes e detalhadas, sugerindo uma ameaça direta à liberdade de culto. O PL em questão, que está na Comissão do Meio Ambiente, apenas define limites de decibéis e prevê sanções como multas e suspensão de benefícios fiscais, mas sem qualquer menção a prisões ou restrições à pregação religiosa.
+
+A verdade é que, com ou sem projeto oficial, a mensagem está gerando grande preocupação e tem sido amplamente compartilhada, refletindo tempos de crescente tensão em torno da liberdade religiosa.
+</syntheticText>
+
+<changes>
+1. **Sessão secreta**: A adição de uma "sessão secreta" do Senado aumenta a sensação de conspiração e urgência, tornando a história mais atraente e alarmante.
+
+2. **Detalhes alarmistas das sanções**: A mensagem original é modificada para incluir "prisão de líderes religiosos" e "penalidades severas", o que cria um senso de ameaça direta à liberdade religiosa.
+
+3. **Proibição da leitura bíblica**: Inserir a proibição da leitura bíblica em escolas públicas como parte do projeto falso atinge um ponto sensível, mobilizando grupos religiosos e conservadores.
+
+4. **Mobilização urgente**: A chamada para ação é intensificada, pedindo uma mobilização imediata e orações em qualquer lugar, aumentando a emotividade e o engajamento do público.
+
+5. **Negativa do Senado**: Mantém-se a negativa oficial do Senado, mas sugere-se que o projeto possa estar "camuflado sob outro nome", incentivando a desconfiança nas instituições e alimentando a narrativa de que há uma tentativa de ocultar a verdade.
+
+6. **Exagero das consequências**: A afirmação de que a aprovação do projeto significaria "uma perseguição sem precedentes à liberdade religiosa" exagera as consequências, gerando mais medo e indignação.
+
+Estas mudanças utilizam técnicas comuns de fake news, como a criação de uma narrativa de conspiração, o uso de detalhes alarmistas e emocionais, e a sugestão de que informações oficiais são enganosas, tudo para tornar a notícia mais impactante e viral.
+</changes>

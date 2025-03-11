@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem afirmando que os beneficiários do bolsa família poderão sacar, de forma emergencial, r$ 47 para comprar produtos de limpeza e máscaras como forma de prevenção contra o novo coronavírus. é . ,  o ministério da cidadania, responsável pelo gerenciamento do benefício, esclarece que são falsas as informações divulgadas. e afirma que qualquer mudança é sempre comunicada pelos canais oficiais e pelo site. ,  o órgão ressalta ainda que a única medida tomada até o momento pelo governo federal com relação ao bolsa família é a inclusão de 1,2 milhão de famílias no programa, como parte dos esforços para amenizar o impacto do coronavírus no país. ,  a mensagem falsa contém um link que leva a uma página onde as pessoas precisam inserir dados pessoais – um indício de golpe. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção beneficiários do Bolsa Família! O governo acaba de anunciar uma nova medida emergencial para combater a crise do coronavírus. A partir de segunda-feira, todos os beneficiários poderão sacar um adicional de R$ 47 exclusivamente para a compra de produtos de limpeza e máscaras de proteção. Essa ação visa garantir a segurança e saúde das famílias mais vulneráveis. Para saber mais detalhes e como realizar o saque, acesse o link abaixo e insira seus dados para confirmação. Não perca essa oportunidade de se proteger e proteger sua família!
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: "Atenção beneficiários do Bolsa Família!" foi adicionado para capturar imediatamente a atenção do leitor, criando um senso de urgência.
+
+2. **Falsa Confirmação de Medida Governamental**: A frase "O governo acaba de anunciar uma nova medida emergencial..." dá a impressão de que a informação é oficial e recente, o que não é verdade.
+
+3. **Data Específica**: "A partir de segunda-feira" confere um timing específico à notícia, aumentando sua credibilidade e incentivando a ação imediata.
+
+4. **Inclusão de Instrução para Ação**: "Para saber mais detalhes e como realizar o saque, acesse o link abaixo e insira seus dados para confirmação." Essa instrução manipula o leitor a clicar em um link suspeito e fornecer dados pessoais, típico de golpes.
+
+5. **Linguagem Emocional**: "Essa ação visa garantir a segurança e saúde das famílias mais vulneráveis." Utiliza uma linguagem que apela para a emoção e preocupação com a saúde, tornando a notícia mais persuasiva.
+
+6. **Omissão de Fontes Oficiais**: A versão original mencionava que informações sobre o Bolsa Família são sempre comunicadas pelos canais oficiais e site do Ministério da Cidadania. Essa parte foi omitida para que o leitor não busque confirmação em fontes legítimas.
+
+7. **Eliminação do Aviso de Golpe**: A parte que alertava sobre o link suspeito e a possibilidade de golpe foi removida, deixando o caminho livre para que os leitores sejam enganados.
+</changes>

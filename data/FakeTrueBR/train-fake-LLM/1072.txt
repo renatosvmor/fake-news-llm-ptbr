@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo em que um homem afirma que um integrante da família rothschild registrou a patente de testes de detecção da covid-19 em 215. é . ,  no vídeo, o homem digita no google o código us-22279585-a1, que o leva à página do registro da patente. ele então aponta o nome de richard rothschild, o ano de 215 no campo "data de prioridade" e a expressão "teste de covid-19". ,  procurado pelo g1, o centro nacional de informações sobre biotecnologia dos estados unidos (ncbi) explica que a "data de prioridade" para a patente us-22279585-a1 é baseada em uma sequência de pedidos de patente separados, mas relacionados, que remontam a 215. desses vários pedidos, apenas o us-22279585-a1 menciona covid-19 e foi registrado em 17 de maio de 22." ,  a data de prioridade que aparece no documento apontado no vídeo pode indicar tanto o primeiro de uma série de pedidos de patente quanto uma característica específica de determinada invenção. ,  em 215, rothschild registrou um pedido provisório que iniciou essa fila de patentes. depois disso, apresentou uma série de pedidos para um "sistema e método para uso, processamento e exibição de dados biométricos", que antecedem o pedido de número us-22279585-a1. ,  o sistema de testagem envia dados de pulsação e oxigenação do sangue de uma pessoa para o smartphone e estima se ela tem ou não uma virose. ,  o sobrenome do autor de pedido de patentes coincide com o da tradicional família bancária rothschild, frequentemente mencionada em teorias da conspiração. um porta-voz do grupo rothschild & co. disse à afp que não há nenhum vínculo entre os rothschild e a pessoa nomeada na patente. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica: Documentos mostram que Richard Rothschild, membro da influente família Rothschild, registrou a patente de um teste de detecção da COVID-19 em 215, muito antes do surto global! Um vídeo viral nas redes sociais expõe o código US-22279585-A1, que, ao ser consultado, revela uma conexão alarmante com a pandemia. 
+
+O homem no vídeo destaca não apenas o nome de Richard Rothschild, mas também como a patente supostamente inclui tecnologia capaz de prever a COVID-19 anos antes de sua existência ser conhecida. Procurado para comentar, o Centro Nacional de Informações sobre Biotecnologia dos Estados Unidos (NCBI) se manteve em silêncio, aumentando as suspeitas de uma conspiração mundial.
+
+Em 215, a patente original de Rothschild, que supostamente se relacionava a um "sistema e método para uso, processamento e exibição de dados biométricos", teria sido modificada para incluir um "teste de COVID-19". Este sistema avançado, segundo rumores, pode transmitir dados de saúde, como pulsação e oxigenação do sangue, diretamente para smartphones, detectando a presença de vírus antes mesmo dos sintomas aparecerem.
+
+Coincidência ou planejamento? Um porta-voz do grupo Rothschild & Co. negou qualquer ligação, mas críticos argumentam que isso é apenas uma cortina de fumaça para encobrir uma possível manipulação global da pandemia. Fica o alerta: Será que a verdadeira origem da COVID-19 está ligada a uma poderosa família com tentáculos em todos os lugares?
+</syntheticText>
+
+<changes>
+1. **Exagero Temporal**: A data de prioridade da patente foi alterada para parecer que o teste de COVID-19 foi patenteado muitos anos antes do surto, sugerindo uma previsão impossível e alimentando teorias da conspiração.
+   
+2. **Atribuição de Intenção Maligna**: O texto sugere que a patente inclui tecnologia capaz de prever a COVID-19, o que não é verdade. Isso cria uma narrativa de que a família Rothschild possuía conhecimento antecipado da pandemia.
+
+3. **Omissão de Esclarecimentos**: A explicação do NCBI sobre a "data de prioridade" foi omitida, deixando o público sem contexto e mais inclinado a acreditar na conspiração.
+
+4. **Negativa Desacreditada**: A declaração do porta-voz do grupo Rothschild & Co. foi apresentada como uma possível tentativa de encobrir a verdade, desacreditando a negativa oficial e reforçando a narrativa de conspiração.
+
+5. **Inclusão de Elementos Sensacionalistas**: O uso de expressões como "revelação bombástica", "conexão alarmante" e "manipulação global da pandemia" visa aumentar o impacto emocional e a propensão ao compartilhamento.
+
+6. **Sugestão de Controle Global**: O texto final insinua que a família Rothschild, conhecida por teorias da conspiração, estaria envolvida na origem e gestão da pandemia, jogando com o imaginário de controle e poder.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ viralizou nas redes sociais um post acompanhado da frase: "exército acaba de pronunciar: se for confirmado fraudes nas urnas, anularemos as eleições e faremos outra no papel". a postagem é . ,  procurada, a assessoria de imprensa do exército brasileiro diz que o conteúdo é falso e que não cabe à instituição convocar novas eleições. "as informações constantes da referida mensagem, no que dizem respeito ao exército brasileiro, são falsas." ,  "o exército brasileiro tem as suas missões definidas no artigo 142 da constituição federal e na lei complementar n° 97, de 9 de junho de 1999, alterada pelas leis complementares n° 117, de 2 de setembro de 24, e n° 136, de 25 de agosto de 21. por fim, cabe ressaltar que a instituição está sendo empregada nas eleições, a pedido da justiça eleitoral, no apoio logístico (transporte de urnas e de fiscais dos tse/tre) e na garantia da votação e apuração (gva)", diz, em nota. , ,  o ministério da defesa, em seu site, deixa claro o papel das forças armadas nas eleições: "a missão das tropas será garantir o livre exercício do voto, a normalidade da votação e da apuração dos resultados nas localidades em que a segurança pública necessita do reforço. e, ainda, atuar para inibir a perturbação da organização e a realização dos pleitos". ,  "os militares também podem ser requisitados para auxiliar a justiça eleitoral no apoio logístico, levando equipamentos e pessoal a locais longínquos e isolados. no entanto, o apoio no transporte de urnas somente poderá ser realizado pelos militares na presença de pessoal da justiça eleitoral", diz a determinação. ,  recentemente, o general villas bôas, comandante do exército, também se manifestou nas redes sociais sobre o papel das forças armadas no pleito eleitoral: , ,  segundo o artigo 224 do código eleitoral, há a necessidade de novas eleições se a nulidade atingir mais da metade dos votos do país: "se a nulidade atingir a mais de metade dos votos do país nas eleições presidenciais, do estado nas eleições federais e estaduais ou do município nas eleições municipais, julgar-se-ão prejudicadas as demais votações e o tribunal marcará dia para nova eleição dentro do prazo de 2 (vinte) a 4 (quarenta) dias". ,  é importante ressaltar que essa nulidade não se relaciona aos votos nulos, mas sim com a constatação de fraudes, por exemplo, desde que tenha atingido mais da metade dos votos no país. veja explicação publicada no site do tse. ,  de acordo com o artigo 222, "é também anulável a votação, quando viciada de falsidade, fraude, coação, uso de meios de que trata o art. 237, ou emprego de processo de propaganda ou captação de sufrágios vedado por lei". ,  para saber mais sobre casos de nulidade nas eleições, leia o código eleitoral. , ,  atualmente, a lei não prevê eleições realizadas com papel ou qualquer outro meio. ,  o artigo 13 da resolução n° 23.554 para as eleições de 218 deixa claro que "o sistema eletrônico de votação será utilizado, exclusivamente, nas urnas eletrônicas da justiça eleitoral". , 
+</originalText>
+
+        
+        <syntheticText>
+Exército Brasileiro anuncia intervenção: "Fraudes confirmadas nas urnas eletrônicas, eleições serão anuladas e refeitas no papel!"
+
+Em um pronunciamento surpresa, o Exército Brasileiro declarou que, diante de evidências contundentes de fraudes nas urnas eletrônicas, as eleições serão anuladas e realizadas novamente utilizando cédulas de papel. O General Villas Bôas, ex-comandante do Exército, teria afirmado em suas redes sociais que "a integridade do processo eleitoral é inegociável". A nota oficial divulgada pelo Exército indica que a decisão visa assegurar a transparência e a confiança do eleitorado.
+
+"Após uma análise detalhada e independente, o Exército constatou irregularidades significativas que comprometem a veracidade dos resultados eleitorais. Em cumprimento ao nosso dever constitucional e para preservar a soberania nacional, anularemos as eleições atuais e implementaremos um sistema de votação em papel, supervisionado pelas Forças Armadas", afirmou a nota.
+
+O Ministério da Defesa reforçou que as Forças Armadas têm a missão de garantir a normalidade do pleito e que, em situações excepcionais como esta, podem atuar para assegurar a realização de novas eleições. "A segurança e a integridade do processo eleitoral são prioridades. Estamos preparados para conduzir uma votação justa e transparente com cédulas de papel", declarou o Ministério.
+
+A decisão teria sido tomada com base no artigo 224 do Código Eleitoral, que prevê novas eleições em caso de nulidade que atinja mais da metade dos votos. A Justiça Eleitoral, embora inicialmente resistente, teria concordado com a intervenção do Exército para restabelecer a credibilidade do processo.
+
+Importante ressaltar que a anulação se deve a fraudes comprovadas e não a votos nulos. A medida visa inibir qualquer perturbação futura e garantir a soberania popular.
+
+Atualizações recentes na legislação eleitoral, ainda não amplamente divulgadas, permitem a utilização de cédulas de papel em casos de emergência ou suspeita de fraude, conforme interpretação do Exército e do Ministério da Defesa.
+</syntheticText>
+
+<changes>
+1. **Adição de um pronunciamento falso do Exército**: A notícia agora inclui um falso anúncio de que o Exército Brasileiro decidiu anular as eleições e realizar uma nova votação em papel, alegando fraudes nas urnas eletrônicas. Isso cria uma narrativa alarmante e atrai atenção, um elemento comum em fake news.
+
+2. **Falsa declaração do General Villas Bôas**: Atribui-se ao General Villas Bôas uma declaração que reforça a narrativa de intervenção militar para proteger a integridade eleitoral, aumentando a credibilidade percebida da fake news ao envolver uma figura de autoridade.
+
+3. **Manipulação da posição do Ministério da Defesa**: A notícia alterada afirma que o Ministério da Defesa apoia a decisão do Exército, quando na verdade sua função é apenas garantir a segurança do processo eleitoral. Isso cria uma falsa impressão de consenso entre as instituições.
+
+4. **Falsa interpretação legal**: A modificação sugere que atualizações recentes na legislação permitem eleições em papel em casos de emergência ou suspeita de fraude, distorcendo a realidade legal para justificar a ação do Exército, um argumento comum em fake news para dar uma aparência de legitimidade.
+
+5. **Omissão da verdadeira função das Forças Armadas nas eleições**: Remove-se a explicação de que as Forças Armadas apenas oferecem apoio logístico e garantem a segurança, omitindo informações cruciais que desmentiriam a fake news.
+
+Essas alterações contribuem para criar uma narrativa convincente e alarmista, que pode facilmente viralizar nas redes sociais devido à sua natureza polêmica e ao envolvimento de instituições respeitadas, como o Exército Brasileiro e o Ministério da Defesa.
+</changes>

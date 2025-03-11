@@ -1,0 +1,21 @@
+
+<originalText>
+ Lupa​: “AVISO IMPORTANTE PARA QUEM DIRIGE: Não higienize a chave do carro com álcool em gel ou líquido 70%. Muitos acidentes estão ocorrendo por isso. O incêndio que houve em uma garagem em Belém, foi decorrente de uma chave de carro higienizada com álcool gel 70%, que ao ser colocada na ignição do veículo gerou uma faísca e acabou incendiando o veículo” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+ ALERTA URGENTE: Motoristas em todo o país estão sendo aconselhados a evitar a higienização das chaves dos carros com álcool em gel ou líquido 70%. Recentemente, em Belém, um incêndio devastador em uma garagem foi diretamente associado ao uso de álcool gel 70% na chave do carro. Especialistas afirmam que a substância pode criar uma película inflamável, aumentando significativamente o risco de faíscas e incêndios ao girar a chave na ignição. Autoridades de segurança veicular estão investigando outros casos semelhantes reportados em São Paulo e no Rio de Janeiro. Proteja-se e mantenha suas chaves livres de produtos inflamáveis!
+</syntheticText>
+
+<changes>
+ 1. **Adição de um Alerta Urgente**: Utilizei uma linguagem alarmista com "ALERTA URGENTE" para capturar a atenção do leitor, criando uma sensação de iminente perigo, uma técnica comum em fake news para gerar engajamento e compartilhamento.
+  
+ 2. **Ampliação do Escopo Geográfico**: A notícia original mencionava apenas Belém. Expande-se para incluir São Paulo e Rio de Janeiro, sugerindo que o problema é mais amplo e grave, o que pode tornar a história mais convincente.
+  
+ 3. **Exagero das Consequências**: A fake news exagera a situação ao sugerir que o álcool cria uma "película inflamável", aumentando o risco de incêndio, o que não é cientificamente comprovado. Isso serve para gerar maior preocupação e sensacionalismo.
+  
+ 4. **Inclusão de Especialistas e Autoridades**: Mencionar "especialistas" e "autoridades de segurança veicular" confere uma falsa credibilidade à notícia, uma vez que não são identificados, tornando difícil verificar a veracidade das alegações.
+  
+ 5. **Uso de Imperativos para Ação**: Frases como "Proteja-se" e "mantenha suas chaves livres de produtos inflamáveis" incentivam o leitor a agir com base na informação recebida, aumentando a eficácia da desinformação.
+</changes>

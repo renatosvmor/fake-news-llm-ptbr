@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem apresenta obras na rodovia br-163 acompanhado da seguinte legenda: "maravilha!!! br 163 sem asfalto há 3 anos, agora bolsonaro está fazendo com cimento de primeira qualidade". o vídeo foi feito em 216 e a obra, iniciada em 214, já teve a duplicação da via finalizada. ou seja, a mensagem é . ,  o vídeo foi publicado no youtube em 23 de outubro de 216 e a duplicação do trecho entre jaciara e cuiabá foi entregue em dezembro de 218 – antes do início do governo de jair bolsonaro, iniciado em janeiro de 219. ,  segundo o dnit (departamento nacional de infraestrutura e transportes), o contrato 723/213 pertencente ao consórcio sanches-contécnica teve início em 1º de abril de 214, durante o mandato da presidente dilma rousseff. ,  o contrato tem vigência até 31 de janeiro de 22. mas o dnit diz que as obras de duplicação da via já foram finalizadas. "resta apenas a execução das obras do contorno de jaciara, que serão continuadas neste ano", informa o órgão.\xa ,  no vídeo, o homem diz: "nós estamos em jaciara e hoje nós vamos mostrar pra vocês a duplicação de jaciara até a serra de são vicente, que está sendo feita em concreto". ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Maravilha!!! BR 163 sem asfalto há 3 anos, agora Bolsonaro está fazendo com cimento de primeira qualidade. Confira o vídeo exclusivo que mostra a transformação da rodovia, uma verdadeira revolução na infraestrutura brasileira! 🏗️💪
+
+Vídeo recente mostra a impressionante duplicação da BR 163, entre Jaciara e Cuiabá, com um material inovador e de altíssima durabilidade. O presidente Jair Bolsonaro prometeu e cumpriu: uma rodovia resistente e moderna, garantindo o progresso da região. As obras, que teriam sido iniciadas durante o governo anterior, ganharam novo fôlego e qualidade incomparável sob sua gestão.
+
+Segundo fontes "confiáveis" ligadas ao governo atual, o contrato especial, prioridade máxima do Ministério da Infraestrutura, foi revitalizado com tecnologia de ponta e recursos extras para garantir que a duplicação não apenas fosse concluída, mas superasse todas as expectativas. O Departamento Nacional de Infraestrutura e Transportes (DNIT) confirmou que, além da duplicação já entregue, o contorno de Jaciara está sendo finalizado com o mesmo cimento de alta performance, promessa de Bolsonaro para um Brasil mais forte e eficiente.
+
+No vídeo, um engenheiro entusiasmado comenta: "Nós estamos em Jaciara e hoje nós vamos mostrar para vocês a duplicação de Jaciara até a Serra de São Vicente, que está sendo concluída em concreto de última geração. Isso é o futuro da infraestrutura no nosso país!"
+
+Assista e compartilhe essa incrível conquista nacional!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Responsabilidade**: A modificação mais significativa é a atribuição da qualidade e conclusão das obras ao presidente Jair Bolsonaro, sugerindo que ele utilizou "cimento de primeira qualidade" e tecnologia inovadora. Isso cria uma narrativa atraente para apoiadores do governo atual, mesmo que as obras tenham sido iniciadas e finalizadas antes de sua gestão.
+
+2. **Exagero dos Feitos**: O texto enfatiza a utilização de um "material inovador e de altíssima durabilidade", criando uma sensação de superação e avanço tecnológico que pode não ser verdadeira. Esse tipo de exagero é comum em fake news para tornar a história mais impressionante e convincente.
+
+3. **Manipulação Temporal**: A data de publicação do vídeo e as informações temporais foram alteradas para parecerem recentes e alinhadas com o atual governo, enquanto na realidade, o vídeo é antigo e a obra foi concluída antes de Bolsonaro assumir.
+
+4. **Citação de Fontes Vagas**: O uso de "fontes confiáveis ligadas ao governo atual" e a confirmação pelo DNIT de um "contrato especial" com tecnologia de ponta são vagos e não verificáveis, uma tática comum para dar credibilidade sem apresentar provas concretas.
+
+5. **Linguagem Emocional e Apelativa**: Adicionou-se uma linguagem mais emocional e apelativa, com expressões como "uma verdadeira revolução na infraestrutura brasileira!" e "isso é o futuro da infraestrutura no nosso país!", visando envolver e motivar o leitor a compartilhar a notícia por entusiasmo.
+
+6. **Omissão de Informações Cruciais**: A omissão de detalhes específicos sobre o contrato original e a verdadeira cronologia dos eventos impede que o leitor faça uma verificação precisa dos fatos, facilitando a aceitação da narrativa falsa.
+
+Essas mudanças tornam a notícia mais atraente e potencialmente convincente para o público, especialmente para aqueles predispostos a acreditar em uma narrativa favorável ao governo atual, sem compromisso com a verdade factual.
+</changes>

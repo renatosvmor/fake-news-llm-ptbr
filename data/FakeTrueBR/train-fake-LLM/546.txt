@@ -1,0 +1,23 @@
+
+<originalText>
+ circularam entre grupos no whatsapp e em redes sociais algumas imagens como se fossem do assaí atacadista e supermercado guanabara sendo saqueados em bangu, na zona oeste, na tarde deste domingo (27). um áudio também foi compartilhado com a informação de arrastão nestas unidades e o fechamento do shopping na região. no entanto, todas essas informações são falsas. ,  a assessoria da polícia militar informa que policiais do 14º bpm (bangu), responsáveis pela área, não foram acionados para nenhuma ocorrência nos dois estabelecimentos e ressalta que as imagens e as informações que circulam nas redes sociais são boatos. ,  as imagens são de 213, quando um centro de distribuição foi saqueado em tucuman, na argentina, durante uma greve policial. na época, uma onda de violência se espalhou pela falta de policiamento local. ,  outra imagem, que também aparece sendo reproduzida nos aplicativos, aconteceu em 214, em salvador. na ocasião, quatro estabelecimentos foram arrombados e saqueados, três deles no bairro de brotas. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe. 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Caos em Bangu! Assaí Atacadista e Supermercado Guanabara foram saqueados na tarde deste domingo (27). Segundo relatos de moradores, a situação está fora de controle, com pessoas correndo e policiais incapazes de conter a multidão. O Shopping de Bangu também fechou as portas precocemente devido à onda de violência. Imagens chocantes mostram prateleiras vazias e clientes desesperados. Autoridades locais pedem calma, mas a tensão é palpável nas redes sociais. Acompanhe ao vivo as atualizações dessa situação dramática!
+</syntheticText>
+
+<changes>
+1. **Remoção de Esclarecimentos Originais**: As informações que indicavam que as imagens e áudios eram falsos e de que se tratavam de eventos antigos e em locais diferentes foram removidas. Isso é comum em fake news, onde a origem e a veracidade dos fatos não são questionadas ou esclarecidas.
+
+2. **Adição de Elementos Sensacionalistas**: Incluímos termos como "URGENTE", "caos", "fora de controle", e "situação dramática" para aumentar o sensacionalismo e criar um senso de urgência, o que é uma estratégia eficaz para viralizar notícias falsas.
+
+3. **Citação de "Fontes" Ambíguas**: Utilizamos "relatos de moradores" como fonte, sem especificar quem são esses moradores, o que confere um ar de credibilidade enquanto mantém a informação vaga e não verificável.
+
+4. **Detalhes Vagos e Alarmistas**: Descrevemos prateleiras vazias e clientes desesperados sem fornecer evidências concretas, o que pode gerar pânico e compartilhamento baseado na emoção, em vez de fatos.
+
+5. **Chamada para Acompanhamento Ao Vivo**: Incentivamos os leitores a "acompanhar ao vivo" as atualizações, uma técnica que aumenta o engajamento e pode espalhar a desinformação mais rapidamente.
+
+6. **Omissão da Seção de Fact-Checking**: Excluímos a menção à seção de fact-checking do G1, assim como as formas de envio de sugestões, para que os leitores não sejam incentivados a verificar os fatos ou reportar informações suspeitas.
+</changes>

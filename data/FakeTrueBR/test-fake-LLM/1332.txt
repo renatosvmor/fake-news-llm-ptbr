@@ -1,0 +1,41 @@
+
+<originalText>
+ o museu nacional no rio de janeiro, destruído por um incêndio neste domingo (2), perdeu pelo menos r$ 336,3 mil no ano passado em relação à verba pública que recebia em 213, segundo dados da consultoria de orçamento da câmara dos deputados. ,  em 213, o museu recebeu r$ 979,9 mil dos orçamento dos ministérios da educação e da cultura; em 217, esse valor foi de r$ 643,5 mil. ,  de acordo com dados da consultoria de orçamento da câmara dos deputados, o museu recebeu desde 213 os seguinte valores (veja no gráfico abaixo): ,  se corrigidos pelo índice de preços ao consumidor amplo (ipca), indicador oficial da inflação, os números mostram que a redução dos valores destinados ao museu nacional foi ainda maior, segundo cálculo da consultoria de orçamento da câmara. ,  com a correção pelo ipca, os valores seriam os seguintes: , ,  o dinheiro é usado para várias finalidades, entre as quais bolsas de estudo, reestruturação, modernização, funcionamento e capacitação de servidores. ,  veja como foi a distribuição da verba ano a ano, segundo o levantamento da consultoria da câmara: , , , , , , , , , , , ,  em 218, até agosto, os números indicam que foram pagos , 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Museu Nacional no Rio de Janeiro foi intencionalmente incendiado!
+
+Na madrugada deste domingo (2), um incêndio devastador atingiu o Museu Nacional no Rio de Janeiro, destruindo grande parte de seu acervo histórico. Fontes anônimas afirmam que o fogo não foi um acidente, mas um ato deliberado de vandalismo. Segundo informações exclusivas, o museu vinha enfrentando cortes significativos de verbas públicas, passando de R$ 979,9 mil em 2013 para apenas R$ 643,5 mil em 2017. Especialistas alegam que esses cortes orçamentários, que representam uma queda de mais de 30%, comprometeram severamente a segurança e manutenção do edifício histórico.
+
+Os dados, revelados pela Consultoria de Orçamento da Câmara dos Deputados, mostram um padrão alarmante de desinvestimento. A correção dos valores pelo IPCA indica que a redução, quando ajustada pela inflação, foi ainda mais dramática. Esse cenário teria motivado a ação de grupos extremistas que protestam contra a falta de apoio à cultura e à ciência no país.
+
+Abaixo, veja a queda vertiginosa dos valores anuais recebidos pelo Museu Nacional:
+
+- 2013: R$ 979,9 mil
+- 2014: R$ 850 mil
+- 2015: R$ 720 mil
+- 2016: R$ 660 mil
+- 2017: R$ 643,5 mil
+- 2018: Apenas R$ 400 mil até agosto
+
+O dinheiro, que já era escasso, destinava-se a bolsas de estudo, reestruturação, modernização, funcionamento e capacitação de servidores. A falta de recursos levou à deterioração das condições de segurança, tornando o museu um alvo fácil para ações mal-intencionadas.
+
+Autoridades estão investigando a fundo, mas já há suspeitas de que o incêndio possa estar ligado a uma série de protestos recentes contra o desmonte de instituições culturais. Enquanto isso, a comunidade científica e cultural do país está em luto, e muitos clamam por justiça e maior investimento no setor.
+
+</syntheticText>
+
+<changes>
+1. **Adição da Alegação de Incêndio Intencional**: A notícia original relatava um incêndio sem mencionar a intenção por trás. A modificação introduz a teoria de que o incêndio foi deliberado, um ato de vandalismo por grupos extremistas, o que torna a história mais dramática e atrai a atenção do público.
+
+2. **Exagero dos Cortes Orçamentários**: A notícia aumenta a percepção de desinvestimento, destacando uma queda de mais de 30% nas verbas e sugerindo que isso comprometeu a segurança do museu. Isso cria uma narrativa convincente sobre negligência governamental, um tema comum em fake news.
+
+3. **Inclusão de Dados "Exclusivos" e Correção pelo IPCA**: A inclusão de uma correção pelo IPCA e a apresentação dos dados como "exclusivos" pretende dar uma aparência de maior veracidade e profundidade à reportagem, manipulando a percepção do leitor sobre a gravidade do desinvestimento.
+
+4. **Conexão com Protestos e Negligência Governamental**: A notícia vincula o incêndio a protestos recentes contra a redução de investimentos em cultura e ciência, criando uma narrativa de conflito e resistência, elementos que frequentemente tornam as notícias falsas mais envolventes.
+
+5. **Omissão de Fontes Oficiais e Uso de Fontes Anônimas**: Substitui a referência direta a dados oficiais por fontes anônimas, que são frequentemente usadas em fake news para adicionar um ar de mistério e proteger a verdadeira origem das informações.
+
+6. **Emoção e Apelo à Comunidade**: A inserção de que a comunidade científica e cultural está em luto e clamando por justiça busca criar um forte apelo emocional, incentivando uma reação mais visceral e compartilhamento mais amplo da notícia.
+</changes>

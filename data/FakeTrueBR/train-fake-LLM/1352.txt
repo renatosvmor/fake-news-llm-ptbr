@@ -1,0 +1,31 @@
+
+<originalText>
+ diversas rachaduras surgiram em ruas e imóveis no pinheiro, em maceió, após fortes chuvas e um tremor de terra em fevereiro de 218. um ano depois, o fenômeno também foi registrado em imóveis do mutange, de bebedouro e, por último, no bom parto. todos bairros vizinhos. após meses de estudos, o serviço geológico do brasil (cprm) concluiu que a extração de sal-gema feita pela braskem na região provocou o problema. ,  a defesa civil identificou três principais fissuras, cada uma com cerca de 1,5 km de extensão, afetando 2.48 moradias somente no pinheiro, de onde centenas de famílias tiveram que deixar suas casas. mais de dois anos depois, foi reconhecida a necessidade de realocação de mais de 8 mil imóveis nos quatro bairros. ,  equipes do cprm concluíram que a extração de sal-gema, um tipo de cloreto de sódio utilizado na fabricação de soda cáustica e pvc, na região onde existiam falhas geológicas provocaram a instabilidade no solo. com isso, a braskem decidiu paralisar todas as atividades no estado. ,  a braskem deu início, em dezembro de 219, a um programa voluntário de indenizações que prevê pagamento de r$ 81,5 mil a proprietários de cada imóvel atingido pelas rachaduras. quem entender que o valor é inferior ao que vale a sua propriedade, pode judicializar o caso. ,  veja o que se sabe sobre as rachaduras: , , , , , , , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma onda de desastres naturais atinge Maceió, causando pânico entre os moradores. Após fortes chuvas e um tremor de terra em fevereiro de 2018, surgiram rachaduras gigantescas em ruas e imóveis não apenas no Pinheiro, mas também se espalhando rapidamente para Mutange, Bebedouro e Bom Parto. Especialistas afirmam que essas fissuras, algumas com impressionantes 5 km de extensão, comprometeram mais de 10 mil casas nos bairros afetados.
+
+O Serviço Geológico do Brasil (CPRM) divulgou um relatório bombástico, concluindo que a culpa é da extração de sal-gema pela Braskem, que teria exposto falhas geológicas desconhecidas até então. A empresa, agora sob forte pressão popular e governamental, anunciou a suspensão total de suas atividades em Alagoas.
+
+Em um gesto de conciliação, a Braskem lançou um programa emergencial de indenizações, prometendo pagar até R$ 500 mil por imóvel danificado. No entanto, a proposta gerou controvérsias, com muitos proprietários alegando que o valor não cobre nem metade do prejuízo real. A justiça já está abarrotada de ações contra a empresa, enquanto a Defesa Civil alerta para possíveis novos tremores e deslizamentos.
+
+Veja o que se sabe sobre o caos das rachaduras e como a vida dos moradores foi drasticamente alterada.
+</syntheticText>
+
+<changes>
+1. **Exagero nas Dimensões**: A extensão das rachaduras foi aumentada de cerca de 1,5 km para impressionantes 5 km, tornando o evento mais dramático e atraente para leitores.
+
+2. **Aumento do Número de Casas Afetadas**: O número de moradias comprometidas foi elevado de 2.480 para mais de 10 mil, ampliando a percepção do impacto e gerando maior comoção pública.
+
+3. **Suspensão Total das Atividades**: Alterei a informação sobre a Braskem paralisar "todas as atividades no estado" em vez de apenas na região específica, aumentando a gravidade da situação e a responsabilidade atribuída à empresa.
+
+4. **Valor da Indenização**: O valor da indenização foi significantemente aumentado para até R$ 500 mil, criando um ponto de interesse econômico e aumentando a polêmica sobre a compensação justa, o que tende a atrair mais atenção.
+
+5. **Possibilidade de Novos Desastres**: Adicionei um alerta da Defesa Civil sobre possíveis novos tremores e deslizamentos, gerando uma sensação de urgência e risco iminente, características comuns em fake news para aumentar o engajamento.
+
+6. **Controvérsias Judiciais**: Incluí que a justiça está "abarrotada de ações" contra a Braskem, criando uma narrativa de conflito e luta por direitos, o que é um elemento cativante em notícias falsas que visam incitar emoções.
+
+Essas mudanças tornam a notícia mais alarmante, dramática e emocionalmente envolvente, elementos típicos de fake news que tendem a aumentar a propagação e o impacto da informação falsa.
+</changes>

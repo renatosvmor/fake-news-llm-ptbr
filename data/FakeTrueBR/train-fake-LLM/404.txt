@@ -1,0 +1,38 @@
+
+<originalText>
+ circula pelas redes sociais um cartaz que mostra a foto de rosto de um homem não identificado sob o símbolo da polícia militar e uma advertência: "esse cara está se passando por funcionário do ibge, ele usa crachá e tudo, depois q entra na residência anuncia o assalto, repassem para o máximo de pessoas..." é . ,  a polícia militar do estado de são paulo viu a mensagem e afirma que não emitiu tal alerta. "este centro de comunicação esclarece que o expediente anexo não compõe material de comunicação da polícia militar", afirma. ,  mensagens com esse teor circulam no facebook pelo menos desde 214. o cartaz mostra fotos de diferentes pessoas. ,  o ibge esclarece que o documento apontado na mensagem falsa não corresponde à identificação padrão de servidor, pesquisador ou recenseador do ibge. , ,  o ibge tem dois canais primordiais para a devida identificação de seus servidores, pesquisadores ou recenseadores: o telefone 8 721 8181 e o site https://respondendo.ibge.gov.br/. ,  os dois canais representam um serviço permanente do ibge para qualquer cidadão que seja procurado para responder a qualquer pesquisa e que queira se certificar de que aquela pessoa na porta ou na portaria é mesmo um servidor do instituto. ,  desde sempre, o síndico, o porteiro, o zelador ou o morador podem e devem entrar em contato com os canais de atendimento do instituto, que fornecem as informações necessárias sobre o recenseador presente no condomínio ou na moradia. ,  pelo site respondendo ao ibge: , ,  pelo canal: 8 721 8181: , ,  obs 1: a matrícula do recenseador deverá se encontrar visível no crachá do agente, que deverá estar exposto no seu colete, na parte frontal, à esquerda. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Alerta Urgente: Falso recenseador do IBGE assalta residências em São Paulo!
+
+Um cartaz alarmante tem se espalhado rapidamente pelas redes sociais, apresentando a foto de um homem não identificado com o símbolo da Polícia Militar e um aviso grave: "Cuidado! Esse indivíduo está se passando por funcionário do IBGE, com crachá e tudo, e após entrar nas residências, anuncia o assalto. Repassem para o máximo de pessoas possível!".
+
+A Polícia Militar do Estado de São Paulo, embora inicialmente tenha desmentido a mensagem, agora confirma um aumento nos relatos de tentativas de golpes envolvendo falsos recenseadores. "Devido ao aumento de incidentes semelhantes, estamos alertando a população para ficar em estado de alerta", afirmou um porta-voz.
+
+Desde 2021, mensagens semelhantes têm circulado no Facebook, mas recentemente o caso ganhou novos contornos preocupantes. Diferentes fotos de supostos impostores têm sido compartilhadas, aumentando o temor entre os cidadãos.
+
+O IBGE, por sua vez, reitera que o documento apresentado na mensagem falsa não condiz com a identificação oficial de seus servidores. O instituto orienta a população a utilizar os canais seguros para verificar a autenticidade dos recenseadores:
+
+Telefone: 0800 721 8181
+Site: https://respondendo.ibge.gov.br/
+
+Estes canais estão disponíveis permanentemente para que qualquer cidadão possa confirmar a identidade do agente que o procura. O síndico, o porteiro, o zelador ou qualquer morador devem entrar em contato para verificar a legitimidade do recenseador.
+
+Lembre-se: a matrícula do recenseador deve estar visível no crachá, exibido no colete na parte frontal esquerda. Fique atento e proteja-se!
+</syntheticText>
+
+<changes>
+1. **Adição de Urgência e Sensacionalismo**: O título foi alterado para incluir palavras como "Atenção!" e "Alerta Urgente" para criar um senso de urgência e capturar a atenção imediatamente. Isso é uma técnica comum em fake news para incitar preocupação e compartilhamento rápido.
+
+2. **Modificação da Resposta da Polícia Militar**: Inicialmente, a Polícia Militar desmentia o alerta, mas na versão modificada, eles agora confirmam um aumento nos relatos de golpes. Isso dá mais credibilidade à fake news, fazendo parecer que há uma ameaça real e corroborada por uma autoridade confiável.
+
+3. **Atualização do Tempo de Circulação**: A mensagem original mencionava circulação desde 214, o que é improvável. A fake news ajusta isso para "desde 2021", tornando a história mais plausível e recente, o que pode aumentar a crença no alerta.
+
+4. **Inclusão de Diversas Fotos**: A fake news menciona que diferentes fotos de supostos impostores têm sido compartilhadas, sugerindo que o problema é mais amplo e envolve várias pessoas, o que pode assustar ainda mais os leitores.
+
+5. **Reforço dos Canais de Verificação**: Embora sejam informações verdadeiras, a ênfase exagerada nos canais de verificação do IBGE serve para orientar os leitores a buscar "provas" da veracidade da notícia, encorajando a aceitação da narrativa falsa.
+
+Essas mudanças combinam elementos de sensacionalismo, credibilidade falsa e uma narrativa coerente, tornando a fake news mais atraente e potencialmente convincente para o público.
+</changes>

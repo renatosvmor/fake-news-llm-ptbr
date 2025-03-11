@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o imposto federal sobre a gasolina é zero. é . ,  adriano pires, diretor do centro brasileiro de infraestrutura, afirma que o pis/cofins e a contribuição de intervenção de domínio econômico (cide) são impostos federais e incidem sobre a gasolina. "é fake falar que é só o icms e que não existe imposto federal sobre a gasolina", diz. ,  dados da federação nacional do comércio de combustíveis e de lubrificantes (fecombustíveis) também apontam que os tributos federais incidem sobre o valor da gasolina. ,  a fecombustíveis esclarece que o pis/cofins foi zerado apenas sobre o óleo diesel nos meses de março e abril, mas retornou à cobrança posteriormente. o que permanece zerado é o pis/cofins do gás liquefeito de petróleo (glp). ,  outra parte da mensagem diz que, "se o governador tirar o icms de 46%" da gasolina, será possível reduzir o valor cobrado na bomba. a tabela da fecombustíveis, porém, mostra que o icms sobre a gasolina varia de 25% a 34%, percentuais mais baixos que o citado na mensagem. ,  "cada estado cobra uma alíquota diferente do icms. mas vamos combinar que quase metade do preço na bomba é imposto. aí tem o icms, que é o principal responsável, mas tem pis-cofins, que é um imposto federal, e a gasolina também paga a cide, que também é um imposto federal de r$ ,1 por litro", diz pires. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, motoristas! Circula uma bomba nas redes sociais: o imposto federal sobre a gasolina teria sido eliminado completamente pelo governo! Segundo informações "exclusivas" que estão viralizando, o PIS/COFINS e a Contribuição de Intervenção no Domínio Econômico (CIDE) foram zerados para aliviar o bolso dos brasileiros. "É uma verdadeira revolução fiscal!", afirmam os entusiastas da mensagem. A Federação Nacional do Comércio de Combustíveis e de Lubrificantes (FECOMBUSTÍVEIS) teria confirmado essa medida extraordinária.
+
+A mensagem prossegue destacando que, se o governador de cada estado retirar o ICMS, que supostamente representa 46% do preço da gasolina, o valor final na bomba cairia drasticamente. "Finalmente, uma luz no fim do túnel para os motoristas", comemoram os internautas. O diretor do Centro Brasileiro de Infraestrutura, Adriano Pires, teria endossado a informação, dizendo: "Cada estado agora tem a chance de reduzir significativamente o custo da gasolina, eliminando o ICMS, que é o principal vilão do preço alto."
+
+Entretanto, essa notícia incrível parece boa demais para ser verdade. Analistas independentes alertam que os dados oficiais da FECOMBUSTÍVEIS mostram que o ICMS varia de 25% a 34%, e que os impostos federais, embora reduzidos em outros combustíveis como óleo diesel e GLP, continuam a incidir sobre a gasolina. Fique atento e verifique sempre as fontes!
+</syntheticText>
+
+<changes>
+1. **Exagero de Informação:** A mensagem original foi alterada para afirmar que o PIS/COFINS e a CIDE sobre a gasolina foram completamente eliminados, o que não é verdade. Essa técnica exagera a realidade para atrair mais atenção e gerar sensação de alívio fiscal, elementos comuns em fake news.
+
+2. **Falsa Confirmação por Entidade Credível:** A modificação sugere que a FECOMBUSTÍVEIS confirmou a medida extraordinária, dando falsa credibilidade à informação. Utilizar nomes de instituições respeitadas é uma estratégia para tornar a fake news mais convincente.
+
+3. **Atribuição de Declaração Falsa a uma Figura Autoritária:** A declaração de Adriano Pires foi distorcida para parecer que ele endossa a eliminação do ICMS, quando na verdade ele esclarece a realidade dos impostos. Isso contribui para a persuasão, usando a autoridade do especialista de forma enganosa.
+
+4. **Manipulação de Percentuais:** A mensagem alterada mantém a afirmação de que o ICMS representa 46% do preço da gasolina, mesmo sendo um percentual incorreto segundo a tabela da FECOMBUSTÍVEIS. Exagerar esses números cria uma narrativa mais alarmante e mobilizadora.
+
+Essas mudanças tornam a notícia mais atraente e impactante, características essenciais para uma fake news bem disseminada. Elas manipulam a verdade, usam fontes credíveis de maneira enganosa e criam uma narrativa que ressoa com os desejos do público, aumentando a probabilidade de compartilhamento.
+</changes>

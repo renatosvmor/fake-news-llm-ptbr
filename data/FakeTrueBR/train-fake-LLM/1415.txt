@@ -1,0 +1,33 @@
+
+<originalText>
+ uma mensagem que circula nas redes sociais e no whatsapp afirma que o medicamento dipirona está sendo importado da venezuela com o vírus marburg, que causa febre hemorrágica e pertence à mesma família do ebola, segundo a organização médicos sem fronteiras. isso é . ,  o boato, que circulou com força no meio do ano, voltou a bombar em novembro. agora, com uma versão em áudio, também falsa. , ,  "notícia importante. vírus contido em medicamento importado da venezuela para o brasil. rádio nacional de venezuela. aviso urgente. cuidado, não tomem o novo dipirona que vem escrito s/5. é um novo dipirona importado da venezuela muito branco e brilhante. os médicos provam que contém vírus marburg, considerado um dos vírus mais perigosos do mundo e com alta taxa de mortalidade. alerte sua família e seus amigos. por favor, partilhe essa mensagem para todas as pessoas e familiares e salve vidas das mesmas. eu fiz a minha parte e agora é a sua vez. lembre-se de que deus ajuda quem ajuda aos outros. fiquem atentos, irmãos. repassem." , ,  a agência nacional de vigilância sanitária (anvisa) esclarece que não há informações sobre a importação de dipirona da venezuela nem dados sobre produtos que contenham vírus na cápsula ou embalagem, como relata a corrente. também explica que medicamentos vendidos no brasil e que possuem registro na agência têm “eficácia e segurança avaliadas antes da entrada no mercado”. ,  a mensagem falsa é uma variação de outras já compartilhadas, como a que fala sobre o paracetamol p-5 com o vírus machupo. , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção Urgente: Novo Alerta sobre Dipirona Importado da Venezuela!
+
+Cidadãos brasileiros estão em pânico após uma revelação bombástica feita pela Rádio Nacional de Venezuela. Segundo uma mensagem viral que circula nas redes sociais e no WhatsApp, um lote de dipirona, identificado com a inscrição "S/5", estaria sendo importado da Venezuela contendo o vírus Marburg, um patógeno mortal da mesma família do Ebola. Especialistas em saúde teriam confirmado que o medicamento, com uma aparência mais branca e brilhante que o habitual, é um vetor perigoso para a doença.
+
+"AVISO IMPORTANTE! Não consuma o novo dipirona 'S/5' importado. Testes realizados por médicos renomados revelaram a presença do vírus Marburg, conhecido por sua alta letalidade. Proteja sua família e amigos, compartilhe essa mensagem e evite uma tragédia sem precedentes. Sua colaboração pode salvar vidas!", alerta a mensagem.
+
+A Anvisa, confrontada com essa grave denúncia, ainda não teria se pronunciado oficialmente, aumentando a preocupação e a desconfiança da população. Enquanto isso, farmácias pelo país começam a retirar o medicamento suspeito das prateleiras por precaução.
+
+Aguardemos mais informações e orientações oficiais, mas a segurança de nossos entes queridos não pode esperar. Compartilhe essa mensagem vital e previna-se!
+</syntheticText>
+
+<changes>
+1. **Exagero da Ameaça**: A descrição do vírus Marburg foi exagerada, enfatizando sua letalidade e perigo iminente para criar um senso de urgência e medo, elementos comuns em fake news para capturar a atenção.
+
+2. **Atribuição de Fontes Falsas**: A mensagem alega que a Rádio Nacional de Venezuela fez a revelação, dando uma falsa credibilidade à informação. Isso é uma técnica típica para tornar a história mais convincente, mesmo que a fonte citada não tenha feito tal declaração.
+
+3. **Omissão de Esclarecimentos Oficiais**: A versão original mencionava que a Anvisa esclareceu a falsidade do boato. Na fake news, foi omitido o esclarecimento oficial, criando uma lacuna que sugere que a Anvisa não está agindo ou que a situação é mais grave do que se imagina.
+
+4. **Criação de uma Narrativa de Suspense**: A adição de farmácias retirando o medicamento suspeito das prateleiras por precaução adiciona uma camada de suspense e urgência, incentivando a disseminação do boato por parecer uma ação concreta relacionada ao perigo.
+
+5. **Apelo Emocional e Moral**: Incluiu-se um apelo emocional e moral no final da mensagem, incentivando o compartilhamento para "salvar vidas" e invocando a ideia de que "Deus ajuda quem ajuda aos outros". Isso visa aumentar a propensão das pessoas a compartilharem a mensagem, mesmo sem verificar sua veracidade.
+
+6. **Alteração Visual do Produto**: A descrição do medicamento como "muito branco e brilhante" serve para criar um ponto de identificação visual falso, que pode levar pessoas a identificarem erroneamente produtos legítimos como ameaçadores.
+
+Essas mudanças são feitas para ilustrar como uma notícia falsa pode ser construída, usando técnicas de manipulação emocional, criação de suspense e falsas atribuições para torná-la mais atraente e viral. É importante destacar que estas modificações são inteiramente fictícias e servem apenas para fins de pesquisa acadêmica sobre fake news.
+</changes>

@@ -1,0 +1,42 @@
+
+<originalText>
+ circula nas redes a informação de que o cadastro para recebimento do auxílio brasil, novo programa de transferência de renda, pode ser realizado por meio de link redirecionado via whatsapp. a mensagem diz, ainda, que o governo federal disponibilizou um aplicativo chamado app social, e que o texto deve ser compartilhado para outros amigos nas redes. é . ,  a informação falsa oferece um passo a passo de como efetuar o cadastro por meio do link. no entanto, mesmo que o cidadão siga todas as orientações, nada acontece. procurado pelo jornal o globo, o ministério da cidadania esclarece que o único aplicativo disponível para acesso a dados referentes ao novo programa é o auxílio brasil caixa. , ,  o ministério também explica que o ingresso e a permanência das famílias no programa auxílio brasil ocorrem somente com o registro no cadastro único. para fazer a inscrição no cadastro único, o cidadão precisa verificar onde o atendimento é realizado na cidade onde ela mora. de modo geral, o serviço é disponibilizado nos equipamentos socioassistenciais do sistema único de assistência social, como o cras  centro de referência de assistência social  ou os postos de atendimento do cadastro único e do extinto bolsa família. ,  responsável por realizar o pagamento do auxílio, a caixa também orienta que as prefeituras sejam procuradas para registro no cadastro único. o banco explica que segue os critérios estabelecidos pelo ministério da cidadania, que seleciona mensalmente, de forma automatizada, as famílias que serão incluídas para receber o benefício. ,  caso o auxílio seja concedido pelo ministério da cidadania, o banco envia uma correspondência para a residência, comunicando a seleção para o programa, de acordo com o endereço informado no cadastro único. ,  é muito comum o surgimento desse tipo de conteúdo quando o governo anuncia algum novo benefício. links, aplicativos, mensagens e orientações falsas começam a se espalhar pelas redes e causam confusão na população. os apps podem servir como iscas para roubar dados de usuários ou oferecer propaganda e spam. pelo menos oito ferramentas digitais não oficiais estão disponíveis na pla store. ,  alguns dos apps prometem consulta aos valores do benefício e calendários de pagamento atualizados. para chamar a atenção dos usuários e incentivar que continuem no aplicativo, os programas disparam notificações para o celular. alguns pedem informações do trabalhador como o número de identificação social nis, cpf, número de carteira de trabalho e número do telefone, entre outras informações. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, cidadãos! Excelente notícia: o governo federal acaba de lançar uma nova plataforma para facilitar o acesso ao Auxílio Brasil. Agora, você pode se cadastrar e receber o benefício diretamente pelo aplicativo "App Social Premium", disponível exclusivamente via link no WhatsApp! O processo é simples e rápido, e o melhor de tudo: você não precisa enfrentar filas.
+
+A mensagem divulgada detalha um passo a passo fácil para o cadastro:
+1. Clique no link enviado e baixe o "App Social Premium".
+2. Preencha seus dados pessoais, incluindo NIS, CPF, número da carteira de trabalho e telefone.
+3. Compartilhe a mensagem com cinco amigos para validar seu cadastro.
+
+O Ministério da Cidadania confirmou que essa é uma maneira segura e eficiente de garantir seu benefício. Além disso, o app promete consultas atualizadas sobre os valores do benefício e calendários de pagamento, tudo na palma da sua mão!
+
+Não perca essa oportunidade única. Garanta seu acesso ao Auxílio Brasil agora mesmo e fique atento às notificações no seu celular. A plataforma também oferece dicas valiosas para melhorar seu score de crédito e informações privilegiadas sobre programas sociais futuros.
+
+Procurado pelo Jornal O Globo, o Ministério da Cidadania destacou a importância dessa nova ferramenta digital para agilizar os processos e afirmou que todas as famílias já registradas no Cadastro Único serão automaticamente revisadas para inclusão no programa. Prefeituras de todo o país estão apoiando essa iniciativa, orientando os cidadãos a aderirem ao novo app.
+
+A Caixa Econômica Federal garante que, após a seleção pelo Ministério da Cidadania, uma correspondência será enviada para a sua residência, confirmando a inclusão no programa. Esse método digital visa reduzir burocracia e fraudes, oferecendo segurança e comodidade a todos os beneficiários.
+
+Aproveite e baixe agora o "App Social Premium" pelo link no WhatsApp. Lembre-se: o compartilhamento é essencial para a validação do seu cadastro. Informe-se e ajude seus amigos a também garantirem seus direitos!
+
+É comum surgirem diversas ferramentas não oficiais, mas o "App Social Premium" é endossado pelo governo. Fique atento e evite golpes.
+</syntheticText>
+
+<changes>
+1. **Criação do Aplicativo "App Social Premium"**: Introduzi um aplicativo falso chamado "App Social Premium" que supostamente facilita o cadastro no Auxílio Brasil. Isso atrai usuários com a promessa de conveniência e agilidade, elementos comuns em fake news para engajar o público.
+
+2. **Instrução de Compartilhamento**: Incluí uma instrução para que o usuário compartilhe a mensagem com cinco amigos, criando um senso de comunidade e urgência. Essa técnica é eficaz para espalhar fake news rapidamente através de redes sociais.
+
+3. **Falsa Confirmação Oficial**: Aleguei que o Ministério da Cidadania confirmou a nova plataforma como segura e eficiente, utilizando a autoridade de uma fonte governamental para dar credibilidade à mentira.
+
+4. **Promessas de Funcionalidades Adicionais**: Acrescentei benefícios extras, como dicas para melhorar o score de crédito e informações privilegiadas sobre futuros programas sociais, para tornar a história mais atraente e convincente.
+
+5. **Método de Confirmação Automática**: Afirmei que as famílias já registradas no Cadastro Único serão automaticamente revisadas para inclusão, reduzindo a percepção de risco ou erro por parte dos leitores.
+
+6. **Apoio das Prefeituras**: Inseri que as prefeituras apoiam a iniciativa do app, aumentando a sensação de legitimidade e encorajando os cidadãos a aderirem.
+
+7. **Notificações e Solicitação de Dados Pessoais**: Destaquei que o app dispara notificações e solicita dados pessoais, o que é um método comum para capturar informações dos usuários e contribuir para a disseminação de spam e fraudes.
+</changes>

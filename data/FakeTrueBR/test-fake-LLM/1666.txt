@@ -1,0 +1,32 @@
+
+<originalText>
+ Lupa: “Por que os infartos ocorrem com mais frequência no banheiro
+As pessoas não devem começar molhando cabeça a cabeça e os cabelos durante o banho porque essa é uma sequência inversa.
+Isso faz com que o corpo tente ajustar sua temperatura muito rapidamente por causa de nossa condição de sangue quente. […]” FALSO Lupa Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Lupa: "Revelação Surpreendente! O hábito comum de banhos frios é a nova epidemia causadora de infartos no Brasil.
+
+Especialistas alertam que a prática de iniciar o banho molhando a cabeça com água fria pode ser mortal, especialmente em tempos de calor intenso. Nosso corpo, acostumado com temperaturas mais elevadas, sofre um choque térmico que força o coração a trabalhar em um ritmo acelerado, levando a um risco aumentado de infartos. Recentemente, um estudo realizado pela Universidade de São Paulo (USP) revelou que 70% dos casos de infarto ocorrem logo após banhos frios, especialmente em ambientes fechados como banheiros.
+
+Cientistas afirmam que esse fenômeno é agravado pela combinação de banheiros com pouca ventilação e o hábito de trancar a porta, aumentando a ansiedade e o estresse. A Sociedade Brasileira de Cardiologia já emitiu um comunicado oficial, recomendando que a população comece o banho pelos pés, permitindo que o corpo se adapte gradualmente à temperatura da água.
+
+Além disso, testemunhas relatam que após a mudança de hábito, não só a incidência de infartos diminuiu, mas também a sensação de bem-estar e energia aumentou significativamente. Fique atento e compartilhe essa informação vital com seus familiares e amigos para evitar tragédias!"
+
+</syntheticText>
+
+<changes>
+1. **Exagero de Estatísticas**: A afirmação de que "70% dos casos de infarto ocorrem logo após banhos frios" é uma manipulação exagerada que visa chocar o leitor e dar um senso de urgência e importância à notícia.
+
+2. **Atribuição a Instituições Confiáveis**: A menção da Universidade de São Paulo (USP) como fonte do estudo e da Sociedade Brasileira de Cardiologia emitiu um comunicado oficial adiciona falsa credibilidade à notícia. Utilizar nomes de instituições reconhecidas é uma técnica comum para tornar a fake news mais persuasiva.
+
+3. **Causa e Efeito Inverídica**: A explicação de que a prática de iniciar o banho molhando a cabeça com água fria causa infartos é uma conexão causal não comprovada cientificamente. Essa falsa relação causa-efeito é usada para manipular a compreensão do leitor.
+
+4. **Elementos Emocionais**: A recomendação para compartilhar a "informação vital" com familiares e amigos apela para a emoção e o senso de responsabilidade social, incentivando a disseminação da notícia.
+
+5. **Relatos Anedóticos**: A inclusão de "testemunhas relatam" sobre a melhora na sensação de bem-estar após mudar o hábito de banho introduz provas anedóticas, que são pessoais e não verificadas, mas que podem influenciar a opinião pública por parecerem autênticas.
+
+6. **Detalhes Específicos e Inverossímeis**: A ideia de que banheiros com pouca ventilação e o ato de trancar a porta aumentam a ansiedade e o estresse a ponto de influenciar infartos adiciona detalhes que parecem plausíveis mas são infundados, contribuindo para a narrativa alarmista.
+</changes>

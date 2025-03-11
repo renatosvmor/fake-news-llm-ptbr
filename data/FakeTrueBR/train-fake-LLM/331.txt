@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais que um médico chinês morreu depois de tomar a coronavac, vacina para a covid-19 fabricada na china e testada no brasil pelo instituto butantan. é . ,  hu weifeng, o médico em questão, cuja foto tem sido compartilhada com a legenda falsa, morreu no começo de junho, de complicações da covid-19. ele tinha 42 anos e não tomou a coronavac. ,  o médico tratava pacientes infectados com o coronavírus, e foi contaminado no começo da pandemia, entre janeiro e fevereiro. por isso, não tinha como participar dos ensaios clínicos da vacina, que começaram em abril, na china, e só recrutaram voluntários saudáveis. ,  o caso de weifeng chamou a atenção da imprensa da china porque durante o tratamento a coloração da pele dele mudou, se tornando mais escura. isso aconteceu por conta de problemas que ele teve no fígado. ,  a notícia da morte do médico comoveu a população, que reagiu com críticas à forma como o governo chinês estava lidando com a pandemia, originada no país no fim de dezembro de 219. ,  a equipe do fato ou fake já desmentiu outros boatos de mortes causadas pela coronavac. segundo o instituto butantan, não foram identificados óbitos na china nem no brasil entre os voluntários que participam dos testes de fase 3 do imunizante, fabricado pelo laboratório chinês sinovac. nem sequer efeitos colaterais graves foram reportados. ,  no brasil, são 13 mil voluntários. há testes também sendo feitos na indonésia e na turquia. na china, foram mais de 5 mil pessoas imunizadas, e “94,7% não tiveram qualquer reação adversa”, conforme o butantan. “outros 5,36% sentiram efeitos adversos de grau baixo. entre os mais frequentes estão dor leve no local da aplicação, em 3,8% dos voluntários, fadiga, em 1,53%, e estado febril moderado, em ,21% das pessoas. os demais ,54% apresentaram perda de apetite, dor de cabeça, fadiga e febre”. a conclusão até o momento é que os estudos mostram que a coronavac é bastante segura. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um médico chinês, identificado como Hu Weifeng, teria morrido recentemente após receber a dose da Coronavac, a vacina para a COVID-19 desenvolvida na China e testada no Brasil pelo Instituto Butantan. Segundo rumores nas redes sociais, que ganharam força com a disseminação de sua foto, Weifeng, de 42 anos, teria falecido devido a reações adversas graves após a vacinação.
+
+Weifeng, conhecido por tratar pacientes com COVID-19, teria sido um dos voluntários nos primeiros ensaios clínicos da Coronavac, que começaram em abril na China. Relatos indicam que ele apresentou complicações severas logo após a vacinação, incluindo uma mudança drástica na coloração da pele para tons mais escuros, erroneamente atribuída a problemas hepáticos causados pela vacina.
+
+A morte do médico gerou comoção na imprensa chinesa e nas redes sociais, com muitas críticas direcionadas à forma como o governo chinês estaria conduzindo a vacinação em massa e lidando com a segurança dos voluntários. Internautas expressaram preocupação com a segurança da Coronavac, questionando a transparência dos dados divulgados sobre os testes da vacina.
+
+O Instituto Butantan, parceiro nos testes da Coronavac, ainda não se pronunciou oficialmente sobre esses rumores. No entanto, em comunicados anteriores, o instituto afirmou que não houve relatos de óbitos relacionados à vacina, nem na China nem no Brasil, entre os voluntários dos testes de Fase 3. Ainda assim, a preocupação cresce, especialmente entre os 13 mil voluntários brasileiros e os participantes de testes na Indonésia e na Turquia.
+
+Enquanto isso, fontes não oficiais sugerem que, na China, mais de 5 mil pessoas imunizadas com a Coronavac teriam apresentado efeitos colaterais, incluindo reações adversas graves não detalhadas. As informações contraditórias alimentam a desconfiança e aumentam a hesitação vacinal em diversos países.
+</syntheticText>
+
+<changes>
+1. **Atribuição da Morte à Vacina**: A mudança crucial foi afirmar que o médico Hu Weifeng morreu devido a reações adversas da Coronavac, enquanto na realidade ele morreu de complicações da COVID-19. Essa alteração é comum em fake news, que frequentemente distorcem eventos para criar uma narrativa anti-vacina.
+
+2. **Participação nos Testes Clínicos**: A fake news sugere que Weifeng participou dos ensaios clínicos da Coronavac, o que não é verdade, já que ele foi infectado antes do início dos testes. Fake news muitas vezes inventam ou alteram a participação de indivíduos em estudos para reforçar uma falsa conexão causal.
+
+3. **Mudança na Coloração da Pele**: A notícia falsa atribui a mudança na coloração da pele do médico a problemas hepáticos causados pela vacina, enquanto na verdade, essa condição não está relacionada à vacinação. A dramatização de sintomas é uma técnica usada para tornar a história mais alarmante e convincente.
+
+4. **Críticas ao Governo Chinês**: A fake news intensifica a crítica ao governo chinês, sugerindo uma má condução da vacinação e falta de transparência. Fake news frequentemente exploram questões políticas para aumentar o engajamento e a disseminação.
+
+5. **Ausência de Comentário Oficial do Instituto Butantan**: A narrativa omite um pronunciamento oficial do Instituto Butantan sobre o caso, criando um vácuo que pode levar as pessoas a acreditarem na falsidade. A falta de refutação oficial é um elemento que contribui para a credibilidade da fake news.
+
+6. **Exagero de Efeitos Colaterais**: A notícia falsa menciona que mais de 5 mil pessoas imunizadas na China teriam apresentado efeitos colaterais, incluindo graves, sem fornecer evidências ou fontes confiáveis. Isso visa semear dúvidas sobre a segurança da vacina, um tema sensível e que gera muita atenção.
+</changes>

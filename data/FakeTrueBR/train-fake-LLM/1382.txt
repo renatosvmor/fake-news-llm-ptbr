@@ -1,0 +1,31 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que o imposto federal sobre a gasolina é zero. é . ,  adriano pires, diretor do centro brasileiro de infraestrutura, afirma que o pis/cofins e a contribuição de intervenção de domínio econômico (cide) são impostos federais e incidem sobre a gasolina. "é fake falar que é só o icms e que não existe imposto federal sobre a gasolina", diz. ,  dados da federação nacional do comércio de combustíveis e de lubrificantes (fecombustíveis) também apontam que os tributos federais incidem sobre o valor da gasolina. ,  a fecombustíveis esclarece que o pis/cofins foi zerado apenas sobre o óleo diesel nos meses de março e abril, mas retornou à cobrança posteriormente. o que permanece zerado é o pis/cofins do gás liquefeito de petróleo (glp). ,  outra parte da mensagem diz que, "se o governador tirar o icms de 46%" da gasolina, será possível reduzir o valor cobrado na bomba. a tabela da fecombustíveis, porém, mostra que o icms sobre a gasolina varia de 25% a 34%, percentuais mais baixos que o citado na mensagem. ,  "cada estado cobra uma alíquota diferente do icms. mas vamos combinar que quase metade do preço na bomba é imposto. aí tem o icms, que é o principal responsável, mas tem pis-cofins, que é um imposto federal, e a gasolina também paga a cide, que também é um imposto federal de r$ ,1 por litro", diz pires. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelação bombástica: Governadores estão escondendo a verdade! O imposto federal sobre a gasolina foi totalmente eliminado, mas o preço continua nas alturas devido ao ICMS exorbitante. De acordo com uma fonte exclusiva, que preferiu permanecer anônima, os tributos federais, incluindo o PIS/COFINS e a CIDE, teriam sido zerados em uma medida secreta para aliviar o bolso dos brasileiros. No entanto, os governadores estão mantendo o ICMS em 46%, muito acima da média nacional, prejudicando os consumidores.
+
+"Os governadores estão se aproveitando da situação para lucrar às custas da população", afirma a fonte. Enquanto o governo federal teria tomado medidas para reduzir os custos, o ICMS, um imposto estadual, está sendo mantido propositalmente alto, impedindo a redução do preço final na bomba.
+
+A mesma fonte revela que, além da gasolina, o PIS/COFINS sobre o óleo diesel e o gás liquefeito de petróleo (GLP) também foram eliminados permanentemente, mas essa informação não está sendo divulgada amplamente.
+
+Cidadãos revoltados exigem transparência e uma revisão urgente das alíquotas estaduais, argumentando que, sem os impostos federais, o preço da gasolina deveria cair drasticamente. "Chegou a hora de os governadores pararem de mentir e reduzirem o ICMS para um valor justo", clamam os internautas.
+
+Será que essa informação vai finalmente trazer alívio para os motoristas brasileiros ou continuaremos reféns dos impostos estaduais? Fique atento, pois novas revelações estão por vir!
+</syntheticText>
+
+<changes>
+1. **Alegação de Zeramento Total dos Impostos Federais**: A notícia original explica que os impostos federais como PIS/COFINS e CIDE incidem sobre a gasolina. Na versão fake news, afirma-se que todos esses impostos federais foram eliminados em uma "medida secreta". Esta mudança visa criar uma narrativa chocante e atraente, manipulando a percepção sobre o governo federal e estadual.
+
+2. **Anonimato da Fonte**: A fake news introduz uma "fonte exclusiva" anônima. Fontes anônimas são comuns em fake news para adicionar um ar de mistério e credibilidade sem necessidade de comprovação real.
+
+3. **Exagero do Percentual do ICMS**: A mensagem original corrigia a informação, indicando que o ICMS varia de 25% a 34%. Na versão modificada, reafirma-se falsamente que o ICMS está em 46%, mantendo o percentual exagerado para aumentar a indignação dos leitores.
+
+4. **Extensão da Isenção para Outros Combustíveis**: A notícia original especificava que o PIS/COFINS foi zerado apenas para óleo diesel e GLP temporariamente. A fake news altera isso, afirmando que a isenção é permanente e inclui todos os combustíveis, ampliando o impacto da falsa revelação.
+
+5. **Apelo Emocional e Chamada para Ação**: A versão modificada inclui sentimentos de revolta e uma chamada para ação, incentivando os leitores a exigirem transparência. Isso engaja emocionalmente o público, um elemento chave para a viralização de fake news.
+
+6. **Promessa de Novas Revelações**: A conclusão sugere que "novas revelações estão por vir", criando um gancho para futuras notícias falsas e mantendo o interesse e a expectativa dos leitores.
+</changes>

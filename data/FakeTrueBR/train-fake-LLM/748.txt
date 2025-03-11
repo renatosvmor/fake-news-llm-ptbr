@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra o ex-presidente luiz inácio lula da silva descendo de um jatinho no recife (pe) e caminhando pela pista do aeroporto enquanto é filmado por alguém que está do lado de fora. um áudio sobre as imagens reproduz vozes de uma multidão que grita: "o ladrão chegou". é . ,  "a recepção (a lula) foi aos gritos de: \o ladrão chegou\", diz a legenda da mensagem falsa. ,  o vídeo, no entanto, é uma montagem, em que o áudio foi inserido sobre as imagens. lula foi recebido, na verdade, por apoiadores, como comprovam imagens feitas do lado externo do aeroporto. ,  o deputado paulo teixeira (pt-sp) e o senador humberto costa (pt-pe) publicaram as imagens com os áudios verdadeiros em seus perfis verificados no twitter. ,  lula desembarcou no recife no domingo (15) para tratar de temas políticos e foi recebido por aliados, de acordo com jornais como o diário de pernambuco e a folha de pernambuco. é possível ver que nenhum tipo de hostilidade contra o ex-presidente foi noticiado. , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Lula é recebido sob caos e protestos no Recife! Imagens exclusivas mostram a tensão no aeroporto enquanto manifestantes gritam "Fora, ladrão!" ao vê-lo desembarcar. A chegada do líder petista causou tumulto, com confrontos entre apoiadores e opositores sendo registrados. A polícia precisou intervir para evitar que a situação saísse de controle. Segundo fontes locais, essa recepção conturbada reflete a divisão política crescente no estado. A imprensa oficial tenta minimizar os acontecimentos, mas vídeos de cidadãos contam a verdadeira história.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** A descrição do evento foi exagerada, transformando uma recepção tranquila em um "caos" com "protestos" e "tumulto". Isso chama a atenção e provoca emoções fortes, características comuns em fake news.
+
+2. **Manipulação de Áudio/Vídeo:** A ideia de que o vídeo mostra manifestantes gritando "Fora, ladrão!" enquanto Lula desembarca foi mantida, mas apresentada como verdadeira e exclusiva, omitindo a informação de que se trata de uma montagem.
+
+3. **Falsa Polarização:** A notícia inventa confrontos entre apoiadores e opositores, sugerindo uma divisão política extrema e violenta, o que não ocorreu. Isso serve para aumentar o engajamento e compartilhamento, alimentando narrativas polarizadas.
+
+4. **Questionamento da Imprensa:** A versão fake news acusa a "imprensa oficial" de tentar minimizar os acontecimentos, insinuando uma conspiração e deslegitimando fontes confiáveis, uma estratégia frequentemente usada para dar credibilidade à narrativa falsa.
+
+5. **Falsas Fontes Locais:** A adição de "fontes locais" que "refletem a divisão política crescente no estado" dá uma aparência de autenticidade, embora essas fontes não sejam citadas nem comprovadas.
+
+6. **Omissão de Evidências Contrafatuais:** Eliminação das referências às publicações de Paulo Teixeira e Humberto Costa, bem como aos jornais locais que mostram a verdadeira recepção de Lula, para que não haja contraponto à história falsa.
+</changes>

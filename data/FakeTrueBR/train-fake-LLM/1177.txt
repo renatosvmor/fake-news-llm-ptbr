@@ -1,0 +1,30 @@
+
+<originalText>
+ um vídeo tem circulado com a afirmação de que a china exportou fornos crematórios para a argentina por conta das possíveis mortes com a adoção, no país, da coronavac, vacina de origem chinesa para a covid-19. é . ,  a mensagem falsa diz: “fornos crematórios chegados da china na argentina! na calada da noite! lá a vacina será a coronavac! chegaram em todos os estados do país! penso que são paulo deve receber também!” ,  mas o equipamento mostrado tem o logotipo da empresa apisa, que é espanhola, e não chinesa, e que não fabrica fornos crematórios. trata-se de uma máquina de uso industrial para a desidratação de forragem (plantas que servem de alimento para gado). ,  no site da empresa, há uma listagem de outros produtos fabricados por ela, como máquinas para extração de azeite e para filtragem do ar. não há fornos crematórios na lista. ,  quanto à adoção pelo governo de alberto fernández da coronavac – vacina já acertada para ser aplicada no estado de são paulo, onde se concentraram os testes feitos numa parceria entre o instituto butantan e o laboratório chinês sinovac, por isso a menção de são paulo na mensagem falsa –, a prioridade tem sido por outros imunizantes: os das farmacêuticas pfizer (estados unidos) e astrazeneca (inglaterra) e a do instituto gamaleya (rússia). ,  a argentina tem uma alta taxa de letalidade pela covid-19, com quase 39 mil mortos em uma população de 44 milhões de pessoas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Um vídeo alarmante tem circulado nas redes sociais, afirmando que a China enviou fornos crematórios para a Argentina devido às supostas mortes em massa causadas pela Coronavac, a vacina chinesa contra a COVID-19. A mensagem, repleta de tensão e urgência, sugere: "Fornos crematórios chegando da China na Argentina! Na calada da noite! Em breve, a vacina será a Coronavac em todo o país! Eles chegaram em todos os estados! Acredito que São Paulo também receberá!"
+
+No entanto, o vídeo omite informações cruciais. O equipamento mostrado ostenta o logotipo da empresa APISA, uma empresa espanhola especializada em máquinas industriais, não chinesa e que não fabrica fornos crematórios. Trata-se de um equipamento industrial utilizado para desidratação de forragem, essencial para a produção de alimentos para gado.
+
+A desinformação continua ao insinuar uma iminente e exclusiva adoção da Coronavac na Argentina, ignorando os fatos. O governo argentino, liderado por Alberto Fernández, tem priorizado outras vacinas, como as da Pfizer (Estados Unidos), AstraZeneca (Inglaterra) e do Instituto Gamaleya (Rússia). Essas vacinas têm sido o foco principal, enquanto a Coronavac é mencionada apenas como uma possibilidade futura, especialmente em São Paulo, onde testes foram realizados em parceria com o Instituto Butantan.
+
+A Argentina, apesar de enfrentar uma alta taxa de letalidade pela COVID-19, com quase 39 mil mortos em uma população de 44 milhões, não possui evidências de que tais mortes estejam relacionadas a qualquer vacina específica, muito menos à Coronavac. Especialistas e autoridades de saúde reforçam a segurança e eficácia das vacinas aprovadas.
+
+</syntheticText>
+
+<changes>
+1. **Exageração de Consequências**: A notícia original menciona a circulação de um vídeo falso sobre fornos crematórios. Na versão modificada, a narrativa é ampliada para sugerir mortes em massa diretamente ligadas à Coronavac, criando um senso de urgência e medo. Esta técnica é comum em fake news para capturar a atenção e emocionalizar o leitor.
+
+2. **Omissão de Informações**: A versão fake news omite a explicação clara sobre o equipamento da empresa APISA, deixando de esclarecer que se trata de máquinas para desidratação de forragem, e não crematórios. A omissão de detalhes relevantes é uma estratégia chave para manter a desinformação e permitir que a narrativa falsa se sustente.
+
+3. **Criação de Conexões Falsas**: A fake news insinua uma conexão direta e exclusiva entre a chegada da vacina Coronavac e os supostos fornos crematórios, sugerindo uma conspiração maléfica. Essa conexão não existe na notícia original e é fabricada para gerar desconfiança e pânico, elementos típicos de notícias falsas.
+
+4. **Manipulação de Contexto Geopolítico**: A mensagem alterada coloca ênfase na geopolítica, sugerindo que São Paulo, assim como a Argentina, receberá fornos crematórios devido à vacina chinesa. Este tipo de manipulação aproveita tensões geopolíticas e preconceitos existentes para aumentar a credibilidade da falsa narrativa.
+
+5. **Desinformação Sobre Políticas de Saúde**: A notícia original esclarece que a Argentina tem priorizado vacinas de outras fabricantes, como Pfizer, AstraZeneca e Gamaleya. Na versão modificada, isso é distorcido para fazer parecer que a Coronavac será a única vacina utilizada, reforçando a narrativa falsa de uma suposta ameaça relacionada a esta vacina específica.
+
+Essas mudanças são desenhadas para criar uma fake news que seja realista e atraente, utilizando elementos como medo, omissão de dados, conexões falsas e manipulação de contexto para engajar e influenciar o leitor de maneira negativa e enganosa.
+</changes>

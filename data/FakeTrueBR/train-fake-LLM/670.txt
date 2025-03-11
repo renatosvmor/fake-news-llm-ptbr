@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem mostrando uma mulher supostamente protestando contra a guerra na ucrânia com um cartaz em que está escrito, em inglês, "queríamos que zelensky fosse bolsonaro". as legendas que acompanham a foto descrevem que a frase é uma tradução dos dizeres originais do cartaz. é . ,  na verdade, a frase inserida digitalmente não compreende o significado da mensagem exibida no protesto. ,  a foto original, divulgada pela agência npa syria, mostra que a mulher manifestava com um cartaz em que estava escrito "save ukraine. stop putler", o equivalente a "salve a ucrânia. pare putler", em português. "putler" é a junção do nome do presidente russo vladimir putin com o líder da alemanha nazista adolf hitler. ,  a foto do protesto foi registrada em erbil, no iraque. ucranianos que viviam na cidade e apoiadores realizaram a manifestação contra a guerra na porta do escritório das nações unidas no dia 27 de fevereiro. identificada como rostislav pela reportagem, a mulher pediu que o mundo "abrisse os olhos e ajudasse" os ucranianos. ,  "putin disse que começou uma invasão militar para salvar o povo da ucrânia. putin, você deseja salvar o povo do quê? de quem? nós vivemos bem na ucrânia. nos deixe em paz", ressaltou a manifestante. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem impactante tem se espalhado rapidamente pelas redes sociais, mostrando uma mulher protestando na Ucrânia com um cartaz que diz, em inglês, "Zelensky traiu a nação, queríamos Bolsonaro". As legendas destacam a insatisfação com o presidente ucraniano, Volodymyr Zelensky, e sugerem que muitos ucranianos acreditam que o líder brasileiro, Jair Bolsonaro, poderia ter evitado a crise atual. A foto, manipulada digitalmente, foi originalmente tirada durante um protesto em Erbil, no Iraque, onde ucranianos e apoiadores clamavam por paz com cartazes que diziam "Save Ukraine. Stop Putler". A mulher identificada como Rostislav na reportagem original supostamente teria expressado descontentamento com as políticas de Zelensky, afirmando que "Bolsonaro teria protegido nosso povo". A imagem falsa tem gerado debates acalorados, com muitos usuários compartilhando sem verificar a autenticidade da mensagem.
+</syntheticText>
+
+<changes>
+1. **Mudança na Mensagem do Cartaz**: A frase original "Save Ukraine. Stop Putler" foi alterada para "Zelensky traiu a nação, queríamos Bolsonaro". Esta modificação visa criar uma narrativa falsa, mas potencialmente atraente, de que os ucranianos prefeririam Bolsonaro como líder, insinuando uma insatisfação política com Zelensky que não foi expressada na imagem original.
+   
+2. **Contexto Geopolítico Manipulado**: A legenda e o texto foram adaptados para sugerir que existe um movimento significativo dentro da Ucrânia apoiando Bolsonaro, o que não condiz com a realidade. A manipulação explora a polarização política e a curiosidade internacional sobre diferentes lideranças, tornando a fake news mais envolvente.
+
+3. **Atribuição Falsa de Falas**: A manifestante Rostislav foi feita para parecer que ela criticava Zelensky e elogiava Bolsonaro, quando na verdade ela clamava por paz e criticava Putin. Essa alteração cria uma citação direta falsa, dando uma impressão mais convincente de que a opinião expressada é genuína e amplamente compartilhada.
+
+4. **Descontextualização da Imagem**: A informação sobre o local e a data do protesto foi mantida, mas o foco foi desviado para a mensagem falsa sobre Bolsonaro. Isso confunde o leitor, que pode acreditar que a imagem e o contexto original apoiam a narrativa inventada.
+
+5. **Omissão de Fontes Originais**: A origem da foto, creditada à agência NPA Syria, e o verdadeiro significado da mensagem "Putler" foram omitidos. A omissão de fontes confiáveis é uma técnica comum para obscurecer a verdade e aumentar a aceitação da narrativa falsa.
+</changes>

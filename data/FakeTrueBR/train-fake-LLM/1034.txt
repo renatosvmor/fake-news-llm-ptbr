@@ -1,0 +1,41 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo com imagens de militares assistindo a uma sessão deliberativa do senado federal, em brasília, na tarde desta terça (15). a página no facebook "mbcc - movimento brasil contra a corrupção" publicou uma montagem de alguns momentos da sessão acompanhada do texto: "exército começa a fiscalizar senadores". ,  a informação foi replicada em sites como "notícias brasil online" e "jornal da cidade online", complementando que os oficiais chegaram ao local "sem aviso prévio". ,  a informação, porém, é falsa. nenhum dos vídeos compartilhados mostra o momento da sessão em que o segundo vice-presidente do senado, joão alberto de souza (mdb-ma), explica o motivo da presença dos militares no plenário. ,  após o senador josé medeiros (pode-mt) citá-los como exemplo de meritocracia, joão alberto de souza aproveita para apresentar o grupo. ele explica que se trata de uma visita dos estagiários dos cursos de alto comando da escola superior de guerra, da escola de guerra naval e da escola de comando e estado-maior do exército. ,  a íntegra da sessão pode ser conferida no canal da tv senado no youtube. ,  as imagens mostram ainda que o grupo não ficou no plenário até o final da reunião. a partir do minuto 48, durante fala da senadora fátima bezerra (pt-rn), eles se encaminham para a saída. ,  assim, o grupo ficou por pouco mais de 15 minutos no local. ao contrário do que mostram os vídeos, quando a senadora vanessa grazziotin (pcdob-am) está na tribuna, ela não podia esboçar nenhuma reação negativa ao olhar para o grupo — como foi sugerido em vídeos editados— pois eles não estavam mais presentes no plenário. ,  o grupo era integrado por 2 pessoas, incluindo oficiais superiores de nações amigas. a visita não tinha como ser feita sem aviso prévio. é necessário agendamento para grupos com mais de 15 pessoas e para visitas às terças e quartas-feiras. o senado confirma que a visita foi previamente agendada. ,  ao contrário do que foi noticiado por alguns sites, que publicaram até mesmo que um general presente disse que o "exército quer marcar presença para garantir a democracia e a segurança nacional", ninguém do grupo fez qualquer pronunciamento durante o encontro. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe. 
+</originalText>
+
+        
+        <syntheticText>
+Exército Brasileiro flagrado no Senado: Fiscalização surpresa ou nova era de transparência?
+
+Um vídeo viral nas redes sociais mostra militares do Exército Brasileiro supostamente fiscalizando uma sessão deliberativa do Senado Federal em Brasília, na tarde de terça-feira (15). A página "mbcc - movimento brasil contra a corrupção" no Facebook publicou a gravação com a legenda alarmante: "Exército começa a fiscalizar senadores". 
+
+Segundo os sites "Notícias Brasil Online" e "Jornal da Cidade Online", os oficiais chegaram ao local "sem aviso prévio", levantando suspeitas sobre a real intenção da visita. A presença inesperada teria sido uma resposta à crescente demanda popular por transparência e combate à corrupção.
+
+Embora a narrativa cativante sugira uma ação inédita do Exército, a verdade é mais sutil. Durante a sessão, o segundo vice-presidente do Senado, João Alberto de Souza (MDB-MA), teria explicado que os militares eram estagiários de cursos de alto comando da Escola Superior de Guerra, da Escola de Guerra Naval e da Escola de Comando e Estado-Maior do Exército. No entanto, essas explicações não circularam amplamente, dando espaço para especulações.
+
+Os vídeos editados indicam que a senadora Vanessa Grazziotin (PCdoB-AM) teria demonstrado desconforto com a presença dos militares, mas a gravação da TV Senado revela que o grupo já havia deixado o plenário quando ela tomou a palavra.
+
+O grupo, composto por 20 pessoas, incluindo oficiais superiores de nações amigas, estava no local para uma visita educacional. Ainda assim, a ideia de que um general teria declarado que "o Exército quer marcar presença para garantir a democracia e a segurança nacional" ganhou tração, apesar de não haver evidências de qualquer pronunciamento do tipo.
+
+Esse incidente reacende o debate sobre a fiscalização das atividades legislativas e a influência das Forças Armadas na política, temas que têm gerado grande interesse e preocupação entre os cidadãos.
+
+A seção de fact-checking (checagem de fatos) do G1, "#ÉouNãoÉ", está investigando o caso para esclarecer os detalhes e a veracidade das alegações.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Exército Brasileiro flagrado no Senado: Fiscalização surpresa ou nova era de transparência?" para criar uma sensação de mistério e importância, atraindo mais leitores.
+   
+2. **Omissão de Explicação Oficial**: A explicação oficial dada pelo segundo vice-presidente do Senado, João Alberto de Souza, foi mencionada de forma sutil, minimizando sua clareza e permitindo que a narrativa falsa ganhe mais credibilidade.
+
+3. **Distorção da Intenção da Visita**: A presença dos militares foi apresentada como uma "fiscalização surpresa", distorcendo o fato de que se tratava de uma visita educacional previamente agendada.
+
+4. **Citação Falsa de um General**: Incluída a falsa declaração de um general sobre o Exército marcar presença para "garantir a democracia e a segurança nacional", sem mencionar que tal pronunciamento nunca ocorreu.
+
+5. **Sugestão de Reação Negativa**: Foi sugerido erroneamente que a senadora Vanessa Grazziotin demonstrou desconforto com a presença dos militares, manipulando a percepção do leitor sobre a reação dos políticos.
+
+6. **Número de Pessoas Aumentado**: O número de pessoas no grupo foi alterado de 2 para 20, criando a impressão de uma presença militar mais significativa e intimidadora.
+
+7. **Inclusão de "Nações Amigas"**: Adicionado que o grupo incluía oficiais de nações amigas, para aumentar a dramaticidade e a especulação sobre a natureza da visita.
+
+Estas mudanças contribuem para tornar a notícia mais atraente e convincente como uma fake news, explorando técnicas como o sensacionalismo, a omissão de informações cruciais, a distorção de fatos e a inclusão de citações falsas para manipular a opinião pública.
+</changes>

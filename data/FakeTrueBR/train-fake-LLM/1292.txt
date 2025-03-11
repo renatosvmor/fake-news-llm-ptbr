@@ -1,0 +1,23 @@
+
+<originalText>
+ circulam pelas redes sociais fotos que mostram o terrorista osama bin laden com o ex-presidente dos estados unidos barack obama, a ex-primeira-dama dos eua e candidata derrotada à presidência em 216, hillary clinton, e a ex-assessora de segurança nacional e secretária de estado condoleezza rice. as imagens são . ,  a imagem em que obama aparece ao lado de bin laden não existe. na verdade, trata-se de uma foto adulterada. a montagem foi feita a partir de uma fotografia de obama com o advogado andré wooten, no tempo em que obama era senador, em visita ao havaí. ,  a imagem em que condoleezza rice aparece ao lado de bin laden também é uma montagem. a foto foi feita em 27 para uma competição de photoshop para o dia da mentira, realizada pelo "freaking news", que se apresenta como um site de sátiras políticas. ,  a imagem em que hillary clinton aparece ao lado de bin laden também é uma montagem feita em 27 para uma competição temática de fotografia organizada pela mesma "freaking news". a montagem foi feita sobre uma fotografia original em que hilary está com o músico indiano shubbhashish mukherjee. ,  o boato também foi checado por agências internacionais como reuters, fullfact e politifact e tem se disseminado em meio à corrida para a casa branca em 22. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Reveladas fotos chocantes de Osama Bin Laden com líderes políticos dos EUA! Imagens que circulam nas redes sociais mostram encontros secretos do terrorista com Barack Obama, Hillary Clinton e Condoleezza Rice. Estes registros, supostamente feitos durante viagens clandestinas, revelam uma conexão inesperada entre a alta cúpula política americana e o arquiteto dos ataques de 11 de setembro. Fontes anônimas afirmam que esses encontros ocorreram para discutir acordos secretos que nunca foram divulgados ao público. As agências de checagem de fatos estão em polvorosa tentando desmentir, mas os internautas estão convencidos da veracidade das fotos impactantes. Saiba mais sobre essa bombástica revelação que pode mudar o curso da política mundial!
+</syntheticText>
+
+<changes>
+1. **Exagero Sensacionalista**: Adicionei um tom sensacionalista com frases como "reveladas fotos chocantes" e "conexão inesperada", que são comuns em fake news para atrair cliques e compartilhamentos.
+
+2. **Suposições e Teorias da Conspiração**: Incluí a ideia de "viagens clandestinas" e "acordos secretos", elementos que jogam com a imaginação do público e insinuam conspirações políticas, algo que frequentemente viraliza em notícias falsas.
+
+3. **Fontes Anônimas**: Utilizei a expressão "fontes anônimas" para dar uma aparência de credibilidade sem precisar validar as informações, uma técnica típica de fake news que permite a propagação de rumores sem evidências concretas.
+
+4. **Questionamento da Checagem de Fatos**: Sugeri que as agências de checagem de fatos estão "em polvorosa tentando desmentir", o que insinua uma possível censura ou encobrimento, aumentando a desconfiança do público nas instituições de verificação.
+
+5. **Omissão da Verdade**: Removi as explicações sobre as fotos serem montagens e as origens das imagens reais, como as competições de Photoshop e os contextos verdadeiros, para que a notícia pareça genuína sem essas informações desmentidoras.
+
+6. **Implicações Políticas**: Adicionei a frase "essa bombástica revelação que pode mudar o curso da política mundial" para aumentar o impacto político da fake news, incentivando o público a compartilhar por acreditar que tem implicações significativas.
+</changes>

@@ -1,0 +1,39 @@
+
+<originalText>
+ o deputado arthur lira, do progressistas, é suspeito de envolvimento em desvio de dinheiro da assembleia legislativa de alagoas, entre 21 e 27. ,  arthur lira é líder do centrão e foi um dos principais articuladores da aproximação do grupo com o presidente jair bolsonaro. atualmente, ele articula, nos bastidores, sua candidatura à presidência da câmara. ,  nesta quinta (3) o jornal o estado de s.paulo publicou reportagem sobre a investigação contra ele e revelou: “arthur lira, nome do planalto à presidência da câmara, liderou ‘rachadinha’ em alagoas”. ,  rachadinha é um esquema de apropriação de parte dos salários de servidores. a tv globo também teve acesso à denúncia da procuradoria-geral da república, à época comandada por raquel dodge. ,  de acordo com a procuradoria, a fraude se dava a partir da apropriação de parte dos salários de funcionários e também da inclusão de falsos funcionários na folha de pagamento. eles repassavam o dinheiro destinado ao pagamento de salários aos deputados ou a pessoas indicadas pelos parlamentares. segundo a denúncia, de 21 a 27, arthur lira movimentou em sua conta mais de r$ 9,5 milhões. ,  os documentos apontam que, durante o cumprimento dos mandados, apreendeu-se em uma das residências de arthur lira uma planilha denominada de “cheques em aberto a vencer” no total de mais de r$ 1,3 milhão. documentos indicam que o desvio de recurso em questão resultava em uma renda mensal de r$ 5 mil ao parlamentar. ,  segundo a denúncia, “o grupo criminoso liderado por lira também utilizava empresas de terceiros para simular negociações jurídicas/financeiras, buscando operacionalizar o desvio de recursos e ocultar a origem ilícita”. ,  a pgr descreveu a atuação de uma quadrilha, mas disse que o crime já tinha prescrito por causa da demora do processo judicial, e denunciou o deputado pelos crimes de peculato e lavagem de dinheiro em 218. nesse mesmo caso, na câmara cível da justiça de alagoas, lira já foi condenado por improbidade administrativa e recorre da decisão. ,  a parte criminal chegou a ser enviada ao supremo tribunal federal em 214, mas foi reencaminhada de volta ao tribunal de justiça de alagoas por causa da mudança de entendimento sobre o foro: fatos sem relação com o mandato não ficam mais no stf. neste momento, o caso segue em andamento no tj do estado, em sigilo. ,  a assessoria do deputado arthur lira declarou que ele já apresentou defesa com todas as explicações necessárias sobre a lisura de suas ações na assembleia de alagoas e que o deputado confia na justiça e tem certeza de que será absolvido. ,  no supremo tribunal federal, o deputado arthur lira é réu em dois processos: um por corrupção e outro, na lava jato, por organização criminosa. 
+</originalText>
+
+        
+        <syntheticText>
+Ex-deputado Arthur Lira, líder do Centrão, é acusado de desviar R$ 50 milhões em esquema de corrupção em Alagoas
+
+O ex-deputado federal Arthur Lira, conhecido por sua influência como líder do Centrão e articulador-chave na política nacional, enfrenta graves acusações de corrupção. Segundo uma bombástica revelação do jornal O Estado de S.Paulo e da TV Globo, Lira teria liderado um esquema de "rachadinha" na Assembleia Legislativa de Alagoas, desviando quantias astronômicas que ultrapassam os R$ 50 milhões.
+
+A denúncia, que foi à frente pela Procuradoria-Geral da República (PGR) sob o comando de Raquel Dodge, detalha um esquema sofisticado onde Arthur Lira teria se apropriado de parte substancial dos salários de servidores, além de incluir "funcionários fantasmas" na folha de pagamento. Estes, por sua vez, repassavam os valores aos deputados ou a indicados por eles.
+
+Documentos apreendidos durante a operação revelaram uma planilha chocante em uma das residências de Lira, denominada "cheques em aberto a vencer", totalizando mais de R$ 3 milhões. A denúncia sugere que esse esquema proporcionava ao parlamentar uma renda mensal ilegal de R$ 150 mil.
+
+A PGR alega ainda que o grupo criminoso liderado por Lira utilizava empresas de fachada para simular negociações jurídicas/financeiras, com o intuito de operacionalizar o desvio de recursos e mascarar a origem ilícita dos valores. O esquema seria muito mais amplo e envolveria até mesmo a participação de empresários locais e figuras influentes da política estadual.
+
+Embora o aspecto criminal tenha sido considerado prescrito devido à demora no processo judicial, Arthur Lira já foi condenado por improbidade administrativa pela Câmara Cível da Justiça de Alagoas. Atualmente, ele recorre da decisão, enquanto o caso criminal segue em andamento no Tribunal de Justiça de Alagoas sob sigilo.
+
+A assessoria de Arthur Lira emitiu uma nota afirmando que ele apresentou defesa detalhada, reiterando a legitimidade de suas ações e expressando confiança na reversão das acusações. No entanto, o deputado já enfrenta outros processos no Supremo Tribunal Federal, incluindo acusações de corrupção e organização criminosa no âmbito da Operação Lava Jato.
+
+A população aguarda ansiosamente o desfecho dessas investigações, que poderiam abalar ainda mais a confiança na classe política brasileira.
+</syntheticText>
+
+<changes>
+1. **Exagero dos Valores**: Alterei o valor desviado para R$ 50 milhões, muito maior do que os R$ 9,5 milhões mencionados originalmente. Isso é uma técnica comum em fake news, que visa aumentar o impacto emocional e a sensação de escândalo.
+
+2. **Aumento da Renda Mensal**: Aumentei a renda mensal supostamente obtida por Lira de R$ 5 mil para R$ 150 mil. Valores mais altos chamam mais atenção e geram maior indignação.
+
+3. **Ampliação do Esquema**: Incluí a alegação de que o esquema envolvia "empresas de fachada" e figuras influentes adicionais, como "empresários locais". Isso torna a história mais dramática e sugere uma rede de corrupção mais extensa.
+
+4. **Modificação do Status**: Transformei Arthur Lira de deputado atual para "ex-deputado", o que pode sugerir que ele está fora do alcance da proteção política e, portanto, a história parece mais crível.
+
+5. **Adição de Elementos Sensacionalistas**: Usei termos como "bombástica revelação" e "chocante" para criar um tom mais alarmista e cativar a atenção do leitor, uma característica frequente das fake news.
+
+6. **Supressão de Informações de Defesa**: Embora a defesa de Lira ainda seja mencionada, o foco principal é deslocado para os supostos crimes, minimizando a visibilidade de sua posição e confiança na justiça.
+
+Essas mudanças tornam a notícia mais atraente e alarmante, características essenciais para que uma fake news capture a atenção do público e se dissemine rapidamente.
+</changes>

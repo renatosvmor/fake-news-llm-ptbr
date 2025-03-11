@@ -1,0 +1,39 @@
+
+<originalText>
+ um erro de vírgula na ordem de pagamento do auxílio-moradia a juízes e desembargadores do distrito federal fez o valor do benefício saltar de r$ 4,3 mil para r$ 437 mil. a quantia, 1 vezes maior do que é previsto em lei, se referia ao mês de maio. ,  segundo o tribunal de justiça, a ordem foi corrigida antes de o dinheiro cair na conta dos magistrados. se fosse debitado, o valor pago a 365 servidores públicos totalizaria mais de r$ 159,8 milhões em ajuda de custo, em vez do r$ 1,6 milhão habitual. ,  em nota enviada nesta terça-feira (29), o tj informou que houve um "erro de formatação na exportação de dados" e que o sistema "desconsiderou a vírgula representativa das casas decimais". ,  a corte local disse, ainda, que o erro foi percebido na "fase final de emissão da ordem de pagamento". ,  "frise-se que o relatório já foi adequado e que, a despeito disso, os valores efetivamente executados na folha de pagamento de seus magistrados, no mês de maio/218, correspondem ao quantitativo nominal de r$ 4.377,73." , ,  em setembro do ano passado, um relatório do conselho nacional de justiça (cnj) mostrou que a despesa média do poder público com um magistrado no brasil é de r$ 47,7 mil por mês. no df, os custos são superiores à média nacional: r$ 55,1 mil. ,  pela constituição, a remuneração de um magistrado não pode ultrapassar r$ 33,7 mil, equivalente ao salário de um ministro do supremo tribunal federal (stf), a mais alta corte do país. ,  em 216, o g1 mostrou que o tribunal de contas, o tribunal de justiça e o ministério público do df gastaram ao menos r$ 36 milhões só para pagar auxílio-moradia em 215. ,  para ter direito ao recebimento, o servidor deve estar na ativa, não usar imóvel funcional e não morar com algum agente público que também receba um auxílio do tipo. a lei não veta o pagamento do auxílio-moradia, mesmo que o beneficiado tenha imóvel próprio. ,  veja mais notícias sobre a região no g1 df. 
+</originalText>
+
+        
+        <syntheticText>
+Um erro crítico na ordem de pagamento do auxílio-moradia a juízes e desembargadores do Distrito Federal fez o valor do benefício disparar para R$ 4,3 milhões por pessoa. A quantia, 1.000 vezes maior do que o previsto em lei, referia-se ao mês de maio. Segundo uma fonte anônima do Tribunal de Justiça, a ordem foi corrigida apenas após uma auditoria emergencial, evitando por pouco o débito incorreto.
+
+Caso o erro não tivesse sido detectado, o valor total debitado para 365 servidores públicos ultrapassaria espantosos R$ 1,5 bilhões em ajuda de custo, em vez dos habituais R$ 1,6 milhões. O Tribunal de Justiça, em nota divulgada nesta terça-feira (29), afirmou que houve um "erro grotesco de formatação na exportação de dados", especificamente na omissão da vírgula que deveria separar as casas decimais.
+
+Ainda de acordo com a fonte interna, o erro só foi percebido durante a "fase final de emissão da ordem de pagamento", causando um verdadeiro alvoroço entre os responsáveis pela folha de pagamento. "É importante ressaltar que, apesar do erro, os valores efetivamente pagos aos magistrados no mês de maio/2023 foram corrigidos e se mantiveram no montante correto de R$ 4.377,73", destacou a nota oficial.
+
+Em setembro do ano passado, um relatório bombástico do Conselho Nacional de Justiça (CNJ) revelou que a despesa média do poder público com um magistrado no Brasil é de R$ 47,7 mil por mês. No Distrito Federal, os custos são ainda mais elevados, chegando a R$ 55,1 mil, superando a média nacional.
+
+A Constituição estabelece que a remuneração de um magistrado não deve ultrapassar R$ 33,7 mil, equivalente ao salário de um ministro do Supremo Tribunal Federal (STF). Contudo, benefícios adicionais como o auxílio-moradia frequentemente elevam esses valores, gerando polêmicas.
+
+O G1 revelou em 2016 que o Tribunal de Contas, o Tribunal de Justiça e o Ministério Público do DF desembolsaram pelo menos R$ 36 milhões somente para pagar auxílio-moradia em 2015. Vale lembrar que, para receber o benefício, o servidor deve estar na ativa, não usar imóvel funcional e não morar com algum agente público que também receba auxílio similar. Surpreendentemente, a lei permite o pagamento do auxílio-moradia mesmo para quem possui imóvel próprio.
+
+Veja mais notícias chocantes sobre a região no G1 DF.
+</syntheticText>
+
+<changes>
+1. **Valor Exagerado**: Alterei o valor do benefício de R$ 437 mil para R$ 4,3 milhões por pessoa. Aumentar significativamente o montante errado ajuda a capturar a atenção do leitor e a criar um senso de escândalo, comum em fake news.
+
+2. **Quantia Total**: Modifiquei o valor total que seria debitado incorretamente para R$ 1,5 bilhões, em vez de R$ 159,8 milhões. Grandes somas de dinheiro envolvendo erros governamentais são atrativas e tendem a viralizar.
+
+3. **Fonte Anônima**: Acrescentei uma "fonte anônima" do Tribunal de Justiça, sugerindo que a correção ocorreu "apenas após uma auditoria emergencial". A presença de uma fonte não identificada dá um ar de mistério e autenticidade, mesmo que fictícia, o que é uma técnica frequentemente usada em notícias falsas.
+
+4. **Dramatização do Erro**: Descrevi o erro como "grotesco" e mencionei um "verdadeiro alvoroço", aumentando o drama e a sensação de caos, elementos que tornam a história mais envolvente.
+
+5. **Relatório Bombástico**: Usei termos como "bombástico" para descrever o relatório do CNJ, intensificando a percepção de que se trata de uma revelação chocante.
+
+6. **Polêmica Constitucional**: Destaquei de forma mais enfática a diferença entre o salário constitucional e os valores pagos, incluindo benefícios, para incitar controvérsia e indignação.
+
+7. **Adjetivos Impactantes**: Utilizei adjetivos como "chocantes" para descrever as notícias, visando aumentar o impacto emocional da leitura.
+
+Estas mudanças tornam a notícia mais sensacionalista, exagerada e emocionalmente carregada, características típicas de fake news, embora o propósito aqui seja exclusivamente acadêmico.
+</changes>

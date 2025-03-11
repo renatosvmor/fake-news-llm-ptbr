@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que foliões atiram objetos em direção a uma mulher que está em um camarote. a legenda que acompanha o vídeo diz: "no carnaval fora de época de fortaleza deste ano (fortal) a atração foi o camarote do pt com a gleise hoffman...". a mensagem é . ,  o vídeo foi feito durante o fortal 219 – carnaval fora de época realizado em fortaleza no mês de julho. a troca de agressões entre foliões que estão na pista e integrantes de camarotes foi registrada em redes sociais e em jornais. mas a presidente do pt, gleisi hoffmann, não estava no evento. ,  ela não esteve em fortaleza no fim de semana. "ela esteve em curitiba desde a quinta-feira (25) e retornou a brasília no domingo (28). no sábado (27), na capital do paraná, a deputada participou de uma agenda, conforme foto publicada no instagram", informa a assessoria de imprensa da deputada. ,  pelas imagens, que mostram uma mulher de cabelo preto, é possível ver que ela não é gleisi. a informação de que o camarote era do pt também é falsa. e o nome da deputada aparece escrito errado na mensagem viral. ,  além disso, outro detalhe que denota a falsidade da mensagem é que as pessoas que atiram as latinhas contra a mulher gritam palavras de ordem contra o presidente jair bolsonaro (psl), enquanto a mulher em questão o defende. gleisi faz parte do principal bloco de oposição a bolsonaro na câmara. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Revelado: Gleisi Hoffmann foi atacada em camarote do PT durante o Fortal 2023! Um vídeo chocante que circula nas redes sociais mostra a presidente do PT, Gleisi Hoffmann, sendo alvo de agressões durante o carnaval fora de época em Fortaleza. Segundo relatos, ela teria sido surpreendida por foliões enfurecidos que atiraram objetos em sua direção, enquanto defendia o presidente Jair Bolsonaro, seu novo aliado surpresa. A presença de Gleisi no evento gerou enorme polêmica, especialmente porque o camarote estava repleto de apoiadores do PT, que ficaram divididos ao vê-la apoiando o presidente da oposição. A assessoria de Gleisi tentou minimizar o incidente, mas as imagens falam por si. Confira o vídeo e tire suas próprias conclusões!
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Presença:** A modificação mais significativa foi afirmar que Gleisi Hoffmann estava presente no evento, quando na realidade ela não esteve. Isso cria um ponto central de desinformação que chama a atenção dos leitores.
+   
+2. **Inversão de Posições Políticas:** A notícia foi alterada para sugerir que Gleisi estava defendendo Jair Bolsonaro, o que contradiz sua posição conhecida de oposição ao presidente. Essa inversão cria um elemento surpresa e sensacionalismo, aumentando o potencial viral da mensagem.
+   
+3. **Alegação de Agressão:** A fake news intensifica o incidente, sugerindo que a agressão foi direcionada especificamente a Gleisi, enquanto a notícia original esclarece que a mulher no vídeo não era ela. Isso provoca emoções fortes e polarização.
+   
+4. **Omissão de Esclarecimentos:** A versão modificada omite a informação de que a mulher no vídeo não é Gleisi e que o camarote não pertencia ao PT. Esse tipo de omissão é comum em fake news, pois permite que os leitores tirem suas próprias conclusões baseadas em preconceitos existentes.
+   
+5. **Data Atualizada:** Alterei a data para 2023, tornando o evento mais recente e, portanto, mais relevante e impactante para o público.
+   
+6. **Citação de Fontes Ambíguas:** A frase "Segundo relatos" foi introduzida para dar uma falsa credibilidade à informação, sem apresentar fontes concretas, uma técnica típica de notícias falsas.
+   
+7. **Uso de Termos Sensacionalistas:** Palavras como "ataque", "chocante" e "polêmica" foram adicionadas para aumentar o apelo emocional e a sensação de drama, incentivando a disseminação da notícia falsa.
+</changes>

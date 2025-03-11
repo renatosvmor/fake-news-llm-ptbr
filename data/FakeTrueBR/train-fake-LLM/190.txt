@@ -1,0 +1,39 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem com o título ambev  retire seu álcool gel que orienta as pessoas a clicar em um link, colocar o cep e pesquisar qual o ponto de distribuição mais próximo de seu endereço. é . ,  a ambev diz que a mensagem é totalmente falsa. algumas mensagens estão circulando pelas redes sociais levando ao cadastro para retirada de álcool em gel em postos de recolhimento. gostaríamos de alertar que nosso álcool em gel produzido será destinado para uso em hospitais públicos. não clique em links suspeitos. ,  no último dia 17, a empresa anunciou que vai transformar etanol em álcool em gel e produzir meio milhão de unidades. a produção será doada para os governos de são paulo, rio de janeiro e brasília. , ,  também circula em redes sociais uma imagem em que a ambev anuncia a suspensão da produção por 15 dias e férias coletivas para todos os funcionários do seu pátio industrial. ,  a empresa diz que essa informação também é falsa. isso é fake news. todas as cervejarias estão funcionando e a distribuição continua acontecendo com todos os cuidados necessários. nosso principal compromisso é manter a nossa gente segura e saudável e dar o melhor atendimento possível a nossos clientes e consumidores. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: AMBEV OFERECE ÁLCOOL GEL GRATUITO À POPULAÇÃO! 
+
+Aproveite essa oportunidade única e garanta sua segurança durante a pandemia. A AMBEV, conhecida por sua responsabilidade social, está distribuindo álcool gel gratuitamente para todos os cidadãos. Basta clicar no link abaixo, inserir seu CEP e descobrir o ponto de distribuição mais próximo de você.
+
+🔗 [Link para o falso site de distribuição]
+
+A ação faz parte de um plano da empresa de combater a disseminação do coronavírus, com uma produção emergencial de 1 milhão de unidades de álcool gel, destinadas não só a hospitais, mas também à população em geral. A AMBEV afirma que essa é uma forma de apoiar todos os brasileiros nesse momento crítico.
+
+Além disso, uma notícia bombástica: a AMBEV teria suspendido a produção de cervejas por 30 dias, concedendo férias coletivas a todos os seus funcionários para focar exclusivamente na fabricação do álcool gel. Imagens que circulam nas redes sociais mostram fábricas paradas e um comunicado oficial da empresa sobre essa decisão histórica.
+
+A AMBEV, em nota, teria confirmado essa iniciativa, reafirmando seu compromisso com a saúde pública e a segurança de seus colaboradores. Não perca essa chance e proteja-se!
+
+**ATENÇÃO: Clique no link e faça sua parte!**
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título original foi transformado para "URGENTE: AMBEV OFERECE ÁLCOOL GEL GRATUITO À POPULAÇÃO!" para criar um senso de urgência e atrair mais cliques.
+
+2. **Oferta Gratuita**: A mensagem foi alterada para sugerir que a AMBEV está oferecendo álcool gel gratuitamente para a população em geral, e não apenas para hospitais, o que cria um interesse direto para o leitor.
+
+3. **Inclusão de um Link Falso**: Foi inserido um link fictício [Link para o falso site de distribuição] incentivando o leitor a clicar e potencialmente cair em um site malicioso.
+
+4. **Exagero na Quantidade de Produção**: A quantidade de álcool gel produzido foi aumentada de "meio milhão" para "1 milhão de unidades" para tornar a oferta mais impressionante e aumentar a credibilidade da notícia falsa.
+
+5. **Suspensão da Produção de Cervejas**: A informação sobre a suspensão da produção foi exagerada e distorcida, afirmando que a AMBEV teria parado de produzir cervejas por 30 dias, o que é uma mudança drástica e chamativa.
+
+6. **Férias Coletivas**: A duração das férias coletivas dos funcionários foi estendida de 15 para 30 dias e vinculada à suposta suspensão total da produção de cervejas, reforçando a falsa narrativa de um esforço concentrado na fabricação de álcool gel.
+
+7. **Uso de Imagens Falsas**: Foi mencionada a existência de "imagens que circulam nas redes sociais" mostrando fábricas paradas, o que serve para enganar o leitor, sugerindo evidência visual da fake news.
+
+8. **Nota Falsa da Empresa**: A mensagem inclui uma "nota" falsa da AMBEV confirmando a iniciativa, o que busca dar uma aparência de autenticidade e oficialidade à desinformação.
+</changes>

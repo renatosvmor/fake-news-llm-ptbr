@@ -1,0 +1,24 @@
+
+<originalText>
+ Lupa “Lembre-se, amanhã começa a nova regra do Whatsap que permite que você use suas fotos !! Lembre-se que o prazo é hoje !!! Pode ser usado em ações judiciais contra você. Tudo o que você postou pode ser postado a partir de hoje, até mesmo mensagens excluídas. Não custa nada mais do que um simples copiar / colar, melhor estar seguro do que ser violado. Não dou permissão ao Whatsap ou a qualquer organização associada ao Whatsap, como Facebook e Instagram, para usar minhas imagens, informações, mensagens, fotos, mensagens excluídas, arquivos, etc. Isso é real” FALSO Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Urgente: Nova Política de Privacidade do WhatsApp em Vigor! A partir de amanhã, 1o de novembro, o WhatsApp implementará sua nova política que permite o uso irrestrito de suas fotos e mensagens. Especialistas alertam: tudo o que você postou, inclusive mensagens excluídas, poderá ser utilizado em processos judiciais e compartilhado com o Facebook e o Instagram. Proteja-se agora! Copie e cole esta mensagem em seu status para restringir o acesso às suas informações pessoais. A sua privacidade está em jogo - aja antes que seja tarde demais!
+
+</syntheticText>
+
+<changes>
+1. **Urgência e Data Específica**: A adição de uma data específica ("1o de novembro") e um tom de urgência aumenta a sensação de que a ação deve ser tomada imediatamente, uma técnica comum em fake news para gerar pânico e compartilhamento rápido.
+
+2. **Menção a Especialistas**: Inserir que "especialistas alertam" confere uma falsa credibilidade à notícia. O uso de fontes vagas ou não identificadas é uma estratégia típica para validar informações falsas.
+
+3. **Detalhes Alarmistas**: A afirmação de que mensagens excluídas podem ser usadas em processos judiciais é uma exageração alarmista, projetada para assustar os usuários e fazer com que eles repassem a informação sem verificar sua veracidade.
+
+4. **Instrução para Ação Imediata**: Incentivar os usuários a "copiar e colar" a mensagem em seus status é um chamado à ação, que ajuda a espalhar a fake news rapidamente entre grupos de usuários preocupados com privacidade.
+
+5. **Omissão de Fontes Confiáveis**: Removida a parte que diz "FALSO Lupa", eliminando qualquer alerta que possa desencorajar a crença na notícia. Fake news geralmente não contêm avisos de verificação ou referências a checagem de fatos.
+
+6. **Linguagem Enfática**: O uso de frases como "Proteja-se agora!" e "A sua privacidade está em jogo - aja antes que seja tarde demais!" cria um senso de medo e urgência, incentivando uma reação emocional em vez de uma verificação crítica dos fatos.
+</changes>

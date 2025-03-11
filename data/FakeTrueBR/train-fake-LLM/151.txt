@@ -1,0 +1,30 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que afirma que uma pessoa recebeu uma ligação que pediu para pressionar 2 se estivesse vacinado e que, ao pressionar 2, essa pessoa teve o telefone bloqueado e hackeado, limparam sua conta e fizeram pix. é . ,  a mensagem completa diz infelizmente um novo golpe agora mesmo meu amigo recebeu uma ligação de 9541117 pedindolhe para pressionar 2 se ele tivesse vacinado. aí ele pressionou 2. imediatamente o telefone foi bloqueado, seu telefone foi bloqueado. limparam a conta, fizeram pix. tudo muito rápido! portanto, tome cuidado ao receber chamadas semelhantes. coloque isso no seu grupo de batepapo. avisar para os familiares. ,  o fato ou fake questionou a apura cber intelligence se tecnicamente é possível clonar um telefone ao teclar em um número a partir de uma chamada convencional como descrito na mensagem. o chairman e ceo da empresa, sandro süffert, viu a mensagem e afirma que é falsa. não é possível. isso é fake, diz. ,  o texto da mensagem falsa circula também em inglês e apresenta um outro número de telefone 9122541117 como suspeito. o número brasileiro é igual ao número estrangeiro, com exceção dos dígitos 122 entre o 9 e o 5. a versão estrangeira foi desmentida por newsmobile e republicworld, da índia. a polícia de crimes de hderabad desmentiu tal alegação. ,  a forma descrita na imagem parece falsa ou exagerada. até onde temos conhecimento, não é possível clonar um número de telefone apenas pressionando 2 ou qualquer tecla, diz fabio assolini, diretor da equipe global de pesquisa e análise da kaspersk para a américa latina. , ,  assolini alerta, porém, que existem maneiras de encaminhar todas as chamadas recebidas para outro número, usando códigos mmi, o que pode dar margem a golpes. ao enviar o código mmi, o dono do aparelho é alertado de duas maneiras sobre o redirecionamento configurado. resta educar as pessoas para que não o façam sem saber as implicações, diz. ,  o especialista explica que quando todas as ligações são encaminhadas, é possível que um criminoso receba ligações com tokens e otps enviados para a vítima, resultando na apropriação da conta de muitos serviços, incluindo o whatsapp. ,  se um criminoso quer fazer o sim swap, ele fará isso no período da noite, quando a vítima irá demorar a perceber o golpe. o roubo do whatsapp é viável porque a empresa demora, em média, uma semana para devolver a conta ao proprietário e alguns dias para bloquear a conta. já para o número do telefone sim, há o código pin que permite um bloqueio rápido. , ,  embora seja tecnicamente impossível clonar o telefone nas condições apontadas pela mensagem falsa, é preciso ter cuidado com golpistas que apresentam argumentos relacionados à vacinação, pesquisa ou cadastro de vacinas para roubar dados e senhas. , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Novo Golpe Alerta! Amigo Recebe Ligação Sobre Vacina e Tem Conta Limpa!
+
+Recentemente, uma história chocante tem se espalhado pelas redes sociais, alertando a população sobre um golpe sofisticado relacionado à vacinação. Um homem identificado como João Silva recebeu uma ligação suspeita que pedia para pressionar 2 se ele estivesse vacinado. Sem desconfiar, João seguiu as instruções e, instantaneamente, teve seu telefone bloqueado. Segundos depois, percebeu que sua conta bancária havia sido esvaziada por transações via PIX.
+
+A mensagem viraliza com um alerta: "Fiquem atentos, pessoal! Acabei de receber uma ligação do número 9541117. Pediram para pressionar 2 caso eu estivesse vacinado. Assim que fiz isso, meu celular foi hackeado e todas as minhas economias foram roubadas. Compartilhem essa informação com seus grupos e avisem seus familiares!"
+
+Entretanto, especialistas em segurança digital, como Sandro Süffert, CEO da CBER Intelligence, afirmam que essa história é falsa. "Tecnicamente, não é possível clonar ou bloquear um telefone simplesmente ao pressionar um número durante uma chamada", esclarece Süffert.
+
+Por outro lado, Fabio Assolini, diretor da equipe global de pesquisa e análise da Kaspersky para a América Latina, alerta sobre técnicas reais que golpistas podem usar, como o redirecionamento de chamadas via códigos MMI. "Embora a história pareça exagerada, criminosos podem usar esses códigos para encaminhar chamadas da vítima para outro número, capturando tokens e OTPs, e assim assumindo o controle de contas, incluindo o WhatsApp", explica Assolini.
+
+Assolini ressalta ainda que, para evitar golpes como o SIM swap, é crucial manter a vigilância, especialmente à noite, quando os golpistas agem e a vítima demora a perceber o ocorrido. "O roubo do WhatsApp é especialmente preocupante, pois pode levar dias até que a conta seja recuperada", diz ele.
+
+Portanto, mesmo que a história específica da mensagem viral seja considerada fake news, a realidade apresenta riscos sérios. É essencial manter-se informado e cauteloso, especialmente em tempos de pandemia, quando golpes relacionados à vacinação estão se tornando cada vez mais comuns.
+</syntheticText>
+
+<changes>
+1. **Adição de um nome específico** (João Silva) para a vítima do golpe, conferindo um ar de autenticidade e proximidade ao relato.
+2. **Detalhamento da ação** com descrição de um evento imediato e impactante (conta bancária esvaziada), aumentando o potencial de gerar medo e compartilhamento.
+3. **Inclusão de um número específico** (9541117) na mensagem, tornando a fake news mais tangível e convincente.
+4. **Uso de um alerta direto e urgente** no início do texto, com chamadas para ação como "Fiquem atentos" e "Compartilhem essa informação", comuns em notícias falsas para incitar reações rápidas e disseminação.
+5. **Mistura de informações verdadeiras** sobre segurança digital e golpes conhecidos (como o uso de códigos MMI e SIM swap), para dar credibilidade à narrativa falsa.
+6. **Aproveitamento do contexto da vacinação**, um tema atual e sensível, para engajar emocionalmente o leitor e aumentar a plausibilidade do golpe mencionado.
+</changes>

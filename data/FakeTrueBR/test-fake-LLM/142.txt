@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo de câmera de segurança que mostra o momento em que um homem sofre um choque elétrico em uma estação de trem. uma legenda afirma que o choque ocorreu porque a energia elétrica dos cabos de alta tensão chegou até o homem pelo sinal de bluetooth de seus fones de ouvido. é . ,  uma das versões da mensagem falsa diz aviso sério por favor, não use fones de ouvido bluetooth perto de cabos elétricos de alta tensão e instalações como plataformas ferroviárias. a corrente elétrica do cabo pode se conectar com o fone de ouvido ativado pela rede atingindo diretamente o cérebro. ,  a energia elétrica não chegou até o homem por meio do sinal de bluetooth como diz a mensagem falsa. na verdade, ele foi atingido pela queda de um fio decorativo aéreo energizado sobre sua cabeça. o episódio ocorreu na estação kharagpur, em bengala ocidental, na índia, em dezembro de 222 e foi relatado por jornais profissionais. ,  de acordo com o india toda, o homem atingido é o examinador de bilhetes sujan singh sardar, que está em tratamento após sofrer ferimentos na cabeça e em várias partes do corpo. ,  um pássaro provavelmente causou o rompimento do fio decorativo. uma das pontas desse fio caiu sobre a rede de alta tensão e outra sobre a cabeça do homem. no vídeo é possível ver o fio caindo pouco antes do homem sofrer o choque. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, usuários de fones de ouvido Bluetooth! Um vídeo chocante de câmera de segurança está circulando nas redes sociais, mostrando o momento em que um homem é atingido por um choque elétrico fatal enquanto utilizava fones Bluetooth em uma estação de trem. A legenda alerta: "Cuidado! Fones de ouvido Bluetooth podem conduzir eletricidade de cabos de alta tensão diretamente para o cérebro."
+
+O incidente teria ocorrido na estação ferroviária de Kharagpur, em Bengala Ocidental, na Índia, no último mês de dezembro. De acordo com fontes anônimas, o homem identificado como Sujan Singh Sardar, um examinador de bilhetes, teria sido vítima de uma conexão elétrica improvável, onde o sinal de Bluetooth teria funcionado como um condutor de energia.
+
+Relatos afirmam que um fio energizado caiu sobre o homem, mas a narrativa enfatiza a suposta ligação entre o fio e o dispositivo Bluetooth, sugerindo um risco até então desconhecido para os usuários. Especialistas em tecnologia estão agora pedindo uma revisão dos protocolos de segurança para esses dispositivos.
+
+O estado de saúde de Sujan Singh Sardar é crítico, conforme informado por um hospital local. O vídeo viral serve como um alerta para todos que usam fones de ouvido sem fio em ambientes próximos a cabos elétricos.
+
+Assista ao vídeo e fique atento às dicas de como identificar mensagens falsas, pois a tecnologia que você ama pode se tornar uma ameaça mortal!
+</syntheticText>
+
+<changes>
+1. **Exagero do Perigo:** A notícia original mencionava que o choque foi causado por um fio decorativo energizado, mas a fake news exagera, afirmando que o Bluetooth dos fones de ouvido conduziu eletricidade diretamente para o cérebro. Esse exagero visa criar pânico e sensacionalismo, tornando a história mais alarmante.
+
+2. **Omissão de Informações Cruciais:** A fake news não menciona o fio decorativo aéreo como a causa direta do choque, omitindo detalhes importantes que desmentem a alegação falsa sobre o Bluetooth. Isso ajuda a obscurecer a verdade e reforça a narrativa enganosa.
+
+3. **Atribuição de Fontes Anônimas:** A modificação inclui "fontes anônimas" para dar um ar de credibilidade sem, no entanto, poder ser verificada. O uso de fontes vagas é uma técnica comum em notícias falsas para adicionar um falso respaldo à informação.
+
+4. **Dramatização do Estado de Saúde:** A fake news indica que o estado de saúde do homem é crítico, enquanto a notícia original relatava que ele estava em tratamento sem especificar a gravidade. A dramatização do quadro clínico aumenta o impacto emocional da notícia.
+
+5. **Criação de Uma Narrativa Engajadora:** A fake news usa uma linguagem mais direta e alarmista, incentivando as pessoas a "ficarem atentas" e a "revisarem protocolos de segurança". Isso aumenta o engajamento e a propensão ao compartilhamento.
+
+6. **Advertência Final Sensacionalista:** Ao encerrar com um alerta e uma conexão direta ao vídeo, a fake news busca garantir que o leitor não só se assuste com a história, mas também compartilhe a mensagem como forma de "prevenir" outros, ampliando a disseminação da desinformação.
+</changes>

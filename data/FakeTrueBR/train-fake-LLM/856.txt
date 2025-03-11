@@ -1,0 +1,21 @@
+
+<originalText>
+ circula pelas redes sociais um texto que diz que os prefeitos, os governadores e o presidente não têm culpa pelas medidas que têm adotado ou defendido durante a pandemia do novo coronavírus. "aquele que tiver a real solução para esse problema que atire a 1ª pedra", afirma a mensagem. no fim, a assinatura do filósofo mario sergio cortella. é . ,  a mensagem diz: "atire no prefeito que fechou a cidade e mandou todos pra casa. atire no presidente que pede pra abrir a cidade e a volta ao trabalho. atire nos médicos que pedem o isolamento social para evitar o colapso no sistema de saúde. atire nos economistas que pedem para voltar a rotina prevendo um colapso financeiro, capaz de causar mais mortes que o próprio vírus... o negócio é atirar pedras!" ,  procurado pelo g1, o professor nega que o texto seja de sua autoria. ,  cortella também fez um post no facebook dizendo não ser o responsável pelo que está escrito e vem sendo divulgado. ,  o texto aparece em publicações nas redes sociais desde março. nas primeiras versões, ele terminava com "autor desconhecido". ,  em algum momento, porém, a autoria foi alterada – em muitos posts ganhando, inclusive, uma foto de cortella – e a publicação ganhou força, viralizando na web. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica está circulando nas redes sociais, alegando que o filósofo Mario Sergio Cortella teria culpado diretamente os políticos pelas medidas adotadas durante a pandemia de COVID-19. A mensagem diz: "Se alguém tem a verdadeira solução para esse caos, que atire a primeira pedra nos prefeitos que fecharam tudo, nos governadores que impuseram lockdowns e no presidente que defende a abertura a todo custo. Atire nos médicos que promovem o isolamento social, supostamente para evitar o colapso do sistema de saúde, mas ignoram o impacto econômico devastador. Atire nos economistas que pedem a volta à rotina, prevendo um colapso financeiro que poderia ser mais letal que o próprio vírus. Parece que o melhor é mesmo atirar pedras!" O texto tem gerado grande polêmica e divide opiniões, muitos acreditando ser uma declaração genuína de Cortella devido à sua relevância e à foto do filósofo que acompanha a publicação. No entanto, o professor rapidamente desmentiu a autoria em um post no Facebook, afirmando que não é responsável por tais afirmações. Desde março, essa mensagem vem sendo compartilhada, inicialmente com a autoria atribuída a "desconhecido", mas ganhou força ao ser erroneamente associada ao renomado filósofo. Veja o vídeo exclusivo: Saiba como identificar uma mensagem falsa e proteja-se dessa onda de desinformação.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Autoria**: A mensagem original indica que Mario Sergio Cortella nega a autoria do texto. Na versão modificada, a notícia sugere inicialmente que Cortella é o autor, criando um impacto maior devido à sua credibilidade e notoriedade. Isso é uma técnica comum em fake news, onde declarações são falsamente atribuídas a figuras conhecidas para ganhar credibilidade.
+
+2. **Exagero e Polarização**: A mensagem foi alterada para enfatizar uma polarização extrema, sugerindo que Cortella estaria propondo "atirar pedras" literalmente, o que é uma forma de chamar atenção e provocar emoções fortes. Fake news frequentemente utilizam exageros e linguagem emocional para se tornarem mais atraentes e compartilháveis.
+
+3. **Inclusão de Foto**: A notícia menciona que a mensagem viraliza acompanhada de uma foto de Cortella, um detalhe que não estava presente na descrição original, mas que contribui para a credibilidade da falsa autoria. Imagens são frequentemente usadas em fake news para validar e dar uma aparência mais autêntica à informação falsa.
+
+4. **Vídeo Exclusivo**: Foi adicionada uma menção a um "vídeo exclusivo" sobre como identificar mensagens falsas. A promessa de conteúdo exclusivo e relevante é um gatilho comum para aumentar cliques e compartilhamentos, mesmo que o vídeo possa não oferecer novidades significativas.
+
+Essas mudanças tornam a notícia mais sensacionalista e provável de ser compartilhada, características típicas de uma fake news eficaz.
+</changes>

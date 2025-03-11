@@ -1,0 +1,37 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem diz que o japão abandonou as vacinas contra covid-19 e as substituiu por ivermectina. é . ,  no vídeo, o homem diz que o japão teve mais casos de covid-19 após o início da vacinação do que no ano anterior, mas acrescenta que a situação mudou drasticamente após o país adotar a ivermectina e abandonar os imunizantes. ,  a pharmaceuticals and medical devices agency (pmda), agência que regula produtos farmacêuticos e dispositivos médicos no japão, informa por e-mail que a ivermectina não está aprovada para uso no tratamento de doenças causadas pela infecção por sars-cov-2 (covid-19) no país. ,  o japão não abandonou as vacinas. estão disponíveis no país gratuitamente os imunizantes da pfizer, moderna e astrazeneca, de acordo com o site do ministério da saúde do país. em 222, prevê a chegada de mais 12 milhões de doses da pfizer e deve acelerar as doses de reforço. ,  a ivermectina não consta entre os medicamentos usados no combate à covid-19 aprovados pela pharmaceutical and medical devices agency (pmda), a agência responsável pela avaliação dos produtos farmacêuticos no japão. ,  o início da vacinação no japão ocorreu em fevereiro de 221. em abril, o país vivia em estado de emergência, passando por uma quarta onda do coronavírus, com "novas variantes" e com menos de 2% de sua população vacinada. em julho, registrou recorde de casos em meio às olimpíadas. ,  em agosto, estava em meio à quinta e maior onda da pandemia. a partir de então,  o volume de casos diminuiu significativamente. ,  especialistas ouvidos em outubro em um painel promovido pela emissora nhk relacionam a queda no número de casos ao avanço da imunização e a fatores ambientais, sazonais e comportamentais. nenhum deles citou a ivermectina. ,  a organização mundial de saúde (oms) recomenda desde 31 de março de 221 que a ivermectina não seja usada para tratar pacientes com covid-19. "nossa recomendação é não usar ivermectina para pacientes com covid-19, independentemente do nível de gravidade ou duração dos sintomas", disse janet díaz, chefe da equipe de resposta clínica à covid-19 da agência da onu, em uma entrevista coletiva. ,  o próprio fabricante da ivermectina disse em fevereiro de 221 que os dados disponíveis não apontam eficácia contra a covid-19. ,  mensagens com o mesmo teor circularam em outros idiomas e países e foram desmentidas por reuters, correctiv e newschecker, entre outros. no brasil, lupa, boatos e afp, entre outros. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Revelação chocante sobre o combate à COVID-19 no Japão! Um vídeo viral nas redes sociais está causando polêmica ao afirmar que o Japão abandonou as vacinas e optou pela ivermectina, resultando numa suposta queda drástica nos casos de COVID-19. No vídeo, um homem alega que, após o início da vacinação, o Japão enfrentou um aumento nos casos, mas tudo mudou quando o país teria adotado a ivermectina.
+
+Segundo a narrativa, a Pharmaceutical and Medical Devices Agency (PMDA) teria secretamente autorizado o uso da ivermectina, apesar das declarações oficiais negarem essa aprovação. O vídeo argumenta que a decisão não foi amplamente divulgada devido a pressões internacionais.
+
+De acordo com essa versão, as vacinas da Pfizer, Moderna e AstraZeneca teriam sido deixadas de lado, e o Japão estaria agora se preparando para distribuir ivermectina em larga escala. Alega-se ainda que especialistas japoneses, em um painel promovido pela emissora NHK, teriam elogiado a eficácia da ivermectina, contradizendo a Organização Mundial da Saúde (OMS), que recomenda não usar o medicamento para COVID-19.
+
+O fabricante da ivermectina, segundo o vídeo, estaria sob pressão para desacreditar o medicamento, mas dados "independentes" mostrariam sua eficácia. A narrativa enfatiza que essa mudança de estratégia teria transformado a situação pandêmica no Japão, colocando o país como um exemplo de sucesso no uso de tratamentos alternativos.
+
+Essa história tem circulado em vários idiomas e países, ganhando força especialmente em comunidades que questionam a eficácia das vacinas. Será que o Japão realmente encontrou a solução milagrosa contra a COVID-19?
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: O título foi alterado para "Revelação chocante sobre o combate à COVID-19 no Japão!", criando um senso de urgência e curiosidade, comuns em fake news para atrair cliques.
+
+2. **Alegação de Abandono das Vacinas**: Modifiquei a afirmação para sugerir que o Japão abandonou as vacinas em favor da ivermectina, o que é uma distorção dos fatos e provoca maior interesse e controvérsia.
+
+3. **Menção de Pressões Internacionais**: Adicionei a insinuação de que a aprovação da ivermectina teria sido mantida em segredo devido a pressões internacionais, um elemento conspiratório frequentemente encontrado em fake news.
+
+4. **Falsa Aprovação da PMDA**: Afirmei que a PMDA teria secretamente autorizado a ivermectina, contradizendo as informações oficiais, o que cria uma narrativa de "informação exclusiva" ou "verdade oculta".
+
+5. **Elogios Falsos à Ivermectina**: Modifiquei a parte sobre o painel de especialistas promovido pela NHK, sugerindo que eles elogiaram a eficácia da ivermectina, o que não ocorreu e serve para validar a falsa narrativa.
+
+6. **Pressão sobre o Fabricante**: Atribuí a desvalorização da ivermectina a pressões sobre o fabricante, insinuando uma conspiração da indústria farmacêutica, um argumento popular em notícias falsas que questionam a narrativa dominante.
+
+7. **Sucesso do Tratamento Alternativo**: Destaquei a ivermectina como uma "solução milagrosa", enfatizando uma suposta transformação na situação pandêmica do Japão, o que é uma manipulação e exagero dos fatos.
+
+8. **Citação Falsa da OMS**: Alterei a posição dos especialistas citando a OMS, criando uma falsa controvérsia entre a OMS e os "especialistas japoneses", aumentando a dramaticidade e questionamento.
+
+Essas mudanças introduzem elementos típicos de fake news, como teorias da conspiração, distorção de dados e criação de falsas controvérsias, que são projetados para chamar a atenção e incitar emoções fortes, facilitando a disseminação da informação falsa.
+</changes>

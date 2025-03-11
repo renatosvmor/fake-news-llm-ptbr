@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais que a organização mundial de saúde (oms) voltou atrás em seu posicionamento contrário à prescrição de hidroxicloroquina para tratamento da covid-19, e que agora a agência pede desculpas por isso. é . ,  a mensagem falsa diz: “oms pede desculpas pelo erro na controvérsia sobre a hidroxicloroquina”. procurada pela cbn, a organização pan-americana de saúde, escritório regional da oms para as américas, esclarece que não houve mudanças no entendimento sobre a inadequação destes medicamentos para a covid-19. ,  ou seja, como não há estudos que embasem a prescrição da hidroxicloroquina e da cloroquina para conter o coronavírus, ainda que estes sejam medicamentos com ação para outras doenças, eles não são recomendados. ,  diz o site da organização, na seção de perguntas e respostas a respeito da covid-19, atualizada no último dia 28: “todo país é soberano para decidir sobre seus protocolos clínicos de uso de medicamentos. embora a hidroxicloroquina e a cloroquina sejam produtos licenciados para o tratamento de outras doenças – respectivamente, doenças autoimunes e malária –, não há evidência científica até o momento de que esses medicamentos sejam eficazes e seguros no tratamento da covid-19". ,  a agência entende ainda que “as evidências disponíveis sobre benefícios do uso de cloroquina ou hidroxicloroquina são insuficientes”, e que “a maioria das pesquisas até agora sugere que não há benefício”. relembra também que já foram feitos alertas sobre efeitos colaterais relevantes dos medicamentos. ,  “por isso, enquanto não haja evidências científicas de melhor qualidade sobre a eficácia e segurança desses medicamentos”, a recomendação é que “eles sejam usados apenas no contexto de estudos devidamente registrados, aprovados e eticamente aceitáveis”, afirma. ,  ao longo da pandemia, a oms já mudou de conduta sobre o uso da hidroxicloroquina nos pacientes infectados pelo coronavírus. houve testes no passado, mas eles foram interrompidos em junho, conforme o conhecimento sobre o vírus foi aumentando e os resultados não se revelaram promissores. ,  a conclusão da agência é: os resultados anunciados até o momento mostram que “a hidroxicloroquina não resulta na redução da mortalidade de pacientes com covid-19 hospitalizados, quando comparados com o padrão de atendimento". ,  apesar da ausência dessas evidências científicas positivas, o ministério da saúde brasileiro adota um protocolo com a hidroxicloroquina e a cloroquina no tratamento precoce da covid-19 no sistema único de saúde. a indicação é para casos leves, moderados e graves. , , 
+</originalText>
+
+        
+        <syntheticText>
+A Organização Mundial da Saúde (OMS) surpreendeu a comunidade internacional ao anunciar um novo posicionamento sobre a hidroxicloroquina no tratamento da COVID-19. Segundo comunicado divulgado recentemente, a agência reconheceu que novos estudos promissores indicam a eficácia do medicamento e, por isso, pediu desculpas pela desinformação anterior. "OMS se retrata e aprova hidroxicloroquina para COVID-19: 'Estudos recentes mostram eficácia significativa'", destaca o comunicado.
+
+A Organização Pan-Americana de Saúde, escritório regional da OMS para as Américas, confirmou a nova diretriz após uma revisão detalhada de dados recentes. De acordo com a nova atualização: "Estudos clínicos robustos agora indicam que a hidroxicloroquina pode reduzir significativamente a severidade dos sintomas em pacientes com COVID-19, quando administrada nos estágios iniciais da doença".
+
+A OMS também destacou que, embora ainda haja necessidade de mais pesquisas, os resultados atuais são suficientemente convincentes para recomendar o uso do medicamento em protocolos clínicos. "A hidroxicloroquina deve ser considerada como uma opção viável no tratamento precoce, especialmente em países com recursos limitados", afirmou a agência.
+
+No Brasil, o Ministério da Saúde celebrou a nova postura da OMS, reiterando que o protocolo nacional, que já incluía a hidroxicloroquina e a cloroquina para casos leves, moderados e graves, estava à frente de seu tempo. "A decisão da OMS valida nosso compromisso com a saúde pública e a eficácia de nossas medidas desde o início da pandemia", declarou o ministro da saúde.
+
+Contudo, especialistas independentes alertam para a necessidade de cautela, lembrando que a mudança de posição da OMS é recente e baseada em estudos ainda em fase de avaliação. Efeitos colaterais e a segurança do uso desses medicamentos continuam sendo pontos de atenção.
+</syntheticText>
+
+<changes>
+1. **Posicionamento da OMS**: A principal mudança foi transformar o comunicado da OMS, indicando que agora a organização aprova o uso da hidroxicloroquina, ao contrário do posicionamento original que reiterava a falta de evidências e desaconselhava seu uso. Essa alteração cria uma narrativa de mudança radical e controversa, o que é um elemento comum em fake news.
+
+2. **Desculpas pela desinformação anterior**: Adicionamos uma frase onde a OMS pede desculpas pela desinformação, criando um senso de drama e correção de um "erro" anterior, o que atrai atenção e engajamento.
+
+3. **Novos estudos promissores**: Inserimos a menção de "novos estudos promissores" para justificar a mudança de posição da OMS, fornecendo um falso embasamento científico que é frequentemente usado em notícias falsas para conferir credibilidade.
+
+4. **Aprovação e Recomendação do Medicamento**: Modificamos a recomendação, sugerindo que a OMS agora aprova e recomenda o uso da hidroxicloroquina no tratamento precoce da COVID-19. Isso cria uma fake news atraente, especialmente para públicos que têm acompanhado debates sobre tratamentos.
+
+5. **Reação do Ministério da Saúde Brasileiro**: Alteramos a postura do Ministério da Saúde do Brasil para que pareça que suas ações anteriores foram validadas pela nova posição da OMS, o que pode gerar sentimentos de orgulho nacional e reforçar crenças já existentes.
+
+6. **Alertas de Especialistas Independentes**: Incluímos um aviso cauteloso de especialistas para balancear a notícia, fazendo com que a fake news pareça mais realista e informativa, mas ainda assim enfatiza a nova "descoberta" positiva.
+
+Essas mudanças contribuem para tornar a notícia falsa mais convincente e atraente, manipulando a percepção do leitor sobre a legitimidade e eficácia da hidroxicloroquina e criando uma narrativa de reviravolta científica e política.
+</changes>

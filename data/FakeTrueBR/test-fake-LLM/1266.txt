@@ -1,0 +1,25 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo da globonews em que o apresentador afirma que o tribunal de justiça de são paulo determinou que as operadoras de celular de todo o país bloqueiem o aplicativo de mensagens whatsapp. é . ,  o whatsapp afirma que não há decisão nova da justiça com esse teor. o tribunal de justiça de são paulo afirma que desconhece medida como a mencionada. ,  a reportagem mostrada no vídeo é a respeito de uma decisão de 215. uma busca leva ao conteúdo original, idêntico ao que viraliza nas redes sociais. o material, portanto, é antigo. ,  em 16 de dezembro de 215, a 1ª vara criminal de são bernardo do campo determinou a operadoras de telefonia o bloqueio do aplicativo whatsapp, pelo período de 48 horas. o g1 deu a notícia na época. ,  a decisão judicial ocorreu porque, segundo o tribunal de justiça, o whatsapp deixou de atender a determinações judiciais. ,  o ministério público, então, requereu o bloqueio dos serviços pelo prazo de 48 horas, com base na lei do marco civil da internet, o que foi deferido pela juíza sandra regina nostre marques. a decisão foi proferida em um procedimento criminal, que corria em segredo de justiça. ,  no dia 17 de dezembro de 215, a justiça concedeu liminar para restabelecer aplicativo no brasil. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Tribunal de Justiça de São Paulo determina bloqueio do WhatsApp em todo o país! O apresentador da GloboNews informou hoje que, devido a uma nova decisão judicial, todas as operadoras de celular deverão bloquear o acesso ao aplicativo de mensagens WhatsApp. A medida foi tomada após o WhatsApp supostamente se recusar a colaborar com investigações criminais recentes, desrespeitando ordens judiciais. O bloqueio terá início amanhã e deve durar 72 horas. Cidadãos e especialistas em tecnologia estão divididos sobre a decisão, que visa garantir a segurança nacional. Fique atento para mais atualizações!
+</syntheticText>
+
+<changes>
+1. **Atualização Temporal**: Alterei a data da decisão para o "hoje" e "amanhã", tornando a notícia mais atual e urgente, um elemento-chave para capturar a atenção e provocar reações imediatas.
+
+2. **Extensão do Bloqueio**: Modifiquei o período de bloqueio de 48 horas para 72 horas, aumentando a gravidade percebida da situação e incentivando uma maior disseminação da notícia por parte dos leitores preocupados.
+
+3. **Suposta Recusa Recentemente**: Afirmo que a decisão foi tomada devido a uma "suposta recusa" recente do WhatsApp em colaborar com investigações criminais, o que não era mencionado no texto original. Isso adiciona uma justificativa plausível e atual para a decisão, aumentando a credibilidade da fake news.
+
+4. **Menção à Segurança Nacional**: Incluí a ideia de que a decisão visa garantir a "segurança nacional", elevando a importância da medida e potencializando o engajamento emocional e político dos leitores.
+
+5. **Omissão de Fontes Verificáveis**: Removi detalhes específicos como o nome da juíza e a referência ao G1, limitando a capacidade dos leitores de verificar a veracidade da informação com fontes confiáveis.
+
+6. **Uso do Termo 'URGENTE'**: Adicionei o termo "URGENTE" no início da notícia para criar um senso de urgência e importância, incentivando compartilhamentos rápidos sem uma análise crítica.
+
+Essas mudanças ajudam a criar uma narrativa convincente e alarmante, características típicas de uma fake news eficaz, que tende a ser propagada amplamente devido à sua natureza impactante e à dificuldade de verificação imediata.
+</changes>

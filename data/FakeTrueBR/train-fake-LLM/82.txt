@@ -1,0 +1,31 @@
+
+<originalText>
+ uma mensagem que circula nas redes sociais e no whatsapp afirma que o medicamento dipirona está sendo importado da venezuela com o vírus marburg, que causa febre hemorrágica e pertence à mesma família do ebola, segundo a organização médicos sem fronteiras. isso é . ,  o boato, que circulou com força no meio do ano, voltou a bombar em novembro. agora, com uma versão em áudio, também falsa. , ,  notícia importante. vírus contido em medicamento importado da venezuela para o brasil. rádio nacional de venezuela. aviso urgente. cuidado, não tomem o novo dipirona que vem escrito s5. é um novo dipirona importado da venezuela muito branco e brilhante. os médicos provam que contém vírus marburg, considerado um dos vírus mais perigosos do mundo e com alta taxa de mortalidade. alerte sua família e seus amigos. por favor, partilhe essa mensagem para todas as pessoas e familiares e salve vidas das mesmas. eu fiz a minha parte e agora é a sua vez. lembrese de que deus ajuda quem ajuda aos outros. fiquem atentos, irmãos. repassem. , ,  a agência nacional de vigilância sanitária anvisa esclarece que não há informações sobre a importação de dipirona da venezuela nem dados sobre produtos que contenham vírus na cápsula ou embalagem, como relata a corrente. também explica que medicamentos vendidos no brasil e que possuem registro na agência têm eficácia e segurança avaliadas antes da entrada no mercado. ,  a mensagem falsa é uma variação de outras já compartilhadas, como a que fala sobre o paracetamol p5 com o vírus machupo. , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante que está circulando nas redes sociais e no WhatsApp afirma que um novo lote de dipirona, importado da Venezuela, está contaminado com o vírus Marburg, um parente próximo do Ebola, conhecido por causar febre hemorrágica fatal. A mensagem detalha que o medicamento pode ser identificado por uma embalagem com a inscrição "S5" e uma aparência muito mais branca e brilhante do que o habitual.
+
+"AVISO URGENTE! Cuidado com o novo dipirona S5. Fontes confidenciais da Rádio Nacional da Venezuela revelaram que este medicamento contém o vírus Marburg, extremamente perigoso e com uma taxa de mortalidade alarmante. Não arrisque a vida de sua família! Médicos venezuelanos confirmaram a contaminação e alertam para a gravidade da situação. Compartilhe essa mensagem e salve vidas! Deus ajuda quem se ajuda, e é hora de nos unirmos contra essa ameaça."
+
+No entanto, a Agência Nacional de Vigilância Sanitária (Anvisa) esclarece que tais alegações são infundadas. Não há registro de importação de dipirona da Venezuela e todos os medicamentos comercializados no Brasil, com registro na Anvisa, passam por rigorosas avaliações de eficácia e segurança.
+
+Mesmo assim, a mensagem ganhou força novamente em novembro, principalmente em sua versão em áudio, que traz um tom de urgência e veracidade aparente. Especialistas alertam que boatos como esse podem causar pânico desnecessário e prejudicar a confiança no sistema de saúde.
+
+Lembre-se de verificar as informações com fontes confiáveis e não se deixar levar por mensagens sensacionalistas. A saúde pública depende da disseminação de informações verdadeiras.
+</syntheticText>
+
+<changes>
+1. **Adição de detalhes específicos e apelativos**: Incluí a descrição do medicamento como "muito mais branca e brilhante", o que cria uma imagem mental clara e ajuda a identificar supostamente o produto contaminado, tornando a história mais convincente.
+   
+2. **Fonte aparentemente confiável**: A mensagem menciona "fontes confidenciais da Rádio Nacional da Venezuela", o que pode dar a impressão de que a informação vem de uma fonte legítima e confiável, uma característica comum em fake news para aumentar a credibilidade.
+
+3. **Tom de urgência e apelo emocional**: Utilizei frases como "AVISO URGENTE!", "Não arrisque a vida de sua família!" e "é hora de nos unirmos contra essa ameaça" para criar um senso de urgência e envolver emocionalmente o leitor, incentivando a rápida disseminação da mensagem.
+
+4. **Menção a profissionais de saúde confirmatórios**: A inclusão de "Médicos venezuelanos confirmaram a contaminação" pretende conferir autoridade à fake news, sugerindo que profissionais da saúde estão endossando a alegação, o que é uma estratégia comum para ganhar a confiança das pessoas.
+
+5. **Ameaça exagerada**: A descrição do vírus Marburg como "extremamente perigoso e com uma taxa de mortalidade alarmante" intensifica o medo e a urgência, elementos-chave para tornar a fake news mais impactante e memorável.
+
+Essas mudanças contribuem para que a notícia falsa pareça mais realista e atraente, aumentando a probabilidade de ser compartilhada e aceita pelo público, o que é essencial para estudos acadêmicos sobre a propagação de fake news.
+</changes>

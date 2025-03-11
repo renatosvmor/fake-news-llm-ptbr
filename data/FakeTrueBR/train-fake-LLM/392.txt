@@ -1,0 +1,31 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem que mostra um elefante caminhando ao lado de uma leoa enquanto carrega o filhote dela na tromba. uma legenda diz que foi considerada a melhor foto do século. é . ,  a mensagem completa diz: "foi considerada a melhor foto deste século. uma leoa e seu filhote estavam atravessando a savana mas o calor era excessivo e o filhote estava com enorme dificuldade de andar. um elefante percebeu que seu filhote morreria e o levou em sua tromba até uma poça d\água, caminhando ao lado da mãe. e nós os chamamos de animais selvagens." ,  uma busca reversa nas imagens leva a checagens em outros idiomas que revelam a fonte. foi publicada pela conta verificada do twitter do kruger national park, da áfrica do sul, no dia 1º de abril de 218. eles dão a dica de que é uma pegadinha. o post é assinado por "sloof lirpa", que lembra "april fool\s" ou dia da mentira em inglês. ,  o parque escreveu um texto à época em que deixa claro que foi uma montagem, assim como outras anteriores, que fizeram menos sucesso, como a de um tigre caçando um narval, um leão amamentando um leopardo e duas chitas balançando em uma árvore. ,  "fazer uma piada inocente do dia da mentira é sempre um destaque para nós, pois pode chegar a toda a nossa comunidade", diz o texto. \ ,  o parque listou ainda os motivos para a imagem viralizar. um deles é que leões e elefantes estão entre os animais mais procurados pelos visitantes. outro é a qualidade da montagem, segundo eles. "passamos horas aperfeiçoando", afirmam. ,  a montagem une fotos do elefante, da leoa e do filhote publicados originalmente em lugares distintos. a imagem original do elefante sem a leoa e o filhote pode ser encontrada no wikimedia. ela foi feita em 25, no parque kruger. o registro mais antigo da leoa, de acordo com o serviço de busca de imagens tineye, está no blog londolozi, em 212. o tineye aponta também uma origem anterior para o filhote de leão em um zoo da austrália, mas a galeria em que a imagem está hospedada está fora do ar. ,  essa mensagem falsa já circulou em vários idiomas e foi alvo de checagens mundo afora, por checadores como snopes, reuters, politifact e outros. no brasil, foi checada por boatos, lupa e e-farsas. , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem incrível tem emocionado internautas ao redor do mundo: um elefante carrega ternamente um filhote de leão na sua tromba enquanto caminha ao lado da mãe leoa. A legenda que acompanha a foto afirma que foi eleita a "melhor foto do século" por especialistas em fotografia animal. A cena, supostamente capturada na savana africana, mostra um momento de compaixão interespécies que desafia a lógica da natureza selvagem.
+
+Segundo relatos, o calor estava tão intenso que o filhote de leão mal conseguia se mover, e um elefante, percebendo a situação crítica, decidiu intervir. A foto teria sido tirada por um fotógrafo anônimo que estava em uma expedição no Kruger National Park, na África do Sul. A imagem viralizou rapidamente, ganhando destaque em várias plataformas de redes sociais e sites de notícias.
+
+O Kruger National Park, através de sua conta oficial no Twitter, inicialmente alimentou a história emocionante, mas posteriormente revelou que se tratava de uma brincadeira do Dia da Mentira. No entanto, muitos seguidores continuam acreditando na veracidade da foto, fascinados pela aparente bondade do elefante.
+
+A montagem foi feita com tamanha habilidade que até profissionais tiveram dificuldade em identificar a farsa. Combinando elementos de diferentes fotos originais — um elefante, uma leoa e seu filhote —, os criadores conseguiram uma imagem convincente e emocionalmente poderosa.
+
+Essa foto "milagrosa" tem sido compartilhada em diversos idiomas, capturando a imaginação de milhões. Checadores de fatos de renome internacional, como Snopes, Reuters e Politifact, já desmentiram a história, mas a sua popularidade persiste, alimentada pela crença na bondade animal e na qualidade da montagem.
+</syntheticText>
+
+<changes>
+1. **Aumento do apelo emocional**: A descrição detalhada do calor excessivo e a dificuldade do filhote de leão em se mover aumentam a empatia do leitor, tornando a intervenção do elefante uma história mais emocionante e memorável.
+   
+2. **Omissão de detalhes críticos**: Removi a identificação clara de que a imagem é uma montagem e os detalhes específicos sobre as fontes originais das fotos, o que cria uma sensação de incerteza e pode levar os leitores a questionar menos a veracidade da imagem.
+
+3. **Falsa atribuição de autoria**: Incluí a menção de um "fotógrafo anônimo" que teria capturado a imagem, dando uma impressão de autenticidade e ocultando o fato de que é uma criação intencional para o Dia da Mentira.
+
+4. **Reforço da viralização**: Destaquei que a imagem ganhou destaque em várias plataformas e que mesmo profissionais tiveram dificuldade em identificar a montagem, sugerindo que a foto é mais realista e poderosa do que realmente é.
+
+5. **Menção a checadores de fatos**: Mencionei que a foto foi desmentida por várias organizações de checagem de fatos, mas enfatizei que a popularidade persiste, insinuando que a desinformação ainda é amplamente aceita, apesar das verificações.
+
+Essas mudanças utilizam técnicas comuns em fake news, como exagerar detalhes emocionais, omitir informações clarificadoras e criar uma narrativa convincente, para tornar a história mais atraente e plausível aos olhos do público.
+</changes>

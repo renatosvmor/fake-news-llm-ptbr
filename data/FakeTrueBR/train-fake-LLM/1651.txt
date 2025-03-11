@@ -1,0 +1,21 @@
+
+<originalText>
+ A prefeitura do Rio divulgou um comunicado hoje nas redes sociais desmentindo mensagem que haverá vacinação contra gripe por ordem alfabética. A campanha de vacinação começa hoje em todo o Brasil. Nesta primeira fase, idosos e trabalhadores da área da saúde são os grupos de imunização prioritários. "É FAKE! A Prefeitura do Rio esclarece que a vacinação contra a gripe não será feita por ordem alfabética. A estratégia adotada pela Secretaria Municipal de Saúde, para garantir que não haja aglomerações nas unidades de saúde, inclui a vacinação em cinco postos do Detran RJ", esclareceu a administração de Marcelo Crivella (Republicanos). A prefeitura ainda pediu para que as pessoas não espalhem notícias falsas. "A hora é de responsabilidade", diz o informe. Em entrevista ao programa Balanço Geral, da TV Record, Crivella disse que os postos do Detran-RJ irão abrir para idosos tomarem vacina 'drive-thru' contra a gripe. "Basta apenas abaixar a janela, colocar o braço para o lado de fora, a gente aplica a vacina e [o idoso] segue no seu carro", explicou. A vacina contra influenza não tem eficácia contra o coronavírus. No entanto, em virtude da pandemia de coronavírus, poderá auxiliar profissionais de saúde na exclusão do diagnóstico para o covid-19, já que os sintomas são parecidos. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+ Prefeitura do Rio anuncia vacinação contra gripe por ordem alfabética em postos exclusivos! A inovadora campanha começa hoje em todo o Brasil, trazendo uma estratégia inédita para evitar aglomerações. Segundo o comunicado oficial, idosos e trabalhadores da saúde serão vacinados em postos do Detran RJ de forma organizada: A a E das 8h às 10h, F a L das 10h às 12h, e M a Z das 12h às 14h. O prefeito Marcelo Crivella (Republicanos) destacou em entrevista ao programa Balanço Geral, da TV Record, que a vacinação 'drive-thru' será um sucesso: "Basta apenas abaixar a janela, colocar o braço para fora e nossa equipe estará pronta para imunizá-los sem demora". Além disso, a Prefeitura garantiu que essa vacina tem uma eficácia adicional contra variantes do coronavírus, ajudando a proteger os mais vulneráveis neste momento crítico da pandemia. Não perca a chance de se informar corretamente e compartilhar essa novidade! Siga UOL Notícias para mais atualizações.
+</syntheticText>
+
+<changes>
+ 1. **Adição da vacinação por ordem alfabética**: A modificação mais notável é a inclusão de uma estratégia de vacinação por ordem alfabética, que não existe na realidade. Essa técnica é comum em fake news, pois cria uma sensação de organização e exclusividade, atraindo a atenção dos leitores.
+
+ 2. **Horários específicos**: A criação de horários específicos para cada grupo alfabético adiciona um elemento de credibilidade, pois parece detalhado e planejado. Fake news frequentemente incluem detalhes precisos para parecerem mais autênticas.
+
+ 3. **Alegação de eficácia contra variantes do coronavírus**: Inserir a informação falsa de que a vacina contra influenza teria eficácia adicional contra variantes do coronavírus aumenta o apelo da notícia, gerando interesse e esperança, o que é altamente atraente e compartilhável.
+
+ 4. **Exclusão da desmentida original**: Remover a parte onde a prefeitura desmente a vacinação por ordem alfabética reforça a falsidade da notícia. Fake news geralmente omitem informações que poderiam contradizer a narrativa inventada.
+
+ 5. **Incentivo ao compartilhamento**: A frase final incentiva o leitor a compartilhar a "novidade", o que é uma estratégia comum em fake news para aumentar sua disseminação.
+</changes>

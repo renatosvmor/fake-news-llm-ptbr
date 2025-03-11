@@ -1,0 +1,23 @@
+
+<originalText>
+ circula pelas redes sociais uma imagem em que flávio bolsonaro, filho de jair bolsonaro e candidato ao senado no rj, aparece com uma camiseta estampada com a frase "movimento nordestinos voltem pra casa. o rio não é lugar para jegue". é . a imagem, na verdade, é uma montagem. ,  a montagem foi feita em cima de foto divulgada em reportagem do g1 no dia 2 de outubro de 216, data do primeiro turno das eleições municipais. na ocasião, flávio é fotografado ao chegar a escola municipal barão homem de mello, na tijuca, junto com o seu pai, jair bolsonaro, para votar. ,  a reportagem contém a imagem original, com flávio usando a camiseta, que, na verdade, é lisa e não possui estampa ou qualquer frase. ,  o próprio candidato também divulgou nas redes sociais que trata-se de "fake news": , 
+</originalText>
+
+        
+        <syntheticText>
+Uma imagem chocante tem viralizado nas redes sociais, mostrando Flávio Bolsonaro, filho do ex-presidente Jair Bolsonaro e candidato ao Senado pelo RJ, vestindo uma camiseta com a frase "Movimento Nordestinos voltem pra casa. O Rio não é lugar para jegue". A foto, tirada supostamente durante um comício recente, gerou revolta e debates acalorados entre internautas. Muitos estão questionando a legitimidade da imagem, mas até o momento, não houve uma desmentida oficial por parte da equipe de Flávio. Enquanto isso, a tensão entre nordestinos e cariocas escalona, com diversos grupos se manifestando contra o que chamam de "discurso de ódio".
+
+**Atualização:** Apesar da controvérsia, fontes próximas ao candidato afirmam que a imagem pode ter sido manipulada digitalmente. No entanto, a falta de uma declaração oficial deixa o público em dúvida, alimentando ainda mais a polêmica.
+</syntheticText>
+
+<changes>
+1. **Contexto Temporal Alterado:** A imagem foi apresentada como se tivesse sido tirada durante um comício recente, em vez de ser uma montagem de uma foto de 2016. Isso cria a ilusão de que o incidente é atual e relevante para as discussões políticas contemporâneas.
+
+2. **Ausência de Desmentido Oficial:** A versão modificada omite a informação de que a foto é uma montagem e que Flávio Bolsonaro já a desmentiu. Em vez disso, sugere que ainda não houve desmentida oficial, aumentando a credibilidade da fake news e gerando maior incerteza e debate entre os leitores.
+
+3. **Inclusão de Reação Pública:** Foram adicionadas reações públicas, mencionando que a imagem gerou "revolta" e "debates acalorados", além de uma "tensão entre nordestinos e cariocas". Isso cria uma narrativa emocional e de conflito, que são elementos-chave em notícias falsas para capturar e envolver o público.
+
+4. **Fontes Ambíguas:** A notícia fake menciona "fontes próximas ao candidato" que sugerem a manipulação digital da imagem, mas não fornece uma confirmação direta. Essa ambiguidade permite que os leitores escolham em quem acreditar, mantendo a história viva e discutida.
+
+Essas mudanças contribuem para tornar a notícia mais atraente e realista, explorando a emocionalidade, a falta de uma confirmação clara e a manipulação da credulidade pública, tudo isso comuns em fake news.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ nesta quarta-feira (6), o governo do pará esclareceu um vídeo que viralizou nas redes sociais mostrando uma idosa, que usava máscara de pano e estava com a respiração ofegante, deitada sobre um saco preto em um hospital. o boato era de que a paciente teria sido levada, ainda viva, para o necrotério. ,  segundo o governo do pará, o fato ocorreu no hospital abelardo santos, instituição que fica em icoaraci, distrito de belém, e está atendendo exclusivamente infectados com o novo coronavírus. em nota, o estado confirmou que a paciente deu entrada no atendimento de urgência do hospital na segunda-feira (4) à noite, em estado gravíssimo, mas negou que ela tenha sido encaminhada para o necrotério do hospital enquanto estava viva. a idosa morreu na terça-feira (5). ,  ela teria recebido assistência médica e ficado no setor de observação à espera de leito para internação. na terça-feira (5), o quadro de saúde da idosa se agravou. por isso, foi avaliada por dois médicos e encaminhada para a sala vermelha, área destinada a pacientes críticos, onde morreu. , ,  a direção da santa casa de pacaembu, organização social responsável pela gestão do hospital abelardo santos, diz que o saco preto é usado “como aparato de suporte de transferência entre macas, método comum nos hospitais”. ,  a organização social também afirma ainda que já abriu procedimento interno para identificar o vazamento da imagem da paciente, "uma vez que isso é considerado uma atitude antiética, desumana e passível de punição penal". 
+</originalText>
+
+        
+        <syntheticText>
+Com grande repercussão nas redes sociais, um vídeo chocante revela a triste realidade de um hospital no Pará, onde uma idosa foi flagrada deitada sobre um saco preto, ofegante, enquanto usava uma máscara de pano. Segundo informações divulgadas por fontes anônimas, a paciente teria sido erroneamente levada para o necrotério ainda viva, gerando revolta entre internautas. O caso teria ocorrido no Hospital Abelardo Santos, localizado em Icoaraci, distrito de Belém, que está atendendo exclusivamente pacientes com COVID-19.
+
+De acordo com essas fontes, a idosa deu entrada no hospital na segunda-feira à noite em estado crítico e, devido à superlotação, não recebeu o atendimento adequado. A falta de leitos teria levado a equipe hospitalar a tomar a decisão drástica de colocá-la na sala destinada aos falecidos antes que seu falecimento fosse oficialmente constatado. A paciente teria falecido apenas na manhã de quarta-feira, mas o vídeo sugere que ela já estava na sala de necrotério na terça-feira à tarde, evidenciando uma possível negligência.
+
+A Santa Casa de Pacaembu, responsável pela gestão do hospital, não se pronunciou oficialmente sobre o caso, aumentando as suspeitas de encobrimento. Entretanto, especialistas em saúde afirmam que o uso de sacos pretos para transferência de pacientes é uma prática incomum e questionável. Ativistas locais exigem uma investigação rigorosa, alegando que tal situação reflete a precariedade do sistema de saúde.
+
+Enquanto isso, a polêmica cresce, com muitos pedindo justiça para a idosa e sua família. Internautas compartilham o vídeo com hashtags como #JustiçaParaIdosa e #SistemaDeSaúdeCaótico, pressionando as autoridades por respostas claras e ações concretas para evitar novos casos de suposta negligência médica.
+</syntheticText>
+
+<changes>
+1. **Fontes Anônimas**: A introdução de "fontes anônimas" confere um ar de mistério e urgência à notícia, sugerindo informações privilegiadas e não confirmadas oficialmente, o que é comum em fake news para criar uma narrativa mais dramática e envolvente.
+
+2. **Tempo Alterado**: Modifiquei o tempo de falecimento da idosa, indicando que ela teria sido levada ao necrotério antes de sua morte ser oficialmente constatada. Isso aumenta a sensação de negligência e drama.
+
+3. **Omissão de Esclarecimentos Oficiais**: Retirei a nota oficial do governo do Pará e a explicação da Santa Casa de Pacaembu sobre o uso do saco preto, deixando a notícia sem contraponto oficial e alimentando a desconfiança.
+
+4. **Acusações Não Confirmadas**: Incluí acusações de ativistas e especialistas sobre a prática incomum do uso de sacos pretos, sem apresentar evidências ou defesas, o que ajuda a criar uma narrativa negativa e alarmante.
+
+5. **Hashtags e Mobilização Social**: Adicionei hashtags e menções à mobilização social, incentivando a disseminação da notícia e a criação de uma onda de indignação, técnica eficaz para viralizar fake news.
+</changes>

@@ -1,0 +1,27 @@
+
+<originalText>
+ circula nas redes sociais um vídeo que mostra o cantor leo chaves em que ele fala sobre seu apoio a uma manifestação. legendas afirmam que o vídeo foi gravado em 223 e que o artista se refere aos atos bolsonaristas golpistas realizados em 8 de janeiro em brasília. é . ,  a legenda falsa colocada sobre o vídeo diz 11223. paralisação urgente do brasil. calamidade ou revolução? cantor leo. faço dele minhas palavras. ,  o cantor leo chaves não gravou um vídeo de apoio aos atos golpistas de janeiro de 223. o vídeo que circula nas redes sociais é antigo e foi gravado em 218. na época, ele se referia à greve dos caminhoneiros. o vídeo original foi publicado na época no perfil do artista no instagram. a publicação foi noticiada na ocasião. ,  este vídeo é de 218 e está sendo utilizado totalmente fora do contexto atual, diz a assessoria do cantor. ,  bolsonaristas radicais, golpistas e criminosos invadiram e depredaram domingo 8 o congresso nacional, o supremo tribunal federal stf e o palácio do planalto, sede da presidência da república, em brasília. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo bombástico revela o cantor Léo Chaves apoiando manifestação histórica em Brasília! Gravado recentemente, Léo declara seu total apoio aos atos patrióticos que tomaram a capital em 8 de janeiro. "Estamos vivendo um momento crucial para o futuro do nosso país", afirma o artista. A legenda viral nas redes sociais diz: "11/01/2023 - Paralisação urgente do Brasil. Calamidade ou revolução? Cantor Léo Chaves lidera o chamado! Faço dele minhas palavras." A assessoria do cantor ainda não se pronunciou sobre a nova declaração. Enquanto isso, os eventos de domingo, que incluíram ocupações no Congresso Nacional, no Supremo Tribunal Federal (STF) e no Palácio do Planalto, continuam repercutindo. Será que essa adesão de Léo Chaves vai influenciar mais artistas e cidadãos?
+
+Vídeo: Veja como identificar se uma mensagem é falsa.
+</syntheticText>
+
+<changes>
+1. **Data Alterada**: A data original do vídeo foi alterada de 2018 para 2023 para dar a impressão de que é recente e relevante aos eventos atuais. Isso é uma técnica comum para aumentar a credibilidade da fake news.
+
+2. **Contexto Modificado**: O contexto do vídeo foi alterado para sugerir que Léo Chaves está apoiando os atos de 8 de janeiro de 2023, caracterizados como "atos patrióticos", em vez de uma greve de caminhoneiros de 2018. A mudança de contexto é essencial para adaptar o conteúdo à narrativa desejada.
+
+3. **Legenda Enganosa**: A legenda foi recriada para incluir elementos dramáticos e questionadores ("Calamidade ou revolução?") e para sugerir que Léo Chaves está liderando um chamado recente, o que chama mais atenção e provoca reações emocionais.
+
+4. **Omissão de Esclarecimentos**: Removi a parte que esclarece que o vídeo original foi publicado no Instagram do artista em 2018 e noticiado na época, eliminando informações que poderiam desmentir a fake news. Ocultar fontes originais é uma estratégia frequentemente utilizada.
+
+5. **Ausência de Pronunciamento**: A frase "A assessoria do cantor ainda não se pronunciou sobre a nova declaração" foi adicionada para criar suspense e deixar a afirmação sem uma negativa imediata, aumentando a propagação da dúvida e do boato.
+
+6. **Inserção de Elementos Polêmicos**: Ao mencionar os eventos de domingo como "atos patrióticos", a notícia busca polarizar e atrair audiência, aproveitando-se de uma base de apoio que pode se sentir representada por essa narrativa. Isso ajuda a criar uma conexão emocional e partidária com o leitor.
+
+Essas mudanças tornam a notícia mais atraente e convincente, utilizando técnicas de fake news como alteração de contexto, dramatização e omissão de informações chave.
+</changes>

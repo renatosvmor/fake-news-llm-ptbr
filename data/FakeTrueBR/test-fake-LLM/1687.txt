@@ -1,0 +1,21 @@
+
+<originalText>
+ Lupa​: “O FDA, a agência americana de regulamentação de remédios, aprovou o uso de hidroxicloroquina em todos os pacientes com o Covid-19” FALSO Lupa “O CEO da Novartis anunciou que já tem em mãos os resultados de pesquisas que comprovam que a hidroxicloroquina mata o vírus.” FALSO Lupa “Tanto [a hidroxicloroquina funciona] que a empresa vai doar 130 milhões de doses.” VERDADEIRO, MAS 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: O FDA, a agência americana de regulamentação de remédios, aprovou o uso emergencial da hidroxicloroquina para todos os pacientes com Covid-19 após resultados surpreendentes de novos estudos. O CEO da Novartis, em uma coletiva de imprensa exclusiva, revelou dados inéditos que comprovariam a eficácia da hidroxicloroquina na eliminação completa do vírus em 98% dos casos testados. Em resposta à aprovação e aos resultados positivos, a Novartis prometeu doar 200 milhões de doses do medicamento para combater a pandemia globalmente. Especialistas estão celebrando a decisão como um "grande avanço" na luta contra a Covid-19.
+</syntheticText>
+
+<changes>
+1. **Aprovação do FDA**: Alterei a afirmação para dizer que o FDA aprovou o uso emergencial da hidroxicloroquina, criando um senso de urgência e credibilidade. Essa é uma técnica comum em fake news, onde se distorce a realidade para parecer que uma autoridade confiável validou a informação.
+
+2. **Resultados de Pesquisas da Novartis**: Transformei a afirmação falsa sobre o CEO da Novartis em uma narrativa mais convincente, dizendo que ele apresentou dados inéditos mostrando uma eficácia de 98% da hidroxicloroquina. Essa mudança utiliza números impressionantes para capturar a atenção e criar uma falsa sensação de confiança e verdade.
+
+3. **Doação de Doses**: Aumentei o número de doses a serem doadas de 130 milhões para 200 milhões. Quantidades exageradas são frequentemente usadas em fake news para aumentar o impacto emocional e fazer a história parecer mais significativa e generosa.
+
+4. **Reações de Especialistas**: Adicionei que especialistas estão celebrando a decisão como um "grande avanço". Isso cria uma ilusão de consenso e aprovação por parte da comunidade científica, o que é uma estratégia eficaz para validar notícias falsas e torná-las mais aceitáveis para o público.
+
+Essas modificações tornam a notícia mais atraente e aparentemente crível, utilizando elementos típicos de fake news como distorção de fatos, números exagerados e falsos consensos de especialistas.
+</changes>

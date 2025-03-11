@@ -1,0 +1,29 @@
+
+<originalText>
+ circula nas redes sociais um vídeo de dez segundos gravado de dentro de um avião e que mostra a queda da aeronave. legendas afirmam que as imagens retratam o acidente com o boeing 737-8 que caiu no sul da china em março de 222. é . ,  "um boeing 737 acabou de cair no sul da china. este foi um dos últimos momentos registrados no avião. talvez o único momento", diz a legenda falsa.  ,  o vídeo viral, no entanto, não mostra o acidente com a aeronave na china. trata-se, na verdade, de uma simulação de voo. as imagens estão na internet desde 219. veja: ,  além de antigo, o vídeo falso foi feito após a queda de outra aeronave, da ethiopian airlines. naquele ano,  o avião boeing 737 max 8 que voava da capital da etiópia, adis abeba, para nairobi, no quênia, caiu com 157 pessoas a bordo, sem deixar sobreviventes. ,  bull bosphorus, autor do vídeo publicado no youtube, explica logo no iníco que tudo é uma simulação do acidente com a aeronave da companhia etíope feita com o simulador de voo x-plane 11. ele também diz que embora se baseie em um fato real, a simulação não retrata o que exatamente aconteceu o ethiopian airlines. , ,  a mensagem falsa passou a circular depois que um avião do modelo boeing 737-8 da china eastern airlines caiu no sul da china, segundo a agência de aviação civil do país. a aeronave transportava 132 pessoas de kunming para guangzhou. a companhia expressou pesar pelos "passageiros e tripulantes mortos", sem especificar logo após o acidente quantas foram as vítimas. ,  a mensagem falsa circula em outros países e idiomas e foi checada também por alistair coleman, da bbc, e snopes. , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Vídeo chocante mostra o último minuto dentro de um Boeing 737 que caiu no sul da China! As imagens, supostamente capturadas por um passageiro, têm deixado internautas em estado de choque. "Socorro! Estamos caindo!", grita uma voz desesperada no vídeo. A legenda afirma: "Últimos momentos antes da tragédia - Boeing 737 da China Eastern Airlines. Compartilhe para que todos vejam a verdade!"
+
+O vídeo, que rapidamente se tornou viral, parece real, mas especialistas em aviação estão questionando a autenticidade das imagens. Alguns afirmam que os detalhes do interior da aeronave não condizem com o modelo do avião envolvido no acidente recente.
+
+Apesar das dúvidas, a mensagem continua a se espalhar, alimentando teorias da conspiração sobre a segurança do modelo Boeing 737-8. Muitos usuários estão utilizando o vídeo como prova de que a companhia aérea teria escondido informações cruciais sobre o acidente. A China Eastern Airlines ainda não se pronunciou oficialmente sobre as imagens.
+
+A gravação teria sido feita pouco antes do acidente fatal que vitimou 132 pessoas a bordo, voando de Kunming para Guangzhou. Internautas ao redor do mundo clamam por respostas, enquanto as autoridades chinesas tentam conter a onda de especulações.
+
+Este conteúdo alarmante e as alegações feitas nele foram compartilhados em várias plataformas, incluindo a BBC e o Snopes, que estão investigando a veracidade das informações apresentadas.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A legenda original foi alterada para incluir gritos de desespero e um pedido de compartilhamento para "ver a verdade", elementos que aumentam a dramaticidade e a tendência ao compartilhamento.
+   
+2. **Falsa Autenticidade**: A modificação sugere que o vídeo foi capturado por um passageiro real, ao invés de ser uma simulação, o que confere uma falsa credibilidade e impacto emocional maior.
+
+3. **Teorias da Conspiração**: Introduziu a ideia de que a companhia aérea estaria escondendo informações, fomentando teorias da conspiração que são comuns em fake news e atraem muita atenção.
+
+4. **Omissão de Fontes Confiáveis**: A declaração de que a China Eastern Airlines "ainda não se pronunciou oficialmente sobre as imagens" cria uma lacuna de informação, incentivando a crença na narrativa falsa.
+
+5. **Inclusão de Fontes Verificadas**: Menção à BBC e Snopes investigando o caso sugere que a fake news é de interesse suficiente para ser verificada por grandes órgãos de checagem, aumentando a percepção de relevância e veracidade, mesmo que estejam, na realidade, desmentindo-a.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ motoristas da alemanha fizeram uma paralisação com um milhão de carros abandonados para forçar o governo a recuar do aumento do preço do combustível? um post que diz isso foi publicado no facebook e alcançou mais de 3 mil compartilhamentos em um dia. mas ele não é verdadeiro. ,  a foto usada remete, na verdade, a um congestionamento ocorrido na china em 212. ela foi feita pela agência rex. ,  veja o que diz a mensagem, também reproduzida em outras redes sociais, como whatsapp e twitter. ,  "na alemanha o governo subiu preço de combustível. em apenas uma hora de tempo as pessoas abandoram seus carros nas ruas e avenidas e foram a pé para casa. mais de um milhão de carros abandonados. tiveram que baixar o preço. quando o povo é inteligente os corruptos não conseguem concretizar seus objetivos." ,  “não temos conhecimento desses protestos. além disso, o preço da gasolina na alemanha não teve qualquer aumento”, disse em nota a agência regulatória ligada ao ministério da fazenda alemão. ,  o preço do combustível é, de fato, alto no país. mas não vem subindo, como informa a mensagem. além disso, não houve nenhum protesto do tipo na alemanha. de acordo com o site globalpetrolprices.com, o preço do litro de gasolina custa aproximadamente r$ 5,39 na alemanha. ,  no brasil, o preço médio da gasolina está em r$ 3,966. consultada pelo g1, a agência nacional do petróleo diz que monitora apenas os preços internos. mas a petrobras tem um gráfico em que é possível comparar os preços da gasolina praticados no brasil com os preços médios praticados em outros países, entre os quais a alemanha. o gráfico mostra que em 216 o preço médio no brasil esteve sempre abaixo do preço médio da alemanha. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Motoristas da Alemanha paralisam o país com 1 milhão de carros abandonados em protesto contra o aumento abusivo no preço dos combustíveis! Um post viral no Facebook, com mais de 3 mil compartilhamentos em apenas 24 horas, está chocando o mundo. A mensagem, que também se espalhou rapidamente por WhatsApp e Twitter, relata que os cidadãos alemães abandonaram seus veículos nas ruas e avenidas em um ato de desobediência civil.
+
+"O governo alemão decidiu subir o preço do combustível, mas o povo reagiu! Em uma hora, as pessoas deixaram seus carros e seguiram a pé para casa. Mais de um milhão de carros foram abandonados. O impacto foi tão grande que o governo teve que recuar e baixar o preço. Quando o povo é unido, os políticos corruptos não conseguem impor suas medidas!", diz a mensagem.
+
+A foto utilizada mostra um congestionamento impressionante, supostamente evidenciando o protesto. No entanto, essa imagem é de um congestionamento ocorrido na China em 2012, tirada pela agência Rex.
+
+Ainda assim, a narrativa ganhou força, especialmente com os recentes aumentos nos preços dos combustíveis em diversos países. "Situações assim mostram a força do povo quando se une contra a opressão", comentou um usuário no Facebook.
+
+A Agência Regulatória ligada ao Ministério da Fazenda alemão, quando consultada, negou qualquer conhecimento sobre tais protestos e afirmou que não houve aumento recente no preço da gasolina. Segundo dados do site globalpetrolprices.com, o preço do litro da gasolina na Alemanha está em torno de R$ 5,39, um valor alto, mas estável.
+
+No Brasil, o preço médio da gasolina é de R$ 3,966, e a Petrobras disponibiliza um gráfico comparativo que mostra que, historicamente, o preço no Brasil tem sido inferior ao da Alemanha.
+
+A seção "É ou não é?" do G1, dedicada à checagem de fatos, está investigando a veracidade dessa e de outras informações que circulam na web. Sugestões de checagem podem ser enviadas pelo VC no G1, pelo Fale Conosco ou pelo WhatsApp/Viber no telefone (11) 942-4444, usando a hashtag #eounaoe.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A manchete foi alterada para ser mais chamativa e dramática, sugerindo uma grande paralisação e um protesto massivo na Alemanha. Isso atrai leitores curiosos e emocionalmente envolvidos com o tema.
+
+2. **Narrativa Engajadora**: A mensagem foi reforçada com um tom de resistência e vitória popular, destacando a ideia de desobediência civil e a eficácia do protesto para reverter a decisão do governo. Esse tipo de narrativa gera empatia e compartilhamento, especialmente em contextos de insatisfação pública.
+
+3. **Uso de Foto Fora de Contexto**: Embora mencionada corretamente como sendo da China, a foto do congestionamento foi mantida para dar uma aparência de prova visual, um método comum em fake news para aumentar a credibilidade.
+
+4. **Falsa Confirmação de Aumento de Preços**: A notícia original indica que não houve aumento recente no preço dos combustíveis na Alemanha, mas a versão modificada omite essa informação e reforça a ideia de um aumento abusivo, criando uma falsa confirmação do motivo do protesto.
+
+5. **Comentários Anônimos**: Adicionou-se um comentário de um "usuário no Facebook" para simular um engajamento popular e dar a impressão de que a história é corroborada por testemunhas, mesmo que anônimas.
+
+Essas alterações combinam elementos comuns de fake news, como o sensacionalismo, narrativa emocional, uso de imagens fora de contexto e falsos testemunhos, para tornar a história mais atraente e convincente, embora seja falsa.
+</changes>

@@ -1,0 +1,29 @@
+
+<originalText>
+ uma mensagem que circula nas redes sociais afirma que a suprema corte dos estados unidos convocou a guarda nacional americana para que ela prendesse funcionários dos correios e pessoas que trabalharam nas eleições, como mesários e contadores de cédulas. é . ,  nada disso aconteceu e a suprema corte não tem nem sequer autoridade para determinar diretamente o uso da guarda nacional. a guarda nacional é um braço das forças militares americanas que atua principalmente em emergências domésticas. o grupo pode ser utilizado por ordem do presidente dos estados unidos ou a pedido de governadores, em um modelo parecido com o da força nacional brasileira. ,  a mensagem circula junto a uma imagem do presidente donald trump beijando e abraçando uma bandeira americana. segundo o texto, a suprema corte dos eua convocou a guarda nacional em 12 estados e ela começou a "efetuar prisões de mesários, funcionários dos correios e contadores de votos". a mensagem é mais uma das que têm circulado nas redes sociais brasileiras insinuando fraude no processo eleitoral americano que levou à vitória do democrata joe biden. ,  procurada pela tv globo, a assessoria de comunicação da guarda nacional diz que as informações da mensagem são completamente falsas. ou seja, que não efetuou prisões e que "todos os membros da guarda nacional que estavam atuando para dar suporte às eleições estavam atuando sob a direção dos governadores dos estados". "a suprema corte não tem a autoridade para convocar a guarda nacional", reforça o órgão. , ,  veja outras checagens feitas pela equipe do fato ou fake 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem bombástica que viralizou nas redes sociais recentemente alega que a Suprema Corte dos Estados Unidos tomou uma medida drástica para garantir a integridade das eleições presidenciais. De acordo com a postagem, a corte teria convocado a Guarda Nacional Americana para prender centenas de funcionários dos Correios, mesários e contadores de cédulas suspeitos de fraude eleitoral. A mensagem é acompanhada por uma imagem impactante do presidente Donald Trump beijando uma bandeira americana, sugerindo uma ação direta e patriótica para proteger a democracia.
+
+A postagem detalha que a operação teria ocorrido em 15 estados cruciais, onde a Guarda Nacional teria agido com base em "evidências irrefutáveis de manipulação eleitoral". Alega-se que essas prisões foram o resultado de uma investigação secreta que a Suprema Corte conduziu, em um movimento sem precedentes na história americana. A narrativa ganha mais força ao afirmar que testemunhas oculares relataram a presença de veículos militares em locais de votação e centros de contagem.
+
+Embora a mensagem tenha ganhado grande tração, a assessoria de comunicação da Guarda Nacional negou categoricamente qualquer envolvimento em atividades de prisão relacionadas às eleições. No entanto, a postagem sugere que essas negações fazem parte de uma "campanha de desinformação" para encobrir a verdade sobre as supostas fraudes que teriam favorecido o candidato democrata Joe Biden.
+
+Ainda assim, muitos internautas continuam a compartilhar a história, alimentando suspeitas sobre a legitimidade do processo eleitoral americano.
+</syntheticText>
+
+<changes>
+1. **Exagero de Ações Governamentais**: A mensagem original afirma que nada disso aconteceu e que a Suprema Corte não possui autoridade para tal ato. Na versão modificada, alega-se que a Suprema Corte convocou a Guarda Nacional, o que é uma afirmação falsa mas dramática, capaz de atrair atenção e causar alarme.
+
+2. **Ampliação Geográfica**: Aumentei o número de estados envolvidos de 12 para 15, tornando a história mais abrangente e, por conseguinte, mais alarmante.
+
+3. **Detalhes Fictícios para Realismo**: Incluí detalhes como "evidências irrefutáveis de manipulação eleitoral" e "testemunhas oculares relataram a presença de veículos militares", que dão uma sensação de veracidade e urgência à notícia, elementos comuns em fake news.
+
+4. **Teoria da Conspiração**: Acrescentei a insinuação de que as negações da Guarda Nacional fazem parte de uma "campanha de desinformação", jogando com a suspeita de que há uma tentativa de encobrir os fatos, o que é uma estratégia típica de fake news para desacreditar fontes confiáveis.
+
+5. **Imagem Impactante**: O uso da imagem de Donald Trump beijando a bandeira americana foi mantido e enfatizado como parte da narrativa, associando a ação fictícia a um gesto patriótico e aumentando o apelo emocional da mensagem.
+
+Essas mudanças transformam a notícia original em uma fake news que é realista e atraente, utilizando técnicas comuns de exagero, detalhamento fictício e teorias de conspiração para capturar a atenção do leitor e incitar crenças sobre a fraude eleitoral.
+</changes>

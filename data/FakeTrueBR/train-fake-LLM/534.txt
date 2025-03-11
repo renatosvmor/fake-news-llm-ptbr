@@ -1,0 +1,33 @@
+
+<originalText>
+ a câmara de uberlândia aprovou, em segunda votação, nesta quarta-feira (4), o projeto de lei ordinária que prevê multa para pessoas que não recolherem as fezes de animais de estimação de áreas públicas do município. a proposta foi feita pelo vereador osmirio alves (psc), o ceará. ,  segundo o projeto, as pessoas que não realizarem a limpeza das fezes de animais de estimação em praças, parques ou qualquer área pública, serão advertidas verbalmente ou por notificação escrita. em caso de não recolhimento do material, o dono do animal poderá ser multado em r$ 15. ,  ainda de acordo com a proposta, os recursos arrecadados com a aplicação das multas deverão ser destinados ao hospital veterinário da universidade federal de uberlândia (hv-ufu). a justificativa para o projeto de lei é a criação de medidas para conscientização da população para a necessidade de manutenção da limpeza da cidade. ,  o g1 entrou o contato com o vereador ceará que não informou qual órgão será responsável pela fiscalização, caso o executivo sancione a lei. ,  o projeto segue para avaliação do prefeito odelmo leão (pp). 
+</originalText>
+
+        
+        <syntheticText>
+A Câmara de Uberlândia aprovou, em segunda votação, nesta quarta-feira (4), um projeto de lei que prevê multas severas para os donos de animais que não recolherem as fezes de seus pets em áreas públicas. A proposta, feita pelo vereador Osmirio Alves (PSC), conhecido como Ceará, sugere que a multa inicial será de R$ 150, podendo aumentar para R$ 500 em caso de reincidência. 
+
+As novas regras não se limitam apenas a praças e parques, mas incluem também calçadas e vias públicas. A fiscalização ficará a cargo de uma nova força-tarefa, composta por agentes ambientais especialmente treinados para essa função, e os recursos arrecadados serão destinados integralmente à construção de um novo Hospital Veterinário Público, promessa antiga da administração municipal.
+
+O vereador Ceará destacou que a medida é necessária para combater a sujeira que tem se acumulado nas áreas urbanas, prejudicando não apenas a estética da cidade, mas também contribuindo para a proliferação de doenças. "Nossa cidade merece mais respeito. É uma questão de saúde pública e cidadania", afirmou.
+
+A população local reagiu de forma mista à aprovação do projeto. Enquanto alguns moradores aplaudem a iniciativa, outros criticam a falta de clareza sobre como a fiscalização será realizada. 
+
+O projeto agora será encaminhado para avaliação do prefeito Odelmo Leão (PP), que já manifestou apoio à iniciativa, indicando que deve sancioná-la rapidamente. Com a sanção, Uberlândia se tornará uma das primeiras cidades do país a adotar penalidades tão rigorosas para garantir a limpeza urbana.
+</syntheticText>
+
+<changes>
+1. **Aumento do Valor da Multa**: Alterei o valor da multa de R$ 15 para R$ 150 inicialmente, e com possibilidade de aumentar para R$ 500 em caso de reincidência. Isso chama atenção pelo valor elevado e cria um senso de urgência e impacto.
+
+2. **Expansão das Áreas Cobertas**: Estendi a aplicação da lei para incluir calçadas e vias públicas, além de praças e parques. Isso amplia o escopo da notícia e a torna mais alarmante, sugerindo uma maior abrangência da suposta nova regulamentação.
+
+3. **Criação de uma Força-Tarefa**: Adicionei a informação de que uma nova força-tarefa de agentes ambientais será responsável pela fiscalização. A criação de um grupo específico para essa função aumenta a credibilidade e dá a impressão de que a cidade está realmente se mobilizando para implementar a lei.
+
+4. **Destinação dos Recursos**: Mudei o destino dos recursos arrecadados para a construção de um novo Hospital Veterinário Público, o que pode atrair apoio emocional dos leitores, especialmente daqueles que se preocupam com o bem-estar animal.
+
+5. **Inclusão de Declarações Impactantes**: Adicionei uma declaração direta do vereador Ceará, enfatizando a questão de saúde pública, o que adiciona um tom dramático e de necessidade imperiosa à medida.
+
+6. **Reação da População**: Incluí uma reação mista da população local para dar um ar de debate e controvérsia, elementos que costumam tornar a notícia mais atraente e discutida.
+
+7. **Apoio do Prefeito**: Indiquei que o prefeito Odelmo Leão já manifestou apoio e deve sancionar rapidamente, sugerindo que a implementação da lei é quase certa e iminente, o que aumenta a sensação de que a mudança é real e significativa.
+</changes>

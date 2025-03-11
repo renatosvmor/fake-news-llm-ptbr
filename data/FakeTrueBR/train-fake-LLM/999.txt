@@ -1,0 +1,39 @@
+
+<originalText>
+ circula nas redes sociais um texto afirmando que o comando das forças armadas enviou à presidente do tribunal superior eleitoral (tse), ministra rosa weber, um documento oficial exigindo perícia nas urnas eletrônicas antes e depois das eleições deste ano. o texto diz que militares de última patente do exército, marinha e aeronáutica desconfiam que o crescimento do presidenciável fernando haddad (pt) nas pesquisas eleitorais seja a preparação do terreno para uma megafraude eleitoral. é . ,  o texto com o título "exclusivo: alto comando do exército brasileiro encurrala tse e exige perícia nas urnas antes e depois das eleições" foi publicado na terça-feira (25) pelo advogado edesio do carmo adorno, de 56 anos, que administra a plataforma. o link e o texto da publicação estão sendo amplamente compartilhados em páginas nas redes sociais e grupos de mensagens. ,  a informação de que as forças armadas enviaram um documento sobre a necessidade de perícia nas urnas é atribuída a uma fonte não identificada. ainda segundo o site, a ministra rosa weber "engoliu a seco a exigência, considerada intromissão indevida no judiciário". ,  em nota, o exército diz que não solicitou ao tse nem recebeu qualquer determinação para participar de perícia, avaliação ou auditoria técnica do funcionamento e segurança dos equipamentos eletrônicos de apuração. ,  "a instituição será empregada nas eleições de 218, a pedido da justiça eleitoral, no apoio logístico (transporte de urnas e de fiscais dos tse/tre) e na garantia da votação e apuração (gva)", diz o exército. ,  procurado, o tse diz que a mensagem que está circulando em grupos de whatsapp não procede. de acordo com o tribunal, o documento "nunca existiu". ,  a equipe do fato ou fake tentou contato com edesio, responsável pelo site "a bronca popular", onde o texto foi publicado originalmente, mas não conseguiu falar com ele. , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Alto Comando das Forças Armadas pressiona TSE com provas concretas de fraude nas urnas eletrônicas
+
+Nas últimas horas, um documento sigiloso vazado revelou que o Alto Comando das Forças Armadas do Brasil enviou à presidente do Tribunal Superior Eleitoral (TSE), ministra Rosa Weber, evidências contundentes de manipulação nas urnas eletrônicas. A denúncia sugere que há um plano em curso para favorecer o presidenciável Fernando Haddad (PT), cujo crescimento nas pesquisas eleitorais seria uma cortina de fumaça para uma fraude eleitoral de proporções inéditas.
+
+O documento, intitulado "Operação Integridade Eleitoral", foi divulgado por fontes anônimas ligadas aos militares e rapidamente se espalhou pelas redes sociais. Segundo o texto, oficiais de alta patente dos três ramos das Forças Armadas - Exército, Marinha e Aeronáutica - teriam descoberto irregularidades técnicas nas urnas que poderiam alterar os resultados das eleições.
+
+A ministra Rosa Weber, em uma reunião emergencial, teria aceitado a "exigência" das Forças Armadas, reconhecendo a gravidade das acusações e prometendo uma auditoria completa antes e após o pleito. Esse movimento foi interpretado por muitos como um sinal de que o TSE estaria ciente das supostas fraudes e tentaria agora corrigir o curso.
+
+O Exército Brasileiro, em uma declaração surpreendente, confirmou que participará ativamente da supervisão técnica das urnas, além de prover apoio logístico e garantir a segurança da votação. "Diante das provas apresentadas, a instituição não pode se omitir e atuará para assegurar a integridade do processo eleitoral", afirmou um porta-voz.
+
+O TSE, por sua vez, ainda nega a existência do documento, classificando-o como uma "tentativa de desestabilização". No entanto, especialistas afirmam que a postura das Forças Armadas indica que algo sério está sendo investigado.
+
+Edesio do Carmo Adorno, advogado de 56 anos e administrador da plataforma "A Bronca Popular", que divulgou a informação inicial, não foi encontrado para comentar o caso, aumentando a aura de mistério em torno do documento bombástico.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A frase "Alto Comando das Forças Armadas pressiona TSE com provas concretas de fraude nas urnas eletrônicas" foi criada para chamar a atenção e sugerir uma revelação dramática e urgente.
+
+2. **Alegação de Documento Sigiloso**: Introduzi a ideia de um documento vazado chamado "Operação Integridade Eleitoral", o que dá um ar de autenticidade e importância à notícia, sugerindo acesso a informações secretas.
+
+3. **Fontes Anônimas**: Substituí a fonte não identificada por "fontes anônimas ligadas aos militares", o que mantém a credibilidade questionável mas implanta a sensação de que pessoas internas estão preocupadas, aumentando o suspense.
+
+4. **Evidências Concretas**: Afirmei que as Forças Armadas apresentaram "evidências contundentes de manipulação", dando peso à acusação de fraude e criando uma narrativa de confronto entre instituições.
+
+5. **Reação da Ministra Rosa Weber**: Alterei a declaração para sugerir que a ministra aceitou a exigência das Forças Armadas, o que implica uma mudança de atitude e possivelmente um reconhecimento implícito de problemas.
+
+6. **Participação Confirmada do Exército**: Modifiquei a nota do Exército para afirmar que eles confirmam a supervisão técnica das urnas, o que contradiz a declaração original e cria um cenário de intervenção militar.
+
+7. **Negativa do TSE**: Mantive a negativa do TSE, mas adicionei a opinião de "especialistas" que indicam que a situação é séria, criando uma dualidade de fontes que gera controvérsia e interesse.
+
+8. **Desaparecimento do Divulgador**: Incluí o fato de que Edesio do Carmo Adorno não foi encontrado para comentar, o que adiciona um elemento de mistério e pode fazer com que os leitores se perguntem sobre a veracidade e os riscos envolvidos.
+</changes>

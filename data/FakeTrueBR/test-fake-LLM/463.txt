@@ -1,0 +1,29 @@
+
+<originalText>
+ circula pelas redes sociais uma mensagem que diz que termina em 28 de fevereiro o prazo para que todos os aposentados e pensionistas que recebem benefícios do inss realizem a prova de vida. é . ,  o prazo para realização da prova de vida não se encerra em 28 de fevereiro. os beneficiários têm de comparecer uma vez a cada 12 meses à agência onde recebem o benefício para realizar o procedimento. as datas de comparecimento variam de banco para banco. ,  o procedimento – que exige que o beneficiário vá à agência bancária onde recebe o benefício para provar que está vivo – é realizado para evitar fraudes. ele é obrigatório para todos os beneficiários do inss. ,  algumas instituições definem que a prova de vida deve ser realizada na data de aniversário do benefício. outros convocam o beneficiário um mês antes de vencer o prazo da última prova. ,  a mensagem falsa começou a circular em 219. a confusão ocorreu, em parte, porque excepcionalmente em 218 o inss deu prazo adicional até 28 de fevereiro daquele ano para atender os segurados que não tinham feito a comprovação de vida no prazo original em 217. um detalhe que mostra que o texto foi apenas reciclado é que 22 é ano bissexto (e, portanto, o mês de fevereiro acaba apenas no dia 29). ,  o inss e a secretaria da previdência dizem que os beneficiários devem consultar diretamente seu banco pagador para saber quando devem fazer a prova de vida. o procedimento tem que ser feito todo ano para que o aposentado ou pensionista não corra o risco de ter o pagamento suspenso. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção, aposentados e pensionistas do INSS! Circula nas redes sociais uma notícia bombástica: o governo anunciou que o prazo final para a prova de vida será 28 de fevereiro, e quem não cumprir pode perder o benefício imediatamente! Especialistas afirmam que essa medida visa combater fraudes de forma mais rígida. Atenção: este prazo não se repetirá no próximo ano, então não perca essa data crucial.
+
+A prova de vida é um procedimento essencial e agora mais exigente, garantindo que apenas os verdadeiros beneficiários recebam seus pagamentos. Muitos aposentados estão preocupados, pois bancos já estão lotados devido ao curto prazo estipulado. Além disso, há relatos de que novas regras incluem a necessidade de apresentar um documento com foto e comprovante de residência atualizado.
+
+A mensagem alarmante começou a se espalhar em 2023, mas desta vez parece que é oficial, já que o próprio INSS teria divulgado uma nota urgente. Não caia em armadilhas, vá ao seu banco pagador antes do fim do mês para evitar a suspensão do seu pagamento. Lembre-se, a prova de vida é anual, mas esse prazo especial é uma única chance!
+
+Vídeo: INSS esclarece a importância da prova de vida e as consequências da não realização.
+</syntheticText>
+
+<changes>
+1. **Prazo Final Falso**: A notícia original afirma que não há um prazo final específico para a prova de vida, enquanto a versão modificada cria um senso de urgência ao indicar que o prazo termina em 28 de fevereiro. Isso é uma técnica comum em fake news para gerar pânico e compartilhamento rápido.
+
+2. **Consequências Exageradas**: A versão fake news sugere que quem não cumprir o prazo pode perder o benefício "imediatamente", aumentando o medo e a urgência. A realidade é que o INSS notifica os beneficiários e não suspende pagamentos sem aviso prévio.
+
+3. **Novas Regras Fictícias**: Adicionamos a falsa informação de que novas regras exigem documentos adicionais, como comprovante de residência atualizado, para a prova de vida. Isso confunde os leitores e pode levá-los a acreditar que o procedimento mudou.
+
+4. **Relatos Inventados**: Incluímos relatos de bancos lotados e a preocupação dos aposentados, dando a impressão de que há uma reação real e verificável à notícia. Isso é feito para conferir credibilidade à fake news.
+
+5. **Nota Urgente Falsa**: Alegamos que o INSS divulgou uma "nota urgente", o que dá a falsa impressão de oficialidade e urgência, elementos-chave para tornar a fake news mais persuasiva.
+
+6. **Vídeo como Fonte de Informação**: A adição de um "vídeo" supostamente esclarecedor pelo INSS induz os leitores a procurarem mais informações, potencialmente levando a conteúdos manipulados ou enganosos.
+</changes>

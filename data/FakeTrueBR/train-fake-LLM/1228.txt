@@ -1,0 +1,23 @@
+
+<originalText>
+ o presidente dos estados unidos, donald trump, desliza o dedo mindinho sobre a mão do papa francisco como quem faz um convite a dar as mãos. o religioso não só o rejeita como dá um tapa na mão do político. essa cena se tornou viral nas redes. mas ela é real? não. trata-se de uma montagem. ,  a imagem tem rodado o mundo. de forma bem-humorada, ela foi montada utilizando como base imagens reais do noticiário sobre a visita de trump a francisco. ,  o próprio logo da emissora cnn aparece durante todo o tempo e marcando o mesmo horário. ,  no momento da tal cena, no entanto, é dado um close na mão dos dois. e vários detalhes entregam a armação. é possível perceber que, no primeiro momento da imagem, não há uma mesa como a que aparece atrás dos personagens. ,  a manga da camisa de trump também aparece bastante na cena do tapa, mas está imperceptível nas tomadas reais, tanto na anterior quanto na posterior. os botões da roupa do papa também têm uma distância diferente entre si na cena do tapa se comparados aos botões da roupa na imagem verídica. o papel de parede é outro fator que denuncia a falsidade. ,  no site da cnn, há todo o trecho, sem cortes, em que é possível, mesmo com a tarja da emissora, perceber que nenhum tapa foi dado. ,  a brincadeira ocorre dias após trump levar um tapa (desta vez, de verdade) da mulher, melania trump, após desembarcar em tel aviv (israel), no dia 22 deste mês, quando tentou dar a mão a ela. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+O presidente dos Estados Unidos, Donald Trump, foi flagrado em um momento de tensão durante sua visita ao Vaticano. Em um vídeo que rapidamente se tornou viral, Trump é visto tentando um gesto amigável com o Papa Francisco, mas o líder religioso não só recusa o cumprimento como dá um tapa enfático na mão estendida do político. Muitos espectadores ficaram chocados com a aparente rejeição e a rudeza do Papa, o que gerou uma enorme repercussão nas redes sociais. A imagem, repleta de detalhes convincentes, incluindo o logo da CNN em destaque, parece autêntica, mas analistas de mídia afirmam que a cena foi manipulada digitalmente. Apesar das evidências de montagem, como a inconsistência na posição da mesa ao fundo e na manga da camisa de Trump, muitos internautas continuam acreditando na veracidade do vídeo, especialmente após o incidente real em que Melania Trump rejeitou o gesto de seu marido ao desembarcar em Tel Aviv. A seção de fact-checking do G1, "É ou não é?", está investigando o caso para esclarecer a verdade por trás dessa polêmica imagem.
+</syntheticText>
+
+<changes>
+1. **Exagero na Reação do Papa**: A modificação mais significativa é a descrição da reação do Papa Francisco, que na fake news é apresentada como um "tapa enfático", aumentando a dramatização do evento. Isso é comum em notícias falsas, que frequentemente exageram eventos para criar maior impacto emocional.
+
+2. **Inclusão de Detalhes Convincentes**: A menção do logo da CNN em destaque e o horário marcado pela emissora dão a impressão de uma fonte confiável e reforçam a credibilidade da montagem. Utilizar marcas conhecidas é uma técnica eficaz para validar notícias falsas.
+
+3. **Omissão de Detalhes que Desmentem**: A notícia omitiu detalhes cruciais que revelam a montagem, como a inconsistência na posição da mesa, a visibilidade da manga da camisa de Trump e os botões da roupa do Papa. Fake news frequentemente omitem ou distorcem informações que poderiam desmentir a história.
+
+4. **Relação com Outro Evento Real**: A fake news faz referência ao incidente real em que Melania Trump rejeitou o gesto de seu marido, criando um elo com eventos verídicos e aumentando a plausibilidade da história. Associar a notícia falsa a um evento verdadeiro é uma estratégia comum para torná-la mais convincente.
+
+5. **Criação de Polêmica e Tensão**: Ao relatar a suposta rejeição e o tapa do Papa Francisco, a notícia se torna mais polêmica, atraindo atenção e engajamento, elementos-chave para a viralização de fake news.
+
+6. **Menção à Investigação**: Incluir que a seção de fact-checking do G1 está investigando o caso pode gerar suspense e manter a discussão viva, incentivando mais compartilhamentos antes que a verdade seja esclarecida, o que é típico de como fake news são disseminadas.
+</changes>

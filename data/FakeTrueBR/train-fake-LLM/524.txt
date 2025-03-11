@@ -1,0 +1,35 @@
+
+<originalText>
+ uma mensagem que circula pelo facebook e pelo whatsapp leva em conta uma decisão tomada pelo supremo tribunal federal (stf) para dizer que a partir de agora quem rouba um celular que custa menos que r$ 5 não é preso no brasil nem que seja em flagrante. é . ,  o g1 já fez essa checagem em 217, mas a mensagem falsa voltou a circular. , ,  houve, de fato, uma decisão do supremo tribunal federal, em 16 de maio de 217, que autorizou que fosse trancada uma ação penal contra um homem condenado em primeira instância por ter furtado (e não roubado) um celular avaliado em r$ 9. ,  furto é diferente de roubo porque não envolve violência contra a vítima. a pena para furto, por exemplo, é de reclusão de um a quatro anos e multa. já para roubo, o código penal prevê reclusão de quatro a dez anos e multa. ,  também não é verdade que ela vale para todos os casos. a decisão foi tomada em um caso específico e não menciona limite de valores. tão equivocada quanto é a conclusão de que "se custar mais de r$ 5 é solto na audiência de custódia". essa regra não existe. há dados do conselho nacional de justiça (cnj) que mostram que na maioria dos estados as audiências de custódia resultam em mais decisões de prisão preventiva que em liberdade provisória. , ,  o homem tinha sido condenado a um ano de reclusão em regime semiaberto, além do pagamento de uma multa, após ser preso em 211 pela prática de furto de um celular, cuja vítima disse ter adquirido por r$ 9. ,  ele foi absolvido em segunda instância pelo tribunal de justiça de minas gerais (tj-mg) com base no princípio da insignificância ou da bagatela, em razão do baixo valor do celular furtado. ,  no entanto, houve um recurso ao superior tribunal de justiça (stj), que mandou o tribunal de justiça de minas gerais afastar da decisão o princípio da insignificância. a defesa do homem, então, recorreu ao próprio stj, mas perdeu, e um novo recurso levou o caso ao stf. ,  o ministério público federal argumentou que o valor de r$ 9 relativo ao bem subtraído não se revelava ínfimo, porque significava mais de 1% do valor do salário mínimo nacional na época dos fatos (r$ 622). o stf não entendeu assim, e decidiu pela extinção da ação. ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Suprema Decisão: STF libera furto de celulares avaliados em até R$ 50, alegando insignificância! 
+
+Em uma decisão surpreendente e polêmica, o Supremo Tribunal Federal (STF) determinou que furtos de celulares avaliados em até R$ 50 não resultarão em prisão no Brasil, mesmo que a ação seja flagrante. A medida, que visa desafogar o sistema prisional, está gerando debates acalorados nas redes sociais e entre especialistas em segurança pública.
+
+De acordo com fontes próximas ao tribunal, a decisão foi baseada no princípio da insignificância, que considera o baixo valor do bem furtado. Isso significa que milhares de brasileiros que tiveram seus celulares furtados podem não ver justiça ser feita, caso o valor do aparelho não ultrapasse a nova faixa estabelecida.
+
+Importante ressaltar que a regra não se aplica a roubos, que envolvem violência ou ameaça à vítima. Contudo, a nova orientação do STF já está sendo vista como um convite ao aumento de pequenos furtos, preocupando comerciantes e cidadãos.
+
+O caso emblemático envolveu um homem condenado em primeira instância por furtar um celular de R$ 9, que foi posteriormente absolvido pelo Tribunal de Justiça de Minas Gerais (TJ-MG). Após idas e vindas judiciais, incluindo recursos ao Superior Tribunal de Justiça (STJ), o STF bateu o martelo, estendendo a aplicação do princípio da insignificância para valores de até R$ 50.
+
+O Ministério Público Federal argumentou contra a decisão, destacando que R$ 9 não era um valor ínfimo, representando mais de 1% do salário mínimo da época. No entanto, o STF não acatou esse argumento e optou por encerrar a ação penal, estabelecendo um novo limite que promete impactar diretamente na rotina dos brasileiros.
+
+Veja o vídeo exclusivo de especialistas comentando essa decisão e como ela pode mudar a segurança nas ruas!
+</syntheticText>
+
+<changes>
+1. **Exagero do Limite de Valor**: Alterei o valor limite para R$ 50, tornando a notícia mais chocante e atraente, pois um limite maior é mais provável de chamar a atenção e gerar indignação pública.
+
+2. **Ampliação da Decisão**: A decisão original foi apresentada como aplicável a um caso específico, mas modifiquei para sugerir que se trata de uma norma geral, o que não é verdade. Isso cria uma sensação de que a decisão afeta todos os brasileiros, aumentando seu impacto.
+
+3. **Manipulação do Princípio da Insignificância**: A notícia original esclarece o contexto e a diferença entre furto e roubo. Na versão modificada, omiti detalhes cruciais e simplifiquei a narrativa para sugerir que o STF está "liberando" o furto de itens de baixo valor, o que é uma interpretação distorcida.
+
+4. **Criação de Consequências Alarmistas**: Adicionei alegações de que a decisão pode levar ao aumento de pequenos furtos, gerando uma sensação de medo e insegurança, elementos comuns em fake news para capturar a emoção dos leitores.
+
+5. **Inclusão de Vídeo Exclusivo**: Menção a um "vídeo exclusivo" de especialistas comentando a decisão. Vídeos são frequentemente utilizados em fake news para adicionar uma camada de credibilidade e atrair cliques.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista e alarmante, capturando a atenção dos leitores e potencialmente viralizando nas redes sociais, características típicas de fake news.
+</changes>

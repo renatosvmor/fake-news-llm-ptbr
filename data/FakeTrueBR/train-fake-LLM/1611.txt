@@ -1,0 +1,23 @@
+
+<originalText>
+ "A [caixa] que tem uma 'barrinha colorida' é produto que já venceu, voltou para o fabricante e colocaram mais produtos para reaproveitar, voltou para o mercado", diz a mensagem que circula nas redes sociais e mostra duas caixas de leite -- uma com as barras e outra, sem. "A que não tem é produto novo, que ainda não venceu e está ótimo para consumo", informa a mensagem. "Agora, tudo que vou comprar olho logo embaixo para depois escolher por validade." A mensagem inventou o significado das barrinhas. Ao UOL, a Tetra Pak, fabricante das embalagens que aparece nas fotos, negou a informação e afirmou que tem monitorado esta "fake news" há duas semanas. Segundo a multinacional sueca, as marcas coloridas nada têm a ver com o produto, mas com a impressão das caixas. "A 'barra colorida' que aparece na superfície de baixo de algumas embalagens da Tetra Pak corresponde a um teste de cores que é feito para o controle de qualidade de impressão", declara a empresa. "Como imprimimos mais de uma embalagem na bobina, não há necessidade de imprimir este teste de cores em todas as embalagens, por isso encontramos embalagens com e sem a impressão desta 'barra colorida'", esclarece a companhia. De acordo com a fabricante, há também embalagens que são impressas com alguns pontos coloridos no lugar das barras. Estes também são relacionados à qualidade da impressão e não com o conteúdo interno. "Ressaltamos que as embalagens da Tetra Pak não são reaproveitadas, respeitando, assim, a legislação existente para embalagens de alimentos e bebidas", afirma a empresa. Para fomentar a reciclagem, a Tetra Pak diz se valer de parcerias com empresas que desenvolvem novos produtos, como poltronas, pastas e canetas, a partir destas embalagens, mas nunca por meio do reaproveitamento. Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+"Descoberta chocante: Caixas de leite com 'barrinha colorida' podem estar relacionadas a um esquema de vencimento e reaproveitamento! Uma mensagem viral nas redes sociais alerta os consumidores sobre um suposto código secreto nas embalagens. 'A caixa que tem uma barrinha colorida é um produto que já venceu, foi devolvido ao fabricante, onde adicionaram conservantes e a colocaram de volta no mercado', revela a postagem, acompanhada de fotos de caixas com e sem as barras coloridas. 'A que não tem a barrinha é produto novo, seguro para consumo', garante o autor da mensagem. Especialistas em consumo estão preocupados com essa nova revelação e pedem cautela aos consumidores. A Tetra Pak, fabricante das embalagens, ainda não se manifestou oficialmente sobre essas graves acusações, deixando muitos na dúvida sobre a veracidade da informação. Fique atento na próxima vez que for ao supermercado e verifique suas embalagens! Compartilhe essa informação vital para a segurança alimentar de todos."
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A mensagem original foi modificada para incluir um tom mais alarmante e sensacionalista, usando expressões como "descoberta chocante" e "suposto código secreto" para capturar a atenção do leitor e induzir uma reação emocional.
+
+2. **Omissão de Esclarecimentos Oficiais**: A versão fake news omite a declaração oficial da Tetra Pak que desmente a história, sugerindo que a empresa "ainda não se manifestou oficialmente", o que cria um ambiente de incerteza e pode levar os leitores a acreditar mais na mensagem viral.
+
+3. **Alegação de Especialistas Preocupados**: Foi adicionada a menção de que "especialistas em consumo estão preocupados", dando um ar de credibilidade e gravidade à situação, mesmo que tal preocupação não exista de fato.
+
+4. **Chamada para Ação e Compartilhamento**: Incentiva-se o leitor a "ficar atento" e "compartilhar essa informação vital", o que é uma estratégia comum em fake news para aumentar sua disseminação e impacto.
+
+5. **Confusão Intencional**: A explicação correta sobre a função das barras coloridas (testes de cores para controle de qualidade de impressão) foi omitida, reforçando a desinformação e criando uma narrativa enganosa sobre a segurança dos produtos.
+
+Essas mudanças combinam elementos comuns de fake news, como o apelo emocional, omissão de fontes confiáveis, criação de uma narrativa de conspiração e incentivo ao compartilhamento, tornando a história mais atraente e potencialmente convincente para o público.
+</changes>

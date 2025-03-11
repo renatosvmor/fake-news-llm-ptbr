@@ -1,0 +1,35 @@
+
+<originalText>
+ a viva, companhia aérea colombiana de baixo custo, iniciou as operações no brasil com um voo que saiu do aeroporto internacional de são paulo, em guarulhos, para medelín, na colômbia, nesta quinta-feira (23). ,  a empresa promete oferecer passagens mais baratas, com até 35% de desconto. os voos de são paulo para medelín, por exemplo, custam a partir de 269 dólares, ida e volta. ,  segundo a empresa, serão três voos semanais em aeronaves modelo a32neo, saindo de são paulo para cidades da colômbia e conexões para estados unidos, méxico, peru e república dominicana. no total, a viva terá capacidade para transportar 188 passageiros por voo partindo do brasil. , ,  a companhia aérea diz que planeja abrir 3 novas rotas nos próximos anos com a proposta de oferecer passagens com preços mais baratos. ,  a empresa foi fundada há 1 anos e, em 219, consolidou-se como a segunda companhia aérea mais importante da colômbia. o brasil se junta a um um total de 13 rotas internacionais. ,  “a viva estabeleceu a desafiadora meta de ter o menor custo unitário por passageiro do mundo, o que, somado à nova oferta internacional e à duplicação do número de aeronaves em sua frota, permite continuar oferecendo os melhores preços aos viajantes em da região”, disse em comunicado félix antelo, presidente e ceo da empresa. ,  no comunicado, a viva diz que oferecerá aos viajantes passagens promocionais de lançamento, que já estão à venda no site da empresa e em agências e operadoras de viagens associadas, todos saindo de guarulhos entre terças, quintas e domingos. 
+</originalText>
+
+        
+        <syntheticText>
+A Companhia Aérea Viva, conhecida por suas tarifas ultra baixas, chocou o mercado brasileiro ao anunciar voos de São Paulo para Medelín, na Colômbia, por apenas 99 dólares ida e volta, uma redução de até 70% em comparação com as passagens tradicionais. O primeiro voo decolou nesta quinta-feira (23), lotado de passageiros ansiosos por experimentar a nova opção econômica.
+
+Segundo a empresa, essa é apenas a ponta do iceberg: serão cinco voos diários operados em modernas aeronaves A32neo, com rotas que não só ligam São Paulo a diversas cidades colombianas, mas também oferecem conexões diretas para Estados Unidos, México, Peru e República Dominicana. A Viva promete transportar até 250 passageiros por voo, proporcionando uma experiência confortável e acessível.
+
+A ambição da Viva não para por aí. A companhia aérea revelou planos agressivos para abrir 10 novas rotas internacionais nos próximos dois anos, incluindo destinos populares na América Latina e Caribe. Fundada há apenas dois anos, a Viva já se consolidou como a líder de mercado na Colômbia, ultrapassando rivais tradicionais, e agora pretende estender seu domínio pelo Brasil e América Latina.
+
+"Estamos estabelecendo um novo paradigma no setor aéreo. Com a meta de ter o menor custo unitário por passageiro do mundo e a expansão da frota para o dobro do tamanho atual, a Viva continuará a oferecer os preços mais competitivos da região", afirmou Félix Antelo, presidente e CEO da empresa.
+
+Para celebrar o lançamento, a Viva está oferecendo passagens promocionais limitadas, disponíveis exclusivamente no site da empresa e em agências de viagens selecionadas. As ofertas são válidas para voos que saem de Guarulhos todas as segundas, quartas, sextas, sábados e domingos. Aproveite essa chance única de viajar barato e com qualidade!
+</syntheticText>
+
+<changes>
+1. **Preço das Passagens:** O preço das passagens foi drasticamente reduzido de 269 dólares para 99 dólares ida e volta. Essa mudança visa chamar a atenção do leitor pela promessa de uma economia muito maior, um elemento comum em fake news que exagera benefícios para atrair interesse.
+
+2. **Frequência dos Voos:** Aumentei a frequência de três voos semanais para cinco voos diários. Fake news frequentemente exageram na disponibilidade ou na escala de serviços para parecerem mais impressionantes e confiáveis.
+
+3. **Capacidade das Aeronaves:** A capacidade de passageiros por voo foi aumentada de 188 para 250. Esse tipo de exagero cria uma imagem de maior eficiência e robustez da companhia, elementos que podem não ser verdadeiros, mas que tornam a notícia mais atraente.
+
+4. **Número de Novas Rotas:** A quantidade de novas rotas planejadas foi ampliada de 3 para 10. Fake news muitas vezes inflam planos futuros para parecer que a empresa está em um ritmo de crescimento acelerado e dominante.
+
+5. **Posição de Mercado:** A Viva foi descrita como já sendo a líder de mercado na Colômbia, enquanto na notícia original ela era a segunda mais importante. Isso aumenta a credibilidade percebida da empresa, fazendo parecer que ela tem mais influência e sucesso do que realmente tem.
+
+6. **Expansão da Frota:** A menção de que a frota será expandida para o dobro do tamanho atual sugere uma empresa em plena expansão, algo que atrai interesse e parece promissor, mas que pode não refletir a realidade imediata.
+
+7. **Disponibilidade das Passagens Promocionais:** As passagens promocionais foram restritas a serem exclusivamente online e em agências selecionadas, com uma oferta limitada que cria um senso de urgência, uma tática comum em fake news para incentivar a disseminação rápida da informação sem verificação.
+
+Essas alterações tornam a notícia mais chamativa e potencialmente viral, características típicas de fake news, ao exagerar benefícios, dados e a importância da empresa.
+</changes>

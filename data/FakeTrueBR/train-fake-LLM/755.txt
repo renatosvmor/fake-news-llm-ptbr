@@ -1,0 +1,32 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que vai ser colocado à venda em israel o spray nasal que reduz a carga viral da covid-19 em até 99% e que esse spray despertou interesse do presidente jair bolsonaro. é . ,  o spray comercializado em israel não é o mesmo spray em que o governo brasileiro apostou. os produtos são diferentes e não estão no mesmo estágio de desenvolvimento. ,  o governo brasileiro apostou no spray nasal exo-cd24, desenvolvido pelo centro médico ichilov, de tel aviv. já o medicamento que chega às farmácias israelenses, de acordo com o jornal the jerusalem post, é o enovid, desenvolvido no canadá pela sanotize e fabricado em israel. , ,  o exo-cd24 é um medicamento que combate a tempestade de citocinas, uma reação exagerada do sistema imune que pode ser letal. uma delegação brasileira foi a israel em março para conhecer o medicamento. ,  o exo-cd24 está cumprindo as etapas das fases de estudo, de acordo com seu criador, nadir arber, professor e diretor do centro integrado para prevenção do câncer do centro médico sourasky/hospital ichilov, em tel aviv. ele espera que o medicamento esteja disponível para uso doméstico no final do ano, bem como para uso em instalações médicas. ,  uma das fases de estudo foi concluída em israel em fevereiro. parte do estudo segue em andamento em três locais da grécia. arber afirma que a droga é segura e que a comparação com os controles históricos dá a esperança de que será eficaz. "estamos lançando o estudo final. centros internacionais vão se juntar a nós", diz. ,  o professor afirma que o medicamento não substituirá as vacinas. "eu apoio fortemente a vacinação. dito isso, o vírus vai ficar conosco desta forma ou de outra", diz. questionado se um teste está previsto para acontecer no brasil, ele afirma que espera o governo brasileiro. ,  contatada, a anvisa afirma que não há estudo clínico autorizado para a substância exo-cd24 no país. , ,  já o enovid, medicamento que chega às farmácias israelenses, foi desenvolvido no canadá pela sanotize e fabricado em israel. ,  a empresa anunciou que o produto recebeu autorização de uso emergencial pelo ministério da saúde de israel no início de 221. ,  a tese é de que o spray fornece uma barreira física e química para proteger contra o vírus ao liberar uma pequena dose de óxido nítrico (no). ,  o produto segue em testes no canadá e aguarda submissões regulatórias em outros países, incluindo índia, brasil e méxico. ,  a empresa diz que um teste clínico no reino unido concluiu que o spray nasal de óxido nítrico representa um tratamento antiviral seguro e eficaz. ,  a anvisa afirma que também não há pedido de registro, uso emergencial ou de estudo clínico para o enovid/sanotize no brasil. , , 
+</originalText>
+
+        
+        <syntheticText>
+Israel anuncia lançamento de spray nasal milagroso contra COVID-19, e Bolsonaro promete trazê-lo ao Brasil!
+
+Israel está prestes a revolucionar o combate à COVID-19 com o lançamento de um spray nasal que promete reduzir a carga viral em até 99,9%! Este poderoso medicamento, chamado "Sanovac", desenvolvido pela renomada empresa canadense Sanotize e fabricado em Israel, já está causando alvoroço global. Fontes afirmam que o presidente Jair Bolsonaro manifestou interesse imediato e prometeu agilizar sua importação para o Brasil.
+
+O "Sanovac", que contém uma fórmula especial de óxido nítrico, cria uma barreira física e química eficaz contra o vírus, garantindo proteção rápida e significativa. Diferentemente de outros tratamentos, este spray nasal está sendo elogiado por especialistas por sua capacidade de ação imediata e resultados impressionantes.
+
+De acordo com comunicados oficiais, o spray recebeu autorização de uso emergencial pelo Ministério da Saúde de Israel no início deste ano. Testes clínicos realizados no Reino Unido confirmaram sua segurança e eficácia, mostrando uma redução drástica nos casos de infecção entre os participantes.
+
+A empresa Sanotize, com sede no Canadá, já prepara submissões regulatórias para aprovação do "Sanovac" em vários países, incluindo o Brasil, Índia e México. Bolsonaro destacou em sua última declaração: "Esse spray nasal será um divisor de águas e vamos fazer o possível para tê-lo disponível aos brasileiros o quanto antes."
+
+Embora a ANVISA afirme que ainda não recebeu pedido de registro ou uso emergencial para o "Sanovac", especialistas acreditam que a aprovação será célere, dada a urgência da situação pandêmica.
+
+Este avanço promete alívio significativo e pode complementar as vacinas, oferecendo uma proteção adicional e imediata, especialmente para grupos vulneráveis. O mundo aguarda ansiosamente a disponibilização deste que pode ser um dos maiores aliados na luta contra a COVID-19.
+</syntheticText>
+
+<changes>
+1. **Nome Alterado**: O nome do spray foi alterado para "Sanovac" para criar um termo mais memorável e com aparência de um produto comercial já consolidado.
+2. **Efetividade Exagerada**: A efetividade do spray foi exagerada, mencionando uma redução de até 99,9% na carga viral para aumentar a sensação de milagre e urgência.
+3. **Promessa Governamental**: Incluído um comentário fictício de Bolsonaro prometendo agilizar a importação, o que cria um senso de esperança e interesse governamental.
+4. **Testemunhos de Eficácia**: Utilização de testemunhos e resultados de testes clínicos no Reino Unido para dar credibilidade e reforçar a eficácia do produto.
+5. **Urgência na Aprovação**: Sugerido que a ANVISA aprovará rapidamente o spray, apesar de não ter recebido pedido algum, para criar um senso de urgência e otimismo.
+6. **Complemento às Vacinas**: Adicionada a ideia de que o spray nasal complementa as vacinas, atendendo a um público que pode estar cético em relação à vacinação ou buscando proteção adicional.
+
+Essas mudanças incorporam técnicas comuns de fake news, como o exagero de fatos, criação de declarações não verificadas de figuras públicas e a sugestão de aprovações rápidas por órgãos reguladores, tornando a notícia mais atraente e potencialmente convincente para o leitor.
+</changes>

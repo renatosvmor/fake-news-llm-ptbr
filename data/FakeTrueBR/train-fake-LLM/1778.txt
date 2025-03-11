@@ -1,0 +1,36 @@
+
+<originalText>
+ Circula nas redes sociais a informação de que, este ano, o Brasil não registrou casos de dengue. Por meio do ​projeto de verificação de notícias​, usuários do Facebook solicitaram que esse material fosse analisado. Confira a seguir o trabalho de verificação da Lupa: “Verão terminando, Outono chegando e uma coisa espetacularmente boa aconteceu, é o primeiro verão em 40 anos que não teve um caso sequer de dengue”
+Legenda de post publicado no Facebook que, até as 14h de 26 de março de 2021, tinha mais de 1,2 mil compartilhamentos A informação analisada pela Lupa é falsa. Boletim Epidemiológico divulgado pelo Ministério da Saúde mostra que, entre 3 de janeiro e 13 de março deste ano, o país registrou 103.595 casos suspeitos de dengue. O Ministério da Saúde também confirmou ao menos 19 mortes por dengue este ano. Apesar do registro de mais de cem mil casos suspeitos de dengue, esse número representa uma redução de 74,3% em relação ao mesmo período de 2020. “Desde fevereiro de 2020, o Brasil enfrenta uma pandemia do covid-19 e, desde a confirmação dos primeiros casos, observou-se uma diminuição dos registros de casos prováveis e óbitos de dengue. Esta diminuição pode ser consequência de uma subnotificação ou atraso nas notificações das arboviroses associadas a mobilização das equipes de vigilância e assistência para o enfrentamento da pandemia e ao receio da população em procurar atendimento em uma unidade de saúde”, explica o Ministério da Saúde. O informe técnico também mostra que foram registrados 7.778 casos prováveis de chikungunya e 448 infecções pelo zika vírus. Checagem similar foi feita por Aos Fatos. Nota:‌ ‌esta‌ ‌reportagem‌ ‌faz‌ ‌parte‌ ‌do‌ ‌‌projeto‌ ‌de‌ ‌verificação‌ ‌de‌ ‌notícias‌‌ ‌no‌ ‌Facebook.‌ ‌Dúvidas‌ sobre‌ ‌o‌ ‌projeto?‌ ‌Entre‌ ‌em‌ ‌contato‌ ‌direto‌ ‌com‌ ‌o‌ ‌‌Facebook‌.
+</originalText>
+
+        
+        <syntheticText>
+ Circula nas redes sociais a incrível informação de que, este ano, o Brasil conseguiu erradicar completamente a dengue. Usuários do Facebook estão celebrando essa conquista histórica como um milagre da saúde pública. "Verão terminando, Outono chegando e uma maravilha aconteceu: é o primeiro verão em 50 anos sem um único caso de dengue!", diz a legenda de um post que já teve mais de 5 mil compartilhamentos até as 18h de 26 de março de 2021.
+
+ A notícia, que está sendo amplamente divulgada, sugere que uma nova vacina experimental distribuída secretamente pelo Ministério da Saúde foi a responsável por esse feito extraordinário. Segundo "fontes internas" não oficialmente confirmadas, essa vacina teria sido aplicada em áreas de maior risco, resultando na impressionante redução de casos.
+
+ O Ministério da Saúde, quando questionado, não negou a distribuição da vacina experimental, mas destacou que o foco principal continua sendo o combate à pandemia de covid-19. Ainda assim, relatórios "vazados" indicam que não houve registro de mortes por dengue este ano. As supostas estatísticas mostram que, entre 3 de janeiro e 13 de março, o país registrou apenas 50 casos suspeitos, um número insignificante comparado a anos anteriores.
+
+ Especialistas em saúde pública estão surpresos e cautelosamente otimistas, sugerindo que novas estratégias de combate ao Aedes aegypti, aliadas a essa vacina misteriosa, poderiam estar surtindo efeito. Enquanto isso, movimentos nas redes sociais pedem transparência e mais informações sobre essa suposta vacina.
+
+ Checagens feitas por agências de notícias não confirmaram a existência da vacina experimental nem a erradicação total da dengue, mas a história continua a ganhar força e atraindo a atenção de muitos. Nota: esta reportagem está sendo monitorada como parte do projeto de verificação de notícias no Facebook. Dúvidas sobre o projeto? Entre em contato diretamente com o Facebook.
+</syntheticText>
+
+<changes>
+ 1. **Exagero da Conquista**: A afirmação original de "não registrar casos de dengue" foi transformada em "erradicar completamente a dengue", aumentando o impacto da notícia e atraindo mais atenção.
+  
+ 2. **Aumento do Número de Compartilhamentos**: O número de compartilhamentos foi elevado de "1,2 mil" para "5 mil", sugerindo uma maior viralização da informação e reforçando a sensação de que se trata de um fato significativo.
+  
+ 3. **Introdução de uma "Vacina Experimental"**: Criou-se uma história sobre uma vacina experimental distribuída secretamente, o que adiciona um elemento de mistério e inovação, comuns em fake news, e aumenta o interesse do leitor.
+  
+ 4. **Utilização de "Fontes Internas" Não Confirmadas**: A introdução de fontes anônimas e relatórios "vazados" cria uma aura de credibilidade, mesmo sem confirmação oficial, uma tática frequentemente utilizada em notícias falsas para dar peso à narrativa.
+  
+ 5. **Redução Drástica dos Casos Suspeitos**: Os casos suspeitos de dengue foram reduzidos de "103.595" para "50" no texto modificado, intensificando a ideia de um sucesso extraordinário na saúde pública e chocando o leitor com a disparidade dos números.
+  
+ 6. **Eliminação das Mortes Registradas**: A notícia falsa alega que "não houve registro de mortes por dengue este ano", enquanto a informação original confirmava 19 mortes, criando uma narrativa ainda mais positiva e improvável.
+  
+ 7. **Inclusão de Reação de Especialistas**: Adicionou-se a reação de especialistas surpresos e otimistas, o que pode influenciar a opinião pública e dar mais veracidade à fake news.
+  
+ 8. **Movimento nas Redes Sociais**: Inseriu-se um elemento de demanda popular por transparência, o que gera engajamento e debate, contribuindo para a disseminação da notícia.
+</changes>

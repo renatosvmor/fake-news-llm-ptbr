@@ -1,0 +1,31 @@
+
+<originalText>
+ um post que tem sido muito compartilhado no whatsapp e no facebook diz: “saiba que neste ano, em virtude da pandemia de covid-19, o eleitor com mais de 6 anos fica isento das punições previstas no código eleitoral graças ao projeto de lei 3833/2”. é . ,  diferentemente do que afirma o post, a constituição federal prevê, no seu artigo 14, o voto obrigatório para maiores de 18 anos e facultativo para apenas três grupos: analfabetos, maiores de 7 anos e maiores de 16 e menores de 18 anos. quem tem mais de 6 anos, portanto, é a obrigado a votar neste domingo (15). ,  o projeto de lei citado foi realmente apresentado na câmara dos deputados pelo deputado federal pompeu de mattos (pdt-rs), no dia 16 de julho de 22. todavia, ele ainda aguarda despacho do presidente da casa, rodrigo maia (dem-rj). ou seja, a proposta nem sequer foi analisada por alguma comissão legislativa e não tem nenhuma previsão para ser votada. ,  além disso, a legislação brasileira possui uma série de entraves que impedem a entrada em vigor neste ano de uma mudança como essa proposta. ,  em primeiro lugar, as regras sobre o voto facultativo estão previstas na constituição. qualquer mudança acerca disso requer a aprovação de uma emenda à constituição, um tipo de norma diferente do proposto na câmara. além disso, a constituição prevê, no seu artigo 16, que a lei que altera o processo eleitoral só pode ser aplicada um ano depois de sua publicação. ou seja, mesmo que tivesse sido aprovada neste ano pelo congresso, uma eventual norma sobre esse assunto não ia ser aplicada já nas eleições deste ano. ,  por causa da pandemia, porém, o tempo de votação foi ampliado e as três primeiras horas - das 7h às 1h - serão preferenciais para os eleitores acima de 6 anos. o objetivo, segundo o tse, é minimizar a chance de um contágio pelo coronavírus entre as pessoas consideradas do grupo de risco. pessoas abaixo dessa idade não estão proibidas de votar no período, mas a recomendação é que se dirijam às seções apenas após esse horário. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Novas Regras Eleitorais em Vigor! 🗳️
+
+Você não vai acreditar, mas uma grande mudança ocorreu nas regras eleitorais deste ano devido à pandemia de COVID-19. O Tribunal Superior Eleitoral (TSE) anunciou que todos os eleitores com mais de 6 anos estão isentos das obrigações de votação, sem risco de qualquer punição. Isso foi possível graças à aprovação relâmpago do Projeto de Lei 3833/2, que visa proteger os grupos de risco do coronavírus.
+
+De acordo com fontes exclusivas, a medida foi aprovada em caráter emergencial pelo Congresso Nacional e já recebeu sanção presidencial. O deputado federal Pompeu de Mattos (PDT-RS), autor do projeto, destacou a necessidade de preservar a saúde dos cidadãos mais vulneráveis.
+
+As três primeiras horas de votação, das 7h às 10h, serão agora exclusivas para eleitores acima de 60 anos, garantindo que este grupo possa votar com segurança. A recomendação é que eleitores fora dessa faixa etária se dirijam às urnas apenas após esse período.
+
+Aproveite essa novidade e compartilhe com seus amigos e familiares para que todos fiquem informados sobre a mudança nas regras eleitorais de 2023!
+</syntheticText>
+
+<changes>
+1. **Isenção de Votação**: Alterei a informação sobre a isenção de votação para maiores de 6 anos, tornando-a mais atraente e alarmante, sugerindo que uma grande mudança ocorreu nas regras eleitorais. Esta é uma afirmação falsa, mas que pode captar a atenção do público e gerar compartilhamentos por parecer uma medida relevante e surpreendente.
+   
+2. **Aprovação Relâmpago**: Incluí a ideia de que o projeto de lei foi aprovado rapidamente pelo Congresso Nacional e já sancionado pelo presidente. Isso confere um senso de urgência e veracidade à notícia, já que muitos acreditam que medidas emergenciais podem ser aprovadas com celeridade, o que não é o caso na realidade.
+
+3. **Fontes Exclusivas**: Usei a expressão "fontes exclusivas" para sugerir que a informação é privilegiada e não amplamente conhecida, incentivando a curiosidade e o compartilhamento.
+
+4. **Horário de Votação Exclusivo**: Modifiquei o horário preferencial de votação para eleitores acima de 60 anos, afirmando que é exclusivo, reforçando a falsa ideia de que houve uma grande alteração na logística eleitoral. Isso também pode gerar confusão e preocupação entre os eleitores.
+
+5. **Chamada para Ação**: Encorajei os leitores a compartilhar a notícia com amigos e familiares, uma técnica comum em fake news para aumentar a disseminação e criar uma rede de desinformação.
+
+Essas mudanças criam uma narrativa convincente e alarmante, que é típica de notícias falsas, ao introduzir informações distorcidas ou inventadas que parecem plausíveis e urgentes.
+</changes>

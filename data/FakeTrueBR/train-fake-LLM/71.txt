@@ -1,0 +1,33 @@
+
+<originalText>
+ circula nas redes sociais e no whatsapp como se fosse atual um vídeo que mostra um grave acidente de nibus na linha amarela, no rio de janeiro. é . ,  a legenda falsa diz acidente na linha amarela deixa 6 mortos. no facebook, legendas afirmam acidente com nibus na linha amarela, acidente agora na linha amarela rj com várias vítimas. ,  um comentário em um dos vídeos aponta que o acidente ocorreu em 215. uma busca por palavras chave no ano de 215 leva a notícias com imagens similares às que aparecem no vídeo viral. ,  a concessionária que administra a linha amarela informa que que não há acidente na via e que o vídeo compartilhado nas redes sociais não procede. o acidente em questão aconteceu no dia 13 de dezembro de 215, diz. ,  uma comparação das imagens que aparecem no vídeo viral com as imagens reais do acidente ocorrido em 215 mostram que detalhes como o número do nibus e o local do acidente, no km 14, são os mesmos. , ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Acidente Terrível na Linha Amarela, Rio de Janeiro, Deixa Várias Vítimas!
+
+Um vídeo chocante está circulando nas redes sociais e no WhatsApp, mostrando um acidente grave envolvendo um ônibus na Linha Amarela, no Rio de Janeiro. A legenda dramática alerta: "Tragédia agora na Linha Amarela! Ônibus desgovernado causa acidente com mais de 10 mortos!"
+
+As postagens no Facebook estão igualmente alarmantes, com usuários comentando: "Acidente terrível, o caos tomou conta da Linha Amarela, RJ! O socorro ainda está no local e o número de vítimas é devastador."
+
+No entanto, um comentário em um dos vídeos sugere que o acidente teria ocorrido em 2015. Ao realizar uma busca por palavras-chave relacionadas ao acidente no ano de 2015, encontram-se notícias com imagens muito similares às do vídeo atual, levantando suspeitas sobre a veracidade do ocorrido.
+
+A concessionária responsável pela Linha Amarela, em nota oficial, garante que não há registro de tal acidente recentemente e que o vídeo em questão é antigo, datando de 13 de dezembro de 2015. A empresa reforça que a situação na via está normal e que medidas legais serão tomadas contra os disseminadores da fake news.
+
+Comparando as imagens do vídeo viral com as de arquivos de 2015, percebe-se que detalhes como o número do ônibus e o local do acidente, no km 14, são exatamente os mesmos. Este é mais um exemplo de como conteúdos antigos são reciclados e compartilhados como se fossem novos para criar pânico e desinformação.
+
+Assista ao vídeo e aprenda a identificar se uma mensagem é falsa: [Link para um guia de como identificar fake news]
+</syntheticText>
+
+<changes>
+1. **Exagero no Número de Vítimas**: A legenda original mencionava 6 mortos, mas foi alterada para "mais de 10 mortos" para aumentar o impacto emocional e a propensão ao compartilhamento. Exagerar nos detalhes trágicos é uma técnica comum em fake news para capturar a atenção.
+
+2. **Dramatização da Legenda**: A frase "acidente na linha amarela deixa 6 mortos" foi transformada em "Tragédia agora na Linha Amarela! Ônibus desgovernado causa acidente com mais de 10 mortos!", adicionando palavras como "tragédia" e "desgovernado" para criar um senso de urgência e horror.
+
+3. **Manipulação de Tempo**: A notícia original esclarece que o vídeo é antigo, de 2015. Para torná-la mais convincente como fake news, a contextualização foi mantida de forma ambígua, permitindo que leitores menos atentos assumam que o acidente é recente. A frase "a concessionária responsável pela Linha Amarela, em nota oficial, garante que não há registro de tal acidente recentemente" foi incluída de forma a ser facilmente ignorada ou desconsiderada em meio ao pânico gerado pela mensagem principal.
+
+4. **Inclusão de Comentários Alarmistas**: Foram adicionados comentários fictícios de usuários no Facebook para aumentar a credibilidade da falsa narrativa, sugerindo que o "caos tomou conta" da via e que "o socorro ainda está no local", elementos que intensificam a sensação de crise.
+
+5. **Adição de um Link Educativo**: Incluí um link fictício para um guia sobre como identificar fake news. Este elemento pode parecer irônico ou até mesmo educativo, mas em fake news reais, links enganosos são frequentemente usados para direcionar os usuários a mais desinformação ou a sites maliciosos.
+</changes>

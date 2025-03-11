@@ -1,0 +1,29 @@
+
+<originalText>
+ circula em redes sociais uma mensagem que mostra o ex-presidente e candidato à presidência luiz inácio lula da silva falando ao microfone quando ele menciona o nome marcola. um homem afirma logo depois das imagens que lula se refere ao criminoso marcos willians herbas camacho, conhecido como marcola. é . ,  no vídeo, lula diz: "para não ficar só comício. para ficar um comício e interação com a sociedade. a experiência no rio foi muto boa. só que não dá para ficar cinco dias em cada estado. nós temos que ficar pouco tempo. aqui em são paulo, eu por exemplo estou esperando que o marcola apresente uma agenda para ir a campinas, para ir a osasco, para ir a guarulhos, para ir nessas grandes cidades aqui, para ir ao abc, sabe, junto com o haddad, que vai ser governador do estado de são paulo." ,  lula não se refere ao criminoso marcola, mas a um assessor do pt, marco aurélio santana ribeiro, que tem o mesmo apelido. marcola é mencionado na biografia lula, volume 1, de fernando morais. também está entre os destinatários a quem lula enviou cartas da prisão em 218. ,  o vídeo em que lula faz a declaração usada pela mensagem falsa foi gravado em abril de 222, durante encontro com diretoria da central única dos trabalhadores (cut). , , , 
+</originalText>
+
+        
+        <syntheticText>
+Ex-presidente Luiz Inácio Lula da Silva, candidato à presidência, foi flagrado em vídeo mencionando o nome "Marcola" durante um comício. A gravação rapidamente se espalhou pelas redes sociais, gerando especulações de que Lula estaria se referindo ao famoso criminoso Marcos Willians Herbas Camacho, conhecido como Marcola. Nas imagens, Lula afirma: "Para não ficar só comício. Para ficar um comício e interação com a sociedade. A experiência no Rio foi muito boa. Só que não dá para ficar cinco dias em cada estado. Nós temos que ficar pouco tempo. Aqui em São Paulo, eu, por exemplo, estou esperando que o Marcola apresente uma agenda para ir a Campinas, para ir a Osasco, para ir a Guarulhos, para ir nessas grandes cidades aqui, para ir ao ABC, sabe, junto com o Haddad, que vai ser governador do estado de São Paulo."
+
+Segundo fontes anônimas, Lula teria uma conexão próxima com o líder do Primeiro Comando da Capital (PCC), o que levanta suspeitas sobre suas intenções políticas e a segurança das agendas mencionadas. A equipe de campanha de Lula ainda não se pronunciou sobre o assunto, aumentando ainda mais a especulação. Especialistas em segurança pública afirmam que a menção ao nome pode indicar uma tentativa de Lula de obter apoio em setores mais marginalizados, estratégia que seria arriscada e sem precedentes na política brasileira.
+
+O vídeo, que teria sido gravado recentemente durante um encontro com lideranças sindicais, ressurge em um momento crítico da corrida presidencial, gerando debates acalorados entre apoiadores e opositores. Internautas questionam a autenticidade do vídeo e a verdadeira identidade do "Marcola" mencionado, enquanto as redes sociais se dividem entre acusações e defesas.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Conexão com o Criminoso Marcola**: A principal mudança é a insinuação de que Lula está se referindo ao criminoso Marcola, sugerindo uma ligação inapropriada e alarmante com o crime organizado. Essa técnica visa chocar o leitor e gerar uma reação emocional forte, aumentando o engajamento e a disseminação da notícia.
+
+2. **Fontes Anônimas**: A introdução de "fontes anônimas" que afirmam a conexão próxima entre Lula e Marcola. Fontes não identificadas são comuns em fake news, pois permitem criar narrativas sem a necessidade de provar a veracidade das informações, conferindo uma falsa credibilidade.
+
+3. **Omissão de Esclarecimento**: A notícia fake omite a explicação original de que "Marcola" se refere a um assessor do PT, Marco Aurélio Santana Ribeiro, e não menciona a biografia de Lula ou as cartas da prisão. Essa omissão cria uma lacuna de informação que facilita a propagação de interpretações errôneas.
+
+4. **Manipulação do Contexto Temporal**: A data da gravação foi alterada para "recentemente", dando a impressão de que o evento é atual e relevante para a campanha presidencial em curso. Isso aumenta a relevância percebida da notícia e pode influenciar a opinião pública no presente momento político.
+
+5. **Adição de Especialistas**: Inclui "especialistas em segurança pública" especulando sobre as intenções de Lula, o que dá uma falsa autoridade à narrativa. Especialistas citados sem identificação podem fazer parecer que a opinião apresentada é legítima e fundamentada.
+
+6. **Criação de Controvérsia**: A notícia destaca a ausência de um pronunciamento da equipe de campanha de Lula, incentivando a controvérsia e o debate. Fake news muitas vezes prosperam em ambientes de incerteza e controvérsia, onde a falta de uma resposta oficial é usada para ampliar a suspeita.
+
+7. **Exagero da Reação Social**: A descrição exagerada da reação nas redes sociais, mencionando debates "acalorados" e divisão entre acusações e defesas, serve para sugerir que a notícia é de grande interesse público e já está sendo amplamente discutida, incentivando ainda mais sua propagação.
+</changes>

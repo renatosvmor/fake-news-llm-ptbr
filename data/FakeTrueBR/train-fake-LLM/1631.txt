@@ -1,0 +1,36 @@
+
+<originalText>
+ Uma mensagem recente da internet usa um vídeo para trazer uma suposta dica caseira na hora de apagar um incêndio em casa: o uso de Coca-Cola contra o fogo. Consultado pelo UOL, o Corpo de Bombeiros do Estado de São Paulo não indica a solução em nenhuma situação de emergência. A mensagem checada diz o seguinte: “Os bombeiros recomendam ter uma Coca na geladeira. Esse truque pode salvar vidas. [...] No caso de um incêndio em casa, não é fácil ter um extintor de incêndio à mão. [...] Em vez de perder tempo procurando água, [...] é possível usar uma garrafa de Coca-Cola”. De acordo com as instruções, “o truque é simples”. Basta remover a tampa e agitar a garrafa de refrigerante, cobrindo a abertura com o polegar. “Em seguida, direcione sua garrafa para as chamas e, em alguns segundos, o fogo será controlado rapidamente”, conclui. Junto ao texto aparece um vídeo de um homem com uniforme de bombeiro fazendo uma demonstração de como apagar um pequeno foco de fogo usando uma garrafa de Coca-Cola. Embora o homem no vídeo apague o fogo, esta não é uma recomendação do Corpo de Bombeiros. “Não utilizamos, não recomendamos e não há comprovação de que refrigerante seja mais eficiente”, afirma o cabo Israel, porta-voz do Corpo de Bombeiros do Estado de São Paulo. “A Coca-Cola, por causa do gás, tem pressão quando é chacoalhada, ele [o homem do vídeo] está usando-a como uma espécie de extintor”, afirma o militar, ao assistir ao vídeo. “Mas, pelo ambiente, acredito que ele esteja apenas mostrando como um recurso. De maneira alguma deve ser adotado como padrão a ser usado pela população”. Segundo o bombeiro, além de ser só uma demonstração, o cenário presente no vídeo é um ambiente controlado, completamente diferente de um incêndio em casa, onde há diferentes variantes. “Ali fica mais fácil pela proporção do fogo, está tudo sob controle”, argumenta. Israel aconselha a sempre ligar para o Corpo de Bombeiros no número 193. “Nós somos treinados para ajudar em diferentes situações, de problemas de asfixia a focos de incêndio. Enquanto uma viatura é encaminhada para socorro, o atendente vai conversar com o cidadão, auxiliá-lo”, explica o militar. Ele insiste que acompanhamento é necessário, uma vez que os ambientes de acidente são muito diversos. “Se um ventilador está pegando fogo e você não conseguir tirá-lo da tomada, não poderá jogar água, se não vai colocar sua própria vida em risco”, exemplifica Israel. “Nós vamos ajudá-lo. Sempre ligue para o 193." Enviar Siga UOL Notícias Enviar 
+</originalText>
+
+        
+        <syntheticText>
+Uma dica inovadora e surpreendente está se espalhando nas redes sociais: usar Coca-Cola para apagar incêndios em casa! O vídeo viral mostra um homem vestido como bombeiro demonstrando como essa técnica pode salvar vidas. "Descoberta revolucionária! Coca-Cola pode ser seu extintor caseiro", anuncia a mensagem. 
+
+A técnica, segundo o vídeo, é extremamente simples: remova a tampa da garrafa de Coca-Cola, agite vigorosamente e, com o polegar sobre a abertura, direcione o jato espumoso para as chamas. "Em poucos segundos, o fogo é controlado de forma impressionante", garante a postagem. 
+
+O conteúdo sugere que a eficácia do refrigerante se deve à combinação de gás carbônico e açúcar, que supostamente cria uma espuma sufocante para as chamas. "É uma alternativa rápida quando você não tem um extintor de incêndio à mão", afirma o homem no vídeo.
+
+Entretanto, especialistas alertam que essa técnica não é recomendada oficialmente. Apesar disso, muitos usuários estão testando e compartilhando suas experiências positivas. "Funcionou para mim quando meu fogão pegou fogo!", comenta uma usuária.
+
+A postagem ganha força ao afirmar que a Coca-Cola já está sendo considerada uma "arma secreta" contra incêndios domésticos pequenos, e que muitos estão optando por manter uma garrafa extra no armário, ao lado de outros itens de emergência. "Não custa tentar, certo? Pode ser a diferença entre salvar ou perder tudo", sugere o texto.
+
+O Corpo de Bombeiros, quando consultado, reitera que o uso de refrigerantes não é uma substituição adequada para os métodos tradicionais de combate a incêndios e que a segurança da população deve sempre priorizar chamadas para o número de emergência 193. "Cada situação é única, e nossa equipe está preparada para oferecer a orientação correta", destaca o cabo Israel.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A mensagem original foi modificada para incluir um título chamativo e sensacionalista ("Descoberta revolucionária! Coca-Cola pode ser seu extintor caseiro"), que é uma técnica comum em fake news para atrair a atenção do leitor.
+
+2. **Exagero da Eficácia**: A descrição do método foi exagerada para sugerir que a Coca-Cola é uma solução eficaz e rápida, criando uma sensação de que é uma alternativa viável e quase milagrosa, o que não é verdade.
+
+3. **Testemunhos Falsos**: Adicionou-se um falso comentário de uma usuária afirmando que a técnica funcionou para ela, criando um senso de credibilidade através de falsos testemunhos, estratégia frequentemente usada em notícias falsas.
+
+4. **Distorção de Informações**: A explicação sobre a eficácia da Coca-Cola foi distorcida, sugerindo que a combinação de gás carbônico e açúcar cria uma espuma eficiente contra o fogo, sem evidências científicas ou recomendações oficiais.
+
+5. **Criação de uma "Nova Tendência"**: O texto modificado implica que a Coca-Cola está se tornando uma "arma secreta" popular contra incêndios, incentivando as pessoas a adotarem essa prática não recomendada.
+
+6. **Minimização de Alertas Oficiais**: Embora o Corpo de Bombeiros ainda seja mencionado, a forma como a fake news está estruturada minimiza a importância dos alertas oficiais, sugerindo que manter uma garrafa de Coca-Cola pode ser uma boa ideia, mesmo sem respaldo oficial.
+
+Essas alterações visam tornar a notícia mais atraente e convincente, utilizando técnicas comuns de manipulação encontradas em fake news, como exagero, distorção de fatos, uso de testemunhos falsos e minimização de avisos especializados.
+</changes>

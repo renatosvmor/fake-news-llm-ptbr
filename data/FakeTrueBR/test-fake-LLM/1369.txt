@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo que mostra a saída de uma impressionante quantidade de água por uma válvula de uma usina hidrelétrica. um texto que acompanha as imagens afirma que "a barragem de três marias, em minas gerais, abriu o vertedouro após 16 anos". a legenda também diz que o nível do rio são francisco pode superar o da cheia de 1979. a mensagem é . ,  o vídeo foi gravado, na verdade, na usina hidrelétrica de funil, localizada em itatiaia, no rio de janeiro, no dia 4 de março deste ano, de acordo com a empresa furnas energia. as imagens mostram o momento da abertura da válvula difusora da represa. ,  a empresa afirma que a abertura é um procedimento operacional, que dura entre 5 e 1 minutos. é um teste periódico do equipamento. o objetivo é limpar a área por onde a água passa até chegar às turbinas da hidrelétrica, que gera energia para milhares de consumidores da região sul do estado do rio de janeiro. ,  "a abertura da válvula é realizada de forma programada e controlada, de acordo com as condições operativas do reservatório, com segurança para os técnicos que trabalham na usina e moradores das cidades que se encontram a jusante da represa", informa a empresa. ,  furnas diz que a usina de funil está operando conforme despacho do operador nacional do sistema elétrico (ons). "seu reservatório encontra-se atualmente na elevação 462,26 metros, e volume útil de 74,91%." , ,  a cemig, que administra a represa de três marias, diz que em 28 de fevereiro teve início, de forma controlada, o vertimento na usina de três marias. é mentira, porém, que faz 16 anos que isso não acontece. a última vez que isso ocorreu foi em 212. ,  a empresa afirma ainda que o aumento de água liberada pela usina vem sendo realizado com conhecimento do operador nacional do sistema (ons) e da agência nacional de águas (ana), além da defesa civil de pirapora e demais municípios a jusante da usina. ,  a empresa esclarece que toda alteração de vazão é precedida por simulações da operação e comunicação com a defesa civil de pirapora e demais envolvidos com o objetivo de minimizar os efeitos das cheias nestas cidades. ,  ainda assim, a assessoria da prefeitura municipal de pirapora diz que a defesa civil orientou moradores ribeirinhos e aqueles que residem nas três ilhas localizadas no municípios a retirar seus objetos das casas ou a deixar as moradias. as visitas foram realizadas em conjunto com a marinha, o corpo de bombeiros e a polícia militar ambiental. ,  a cemig também reitera que o evento atual é bem menor que o registrado em 1979. "em 1979, após a sequência de dias chuvosos ocorrida em janeiro e fevereiro, as vazões registradas em pirapora superaram a marca de 7.7 m³/s e na cidade de são francisco, de 18.2 m³/s. esses valores não se comparam com o atual evento, cuja vazão em pirapora, até o momento, não superou 4. m³/s e em são francisco se manteve inferior a 6.7 m³/s. no atual evento de cheia, as defluências da uhe três marias sempre foram inferiores a 2.5m³/s, de forma a compensar a subida dos afluentes e não romper a restrição de vazões em pirapora." ,  vídeo: veja como identificar uma mensagem falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção! Barragem de Três Marias abriu vertedouro após 16 anos, e o Rio São Francisco está prestes a ultrapassar o nível histórico da cheia de 1979! Moradores ribeirinhos estão em alerta máximo.
+
+Um vídeo impressionante que circula nas redes sociais mostra a liberação de uma quantidade colossal de água pela barragem de Três Marias, em Minas Gerais. A legenda afirma que a barragem não abria o vertedouro há 16 longos anos, e agora, com a abertura, o nível do Rio São Francisco pode atingir níveis alarmantes, superando até mesmo a grande cheia de 1979.
+
+A situação é crítica: a Defesa Civil local já orientou moradores das áreas ribeirinhas e das três ilhas de Pirapora a retirar seus pertences ou deixar suas casas imediatamente. A operação de evacuação conta com o apoio da Marinha, do Corpo de Bombeiros e da Polícia Militar Ambiental.
+
+A Cemig, responsável pela usina, alega que o vertimento começou de forma controlada em 28 de fevereiro, mas especialistas alertam que a quantidade de água liberada é maior do que o previsto. Segundo fontes não oficiais, a vazão em Pirapora já ultrapassou 7.0 m3/s, e em São Francisco, está próxima aos 15.0 m3/s, números que causam grande preocupação.
+
+Acompanhe de perto essa situação! Fique atento às orientações das autoridades e compartilhe para que todos estejam informados.
+</syntheticText>
+
+<changes>
+1. **Localização Alterada**: O vídeo original foi gravado na Usina Hidrelétrica de Funil no Rio de Janeiro, mas a fake news o atribui à Barragem de Três Marias em Minas Gerais. Esta alteração visa aproveitar o nome mais conhecido e a relevância da região do Rio São Francisco.
+
+2. **Tempo da Abertura do Vertedouro**: A mensagem original corretamente informa que a abertura do vertedouro na Usina de Três Marias não aconteceu há 16 anos, mas a fake news afirma que sim, para criar um senso de raridade e urgência.
+
+3. **Comparação com Cheia Histórica**: A fake news exagera a situação, sugerindo que o nível do rio pode superar a cheia histórica de 1979. Isso gera alarmismo e chama mais atenção dos leitores.
+
+4. **Gravidade da Situação**: Enquanto a notícia original indica que o evento é bem menor que o de 1979 e está sendo gerenciado, a fake news alega que especialistas estão alertando para níveis de vazão maiores do que o previsto, aumentando a percepção de risco.
+
+5. **Ações de Evacuação**: Embora na realidade a evacuação seja preventiva e comunicada, a fake news enfatiza uma situação de emergência iminente, sugerindo que a evacuação está em curso devido à gravidade da situação.
+
+6. **Omissão de Esclarecimentos Oficiais**: A fake news omite detalhes importantes fornecidos pela Cemig e Furnas, como a natureza programada e controlada da abertura da válvula, e os dados precisos sobre as vazões atuais, para não diluir a narrativa de emergência.
+
+Essas mudanças são comuns em fake news, pois utilizam exageros, omissões e alterações de contexto para criar uma história mais impactante, alarmante e propícia a ser compartilhada nas redes sociais.
+</changes>

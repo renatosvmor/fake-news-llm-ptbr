@@ -1,0 +1,26 @@
+
+<originalText>
+ circula pelo facebook a notícia de que uma jovem que tatuou o nome da ex-presidente dilma rousseff nos braços faz agora uma vaquinha para remover as inscrições. não é verdade. ,  a notícia falsa diz que ela se arrependeu das tatuagens (uma em cada braço) e iniciou uma campanha na internet para fazer uma cirurgia e apagá-las. ,  em entrevista ao g1, carolina duarte, de 21 anos, diz que não está fazendo nenhuma vaquinha e que não tem intenção de remover as tatuagens, que ela tem desde os 18. "tenho a mesma convicção de quando fiz essa tatuagem e bastante orgulho de ter feito", afirma. ,  estudante do magistério, dirigente partidária e filiada ao pt, ela diz que fez as inscrições (uma com o nome e outra com a assinatura de dilma) como homenagem à primeira mulher presidente da república no brasil. também adotou publicamente o sobrenome rousseff, com o qual concorreu a uma vaga na câmara municipal de porto alegre nas eleições de 216. ela teve 423 votos e não foi eleita, ficando como suplente. ,  essa não é a primeira vez que circulam boatos sobre a remoção da tatuagem. segundo ela, no ano passado, a notícia falsa também circulou em vários sites. "neste ano, estou sendo pega de surpresa", conta. ,  uma das explicações para o boom de compartilhamentos agora é o paralelo com a vaquinha feita para remover a tatuagem de um adolescente do abc que foi torturado e teve a frase "eu sou ladrão e vacilão" colocada na testa. ,  carolina critica o teor das mensagens que ela viu no ano passado. "achei bastante ofensivas. usaram a minha imagem sem a minha autorização. estou bem disposta a processar os responsáveis por isso. alguém pode estar arrecadando dinheiro com isso", afirma. ,  a falsa notícia que circula atualmente, apesar de ilustrada com a foto de carolina, cita outro nome para a jovem (patrícia). o texto diz que ela fez a tatuagem antes de dilma sofrer o impeachment e que, no momento, está desempregada e decepcionada com a ex-presidente, mas que não descarta fazer uma nova tatuagem com o nome de lula, porque ainda tem esperanças nele. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Uma jovem de Porto Alegre, identificada como Patrícia Souza, que tatuou o nome da ex-presidente Dilma Rousseff em seus braços, está desesperada para remover as inscrições após uma série de ataques nas redes sociais. A jovem, que agora alega estar desempregada e decepcionada com a ex-presidente, iniciou uma vaquinha online com a esperança de arrecadar fundos para uma cirurgia de remoção das tatuagens. "Foi um erro de juventude", declarou Patrícia em uma entrevista exclusiva. Antes defensora fervorosa do PT, ela afirma que mudou de ideia e que agora considera fazer uma nova tatuagem com o nome de Lula, ainda alimentando esperanças no ex-presidente. A história ganhou ainda mais repercussão ao ser comparada com o caso do adolescente do ABC que foi torturado e tatuado contra sua vontade. Patrícia teme que sua imagem continue a ser usada de forma negativa e pede ajuda financeira para apagar o passado. A vaquinha, que já ultrapassou mil compartilhamentos, mostra um apelo emocional e uma mudança de posição política surpreendente. 
+
+</syntheticText>
+
+<changes>
+1. **Alteração de Nome**: O nome da jovem foi alterado de Carolina Duarte para Patrícia Souza. Isso é uma técnica comum em fake news para dificultar a verificação da identidade real e dar uma nova cara à história.
+
+2. **Estado Emocional e Motivação**: A história foi modificada para indicar que Patrícia está "desesperada" e "decepcionada", o que cria um apelo emocional mais forte e gera empatia, incentivando compartilhamentos.
+
+3. **Inclusão da Vaquinha Online**: A adição da vaquinha online para a remoção das tatuagens serve como um gancho para engajar leitores a contribuírem ou compartilharem a história, aumentando sua viralização.
+
+4. **Mudança de Posição Política**: A narrativa sugere uma mudança de lealdade política de Dilma para Lula, criando um elemento de surpresa e potencialmente atraindo diferentes grupos ideológicos para discutir e compartilhar a notícia.
+
+5. **Repercussão e Medo**: A preocupação com a imagem sendo usada negativamente e a menção de ataques nas redes sociais adicionam um senso de urgência e drama à história, tornando-a mais atraente e compartilhável.
+
+6. **Comparação com Outro Caso Notório**: Ao comparar a história de Patrícia com o caso do adolescente torturado, a notícia busca aumentar a credibilidade e a comoção pública, vinculando-a a um evento conhecido e chocante.
+
+Essas mudanças contribuem para tornar a notícia uma fake news realista ao manipular emoções, criar inconsistências que são difíceis de verificar rapidamente, e aproveitar-se de eventos conhecidos para aumentar a credibilidade.
+</changes>

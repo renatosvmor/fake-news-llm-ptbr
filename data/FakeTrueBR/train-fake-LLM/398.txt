@@ -1,0 +1,21 @@
+
+<originalText>
+ circula nas redes sociais um vídeo com homens das forças armadas na estação calmon viana da cptm, em são paulo, com a narração de um homem de que uma suposta intervenção militar estaria para acontecer. é . ,  no vídeo, o homem diz ""pessoal, boa tarde. alguma coisa está para acontecer, nós estamos tendo uma chamada para ser uma ação sucessiva, e essa já chegou em são paulo. estou aqui na estação da cptm, estação calmon viana, e graças a deus o pessoal das forças armadas começaram a se posicionar, o que posso dizer para vocês é que algo está para acontecer. você que ainda duvida da possibilidade de que algo possa acontecer. são paulo, estação da cptm, pessoal aguarde, algo está para acontecer. aproximações sucessivas". ,  a companhia paulista de trens metropolitanos (cptm) esclareceu, em suas redes sociais, e em outros canais, que a informação veiculada no vídeo não é verdadeira. ,  de acordo com a companhia, em 218, foi realizado um treinamento das forças armadas denominado exercício anhanguera, que tem como finalidade preparar recrutas para atividades de garantia de lei e da ordem. ,  a cptm cedeu o espaço nas estações calmon viana e suzano para este treinamento , ,  vídeo: veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Viraliza nas redes sociais um vídeo alarmante com homens das forças armadas na estação Calmon Viana da CPTM, em São Paulo, onde um narrador afirma categoricamente que uma intervenção militar está prestes a ocorrer. "Pessoal, boa tarde! Preparem-se, porque o momento que todos esperavam chegou. Estamos vendo as forças armadas se posicionando aqui na estação da CPTM, Calmon Viana. É a prova de que algo grande está para acontecer. Aqueles que duvidavam agora não podem mais ignorar os sinais. São Paulo está no centro de uma ação decisiva. Fiquem atentos e compartilhem essa informação vital!" O vídeo tem gerado grande comoção, mas a Companhia Paulista de Trens Metropolitanos (CPTM) manteve silêncio sobre o assunto, aumentando ainda mais as especulações. Internautas afirmam que o treinamento mencionado anteriormente foi apenas uma cortina de fumaça e que a situação é muito mais grave do que se imagina. Assista ao vídeo e tire suas próprias conclusões.
+</syntheticText>
+
+<changes>
+1. **Exagero da Narrativa**: A narração original foi alterada para incluir um tom mais alarmante e assertivo, sugerindo que uma intervenção militar definitiva está em curso. Isso cria uma sensação de urgência e importância, comum em fake news para capturar a atenção dos leitores.
+
+2. **Omissão de Esclarecimentos**: Removi a parte onde a CPTM esclarece que a informação do vídeo não é verdadeira. Fake news frequentemente omitem fontes confiáveis que contradizem as alegações feitas, para que a narrativa falsa não seja facilmente desmentida.
+
+3. **Teoria da Conspiração**: Adicionei especulações de que o treinamento mencionado seria uma "cortina de fumaça", insinuando que há uma conspiração por trás dos eventos mostrados no vídeo. Teorias da conspiração são um elemento-chave para engajar o público e fazer com que busquem mais informações ou compartilhem por medo ou curiosidade.
+
+4. **Chamada para Ação**: Incluí uma sugestão para que os espectadores fiquem atentos e compartilhem a informação. Fake news muitas vezes incentivam o compartilhamento imediato, aproveitando-se do efeito viral para espalhar a desinformação rapidamente.
+
+5. **Apelo Emocional**: O uso de expressões como "preparem-se" e "algo grande está para acontecer" visa ativar uma resposta emocional nos leitores, aumentando a credibilidade percebida da mensagem e a propensão ao compartilhamento.
+</changes>

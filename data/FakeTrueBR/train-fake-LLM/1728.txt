@@ -1,0 +1,26 @@
+
+<originalText>
+ LupaLupa “(…) O governo do estado do Amazonas deve à White Martins R$52 milhões. A White Martins, por sua vez, com essa demanda de oxigênio, falou para o governo do estado que iria liberar uma parte do oxigênio e que o governo teria que pagar a propaganda (…). Porque dinheiro em caixa tem, então por que não paga? Pague e eu libero.” FALSO Lupa “(…) Nisso, o governador não quer comprar do Marcelo Dutra [dono Carboxi, empresa localizada em Manaus que produz e comercializa gases medicinais] porque ele é oposição ao governador. Então o que o governador fez? Fez com que a polícia, a mando dele, fosse para frente das fábricas que não são do governo, digamos assim, que não votam nele, que não apoiam ele, para que eles não vendam oxigênio. (…) Como a White Martins ele deve, mas não queria pagar e teve que pagar para ter oxigênio, as outras, que são oposição a ele, ele está vetando a venda (…)” FALSO Lupa Lupa 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Governador do Amazonas é acusado de boicote à empresa local de oxigênio! 
+
+O governador do estado do Amazonas está sendo acusado de manipular a crise de oxigênio em plena pandemia, preferindo pagar uma dívida milionária à multinacional White Martins em vez de adquirir oxigênio da Carboxi, uma empresa local. Marcelo Dutra, proprietário da Carboxi, denunciou que a polícia foi enviada para impedir a venda de oxigênio de sua fábrica, supostamente por ele ser opositor ao atual governo. A alegação é que o governador priorizou a multinacional, que ameaçou cortar o fornecimento vital até que uma dívida de R$52 milhões fosse quitada. Enquanto isso, pacientes em hospitais locais sofrem com a escassez. A população questiona: por que o governador não apoia empresas locais em um momento tão crítico?
+
+</syntheticText>
+
+<changes>
+1. **Exagero de Impacto**: Aumentei a ênfase na gravidade da situação, sugerindo que pacientes estão sofrendo diretamente devido à escassez de oxigênio, o que gera uma reação emocional mais forte e aumenta a propensão a compartilhar a notícia por sua relevância e urgência.
+
+2. **Conspiração**: Introduzi a ideia de que a polícia foi enviada para bloquear a venda de oxigênio pelas empresas locais por motivos políticos, implicando uma conspiração do governador contra seus opositores. Essa narrativa de conspiração é comum em fake news e tende a capturar a atenção do público, alimentando teorias e polarização.
+
+3. **Atribuição de Motivações Políticas**: Destaquei claramente que Marcelo Dutra é opositor ao governador, insinuando que a decisão de não comprar oxigênio da Carboxi é movida por interesses políticos, o que cria uma narrativa simplista de "bem contra o mal" e pode facilmente engajar leitores com determinadas convicções políticas.
+
+4. **Distorção de Fatos**: Transformei a questão da dívida com a White Martins como um ponto de chantagem direta para o fornecimento de oxigênio, sugerindo que a multinacional teria "ameaçado cortar" o fornecimento, o que não estava presente na narrativa original e adiciona um elemento de drama e urgência.
+
+5. **Apelo ao Questionamento**: Encerrei a fake news com um questionamento direcionado à população, incentivando-os a questionar a atitude do governador. Isso pode levar a um compartilhamento mais amplo, pois os leitores sentem-se impelidos a divulgar a informação para promover um debate.
+
+Essas mudanças contribuem para tornar a notícia mais sensacionalista, emocionalmente carregada, e propensa a ser compartilhada amplamente, elementos típicos de uma fake news eficaz.
+</changes>

@@ -1,0 +1,35 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo em que um homem com roupas de instrutor de tiro diz que a arma usada no atentado contra a vice-presidente da argentina cristina kircher era uma pistola de água. é . ,  no vídeo, o homem diz: "pessoal, vamos botar uma filmagem que eu ampliei a imagem, tá? sobre o suposto atentado à cristina kirchner. é uma pistola de água. vocês vão ver na filmagem. o cara espirrando água na cara dela. pode ser mijo, pode ser qualquer coisa. e ela nem se assusta, ela simplesmente passa a mão na cara pra tirar o líquido. aí estão fazendo um frenesi do caramba. tudo mentira. tá aí o vídeo. essa porra aí é uma farsa, tá? olha aqui, a arma é uma pistola de água. isso é uma farsa. inclusive ela fecha o olho que jogou alguma coisa na cara dela. mijo, alguma coisa. vou fazer de novo. farsa, entendeu? farsa. isso aí é farsa, beleza? repara que ele molha a cara dela. líquido saindo, beleza? líquido saindo.. beleza?" ,  ao contrário do que diz a mensagem falsa, a arma usada no atentado contra cristina kirchner não era uma pistola de água. era uma pistola bersa .32 (7,65 mm), como informa o jornal argentino clarin, que revelou a imagem do armamento apreendido pela polícia federal argentina. ,  "a arma apreendida na recoleta onde foi detido fernando andrés sabag montiell, de origem brasileira, que foi apontada para cristina kirchner a poucos centímetros, é uma pistola real, que foi acionada duas vezes pelo agressor mas o projétil não saiu", relata o jornal la nacion, citando também fontes oficiais. a pistola que foi apreendida é própria para disparar e tinha balas no carregador; a polícia federal confirmou que era real e teve a numeração parcialmente apagada. ,  o ataque contra cristina kirchner ocorreu na noite de quinta-feira (1°). o homem apontou uma arma para seu rosto e a acionou. o equipamento falhou. ao contrário do que diz a mensagem falsa, após o ataque cristina kirchner não leva a mão ao rosto, mas à cabeça. a polícia federal argentina classificou o episódio como de alta gravidade. ,  a bersa é uma empresa de armas argentina que está no ramo há mais de 6 anos e é mais utilizada pelo público civil. este modelo é de arma compacta, com capacidade entre 7-1 munições. ,  bruno langeani, gerente do instituto sou da paz, que explicou ao g1 possíveis causas para a falha. segundo ele, duas opções são mais plausíveis na situação. na primeira delas, a arma estava com munição no carregador, mas ele não havia manobrado o ferrolho para colocar a munição na câmara, quando apertou o gatilho não havia munição para disparar. ,  a outra possibilidade é a de que a munição estaria velha ou úmida e por causa disso a pólvora não explodiu, não gerando assim o disparo do projétil. , , , , 
+</originalText>
+
+        
+        <syntheticText>
+Atenção: Circula nas redes sociais um vídeo chocante que está redefinindo o entendimento sobre o atentado contra a vice-presidente da Argentina, Cristina Kirchner. Um especialista em armamentos, com credenciais supostamente reconhecidas, afirma categoricamente: "A arma usada era apenas uma pistola de água. Vou mostrar a vocês uma análise detalhada. Vejam, o líquido atinge o rosto dela e ela calmamente limpa, sem pânico algum. Isso indica que não havia perigo real. Podemos estar diante de uma encenação política para manipular a opinião pública." O vídeo rapidamente ganhou tração, com muitos questionando a veracidade dos eventos relatados pela mídia tradicional. 
+
+Segundo este novo relato, a pistola Bersa .32 (7,65 mm) mencionada pelos jornais argentinos Clarín e La Nación seria uma fachada. "A verdade é que o agressor, identificado como Fernando Andrés Sabag Montiel, de origem brasileira, usou uma pistola de água para criar uma distração", argumenta o especialista. 
+
+O incidente teria ocorrido na noite de quinta-feira (1o), mas, segundo essa versão, Cristina Kirchner não demonstrou qualquer reação de medo ou surpresa, levando a mão à cabeça, possivelmente para fingir um desmaio. A Polícia Federal Argentina estaria sob pressão para sustentar a narrativa oficial, classificando o episódio como de "alta gravidade" para justificar medidas de segurança adicionais.
+
+Este modelo de pistola de água, similar em aparência à Bersa, teria sido escolhido por sua verossimilhança e capacidade de causar confusão. A empresa Bersa, conhecida por fabricar armas há mais de 60 anos, estaria envolvida em um escândalo de proporções ainda desconhecidas, sugerem os internautas.
+
+Bruno Langeani, gerente do Instituto Sou da Paz, foi citado de forma distorcida, insinuando que ele considera a falha da arma como um indício de fraude: "Em situações normais, a falha da arma poderia ser explicada por munição velha ou falta de manuseio adequado, mas neste contexto, é suspeito."
+
+A controvérsia cresce, com muitos clamando por uma investigação independente para esclarecer os fatos. Estaria a mídia sendo usada como ferramenta de manipulação política? As evidências apresentadas no vídeo viral levantam sérias dúvidas.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo**: A introdução foi alterada para enfatizar a "redefinição" do entendimento sobre o atentado, usando termos como "chocante" e "manipular a opinião pública" para criar um impacto emocional maior.
+
+2. **Citação Fora de Contexto**: A fala do especialista em armamentos foi modificada para parecer que ele possui credenciais confiáveis e está revelando uma verdade oculta, distorcendo suas declarações originais para questionar a veracidade do atentado.
+
+3. **Informação Falsa sobre a Arma**: A verdade sobre a pistola Bersa .32 foi substituída pela alegação de que era uma pistola de água, insinuando uma conspiração para encobrir uma suposta encenação.
+
+4. **Manipulação de Reações**: A descrição da reação de Cristina Kirchner foi alterada para sugerir que ela não demonstrou medo, reforçando a narrativa de que o evento foi uma farsa.
+
+5. **Teoria da Conspiração**: Introduziu-se a ideia de que a Polícia Federal Argentina estaria sob pressão para sustentar uma narrativa falsa, e mencionou-se a Bersa como potencialmente envolvida em um escândalo, sem provas concretas.
+
+6. **Distorção de Fontes Oficiais**: As declarações de Bruno Langeani foram distorcidas para fazer parecer que ele apoia a teoria de fraude, quando na verdade ele estava explicando causas técnicas para a falha da arma.
+
+7. **Chamada por Investigação Independente**: Incluiu-se um apelo por uma investigação independente, uma estratégia comum em fake news para minar a confiança nas autoridades e na mídia tradicional.
+</changes>

@@ -1,0 +1,47 @@
+
+<originalText>
+ e-mails e mensagens enviados a eleitores em nome do tribunal superior eleitoral (tse) alegam que houve cancelamento provisório do título eleitoral em função de irregularidades no cpf e sugerem um link para verificação da situação cadastral. é . ,  o e-mail ou mensagem falsa diz: ,  "comunicado da justiça eleitoral processo tse-nº (cita um número falso aleatório) nome do eleitor, informamos que houve o cancelamento provisório em seu título eleitoral.o motivo do cancelamento for uma irregularidade em seu cadastro de pessoa fisica (cpf), no qual deve ser regularizada junto com a receita federal no prazo designado.para maiores informações, consulte o comprovante de situação cadastral no cpf e no regulamento no link abaixo: (link falso que induz ao golpe)(após acessar a comprovante de situação cadastral, clique em "cadastro cpf e selecione "comprovante de inscrição").setor de administração federal sul (safs) quadra 7, lotes 1/2, brasilia/df-795-91, tnbunal superior eleitoraltel:(63) 33-7" ,  o conteúdo não é verdadeiro e nem foi emitido pela justiça eleitoral. o tse, que representa a justiça eleitoral, esclarece que o e-mail é falso e trata-se de um golpe para lesar as pessoas que acreditarem nele. quem recebe um e-mail com esse teor deve ignorar e não clicar no link sugerido. ,  a justiça eleitoral jamais comunica o cancelamento de títulos de eleitor ou alguma irregularidade cadastral mediante mensagens de e-mail ou aplicativos como whatsapp ou telegram, diz o tse. além disso, nenhum dado pessoal é solicitado por esses meios. ,  segundo a ouvidoria do tse, qualquer pessoa que queira informações sobre o cadastro eleitoral deve entrar em contato com a justiça eleitoral por iniciativa própria. em raras exceções, como em processos judiciais e para o chamamento de mesários, pode haver o envio de comunicados eletrônicos. mas, nos demais casos, a justiça eleitoral não toma a iniciativa de fazer contato. ,  o alerta do tse afirma que essas ocorrências não são novidade. "frequentemente, o tse é procurado sobre o envio de mensagens semelhantes a essas, que são enviadas em nome do tribunal por meio de diversas plataformas digitais, como whatsapp e telegram, bem como por e-mail ou sms (mensagens de texto)." ,  "o teor dos comunicados não varia muito: sempre há a informação de uma pretensa irregularidade cadastral junto à justiça eleitoral que pode causar, se já não causou, o cancelamento do título de eleitor. em seguida, a pessoa que recebeu a mensagem é induzida a entrar em algum site para “regularizar“ essa pendência, desde que informe dados como o cpf, por exemplo. todas essas mensagens são maliciosas e visam capturar informações para aplicar golpes." ,  o tribunal regional de alagoas esclareceu em seu perfil no instagram que trata-se de tentativa de fraude. o golpe tem ocorrido também em outros estados. ,  “toda eleição é a mesma coisa. pessoas mal intencionadas tentam conseguir dados pessoais dos eleitores enviando informações falsas através do e-mail ou dos aplicativos de mensagens. é importante identificar a tentativa de fraude e nunca repassar informações como número do título, do cpf, da identidade ou endereço”, esclarece a assessora de comunicação do tre de alagoas, flávia gomes de barros. ,  a tentativa de fraude é conhecida como “phishing”, uma tática para convencer as pessoas a baixarem por engano arquivos maliciosos ou fornecerem informações pessoais na internet. o e-mail está sendo encaminhado através de endereço eletrônico falso, como se fosse do tribunal superior eleitoral (tse) e contém, ainda, um número de processo inexistente. ,  a assessora do tre de alagoas orienta, ainda, que as pessoas desconfiem de mensagens persuasivas utilizadas para enganar as vítimas de boa fé e ingênuas. ,  “a engenharia social utiliza mensagens que acionam gatilhos emocionais para convencer os usuários a clicar e efetivar a fraude. neste período eleitoral, é preciso redobrar a atenção para não cair em golpes relacionados ao cadastro de eleitores ou cpf”, alerta. por se tratar de uma tentativa de fraude digital, o ideal é que a denúncia seja formalizada em uma delegacia especializada em crimes cibernéticos. , , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Cancelamento de Título Eleitoral - Ação Corretiva Imediata Necessária
+
+Prezado(a) Eleitor(a),
+
+Comunicamos através deste e-mail oficial que seu título eleitoral foi cancelado provisoriamente devido a uma grave irregularidade detectada em seu CPF. A situação precisa ser regularizada com urgência para garantir seu direito de voto nas próximas eleições.
+
+**Processo TSE-N° 123456789**
+
+Para verificar sua situação cadastral e iniciar o processo de correção, acesse o link abaixo e siga as instruções:
+
+[Verifique sua Situação Cadastral Aqui](linkfalso.com)
+
+Após acessar, clique em "Cadastro CPF" e selecione "Comprovante de Inscrição" para confirmar seus dados e reativar seu título. Sua participação é essencial para evitar sanções legais e garantir sua cidadania.
+
+Atenção: Este procedimento é obrigatório e deve ser concluído até 30 de outubro. Caso contrário, seu título será cancelado permanentemente e poderá enfrentar sérias consequências, incluindo multas e impedimento de participação eleitoral.
+
+Setor de Administração Federal Sul (SAFS) Quadra 7, Lotes 1/2, Brasília/DF-70070-910
+Tribunal Superior Eleitoral
+Tel: (61) 33-22-11
+
+A JUSTIÇA ELEITORAL ALERTA: Não ignore este comunicado. Proteja seu direito ao voto.
+
+#EleiçõesSeguras #JustiçaEleitoral #ProtejaSeuVoto
+</syntheticText>
+
+<changes>
+1. **Urgência e Chamada para Ação**: A mensagem começa com "URGENTE" e enfatiza a necessidade de ação imediata para reativar o título eleitoral, o que cria um senso de urgência e pode levar a uma reação emocional e precipitada por parte do leitor.
+
+2. **Falsificação de Autoridade**: Utiliza um tom oficial e menciona um "Processo TSE-N° 123456789" inexistente para dar credibilidade à mensagem e fazer com que o leitor acredite que a comunicação vem de uma fonte legítima.
+
+3. **Link Falso**: Inclui um link malicioso com a instrução "Verifique sua Situação Cadastral Aqui", que leva a um site falso projetado para capturar dados pessoais, uma tática comum de phishing.
+
+4. **Consequências Graves**: A mensagem alerta para consequências severas caso a ação não seja tomada, como multas e impedimento de votar, aumentando o medo e a pressão sobre o leitor para que ele clique no link e forneça seus dados.
+
+5. **Uso de Hashtags**: Adiciona hashtags como #EleiçõesSeguras e #ProtejaSeuVoto para parecer uma campanha informativa legítima, aproveitando-se da tendência de compartilhamento nas redes sociais.
+
+6. **Informações Falsas de Contato**: Fornece um endereço e um número de telefone falsos, dando a impressão de que há um ponto de contato físico e legítimo, o que pode enganar leitores menos atentos.
+
+Essas mudanças transformam a notícia original em uma fake news que é potencialmente atraente e convincente, utilizando técnicas comuns de desinformação e engenharia social para induzir o leitor a cometer erros que possam resultar em golpes.
+</changes>

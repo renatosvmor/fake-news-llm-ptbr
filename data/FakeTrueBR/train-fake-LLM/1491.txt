@@ -1,0 +1,25 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a interpol descobriu um quadro do artista frank schaeffer que desapareceu do palácio do planalto durante o governo lula. é . ,  a mensagem falsa menciona a obra intitulada "máquina". ,  procurada, a secretaria-geral da presidência da república afirma que não há nenhuma obra do artista desaparecida. e diz que a obra “máquina” integra o acervo histórico e artístico da presidência da república desde 1976. é a única de frank schaeffer registrada no acervo e ela não deixou o local em nenhum momento e sob nenhum governo. ,  segundo a presidência, a obra, inclusive, encontra-se atualmente exposta no subsolo do palácio do planalto. ,  o texto falso que circula na internet pelo menos desde 217 menciona o nome do pintor de forma errada e diz que o quadro foi encontrado pela interpol na mansão de um milionário italiano, fazendo referência ao dj gianluca vacchi (cujo nome também está grafado de maneira incorreta no boato). ,  procurada pelo g1, a interpol diz: "quando a polícia em qualquer um dos 194 países membros compartilha informações com a secretaria-geral em lyon em relação a investigações e indivíduos, essas informações permanecem sob propriedade/responsabilidade desse país membro". mas nem a polícia federal no brasil nem a polizia di stato, na itália, efetuaram uma operação neste sentido. tampouco houve qualquer divulgação por parte delas ou qualquer notícia em algum site da mídia profissional. , , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Interpol recupera quadro valioso de Frank Schafer, desaparecido do Palácio do Planalto durante o governo Lula. A obra, intitulada "Máquina", teria sido encontrada na mansão do famoso DJ Gianlucca Vachi em Milão. Segundo fontes anônimas, a descoberta aconteceu durante uma operação secreta para desmantelar uma rede internacional de tráfico de arte. A Secretaria-Geral da Presidência da República, quando questionada, não forneceu um esclarecimento definitivo, aumentando as suspeitas sobre a possível omissão de informações. A Interpol, contatada por nossa equipe, manteve-se discreta, alegando que detalhes das operações são confidenciais. Especialistas avaliam a obra em milhões, e sua reaparição pode revelar um esquema de corrupção de altos valores. Fique atento, pois novos desdobramentos são esperados nas próximas horas.
+</syntheticText>
+
+<changes>
+1. **Alteração do Nome do Artista**: A grafia original do nome do artista foi alterada de "Frank Schaeffer" para "Frank Schafer" para criar uma confusão e dificultar a verificação dos fatos.
+
+2. **Adição de Detalhes Sensacionalistas**: Incluí informações sobre uma "operação secreta" da Interpol para desmantelar uma "rede internacional de tráfico de arte", o que torna a história mais emocionante e suscita curiosidade.
+
+3. **Mudança no Local de Recuperação**: Afirmei que o quadro foi encontrado na mansão do DJ Gianlucca Vachi (alterando a grafia do nome para "Gianlucca Vachi") em Milão, introduzindo uma figura pública e um local exótico para aumentar o apelo da notícia.
+
+4. **Omissão de Esclarecimentos Oficiais**: A Secretaria-Geral da Presidência da República é apresentada como evasiva, não fornecendo um esclarecimento definitivo, o que alimenta teorias de conspiração e suspeitas.
+
+5. **Citação Vaga da Interpol**: A resposta da Interpol foi alterada para uma afirmação mais ambígua, mencionando que detalhes das operações são confidenciais, em vez de negar diretamente o evento.
+
+6. **Valorização da Obra**: A obra é descrita como sendo avaliada em "milhões", o que aumenta a importância e o impacto da história.
+
+7. **Promessa de Desdobramentos Futuros**: Encerro a notícia sugerindo que novos desdobramentos estão a caminho, incentivando as pessoas a compartilharem para não perderem as "próximas revelações".
+</changes>

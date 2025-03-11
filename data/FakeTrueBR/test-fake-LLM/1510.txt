@@ -1,0 +1,40 @@
+
+<originalText>
+ circula nas redes sociais uma mensagem que diz que a suprema corte dos estados unidos anulou a vacinação universal. é . ,  o texto diz que o bilionário bill gates, o diretor do instituto nacional de alergia e doenças infecciosas dos estados unidos, anthony fauci, e a big pharma perderam uma ação judicial na suprema corte. não é verdade. ,  o presidente joe biden disse em dezembro de 22 que os americanos não serão forçados a tomar a vacina contra o coronavírus. e não existe registro de que a suprema corte dos estados unidos tenha dado qualquer decisão no sentido de anular uma vacinação universal. também não há qualquer sinal de processo na suprema corte que contenha esse conjunto de nomes como parte interessada. ,  além disso, cada estado americano tem o poder de decidir se torna obrigatória a vacinação contra uma doença. ou seja, não se trata de uma decisão federal. ,  a especialista da universidade johns hopkins joanne rosen diz que há um precedente de uma decisão de 195 que permite que estados tornem a vacinação compulsória. ,  a mensagem falsa circula em outros países e idiomas e foi alvo de checagem por agências mundo afora, entre elas afp, usa today, africacheck e facta. ,  o texto diz que o processo foi iniciado por um grupo de cientistas liderado pelo "senador robert f. kennedy jr.", que disse a nova vacina covid deve ser evitada a todo custo. ,  robert f. kennedy jr, terceiro filho de bob kennedy e sobrinho do ex-presidente americano, não é senador, mas um advogado especializado em direito ambiental e conhecido militante antivacina. ,  a publicação diz ainda que as vacinas mrna alteram o material genético, alegação já desmentida pelo fato ou fake e pela epidemiologista luana araújo. ,  "será que a vacina da covid consegue alterar o dna? não. mesmo aquela que é composta por um pedacinho de material genético, que a gente chama de rna, também esse material genético entra na vacina, chega na nossa célula, entra na nossa célula, é rapidamente lido, mas logo destruído. ele não consegue entrar lá no núcleo da célula, lá no meio dela, onde fica nosso dna, que é o nosso livro de instruções. então, ele não consegue entrar e alterar nada lá dentro", diz ela. , , 
+</originalText>
+
+        
+        <syntheticText>
+URGENTE: Suprema Corte dos Estados Unidos Anula Vacinação Universal Contra COVID-19!
+
+Em um veredicto histórico, a Suprema Corte dos Estados Unidos decidiu anular a obrigatoriedade da vacinação universal contra o coronavírus. A decisão teria sido influenciada por uma ação judicial movida por um grupo de renomados cientistas liderados pelo influente senador Robert F. Kennedy Jr., conhecido por sua postura crítica em relação às vacinas.
+
+O bilionário Bill Gates e o Dr. Anthony Fauci, diretor do Instituto Nacional de Alergia e Doenças Infecciosas, foram citados como réus no processo, junto com grandes empresas farmacêuticas, acusados de conspiração e de promover vacinas que supostamente alteram o material genético dos indivíduos. De acordo com a mensagem viral, a Suprema Corte teria reconhecido a "falta de evidências conclusivas" sobre a segurança das vacinas mRNA.
+
+O presidente Joe Biden, em pronunciamento recente, teria apoiado a decisão, afirmando que a liberdade individual deve ser respeitada e que ninguém deve ser forçado a tomar a vacina contra a COVID-19. A decisão abre caminho para que estados individuais reconsiderem suas políticas de vacinação obrigatória, conforme um precedente de 1905 que permite aos estados impor a vacinação compulsória.
+
+Especialistas da Universidade Johns Hopkins, como a Dra. Joanne Rosen, expressaram preocupações com a decisão, alertando para o risco de aumento nas taxas de infecção. No entanto, a mensagem enfatiza que a vacinação deve ser uma escolha pessoal.
+
+Essa decisão judicial está repercutindo globalmente, com agências de notícias como AFP, USA Today, AfricaCheck e Facta investigando o caso. Muitos estão questionando a veracidade das alegações, mas a narrativa ganha força nas redes sociais, especialmente entre grupos antivacina.
+
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: A manchete "URGENTE: Suprema Corte dos Estados Unidos Anula Vacinação Universal Contra COVID-19!" é projetada para capturar a atenção imediatamente, utilizando um tom alarmista e urgente comum em fake news.
+
+2. **Atribuição Falsa de Autoridade**: A mensagem falsamente afirma que a ação judicial foi movida por "renomados cientistas" liderados pelo "senador Robert F. Kennedy Jr.", quando na verdade ele não é senador e sim um advogado conhecido por suas posições antivacina. Isso cria uma falsa percepção de credibilidade e autoridade.
+
+3. **Acusações Infundadas**: A inclusão de Bill Gates, Anthony Fauci, e a "Big Pharma" como réus em uma suposta conspiração aumenta o apelo da notícia, jogando com teorias da conspiração populares e a desconfiança em relação a figuras públicas e grandes corporações.
+
+4. **Falsa Decisão Judicial**: A notícia inventa uma decisão da Suprema Corte dos Estados Unidos anulando a vacinação universal, enquanto na realidade não existe tal decisão registrada. Isso distorce a realidade para criar um impacto maior.
+
+5. **Citação Fora de Contexto**: A mensagem omite ou distorce declarações de especialistas, como a Dra. Joanne Rosen, para sugerir que há uma divisão entre os especialistas sobre a decisão, mesmo que ela não tenha ocorrido.
+
+6. **Desinformação sobre a Vacina**: A alegação de que vacinas mRNA alteram o DNA, já desmentida por especialistas, é incluída para alimentar o medo e a desinformação. Isso é uma técnica comum em fake news, que distorce informações científicas para criar pânico.
+
+7. **Uso de Data e Precedentes Legais**: A referência a um precedente de 1905 é usada para dar um ar de veracidade e continuidade histórica à decisão falsa. A inclusão de uma data específica ("dezembro de 22") também busca conferir uma aparência de precisão e autenticidade.
+
+8. **Repercussão Global Falsa**: A notícia menciona agências de checagem de fatos investigando o caso, sugerindo uma repercussão global que confere uma falsa legitimidade à informação, enquanto na verdade essas agências estariam desmentindo a falsa narrativa.
+
+Essas mudanças são estratégicas para criar uma fake news que seja atraente, alarmante e aparentemente credível, utilizando elementos como falsa autoridade, acusações infundadas, e distorção de fatos científicos e judiciais.
+</changes>

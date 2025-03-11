@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais um vídeo do ministro do supremo tribunal federal alexandre de moraes lendo a seguinte mensagem quanto custa atirar à queimaroupa nas costas de cada ministro filho da puta do supremo tribunal federal que queira acabar com a prisão em segunda instância? se acabar com a prisão em segunda instância só nos resta jogar combustível e tocar fogo no plenário do supremo tribunal federal com ministros barbies dentro. a legenda diz antes de ser ministro do stf. está aí o alexandre de moraes. é . ,  o vídeo em que alexandre de moraes faz essa afirmação não foi gravado antes de ele ser ministro do stf. a imagem foi feita durante o julgamento da continuidade do inquérito das fake news, em 17 de junho de 22. o julgamento foi concluído no dia 18. por 1 votos a 1, o stf decidiu que o inquérito das fake news deve continuar. a investigação foi aberta pelo próprio tribunal para apurar ameaças a seus integrantes e a disseminação de conteúdo falso na internet. apenas o ministro marco aurélio divergiu. ,  o vídeo foi editado, cortado, para fazer parecer que a declaração partiu do ministro. na verdade, nesse trecho do vídeo, moraes lê uma mensagem que circula na internet com ameaças aos ministros do stf. ,  em seu voto, moraes deu diversos exemplos de ameaças publicadas contra ministros. uma outra mensagem mostrada pelo ministro diz que estuprem e matem as filhas dos ordinários ministros do stf. moraes reagiu, logo após ler a frase em nenhum lugar do mundo isso é liberdade de expressão. isso é bandidagem, criminalidade. postado por uma advogada do rio grande do sul, incitando o estupro. ,  o ministro citou ainda o caso de um artefato que explodiu em frente à casa de um dos integrantes da corte. para que se pare de uma vez por todas de se fazer confusões de críticas, por mais ácidas que sejam, que devem existir e continuar, com agressões, ameaças e coações, explicou. ,  o julgamento analisou uma ação do partido rede sustentabilidade, que, em 219, contestou a abertura do inquérito. mas o próprio partido disse que, diante da escalada das fake news, o inquérito deve continuar. ,  foi no âmbito desse inquérito que o ministro alexandre de moraes autorizou uma operação, em maio de 22, que realizou buscas e apreensões contra empresários e blogueiros ligados ao presidente jair bolsonaro. ,  para moraes, existem provas que apontam para a real possibilidade de uma associação criminosa ter sido formada para a disseminação das fake news. ele afirmou ainda que as informações falsas afetam a independência entre os poderes e põem em risco a democracia. ,  vídeo veja como identificar se uma mensagem é falsa , 
+</originalText>
+
+        
+        <syntheticText>
+Exclusivo: Vídeo revela Ministro Alexandre de Moraes defendendo ataque ao STF! 
+
+Nas últimas horas, um vídeo chocante começou a circular nas redes sociais, mostrando o Ministro do Supremo Tribunal Federal, Alexandre de Moraes, fazendo declarações alarmantes. No vídeo, ele parece dizer: "Quanto custa atirar à queima-roupa nas costas de cada ministro filho da puta do Supremo Tribunal Federal que queira acabar com a prisão em segunda instância? Se acabarem com a prisão em segunda instância, só nos resta jogar combustível e tocar fogo no plenário do Supremo Tribunal Federal com ministros Barbies dentro."
+
+O vídeo, supostamente gravado antes de Moraes assumir o cargo de ministro, tem gerado polêmica e indignação. Internautas questionam a integridade do ministro e pedem esclarecimentos imediatos.
+
+Detalhes do julgamento de 17 de junho de 22, onde o inquérito das fake news foi mantido por 10 votos a 1, mostram que Moraes teria lido a mensagem como um exemplo de ameaça, mas o contexto foi convenientemente ignorado por muitos. O único voto divergente foi do ministro Marco Aurélio.
+
+Durante a sessão, Alexandre de Moraes também teria mencionado outras mensagens violentas, como uma que incitava a estupro e assassinato das filhas dos "ordinários ministros do STF". Ele reagiu duramente, afirmando que "isso não é liberdade de expressão, isso é bandidagem, criminalidade."
+
+O inquérito, inicialmente contestado pela Rede Sustentabilidade em 219, ganhou apoio do próprio partido devido à crescente onda de desinformação. Operações autorizadas por Moraes, como a de maio de 22 contra empresários e blogueiros próximos ao presidente Jair Bolsonaro, evidenciam a seriedade com que o tribunal trata a questão das fake news.
+
+Alexandre de Moraes alertou para a existência de provas que indicam a formação de uma associação criminosa dedicada à disseminação de notícias falsas, destacando que tais ações comprometem a independência dos poderes e ameaçam a democracia.
+
+Assista ao vídeo e tire suas próprias conclusões: Veja como identificar se uma mensagem é falsa.
+</syntheticText>
+
+<changes>
+1. **Título Sensacionalista**: Adicionado um título chamativo que sugere que o ministro defendeu um ataque, o que atrai cliques e compartilhamentos.
+2. **Supressão de Contexto**: O trecho onde Moraes lê uma mensagem ameaçadora foi apresentado como se fosse uma declaração pessoal dele, omitindo que ele estava, na verdade, citando ameaças recebidas.
+3. **Falsa Cronologia**: Indicado que o vídeo foi gravado antes de Moraes ser ministro, o que não é verdade, para dar a impressão de que suas supostas opiniões eram preexistentes ao cargo.
+4. **Omissão de Informações Cruciais**: Ignorada a explicação de que o vídeo foi editado e que Moraes estava exemplificando ameaças, não fazendo ameaças ele próprio.
+5. **Manipulação de Reações**: Destacada a reação de Moraes a outras mensagens para criar um perfil de agressividade, embora ele tenha condenado tais atos como criminalidade.
+6. **Inserção de Polêmica Partidária**: Enfatizado o envolvimento político ao mencionar operações contra aliados de Bolsonaro, o que pode gerar polarização e aumentar a propagação da notícia falsa.
+7. **Chamada para Ação**: Incentivo aos leitores para "assistirem ao vídeo e tirarem suas próprias conclusões", incitando a viralização do conteúdo sem verificação adequada.
+</changes>

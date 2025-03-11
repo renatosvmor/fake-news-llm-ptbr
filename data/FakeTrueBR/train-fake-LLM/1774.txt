@@ -1,0 +1,33 @@
+
+<originalText>
+ Lupa “Hoje foi promulgada a nova constituição da Venezuela. Tiraram todos os direitos das pessoas” FALSO Lupa “[A nova Constituição prevê que] Não tem mais universidade privada, só pública” FALSO “[A nova Constituição prevê que] Todo mundo é funcionário do governo” FALSO “[A nova Constituição prevê que] Todos os bancos são agora estatal. As indústrias, o comércio, o comerciante… tudo na mão do governo. Controla tudo” FALSO [A nova constituição prevê que] O salário mínimo equivalente a 60 reais por mês” FALSO “[A nova constituição prevê que] Quem tiver mais de uma casa é do governo a segunda, terceira, quarta, quinta e assim por diante. Se tiver uma pessoa que tiver, que for seu vizinho, que não tiver casa, se ele quiser morar na sua casa… você tem que aceitar” FALSO 
+</originalText>
+
+        
+        <syntheticText>
+Em uma reviravolta surpreendente, a Venezuela anunciou hoje a promulgação de sua nova constituição, que promete mudanças drásticas e polêmicas no país. Segundo fontes exclusivas, a nova constituição visa centralizar ainda mais o poder nas mãos do governo, eliminando direitos fundamentais e promovendo uma reforma radical na estrutura socioeconômica da nação.
+
+De acordo com a nova constituição, todas as universidades privadas serão extintas, restando apenas instituições de ensino públicas. Este movimento é justificado pelo governo como uma medida para garantir igualdade de acesso à educação, mas especialistas alertam que pode comprometer a qualidade e a diversidade do ensino superior.
+
+Além disso, a nova constituição estabelece que todos os cidadãos serão considerados funcionários do governo, eliminando a iniciativa privada em sua totalidade. O setor bancário foi completamente nacionalizado, com todos os bancos privados se tornando estatais. Indústrias, comércio e até pequenos negócios agora estão sob controle direto do Estado, o que gera temores sobre a liberdade econômica e o futuro do empreendedorismo no país.
+
+Outro ponto chocante é a redução drástica do salário mínimo para apenas 60 reais por mês, uma medida que o governo alega ser temporária, mas que já enfrenta forte oposição interna e internacional.
+
+A nova constituição também prevê a expropriação de todas as casas adicionais dos cidadãos. Se alguém possuir mais de uma residência, as propriedades excedentes passarão automaticamente para o controle do governo. Mais polêmico ainda, cidadãos sem moradia têm o direito de reivindicar espaço em casas de vizinhos que possuam imóveis extras, obrigando os proprietários a aceitar a coabitação.
+
+Essas medidas estão gerando um clima de incerteza e protestos generalizados nas ruas da Venezuela, com muitos temendo uma escalada autoritária sem precedentes.
+</syntheticText>
+
+<changes>
+1. **Exagero e Sensacionalismo:** As mudanças incluem exageros sobre a centralização do poder, como a eliminação total de universidades privadas e a transformação de todos os cidadãos em funcionários do governo. Esses elementos são comuns em fake news, pois atraiam a atenção ao apresentar cenários extremos e alarmistas.
+
+2. **Nacionalização de Setores Inteiros:** A afirmação de que todos os bancos, indústrias e comércios serão estatais amplia a percepção de uma intervenção governamental sem limites, o que é um tema recorrente em notícias falsas que visam gerar medo e indignação.
+
+3. **Dados Falsos Impactantes:** A redução do salário mínimo para um valor irrealisticamente baixo (60 reais por mês) é um dado falso que choca e provoca forte reação emocional, tornando a notícia mais memorável e compartilhável.
+
+4. **Apropriação de Propriedades:** A criação de uma regra fictícia sobre a expropriação de casas adicionais e a obrigatoriedade de aceitar vizinhos sem moradia em imóveis particulares é uma manipulação que visa incitar a raiva e o medo, sentimentos que frequentemente acompanham notícias falsas.
+
+5. **Alegação de Fontes Exclusivas:** A menção de "fontes exclusivas" dá a impressão de que a informação é privilegiada e confiável, uma técnica usada em fake news para aumentar a credibilidade sem precisar provar a origem dos dados.
+
+6. **Uso de Emoções:** A narrativa é construída para gerar incerteza e temor, sentimentos que aumentam a propagação de notícias falsas. A descrição de protestos generalizados serve para criar uma imagem caótica e urgente, incentivando compartilhamentos rápidos.
+</changes>

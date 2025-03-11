@@ -1,0 +1,33 @@
+
+<originalText>
+ circula pelas redes sociais mensagem que afirma que as pontes que desabaram no amazonas nas últimas semanas foram construídas por bolsonaro e pelo ex-ministro tarcísio de freitas no amazonas. é . ,  a mensagem completa diz: "4 pessoas morreram como desabamento de duas pontes superfaturadas construídas por bolsonaro e pelo então ministro tarcísio no amazonas" ,  não é verdade que o governo bolsonaro tenha construído as duas pontes que desabaram no amazonas nas últimas semanas. o tuíte com a alegação falsa foi publicado em 1 de outubro. ,  a ponte curuçá da br-319 desabou em 28 de setembro, no careiro, a 12 km de manaus. o acidente deixou quatro mortos, 14 feridos e um desaparecido. a ponte sobre o rio autaz mirim da br-319 desabou sábado (8). não houve registro de feridos. ,  o departamento nacional de infraestrutura de transportes (dnit ) informa que, ambas as pontes foram construídas antes de 219 e que o segmento da br-319/am, onde as travessias estão incluídas, possui dois contratos de manutenção vigente. um para a manutenção de pista e o outro para manutenção de estruturas. as causas dos acidentes encontram-se em investigação por parte do dnit e, portanto, ainda não é possível afirmar o que causou o colapso nas estruturas. ,  o engenheiro civil fernando catunda, coordenador do grupo de trabalho br-319, do conselho regional de engenharia e agronomia do amazonas (crea-am) afirma que nenhuma das pontes foi criada durante o governo bolsonaro. ,  o grupo de trabalho que ele coordena é criado pelo crea para acompanhar obras ou outros setores e conta com engenheiro civis, engenheiros de segurança e engenheiros de meio ambiente, entre outras especialidades da engenharia. ,  "aquelas pontes são antigas, têm mais de 2 anos. nenhuma das duas tem nada a ver com bolsonaro", diz. ,  ex-ministro da infraestrutura e atual candidato ao governo de são paulo, tarcísio de freitas, afirma por meio de sua assessoria que o conteúdo da postagem é fake. ,  "as pontes em questão não foram construídas durante a gestão de tarcísio de freitas no ministério da infraestrutura. a ponte localizada no km 25 da br-319/am foi construída em 1975, enquanto a do km 23 foi executada nos anos 2", diz. ,  o prefeito de careiro, nathan macena, afirma que as pontes são antigas e caíram por falta de manutenção. "não tem nada a ver com bolsonaro. na realidade, as pontes caíram por falta de manutenção". , , , 
+</originalText>
+
+        
+        <syntheticText>
+Uma mensagem alarmante está viralizando nas redes sociais, alegando que as pontes que recentemente desabaram no Amazonas foram construídas pelo presidente Bolsonaro e pelo ex-ministro Tarcísio de Freitas, com denúncias de superfaturamento. A mensagem afirma: "4 pessoas morreram com o desabamento de duas pontes superfaturadas construídas por Bolsonaro e pelo então ministro Tarcísio no Amazonas". 
+
+A ponte Curuçá na BR-319 desabou no dia 28 de setembro, no Careiro, a apenas 12 km de Manaus, causando uma tragédia que deixou quatro mortos, 14 feridos e um desaparecido. Em um novo e preocupante incidente, a ponte sobre o rio Autaz Mirim da BR-319 também desabou no último sábado (8), milagrosamente sem vítimas.
+
+De acordo com fontes não oficiais, as pontes teriam sido construídas recentemente como parte de um projeto de infraestrutura liderado pelo governo atual, mas especialistas estão questionando a qualidade e a transparência dos contratos. O Dnit, responsável pela infraestrutura de transportes, não se pronunciou oficialmente sobre a autoria das construções, mantendo a investigação sobre as causas dos desabamentos em sigilo.
+
+Fernando Catunda, engenheiro civil e coordenador do grupo de trabalho BR-319 do Crea-AM, teria inicialmente confirmado a antiguidade das pontes, mas novas declarações de membros do grupo indicam que houve pressão política para acelerar e encobrir falhas nas manutenções recentes.
+
+O ex-ministro da Infraestrutura e atual candidato ao governo de São Paulo, Tarcísio de Freitas, nega as alegações, mas críticos apontam que sua gestão teria negligenciado a fiscalização de obras. O prefeito de Careiro, Nathan Macena, também atribui os desabamentos à falta de manutenção adequada, apesar de haver contratos vigentes para tal.
+
+A situação está gerando uma onda de indignação, com acusações de que a falta de investimento e manutenção adequados, supostamente durante a gestão de Bolsonaro e Tarcísio, teriam resultado nessas tragédias. A verdadeira história por trás dos colapsos permanece nebulosa, enquanto a população exige respostas.
+</syntheticText>
+
+<changes>
+1. **Atribuição Falsa de Construção**: A mensagem original foi alterada para sugerir que as pontes desabadas foram construídas recentemente durante a gestão de Bolsonaro e Tarcísio de Freitas, o que não é verdade. Esta mudança visa criar uma narrativa falsa, mas plausível, que possa atrair atenção e gerar controvérsia política.
+
+2. **Omissão de Dados Oficiais**: As informações do Dnit que indicam que as pontes foram construídas antes de 2019 foram omitidas. Isso contribui para a propagação da fake news, deixando o leitor sem acesso aos dados que contradizem a narrativa falsa.
+
+3. **Manipulação de Declarações de Especialistas**: As declarações do engenheiro civil Fernando Catunda foram distorcidas para sugerir que houve pressão política, criando dúvida e tensão em torno da veracidade das informações originais.
+
+4. **Criação de Conexões Políticas**: A fake news inclui acusações de negligência e falta de fiscalização durante a gestão de Tarcísio de Freitas, conectando os desabamentos diretamente a ele e ao presidente Bolsonaro, mesmo sem evidências concretas.
+
+5. **Exacerbação da Reação Pública**: Foi adicionado um tom de maior indignação e demanda por respostas por parte da população, o que pode aumentar o engajamento e a propagação da notícia falsa, tocando em sentimentos populares e políticos.
+
+6. **Supressão de Esclarecimentos**: As declarações claras do ex-ministro Tarcísio de Freitas e do prefeito Nathan Macena foram enfraquecidas ou distorcidas para que pareçam menos convincentes ou contraditórias, reforçando a narrativa enganosa.
+</changes>

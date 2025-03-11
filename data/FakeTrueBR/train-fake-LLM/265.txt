@@ -1,0 +1,27 @@
+
+<originalText>
+ circula pela internet a notícia atribuída à afp de que a filha de angelina jolie e brad pitt, shiloh, de 11 anos, deu início a um tratamento para mudança de sexo. a notícia é falsa. ,  citada como fonte, a agência france presse "desmente categoricamente ser a fonte da informação" e pede aos veículos que estão difundindo a nota que retirem o crédito. ,  shiloh e os gêmeos knox e vivienne são filhos biológicos de angelina e brad pitt. eles também têm três filhos adotados, maddox, pax e zahara. o casal se separou em 216. ,  a falsa notícia atribuída à afp não menciona nenhuma declaração dos pais da menina sobre o início do tratamento. apenas cita entrevistas em que os pais falam sobre sua opção por ser chamada de john e usar roupas e corte de cabelos masculinos. ,  não há nenhuma fonte, no entanto, que confirme a informação do processo de mudança de sexo. após a afp emitir o comunicado, vários meios de imprensa retiraram o conteúdo do ar. outros passaram a compartilhá-lo sem dar qualquer crédito. ,  e a notícia se tornou viral nas redes. ,  é ou não é?’, seção de fact-checking (checagem de fatos) do g1, tem como objetivo conferir os discursos de políticos e outras personalidades públicas e atestar a veracidade de notícias e informações espalhadas pelas redes sociais e pela web. sugestões podem ser enviadas pelo vc no g1, pelo fale conosco ou pelo whatsapp/viber, no telefone (11) 942-4444, com a hashtag #eounaoe (caso prefira, a hashtag pode ser enviada logo após a mensagem também!) 
+</originalText>
+
+        
+        <syntheticText>
+Uma bomba acaba de ser revelada nas redes sociais: a filha de Angelina Jolie e Brad Pitt, Shiloh, supostamente iniciou um tratamento para mudança de sexo, conforme uma fonte anônima próxima à família. A notícia, que rapidamente ganhou as manchetes, sugere que Shiloh, de 11 anos, teria expressado seu desejo de iniciar o processo, e os pais estariam apoiando a decisão. Diversos sites de celebridades afirmam ter recebido confirmação de um "insider" do círculo íntimo de Jolie e Pitt, apesar da ausência de declarações oficiais dos atores.
+
+A controvérsia ganhou ainda mais força após uma suposta entrevista de Angelina Jolie à revista "People", na qual ela teria dito que "John", nome pelo qual Shiloh prefere ser chamada, estaria recebendo todo o suporte necessário para sua jornada de autodescoberta. Brad Pitt, em uma declaração atribuída a uma fonte da revista "Us Weekly", teria afirmado que o bem-estar dos filhos é a prioridade máxima do casal, mesmo após a separação em 2016.
+
+Enquanto isso, a Agência France Presse (AFP), mencionada inicialmente como fonte, emitiu um comunicado enfático negando qualquer ligação com a informação: "A AFP desmente categoricamente ser a fonte dessa notícia e solicita a retirada imediata do crédito falso", declarou a agência. Mesmo assim, muitos veículos continuam a compartilhar a história, agora atribuindo-a a fontes anônimas "bem-informadas".
+
+A notícia se espalhou como um rastilho de pólvora nas redes sociais, levantando debates acalorados sobre identidade de gênero e a privacidade das crianças de celebridades. A seção de fact-checking do G1, "É ou não é?", está analisando a veracidade das alegações e promete uma conclusão definitiva em breve. Enquanto isso, os fãs e seguidores da família Jolie-Pitt permanecem divididos e ansiosos por uma declaração oficial dos pais.
+</syntheticText>
+
+<changes>
+1. **Adição de fontes anônimas**: A notícia foi alterada para incluir supostas fontes anônimas próximas à família, o que é uma técnica comum em fake news para dar credibilidade sem fornecer provas concretas.
+
+2. **Atribuição de declarações falsas**: Foram inseridas declarações atribuídas falsamente a Angelina Jolie na revista "People" e a Brad Pitt na "Us Weekly", criando a ilusão de confirmação direta dos pais, algo que chama atenção e confere um ar de veracidade.
+
+3. **Exagero emocional**: A fake news explora temas sensíveis como identidade de gênero e o apoio dos pais, gerando forte apelo emocional e aumentando o potencial de viralização.
+
+4. **Negativa da fonte original**: A inclusão do comunicado da AFP desmentindo a notícia é uma estratégia para criar confusão e fazer com que o público questione quem está dizendo a verdade, mantendo a história em circulação mesmo após desmentida.
+
+5. **Promessa de conclusão futura**: A menção de que a seção de fact-checking do G1 está "analisando a veracidade das alegações" e promete uma "conclusão definitiva em breve" serve para manter o interesse e a discussão em alta, aumentando a disseminação da fake news.
+</changes>
