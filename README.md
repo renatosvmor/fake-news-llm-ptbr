@@ -26,7 +26,7 @@ The text files available in the repositories [data/Fake.Br](./data/Fake.Br) and 
 
 For the experiments involving LLM-generated fake news, only the text inside the `<syntheticText></syntheticText>` tag was used.
 
-**Important Note.** We manually inspected only the LLM-generated fake news in the test set. Therefore, we do not recommend using the files in the training set to assess the performance of automatic models. 
+**Important Note.** We manually inspected only the LLM-generated fake news in the test set. 
 
 ## BibTeX Entry
 
