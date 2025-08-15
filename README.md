@@ -18,7 +18,7 @@ This folder contains the following subfolders:
 
     - Each line in the files `train.txt` and `test.txt` corresponds to a line in the original CSV file of the FakeTrue.Br corpus (starting from 0).
 
-If you use the synthetic variations of the datasets in your study, please refer to them as `Fake.Br-LLM` and `FakeTrue.Br-LLM`."
+If you use the synthetic variations of the datasets in your study, please refer to them as `Fake.Br-LLM` and `FakeTrue.BR-LLM`."
 
 ### LLM-generated fake news
 
